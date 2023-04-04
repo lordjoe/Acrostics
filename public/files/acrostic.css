@@ -1,0 +1,1054 @@
+@keyframes slideDown {
+    0% {
+        transform: translateY(0%)
+    }
+    90% {
+        transform: translateY(0%)
+    }
+    100% {
+        transform: translateY(100%)
+    }
+}
+
+@keyframes flyIn {
+    0% {
+        opacity: 0
+    }
+    100% {
+        opacity: 1
+    }
+}
+
+@keyframes flyOut {
+    0% {
+        opacity: 1
+    }
+    100% {
+        opacity: 0
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0
+    }
+    15% {
+        opacity: 0
+    }
+    100% {
+        opacity: 1
+    }
+}
+
+.flexContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    width: 100%
+}
+
+.expandToRow {
+    composes: flexContainer
+}
+
+@media (min-width: 444px) {
+    .expandToRow {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+        flex-wrap: nowrap
+    }
+}
+
+@media (max-width: 991.98px) {
+    .mobileColumn {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: nowrap
+    }
+}
+
+.visually-hidden {
+    clip: rect(0 0 0 0);
+    -webkit-clip-path: inset(50%);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px
+}
+
+@font-face {
+    font-family: "icomoon";
+    src: url("./fonts/icomoon/icomoon.woff2") format("woff2"), url("./fonts/icomoon/icomoon.woff") format("woff");
+    font-weight: normal;
+    font-style: normal
+}
+
+[class^=icon-], [class*=" icon-"] {
+    font-family: "icomoon";
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.icon-web_icons_print::before {
+    content: ""
+}
+
+.settings-modal-form {
+    font-size: 16px;
+    text-align: left;
+    width: 250px
+}
+
+.settings-modal-form input {
+    margin: 3px 10px 3px 3px;
+    outline: none
+}
+
+.settings-modal-form input:checked {
+    margin-right: -4px;
+    visibility: hidden
+}
+
+.settings-modal-form input:checked + span {
+    color: #3185ea
+}
+
+.settings-modal-form input:checked + span::before {
+    background-color: #3185ea;
+    border-radius: 50%;
+    color: #fff;
+    content: "•";
+    display: inline-block;
+    font-size: 13px;
+    line-height: 14px;
+    left: -9px;
+    position: relative;
+    height: 14px;
+    width: 14px;
+    text-align: center
+}
+
+.ie9 .settings-modal-form input:checked + span::before {
+    left: -13px
+}
+
+.settings-modal-form input:checked[type=checkbox] + span::before {
+    border-radius: 4px;
+    content: "✓"
+}
+
+.settings-modal-form input:disabled + span {
+    color: gray;
+    cursor: default
+}
+
+.settings-modal-form label {
+    cursor: pointer;
+    display: block;
+    padding: 2px 0
+}
+
+.settings-modal-form label span {
+    vertical-align: middle
+}
+
+.settings-modal-form .indented {
+    margin-left: 20px
+}
+
+.settings-modal-form__title {
+    font-weight: 700;
+    margin-bottom: 10px
+}
+
+.settings-modal-form__block {
+    margin-bottom: 15px
+}
+
+.container {
+    margin: 20px 0
+}
+
+.container.game-grid .answer {
+    padding: 15px
+}
+
+.container .answer-sleeve {
+    position: relative
+}
+
+.container .answer-sleeve .answer {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    display: none;
+    top: 0;
+    font: 300 22px "nyt-franklin";
+    line-height: 1.3;
+    background: rgba(255, 255, 255, .95)
+}
+
+.complete .container .answer-sleeve .answer {
+    display: block
+}
+
+.container .answer-sleeve .grid-answer {
+    margin-bottom: 16px
+}
+
+.container .answer-sleeve   {
+    text-align: right
+}
+
+.container  .work-info {
+    display: none;
+    text-align: right;
+    color: white;
+
+}
+
+.container .explanation {
+    color: gray
+}
+
+.ax-grid__wrap {
+    padding: 3px
+}
+
+.ax-grid {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    box-sizing: border-box;
+    width: 100%;
+    font-family: Arial;
+    font-size: 19px
+}
+
+.ax-grid:before {
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    border: 3.5px solid #000;
+    pointer-events: none
+}
+
+.ax-grid.fixed-size {
+    background: none;
+    border: 1px solid #888;
+    width: auto
+}
+
+.ax-grid.fixed-size:before {
+    display: none
+}
+
+.ax-grid__cell {
+    position: relative;
+    background: #fff;
+    cursor: pointer
+}
+
+.ax-grid__cell.black-square {
+    background: #000
+}
+
+.ax-grid__cell.active, .ax-grid__cell.hovered-over {
+    background: #fff099
+}
+
+.container.focused .ax-grid__cell.focused {
+    background: #a7d8ff
+}
+
+.container.focused .ax-grid__cell.active {
+    background: #ffda00
+}
+
+.fixed-size .ax-grid__cell {
+    width: 36px;
+    flex-grow: 0
+}
+
+.ax-grid__cell + .ax-grid__cell:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background: #888;
+    left: -0.5px
+}
+
+.ax-grid__row + .ax-grid__row .ax-grid__cell:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: #888;
+    top: -0.5px
+}
+
+.ax-grid__square {
+    display: block;
+    position: relative;
+    height: 0;
+    padding-bottom: 100%;
+    width: 100%;
+    text-align: center;
+    overflow: hidden
+}
+
+.checked .ax-grid__square::before {
+    content: "";
+    position: absolute;
+    background: #f23f00;
+    height: 2px;
+    top: 50%;
+    left: -50%;
+    width: 200%;
+    z-index: 1;
+    transform: rotate(-45deg) translate(0, -1px)
+}
+
+.modified .ax-grid__square::before, .confirmed .ax-grid__square::before {
+    display: none
+}
+
+.ax-grid__guess {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+    color: #000
+}
+
+.numbers-on .ax-grid__guess {
+    transform: translate(-50%, -25%)
+}
+
+.confirmed .ax-grid__guess {
+    color: #3185ea
+}
+
+.penciled .ax-grid__guess {
+    color: #959595
+}
+
+.ax-grid__number  {
+    display: none;
+    position: absolute;
+    top: 3%;
+    font-size: .55em
+}
+
+.ax-grid__clue-letter {
+    display: none;
+    position: absolute;
+    top: 3%;
+    color: #ffffff;
+    font-size: .55em
+}
+
+.numbers-on .ax-grid__number, .numbers-on .ax-grid__clue-letter {
+    display: block
+}
+
+.ax-grid__number {
+    left: 4%
+}
+
+.ax-grid__clue-letter {
+    right: 4%
+}
+
+.checked .ax-grid__clue-letter, .revealed .ax-grid__clue-letter, .modified .ax-grid__clue-letter, .ax-clue-bar .ax-grid__clue-letter {
+    display: none
+}
+
+.ax-grid__cheat-flag {
+    position: absolute;
+    right: -32%;
+    top: -32%;
+    width: 60%;
+    height: 60%;
+    transform: rotate(45deg)
+}
+
+.modified .ax-grid__cheat-flag {
+    background: rgba(0, 0, 0, 0)
+}
+
+.revealed .ax-grid__cheat-flag {
+    background: #f23f00
+}
+
+.revealed .ax-grid__cheat-flag::before {
+    position: absolute;
+    content: "•";
+    color: #fff;
+    position: absolute;
+    bottom: -25%;
+    left: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+    font-size: .8em
+}
+
+@media (max-width: 991.98px) {
+    .revealed .ax-grid__cheat-flag::before {
+        display: none
+    }
+}
+
+.clue-list .ax-grid, .clue-list .ax-grid__row, .clue-list .ax-grid__cell {
+    border: none
+}
+
+.clue-list .ax-grid__cell:before {
+    display: none
+}
+
+.clue-list .ax-grid {
+    margin-top: 5px
+}
+
+.clue-list .ax-grid__row {
+    display: block
+}
+
+.clue-list .ax-grid__row::before, .clue-list .ax-grid__row::after {
+    content: " ";
+    display: table
+}
+
+.clue-list .ax-grid__row::after {
+    clear: both
+}
+
+.clue-list .ax-grid__cell {
+    width: 28px;
+    margin-bottom: 20px;
+    float: left
+}
+
+.clue-list .ax-grid__cell::after {
+    content: "";
+    border-bottom: 1px solid #aaa;
+    position: absolute;
+    bottom: 0;
+    left: 7%;
+    right: 7%
+}
+
+.clue-list .ax-grid__square {
+    overflow: visible
+}
+
+.clue-list .ax-grid__square::before {
+    display: none
+}
+
+.clue-list .ax-grid__guess {
+    transform: translate(-50%, -40%)
+}
+
+.clue-list .checked:not(.modified):not(.confirmed) .ax-grid__guess {
+    color: #f23f00
+}
+
+.clue-list .confirmed .ax-grid__guess {
+    color: #0858aa
+}
+
+.clue-list .ax-grid__blank-number {
+    text-align: center;
+    font-size: .6em;
+    position: absolute;
+    top: 110%;
+    left: 0;
+    right: 0;
+    color: #666;
+    display: none
+}
+
+.numbers-on .clue-list .ax-grid__blank-number {
+    display: block
+}
+
+.clue-list {
+    display: none;
+    width: 100%;
+    overflow: hidden;
+    -moz-column-count: 3;
+    column-count: 3;
+    -moz-column-gap: 30px;
+    column-gap: 30px;
+    padding-left: 0
+}
+
+.clues-on .clue-list, .complete .clue-list {
+    display: inline-block
+}
+
+.clue-list .clue-letter, .clue-list .clue-text {
+    font-size: 16px;
+    white-space: normal
+}
+
+.clue-list .clue {
+    color: #000;
+    display: inline-block;
+    padding-bottom: 25px;
+    width: 100%
+}
+
+.clue-list .clue .clue-wrapper {
+    display: flex
+}
+
+.clue-list .clue .clue-wrapper .clue-letter {
+    font-weight: 700;
+    min-width: 20px
+}
+
+.clue-list .clue .clue-wrapper .clue-text {
+    color: #000
+}
+
+.ax-clue-bar {
+    transition: all 250ms ease-out;
+    box-sizing: border-box;
+    overflow-y: hidden
+}
+
+.ax-clue-bar .clue {
+    display: none
+}
+
+.ax-clue-bar .clue.selected {
+    display: block
+}
+
+.ax-clue-bar .clue-wrapper {
+    display: flex
+}
+
+.complete .ax-clue-bar {
+    height: 0;
+    margin: 0
+}
+
+.ax-clue-bar .clue-content {
+    flex-grow: 1;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis
+}
+
+.ax-clue-bar .clue-letter {
+    width: 30px;
+    text-align: center;
+    display: inline-block;
+    padding-right: 6px;
+    font-weight: 700
+}
+
+.ax-clue-bar .clue-text {
+    white-space: nowrap;
+    text-overflow: ellipsis
+}
+
+.ax-clue-bar ol {
+    margin-left: 0
+}
+
+.ax-clue-bar ol .clue {
+    box-sizing: border-box;
+    background-color: #dcefff;
+    font: 17px "nyt-franklin", helvetica, arial, sans-serif;
+    color: #000;
+    padding: 15px 10px
+}
+
+.ax-clue-bar ol .clue .clue-text {
+    font-weight: 500;
+    display: inline-block;
+    padding-bottom: 15px
+}
+
+.ax-clue-bar ol .clue .grid-number {
+    font-weight: 500
+}
+
+.numbers-on .ax-clue-bar ol .clue.selected {
+    list-style: inside upper-alpha
+}
+
+.author-title {
+    box-sizing: content-box;
+    height: 58px;
+    background-color: #e6e6e6;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+    padding-bottom: 20px;
+    overflow-y: hidden;
+    transition: all 250ms ease-out
+}
+
+.complete .author-title {
+    height: 0;
+    padding: 0px;
+    margin-bottom: 0px;
+    visibility: hidden
+}
+
+.author-title .answer-sleeve {
+    margin-top: 10px
+}
+
+.author-title .explanation {
+    color: #4d4d4d;
+    font: 13px "nyt-franklin", helvetica, arial, sans-serif
+}
+
+.acrostic-header {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center
+}
+
+.acrostic-header__left {
+    margin-right: 20px
+}
+
+.acrostic-header__right {
+    text-align: right
+}
+
+.acrostic-header__credits {
+    margin-top: 5px;
+    font-size: 14px;
+    line-height: 20px
+}
+
+.acrostic-header__credits em {
+    display: inline-block;
+    font-weight: 500
+}
+
+.acrostic-header__credits em::after {
+    margin-left: 8px;
+    margin-right: 8px;
+    content: "▪"
+}
+
+.acrostic-header__credits em:last-of-type::after {
+    content: ""
+}
+
+.acrostic-header__debug-links {
+    display: flex;
+    margin-top: 8px
+}
+
+.acrostic-header__debug-links a, .acrostic-header__debug-links button {
+    background: none;
+    border: none;
+    color: #3185ea;
+    cursor: pointer;
+    font: 14px "nyt-franklin", helvetica, arial, sans-serif;
+    margin-right: 10px;
+    padding: 0
+}
+
+.acrostic-header__print-button {
+    display: inline-block;
+    text-align: center;
+    border: 1px solid #ccc;
+    outline: none;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 11px 8px;
+    min-width: 220px;
+    border-radius: 3px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    color: #959595
+}
+
+.acrostic-header__print-button > i {
+    margin-right: 10px
+}
+
+.acrostic-header__print-button:hover {
+    cursor: pointer;
+    background-color: #ebebeb;
+    color: #000
+}
+
+.acrostic-subhead {
+    margin: 20px 0
+}
+
+.acrostic-subhead__note {
+    font-size: 14px;
+    font-style: italic;
+    color: #797987
+}
+
+.acrostic-tools {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+
+.acrostic-tools__section {
+    display: flex
+}
+
+.acrostic-tool {
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 18px;
+    line-height: 45px;
+    display: inline-block;
+    padding: 6px 13px 4px;
+    margin: 0;
+    color: #959595;
+    border: none;
+    outline: none;
+    -webkit-appearance: none
+}
+
+.acrostic-tool.active {
+    background-color: #fafafa;
+    color: #000
+}
+
+.acrostic-tool:hover {
+    background-color: #f4f4f4;
+    color: #000;
+    cursor: pointer
+}
+
+.acrostic-tool:disabled {
+    color: #ccc;
+    pointer-events: none
+}
+
+.acrostic-tool::after {
+    content: attr(data-action)
+}
+
+.acrostic-tool__timer .timer-count {
+    color: #000
+}
+
+.acrostic-tool__icon {
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 55px
+}
+
+.acrostic-tool__icon.acrostic-tool__settings {
+    background-image: url("./assets/settings-gear.svg")
+}
+
+.acrostic-tool__icon.acrostic-tool__pencil {
+    background-image: url("./assets/pencil-blue.svg")
+}
+
+.acrostic-tool__icon.acrostic-tool__pencil:active, .acrostic-tool__icon.acrostic-tool__pencil.pencil {
+    background-color: #3185ea;
+    background-image: url("./assets/pencil-white.svg")
+}
+
+.acrostic-tools .toolbar-menu-wrapper {
+    position: relative;
+    min-width: 100px
+}
+
+.acrostic-tools .toolbar-menu-wrapper .acrostic-tool {
+    width: 100%
+}
+
+.acrostic-tools .toolbar-menu-wrapper .toolbar-menu {
+    position: absolute;
+    z-index: 5;
+    min-width: 100%;
+    margin: 0;
+    visibility: hidden;
+    list-style: none;
+    border: 0;
+    border-top: 1px solid #bfbfbf;
+    cursor: pointer
+}
+
+.acrostic-tools .toolbar-menu-wrapper .toolbar-menu.active {
+    visibility: visible
+}
+
+.acrostic-tools .toolbar-menu-wrapper li {
+    box-sizing: border-box;
+    background-color: #fafafa;
+    border: 1px solid #e6e6e6;
+    border-top: none;
+    display: table;
+    height: 45px;
+    color: #787886;
+    width: 100%;
+    white-space: nowrap
+}
+
+.acrostic-tools .toolbar-menu-wrapper li:hover {
+    background-color: #f4f4f4;
+    color: #000;
+    border-color: #e6e6e6
+}
+
+.acrostic-tools .toolbar-menu-wrapper li span {
+    display: table-cell;
+    cursor: pointer;
+    font: 15px "nyt-franklin", helvetica, arial, sans-serif;
+    text-align: left;
+    vertical-align: middle;
+    padding: 0 9px
+}
+
+.acrostic-tools.toolbar-complete .acrostic-tool.clear-menu::after {
+    content: "Reset"
+}
+
+.acrostic-tools.toolbar-complete .acrostic-tool__timer {
+    border: 0
+}
+
+.acrostic-tools.toolbar-complete .acrostic-tool__timer .pause-button {
+    visibility: hidden
+}
+
+.acrostic-tools.toolbar-complete .acrostic-tool__timer:hover .timer-count {
+    cursor: initial
+}
+
+.acrostic-tool__timer {
+    cursor: pointer;
+    transition: color 150ms ease
+}
+
+.acrostic-tool__timer .timer-count {
+    overflow: hidden;
+    text-align: center;
+    width: 105px
+}
+
+.acrostic-tool__timer .pause-button {
+    position: relative;
+    bottom: -1px;
+    display: inline-block;
+    width: 30px;
+    height: 16px;
+    background-color: #ff0;
+    padding: 0 10px;
+    background: url("./assets/timer-pause.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: .6;
+    transition: opacity 150ms ease
+}
+
+.acrostic-tool__timer:hover {
+    background: none
+}
+
+.acrostic-tool__timer:hover .pause-button {
+    opacity: 1
+}
+
+@media print {
+    @page {
+        size: landscape
+    }
+
+    .pz-header, .pz-ad-box, .pz-footer, .acrostic-header__right, .acrostic-header__debug-links, .pz-game-toolbar, .acrostic-subhead {
+        display: none
+    }
+
+    .ax-grid__square::before, .ax-grid__cheat-flag {
+        display: none
+    }
+
+    .ax-grid__cell.checked .ax-grid__guess {
+        color: rgba(0, 0, 0, 0) !important
+    }
+
+    .ax-grid__cell.confirmed .ax-grid__guess, .ax-grid__cell.modified .ax-grid__guess {
+        color: #000 !important
+    }
+
+    .ax-grid__cell.black-square .ax-grid__square {
+        box-shadow: inset 0 0 0 35px #000
+    }
+
+    body, #shell, #page, #main, #game-container {
+        border: none !important;
+        margin: 0 !important;
+        padding: 0 !important
+    }
+
+    #game-container .game-toolbar, #game-container .game-header, #game-container .container {
+        display: none
+    }
+
+    #game-container .game-grid {
+        display: none
+    }
+
+    .print-game-grid #game-container .game-grid {
+        display: block
+    }
+
+    #game-container .game-grid .guess {
+        font-family: Arial
+    }
+
+    #game-container .game-grid .active, #game-container .game-grid .focused {
+        color: #000
+    }
+
+    #game-container .game-grid .active .guess, #game-container .game-grid .focused .guess {
+        background-color: #fff
+    }
+
+    #game-container .game-grid .delimiter {
+        box-shadow: inset 0 0 0 100px #000
+    }
+
+    #game-container .clue-list {
+        display: block;
+        margin: 0 0 0 5px;
+        page-break-before: always
+    }
+
+    #game-container .clue-list .clue {
+        padding-bottom: 10px
+    }
+
+    #game-container .clue-list .clue .clue-content .clue-text {
+        font-size: 17px
+    }
+
+    #game-container .clue-list .clue .clue-content .ax-grid {
+        margin-top: 0
+    }
+
+    #game-container .clue-list .clue .clue-content .ax-grid td {
+        margin-bottom: 15px
+    }
+}
+
+#acrostic-wrap {
+    min-height: 100vw;
+    max-width: 100%;
+    overflow-x: auto
+}
+
+#acrostic-game {
+    margin-top: 0
+}
+
+#focus-trap {
+    background: none;
+    border: none;
+    box-shadow: none;
+    color: rgba(0, 0, 0, 0);
+    display: block;
+    letter-spacing: .5em;
+    outline: none;
+    padding: 0;
+    position: absolute;
+    text-align: center
+}
+
+.pz-desktop #focus-trap {
+    display: none
+}
+
+#game-container {
+    font: 10px nyt-franklin, Arial;
+    position: relative
+}
+
+.load-failure {
+    font-family: sans-serif;
+    padding: 40px;
+    text-align: center
+}
+
+.load-failure li {
+    margin-left: 44%;
+    text-align: left
+}
+
+.grid-toggle {
+    display: none
+}
+
+.grid-toggle .button-text::after {
+    content: " Answer"
+}
+
+.toolbar-complete .grid-toggle {
+    display: inline-block
+}
+
+.complete #show-grid-toggle .button-text::after {
+    content: " Grid"
+}
+
+.complete .guess {
+    background-color: rgba(0, 0, 0, 0) !important;
+    border-color: #fff !important;
+    color: #000 !important
+}
+
+#shell {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 7px 0;
+    width: calc(100% - 24px)
+}
+
+@media screen and (max-width: 1004px) {
+    .ax-grid {
+        font-size: 2vw
+    }
+
+    .fixed-size .ax-grid__cell {
+        width: 3.4vw
+    }
+}
+
+/*# sourceMappingURL=acrostic.129ad24186e2a7eea30e.css.map*/
