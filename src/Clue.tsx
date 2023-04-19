@@ -2,6 +2,9 @@ import Cell from "./Cell";
 import {Puzzle} from "./Puzzle";
 import ClueJSON from "./ClueJSON";
 import AnswerCell from "./AnswerCell";
+import {GameState} from "./GameState";
+import PersistentObject from "./PersistentObject";
+
 
 class Clue {
     get cells(): AnswerCell[] {
@@ -17,6 +20,7 @@ class Clue {
     answer: string;
     private _cells: AnswerCell[];
 
+    private gs: GameState = PersistentObject.getInstance().getGameState();
     parent: Puzzle;
 
     constructor(parent: Puzzle, letter: string, hint: string, answer: string, cells: number[]) {
@@ -25,14 +29,59 @@ class Clue {
         this.answer = answer;
         this.parent = parent;
         let items: AnswerCell[] = [];
-        for (let i = 0; i < cells.length; i++) {
-            items[i] = parent.getCell(cells[i]);
+           for (let i = 0; i < cells.length; i++) {
+            let index:number = cells[i];
+              items[i] = (parent.getCell(index) as AnswerCell);
+              this.gs.registerClueCell(index,this );
         }
         this._cells = items;
+           if(letter ==="A")
+               this.gs.theActiveClue = this;
     }
 
     public getCell(i: number): Cell {
         return this._cells[i];
+    }
+
+    public nextCell(index : number) : number
+    {
+        for (let i = 0; i < this._cells.length; i++) {
+            if(index === this._cells[i].index) {
+                if(i >= this._cells.length - 1)
+                    return index;
+                return this._cells[i + 1].index;
+            }
+        }
+        return index;
+    }
+
+    public prevCell(index : number) : number
+    {
+        for (let i = this._cells.length - 1; i >= 0; i--) {
+            if(index === this._cells[i].index) {
+                if(i === 0)
+                    return index;
+                return this._cells[i - 1].index;;
+            }
+        }
+        return index;
+    }
+
+
+    public isAllFilledIn() : boolean {
+        for (const cell of this._cells) {
+            if(!cell.isFilledIn())
+                return false;
+        }
+        return true;
+    }
+
+    public isCorrect() : boolean {
+        for (const cell of this._cells) {
+            if(!cell.isCorrect())
+                return false;
+        }
+        return true;
     }
 
     public isValid(): boolean {

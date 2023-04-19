@@ -1,11 +1,21 @@
 import React from "react";
 import AnswerCell from "./AnswerCell";
 
- function RenderClueCell(letter: string,l: AnswerCell,i: number) {
+ function RenderClueCell(letter: string,l: AnswerCell,i: number,active: boolean,focused: boolean) {
+
+     function  getClassNm(): string {
+         let activeString = "ax-grid__cell";
+         if (active)
+             activeString += " active";
+         if (focused)
+             activeString += " focused";
+
+         return activeString;
+     }
 
      let identifier: string  = " <!-- RenderClueCell.tsx -->";
     return (
-        <td className="ax-grid__cell active focused">
+        <td className={getClassNm()}>
               <div className="ax-grid__square">
                 <div className="axGrid__number">{i}</div>
                 <div className="axGrid__cheat-flag"></div>

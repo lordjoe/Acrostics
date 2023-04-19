@@ -66,7 +66,7 @@ function fromJSON(json: PuzzleJSON): Puzzle {
 
     for (let i = 0; i < srcStr.length; i++) {
         let cl: number = srcStr[i];
-        let acl: AnswerCell = ret.getCell(cl)
+        let acl: AnswerCell = (ret.getCell(cl) as AnswerCell)
         ret.addSourceCell(acl);
     }
      // let src: string = ret.getSourceString();
@@ -92,10 +92,10 @@ function fromJSON(json: PuzzleJSON): Puzzle {
 
 
 
-export function readDefaultData(): Puzzle {
-    console.log("Ready to read data");
+export function   readDefaultData(): Puzzle {
     let answer = JSON.parse(puzzlej);
     //   let answer: PuzzleJSON = readJSonData(path);
      var ret: Puzzle = fromJSON(answer);
+  //   alert("reading puzzle");
     return ret;
 }

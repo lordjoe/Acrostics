@@ -2,18 +2,16 @@ import React, {ReactNode} from 'react';
 import './App.css';
 import {Puzzle} from "./Puzzle";
 import PuzzleMenu from "./PuzzleMenu";
-import ClueShower from "./ClueShower";
-import CluesTableSection from "./CluesTableSection";
-import PuzzleGrid from "./PuzzleGrid";
-import AuthorTitleSection from "./AuthorTitleSection";
 
-import PuzzleToolBar from "./PuzzleToolBar";
 import {PuzzleHolder} from "./Holders";
 import GameModels from "./GameModels";
 import PuzzleGameField from "./PuzzleGameField";
 
+
 function PuzzleGameSection(props: PuzzleHolder) {
     let pzl: Puzzle = props.puzzle
+
+
 
     let inner: ReactNode[] = [];
 
@@ -26,7 +24,7 @@ function PuzzleGameSection(props: PuzzleHolder) {
     //   let identifier = " <!-- App.tsx -->";
     return (
         <div className="pz-section numbers-on clues-on" id="acrostic-game">
-            <div className="pz-row pz-game-title-bar xwd__hide-when-no-data">
+            <div className="pz-row2 pz-game-title-bar xwd__hide-when-no-data">
                 <div className="pz-module" id="portal-game-header">
                     <div className="acrostic-header">
                         <div className="acrostic-header__left"><h2><em

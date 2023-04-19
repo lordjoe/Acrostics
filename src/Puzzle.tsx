@@ -1,7 +1,8 @@
 import AnswerCell from "./AnswerCell";
 import Clue from "./Clue";
 import Cell from "./Cell";
-import {readDefaultData} from "./acrosticData";
+import answerCell from "./AnswerCell";
+
 
 
 
@@ -17,13 +18,11 @@ export function isLetter(s: string): boolean {
 }
 
 
-let thePuzzle : Puzzle | undefined;
 
-export function getPuzzle() : Puzzle {
-    if(thePuzzle === undefined)
-        thePuzzle = readDefaultData();
-    return thePuzzle;
-}
+
+
+
+
 
 export class Puzzle {
     answer: string;
@@ -31,34 +30,75 @@ export class Puzzle {
     book: string;
     letters: AnswerCell[];
     clues: Map<string,Clue>;
-    source: AnswerCell[];
+    source: number[];
 
     date: Date;
 
 
     focused: AnswerCell | undefined;
 
-
+     static instance: Puzzle | undefined = undefined;
     static  buildPuzzle() : Puzzle{
-        return new Puzzle();
+        if(Puzzle.instance)
+            return Puzzle.instance as Puzzle;
+        else {
+            Puzzle.instance = new Puzzle();
+        }
+        return Puzzle.instance as Puzzle;
     }
-    constructor() {
+    private constructor() {
         this.answer = '';
         this.author = '';
         this.book = '';
         this.date = new Date();
-        let lettersx: AnswerCell[] = [];
-        this.letters = lettersx;
+          this.letters = [];
         let cluesx = new Map<string,Clue>();
         this.clues = cluesx;
-        this.source = lettersx;
+        this.source = [];
     }
 
+
+    public nextLetterCell(current: AnswerCell) : AnswerCell | undefined
+    {
+        if(!current)
+            return undefined;
+        if(current.index >= this.letters.length - 1)
+            return undefined;
+        return this.letters[current.index + 1];
+    }
+
+    public prevLetterCell(current: AnswerCell) : AnswerCell | undefined
+    {
+        if(!current)
+            return undefined;
+        if(current.index <= 0)
+            return undefined;
+        return this.letters[current.index - 1];
+    }
+
+
+
+    public isAllFilledIn() : boolean {
+        for (const cell of this.letters) {
+            if(!cell.isFilledIn())
+                return false;
+        }
+        return true;
+    }
+
+    public isCorrect() : boolean {
+        for (const cell of this.letters) {
+            if(!cell.isCorrect())
+                return false;
+        }
+        return true;
+    }
 
     public setFocused(ans: AnswerCell | undefined  ) {
         if(this.focused === ans)
             return;
-        let oldFocus = this.focused;
+        // @ts-ignore
+ //       let oldFocus = this.focused;
         this.focused = ans;
     }
 
@@ -66,7 +106,8 @@ export class Puzzle {
        if(this.focused === undefined)
            return undefined;
         // @ts-ignore
-        for (const [_, cx] of this.clues.entries()){
+        // eslint-disable-next-line
+        for (const [clz, cx] of this.clues.entries()){
             let cl: Clue = cx as Clue;
             if(cl.hasCell(this.focused))
                 return cl;
@@ -99,7 +140,7 @@ export class Puzzle {
         for(let i: number = 0; i < answer.length; i++ ) {
             let c: string = answer.charAt(i).toUpperCase();
             if(c >= 'A' && c <= 'Z') {
-                ret.push(this.getCell(index++));
+                ret.push((this.getCell(index++) as AnswerCell));
                 lastIsLetter = true;
             }
             else {
@@ -123,6 +164,9 @@ export class Puzzle {
         return answer;
     }
 
+     fillProb: number = 0.0000000002;
+
+
     public setAnswer(answer: string) {
         this.answer = answer;
         let answerIndex: number = 1;
@@ -131,7 +175,7 @@ export class Puzzle {
             let x: string = answer.charAt(i);
             if (isLetter(x)) {
                 let cl: AnswerCell = new AnswerCell(answerIndex, x.toUpperCase());
-                if(Math.random() < 0.2)
+                if(Math.random() < this.fillProb)
                     cl.setGuess(x.toUpperCase());
                 items.push(cl);
                 // Fix later
@@ -144,23 +188,30 @@ export class Puzzle {
     }
 
 
-    public getCell(i: number): AnswerCell {
+    public getCell(i: number): AnswerCell | undefined {
+        if(i <= 0 || i >this.letters.length)
+            return undefined;
         return this.letters[i - 1];
     }
 
-    public getSource(): AnswerCell[] {
+    public getSource(): number[] {
         return this.source;
     }
 
     public addSourceCell(c: AnswerCell)  {
-        this.source.push(c);
+        for (var i = 0; i < this.source.length; i++) {
+            var cell: number = this.source[i];
+            if(cell  === c.index)
+                alert("bad added cell " + c.index);
+        }
+        this.source.push(c.index);
     }
 
     public getSourceString() : string {
         let ret: string = "";
         for (var i = 0; i < this.source.length; i++) {
-            var cell = this.source[i];
-            ret += this.getCell(cell.index).answer;
+            var cell : AnswerCell = (this.getCell(this.source[i]) as AnswerCell);
+            ret += (this.getCell(cell.index) as AnswerCell).getAnswer();
         }
         return ret;
 
@@ -174,9 +225,48 @@ export class Puzzle {
         let ret: string = "";
         for (var i = 0; i < cells.length; i++) {
             var cell = cells[i];
-            ret += this.getCell(cell.index).answer;
+            ret += (this.getCell(cell.index) as answerCell).getAnswer();
         }
         return ret;
     }
 
+    getRandomUnknownCell() : AnswerCell {
+        let ret: AnswerCell  = this.letters[0];
+        if(this.isAllFilledIn())
+            return ret;
+        while(!ret.isFilledIn()) {
+            ret = this.letters[Math.floor(Math.random() * this.letters.length)];
+        }
+        return ret;
+    }
+
+    getPreviousAuthorTitleIndex(as: number) : number {
+        let src: number[] = this.source;
+          for (let i = 1; i < src.length; i++) {
+            if(as ===  src[i]) {
+                 return src[i - 1];
+            }
+          }
+        return src[0];
+    }
+
+    getNextAuthorTitleIndex(as: number) : number {
+        let src: number[] = this.source;
+        let next = src[src.length - 1];
+        for (let i = 0; i < src.length - 1; i++) {
+            if(as ===  src[i] )
+                return src[i + 1];
+
+        }
+        return next;
+    }
+
+    getSourceCells() : AnswerCell[] {
+        let ret: AnswerCell[] = [];
+        let src: number[] = this.source;
+        for (let i = 0; i < src.length - 1; i++) {
+             ret.push((this.getCell(src[i]) as AnswerCell));
+         }
+        return ret;
+    }
 }

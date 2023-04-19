@@ -1,10 +1,13 @@
 import React, {ReactNode} from 'react';
-import {readDefaultData} from "./acrosticData";
 import {Puzzle} from "./Puzzle";
 import PuzzleGameSection from "./PuzzleGameSection";
+import PersistentObject from "./PersistentObject";
 
 function App() {
-    let pzl: Puzzle = readDefaultData();
+  //  const queryParameters = new URLSearchParams(window.location.search);
+ //   const name = queryParameters.get("puzzleName");
+  //  alert(" Puzzle Name = " + name )
+    let pzl: Puzzle = PersistentObject.getInstance().getPuzzle();
 
     let inner: ReactNode[] = [];
 
@@ -16,7 +19,6 @@ function App() {
         <div className="pz-content">
             {inner}
             <div id="portal-editorial-content"></div>
-
         </div>
     )
         ;

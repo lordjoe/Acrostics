@@ -48,7 +48,7 @@ function Scripts() {
             <script defer="defer" type="text/javascript" src=" files/7932.8cf0a2c1276563066873.js"></script>
             <script defer="defer" type="text/javascript" src=" files/7202.2f717f166218e3b8bd25.js"></script>
             <script defer="defer" type="text/javascript"
-                    src=" files/acrostic.daa58b16c66809ab5b35.js"></script>
+                    src=" files/acrostic.daa.js"></script>
 
             <script type="text/javascript">window.isHybridWebView = false</script>
             <script type="text/javascript">window.newsreaderAppPlatform = ""</script>

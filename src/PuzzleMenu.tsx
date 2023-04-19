@@ -1,13 +1,22 @@
 import {PuzzleHolder} from "./Holders";
 import {Puzzle} from "./Puzzle";
-import {getTimer, Timer} from "./Timer";
-import {getGameState} from "./GameState";
-import React from "react";
+
+
+import TimerDisplay from "./TimerDisplay";
+
+import RevealMenu from "./RevealMenu";
+import {ReactNode} from "react";
 
 function PuzzleMenu(this: any, props: PuzzleHolder) {
 
-//    let identifier: string  = " <!-- PuzzleMenu.tsx -->";
-     getGameState().addTimerComponent(this);
+
+    let inner: ReactNode[] = [];
+
+    let puzzle: Puzzle = props.puzzle;
+      inner.push(<RevealMenu puzzle={puzzle}/>);
+
+// eslint-disable-next-line
+    let startTime: number = 0;
 
     return (
         <div className="pz-game-toolbar xwd__hide-when-no-data">
@@ -22,7 +31,7 @@ function PuzzleMenu(this: any, props: PuzzleHolder) {
                         </div>
                         <div className="acrostic-tools__section" id="timer-container"><span
                             className="acrostic-tool acrostic-tool__timer" id="timer"><span
-                            className="timer-count">{getTimer().getFormattedTime()}</span><span className="pause-button"></span></span>
+                            className="timer-count">{ <TimerDisplay  />}</span><span className="pause-button"></span></span>
                         </div>
                         <div className="acrostic-tools__section">
                             <button className="acrostic-tool grid-toggle" id="show-grid-toggle"><span
@@ -38,16 +47,8 @@ function PuzzleMenu(this: any, props: PuzzleHolder) {
                                     </li>
                                 </ul>
                             </div>
-                            <div className="toolbar-menu-wrapper">
-                                <button className="acrostic-tool reveal-menu disable-when-locked hide-on-solve"
-                                        data-action="Reveal" data-disqualifier="Using Reveal"></button>
-                                <ul data-action="reveal" className="toolbar-menu">
-                                    <li data-scope="letter"><span>Square</span></li>
-                                    <li data-scope="word"><span>Word</span></li>
-                                    <li data-scope="puzzle"><span>Puzzle</span></li>
-                                </ul>
-                            </div>
-                            <div className="toolbar-menu-wrapper">
+                                  {inner}
+                               <div className="toolbar-menu-wrapper">
                                 <button className="acrostic-tool check-menu disable-when-locked hide-on-solve"
                                         data-action="Check" data-disqualifier="Using Check"></button>
                                 <ul data-action="check" className="toolbar-menu">
