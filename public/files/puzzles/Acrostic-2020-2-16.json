@@ -1,0 +1,348 @@
+{
+    "answer": "Young people are inept at love; it is like being given a flying machine, and you leap inside, ready to set off as you\u2019ve always dreamed, yet you don\u2019t have the first notion of how to make it start, much less how to move it.",
+    "author": "(Andrew Sean) Greer,",
+    "authorCell": [
+        39,
+        126,
+        75,
+        14,
+        74,
+        116,
+        137,
+        123,
+        160,
+        164,
+        130,
+        101,
+        89,
+        167,
+        124,
+        20,
+        104,
+        58,
+        151,
+        13,
+        68,
+        94,
+        38,
+        17
+    ],
+    "source": "The Story of a Marriage",
+    "clues": {
+        "A": {
+            "cells": [
+                39,
+                26,
+                86,
+                109,
+                145,
+                60
+            ],
+            "answer": "Gifted",
+            "hint": "Having special talents"
+        },
+        "B": {
+            "cells": [
+                126,
+                80,
+                163,
+                95,
+                28,
+                16,
+                50
+            ],
+            "answer": "Rowling",
+            "hint": "Author of \u201cThe Tales of Beedle the Bard\u201d"
+        },
+        "C": {
+            "cells": [
+                75,
+                129,
+                51,
+                35,
+                99,
+                117
+            ],
+            "answer": "Enmesh",
+            "hint": "Catch as Spidey might"
+        },
+        "D": {
+            "cells": [
+                14,
+                98,
+                57,
+                70,
+                135,
+                155,
+                32,
+                120,
+                83
+            ],
+            "answer": "Eye socket",
+            "hint": "Orbit (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                74,
+                122,
+                7,
+                87
+            ],
+            "answer": "Rhea",
+            "hint": "Moon of Saturn; flightless bird"
+        },
+        "F": {
+            "cells": [
+                116,
+                62,
+                9,
+                161,
+                97,
+                131
+            ],
+            "answer": "\"Top Hat\"",
+            "hint": "Musical comedy with Astaire and Rogers (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                137,
+                125,
+                113,
+                33,
+                76,
+                96,
+                12,
+                47
+            ],
+            "answer": "Hideaway",
+            "hint": "Desperado\u2019s den"
+        },
+        "H": {
+            "cells": [
+                123,
+                49,
+                73,
+                166,
+                1,
+                148,
+                18,
+                110
+            ],
+            "answer": "Enemy spy",
+            "hint": "Unwanted plant? (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                160,
+                22,
+                55,
+                115,
+                144,
+                78
+            ],
+            "answer": "Slinky",
+            "hint": "80 feet of wire in a two-inch spiral"
+        },
+        "J": {
+            "cells": [
+                164,
+                139,
+                36,
+                88,
+                21,
+                61
+            ],
+            "answer": "Twisty",
+            "hint": "Like a plot full of surprises"
+        },
+        "K": {
+            "cells": [
+                130,
+                15,
+                157,
+                45,
+                31,
+                102,
+                64,
+                77
+            ],
+            "answer": "Oil field",
+            "hint": "Well-endowed territory? (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                101,
+                141,
+                159,
+                27,
+                42,
+                59
+            ],
+            "answer": "Rosten",
+            "hint": "Leo ____, humorist who wrote \u201cThe Joys of Yiddish\u201d"
+        },
+        "M": {
+            "cells": [
+                89,
+                2,
+                114,
+                54,
+                23,
+                162
+            ],
+            "answer": "Yoo-hoo",
+            "hint": "\u201cHey, anyone home?!\u201d (hyph.)"
+        },
+        "N": {
+            "cells": [
+                167,
+                41,
+                108,
+                56,
+                153,
+                71,
+                140,
+                19
+            ],
+            "answer": "Oven mitt",
+            "hint": "Good thing for a chef to have on hand (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                124,
+                63,
+                5,
+                146,
+                79,
+                40,
+                24,
+                93
+            ],
+            "answer": "Fugitive",
+            "hint": "Flight taker"
+        },
+        "P": {
+            "cells": [
+                20,
+                92,
+                132,
+                44,
+                149,
+                170,
+                111,
+                69
+            ],
+            "answer": "Aviation",
+            "hint": "What the Wright brothers pioneered in"
+        },
+        "Q": {
+            "cells": [
+                104,
+                150,
+                136,
+                48,
+                165,
+                29,
+                8
+            ],
+            "answer": "Mafioso",
+            "hint": "Mob guy"
+        },
+        "R": {
+            "cells": [
+                58,
+                127,
+                81,
+                169,
+                142,
+                34,
+                10,
+                107
+            ],
+            "answer": "Assembly",
+            "hint": "Bugle call bringing troops together"
+        },
+        "S": {
+            "cells": [
+                151,
+                138,
+                91,
+                43,
+                72,
+                112,
+                6
+            ],
+            "answer": "Roundup",
+            "hint": "Rodeo or ranch event"
+        },
+        "T": {
+            "cells": [
+                13,
+                65,
+                37,
+                133,
+                119,
+                103,
+                147,
+                82
+            ],
+            "answer": "Renovate",
+            "hint": "Do some home improvement"
+        },
+        "U": {
+            "cells": [
+                68,
+                4,
+                85,
+                52,
+                171,
+                154,
+                143,
+                128,
+                25,
+                100
+            ],
+            "answer": "Infatuated",
+            "hint": "Starry-eyed and swoony"
+        },
+        "V": {
+            "cells": [
+                94,
+                168,
+                118,
+                30,
+                66,
+                134,
+                53,
+                156,
+                11
+            ],
+            "answer": "Avalanche",
+            "hint": "Dangerous arrival from above"
+        },
+        "W": {
+            "cells": [
+                38,
+                105,
+                152,
+                90,
+                3,
+                121
+            ],
+            "answer": "\"Get Out\"",
+            "hint": "2017 horror/satire directed by Jordan Peele (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                17,
+                46,
+                84,
+                67,
+                158,
+                106
+            ],
+            "answer": "Eloped",
+            "hint": "Became running mates?"
+        }
+    }
+}

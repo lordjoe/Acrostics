@@ -1,0 +1,347 @@
+{
+    "answer": "Whereas a blue jay is elongated,... a chickadee is like a little ball. This roundness helps the small bird balance itself in... topsy-turvy positions... while... searching for insect eggs on the twigs and outer branches of trees.",
+    "author": "Gale Lawrence,",
+    "authorCell": [
+        22,
+        14,
+        95,
+        124,
+        69,
+        33,
+        118,
+        164,
+        94,
+        61,
+        31,
+        141,
+        43,
+        132,
+        135,
+        176,
+        86,
+        34,
+        142,
+        159,
+        152,
+        62,
+        36
+    ],
+    "source": "A Field Guide (To The Familiar)",
+    "clues": {
+        "A": {
+            "cells": [
+                22,
+                85,
+                174,
+                143,
+                39,
+                122
+            ],
+            "answer": "Gargle",
+            "hint": "Treat a sore throat with liquid"
+        },
+        "B": {
+            "cells": [
+                14,
+                96,
+                172,
+                121,
+                27,
+                147,
+                60,
+                75
+            ],
+            "answer": "Afflatus",
+            "hint": "Divine imparting of knowledge or power"
+        },
+        "C": {
+            "cells": [
+                95,
+                133,
+                163,
+                80,
+                15,
+                120,
+                102,
+                47
+            ],
+            "answer": "Lobbyist",
+            "hint": "\u201cThe president is the people\u2019s ___\u201d (Hubert H. Humphrey)"
+        },
+        "D": {
+            "cells": [
+                124,
+                79,
+                114,
+                154,
+                29,
+                165,
+                59,
+                140,
+                45,
+                7
+            ],
+            "answer": "Elisha Otis",
+            "hint": "Inventor who had his ups and downs? (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                69,
+                18,
+                9,
+                155,
+                136,
+                110,
+                146
+            ],
+            "answer": "Lebanon",
+            "hint": "Site of a 1958 U.S. peacekeeping mission"
+        },
+        "F": {
+            "cells": [
+                33,
+                10,
+                19,
+                151,
+                74,
+                54
+            ],
+            "answer": "All wet",
+            "hint": "Way off base (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                118,
+                37,
+                21,
+                160,
+                67,
+                4,
+                145,
+                101
+            ],
+            "answer": "Winthrop",
+            "hint": "Twelve-time colonial governor of Massachusetts"
+        },
+        "H": {
+            "cells": [
+                164,
+                5,
+                83,
+                93,
+                55,
+                40,
+                106,
+                150
+            ],
+            "answer": "Redshirt",
+            "hint": "College player sitting out a year"
+        },
+        "I": {
+            "cells": [
+                94,
+                177,
+                109,
+                162,
+                149,
+                137,
+                71,
+                20
+            ],
+            "answer": "Espresso",
+            "hint": "After-dinner order"
+        },
+        "J": {
+            "cells": [
+                61,
+                157,
+                13,
+                125,
+                76,
+                42,
+                88,
+                23
+            ],
+            "answer": "N\u2019Djamena",
+            "hint": "Capital of Chad"
+        },
+        "K": {
+            "cells": [
+                31,
+                126,
+                49,
+                66,
+                167,
+                138,
+                156,
+                113
+            ],
+            "answer": "Crescent",
+            "hint": "Symbol on the flag of Turkey and Singapore"
+        },
+        "L": {
+            "cells": [
+                141,
+                17,
+                104,
+                35,
+                123,
+                46,
+                64,
+                170,
+                92
+            ],
+            "answer": "Est Est Est",
+            "hint": "White wine of Italy\u2019s Lazio region (3 wds.)"
+        },
+        "M": {
+            "cells": [
+                43,
+                32,
+                56,
+                119,
+                81,
+                173,
+                158
+            ],
+            "answer": "Akihito",
+            "hint": "Japanese emperor beginning in 1989"
+        },
+        "N": {
+            "cells": [
+                132,
+                82,
+                3,
+                57,
+                98,
+                115
+            ],
+            "answer": "Fresno",
+            "hint": "California agribusiness center"
+        },
+        "O": {
+            "cells": [
+                135,
+                89,
+                161,
+                127,
+                105,
+                50,
+                175
+            ],
+            "answer": "Ice cube",
+            "hint": "Die of cold? (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                176,
+                53,
+                78,
+                112,
+                70,
+                144,
+                12
+            ],
+            "answer": "Ellipse",
+            "hint": "Park where the National Christmas Tree is displayed, with \u201cthe\u201d"
+        },
+        "Q": {
+            "cells": [
+                86,
+                100,
+                128,
+                25,
+                116,
+                153,
+                58,
+                30,
+                166
+            ],
+            "answer": "Lohengrin",
+            "hint": "Operatic source of \u201cHere Comes the Bride\u201d"
+        },
+        "R": {
+            "cells": [
+                34,
+                8,
+                108,
+                48,
+                91,
+                131,
+                148,
+                72
+            ],
+            "answer": "Daylight",
+            "hint": "In sports, a gap in defense"
+        },
+        "S": {
+            "cells": [
+                142,
+                68,
+                38,
+                99,
+                77,
+                52,
+                24
+            ],
+            "answer": "Gestalt",
+            "hint": "Branch of psychology for which Kurt Koffka was a spokesman"
+        },
+        "T": {
+            "cells": [
+                159,
+                111,
+                73,
+                11,
+                51,
+                97,
+                87
+            ],
+            "answer": "Ushuaia",
+            "hint": "Southernmost city in the world, Tierra del Fuego\u2019s hub"
+        },
+        "U": {
+            "cells": [
+                152,
+                130,
+                28,
+                168,
+                84,
+                103,
+                16,
+                63,
+                139,
+                2
+            ],
+            "answer": "Inch by inch",
+            "hint": "Very gradually (3 wds.)"
+        },
+        "V": {
+            "cells": [
+                62,
+                107,
+                171,
+                134,
+                6,
+                41
+            ],
+            "answer": "Dvorak",
+            "hint": "Keyboard alternative to QWERTY, in which all the vowels are on the left"
+        },
+        "W": {
+            "cells": [
+                36,
+                26,
+                169,
+                44,
+                1,
+                90,
+                129,
+                117,
+                65
+            ],
+            "answer": "Edelweiss",
+            "hint": "Flower on Austria\u2019s two-cent coin"
+        }
+    }
+}

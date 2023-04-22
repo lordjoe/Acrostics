@@ -1,0 +1,329 @@
+{
+    "answer": "I have been... chopfallen on the Champs Élysées, and doloroso on the Via Veneto, but the avenues themselves were blameless. Hollywood Boulevard, on the contrary, creates an instant and malignant impression in... the beholder.",
+    "author": "(S.J.) Perelman,",
+    "authorCell": [
+        160,
+        18,
+        45,
+        58,
+        101,
+        159,
+        137,
+        169,
+        145,
+        2,
+        172,
+        177,
+        133,
+        37,
+        61,
+        95,
+        114,
+        64,
+        153,
+        23
+    ],
+    "source": "The Last Laugh",
+    "clues": {
+        "A": {
+            "cells": [
+                160,
+                171,
+                36,
+                147,
+                44,
+                93,
+                112,
+                124,
+                69,
+                16
+            ],
+            "answer": "Phenomenal",
+            "hint": "Known through the senses, not the mind"
+        },
+        "B": {
+            "cells": [
+                18,
+                83,
+                5,
+                167,
+                99,
+                27,
+                59,
+                41,
+                174,
+                148
+            ],
+            "answer": "Evenhanded",
+            "hint": "Fair, impartial"
+        },
+        "C": {
+            "cells": [
+                45,
+                89,
+                70,
+                62,
+                17,
+                4,
+                162,
+                131
+            ],
+            "answer": "Revolver",
+            "hint": "Beatles album including \u201cEleanor Rigby\u201d"
+        },
+        "D": {
+            "cells": [
+                58,
+                154,
+                40,
+                176,
+                104,
+                79,
+                7,
+                118,
+                51
+            ],
+            "answer": "Endowment",
+            "hint": "Institutional source of income"
+        },
+        "E": {
+            "cells": [
+                101,
+                152,
+                54,
+                68,
+                88
+            ],
+            "answer": "Liver",
+            "hint": "One ingredient of dirty rice"
+        },
+        "F": {
+            "cells": [
+                159,
+                127,
+                66,
+                139,
+                19,
+                35,
+                78,
+                1,
+                116,
+                49,
+                91
+            ],
+            "answer": "Matinée idol",
+            "hint": "Star of stage and screen (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                137,
+                21,
+                76,
+                158,
+                100,
+                122,
+                52
+            ],
+            "answer": "Antioch",
+            "hint": "College founded in 1852 with Horace Mann as its first president"
+        },
+        "H": {
+            "cells": [
+                169,
+                117,
+                63,
+                102,
+                8,
+                28,
+                81,
+                156
+            ],
+            "answer": "Noblemen",
+            "hint": "Grandee, magnifico and others"
+        },
+        "I": {
+            "cells": [
+                145,
+                106,
+                73,
+                25,
+                120,
+                164,
+                134,
+                20,
+                9,
+                179
+            ],
+            "answer": "Touchstone",
+            "hint": "Shakespeare\u2019s \u201cmotley fool\u201d"
+        },
+        "J": {
+            "cells": [
+                2,
+                48,
+                140,
+                60,
+                103,
+                173,
+                87,
+                121
+            ],
+            "answer": "Honeybee",
+            "hint": "Member of a colony"
+        },
+        "K": {
+            "cells": [
+                172,
+                29,
+                85,
+                12,
+                149,
+                98,
+                3,
+                43,
+                65,
+                136
+            ],
+            "answer": "Epsom salts",
+            "hint": "Magnesium sulfate, used medicinally (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                177,
+                135,
+                14,
+                119,
+                42,
+                113,
+                71,
+                161,
+                97
+            ],
+            "answer": "Leftovers",
+            "hint": "Rechauffe"
+        },
+        "M": {
+            "cells": [
+                133,
+                82,
+                151,
+                110,
+                34,
+                168,
+                57,
+                96
+            ],
+            "answer": "Allusive",
+            "hint": "Containing indirect references"
+        },
+        "N": {
+            "cells": [
+                37,
+                67,
+                165,
+                144,
+                125,
+                109
+            ],
+            "answer": "Shinto",
+            "hint": "Native religion of Japan"
+        },
+        "O": {
+            "cells": [
+                61,
+                15,
+                32,
+                111,
+                146,
+                175,
+                92,
+                163,
+                80,
+                132,
+                53
+            ],
+            "answer": "Tallahassee",
+            "hint": "The only Confederate capital east of the Mississippi not captured by Union troops"
+        },
+        "P": {
+            "cells": [
+                95,
+                150,
+                6,
+                129,
+                115,
+                55,
+                72,
+                170,
+                26
+            ],
+            "answer": "Labyrinth",
+            "hint": "Structure designed by Daedalus"
+        },
+        "Q": {
+            "cells": [
+                114,
+                157,
+                22,
+                56,
+                10,
+                77,
+                31,
+                130,
+                143,
+                47,
+                94
+            ],
+            "answer": "Attaché case",
+            "hint": "Carry-on for a frequent flier, often (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                64,
+                13,
+                75,
+                155,
+                138,
+                107,
+                178,
+                123,
+                86,
+                39,
+                30
+            ],
+            "answer": "Ups and downs",
+            "hint": "Vicissitudes (3 wds.)"
+        },
+        "S": {
+            "cells": [
+                153,
+                74,
+                50,
+                24,
+                128,
+                38,
+                142,
+                105,
+                180
+            ],
+            "answer": "Generator",
+            "hint": "Device developed by American physicist Robert Van de Graaff in 1931"
+        },
+        "T": {
+            "cells": [
+                23,
+                166,
+                108,
+                90,
+                33,
+                11,
+                46,
+                126,
+                141,
+                84
+            ],
+            "answer": "Hobbyhorse",
+            "hint": "Meaning of the French term \u201cdada\u201d"
+        }
+    }
+}

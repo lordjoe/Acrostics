@@ -1,0 +1,342 @@
+{
+    "answer": "[I]n football\u2018s early years... vests were worn... tight-fitting... [with] leather straps... sewn to the shoulders like suitcase handles... to help a runner\u2019s teammates pull him through the opponents\u2019 line, a tactic... permitted by the rules.",
+    "author": "Robert W. Peterson,",
+    "authorCell": [
+        163,
+        75,
+        170,
+        72,
+        175,
+        89,
+        27,
+        124,
+        162,
+        59,
+        30,
+        20,
+        123,
+        134,
+        111,
+        142,
+        41,
+        37,
+        73,
+        84,
+        36,
+        152
+    ],
+    "source": "Pigskin",
+    "clues": {
+        "A": {
+            "cells": [
+                163,
+                76,
+                24,
+                38,
+                130,
+                4,
+                60,
+                99
+            ],
+            "answer": "Rushmore",
+            "hint": "Crag called \u201cSix Grandfathers\u201d by the Lakota"
+        },
+        "B": {
+            "cells": [
+                75,
+                135,
+                35,
+                119,
+                13,
+                54,
+                160,
+                173
+            ],
+            "answer": "Outmatch",
+            "hint": "Be too good for, put to shame"
+        },
+        "C": {
+            "cells": [
+                170,
+                144,
+                5,
+                29,
+                48,
+                86,
+                71
+            ],
+            "answer": "Boorish",
+            "hint": "Clearly unversed in etiquette"
+        },
+        "D": {
+            "cells": [
+                72,
+                118,
+                7,
+                28,
+                177,
+                105,
+                44,
+                92,
+                132
+            ],
+            "answer": "Embellish",
+            "hint": "Narrate creatively"
+        },
+        "E": {
+            "cells": [
+                175,
+                109,
+                158,
+                74,
+                98,
+                146,
+                58,
+                21
+            ],
+            "answer": "Ruthless",
+            "hint": "Cutthroat ... like the Red Sox in 1920?"
+        },
+        "F": {
+            "cells": [
+                89,
+                176,
+                155,
+                140,
+                126,
+                107,
+                33,
+                17
+            ],
+            "answer": "Tutelary",
+            "hint": "Having a position of guardian or protector"
+        },
+        "G": {
+            "cells": [
+                27,
+                129,
+                2,
+                78,
+                149,
+                66,
+                104,
+                161,
+                49
+            ],
+            "answer": "Windswept",
+            "hint": "Wuthering"
+        },
+        "H": {
+            "cells": [
+                124,
+                154,
+                45,
+                138,
+                94,
+                178,
+                14,
+                64
+            ],
+            "answer": "Panthers",
+            "hint": "University of Pittsburgh team"
+        },
+        "I": {
+            "cells": [
+                162,
+                143,
+                61,
+                125,
+                15,
+                85,
+                42
+            ],
+            "answer": "Epaulet",
+            "hint": "Ornamental strap on a uniform"
+        },
+        "J": {
+            "cells": [
+                59,
+                117,
+                159,
+                77,
+                46,
+                95,
+                131,
+                12
+            ],
+            "answer": "Tailgate",
+            "hint": "Party outside a stadium"
+        },
+        "K": {
+            "cells": [
+                30,
+                16,
+                116,
+                82,
+                156,
+                63,
+                139
+            ],
+            "answer": "Eyelash",
+            "hint": "Very narrow margin of victory"
+        },
+        "L": {
+            "cells": [
+                20,
+                112,
+                97,
+                179,
+                164,
+                83,
+                43,
+                137
+            ],
+            "answer": "Red Smith",
+            "hint": "Eponym of a sports journalism award (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                123,
+                68,
+                141,
+                106,
+                31,
+                8,
+                166,
+                90,
+                55
+            ],
+            "answer": "Stopwatch",
+            "hint": "Instrument used to measure splits"
+        },
+        "N": {
+            "cells": [
+                134,
+                22,
+                93,
+                113,
+                3,
+                150,
+                65,
+                47
+            ],
+            "answer": "Overflew",
+            "hint": "Passed with no touchdown"
+        },
+        "O": {
+            "cells": [
+                111,
+                18,
+                39,
+                148,
+                127,
+                56,
+                81
+            ],
+            "answer": "Nettles",
+            "hint": "Irritants of the plant world"
+        },
+        "P": {
+            "cells": [
+                142,
+                19,
+                57,
+                167,
+                1,
+                114,
+                91,
+                34
+            ],
+            "answer": "Partisan",
+            "hint": "Rooter for one side, zealous supporter"
+        },
+        "Q": {
+            "cells": [
+                41,
+                147,
+                121,
+                23,
+                80,
+                157,
+                174,
+                62,
+                101
+            ],
+            "answer": "Intercept",
+            "hint": "Catch going the wrong way?"
+        },
+        "R": {
+            "cells": [
+                37,
+                69,
+                153,
+                26,
+                87,
+                110,
+                169,
+                52,
+                133
+            ],
+            "answer": "Goes under",
+            "hint": "Fails, as a business (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                73,
+                120,
+                151,
+                96,
+                6,
+                51,
+                171
+            ],
+            "answer": "Saintly",
+            "hint": "Like Peter, Paul and Mary?"
+        },
+        "T": {
+            "cells": [
+                84,
+                67,
+                102,
+                115,
+                50,
+                32,
+                9,
+                168
+            ],
+            "answer": "Knothole",
+            "hint": "Vantage point for a nonpaying spectator"
+        },
+        "U": {
+            "cells": [
+                36,
+                145,
+                172,
+                128,
+                79,
+                11,
+                25,
+                53,
+                108,
+                100
+            ],
+            "answer": "In the stars",
+            "hint": "Predestined, determined by fate (3 wds.)"
+        },
+        "V": {
+            "cells": [
+                152,
+                165,
+                136,
+                103,
+                70,
+                10,
+                88,
+                40,
+                122
+            ],
+            "answer": "Nightlife",
+            "hint": "Draw on Sunset Strip or Bourbon Street"
+        }
+    }
+}

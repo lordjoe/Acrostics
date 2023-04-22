@@ -1,0 +1,351 @@
+{
+    "answer": "[H]is tail raised in a shimmering arch... [the peacock] will turn this way and that,... his beak parted, his eyes glittering. Meanwhile the hen goes about... searching the ground as if any bug in the grass were of more importance... .",
+    "author": "(Flannery) O\u2019Connor,",
+    "authorCell": [
+        159,
+        29,
+        168,
+        57,
+        146,
+        38,
+        8,
+        20,
+        141,
+        117,
+        86,
+        118,
+        89,
+        80,
+        36,
+        124,
+        13,
+        166,
+        61,
+        25,
+        107,
+        88,
+        151,
+        153
+    ],
+    "source": "Mystery And Manners",
+    "clues": {
+        "A": {
+            "cells": [
+                159,
+                72,
+                24,
+                125,
+                139,
+                93,
+                42
+            ],
+            "answer": "Origami",
+            "hint": "Construction technique for cranes?"
+        },
+        "B": {
+            "cells": [
+                29,
+                174,
+                44,
+                84,
+                137,
+                154,
+                62
+            ],
+            "answer": "Cellist",
+            "hint": "Any member of the rock band Apocalyptica"
+        },
+        "C": {
+            "cells": [
+                168,
+                96,
+                122,
+                10,
+                144,
+                76
+            ],
+            "answer": "On high",
+            "hint": "Up above; in heaven (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                57,
+                164,
+                97,
+                142,
+                123,
+                33
+            ],
+            "answer": "Newbie",
+            "hint": "One having to be shown the ropes"
+        },
+        "E": {
+            "cells": [
+                146,
+                162,
+                47,
+                59,
+                127,
+                78,
+                101,
+                27
+            ],
+            "answer": "North Sea",
+            "hint": "Setting for Shetland and Orkney (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                38,
+                167,
+                136,
+                99,
+                21,
+                152,
+                116,
+                63
+            ],
+            "answer": "Opsimath",
+            "hint": "Beginning student who\u2019s advanced in age"
+        },
+        "G": {
+            "cells": [
+                8,
+                128,
+                75,
+                108,
+                145,
+                95,
+                48,
+                31
+            ],
+            "answer": "Red giant",
+            "hint": "Mira or Aldebaran, e.g. (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                20,
+                68,
+                156,
+                52,
+                170,
+                130,
+                109
+            ],
+            "answer": "Maestro",
+            "hint": "Title for a fencing expert"
+        },
+        "I": {
+            "cells": [
+                141,
+                9,
+                30,
+                53,
+                79,
+                105
+            ],
+            "answer": "Yahweh",
+            "hint": "Elohim, by another name"
+        },
+        "J": {
+            "cells": [
+                117,
+                71,
+                41,
+                160,
+                2,
+                17,
+                98
+            ],
+            "answer": "Sawfish",
+            "hint": "Ray with a toothy snout"
+        },
+        "K": {
+            "cells": [
+                86,
+                112,
+                34,
+                134,
+                56,
+                15,
+                173,
+                158
+            ],
+            "answer": "Tap-dance",
+            "hint": "Do as Mumble the penguin does in \u201cHappy Feet\u201d (hyph.)"
+        },
+        "L": {
+            "cells": [
+                118,
+                73,
+                1,
+                94,
+                43,
+                28,
+                149,
+                58
+            ],
+            "answer": "Ethelred",
+            "hint": "Danegeld-paying English king"
+        },
+        "M": {
+            "cells": [
+                89,
+                67,
+                138,
+                46,
+                163,
+                113,
+                14,
+                3,
+                32
+            ],
+            "answer": "Refurbish",
+            "hint": "Do over, as decor"
+        },
+        "N": {
+            "cells": [
+                80,
+                104,
+                65,
+                155,
+                12,
+                39,
+                119,
+                140
+            ],
+            "answer": "\u201cYes we can\"",
+            "hint": "Campaign slogan of the 2000s (3 wds.)"
+        },
+        "O": {
+            "cells": [
+                36,
+                129,
+                77,
+                100,
+                165,
+                147,
+                55
+            ],
+            "answer": "Agility",
+            "hint": "Trait for which certain show dogs are judged"
+        },
+        "P": {
+            "cells": [
+                124,
+                54,
+                82,
+                103,
+                143,
+                16
+            ],
+            "answer": "Nashua",
+            "hint": "Winner of a 1955 match race over Swaps"
+        },
+        "Q": {
+            "cells": [
+                13,
+                135,
+                111,
+                148,
+                90,
+                69,
+                51
+            ],
+            "answer": "Dashiki",
+            "hint": "Shirt often worn with a kufi cap"
+        },
+        "R": {
+            "cells": [
+                166,
+                5,
+                23,
+                126,
+                64,
+                91
+            ],
+            "answer": "Martin",
+            "hint": "Maker of Elvis\u2019s D-28 guitar"
+        },
+        "S": {
+            "cells": [
+                61,
+                161,
+                115,
+                7,
+                35,
+                87
+            ],
+            "answer": "Amulet",
+            "hint": "Anti-possession possession?"
+        },
+        "T": {
+            "cells": [
+                25,
+                110,
+                6,
+                83,
+                50,
+                66,
+                131,
+                157
+            ],
+            "answer": "Neighbor",
+            "hint": "Young Truman Capote, to young Harper Lee"
+        },
+        "U": {
+            "cells": [
+                107,
+                85,
+                4,
+                70,
+                19,
+                121,
+                40
+            ],
+            "answer": "Nitpick",
+            "hint": "Practice pettifoggery"
+        },
+        "V": {
+            "cells": [
+                88,
+                171,
+                11,
+                49,
+                74,
+                120,
+                106,
+                150,
+                26
+            ],
+            "answer": "Easter egg",
+            "hint": "Playful feature hidden in some software (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                151,
+                81,
+                102,
+                169,
+                22,
+                133,
+                37,
+                60
+            ],
+            "answer": "Retrench",
+            "hint": "Move to a fallback position"
+        },
+        "X": {
+            "cells": [
+                153,
+                18,
+                114,
+                45,
+                92,
+                132,
+                172
+            ],
+            "answer": "\"Shotgun\u201d",
+            "hint": "1965 top 5 hit using just one chord throughout"
+        }
+    }
+}

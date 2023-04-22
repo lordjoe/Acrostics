@@ -1,0 +1,351 @@
+{
+    "answer": "The collective memory is notoriously faulty, and much of the past sinks into the ocean of time to be drowned forever; but once in a while the waters part, allowing us to glimpse a flash of hidden treasure... for a moment.",
+    "author": "Margaret Atwood,",
+    "authorCell": [
+        171,
+        143,
+        18,
+        131,
+        34,
+        26,
+        8,
+        1,
+        105,
+        10,
+        128,
+        72,
+        135,
+        153,
+        123,
+        92,
+        53,
+        24,
+        115,
+        14,
+        117,
+        40,
+        174,
+        55
+    ],
+    "source": "(The) Testaments",
+    "clues": {
+        "A": {
+            "cells": [
+                171,
+                124,
+                36,
+                81,
+                150,
+                11,
+                68
+            ],
+            "answer": "Malefic",
+            "hint": "Sinister, evil, baleful"
+        },
+        "B": {
+            "cells": [
+                143,
+                70,
+                91,
+                112,
+                43,
+                21
+            ],
+            "answer": "Aarhus",
+            "hint": "Second-largest city of Denmark"
+        },
+        "C": {
+            "cells": [
+                18,
+                90,
+                37,
+                121,
+                62,
+                159
+            ],
+            "answer": "Rotate",
+            "hint": "What defensive N.B.A. players - and fan blades - do"
+        },
+        "D": {
+            "cells": [
+                131,
+                17,
+                52,
+                89,
+                111,
+                69,
+                163
+            ],
+            "answer": "Go after",
+            "hint": "Dog, in a way (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                34,
+                137,
+                96,
+                162,
+                16,
+                113,
+                71
+            ],
+            "answer": "Albumen",
+            "hint": "Locale of a golden nucleus"
+        },
+        "F": {
+            "cells": [
+                26,
+                149,
+                114,
+                80,
+                63,
+                168,
+                48
+            ],
+            "answer": "Rowboat",
+            "hint": "Lakeside painter\u2019s subject"
+        },
+        "G": {
+            "cells": [
+                8,
+                57,
+                136,
+                75,
+                156,
+                94
+            ],
+            "answer": "Engine",
+            "hint": "Cannonball, for Casey Jones"
+        },
+        "H": {
+            "cells": [
+                1,
+                60,
+                104,
+                148,
+                166,
+                83,
+                22,
+                119
+            ],
+            "answer": "Tinhorns",
+            "hint": "\u201cGuys and Dolls\u201d song \u201cFugue for ____\u201d"
+        },
+        "I": {
+            "cells": [
+                105,
+                3,
+                30,
+                79,
+                140
+            ],
+            "answer": "Aesop",
+            "hint": "Originator of the phrase \u201csour grapes\u201d"
+        },
+        "J": {
+            "cells": [
+                10,
+                118,
+                35,
+                59,
+                134,
+                76,
+                155
+            ],
+            "answer": "Trust me",
+            "hint": "\u201cI wouldn\u2019t lie to you\u201d (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                128,
+                65,
+                170,
+                41,
+                29,
+                100,
+                152,
+                78
+            ],
+            "answer": "Whodunit",
+            "hint": "Book featuring a kind of puzzle"
+        },
+        "L": {
+            "cells": [
+                72,
+                93,
+                142,
+                167,
+                58,
+                27,
+                109,
+                126
+            ],
+            "answer": "Overkill",
+            "hint": "Sledgehammer used on a flea, say"
+        },
+        "M": {
+            "cells": [
+                135,
+                97,
+                64,
+                44,
+                28,
+                7,
+                154
+            ],
+            "answer": "Out cold",
+            "hint": "Not responding to any stimuli (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                153,
+                138,
+                47,
+                33,
+                172,
+                122,
+                13,
+                61,
+                101,
+                87
+            ],
+            "answer": "Difference",
+            "hint": "Last word of Frost\u2019s \u201cThe Road Not Taken\u201d"
+        },
+        "O": {
+            "cells": [
+                123,
+                46,
+                169,
+                85,
+                23,
+                145,
+                73,
+                102
+            ],
+            "answer": "Tom Wolfe",
+            "hint": "Early writer of New Journalism (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                92,
+                120,
+                20,
+                51,
+                107,
+                146,
+                173,
+                38
+            ],
+            "answer": "Epiphany",
+            "hint": "Sudden intuitive understanding"
+        },
+        "Q": {
+            "cells": [
+                53,
+                2,
+                67,
+                84,
+                165,
+                125,
+                19
+            ],
+            "answer": "Shoofly",
+            "hint": "Child\u2019s rocker with a seat built between two flat sides in the shape of an animal"
+        },
+        "R": {
+            "cells": [
+                24,
+                106,
+                127,
+                144,
+                160,
+                4,
+                50,
+                82
+            ],
+            "answer": "Two-faced",
+            "hint": "Not to be believed (hyph.)"
+        },
+        "S": {
+            "cells": [
+                115,
+                130,
+                157,
+                49,
+                103,
+                31,
+                6
+            ],
+            "answer": "Anthill",
+            "hint": "Colonial construction"
+        },
+        "T": {
+            "cells": [
+                14,
+                39,
+                116,
+                54,
+                95,
+                164,
+                133,
+                147
+            ],
+            "answer": "Mattress",
+            "hint": "Item to which you may add a pad"
+        },
+        "U": {
+            "cells": [
+                117,
+                42,
+                99,
+                74,
+                56,
+                9,
+                25,
+                86,
+                141
+            ],
+            "answer": "Emoticons",
+            "hint": "Signs of feeling?"
+        },
+        "V": {
+            "cells": [
+                40,
+                108,
+                139,
+                158,
+                5,
+                88
+            ],
+            "answer": "Nimrod",
+            "hint": "Hunter; doofus"
+        },
+        "W": {
+            "cells": [
+                174,
+                45,
+                129,
+                66,
+                12,
+                110,
+                161
+            ],
+            "answer": "Thieves",
+            "hint": "Exemplars of thickness"
+        },
+        "X": {
+            "cells": [
+                55,
+                151,
+                132,
+                98,
+                77,
+                32,
+                15
+            ],
+            "answer": "Shuteye",
+            "hint": "Snooze"
+        }
+    }
+}

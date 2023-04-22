@@ -1,0 +1,353 @@
+{
+    "answer": "India produces the world\u2019s most consistently vile cup of joe. It is never fresh-brewed but made with instant \u201cflakes,\u201d which are boiled with milk, sugar, and nutmeg. The resulting stew is... a sickening... piping-hot milkshake.",
+    "author": "Stewart (Lee) Allen,",
+    "authorCell": [
+        143,
+        80,
+        67,
+        95,
+        122,
+        101,
+        85,
+        149,
+        106,
+        37,
+        34,
+        123,
+        144,
+        165,
+        56,
+        70,
+        58,
+        39,
+        156,
+        138,
+        84,
+        152,
+        72,
+        45
+    ],
+    "source": "The Devil\u2019S Cup",
+    "clues": {
+        "A": {
+            "cells": [
+                143,
+                51,
+                23,
+                74,
+                102,
+                7
+            ],
+            "answer": "Simmer",
+            "hint": "Be in a state of subdued anger"
+        },
+        "B": {
+            "cells": [
+                80,
+                109,
+                49,
+                60,
+                145,
+                19
+            ],
+            "answer": "Twofer",
+            "hint": "Good deal for a ticket-buyer"
+        },
+        "C": {
+            "cells": [
+                67,
+                157,
+                76,
+                18,
+                168,
+                46,
+                134,
+                6,
+                96
+            ],
+            "answer": "Endomorph",
+            "hint": "Someone with a heavy body build"
+        },
+        "D": {
+            "cells": [
+                95,
+                169,
+                22,
+                81,
+                115,
+                31,
+                54,
+                88
+            ],
+            "answer": "Wish list",
+            "hint": "Result of some brainstorming (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                122,
+                50,
+                158,
+                79,
+                25
+            ],
+            "answer": "Aegis",
+            "hint": "Shield made by Hephaestus with a Gorgon\u2019s head in the center"
+        },
+        "F": {
+            "cells": [
+                101,
+                166,
+                111,
+                15
+            ],
+            "answer": "Roth",
+            "hint": "Author of \u201cAmerican Pastoral,\u201d winner of the 1998 Pulitzer Prize for fiction"
+        },
+        "G": {
+            "cells": [
+                85,
+                100,
+                41,
+                116,
+                30,
+                132,
+                8,
+                146
+            ],
+            "answer": "Talk show",
+            "hint": "Afternoon TV staple (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                149,
+                163,
+                131,
+                94,
+                38
+            ],
+            "answer": "Antsy",
+            "hint": "Unable to sit still"
+        },
+        "I": {
+            "cells": [
+                106,
+                162,
+                125,
+                69,
+                48,
+                118,
+                3,
+                142,
+                93
+            ],
+            "answer": "Line judge",
+            "hint": "One with a calling at court? (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                37,
+                62,
+                89,
+                139,
+                47,
+                151,
+                129,
+                170,
+                108
+            ],
+            "answer": "Left field",
+            "hint": "Source, colloquially, of the unexpected (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                34,
+                21,
+                140,
+                155,
+                65,
+                10,
+                121,
+                164,
+                173
+            ],
+            "answer": "Edinburgh",
+            "hint": "Birthplace of David Hume"
+        },
+        "L": {
+            "cells": [
+                123,
+                110,
+                52
+            ],
+            "answer": "NIT",
+            "hint": "Sports event started in 1938 with six teams (abbr.)"
+        },
+        "M": {
+            "cells": [
+                144,
+                104,
+                28,
+                14,
+                150,
+                114,
+                42
+            ],
+            "answer": "\u201cTootsie\u201d",
+            "hint": "1982 film debut of Geena Davis"
+        },
+        "N": {
+            "cells": [
+                165,
+                91,
+                68,
+                153,
+                32,
+                99,
+                120,
+                78
+            ],
+            "answer": "Hawkshaw",
+            "hint": "Detective"
+        },
+        "O": {
+            "cells": [
+                56,
+                20,
+                90,
+                82,
+                159,
+                117,
+                105,
+                136
+            ],
+            "answer": "Ellipsis",
+            "hint": "Periods of omission?"
+        },
+        "P": {
+            "cells": [
+                70,
+                174,
+                57,
+                40,
+                9,
+                128,
+                86,
+                113,
+                135,
+                26
+            ],
+            "answer": "David Mamet",
+            "hint": "Writer of the 1992 play \u201cOleanna\u201d (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                58,
+                171,
+                1,
+                148,
+                36,
+                97,
+                43,
+                13
+            ],
+            "answer": "Ekistics",
+            "hint": "The science of city planning"
+        },
+        "R": {
+            "cells": [
+                39,
+                147,
+                59,
+                77,
+                24
+            ],
+            "answer": "Vireo",
+            "hint": "Songbird also called a greenlet"
+        },
+        "S": {
+            "cells": [
+                156,
+                35,
+                141,
+                172,
+                103,
+                66,
+                126,
+                11,
+                92
+            ],
+            "answer": "Innsbruck",
+            "hint": "The Maria Theresienstrasse is its main thoroughfare"
+        },
+        "T": {
+            "cells": [
+                138,
+                160,
+                130,
+                64,
+                33,
+                87,
+                53,
+                2,
+                119
+            ],
+            "answer": "Lightning",
+            "hint": "\u201cPoetry is a sword of ___, ever unsheathed ...\u201d (Shelley)"
+        },
+        "U": {
+            "cells": [
+                84,
+                127,
+                5,
+                61,
+                71,
+                44,
+                27,
+                175
+            ],
+            "answer": "Starbuck",
+            "hint": "First mate of the Pequod"
+        },
+        "V": {
+            "cells": [
+                152,
+                75,
+                161,
+                137,
+                98,
+                112,
+                4,
+                55
+            ],
+            "answer": "Capuchin",
+            "hint": "Monkey; hooded cloak for women"
+        },
+        "W": {
+            "cells": [
+                72,
+                29,
+                63,
+                17,
+                154,
+                176,
+                167,
+                12,
+                83,
+                107,
+                124
+            ],
+            "answer": "Unsweetened",
+            "hint": "Without dulcification"
+        },
+        "X": {
+            "cells": [
+                45,
+                16,
+                133,
+                73
+            ],
+            "answer": "Peet",
+            "hint": "Alfred ___, founder of a renowned Berkeley coffeehouse"
+        }
+    }
+}

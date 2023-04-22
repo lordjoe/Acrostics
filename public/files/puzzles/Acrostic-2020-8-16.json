@@ -1,0 +1,358 @@
+{
+    "answer": "Saying something is pitch black is like saying something is green. ... Green like a cucumber, lettuce, or green like the sky is just before it breaks loose to storm? Well, night black is the same way. May as well be a rainbow.",
+    "author": "Toni Morrison,",
+    "authorCell": [
+        111,
+        107,
+        14,
+        16,
+        129,
+        119,
+        128,
+        52,
+        46,
+        17,
+        173,
+        55,
+        149,
+        124,
+        60,
+        136,
+        127,
+        106,
+        102,
+        41,
+        140,
+        8,
+        156,
+        81,
+        5
+    ],
+    "source": "Song of Solomon",
+    "clues": {
+        "A": {
+            "cells": [
+                111,
+                72,
+                42,
+                18,
+                91,
+                57,
+                167
+            ],
+            "answer": "Tempera",
+            "hint": "Medium used by Jacob Lawrence in his \u201cMigration Series\u201d"
+        },
+        "B": {
+            "cells": [
+                107,
+                172,
+                61,
+                135,
+                83,
+                152
+            ],
+            "answer": "Oblige",
+            "hint": "Do a favor for; bind by duty"
+        },
+        "C": {
+            "cells": [
+                14,
+                114,
+                70,
+                162,
+                95,
+                31,
+                50
+            ],
+            "answer": "Nemesis",
+            "hint": "Daughter of Nyx who meted out divine retribution"
+        },
+        "D": {
+            "cells": [
+                16,
+                47,
+                116,
+                100,
+                75,
+                138
+            ],
+            "answer": "Inkjet",
+            "hint": "Big Brother type of product"
+        },
+        "E": {
+            "cells": [
+                129,
+                25,
+                161,
+                90,
+                144,
+                1,
+                45
+            ],
+            "answer": "Mawkish",
+            "hint": "Syrupy, cornball, cheesy"
+        },
+        "F": {
+            "cells": [
+                119,
+                151,
+                33,
+                133,
+                53,
+                92
+            ],
+            "answer": "Omelet",
+            "hint": "Egg foo yung, essentially"
+        },
+        "G": {
+            "cells": [
+                128,
+                78,
+                23,
+                105,
+                38,
+                145
+            ],
+            "answer": "Rubens",
+            "hint": "Painter of the Prado\u2019s \u201cSaturn\u201d (1636)"
+        },
+        "H": {
+            "cells": [
+                52,
+                28,
+                6,
+                137,
+                123,
+                174,
+                93,
+                154,
+                74,
+                109
+            ],
+            "answer": "Right whale",
+            "hint": "Occasional prey for a pod of orcas (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                46,
+                142,
+                94,
+                112,
+                64,
+                82,
+                15
+            ],
+            "answer": "Iceberg",
+            "hint": "Big chunk of the ocean"
+        },
+        "J": {
+            "cells": [
+                17,
+                150,
+                101,
+                66,
+                131,
+                168
+            ],
+            "answer": "Saucer",
+            "hint": "Vessel for milk or a Martian?"
+        },
+        "K": {
+            "cells": [
+                173,
+                108,
+                10,
+                121,
+                77,
+                54,
+                34
+            ],
+            "answer": "Orestes",
+            "hint": "Son and avenger of Agamemnon"
+        },
+        "L": {
+            "cells": [
+                55,
+                89,
+                9,
+                139,
+                67,
+                29
+            ],
+            "answer": "Nimbus",
+            "hint": "Dark cloud; halo"
+        },
+        "M": {
+            "cells": [
+                149,
+                63,
+                49,
+                103,
+                11,
+                30,
+                80,
+                117
+            ],
+            "answer": "Skittles",
+            "hint": "Multihued fruit-flavored candies"
+        },
+        "N": {
+            "cells": [
+                124,
+                104,
+                160,
+                21,
+                69,
+                84,
+                4,
+                146,
+                36
+            ],
+            "answer": "Obscurity",
+            "hint": "\u201cIf I could I would always work in silence and ____, and let my efforts be known by their results\u201d: Emily Brontë"
+        },
+        "O": {
+            "cells": [
+                60,
+                98,
+                165,
+                132,
+                13,
+                79,
+                27
+            ],
+            "answer": "Niblick",
+            "hint": "Old-fashioned 9-iron"
+        },
+        "P": {
+            "cells": [
+                136,
+                73,
+                169,
+                155,
+                19,
+                87,
+                48
+            ],
+            "answer": "Graying",
+            "hint": "Producing more salt and pepper"
+        },
+        "Q": {
+            "cells": [
+                127,
+                71,
+                85,
+                163,
+                110,
+                7,
+                32
+            ],
+            "answer": "Obelisk",
+            "hint": "Cleopatra\u2019s Needle, for one"
+        },
+        "R": {
+            "cells": [
+                106,
+                88,
+                159,
+                40,
+                147,
+                3
+            ],
+            "answer": "Flashy",
+            "hint": "Meant to be attention-getting"
+        },
+        "S": {
+            "cells": [
+                102,
+                120,
+                62,
+                39,
+                134,
+                166,
+                86
+            ],
+            "answer": "Soignee",
+            "hint": "Accoutered as a sophisticated lady"
+        },
+        "T": {
+            "cells": [
+                41,
+                65,
+                143,
+                24,
+                122,
+                97
+            ],
+            "answer": "Oakley",
+            "hint": "Big name in athletic sunglasses"
+        },
+        "U": {
+            "cells": [
+                140,
+                170,
+                56,
+                22,
+                76,
+                158,
+                43,
+                2,
+                113
+            ],
+            "answer": "Light-year",
+            "hint": "Roughly 5.9 trillion miles (hyph.)"
+        },
+        "V": {
+            "cells": [
+                8,
+                125,
+                35,
+                96,
+                157
+            ],
+            "answer": "Osaka",
+            "hint": "Naomi who won the 2018 U.S. Open"
+        },
+        "W": {
+            "cells": [
+                156,
+                141,
+                126,
+                68,
+                12,
+                37,
+                171,
+                51
+            ],
+            "answer": "Matching",
+            "hint": "Of an identical color or pattern"
+        },
+        "X": {
+            "cells": [
+                81,
+                153,
+                118,
+                59,
+                20
+            ],
+            "answer": "Owlet",
+            "hint": "Big-eyed babe in the woods?"
+        },
+        "Y": {
+            "cells": [
+                5,
+                148,
+                130,
+                26,
+                115,
+                99,
+                44,
+                164,
+                58
+            ],
+            "answer": "Newcastle",
+            "hint": "English city whose natives are called \u201cGeordies\u201d"
+        }
+    }
+}

@@ -1,0 +1,349 @@
+{
+    "answer": "It was clear that the books owned the shop rather than the other way about. Everywhere they had run wild and taken possession of their habitat, breeding and multiplying[,]... clearly lacking any strong hand to keep them down.",
+    "author": "Agatha Christie,",
+    "authorCell": [
+        13,
+        138,
+        76,
+        157,
+        173,
+        56,
+        139,
+        110,
+        143,
+        82,
+        96,
+        11,
+        1,
+        70,
+        37,
+        50,
+        61,
+        148,
+        134,
+        103,
+        6,
+        168,
+        5
+    ],
+    "source": "The Clocks",
+    "clues": {
+        "A": {
+            "cells": [
+                13,
+                77,
+                163,
+                128,
+                43,
+                86,
+                60
+            ],
+            "answer": "Adamant",
+            "hint": "Not budging"
+        },
+        "B": {
+            "cells": [
+                138,
+                89,
+                52,
+                154,
+                122,
+                22,
+                106
+            ],
+            "answer": "Garnish",
+            "hint": "Cocktail umbrella or cucumber curl"
+        },
+        "C": {
+            "cells": [
+                76,
+                14,
+                109,
+                177,
+                34,
+                162,
+                135
+            ],
+            "answer": "Atrophy",
+            "hint": "Waste away through disuse"
+        },
+        "D": {
+            "cells": [
+                157,
+                75,
+                53,
+                111,
+                40,
+                15
+            ],
+            "answer": "Thwart",
+            "hint": "Obstruct; seat for a rower in a rowboat"
+        },
+        "E": {
+            "cells": [
+                173,
+                55,
+                93,
+                38,
+                73,
+                160,
+                9,
+                105,
+                141,
+                121
+            ],
+            "answer": "Hyphenated",
+            "hint": "Like jack-o\u2019-lanterns and merry-go-rounds"
+        },
+        "F": {
+            "cells": [
+                56,
+                27,
+                42,
+                174,
+                158,
+                107,
+                92,
+                131
+            ],
+            "answer": "Adherent",
+            "hint": "Disciple, follower"
+        },
+        "G": {
+            "cells": [
+                139,
+                64,
+                167,
+                31,
+                95
+            ],
+            "answer": "Cross",
+            "hint": "In boxing, a punch thrown over an opponent\u2019s punch"
+        },
+        "H": {
+            "cells": [
+                110,
+                170,
+                147,
+                84,
+                32,
+                59,
+                126,
+                2
+            ],
+            "answer": "Headhunt",
+            "hint": "Engage in a primitive tribal activity"
+        },
+        "I": {
+            "cells": [
+                143,
+                169,
+                46,
+                4,
+                98,
+                72,
+                26,
+                127
+            ],
+            "answer": "Rehashed",
+            "hint": "Gone over for the umpteenth time"
+        },
+        "J": {
+            "cells": [
+                82,
+                102,
+                67,
+                159,
+                28,
+                178,
+                142,
+                41,
+                119,
+                10
+            ],
+            "answer": "In hot water",
+            "hint": "Up the creek without a paddle (3 wds.)"
+        },
+        "K": {
+            "cells": [
+                96,
+                21,
+                68,
+                130,
+                47,
+                116,
+                33,
+                151
+            ],
+            "answer": "Skeleton",
+            "hint": "Common Halloween decoration"
+        },
+        "L": {
+            "cells": [
+                11,
+                118,
+                36,
+                62,
+                97,
+                156,
+                172,
+                145
+            ],
+            "answer": "Travesty",
+            "hint": "Literary or artistic burlesque"
+        },
+        "M": {
+            "cells": [
+                1,
+                124,
+                44,
+                58,
+                18,
+                144,
+                91
+            ],
+            "answer": "Ignoble",
+            "hint": "\u201cFar from the madding crowd\u2019s ___ strife ...\u201d (Thomas Gray)"
+        },
+        "N": {
+            "cells": [
+                70,
+                129,
+                176,
+                101,
+                35,
+                85,
+                24,
+                51,
+                7,
+                166,
+                155
+            ],
+            "answer": "Eudora Welty",
+            "hint": "Pulitzer-winning author of \u201cThe Optimist\u2019s Daughter\u201d (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                37,
+                48,
+                99,
+                16,
+                150,
+                112,
+                125
+            ],
+            "answer": "Toshiba",
+            "hint": "Rival of Sony and Mitsubishi"
+        },
+        "P": {
+            "cells": [
+                50,
+                136,
+                152,
+                12,
+                117,
+                69,
+                23,
+                81
+            ],
+            "answer": "Highbrow",
+            "hint": "Inclined toward the intellectual"
+        },
+        "Q": {
+            "cells": [
+                61,
+                179,
+                114,
+                3,
+                100,
+                137,
+                30,
+                87
+            ],
+            "answer": "Entwined",
+            "hint": "Wound up together"
+        },
+        "R": {
+            "cells": [
+                148,
+                94,
+                133,
+                65,
+                78,
+                113,
+                161,
+                29,
+                49
+            ],
+            "answer": "Copyright",
+            "hint": "Protection against unwanted reproduction"
+        },
+        "S": {
+            "cells": [
+                134,
+                153,
+                175,
+                57,
+                90,
+                108,
+                80
+            ],
+            "answer": "Lambkin",
+            "hint": "One of Bo-Peep\u2019s young charges"
+        },
+        "T": {
+            "cells": [
+                103,
+                171,
+                79,
+                140,
+                63,
+                25,
+                45
+            ],
+            "answer": "Opulent",
+            "hint": "Lavish, palatial, sumptuous"
+        },
+        "U": {
+            "cells": [
+                6,
+                132,
+                71,
+                115,
+                165,
+                17,
+                146
+            ],
+            "answer": "Citadel",
+            "hint": "Acropolis, kremlin or alcazar"
+        },
+        "V": {
+            "cells": [
+                168,
+                39,
+                74,
+                123,
+                20,
+                88,
+                8
+            ],
+            "answer": "Keynote",
+            "hint": "Delivery for conventioneers"
+        },
+        "W": {
+            "cells": [
+                5,
+                164,
+                19,
+                66,
+                104,
+                83,
+                54,
+                149,
+                120
+            ],
+            "answer": "Snowflake",
+            "hint": "Unique, hexagonally symmetrical crystal"
+        }
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "answer": "I spent twenty minutes plucking... [seed ticks] off my legs with a scrap of duct tape.... Then... wrapping the duct tape in duct tape, so I could transport the tick ball back to the lab. What a magical place is a rain forest....",
+    "author": "(Elizabeth) Royte,",
+    "authorCell": [
+        108,
+        132,
+        12,
+        131,
+        80,
+        48,
+        134,
+        65,
+        115,
+        96,
+        112,
+        161,
+        114,
+        45,
+        40,
+        103,
+        71,
+        110,
+        156,
+        15,
+        44,
+        123,
+        160,
+        119,
+        140
+    ],
+    "source": "The Tapir\u2019s Morning Bath",
+    "clues": {
+        "A": {
+            "cells": [
+                108,
+                50,
+                77,
+                145,
+                13,
+                92,
+                163,
+                38,
+                120,
+                5
+            ],
+            "answer": "Ragamuffin",
+            "hint": "People-loving breed of cat"
+        },
+        "B": {
+            "cells": [
+                132,
+                87,
+                17,
+                47,
+                60,
+                111
+            ],
+            "answer": "\u201cOptics\u201d",
+            "hint": "Subject of a 1704 treatise by Sir Isaac Newton"
+        },
+        "C": {
+            "cells": [
+                12,
+                143,
+                107,
+                75,
+                168,
+                94,
+                42,
+                29
+            ],
+            "answer": "Y.A. Tittle",
+            "hint": "Quarterback standout for the 49ers and Giants (3 wds.)"
+        },
+        "D": {
+            "cells": [
+                131,
+                159,
+                89,
+                57,
+                105,
+                118
+            ],
+            "answer": "Trifle",
+            "hint": "Dessert with liqueur-soaked cake and fruit"
+        },
+        "E": {
+            "cells": [
+                80,
+                150,
+                93,
+                1,
+                31
+            ],
+            "answer": "\u201cEl Cid\u201d",
+            "hint": "1961 film starring Charlton Heston (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                48,
+                113,
+                20,
+                2,
+                74,
+                147,
+                90
+            ],
+            "answer": "Topspin",
+            "hint": "Some of the English at Wimbledon"
+        },
+        "G": {
+            "cells": [
+                134,
+                43,
+                109,
+                81,
+                36,
+                16,
+                151
+            ],
+            "answer": "Heads-up",
+            "hint": "Warning (hyph.)"
+        },
+        "H": {
+            "cells": [
+                65,
+                154,
+                125,
+                33,
+                3,
+                51,
+                18
+            ],
+            "answer": "Eclipse",
+            "hint": "___ Award, given annually for horse racing\u2019s Horse of the Year"
+        },
+        "I": {
+            "cells": [
+                115,
+                25,
+                146,
+                67,
+                7,
+                46,
+                128,
+                58
+            ],
+            "answer": "Tightwad",
+            "hint": "Penny pincher, skinflint"
+        },
+        "J": {
+            "cells": [
+                96,
+                157,
+                79,
+                34,
+                137,
+                10
+            ],
+            "answer": "Ashcan",
+            "hint": "___ school of early 20th-century art"
+        },
+        "K": {
+            "cells": [
+                112,
+                9,
+                91,
+                22,
+                76,
+                121,
+                136,
+                155
+            ],
+            "answer": "Peduncle",
+            "hint": "Stem of a fruit or stalk of a flower"
+        },
+        "L": {
+            "cells": [
+                161,
+                144,
+                55,
+                124,
+                102,
+                66
+            ],
+            "answer": "Impact",
+            "hint": "Influence, effect"
+        },
+        "M": {
+            "cells": [
+                114,
+                30,
+                64,
+                164,
+                53,
+                78
+            ],
+            "answer": "Report",
+            "hint": "White paper; loud noise"
+        },
+        "N": {
+            "cells": [
+                45,
+                70,
+                135,
+                166,
+                11,
+                95,
+                149,
+                21,
+                35
+            ],
+            "answer": "Sweet-talk",
+            "hint": "Butter up with cajolery (hyph.)"
+        },
+        "O": {
+            "cells": [
+                40,
+                158,
+                27,
+                69,
+                98,
+                116
+            ],
+            "answer": "Magnet",
+            "hint": "Solenoid or compass, essentially"
+        },
+        "P": {
+            "cells": [
+                103,
+                23,
+                129,
+                59,
+                152,
+                85
+            ],
+            "answer": "Occult",
+            "hint": "Recondite, mysterious"
+        },
+        "Q": {
+            "cells": [
+                71,
+                141,
+                61,
+                39,
+                101,
+                26,
+                122
+            ],
+            "answer": "Rat Fink",
+            "hint": "Snitch (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                110,
+                88,
+                8,
+                167,
+                49,
+                153,
+                139,
+                24
+            ],
+            "answer": "Newshawk",
+            "hint": "Zealous investigative journalist"
+        },
+        "S": {
+            "cells": [
+                156,
+                28,
+                97,
+                41
+            ],
+            "answer": "\u201cI Spy\u201d",
+            "hint": "Show for which Bill Cosby won three acting Emmys (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                15,
+                72,
+                127,
+                100,
+                138
+            ],
+            "answer": "Nabob",
+            "hint": "Provincial governor of the Mogul empire in India"
+        },
+        "U": {
+            "cells": [
+                44,
+                68,
+                83,
+                130,
+                56
+            ],
+            "answer": "Gecko",
+            "hint": "Only lizard possessing a voice"
+        },
+        "V": {
+            "cells": [
+                123,
+                14,
+                99,
+                84,
+                165,
+                37
+            ],
+            "answer": "Bistro",
+            "hint": "Common Soho establishment"
+        },
+        "W": {
+            "cells": [
+                160,
+                32,
+                142,
+                63,
+                52,
+                117,
+                4
+            ],
+            "answer": "Attaché",
+            "hint": "Member of a diplomatic staff"
+        },
+        "X": {
+            "cells": [
+                119,
+                82,
+                62,
+                133,
+                104,
+                6
+            ],
+            "answer": "Tut-tut",
+            "hint": "Scolding sound (hyph.)"
+        },
+        "Y": {
+            "cells": [
+                140,
+                86,
+                162,
+                106,
+                148,
+                126,
+                54,
+                19,
+                73
+            ],
+            "answer": "Handclasp",
+            "hint": "Gesture of friendship"
+        }
+    }
+}

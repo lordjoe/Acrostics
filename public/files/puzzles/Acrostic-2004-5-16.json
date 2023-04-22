@@ -1,0 +1,345 @@
+{
+    "answer": "Words... are prismatic, vehicles of hidden, deeper shades of thought. You can hold them... at different angles until the light bursts through in an unexpected color. The word carries the living thing concealed across millennia.",
+    "author": "(Susan Brind) Morrow,",
+    "authorCell": [
+        13,
+        50,
+        170,
+        10,
+        160,
+        1,
+        65,
+        92,
+        38,
+        60,
+        164,
+        174,
+        19,
+        45,
+        135,
+        27,
+        91,
+        41,
+        89,
+        180,
+        82,
+        12
+    ],
+    "source": "The Names Of Things",
+    "clues": {
+        "A": {
+            "cells": [
+                13,
+                149,
+                58,
+                97,
+                124,
+                177,
+                29,
+                81
+            ],
+            "answer": "Michelin",
+            "hint": "Maker of maps and travel guides"
+        },
+        "B": {
+            "cells": [
+                50,
+                161,
+                5,
+                176,
+                80,
+                116,
+                153,
+                106,
+                70
+            ],
+            "answer": "Onslaught",
+            "hint": "Massive attack, as of spam"
+        },
+        "C": {
+            "cells": [
+                170,
+                57,
+                71,
+                46,
+                94,
+                9,
+                111
+            ],
+            "answer": "Rudolph",
+            "hint": "Rangifer tarandus in a holiday song"
+        },
+        "D": {
+            "cells": [
+                10,
+                66,
+                36,
+                54,
+                171,
+                130,
+                112,
+                138
+            ],
+            "answer": "Rhetoric",
+            "hint": "Part of a medieval trivium"
+        },
+        "E": {
+            "cells": [
+                160,
+                123,
+                11,
+                40,
+                76,
+                178,
+                30,
+                64,
+                142,
+                152,
+                110
+            ],
+            "answer": "Otis Redding",
+            "hint": "Writer of the soul classic \u201cRespect\u201d (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                1,
+                61,
+                95,
+                107,
+                148,
+                134,
+                21,
+                78,
+                125
+            ],
+            "answer": "Whirlwind",
+            "hint": "Elijah\u2019s transport to heaven"
+        },
+        "G": {
+            "cells": [
+                65,
+                141,
+                8,
+                166,
+                28,
+                127,
+                51,
+                102,
+                77
+            ],
+            "answer": "Tree house",
+            "hint": "The Swiss Family Robinson\u2019s Falconhurst, e.g. (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                92,
+                6,
+                33,
+                137,
+                22,
+                109,
+                74,
+                47,
+                172
+            ],
+            "answer": "Handcuffs",
+            "hint": "Challenge for Houdini"
+        },
+        "I": {
+            "cells": [
+                38,
+                25,
+                169,
+                139,
+                3,
+                158,
+                129,
+                105
+            ],
+            "answer": "Escargot",
+            "hint": "Molluscan morsel"
+        },
+        "J": {
+            "cells": [
+                60,
+                42,
+                104,
+                20,
+                150,
+                175,
+                165,
+                83,
+                133
+            ],
+            "answer": "Nashville",
+            "hint": "Site of Andrew Jackson\u2019s home, the Hermitage"
+        },
+        "K": {
+            "cells": [
+                164,
+                140,
+                122,
+                53,
+                73,
+                16,
+                93,
+                179,
+                31
+            ],
+            "answer": "Archfiend",
+            "hint": "Jack the Ripper, for one"
+        },
+        "L": {
+            "cells": [
+                174,
+                24,
+                34,
+                156,
+                48,
+                69,
+                103,
+                143
+            ],
+            "answer": "Meditate",
+            "hint": "Practice zazen or vipassana"
+        },
+        "M": {
+            "cells": [
+                19,
+                159,
+                132,
+                67,
+                90,
+                56,
+                113
+            ],
+            "answer": "Echelon",
+            "hint": "Level"
+        },
+        "N": {
+            "cells": [
+                45,
+                128,
+                75,
+                4,
+                167,
+                26,
+                96
+            ],
+            "answer": "Sled dog",
+            "hint": "Samoyed or malamute, typically (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                135,
+                18,
+                118,
+                7,
+                79,
+                49,
+                163,
+                88,
+                108,
+                37
+            ],
+            "answer": "Over the top",
+            "hint": "Extravagant, flamboyant (hyph.)"
+        },
+        "P": {
+            "cells": [
+                27,
+                100,
+                85,
+                154,
+                181,
+                59,
+                117
+            ],
+            "answer": "Fustian",
+            "hint": "Orotund or bombastic in speech or writing"
+        },
+        "Q": {
+            "cells": [
+                91,
+                35,
+                157,
+                62,
+                101,
+                144,
+                14,
+                119
+            ],
+            "answer": "Tenor sax",
+            "hint": "Instrument played by Yusef Lateef and Dexter Gordon (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                41,
+                55,
+                120,
+                87,
+                2,
+                98,
+                151,
+                17
+            ],
+            "answer": "Hypnotic",
+            "hint": "Sleep-inducing agent"
+        },
+        "S": {
+            "cells": [
+                89,
+                162,
+                147,
+                23,
+                182,
+                115,
+                43
+            ],
+            "answer": "Iceland",
+            "hint": "Country whose parliament was established in A.D. 930"
+        },
+        "T": {
+            "cells": [
+                180,
+                72,
+                52,
+                155,
+                145,
+                126,
+                63,
+                86,
+                99
+            ],
+            "answer": "Nightclub",
+            "hint": "Venue for singing, dancing or comedy"
+        },
+        "U": {
+            "cells": [
+                82,
+                32,
+                68,
+                173,
+                131,
+                114,
+                15,
+                44
+            ],
+            "answer": "Gem State",
+            "hint": "Nickname for Idaho (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                12,
+                146,
+                121,
+                168,
+                39,
+                84,
+                136
+            ],
+            "answer": "Shearer",
+            "hint": "Scottish ballerina in \u201cThe Red Shoes\u201d"
+        }
+    }
+}

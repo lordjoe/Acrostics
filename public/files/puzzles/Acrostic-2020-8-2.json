@@ -1,0 +1,347 @@
+{
+    "answer": "The English language is studded with terrific group nouns... a crash of rhinoceros, a parliament of owls, a skulk of foxes,... a zeal of zebras.... [C]oinages include... a couch of video game players, and a cuddle of homecoming queens.",
+    "author": "(Phil) Cousineau,",
+    "authorCell": [
+        130,
+        81,
+        123,
+        149,
+        135,
+        77,
+        3,
+        74,
+        173,
+        30,
+        2,
+        76,
+        143,
+        145,
+        73,
+        151,
+        32,
+        142,
+        24,
+        28,
+        167,
+        35,
+        152
+    ],
+    "source": "The Painted Word",
+    "clues": {
+        "A": {
+            "cells": [
+                130,
+                42,
+                89,
+                62,
+                118,
+                177,
+                23,
+                9
+            ],
+            "answer": "Colossus",
+            "hint": "Statue of Helios erected in the third century B.C."
+        },
+        "B": {
+            "cells": [
+                81,
+                99,
+                66,
+                45,
+                117,
+                162,
+                132,
+                7,
+                33
+            ],
+            "answer": "Ozone hole",
+            "hint": "Area of seasonal depletion (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                123,
+                5,
+                44,
+                101,
+                166,
+                87,
+                64,
+                136
+            ],
+            "answer": "Unpacked",
+            "hint": "Analyzed in detail; finished a long trip"
+        },
+        "D": {
+            "cells": [
+                149,
+                31,
+                100,
+                58,
+                113,
+                80,
+                133
+            ],
+            "answer": "Sheriff",
+            "hint": "Law enforcer originally called a \u201cshire-reeve\u201d"
+        },
+        "E": {
+            "cells": [
+                135,
+                156,
+                18,
+                46,
+                116,
+                65,
+                98,
+                168
+            ],
+            "answer": "Ideogram",
+            "hint": "Symbol standing for a concept"
+        },
+        "F": {
+            "cells": [
+                77,
+                163,
+                13,
+                26,
+                97,
+                129,
+                111,
+                59
+            ],
+            "answer": "Nonesuch",
+            "hint": "Example of peerless excellence"
+        },
+        "G": {
+            "cells": [
+                3,
+                172,
+                47,
+                68,
+                83,
+                29,
+                105,
+                125,
+                148
+            ],
+            "answer": "Equalizer",
+            "hint": "Goal that ties the score"
+        },
+        "H": {
+            "cells": [
+                74,
+                134,
+                169,
+                92,
+                109,
+                155,
+                61,
+                16
+            ],
+            "answer": "Avifauna",
+            "hint": "Members of bevies, skeins or murders"
+        },
+        "I": {
+            "cells": [
+                173,
+                75,
+                107,
+                34,
+                159,
+                11,
+                144,
+                50
+            ],
+            "answer": "Umbrella",
+            "hint": "Item in many a golf bag"
+        },
+        "J": {
+            "cells": [
+                30,
+                94,
+                141,
+                127,
+                70,
+                1
+            ],
+            "answer": "Tomcat",
+            "hint": "Rum Tum Tugger, for one"
+        },
+        "K": {
+            "cells": [
+                2,
+                36,
+                17,
+                55,
+                102,
+                160,
+                82
+            ],
+            "answer": "High-low",
+            "hint": "Variety of poker with a split pot (hyph.)"
+        },
+        "L": {
+            "cells": [
+                76,
+                95,
+                112,
+                37,
+                161,
+                19,
+                51,
+                8,
+                128
+            ],
+            "answer": "Ex officio",
+            "hint": "By virtue of one\u2019s position (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                143,
+                10,
+                38,
+                122,
+                56,
+                164,
+                96,
+                72
+            ],
+            "answer": "Philomel",
+            "hint": "Nightingale"
+        },
+        "N": {
+            "cells": [
+                145,
+                86,
+                110,
+                43,
+                126,
+                14,
+                175,
+                27
+            ],
+            "answer": "Assuaged",
+            "hint": "Soothed, eased, alleviated"
+        },
+        "O": {
+            "cells": [
+                73,
+                170,
+                93,
+                115,
+                48,
+                63,
+                146
+            ],
+            "answer": "Infancy",
+            "hint": "Earliest stage of development"
+        },
+        "P": {
+            "cells": [
+                151,
+                15,
+                60,
+                49,
+                85,
+                176,
+                121,
+                137
+            ],
+            "answer": "Nuisance",
+            "hint": "Pest, gadfly, nudnik"
+        },
+        "Q": {
+            "cells": [
+                32,
+                71,
+                12,
+                104,
+                57,
+                119,
+                154
+            ],
+            "answer": "Traffic",
+            "hint": "Topic covered every 10 minutes on many news radio stations"
+        },
+        "R": {
+            "cells": [
+                142,
+                114,
+                6,
+                41,
+                79,
+                67,
+                21,
+                174,
+                157
+            ],
+            "answer": "Engrossed",
+            "hint": "Held in thrall, as by a book"
+        },
+        "S": {
+            "cells": [
+                24,
+                106,
+                53,
+                124,
+                158,
+                138,
+                39,
+                90
+            ],
+            "answer": "Deadlock",
+            "hint": "No-win situation"
+        },
+        "T": {
+            "cells": [
+                28,
+                150,
+                139,
+                103,
+                120,
+                84
+            ],
+            "answer": "Wagons",
+            "hint": "Rollers in a prairie-crossing train"
+        },
+        "U": {
+            "cells": [
+                167,
+                52,
+                69,
+                131,
+                147,
+                88,
+                20
+            ],
+            "answer": "Orpheus",
+            "hint": "Argonaut who drowned out the sirens\u2019 song with his lyre"
+        },
+        "V": {
+            "cells": [
+                35,
+                4,
+                171,
+                153,
+                22,
+                78,
+                140
+            ],
+            "answer": "Regatta",
+            "hint": "Competiton for windjammers"
+        },
+        "W": {
+            "cells": [
+                152,
+                91,
+                25,
+                40,
+                165,
+                108,
+                54
+            ],
+            "answer": "Dodgers",
+            "hint": "Subject of Roger Kahn\u2019s \u201cThe Boys of Summer\u201d"
+        }
+    }
+}

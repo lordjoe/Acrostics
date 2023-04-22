@@ -1,0 +1,357 @@
+{
+    "answer": "I love maps the way stamp collectors love stamps. Not for their usefulness, but rather for the sheer beauty of the object itself. I love to look at a map, even if it is a map of Mars, and figure out where I am going.",
+    "author": "Mary Morris,",
+    "authorCell": [
+        161,
+        160,
+        46,
+        15,
+        38,
+        42,
+        73,
+        149,
+        159,
+        9,
+        143,
+        93,
+        47,
+        68,
+        105,
+        125,
+        147,
+        36,
+        111,
+        144,
+        158,
+        26,
+        2,
+        120,
+        81,
+        59
+    ],
+    "source": "Nothing to Declare",
+    "clues": {
+        "A": {
+            "cells": [
+                161,
+                25,
+                90,
+                51,
+                3
+            ],
+            "answer": "Metro",
+            "hint": "System for D.C. negotiators?"
+        },
+        "B": {
+            "cells": [
+                160,
+                108,
+                146,
+                18,
+                129,
+                69
+            ],
+            "answer": "Aviate",
+            "hint": "Navigate the air"
+        },
+        "C": {
+            "cells": [
+                46,
+                12,
+                30,
+                78,
+                63,
+                145,
+                127,
+                112,
+                96
+            ],
+            "answer": "Reshuffle",
+            "hint": "Render more random, in a way"
+        },
+        "D": {
+            "cells": [
+                15,
+                54,
+                106,
+                135
+            ],
+            "answer": "Yelp",
+            "hint": "Eatery search reference"
+        },
+        "E": {
+            "cells": [
+                38,
+                97,
+                166,
+                70,
+                142,
+                13
+            ],
+            "answer": "McGraw",
+            "hint": "Publishing partner of Hill"
+        },
+        "F": {
+            "cells": [
+                42,
+                56,
+                164,
+                95,
+                139
+            ],
+            "answer": "Ouija",
+            "hint": "Device relying on ideomotor moves"
+        },
+        "G": {
+            "cells": [
+                73,
+                114,
+                87,
+                7,
+                21,
+                152,
+                55,
+                137
+            ],
+            "answer": "Roy Acuff",
+            "hint": "Leader of the Smoky Mountain Boys (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                149,
+                92,
+                123,
+                163,
+                57,
+                33,
+                80
+            ],
+            "answer": "Revolve",
+            "hint": "Go round and round"
+        },
+        "I": {
+            "cells": [
+                159,
+                53,
+                113,
+                94,
+                37,
+                140
+            ],
+            "answer": "Isobar",
+            "hint": "Line in meteorology"
+        },
+        "J": {
+            "cells": [
+                9,
+                32,
+                157,
+                67,
+                50,
+                124
+            ],
+            "answer": "Sortie",
+            "hint": "Foray, military counteroffensive"
+        },
+        "K": {
+            "cells": [
+                143,
+                45,
+                4,
+                84
+            ],
+            "answer": "Nova",
+            "hint": "Emmy-winning science series"
+        },
+        "L": {
+            "cells": [
+                93,
+                62,
+                5,
+                23,
+                128,
+                77,
+                115
+            ],
+            "answer": "Obelisk",
+            "hint": "Cleopatra\u2019s Needle, for one"
+        },
+        "M": {
+            "cells": [
+                47,
+                91,
+                14,
+                117,
+                131,
+                31,
+                1,
+                71,
+                156
+            ],
+            "answer": "\"That's life\"",
+            "hint": "\u201cStuff happens\u201d (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                68,
+                136,
+                24,
+                101,
+                153
+            ],
+            "answer": "Holst",
+            "hint": "Composer of \u201cThe Planets\u201d"
+        },
+        "O": {
+            "cells": [
+                105,
+                133,
+                121,
+                34,
+                86,
+                148,
+                61
+            ],
+            "answer": "Impetus",
+            "hint": "Driver?"
+        },
+        "P": {
+            "cells": [
+                125,
+                88,
+                65,
+                110,
+                11,
+                154,
+                49,
+                141,
+                27
+            ],
+            "answer": "Northwest",
+            "hint": "Airline that merged with Delta in 2008"
+        },
+        "Q": {
+            "cells": [
+                147,
+                134,
+                6,
+                79,
+                39,
+                103,
+                118,
+                58
+            ],
+            "answer": "Game plan",
+            "hint": "Campaigner\u2019s strategy (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                36,
+                126,
+                82,
+                109,
+                10
+            ],
+            "answer": "Tibet",
+            "hint": "Setting for \u201cLost Horizon\u201d"
+        },
+        "S": {
+            "cells": [
+                111,
+                20,
+                85,
+                35
+            ],
+            "answer": "Opus",
+            "hint": "\u201cBloom County\u201d penguin"
+        },
+        "T": {
+            "cells": [
+                144,
+                122,
+                99,
+                19,
+                72,
+                40
+            ],
+            "answer": "Deimos",
+            "hint": "Son of Ares and twin of Phobos"
+        },
+        "U": {
+            "cells": [
+                158,
+                16,
+                43,
+                130,
+                119,
+                66,
+                100,
+                83
+            ],
+            "answer": "Estimate",
+            "hint": "It\u2019s in the ballpark"
+        },
+        "V": {
+            "cells": [
+                26,
+                75,
+                132,
+                165,
+                60,
+                107,
+                41
+            ],
+            "answer": "Chanson",
+            "hint": "Piece performed by Piaf, perhaps"
+        },
+        "W": {
+            "cells": [
+                2,
+                150,
+                89,
+                64,
+                22,
+                44,
+                104
+            ],
+            "answer": "Left off",
+            "hint": "Quit; omitted (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                120,
+                8,
+                28,
+                98,
+                48,
+                76,
+                162,
+                138
+            ],
+            "answer": "Apothegm",
+            "hint": "Pithy bit of wisdom, maxim"
+        },
+        "Y": {
+            "cells": [
+                81,
+                151,
+                52,
+                17,
+                102
+            ],
+            "answer": "Route",
+            "hint": "Line up a cliff in a rock climber\u2019s guidebook"
+        },
+        "Z": {
+            "cells": [
+                59,
+                116,
+                29,
+                74,
+                155
+            ],
+            "answer": "Earth",
+            "hint": "View from Mir or Skylab"
+        }
+    }
+}

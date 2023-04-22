@@ -1,0 +1,367 @@
+{
+    "answer": "Mardi Gras is the balm that unites everyone... . Identities become a matter of costuming... . African dance and voodoo ritual combines with Catholic pageantry and native exuberance to produce a genuinely New World bacchanalia.",
+    "author": "Andrei Codrescu,",
+    "authorCell": [
+        183,
+        40,
+        85,
+        3,
+        45,
+        42,
+        144,
+        91,
+        151,
+        32,
+        154,
+        28,
+        117,
+        66,
+        113,
+        96,
+        74,
+        17,
+        15,
+        79,
+        47,
+        33,
+        97,
+        150,
+        130
+    ],
+    "source": "Hail Babylon!",
+    "clues": {
+        "A": {
+            "cells": [
+                183,
+                128,
+                12,
+                44,
+                75,
+                105
+            ],
+            "answer": "Antics",
+            "hint": "Outrageous or silly behavior"
+        },
+        "B": {
+            "cells": [
+                40,
+                71,
+                22,
+                98,
+                177
+            ],
+            "answer": "Natch",
+            "hint": "\u201cOf course\u201d"
+        },
+        "C": {
+            "cells": [
+                85,
+                160,
+                99,
+                49,
+                31,
+                64,
+                121
+            ],
+            "answer": "Diocese",
+            "hint": "Episcopal see"
+        },
+        "D": {
+            "cells": [
+                3,
+                107,
+                30,
+                166,
+                73,
+                139,
+                88,
+                16,
+                57
+            ],
+            "answer": "Riverboat",
+            "hint": "Conveyance on the Mississippi"
+        },
+        "E": {
+            "cells": [
+                45,
+                100,
+                83,
+                158,
+                122,
+                19,
+                140
+            ],
+            "answer": "Emanate",
+            "hint": "Spring, stem, issue"
+        },
+        "F": {
+            "cells": [
+                42,
+                143,
+                81,
+                174,
+                123,
+                94
+            ],
+            "answer": "Incant",
+            "hint": "Speak in a charming way?"
+        },
+        "G": {
+            "cells": [
+                144,
+                178,
+                124,
+                162,
+                62,
+                20,
+                102,
+                46,
+                1
+            ],
+            "answer": "Catechism",
+            "hint": "Summary of religious doctrine often in the form of questions and answers"
+        },
+        "H": {
+            "cells": [
+                91,
+                137,
+                164,
+                6,
+                36,
+                69
+            ],
+            "answer": "Oxygen",
+            "hint": "1774 discovery of the chemist Joseph Priestley"
+        },
+        "I": {
+            "cells": [
+                151,
+                170,
+                119,
+                70,
+                84,
+                104,
+                43
+            ],
+            "answer": "Dragnet",
+            "hint": "Shrimp-catching tool"
+        },
+        "J": {
+            "cells": [
+                32,
+                138,
+                77,
+                168,
+                8,
+                126
+            ],
+            "answer": "Runway",
+            "hint": "Fashionable place to make an appearance?"
+        },
+        "K": {
+            "cells": [
+                154,
+                134,
+                14,
+                179,
+                112,
+                93,
+                78,
+                52
+            ],
+            "answer": "Eventide",
+            "hint": "When vampires and werewolves come out to play"
+        },
+        "L": {
+            "cells": [
+                28,
+                127,
+                182,
+                161,
+                146,
+                109,
+                63,
+                90,
+                4
+            ],
+            "answer": "Sainthood",
+            "hint": "Posthumous achievement of Joan of Arc"
+        },
+        "M": {
+            "cells": [
+                117,
+                163,
+                180,
+                7,
+                133,
+                24,
+                48,
+                65
+            ],
+            "answer": "Clarinet",
+            "hint": "Part played by Pete Fountain in a Dixieland band"
+        },
+        "N": {
+            "cells": [
+                66,
+                35,
+                53,
+                86,
+                114,
+                175,
+                145
+            ],
+            "answer": "Una voce",
+            "hint": "Spoken as one, without dissent (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                113,
+                135,
+                89,
+                50,
+                165,
+                25,
+                9,
+                67
+            ],
+            "answer": "Hedonism",
+            "hint": "\u201cEat, drink and be merry\u201d philosophy"
+        },
+        "P": {
+            "cells": [
+                96,
+                153,
+                111,
+                172,
+                37,
+                55
+            ],
+            "answer": "Acadia",
+            "hint": "Ancestral home to some Louisianans"
+        },
+        "Q": {
+            "cells": [
+                74,
+                54,
+                21,
+                120,
+                5,
+                103,
+                39
+            ],
+            "answer": "Imagine",
+            "hint": "Inscription on the Strawberry Fields memorial in Central Park"
+        },
+        "R": {
+            "cells": [
+                17,
+                87,
+                176,
+                60,
+                106,
+                136,
+                157,
+                38
+            ],
+            "answer": "Locoweed",
+            "hint": "Toxic plant for Western livestock"
+        },
+        "S": {
+            "cells": [
+                15,
+                82,
+                115,
+                34,
+                167,
+                148,
+                131,
+                59
+            ],
+            "answer": "Below par",
+            "hint": "Good in golf, or bad in health (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                79,
+                129,
+                95,
+                18,
+                173,
+                149,
+                2,
+                41,
+                58
+            ],
+            "answer": "Adumbrate",
+            "hint": "Outline roughly; foreshadow"
+        },
+        "U": {
+            "cells": [
+                47,
+                155,
+                141,
+                61,
+                171,
+                116,
+                27,
+                11
+            ],
+            "answer": "Barflies",
+            "hint": "Homer and Barney at Moe\u2019s, for two"
+        },
+        "V": {
+            "cells": [
+                33,
+                147,
+                125,
+                159,
+                101,
+                76
+            ],
+            "answer": "Yoruba",
+            "hint": "Writer Wole Soyinka\u2019s ethnic group"
+        },
+        "W": {
+            "cells": [
+                97,
+                142,
+                51,
+                118,
+                181,
+                68,
+                156,
+                13,
+                26
+            ],
+            "answer": "Lamplight",
+            "hint": "Glow for indoor readers"
+        },
+        "X": {
+            "cells": [
+                150,
+                23,
+                132,
+                72,
+                10,
+                108
+            ],
+            "answer": "Outfit",
+            "hint": "Getup, threads, ensemble"
+        },
+        "Y": {
+            "cells": [
+                130,
+                169,
+                110,
+                56,
+                152,
+                92,
+                80,
+                29
+            ],
+            "answer": "Nocturne",
+            "hint": "One of 21 piano solo pieces by Chopin"
+        }
+    }
+}

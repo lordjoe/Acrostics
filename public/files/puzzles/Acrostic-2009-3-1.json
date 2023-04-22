@@ -1,0 +1,325 @@
+{
+    "answer": "In ancient Rome, the... traffic grew so intense that Caesar, the self-proclaimed curator viarum, or \u201cdirector of the great roads,\" declared a daytime ban on carts and chariots, \"except to transport construction materials...\u201d",
+    "author": "Tom Vanderbilt,",
+    "authorCell": [
+        84,
+        166,
+        61,
+        71,
+        3,
+        158,
+        79,
+        16,
+        55,
+        118,
+        173,
+        58,
+        126,
+        155,
+        134,
+        106,
+        53,
+        88,
+        135,
+        123
+    ],
+    "source": "Traffic",
+    "clues": {
+        "A": {
+            "cells": [
+                84,
+                132,
+                60,
+                154,
+                100,
+                27,
+                38,
+                117,
+                13,
+                175
+            ],
+            "answer": "Third wheel",
+            "hint": "Awkward extra on a date (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                166,
+                104,
+                37,
+                149,
+                24,
+                69,
+                120,
+                95,
+                52
+            ],
+            "answer": "Octagonal",
+            "hint": "Like a sign at an intersection"
+        },
+        "C": {
+            "cells": [
+                61,
+                29,
+                147,
+                77,
+                172,
+                14,
+                125,
+                91,
+                2,
+                102
+            ],
+            "answer": "\u201cMotor Trend\u201d",
+            "hint": "Car of the Year award giver (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                71,
+                169,
+                41,
+                119,
+                89,
+                6,
+                136,
+                150,
+                108,
+                25
+            ],
+            "answer": "Vacationer",
+            "hint": "Person who might be in an R.V."
+        },
+        "E": {
+            "cells": [
+                3,
+                64,
+                23,
+                171,
+                105,
+                49,
+                148,
+                133,
+                32,
+                121,
+                81
+            ],
+            "answer": "Accelerator",
+            "hint": "Hammer, in CB use"
+        },
+        "F": {
+            "cells": [
+                158,
+                128,
+                144,
+                90,
+                59,
+                34
+            ],
+            "answer": "Nathan",
+            "hint": "Detroit in a musical setting"
+        },
+        "G": {
+            "cells": [
+                79,
+                115,
+                98,
+                161,
+                67,
+                12,
+                42
+            ],
+            "answer": "Diorama",
+            "hint": "Scene in which miniature cars could appear"
+        },
+        "H": {
+            "cells": [
+                16,
+                140,
+                30,
+                160,
+                78,
+                45,
+                116,
+                54
+            ],
+            "answer": "Exit ramp",
+            "hint": "Way out of the flow (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                55,
+                1,
+                109,
+                33,
+                176,
+                15,
+                153,
+                137,
+                92,
+                75,
+                122
+            ],
+            "answer": "Ride shotgun",
+            "hint": "Take an up-front position (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                118,
+                174,
+                93,
+                46,
+                22,
+                156,
+                73,
+                63,
+                142
+            ],
+            "answer": "Barricade",
+            "hint": "Police setup that might block a fugitive"
+        },
+        "K": {
+            "cells": [
+                173,
+                57,
+                94,
+                44,
+                131,
+                10,
+                110,
+                152,
+                26,
+                74
+            ],
+            "answer": "Ice scraper",
+            "hint": "Essential for winter drivers in the North (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                58,
+                43,
+                20,
+                145,
+                96,
+                162,
+                86,
+                129
+            ],
+            "answer": "Left turn",
+            "hint": "What you might hang in a vehicle (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                126,
+                146,
+                56,
+                164,
+                82,
+                111
+            ],
+            "answer": "Tooted",
+            "hint": "Hit the horn"
+        },
+        "N": {
+            "cells": [
+                155,
+                51,
+                39,
+                168,
+                28,
+                9,
+                103,
+                70,
+                138
+            ],
+            "answer": "Teamsters",
+            "hint": "Originally, drivers of oxen- or mule-drawn wagons"
+        },
+        "O": {
+            "cells": [
+                134,
+                165,
+                21,
+                62
+            ],
+            "answer": "Rife",
+            "hint": "Abundant, teeming"
+        },
+        "P": {
+            "cells": [
+                106,
+                83,
+                163,
+                72,
+                130,
+                36,
+                4,
+                17,
+                50
+            ],
+            "answer": "Accidents",
+            "hint": "Creators of some jams"
+        },
+        "Q": {
+            "cells": [
+                53,
+                124,
+                101,
+                170,
+                5,
+                87,
+                76,
+                143,
+                19,
+                31,
+                113
+            ],
+            "answer": "Fast company",
+            "hint": "One\u2019s pals in a hot rod? (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                88,
+                157,
+                11,
+                47,
+                107,
+                139,
+                127,
+                68
+            ],
+            "answer": "Footrest",
+            "hint": "Dead pedal, for one"
+        },
+        "S": {
+            "cells": [
+                135,
+                167,
+                40,
+                66,
+                99,
+                8,
+                151,
+                80,
+                114
+            ],
+            "answer": "In transit",
+            "hint": "Being conveyed from one place to another (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                123,
+                97,
+                112,
+                159,
+                48,
+                141,
+                85,
+                65,
+                18,
+                35,
+                7
+            ],
+            "answer": "Crash course",
+            "hint": "Quick study in demolition-derby driving? (2 wds.)"
+        }
+    }
+}

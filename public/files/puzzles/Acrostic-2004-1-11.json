@@ -1,0 +1,371 @@
+{
+    "answer": "His stubby legs were a study in unsound construction, with squarish, asymmetrical... knees... His walk was an odd, straddle-legged motion that was often mistaken for lameness... One observer compared his action to a duck waddle.",
+    "author": "Laura Hillenbrand,",
+    "authorCell": [
+        95,
+        78,
+        30,
+        91,
+        162,
+        48,
+        42,
+        68,
+        132,
+        96,
+        120,
+        8,
+        131,
+        67,
+        141,
+        93,
+        161,
+        101,
+        111,
+        144,
+        24,
+        89,
+        33,
+        26,
+        106,
+        20
+    ],
+    "source": "Seabiscuit",
+    "clues": {
+        "A": {
+            "cells": [
+                95,
+                75,
+                148,
+                180,
+                53,
+                9
+            ],
+            "answer": "Livery",
+            "hint": "Occupation of an ostler"
+        },
+        "B": {
+            "cells": [
+                78,
+                109,
+                16,
+                122,
+                39,
+                134
+            ],
+            "answer": "Atrium",
+            "hint": "Usually skylighted central area"
+        },
+        "C": {
+            "cells": [
+                30,
+                99,
+                57,
+                167,
+                178,
+                84
+            ],
+            "answer": "Uganda",
+            "hint": "Equatorial land in the British Commonwealth"
+        },
+        "D": {
+            "cells": [
+                91,
+                18,
+                73,
+                159,
+                34,
+                121,
+                104,
+                136
+            ],
+            "answer": "\u201cRashomon\u201d",
+            "hint": "1950 Akira Kurosawa film with shifting points of view"
+        },
+        "E": {
+            "cells": [
+                162,
+                177,
+                22,
+                79,
+                142,
+                102
+            ],
+            "answer": "Addled",
+            "hint": "Discombobulated"
+        },
+        "F": {
+            "cells": [
+                48,
+                130,
+                113,
+                27,
+                169,
+                14
+            ],
+            "answer": "How now?",
+            "hint": "\u201cWhat\u2019s up?\u201d to the Bard of Avon (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                42,
+                129,
+                105,
+                56,
+                149,
+                85
+            ],
+            "answer": "If-then",
+            "hint": "Kind of proposition in logic (hyph.)"
+        },
+        "H": {
+            "cells": [
+                68,
+                157,
+                31,
+                100,
+                47,
+                1,
+                115
+            ],
+            "answer": "Lengths",
+            "hint": "Margins of victory"
+        },
+        "I": {
+            "cells": [
+                132,
+                107,
+                45,
+                7,
+                150,
+                166,
+                77
+            ],
+            "answer": "Lowbrow",
+            "hint": "Someone of no intellectual cultivation"
+        },
+        "J": {
+            "cells": [
+                96,
+                60,
+                154,
+                74,
+                125,
+                4,
+                46,
+                19
+            ],
+            "answer": "Emphasis",
+            "hint": "Special forcefulness of expression"
+        },
+        "K": {
+            "cells": [
+                120,
+                176,
+                64,
+                40,
+                160,
+                13,
+                145,
+                51,
+                83
+            ],
+            "answer": "Narcissus",
+            "hint": "Handsome Greek youth who spurned Echo"
+        },
+        "L": {
+            "cells": [
+                8,
+                97,
+                43,
+                81,
+                152,
+                172,
+                118
+            ],
+            "answer": "Blowout",
+            "hint": "Lopsided victory"
+        },
+        "M": {
+            "cells": [
+                131,
+                82,
+                117,
+                168
+            ],
+            "answer": "Raft",
+            "hint": "Kon-Tiki, for one"
+        },
+        "N": {
+            "cells": [
+                67,
+                139,
+                151,
+                119,
+                108,
+                41
+            ],
+            "answer": "Ascent",
+            "hint": "Undertaking for balloonists and mountaineers"
+        },
+        "O": {
+            "cells": [
+                141,
+                54,
+                173,
+                80,
+                15,
+                38
+            ],
+            "answer": "Nicker",
+            "hint": "Gentle whinny"
+        },
+        "P": {
+            "cells": [
+                93,
+                23,
+                35,
+                170,
+                61,
+                143
+            ],
+            "answer": "Dynamo",
+            "hint": "Vigorous, energetic go-getter"
+        },
+        "Q": {
+            "cells": [
+                161,
+                70,
+                92,
+                174,
+                17,
+                3
+            ],
+            "answer": "Snakes",
+            "hint": "Ophidiophobe\u2019s dread"
+        },
+        "R": {
+            "cells": [
+                101,
+                50,
+                6,
+                62,
+                123,
+                112,
+                147,
+                165,
+                133,
+                25
+            ],
+            "answer": "Equestrian",
+            "hint": "Like the statue of Marcus Aurelius on the Capitoline Hill"
+        },
+        "S": {
+            "cells": [
+                111,
+                55,
+                5,
+                21,
+                124,
+                146
+            ],
+            "answer": "Astute",
+            "hint": "Marked by practical, hardheaded intelligence"
+        },
+        "T": {
+            "cells": [
+                144,
+                52,
+                94,
+                12,
+                71,
+                28
+            ],
+            "answer": "Badges",
+            "hint": "\u201cWe don\u2019t need no stinking ___\u201d (\u201cBlazing Saddles,\u201d 1974)"
+        },
+        "U": {
+            "cells": [
+                24,
+                66,
+                98,
+                49,
+                126,
+                155,
+                164,
+                137,
+                36
+            ],
+            "answer": "Ice skates",
+            "hint": "Hurricanes or Lightning gear (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                89,
+                65,
+                171,
+                135,
+                32,
+                2,
+                76,
+                110
+            ],
+            "answer": "Side dish",
+            "hint": "Il contorno, in Italian cuisine (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                33,
+                10,
+                59,
+                158,
+                127,
+                138,
+                87,
+                114,
+                179,
+                72
+            ],
+            "answer": "Clydesdale",
+            "hint": "Draft horse with feathery fetlocks"
+        },
+        "X": {
+            "cells": [
+                26,
+                44,
+                88,
+                11,
+                156,
+                63,
+                140,
+                175
+            ],
+            "answer": "Undertow",
+            "hint": "Rip beneath the waves"
+        },
+        "Y": {
+            "cells": [
+                106,
+                128,
+                58,
+                90,
+                29,
+                163,
+                69
+            ],
+            "answer": "In stock",
+            "hint": "Available for purchase (2 wds.)"
+        },
+        "Z": {
+            "cells": [
+                20,
+                116,
+                153,
+                37,
+                86,
+                103
+            ],
+            "answer": "Tomtom",
+            "hint": "It was once beaten by the Indians (hyph.)"
+        }
+    }
+}

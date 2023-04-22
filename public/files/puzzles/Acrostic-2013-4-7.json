@@ -1,0 +1,370 @@
+{
+    "answer": "When the right idea... clicks into place, one immediately sees how many previously puzzling facts are neatly explained by the new hypothesis.... One could kick oneself for not having the idea earlier, it now seems so obvious.",
+    "author": "Francis Crick,",
+    "authorCell": [
+        135,
+        137,
+        16,
+        95,
+        119,
+        161,
+        79,
+        30,
+        160,
+        158,
+        126,
+        124,
+        105,
+        6,
+        41,
+        86,
+        36,
+        155,
+        97,
+        67,
+        178,
+        81,
+        46,
+        121,
+        125,
+        25
+    ],
+    "source": "What Mad Pursuit",
+    "clues": {
+        "A": {
+            "cells": [
+                135,
+                58,
+                76,
+                117,
+                21,
+                157,
+                40,
+                4
+            ],
+            "answer": "Franklin",
+            "hint": "\u201cNo gains without pains\u201d writer of 1745"
+        },
+        "B": {
+            "cells": [
+                137,
+                164,
+                179,
+                29,
+                122,
+                61,
+                83,
+                14
+            ],
+            "answer": "Rosalind",
+            "hint": "Orlando\u2019s lover in \u201cAs You Like It\u201d"
+        },
+        "C": {
+            "cells": [
+                16,
+                2,
+                153,
+                53,
+                109,
+                169,
+                96,
+                138,
+                78
+            ],
+            "answer": "Aha moment",
+            "hint": "Instant of clear perception (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                95,
+                51,
+                165,
+                35,
+                147,
+                69,
+                127,
+                114
+            ],
+            "answer": "Nowitzki",
+            "hint": "First European to win the N.B.A.\u2019s M.V.P. award"
+        },
+        "E": {
+            "cells": [
+                119,
+                136,
+                27,
+                107,
+                174,
+                62,
+                88
+            ],
+            "answer": "Copyboy",
+            "hint": "Obsolescent news job"
+        },
+        "F": {
+            "cells": [
+                161,
+                17,
+                89,
+                75,
+                120,
+                146
+            ],
+            "answer": "Ice fog",
+            "hint": "Weather phenomenon sometimes known as a pogonip (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                79,
+                11,
+                142,
+                39,
+                116,
+                52,
+                99
+            ],
+            "answer": "Shadowy",
+            "hint": "Not easy to discern in the murk"
+        },
+        "H": {
+            "cells": [
+                30,
+                111,
+                7,
+                84,
+                64,
+                154
+            ],
+            "answer": "Cheese",
+            "hint": "Word just before a snap?"
+        },
+        "I": {
+            "cells": [
+                160,
+                34,
+                143,
+                82,
+                54,
+                18
+            ],
+            "answer": "Reveal",
+            "hint": "Key disclosure in a screenplay\u2019s plot"
+        },
+        "J": {
+            "cells": [
+                158,
+                33,
+                100,
+                63,
+                144,
+                12
+            ],
+            "answer": "Intuit",
+            "hint": "Know without reason"
+        },
+        "K": {
+            "cells": [
+                126,
+                141,
+                72,
+                24,
+                43,
+                113,
+                159
+            ],
+            "answer": "Chinese",
+            "hint": "What one in six may speak in"
+        },
+        "L": {
+            "cells": [
+                124,
+                47,
+                28,
+                108,
+                94,
+                168
+            ],
+            "answer": "Kelpie",
+            "hint": "Malevolent water spirit of Scottish legend"
+        },
+        "M": {
+            "cells": [
+                105,
+                80,
+                162,
+                49,
+                177,
+                129
+            ],
+            "answer": "Watson",
+            "hint": "Co-winner of the 1962 Nobel Prize in Physiology or Medicine"
+        },
+        "N": {
+            "cells": [
+                6,
+                176,
+                103,
+                38,
+                22
+            ],
+            "answer": "Hines",
+            "hint": "\u201cFatha\u201d of modern jazz"
+        },
+        "O": {
+            "cells": [
+                41,
+                55,
+                123,
+                93,
+                163,
+                140,
+                15
+            ],
+            "answer": "Andante",
+            "hint": "Not too fast, as a movement"
+        },
+        "P": {
+            "cells": [
+                86,
+                106,
+                167,
+                32,
+                8,
+                66
+            ],
+            "answer": "Theory",
+            "hint": "Speculation"
+        },
+        "Q": {
+            "cells": [
+                36,
+                172,
+                87,
+                71,
+                150,
+                134,
+                56
+            ],
+            "answer": "Mollify",
+            "hint": "Unruffle the feathers of"
+        },
+        "R": {
+            "cells": [
+                155,
+                10,
+                68,
+                23,
+                131,
+                50
+            ],
+            "answer": "Aguish",
+            "hint": "Like Byron after his Hellespont swim"
+        },
+        "S": {
+            "cells": [
+                97,
+                9,
+                118,
+                171,
+                31,
+                65
+            ],
+            "answer": "Diesel",
+            "hint": "Semi-filling liquid"
+        },
+        "T": {
+            "cells": [
+                67,
+                132,
+                85,
+                98,
+                173,
+                151,
+                45
+            ],
+            "answer": "Peabody",
+            "hint": "Award for radio and TV merit"
+        },
+        "U": {
+            "cells": [
+                178,
+                57,
+                110,
+                152,
+                37,
+                91,
+                128
+            ],
+            "answer": "Up-tempo",
+            "hint": "Fast and peppy (hyph.)"
+        },
+        "V": {
+            "cells": [
+                81,
+                3,
+                60,
+                26,
+                133,
+                175,
+                112,
+                156
+            ],
+            "answer": "\u201cRevolver\u201d",
+            "hint": "Album opening with \u201cTaxman\u201d"
+        },
+        "W": {
+            "cells": [
+                46,
+                19,
+                90,
+                5,
+                148,
+                166,
+                102,
+                73,
+                115,
+                130
+            ],
+            "answer": "Sixth sense",
+            "hint": "Subtle power of cognizance (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                121,
+                20,
+                77,
+                59,
+                92,
+                44,
+                139
+            ],
+            "answer": "Uccello",
+            "hint": "\u201cThe Battle of San Romano\u201d painter"
+        },
+        "Y": {
+            "cells": [
+                125,
+                145,
+                170,
+                13,
+                74,
+                101,
+                42
+            ],
+            "answer": "Insight",
+            "hint": "Breakthrough in brainwork"
+        },
+        "Z": {
+            "cells": [
+                25,
+                1,
+                104,
+                149,
+                70,
+                48
+            ],
+            "answer": "Tweeze",
+            "hint": "Do a plucky job?"
+        }
+    }
+}

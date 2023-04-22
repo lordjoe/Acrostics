@@ -1,0 +1,346 @@
+{
+    "answer": "I know animals more gallant than the... warthog, but none more courageous.... [H]e will fight anything of any size that intrudes upon his smug existence.... What he does not understand, he suspects, and what he suspects, he fights.",
+    "author": "(Beryl) Markham,",
+    "authorCell": [
+        107,
+        157,
+        15,
+        2,
+        68,
+        26,
+        45,
+        31,
+        143,
+        98,
+        28,
+        155,
+        112,
+        167,
+        142,
+        93,
+        103,
+        110,
+        153,
+        62,
+        173,
+        169,
+        150
+    ],
+    "source": "West With The Night",
+    "clues": {
+        "A": {
+            "cells": [
+                107,
+                91,
+                137,
+                13,
+                53,
+                73,
+                166,
+                35
+            ],
+            "answer": "Mismatch",
+            "hint": "David and Goliath, e.g."
+        },
+        "B": {
+            "cells": [
+                157,
+                87,
+                20,
+                139,
+                52,
+                37,
+                124
+            ],
+            "answer": "At large",
+            "hint": "On the loose; covering all districts (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                15,
+                30,
+                117,
+                64,
+                99,
+                146,
+                170
+            ],
+            "answer": "Recluse",
+            "hint": "Not a very sociable sort"
+        },
+        "D": {
+            "cells": [
+                2,
+                133,
+                97,
+                44,
+                120,
+                172,
+                77,
+                159
+            ],
+            "answer": "Knee-high",
+            "hint": "Like a soccer player\u2019s socks (hyph.)"
+        },
+        "E": {
+            "cells": [
+                68,
+                32,
+                85,
+                55,
+                19,
+                140,
+                162,
+                122
+            ],
+            "answer": "Hazelnut",
+            "hint": "Frangelico flavoring"
+        },
+        "F": {
+            "cells": [
+                26,
+                47,
+                67,
+                4,
+                161,
+                82
+            ],
+            "answer": "Argosy",
+            "hint": "Large merchant vessel"
+        },
+        "G": {
+            "cells": [
+                45,
+                108,
+                141,
+                174,
+                160,
+                71,
+                83
+            ],
+            "answer": "Mud Hens",
+            "hint": "Toledo, Ohio, Triple-A team with an avian name (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                31,
+                156,
+                1,
+                90,
+                135,
+                22,
+                104,
+                63,
+                48
+            ],
+            "answer": "White Nile",
+            "hint": "River from Lake No to Khartoum (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                143,
+                76,
+                164,
+                6,
+                58,
+                106,
+                18,
+                92,
+                34
+            ],
+            "answer": "En passant",
+            "hint": "Incidentally, by the way (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                98,
+                147,
+                29,
+                8,
+                129,
+                111
+            ],
+            "answer": "Sphinx",
+            "hint": "Mythical beast whose name means \u201cstrangler\u201d"
+        },
+        "K": {
+            "cells": [
+                28,
+                51,
+                94,
+                116,
+                148,
+                125,
+                14,
+                65,
+                79
+            ],
+            "answer": "Turned off",
+            "hint": "Disgusted; extinguished; diverged (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                155,
+                66,
+                105,
+                123,
+                38,
+                56,
+                81,
+                16
+            ],
+            "answer": "\u201cWishbone\u201d",
+            "hint": "Football formation with three running backs"
+        },
+        "M": {
+            "cells": [
+                112,
+                54,
+                27,
+                75,
+                144,
+                171,
+                10,
+                158,
+                95,
+                39,
+                128
+            ],
+            "answer": "Ignis fatuus",
+            "hint": "Deceptive or false goal (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                167,
+                115,
+                7,
+                21,
+                49,
+                84,
+                138,
+                72
+            ],
+            "answer": "Tenacity",
+            "hint": "Attribute of the indomitable"
+        },
+        "O": {
+            "cells": [
+                142,
+                36,
+                175,
+                154,
+                50,
+                17
+            ],
+            "answer": "Hot dog",
+            "hint": "Daredevil on a surfboard (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                93,
+                60,
+                80,
+                149,
+                121,
+                136,
+                23
+            ],
+            "answer": "Tea cart",
+            "hint": "Service station on wheels? (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                103,
+                132,
+                12,
+                88,
+                74,
+                57,
+                168,
+                25
+            ],
+            "answer": "Hush-hush",
+            "hint": "Under wraps, clandestine (hyph.)"
+        },
+        "R": {
+            "cells": [
+                110,
+                40,
+                126,
+                163,
+                59,
+                89
+            ],
+            "answer": "Etosha",
+            "hint": "Vast game park in Namibia"
+        },
+        "S": {
+            "cells": [
+                153,
+                46,
+                114,
+                33,
+                165,
+                96,
+                70,
+                9,
+                127
+            ],
+            "answer": "Notre Dame",
+            "hint": "Title setting for a 1939 film starring Charles Laughton (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                62,
+                102,
+                151,
+                130,
+                11,
+                118,
+                43,
+                24
+            ],
+            "answer": "Insolent",
+            "hint": "\u201cHunger is ___, and will be fed\u201d (Homer)"
+        },
+        "U": {
+            "cells": [
+                173,
+                86,
+                5,
+                109,
+                152,
+                61
+            ],
+            "answer": "Gewgaw",
+            "hint": "Gimcrack, whatnot, bauble"
+        },
+        "V": {
+            "cells": [
+                169,
+                145,
+                3,
+                69,
+                134,
+                101,
+                119,
+                41
+            ],
+            "answer": "Hunt down",
+            "hint": "Go in pursuit of (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                150,
+                42,
+                176,
+                113,
+                100,
+                78,
+                131
+            ],
+            "answer": "Tosspot",
+            "hint": "Perpetually pie-eyed imbiber"
+        }
+    }
+}

@@ -8,6 +8,11 @@ export  interface PuzzleHolder {
  //   ref: React.MutableRefObject<() => void>
  }
 
+export  interface FilenameHolder {
+    filename: string;
+
+    //   ref: React.MutableRefObject<() => void>
+}
 export  interface PuzzleClueHolder {
     puzzle: Puzzle;
     clue: Clue;

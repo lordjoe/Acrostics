@@ -1,0 +1,357 @@
+{
+    "answer": "Rachmaninov as everyone knows used to get mad with people who thought his C sharp minor Prelude described a man nailed into his coffin on insufficient medical evidence who kept banging on the lid to attract passersby.",
+    "author": "(Basil) Boothroyd,",
+    "authorCell": [
+        86,
+        45,
+        10,
+        58,
+        4,
+        1,
+        71,
+        18,
+        162,
+        62,
+        149,
+        124,
+        180,
+        155,
+        55,
+        72,
+        34,
+        12,
+        88,
+        36,
+        27,
+        175,
+        120,
+        3
+    ],
+    "source": "Can You Read Music?",
+    "clues": {
+        "A": {
+            "cells": [
+                86,
+                176,
+                97,
+                163,
+                42,
+                54,
+                15,
+                127,
+                150
+            ],
+            "answer": "Beethoven",
+            "hint": "Composer whose dying words were \u201cApplaud, my friends, the comedy is over\u201d"
+        },
+        "B": {
+            "cells": [
+                45,
+                84,
+                121,
+                142,
+                21,
+                174,
+                157,
+                66,
+                6
+            ],
+            "answer": "Orchestra",
+            "hint": "Outfit in a pit"
+        },
+        "C": {
+            "cells": [
+                10,
+                119,
+                109,
+                179,
+                79,
+                65,
+                147
+            ],
+            "answer": "Offbeat",
+            "hint": "Unaccented part of a measure"
+        },
+        "D": {
+            "cells": [
+                58,
+                85,
+                159,
+                136
+            ],
+            "answer": "Tied",
+            "hint": "Literal meaning of \u201clegato\u201d"
+        },
+        "E": {
+            "cells": [
+                4,
+                37,
+                74,
+                146,
+                116,
+                161,
+                130,
+                53,
+                19,
+                177,
+                98
+            ],
+            "answer": "Harpsichord",
+            "hint": "Virginal, e.g."
+        },
+        "F": {
+            "cells": [
+                1,
+                87,
+                38,
+                115,
+                152,
+                170,
+                50,
+                24,
+                132,
+                63
+            ],
+            "answer": "Red Nichols",
+            "hint": "Jazz cornetist who played with His Five Pennies (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                71,
+                82,
+                139,
+                8,
+                52,
+                165,
+                23,
+                101
+            ],
+            "answer": "Oscitant",
+            "hint": "Agape with drowsiness or boredom"
+        },
+        "H": {
+            "cells": [
+                18,
+                94,
+                49,
+                153,
+                69,
+                111,
+                33
+            ],
+            "answer": "Yawning",
+            "hint": "Synonym of Answer G."
+        },
+        "I": {
+            "cells": [
+                162,
+                48,
+                118,
+                16,
+                83,
+                31
+            ],
+            "answer": "Defect",
+            "hint": "Broken piano key, e.g."
+        },
+        "J": {
+            "cells": [
+                62,
+                89,
+                156,
+                123,
+                26
+            ],
+            "answer": "Canes",
+            "hint": "Props for dancing vaudevillians"
+        },
+        "K": {
+            "cells": [
+                149,
+                100,
+                11,
+                40,
+                76,
+                178
+            ],
+            "answer": "Anvils",
+            "hint": "Heavy gear needed for Verdi\u2019s \u201cIl Trovatore\u201d"
+        },
+        "L": {
+            "cells": [
+                124,
+                75,
+                2,
+                47,
+                158,
+                140,
+                108,
+                171,
+                95
+            ],
+            "answer": "Neal Hefti",
+            "hint": "Composer of the \u201cBatman\u201d and \u201cThe Odd Couple\u201d themes (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                180,
+                32,
+                80,
+                145,
+                160,
+                44,
+                128
+            ],
+            "answer": "Yodeled",
+            "hint": "Made a chalet-to-chalet call"
+        },
+        "N": {
+            "cells": [
+                155,
+                43,
+                73,
+                102,
+                61,
+                114,
+                166,
+                133
+            ],
+            "answer": "Opposite",
+            "hint": "Ritardando, vis-a-vis accelerando"
+        },
+        "O": {
+            "cells": [
+                55,
+                9,
+                129,
+                105,
+                143,
+                92
+            ],
+            "answer": "Unison",
+            "hint": "What choir members often sing in"
+        },
+        "P": {
+            "cells": [
+                72,
+                57,
+                164,
+                113,
+                30,
+                91
+            ],
+            "answer": "Rhonda",
+            "hint": "Title girl in a Beach Boys hit"
+        },
+        "Q": {
+            "cells": [
+                34,
+                5,
+                148,
+                51,
+                77,
+                106,
+                64,
+                117,
+                17,
+                137
+            ],
+            "answer": "Embouchure",
+            "hint": "Mouthpiece of a wind instrument"
+        },
+        "R": {
+            "cells": [
+                12,
+                70,
+                167,
+                103,
+                29,
+                126
+            ],
+            "answer": "Anthem",
+            "hint": "\u201cAngola Avante\u201d or \u201cGod Bless Fiji\u201d"
+        },
+        "S": {
+            "cells": [
+                88,
+                112,
+                141,
+                20,
+                67,
+                169,
+                35
+            ],
+            "answer": "Down pat",
+            "hint": "Rehearsed to mastery (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                36,
+                110,
+                93,
+                135,
+                68,
+                13
+            ],
+            "answer": "Minims",
+            "hint": "Half notes"
+        },
+        "U": {
+            "cells": [
+                27,
+                172,
+                41,
+                99,
+                154,
+                59,
+                125
+            ],
+            "answer": "Uptight",
+            "hint": "Stevie Wonder hit of 1966"
+        },
+        "V": {
+            "cells": [
+                175,
+                25,
+                122,
+                7,
+                151,
+                104,
+                138,
+                56
+            ],
+            "answer": "Swinging",
+            "hint": "In the style of Basie or Goodman"
+        },
+        "W": {
+            "cells": [
+                120,
+                90,
+                46,
+                168,
+                107,
+                134,
+                60,
+                28,
+                14,
+                78
+            ],
+            "answer": "Improvised",
+            "hint": "Vamped"
+        },
+        "X": {
+            "cells": [
+                3,
+                131,
+                22,
+                81,
+                39,
+                173,
+                96,
+                144
+            ],
+            "answer": "Cakewalk",
+            "hint": "Strutting dance; deed done with ease"
+        }
+    }
+}

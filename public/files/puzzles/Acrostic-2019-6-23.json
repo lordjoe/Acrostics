@@ -1,0 +1,360 @@
+{
+    "answer": "We try to make sense... of everything... including music. ... We find it pleasant if our expectations are frustrated occasionally, but we don\u2019t expect to be wildly donkey... like the way you didn\u2019t expect the word \u201cdonkey\u201d just then.",
+    "author": "John Powell,",
+    "authorCell": [
+        169,
+        164,
+        174,
+        148,
+        66,
+        95,
+        139,
+        130,
+        98,
+        124,
+        159,
+        157,
+        131,
+        100,
+        61,
+        62,
+        122,
+        17,
+        20,
+        135,
+        8,
+        170,
+        55,
+        29,
+        90
+    ],
+    "source": "Why You Love Music",
+    "clues": {
+        "A": {
+            "cells": [
+                169,
+                153,
+                102,
+                123,
+                2,
+                15,
+                51,
+                84,
+                35,
+                136
+            ],
+            "answer": "Jeu d'esprit",
+            "hint": "Lighthearted display of wit and cleverness (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                164,
+                144,
+                86,
+                45,
+                127,
+                65,
+                21,
+                106
+            ],
+            "answer": "Outfoxed",
+            "hint": "Got the better of by ingenuity"
+        },
+        "C": {
+            "cells": [
+                174,
+                97,
+                132,
+                60,
+                112,
+                77,
+                146,
+                31,
+                16
+            ],
+            "answer": "Half-price",
+            "hint": "At a drastic discount (hyph.)"
+        },
+        "D": {
+            "cells": [
+                148,
+                67,
+                120,
+                24,
+                89,
+                165
+            ],
+            "answer": "Newton",
+            "hint": "Where Boston Marathoners run up Heartbreak Hill"
+        },
+        "E": {
+            "cells": [
+                66,
+                22,
+                53,
+                82,
+                109,
+                143
+            ],
+            "answer": "\"Presto!\"",
+            "hint": "Exclamation meant to elicit gasps"
+        },
+        "F": {
+            "cells": [
+                95,
+                34,
+                64,
+                172,
+                6,
+                138
+            ],
+            "answer": "Odette",
+            "hint": "Princess-turned-swan of ballet"
+        },
+        "G": {
+            "cells": [
+                139,
+                78,
+                40,
+                58,
+                119,
+                96,
+                163
+            ],
+            "answer": "West End",
+            "hint": "Piccadilly Circus locale (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                130,
+                69,
+                33,
+                162,
+                113,
+                93
+            ],
+            "answer": "\"Etudes\"",
+            "hint": "Set of 12 Debussy pieces"
+        },
+        "I": {
+            "cells": [
+                98,
+                7,
+                43,
+                134,
+                19,
+                168
+            ],
+            "answer": "Low-key",
+            "hint": "Restrained, mellow, laid-back (hyph.)"
+        },
+        "J": {
+            "cells": [
+                124,
+                85,
+                38,
+                13,
+                57,
+                149
+            ],
+            "answer": "Lament",
+            "hint": "Sorrowful song; moan and groan"
+        },
+        "K": {
+            "cells": [
+                159,
+                4,
+                46,
+                75,
+                173,
+                118,
+                92,
+                30,
+                145
+            ],
+            "answer": "Wristband",
+            "hint": "Something often worn at a concert or amusement park"
+        },
+        "L": {
+            "cells": [
+                157,
+                175,
+                47,
+                126,
+                63,
+                94,
+                111
+            ],
+            "answer": "Hendrix",
+            "hint": "Woodstock\u2019s last performer"
+        },
+        "M": {
+            "cells": [
+                131,
+                70,
+                104,
+                27
+            ],
+            "answer": "Yawn",
+            "hint": "Display of ennui"
+        },
+        "N": {
+            "cells": [
+                100,
+                76,
+                129,
+                150,
+                115,
+                23,
+                5,
+                56,
+                166
+            ],
+            "answer": "\"Yakety Yak\"",
+            "hint": "1958 novelty hit for the Coasters (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                61,
+                42,
+                155,
+                110,
+                83
+            ],
+            "answer": "Octet",
+            "hint": "\u201cEleanor Rigby\u201d string ensemble"
+        },
+        "P": {
+            "cells": [
+                62,
+                152,
+                12,
+                87,
+                50,
+                116,
+                133,
+                176,
+                37
+            ],
+            "answer": "Upsetting",
+            "hint": "Aim of a gadfly or troll"
+        },
+        "Q": {
+            "cells": [
+                122,
+                140,
+                1,
+                18,
+                39,
+                52
+            ],
+            "answer": "Lawful",
+            "hint": "Criminal\u2019s opposite"
+        },
+        "R": {
+            "cells": [
+                17,
+                101,
+                171,
+                68,
+                158,
+                36,
+                49,
+                3,
+                141
+            ],
+            "answer": "Obscenity",
+            "hint": "Charge of which Lenny Bruce was convicted"
+        },
+        "S": {
+            "cells": [
+                20,
+                44,
+                161,
+                88,
+                72
+            ],
+            "answer": "Verdi",
+            "hint": "Composer of the opera buffa \u201cFalstaff\u201d"
+        },
+        "T": {
+            "cells": [
+                135,
+                151,
+                107,
+                71,
+                26,
+                91
+            ],
+            "answer": "Exotic",
+            "hint": "Like some dancers and pets"
+        },
+        "U": {
+            "cells": [
+                8,
+                54,
+                128,
+                147,
+                160,
+                99,
+                41,
+                74
+            ],
+            "answer": "Mandolin",
+            "hint": "What\u2019s picked by Chris Thile or Sam Bush"
+        },
+        "V": {
+            "cells": [
+                170,
+                108,
+                32,
+                81,
+                154,
+                10,
+                125
+            ],
+            "answer": "Unlucky",
+            "hint": "Bad, for the superstitious"
+        },
+        "W": {
+            "cells": [
+                55,
+                117,
+                103,
+                25,
+                167,
+                80,
+                11
+            ],
+            "answer": "\"So there\"",
+            "hint": "\u201cI don\u2019t care what you think!\u201d (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                29,
+                48,
+                105,
+                14,
+                156,
+                121,
+                79,
+                142
+            ],
+            "answer": "Identify",
+            "hint": "Be on the same wavelength"
+        },
+        "Y": {
+            "cells": [
+                90,
+                137,
+                59,
+                114,
+                9,
+                28,
+                73
+            ],
+            "answer": "Chicago",
+            "hint": "Birthplace of Herbie Hancock, Lou Rawls and Benny Goodman"
+        }
+    }
+}

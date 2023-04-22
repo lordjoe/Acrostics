@@ -1,0 +1,373 @@
+{
+    "answer": "The yucca bristles with bayonet-pointed leaves, dull green, growing shaggy with age, tipped with panicles of fetid, greenish bloom. After death,... the ghostly hollow network of its woody skeleton... makes the moonlight fearful.",
+    "author": "Mary (Hunter) Austin,",
+    "authorCell": [
+        167,
+        37,
+        112,
+        62,
+        160,
+        42,
+        151,
+        32,
+        83,
+        134,
+        154,
+        178,
+        158,
+        34,
+        132,
+        142,
+        104,
+        30,
+        78,
+        110,
+        182,
+        39,
+        179,
+        59,
+        71,
+        170
+    ],
+    "source": "(The) Land of Little Rain",
+    "clues": {
+        "A": {
+            "cells": [
+                167,
+                108,
+                16,
+                70,
+                29,
+                149,
+                129,
+                55
+            ],
+            "answer": "Mastodon",
+            "hint": "Extinct giant herbivore of North America"
+        },
+        "B": {
+            "cells": [
+                37,
+                101,
+                80,
+                66,
+                115,
+                14,
+                175
+            ],
+            "answer": "Asphalt",
+            "hint": "Product derived from oil sands"
+        },
+        "C": {
+            "cells": [
+                112,
+                166,
+                28,
+                13,
+                93,
+                131,
+                47
+            ],
+            "answer": "Reptile",
+            "hint": "Chuckwalla, skink or gecko"
+        },
+        "D": {
+            "cells": [
+                62,
+                91,
+                76,
+                40
+            ],
+            "answer": "Yews",
+            "hint": "Trees symbolic of immortality"
+        },
+        "E": {
+            "cells": [
+                160,
+                5,
+                57,
+                136,
+                36,
+                96,
+                120
+            ],
+            "answer": "Austere",
+            "hint": "Harsh, spartan, bare-bones"
+        },
+        "F": {
+            "cells": [
+                42,
+                72,
+                126,
+                18,
+                180,
+                1
+            ],
+            "answer": "Uplift",
+            "hint": "Raise, elevate, boost"
+        },
+        "G": {
+            "cells": [
+                151,
+                58,
+                98,
+                8,
+                27,
+                174
+            ],
+            "answer": "Sheath",
+            "hint": "Protective cover for a blade"
+        },
+        "H": {
+            "cells": [
+                32,
+                46,
+                181,
+                153,
+                133,
+                97,
+                12,
+                65
+            ],
+            "answer": "\"True West\"",
+            "hint": "Sam Shepard play set on the outskirts of Los Angeles (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                83,
+                176,
+                109,
+                127
+            ],
+            "answer": "Iffy",
+            "hint": "Not at all secure; questionable"
+        },
+        "J": {
+            "cells": [
+                134,
+                54,
+                68,
+                2,
+                116,
+                102,
+                81,
+                17,
+                161
+            ],
+            "answer": "Nighthawk",
+            "hint": "Crepuscular bird also called a goatsucker"
+        },
+        "K": {
+            "cells": [
+                154,
+                141,
+                45,
+                95,
+                172,
+                25,
+                121
+            ],
+            "answer": "Logging",
+            "hint": "Big trade in the Pacific Northwest"
+        },
+        "L": {
+            "cells": [
+                178,
+                35,
+                159,
+                143,
+                50,
+                79,
+                125,
+                4
+            ],
+            "answer": "Almighty",
+            "hint": "Deity or dollar descriptor"
+        },
+        "M": {
+            "cells": [
+                158,
+                111,
+                56,
+                86,
+                38
+            ],
+            "answer": "Negev",
+            "hint": "Arid region of Israel"
+        },
+        "N": {
+            "cells": [
+                34,
+                123,
+                53,
+                82,
+                7,
+                67,
+                163,
+                144
+            ],
+            "answer": "Downcast",
+            "hint": "Melancholy, low, morose"
+        },
+        "O": {
+            "cells": [
+                132,
+                103,
+                15,
+                44,
+                64,
+                87,
+                152
+            ],
+            "answer": "Obelisk",
+            "hint": "Column with four sides that taper to an apex"
+        },
+        "P": {
+            "cells": [
+                142,
+                171,
+                11,
+                31,
+                84,
+                117
+            ],
+            "answer": "Flinch",
+            "hint": "Pull back in surprised alarm"
+        },
+        "Q": {
+            "cells": [
+                104,
+                24,
+                49,
+                69,
+                146,
+                168,
+                130,
+                89
+            ],
+            "answer": "Lone wolf",
+            "hint": "Individualist, maverick (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                30,
+                99,
+                140,
+                9,
+                85,
+                52,
+                118
+            ],
+            "answer": "Inkblot",
+            "hint": "Stain on an analyst\u2019s record?"
+        },
+        "S": {
+            "cells": [
+                78,
+                139,
+                155,
+                48,
+                92,
+                169,
+                22,
+                113
+            ],
+            "answer": "Tree toad",
+            "hint": "Arboreal amphibian (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                110,
+                165,
+                77,
+                51,
+                124,
+                19,
+                150
+            ],
+            "answer": "Thirsty",
+            "hint": "In need of quenching"
+        },
+        "U": {
+            "cells": [
+                182,
+                157,
+                6,
+                106,
+                63,
+                135,
+                26,
+                41
+            ],
+            "answer": "Locoweed",
+            "hint": "Plant toxic to grazing cattle"
+        },
+        "V": {
+            "cells": [
+                39,
+                173,
+                61,
+                137,
+                20,
+                100,
+                156,
+                74
+            ],
+            "answer": "Egg white",
+            "hint": "Cholesterol-free source of protein (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                179,
+                33,
+                90,
+                10,
+                162,
+                145,
+                128,
+                114,
+                75
+            ],
+            "answer": "Refreshed",
+            "hint": "Energized; given new life"
+        },
+        "X": {
+            "cells": [
+                59,
+                94,
+                148,
+                21,
+                177
+            ],
+            "answer": "Adobe",
+            "hint": "Material used in many a Spanish mission"
+        },
+        "Y": {
+            "cells": [
+                71,
+                88,
+                107,
+                147,
+                164,
+                122
+            ],
+            "answer": "Io moth",
+            "hint": "Lepidopteran with prominent eyespots (2 wds.)"
+        },
+        "Z": {
+            "cells": [
+                170,
+                3,
+                73,
+                119,
+                138,
+                43,
+                105,
+                60,
+                23
+            ],
+            "answer": "Nephology",
+            "hint": "Study of clouds"
+        }
+    }
+}

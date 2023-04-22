@@ -1,0 +1,358 @@
+{
+    "answer": "The tourist travels... like a snail in his shell and stands... on his own perambulating doorstep to look at the continents .... But if you... sally forth with a leisurely and blank mind, there is no knowing what may... happen to you.",
+    "author": "Freya Stark,",
+    "authorCell": [
+        110,
+        57,
+        56,
+        163,
+        22,
+        9,
+        160,
+        134,
+        112,
+        150,
+        60,
+        58,
+        156,
+        85,
+        140,
+        119,
+        45,
+        32,
+        20,
+        74,
+        113,
+        87,
+        118,
+        145,
+        33
+    ],
+    "source": "Baghdad Sketches",
+    "clues": {
+        "A": {
+            "cells": [
+                110,
+                165,
+                29,
+                141,
+                82,
+                51,
+                128
+            ],
+            "answer": "Fantasy",
+            "hint": "Flight to another world?"
+        },
+        "B": {
+            "cells": [
+                57,
+                142,
+                77,
+                94,
+                3
+            ],
+            "answer": "Rhone",
+            "hint": "Flow below Avignon\u2019s bridge"
+        },
+        "C": {
+            "cells": [
+                56,
+                92,
+                14,
+                28,
+                41,
+                138,
+                103,
+                155
+            ],
+            "answer": "Envision",
+            "hint": "Picture without a camera"
+        },
+        "D": {
+            "cells": [
+                163,
+                63,
+                115,
+                16
+            ],
+            "answer": "Yawl",
+            "hint": "Two-masted fore-and-aft-rigged vessel"
+        },
+        "E": {
+            "cells": [
+                22,
+                89,
+                10,
+                122,
+                167,
+                152,
+                68,
+                106,
+                37
+            ],
+            "answer": "Antipodal",
+            "hint": "On the opposite side of the globe"
+        },
+        "F": {
+            "cells": [
+                9,
+                116,
+                131,
+                93,
+                42,
+                144,
+                26,
+                75
+            ],
+            "answer": "Side trip",
+            "hint": "Deviation from the itinerary (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                160,
+                98,
+                24,
+                65,
+                46
+            ],
+            "answer": "Tunis",
+            "hint": "Modern capital near ancient Carthage"
+        },
+        "H": {
+            "cells": [
+                134,
+                61,
+                4,
+                111,
+                97,
+                25,
+                158,
+                39
+            ],
+            "answer": "Autobahn",
+            "hint": "Konrad Adenauer presided over its opening ceremonies in 1932"
+        },
+        "I": {
+            "cells": [
+                112,
+                143,
+                54,
+                170,
+                129,
+                36
+            ],
+            "answer": "Rental",
+            "hint": "Home away from home, perhaps"
+        },
+        "J": {
+            "cells": [
+                150,
+                173,
+                139,
+                117,
+                19,
+                81,
+                50
+            ],
+            "answer": "\u201cKon-Tiki\"",
+            "hint": "Account of a 101-day journey (hyph.)"
+        },
+        "K": {
+            "cells": [
+                60,
+                127,
+                162,
+                12,
+                148,
+                86,
+                172
+            ],
+            "answer": "Blarney",
+            "hint": "Gift acquired at an Irish castle?"
+        },
+        "L": {
+            "cells": [
+                58,
+                96,
+                164,
+                137,
+                80,
+                120,
+                15,
+                43,
+                151
+            ],
+            "answer": "Ashmolean",
+            "hint": "Museum of art and archaeology at Oxford University"
+        },
+        "M": {
+            "cells": [
+                156,
+                38,
+                108,
+                124,
+                59,
+                166,
+                2
+            ],
+            "answer": "Galumph",
+            "hint": "Move about cumbersomely"
+        },
+        "N": {
+            "cells": [
+                85,
+                6,
+                40,
+                72,
+                52,
+                135
+            ],
+            "answer": "Hudson",
+            "hint": "Car used in Kerouac\u2019s \u201cOn the Road\u201d"
+        },
+        "O": {
+            "cells": [
+                140,
+                88,
+                157,
+                66,
+                123,
+                79,
+                174,
+                11,
+                114
+            ],
+            "answer": "Down south",
+            "hint": "Where \u201cfolks are crooning songs soft and low,\u201d per Satchmo (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                119,
+                27,
+                47,
+                101,
+                73
+            ],
+            "answer": "Aloft",
+            "hint": "At the masthead or higher rigging"
+        },
+        "Q": {
+            "cells": [
+                45,
+                146,
+                90,
+                30,
+                109,
+                71,
+                13,
+                161,
+                132
+            ],
+            "answer": "Dithyramb",
+            "hint": "Wildly enthusiastic piece of writing"
+        },
+        "R": {
+            "cells": [
+                32,
+                83,
+                125,
+                149,
+                62,
+                107
+            ],
+            "answer": "Stroll",
+            "hint": "Wander on foot, promenade"
+        },
+        "S": {
+            "cells": [
+                20,
+                91,
+                1,
+                76,
+                102,
+                34,
+                159,
+                53,
+                136
+            ],
+            "answer": "\"Kitty Hawk\u201d",
+            "hint": "Apollo 14 command module (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                74,
+                130,
+                169,
+                104,
+                8
+            ],
+            "answer": "Ennui",
+            "hint": "Affliction of the world-weary"
+        },
+        "U": {
+            "cells": [
+                113,
+                153,
+                31,
+                64,
+                84,
+                126,
+                7
+            ],
+            "answer": "Twitter",
+            "hint": "Microblogging service"
+        },
+        "V": {
+            "cells": [
+                87,
+                69,
+                48,
+                105,
+                171,
+                133,
+                21
+            ],
+            "answer": "Console",
+            "hint": "Instrument panel"
+        },
+        "W": {
+            "cells": [
+                118,
+                70,
+                147,
+                99,
+                35,
+                18
+            ],
+            "answer": "Hostel",
+            "hint": "Booking for a frugal wayfarer"
+        },
+        "X": {
+            "cells": [
+                145,
+                55,
+                23,
+                100,
+                78,
+                5,
+                44
+            ],
+            "answer": "Epsilon",
+            "hint": "In ancient Greece, what gave Eros a start?"
+        },
+        "Y": {
+            "cells": [
+                33,
+                154,
+                67,
+                49,
+                95,
+                17,
+                121,
+                168
+            ],
+            "answer": "Sightsee",
+            "hint": "Make use of a guidebook"
+        }
+    }
+}

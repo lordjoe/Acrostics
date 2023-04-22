@@ -1,0 +1,317 @@
+{
+    "answer": "You can get a good sense of the pace of change over the past century just by looking at the retronyms we\u2019ve accumulated[:]... steam locomotive, silent movie, manual transmission, AM radio, day baseball,... and acoustic guitar.",
+    "author": "(Geoffrey) Nunberg,",
+    "authorCell": [
+        50,
+        56,
+        17,
+        155,
+        95,
+        73,
+        7,
+        170,
+        13,
+        172,
+        116,
+        11,
+        132,
+        3,
+        87,
+        89,
+        92,
+        5,
+        130
+    ],
+    "source": "Going Nucular",
+    "clues": {
+        "A": {
+            "cells": [
+                50,
+                147,
+                38,
+                12,
+                104,
+                68,
+                135,
+                160,
+                83
+            ],
+            "answer": "Novocaine",
+            "hint": "Pre-extraction application"
+        },
+        "B": {
+            "cells": [
+                56,
+                143,
+                151,
+                162,
+                66,
+                128,
+                99,
+                35,
+                115,
+                78,
+                14
+            ],
+            "answer": "Urban legend",
+            "hint": "Modern-day tale probably apocryphal (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                17,
+                138,
+                44,
+                109,
+                125,
+                94,
+                32,
+                74,
+                59,
+                165,
+                148
+            ],
+            "answer": "Nip in the bud",
+            "hint": "Check early (4 wds.)"
+        },
+        "D": {
+            "cells": [
+                155,
+                2,
+                60,
+                81,
+                169,
+                37,
+                91,
+                129,
+                46
+            ],
+            "answer": "Boy Scouts",
+            "hint": "Ones ranked from Tenderfoot to Eagle (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                95,
+                69,
+                131,
+                114,
+                146,
+                45
+            ],
+            "answer": "Et alia",
+            "hint": "List-ending expression for Pliny (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                73,
+                33,
+                118,
+                97
+            ],
+            "answer": "Rams",
+            "hint": "Winners of Super Bowl XXXIV, in 2000"
+        },
+        "G": {
+            "cells": [
+                7,
+                85,
+                142,
+                18,
+                58,
+                127,
+                98,
+                72
+            ],
+            "answer": "Gem State",
+            "hint": "Idaho (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                170,
+                159,
+                134,
+                106,
+                26,
+                40,
+                93,
+                1,
+                15
+            ],
+            "answer": "Gamma rays",
+            "hint": "What a fallout shelter may block (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                13,
+                126,
+                70,
+                84,
+                29,
+                167,
+                43
+            ],
+            "answer": "Outvote",
+            "hint": "Defeat in a democratic process"
+        },
+        "J": {
+            "cells": [
+                172,
+                6,
+                100,
+                55,
+                113,
+                21,
+                30,
+                150
+            ],
+            "answer": "In a jiffy",
+            "hint": "Before you can blink an eye (3 wds.)"
+        },
+        "K": {
+            "cells": [
+                116,
+                149,
+                137,
+                9,
+                52,
+                76,
+                41,
+                65,
+                171,
+                101
+            ],
+            "answer": "Nasturtium",
+            "hint": "Flower whose name means nose-twist, from its pungency"
+        },
+        "L": {
+            "cells": [
+                11,
+                152,
+                90,
+                111,
+                57,
+                164,
+                123,
+                24
+            ],
+            "answer": "Gamesome",
+            "hint": "Sportive; ready to play"
+        },
+        "M": {
+            "cells": [
+                132,
+                86,
+                108,
+                144,
+                61,
+                168,
+                19,
+                48,
+                119,
+                158,
+                36
+            ],
+            "answer": "Natalie Cole",
+            "hint": "Jazz crooner\u2019s daughter whose 1975 debut album was Inseparable (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                3,
+                25,
+                75,
+                103,
+                133,
+                163,
+                53,
+                156,
+                117,
+                88,
+                42
+            ],
+            "answer": "Up to scratch",
+            "hint": "Meeting the conditions; fit; capable (3 wds.)"
+        },
+        "O": {
+            "cells": [
+                87,
+                102,
+                141,
+                153,
+                166,
+                121,
+                27,
+                4,
+                77,
+                64,
+                49
+            ],
+            "answer": "Classic Coke",
+            "hint": "Modified name for an old soft drink (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                89,
+                136,
+                71,
+                8,
+                175,
+                122,
+                51,
+                22,
+                39,
+                112
+            ],
+            "answer": "Usherettes",
+            "hint": "Leading ladies of the theater?"
+        },
+        "Q": {
+            "cells": [
+                92,
+                139,
+                110,
+                16,
+                79,
+                161,
+                63,
+                120,
+                28,
+                54
+            ],
+            "answer": "Lovey-dovey",
+            "hint": "Expressing affection too mushily (hyph.)"
+        },
+        "R": {
+            "cells": [
+                5,
+                140,
+                174,
+                157,
+                105,
+                67,
+                82,
+                124,
+                47,
+                31,
+                23
+            ],
+            "answer": "Analog watch",
+            "hint": "Modified name for a traditional timepiece (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                130,
+                107,
+                96,
+                20,
+                80,
+                62,
+                34,
+                173,
+                10,
+                145,
+                154
+            ],
+            "answer": "Rodomontade",
+            "hint": "Vain boasting, braggadocio"
+        }
+    }
+}

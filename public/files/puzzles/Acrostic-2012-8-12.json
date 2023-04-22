@@ -1,0 +1,369 @@
+{
+    "answer": "[T]he rowdy throngs... flung their bedding wherever they could,... sprawling like refugees across the surrounding countryside. ... [W]ith its lack of basic sanitation or facilities, the Olympic festival was the Woodstock of antiquity.",
+    "author": "(Tony) Perrottet,",
+    "authorCell": [
+        149,
+        68,
+        131,
+        40,
+        92,
+        9,
+        184,
+        23,
+        179,
+        21,
+        143,
+        165,
+        31,
+        121,
+        61,
+        144,
+        100,
+        5,
+        136,
+        97,
+        148,
+        51,
+        180,
+        134,
+        154
+    ],
+    "source": "The Naked Olympics",
+    "clues": {
+        "A": {
+            "cells": [
+                149,
+                2,
+                44,
+                120,
+                103,
+                181,
+                81,
+                62
+            ],
+            "answer": "Physique",
+            "hint": "Size, shape and proportions"
+        },
+        "B": {
+            "cells": [
+                68,
+                85,
+                173,
+                146,
+                24,
+                49
+            ],
+            "answer": "Euclid",
+            "hint": "Important figure in geometry"
+        },
+        "C": {
+            "cells": [
+                131,
+                3,
+                152,
+                109,
+                172,
+                33,
+                64,
+                82
+            ],
+            "answer": "Reflower",
+            "hint": "Open showily again after a quiescent period"
+        },
+        "D": {
+            "cells": [
+                40,
+                66,
+                16,
+                176,
+                137,
+                158,
+                86
+            ],
+            "answer": "Ruffian",
+            "hint": "Winner of horse racing\u2019s Triple Tiara in 1975"
+        },
+        "E": {
+            "cells": [
+                92,
+                157,
+                140,
+                52,
+                169,
+                113,
+                14
+            ],
+            "answer": "Overdog",
+            "hint": "Heavily favored competitor"
+        },
+        "F": {
+            "cells": [
+                9,
+                78,
+                175,
+                47,
+                141,
+                161,
+                94,
+                28,
+                117
+            ],
+            "answer": "Thousands",
+            "hint": "Quite a crowd"
+        },
+        "G": {
+            "cells": [
+                184,
+                69,
+                115,
+                46,
+                160,
+                135,
+                89,
+                32
+            ],
+            "answer": "Tebowing",
+            "hint": "Trendy fad based on an act of devotion"
+        },
+        "H": {
+            "cells": [
+                23,
+                129,
+                45,
+                167,
+                63,
+                101
+            ],
+            "answer": "Encore",
+            "hint": "Number after the last number"
+        },
+        "I": {
+            "cells": [
+                179,
+                164,
+                83,
+                43,
+                102,
+                12,
+                132,
+                65
+            ],
+            "answer": "Threw off",
+            "hint": "Misled; cast aside; emitted (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                21,
+                6,
+                139,
+                159,
+                60,
+                90,
+                42,
+                107
+            ],
+            "answer": "Twilight",
+            "hint": "Post-prime part of a career"
+        },
+        "K": {
+            "cells": [
+                143,
+                185,
+                110,
+                91,
+                30,
+                57,
+                126,
+                10
+            ],
+            "answer": "Hyacinth",
+            "hint": "Lover of Apollo killed trying to catch a discus"
+        },
+        "L": {
+            "cells": [
+                165,
+                118,
+                20,
+                105,
+                138,
+                70
+            ],
+            "answer": "Eights",
+            "hint": "Rowing event; key pool balls"
+        },
+        "M": {
+            "cells": [
+                31,
+                130,
+                171,
+                88,
+                114,
+                147
+            ],
+            "answer": "Notify",
+            "hint": "Apprise, tell, inform"
+        },
+        "N": {
+            "cells": [
+                121,
+                26,
+                59,
+                182,
+                163,
+                106,
+                145,
+                13,
+                80
+            ],
+            "answer": "Ablutions",
+            "hint": "Rituals usually involving water"
+        },
+        "O": {
+            "cells": [
+                61,
+                150,
+                98,
+                170,
+                27,
+                11
+            ],
+            "answer": "Kisser",
+            "hint": "Mug, puss"
+        },
+        "P": {
+            "cells": [
+                144,
+                111,
+                29,
+                8,
+                76,
+                127,
+                53,
+                162,
+                95
+            ],
+            "answer": "Ecdysiast",
+            "hint": "H. L. Mencken coinage for a stripper"
+        },
+        "Q": {
+            "cells": [
+                100,
+                71,
+                1,
+                153,
+                55,
+                123,
+                19,
+                39
+            ],
+            "answer": "\u201cDateline\"",
+            "hint": "NBC newsmagazine since 1992"
+        },
+        "R": {
+            "cells": [
+                5,
+                93,
+                142,
+                54,
+                74,
+                25,
+                174
+            ],
+            "answer": "Outwork",
+            "hint": "Best in industry"
+        },
+        "S": {
+            "cells": [
+                136,
+                84,
+                67,
+                156,
+                119,
+                177,
+                48
+            ],
+            "answer": "Logical",
+            "hint": "\u201cIf the world were a ___ place, men would ride side-saddle\u201d (Rita Mae Brown)"
+        },
+        "T": {
+            "cells": [
+                97,
+                133,
+                36,
+                7,
+                50,
+                155,
+                183,
+                72,
+                112
+            ],
+            "answer": "Yardstick",
+            "hint": "Standard for comparison"
+        },
+        "U": {
+            "cells": [
+                148,
+                37,
+                87,
+                125,
+                17
+            ],
+            "answer": "Medal",
+            "hint": "Collect some hardware"
+        },
+        "V": {
+            "cells": [
+                51,
+                96,
+                128,
+                166,
+                35,
+                15,
+                75
+            ],
+            "answer": "Prowess",
+            "hint": "Superior skill, exceptional ability"
+        },
+        "W": {
+            "cells": [
+                180,
+                122,
+                38,
+                56,
+                151,
+                77,
+                18,
+                108
+            ],
+            "answer": "\"Invictus\u201d",
+            "hint": "Poem inspiring South Africa\u2019s 1995 World Cup rugby team, in film"
+        },
+        "X": {
+            "cells": [
+                134,
+                22,
+                116,
+                73,
+                99,
+                168,
+                41
+            ],
+            "answer": "Chariot",
+            "hint": "Something raced in a hippodrome"
+        },
+        "Y": {
+            "cells": [
+                154,
+                124,
+                4,
+                79,
+                178,
+                58,
+                104,
+                34
+            ],
+            "answer": "Strength",
+            "hint": "Herculean attribute"
+        }
+    }
+}

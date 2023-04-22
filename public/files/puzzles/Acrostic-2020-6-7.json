@@ -1,0 +1,355 @@
+{
+    "answer": "There is a law which decrees that two objects may not occupy the same place at the same time... [T]wo people cannot see things from the same point of view, and the slightest difference in angle changes the thing seen.",
+    "author": "(Mildred) Aldrich,",
+    "authorCell": [
+        85,
+        58,
+        17,
+        100,
+        95,
+        60,
+        94,
+        10,
+        65,
+        165,
+        82,
+        151,
+        124,
+        42,
+        48,
+        101,
+        96,
+        163,
+        2,
+        66,
+        108,
+        107,
+        141,
+        41,
+        92
+    ],
+    "source": "A Hilltop on the Marne",
+    "clues": {
+        "A": {
+            "cells": [
+                85,
+                37,
+                57,
+                142,
+                15,
+                103
+            ],
+            "answer": "Aspect",
+            "hint": "Observational slant"
+        },
+        "B": {
+            "cells": [
+                58,
+                22,
+                139,
+                89,
+                6,
+                169,
+                106
+            ],
+            "answer": "Lefties",
+            "hint": "Ronald Reagan and George H. W. Bush, ironically"
+        },
+        "C": {
+            "cells": [
+                17,
+                31,
+                87,
+                62,
+                131,
+                47,
+                162
+            ],
+            "answer": "\"Donahue\"",
+            "hint": "Old syndicated talk show that TV Guide once named one of the 50 greatest television shows of all time"
+        },
+        "D": {
+            "cells": [
+                100,
+                18,
+                114,
+                146,
+                4,
+                74,
+                56
+            ],
+            "answer": "Retiree",
+            "hint": "Superannuitant"
+        },
+        "E": {
+            "cells": [
+                95,
+                28,
+                153,
+                13,
+                49,
+                138,
+                119,
+                79,
+                63
+            ],
+            "answer": "Itchy feet",
+            "hint": "Strong desire to travel (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                60,
+                104,
+                39,
+                20,
+                128,
+                5,
+                90
+            ],
+            "answer": "Charles",
+            "hint": "River plied by Boston\u2019s duck boats"
+        },
+        "G": {
+            "cells": [
+                94,
+                77,
+                9,
+                137,
+                168,
+                64,
+                112,
+                45
+            ],
+            "answer": "Holistic",
+            "hint": "Comprehensive, healthwise"
+        },
+        "H": {
+            "cells": [
+                10,
+                110,
+                44,
+                93,
+                25,
+                133,
+                150,
+                69
+            ],
+            "answer": "Apothegm",
+            "hint": "Saying of few words"
+        },
+        "I": {
+            "cells": [
+                65,
+                115,
+                81,
+                140,
+                35,
+                154,
+                21,
+                98,
+                50
+            ],
+            "answer": "Hope chest",
+            "hint": "Holder of dowry items (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                165,
+                113,
+                23,
+                72,
+                130,
+                51,
+                36
+            ],
+            "answer": "Insight",
+            "hint": "Eye-opening realization"
+        },
+        "K": {
+            "cells": [
+                82,
+                148,
+                55,
+                32,
+                126,
+                171,
+                1
+            ],
+            "answer": "Lambent",
+            "hint": "Softly glowing or flickering"
+        },
+        "L": {
+            "cells": [
+                151,
+                80,
+                167,
+                33,
+                121,
+                102
+            ],
+            "answer": "Logjam",
+            "hint": "Preventer of clear passage"
+        },
+        "M": {
+            "cells": [
+                124,
+                12,
+                91,
+                158,
+                75
+            ],
+            "answer": "Tweet",
+            "hint": "Opine online"
+        },
+        "N": {
+            "cells": [
+                42,
+                99,
+                116,
+                7,
+                170,
+                132
+            ],
+            "answer": "Offset",
+            "hint": "Small deviation; counterbalance"
+        },
+        "O": {
+            "cells": [
+                48,
+                16,
+                111,
+                135,
+                88,
+                166
+            ],
+            "answer": "Photon",
+            "hint": "Quantum with a mass of zero"
+        },
+        "P": {
+            "cells": [
+                101,
+                144,
+                160,
+                54,
+                122,
+                27
+            ],
+            "answer": "Octant",
+            "hint": "Instrument once used in astronomy and navigation"
+        },
+        "Q": {
+            "cells": [
+                96,
+                34,
+                11,
+                76,
+                59,
+                117,
+                152
+            ],
+            "answer": "New wave",
+            "hint": "What \u201cbossa nova\u201d means (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                163,
+                70,
+                46,
+                125,
+                147,
+                30
+            ],
+            "answer": "Techno",
+            "hint": "Electronic dance music"
+        },
+        "S": {
+            "cells": [
+                2,
+                105,
+                136,
+                157,
+                83
+            ],
+            "answer": "Hedge",
+            "hint": "Beat around the bush; bushy border"
+        },
+        "T": {
+            "cells": [
+                66,
+                8,
+                159,
+                43,
+                29,
+                118,
+                143,
+                97
+            ],
+            "answer": "East Wing",
+            "hint": "Part of the White House built atop a bunker (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                108,
+                129,
+                53,
+                38,
+                26,
+                71,
+                84,
+                164
+            ],
+            "answer": "Mismatch",
+            "hint": "Failure to agree; discrepancy"
+        },
+        "V": {
+            "cells": [
+                107,
+                73,
+                156,
+                3,
+                134,
+                24,
+                40
+            ],
+            "answer": "Amnesty",
+            "hint": "Forgiveness"
+        },
+        "W": {
+            "cells": [
+                141,
+                155,
+                123,
+                14,
+                68,
+                86
+            ],
+            "answer": "Radian",
+            "hint": "180° divided by pi"
+        },
+        "X": {
+            "cells": [
+                41,
+                61,
+                78,
+                161,
+                145,
+                120
+            ],
+            "answer": "Nephew",
+            "hint": "Caligula, to Claudius"
+        },
+        "Y": {
+            "cells": [
+                92,
+                127,
+                67,
+                52,
+                149,
+                19,
+                109
+            ],
+            "answer": "Essence",
+            "hint": "Intrinsic quality"
+        }
+    }
+}

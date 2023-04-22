@@ -1,0 +1,333 @@
+{
+    "answer": "Being easily freaked out comes with its own special skill set: you develop subtle tricks to work around it, make sure people don\u2019t notice. Pretty soon,... you can get through the day looking almost... like a normal human being.",
+    "author": "Tana French,",
+    "authorCell": [
+        74,
+        142,
+        121,
+        7,
+        12,
+        78,
+        50,
+        84,
+        110,
+        139,
+        138,
+        132,
+        67,
+        152,
+        148,
+        147,
+        39,
+        172,
+        91,
+        92,
+        44
+    ],
+    "source": "The Likeness",
+    "clues": {
+        "A": {
+            "cells": [
+                74,
+                19,
+                36,
+                128,
+                93,
+                58
+            ],
+            "answer": "Tongue",
+            "hint": "Ovoidal : egg :: lingulate : ____"
+        },
+        "B": {
+            "cells": [
+                142,
+                48,
+                80,
+                113,
+                170,
+                28,
+                155,
+                130
+            ],
+            "answer": "Alarmist",
+            "hint": "Catastrophizing sort"
+        },
+        "C": {
+            "cells": [
+                121,
+                163,
+                81,
+                21,
+                137,
+                61,
+                34,
+                100,
+                6
+            ],
+            "answer": "North Pole",
+            "hint": "What Russia\u2019s Camp Barneo is near (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                7,
+                49,
+                87,
+                174,
+                69,
+                103,
+                158,
+                141
+            ],
+            "answer": "Asteroid",
+            "hint": "Target in a 1979 arcade game"
+        },
+        "E": {
+            "cells": [
+                12,
+                144,
+                169,
+                65,
+                129,
+                85
+            ],
+            "answer": "Fluted",
+            "hint": "Having grooves or ridges"
+        },
+        "F": {
+            "cells": [
+                78,
+                95,
+                33,
+                109,
+                8,
+                131,
+                60,
+                164
+            ],
+            "answer": "Resistor",
+            "hint": "Device relevant to Ohm\u2019s law"
+        },
+        "G": {
+            "cells": [
+                50,
+                5,
+                133,
+                97,
+                150,
+                70,
+                119,
+                83,
+                26
+            ],
+            "answer": "Egregious",
+            "hint": "Overt, glaring, flagrant"
+        },
+        "H": {
+            "cells": [
+                84,
+                122,
+                71,
+                32,
+                107,
+                96,
+                168,
+                146,
+                1,
+                46,
+                15
+            ],
+            "answer": "Nyctophobia",
+            "hint": "Fear of the dark"
+        },
+        "I": {
+            "cells": [
+                110,
+                59,
+                145,
+                125,
+                159,
+                27,
+                41,
+                73,
+                14
+            ],
+            "answer": "Clockwise",
+            "hint": "How gameplay often proceeds"
+        },
+        "J": {
+            "cells": [
+                139,
+                126,
+                35,
+                89,
+                3,
+                175,
+                161,
+                104
+            ],
+            "answer": "Hawaiian",
+            "hint": "Subject of Kamehameha the Great"
+        },
+        "K": {
+            "cells": [
+                138,
+                171,
+                43,
+                16,
+                156,
+                63,
+                94,
+                79,
+                2,
+                117
+            ],
+            "answer": "Talk turkey",
+            "hint": "Speak frankly or bluntly (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                132,
+                154,
+                76,
+                118,
+                51,
+                30,
+                166,
+                105
+            ],
+            "answer": "\"How's that?\"",
+            "hint": "\u201cWhat did you say again?\u201d (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                67,
+                136,
+                11,
+                38,
+                116,
+                23,
+                157,
+                82,
+                177,
+                52
+            ],
+            "answer": "Egyptology",
+            "hint": "Study of a certain ancient civilization"
+        },
+        "N": {
+            "cells": [
+                152,
+                77,
+                54,
+                102,
+                165,
+                124,
+                37,
+                9,
+                22
+            ],
+            "answer": "Loud music",
+            "hint": "Reason for a neighbor\u2019s complaint (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                148,
+                162,
+                29,
+                42,
+                4,
+                55,
+                101,
+                88
+            ],
+            "answer": "In tandem",
+            "hint": "Together (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                147,
+                106,
+                120,
+                40,
+                72,
+                90,
+                176,
+                56,
+                160,
+                18
+            ],
+            "answer": "Knock-kneed",
+            "hint": "The opposite of bowlegged (hyph.)"
+        },
+        "Q": {
+            "cells": [
+                39,
+                167,
+                53,
+                99,
+                114,
+                24,
+                140,
+                127,
+                68
+            ],
+            "answer": "Elopement",
+            "hint": "Action taken by two running mates?"
+        },
+        "R": {
+            "cells": [
+                172,
+                134,
+                112,
+                13,
+                98,
+                64,
+                47,
+                25,
+                153
+            ],
+            "answer": "\"No problem\"",
+            "hint": "\u201cPiece of cake\u201d (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                91,
+                57,
+                75,
+                10,
+                135,
+                108,
+                31,
+                123,
+                149
+            ],
+            "answer": "Evolution",
+            "hint": "Process of unfolding"
+        },
+        "T": {
+            "cells": [
+                92,
+                45,
+                143,
+                173,
+                66,
+                20,
+                111
+            ],
+            "answer": "Sky blue",
+            "hint": "Crayola choice for a cloudless landscape (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                44,
+                86,
+                17,
+                62,
+                115,
+                151
+            ],
+            "answer": "Siesta",
+            "hint": "Cuarenta winks"
+        }
+    }
+}

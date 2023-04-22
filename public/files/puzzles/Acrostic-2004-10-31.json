@@ -1,0 +1,341 @@
+{
+    "answer": "The story of Jack-o\u2019-Lantern parallels that of Will-o\u2019-the-Wisp; both... personify... fool\u2019s-fire, or ignis fatuus\u2014the phosphorescent swamp gas long known in... Britain, and sometimes used today as a[n]... explanation for UFO sightings.",
+    "author": "[David J.] Skal,",
+    "authorCell": [
+        178,
+        114,
+        151,
+        156,
+        143,
+        99,
+        125,
+        52,
+        93,
+        137,
+        108,
+        14,
+        142,
+        109,
+        149,
+        44,
+        94,
+        110,
+        161,
+        146,
+        24,
+        62
+    ],
+    "source": "Death Makes A Holiday",
+    "clues": {
+        "A": {
+            "cells": [
+                178,
+                132,
+                17,
+                92,
+                50,
+                36,
+                154
+            ],
+            "answer": "Soapbox",
+            "hint": "Political platform?"
+        },
+        "B": {
+            "cells": [
+                114,
+                126,
+                158,
+                177,
+                11,
+                51,
+                86,
+                76
+            ],
+            "answer": "\u201cKing John\"",
+            "hint": "Historical drama with Lord Bigot and Philip the Bastard (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                151,
+                21,
+                91,
+                111,
+                129,
+                60,
+                141,
+                81
+            ],
+            "answer": "Arsonist",
+            "hint": "Incendiary, firebug"
+        },
+        "D": {
+            "cells": [
+                156,
+                69,
+                112,
+                145,
+                28,
+                45,
+                83,
+                133
+            ],
+            "answer": "Linoleum",
+            "hint": "Flooring material patented in 1863"
+        },
+        "E": {
+            "cells": [
+                143,
+                58,
+                13,
+                101,
+                116,
+                73,
+                46,
+                33,
+                169
+            ],
+            "answer": "\"Doctor Who\u201d",
+            "hint": "British cult sci-fi TV series that debuted in 1963 (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                99,
+                164,
+                10,
+                140,
+                40,
+                75,
+                29,
+                59,
+                174
+            ],
+            "answer": "Effulgent",
+            "hint": "Brightly shining, luminous"
+        },
+        "G": {
+            "cells": [
+                125,
+                49,
+                165,
+                67,
+                144,
+                104,
+                31,
+                8
+            ],
+            "answer": "Apostasy",
+            "hint": "Renunciation of a former belief"
+        },
+        "H": {
+            "cells": [
+                52,
+                147,
+                166,
+                32,
+                18,
+                3,
+                97,
+                84
+            ],
+            "answer": "Tartness",
+            "hint": "\u201cThe ___ of his face sours ripe grapes\u201d (Shakespeare)"
+        },
+        "I": {
+            "cells": [
+                93,
+                34,
+                16,
+                168,
+                54,
+                123,
+                152,
+                1
+            ],
+            "answer": "Half pint",
+            "hint": "Shrimp, peanut (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                137,
+                12,
+                100,
+                39,
+                61,
+                153,
+                170,
+                124,
+                72
+            ],
+            "answer": "Manifesto",
+            "hint": "Public declaration of principles"
+        },
+        "K": {
+            "cells": [
+                108,
+                118,
+                22,
+                157,
+                88,
+                42,
+                66,
+                136,
+                78
+            ],
+            "answer": "Annapolis",
+            "hint": "Jimmy Carter\u2019s alma mater"
+        },
+        "L": {
+            "cells": [
+                14,
+                175,
+                102,
+                139,
+                64,
+                79,
+                37
+            ],
+            "answer": "Kiss-off",
+            "hint": "Rude dismissal (hyph.)"
+        },
+        "M": {
+            "cells": [
+                142,
+                105,
+                155,
+                122,
+                87,
+                57,
+                4
+            ],
+            "answer": "Empress",
+            "hint": "Theodora or Eugenie, e.g."
+        },
+        "N": {
+            "cells": [
+                109,
+                30,
+                74,
+                160,
+                53,
+                134,
+                95
+            ],
+            "answer": "Slither",
+            "hint": "Move sinuously"
+        },
+        "O": {
+            "cells": [
+                149,
+                121,
+                96,
+                63,
+                6,
+                25,
+                43,
+                80,
+                131
+            ],
+            "answer": "Abe Fortas",
+            "hint": "Supreme Court justice appointed by L.B.J. (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                44,
+                128,
+                148,
+                117,
+                77,
+                56,
+                20
+            ],
+            "answer": "Haywire",
+            "hint": "All out of kilter"
+        },
+        "Q": {
+            "cells": [
+                94,
+                70,
+                23,
+                2,
+                138,
+                167,
+                150
+            ],
+            "answer": "Orpheus",
+            "hint": "Musician among the Argonauts"
+        },
+        "R": {
+            "cells": [
+                110,
+                9,
+                47,
+                163,
+                98,
+                27,
+                65,
+                135,
+                173
+            ],
+            "answer": "Loincloth",
+            "hint": "Costume for Johnny Weissmuller or Ben Kingsley"
+        },
+        "S": {
+            "cells": [
+                161,
+                120,
+                68,
+                41,
+                171,
+                107,
+                89,
+                19
+            ],
+            "answer": "In-flight",
+            "hint": "On board an aircraft (hyph.)"
+        },
+        "T": {
+            "cells": [
+                146,
+                90,
+                38,
+                176,
+                113,
+                7,
+                26,
+                130,
+                55
+            ],
+            "answer": "Downgrade",
+            "hint": "Lower in status or esteem"
+        },
+        "U": {
+            "cells": [
+                24,
+                106,
+                159,
+                85,
+                119,
+                5,
+                71
+            ],
+            "answer": "Apatite",
+            "hint": "Mineral whose hardness defines 5 on the Mohs scale"
+        },
+        "V": {
+            "cells": [
+                62,
+                162,
+                82,
+                127,
+                172,
+                48,
+                35,
+                15,
+                103,
+                115
+            ],
+            "answer": "Youngstown",
+            "hint": "___ State University, home of the Penguins"
+        }
+    }
+}

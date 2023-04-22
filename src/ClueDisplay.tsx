@@ -12,7 +12,7 @@ function ClueDisplay(  puzzle: Puzzle, letter: string, clue: Clue, selected: boo
 
     let inner: ReactNode[] = [];
 
-    let focusHolder: typeof ClueCellDisplay[] = [];
+
 
 
     for(let i = 0; i < cells.length; i++) {

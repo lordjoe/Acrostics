@@ -1,0 +1,345 @@
+{
+    "answer": "[S]econds... are the currency of... life, the pennies of our time: ubiquitous and critical in a pinch (for instance, when you just manage to make a train...) yet sufficiently marginal to be... dropped by the handful without thought.",
+    "author": "Alan Burdick,",
+    "authorCell": [
+        8,
+        161,
+        101,
+        73,
+        150,
+        160,
+        42,
+        158,
+        79,
+        3,
+        108,
+        87,
+        165,
+        130,
+        118,
+        68,
+        98,
+        2,
+        39,
+        138,
+        163,
+        86,
+        1
+    ],
+    "source": "Why Time Flies",
+    "clues": {
+        "A": {
+            "cells": [
+                8,
+                69,
+                127,
+                51,
+                35,
+                104,
+                91
+            ],
+            "answer": "Annuity",
+            "hint": "Financial option for a retiree"
+        },
+        "B": {
+            "cells": [
+                161,
+                137,
+                9,
+                44,
+                107,
+                63
+            ],
+            "answer": "Lariat",
+            "hint": "Rodeo ring"
+        },
+        "C": {
+            "cells": [
+                101,
+                85,
+                30,
+                16,
+                141,
+                62,
+                164,
+                116
+            ],
+            "answer": "Acerbity",
+            "hint": "Biting or sarcastic tone"
+        },
+        "D": {
+            "cells": [
+                73,
+                25,
+                134,
+                88,
+                43,
+                162,
+                4,
+                105,
+                59
+            ],
+            "answer": "\"Nightwood\"",
+            "hint": "1936 Djuna Barnes novel that pioneered in lesbian literature"
+        },
+        "E": {
+            "cells": [
+                150,
+                67,
+                41,
+                126,
+                106,
+                22,
+                171,
+                84
+            ],
+            "answer": "\"Blue Moon\"",
+            "hint": "Doo-wop chart-topper for the Marcels (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                160,
+                90,
+                60,
+                111,
+                72,
+                140,
+                33
+            ],
+            "answer": "Unction",
+            "hint": "The rite oil to use?"
+        },
+        "G": {
+            "cells": [
+                42,
+                55,
+                119,
+                29,
+                12,
+                92,
+                167,
+                144
+            ],
+            "answer": "Rush hour",
+            "hint": "When a lot of rubber hits the road (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                158,
+                83,
+                21,
+                175,
+                61,
+                125,
+                147,
+                71,
+                46,
+                112
+            ],
+            "answer": "\"Day Tripper\"",
+            "hint": "Flip side of the Beatles\u2019 \u201cWe Can Work It Out\u201d (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                79,
+                157,
+                122,
+                36,
+                20,
+                169,
+                64,
+                145,
+                95,
+                7
+            ],
+            "answer": "Infectious",
+            "hint": "Spreadable, in a way"
+        },
+        "J": {
+            "cells": [
+                3,
+                155,
+                17,
+                54,
+                100,
+                123,
+                74
+            ],
+            "answer": "Chronic",
+            "hint": "Constantly recurring"
+        },
+        "K": {
+            "cells": [
+                108,
+                156,
+                120,
+                23,
+                45,
+                66,
+                5
+            ],
+            "answer": "Kaufman",
+            "hint": "Co-author, with Ferber, of \u201cDinner at Eight\u201d"
+        },
+        "L": {
+            "cells": [
+                87,
+                132,
+                6,
+                149,
+                24,
+                117
+            ],
+            "answer": "Waddle",
+            "hint": "Go as geese go"
+        },
+        "M": {
+            "cells": [
+                165,
+                77,
+                38,
+                146,
+                129,
+                57
+            ],
+            "answer": "Hoopla",
+            "hint": "Exaggerated fanfare"
+        },
+        "N": {
+            "cells": [
+                130,
+                32,
+                99,
+                11,
+                81
+            ],
+            "answer": "Yeats",
+            "hint": "\u201cThat is no country for old men\u201d poet"
+        },
+        "O": {
+            "cells": [
+                118,
+                170,
+                78,
+                27,
+                56,
+                153
+            ],
+            "answer": "Thresh",
+            "hint": "What a farmer\u2019s combine can do"
+        },
+        "P": {
+            "cells": [
+                68,
+                173,
+                115,
+                40,
+                133,
+                89
+            ],
+            "answer": "Ignore",
+            "hint": "Turn a blind eye or a deaf ear to"
+        },
+        "Q": {
+            "cells": [
+                98,
+                49,
+                34,
+                172,
+                82,
+                148,
+                131,
+                113,
+                19
+            ],
+            "answer": "Minuteman",
+            "hint": "Statue figure in Lexington Battle Green"
+        },
+        "R": {
+            "cells": [
+                2,
+                50,
+                15,
+                70,
+                97,
+                114,
+                166,
+                136
+            ],
+            "answer": "Equation",
+            "hint": "Something for which to use the \u201c=\u201d symbol"
+        },
+        "S": {
+            "cells": [
+                39,
+                52,
+                121,
+                168,
+                151,
+                65,
+                18,
+                80,
+                139,
+                96
+            ],
+            "answer": "Fifty cents",
+            "hint": "Half of a clam (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                138,
+                10,
+                26,
+                152,
+                94,
+                110,
+                48
+            ],
+            "answer": "Left jab",
+            "hint": "One of Ali\u2019s signature moves (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                163,
+                14,
+                142,
+                124,
+                75,
+                103,
+                37,
+                53
+            ],
+            "answer": "Ice chest",
+            "hint": "Item for a summer picnic (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                86,
+                135,
+                102,
+                174,
+                28,
+                154,
+                13,
+                58
+            ],
+            "answer": "Eighteen",
+            "hint": "Number of starters on an Australian football team"
+        },
+        "W": {
+            "cells": [
+                1,
+                128,
+                93,
+                76,
+                159,
+                109,
+                143,
+                47,
+                31
+            ],
+            "answer": "Stuffed up",
+            "hint": "Congested (2 wds.)"
+        }
+    }
+}

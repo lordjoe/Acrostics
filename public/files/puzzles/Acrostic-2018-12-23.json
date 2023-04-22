@@ -1,0 +1,341 @@
+{
+    "answer": "Snakes have fangs. Lionfish have spines. Jellyfish have stinging cells. Male platypuses have spurs. ... Platypuses are really awfully, terribly venomous. ... I\u2019ve heard, being stung by a platypus is a life-changing experience... .",
+    "author": "Christie Wilcox,",
+    "authorCell": [
+        55,
+        43,
+        111,
+        135,
+        22,
+        109,
+        21,
+        175,
+        103,
+        17,
+        62,
+        177,
+        122,
+        170,
+        126,
+        172,
+        13,
+        120,
+        60,
+        18,
+        70,
+        71
+    ],
+    "source": "Venomous",
+    "clues": {
+        "A": {
+            "cells": [
+                55,
+                94,
+                75,
+                133,
+                8,
+                151,
+                29,
+                107,
+                178
+            ],
+            "answer": "Crab apple",
+            "hint": "Sour fruit (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                43,
+                129,
+                164,
+                81,
+                150,
+                117
+            ],
+            "answer": "Henry V",
+            "hint": "Giver of the St. Crispin\u2019s Day speech (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                111,
+                27,
+                156,
+                137,
+                66,
+                176
+            ],
+            "answer": "Reagan",
+            "hint": "\u201cTear down this wall!\u201d urger"
+        },
+        "D": {
+            "cells": [
+                135,
+                50,
+                3,
+                34,
+                113,
+                159,
+                20,
+                87
+            ],
+            "answer": "In a jiffy",
+            "hint": "Before you can say Jack Robinson (3 wds.)"
+        },
+        "E": {
+            "cells": [
+                22,
+                162,
+                52,
+                39,
+                67,
+                100,
+                118,
+                138,
+                1
+            ],
+            "answer": "Shiftless",
+            "hint": "Lazy, indolent, unmotivated"
+        },
+        "F": {
+            "cells": [
+                109,
+                12,
+                165,
+                59,
+                89,
+                146
+            ],
+            "answer": "Tags up",
+            "hint": "Touches base before moving on (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                21,
+                121,
+                171,
+                105,
+                65,
+                155,
+                49,
+                9,
+                35
+            ],
+            "answer": "Impulsive",
+            "hint": "Not much given to self-control"
+        },
+        "H": {
+            "cells": [
+                175,
+                14,
+                54,
+                41,
+                74,
+                145,
+                88,
+                110,
+                132
+            ],
+            "answer": "Egg-shaped",
+            "hint": "Roundish but not spherical (hyph.)"
+        },
+        "I": {
+            "cells": [
+                103,
+                125,
+                57,
+                16,
+                144,
+                167,
+                154,
+                37,
+                84,
+                68
+            ],
+            "answer": "Willy-nilly",
+            "hint": "In a haphazard, hit-or-miss way (hyph.)"
+        },
+        "J": {
+            "cells": [
+                17,
+                2,
+                161,
+                61,
+                79,
+                130,
+                143,
+                115,
+                97
+            ],
+            "answer": "Incapable",
+            "hint": "Devoid of competence"
+        },
+        "K": {
+            "cells": [
+                62,
+                98,
+                80,
+                168,
+                42,
+                153
+            ],
+            "answer": "Laughs",
+            "hint": "What a card goes for"
+        },
+        "L": {
+            "cells": [
+                177,
+                128,
+                32,
+                108,
+                77,
+                53,
+                19,
+                95
+            ],
+            "answer": "Cheyenne",
+            "hint": "Capital of the Equality State"
+        },
+        "M": {
+            "cells": [
+                122,
+                166,
+                147,
+                73,
+                24,
+                44,
+                99,
+                134
+            ],
+            "answer": "Oil shale",
+            "hint": "Sedimentary rock that\u2019s a source of fuel (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                170,
+                102,
+                119,
+                139,
+                23,
+                40,
+                69,
+                83,
+                5
+            ],
+            "answer": "Xanthippe",
+            "hint": "Ill-tempered wife of Socrates"
+        },
+        "O": {
+            "cells": [
+                126,
+                163,
+                6,
+                47,
+                85,
+                106,
+                28
+            ],
+            "answer": "Vassals",
+            "hint": "Feudal tenants"
+        },
+        "P": {
+            "cells": [
+                172,
+                148,
+                82,
+                101,
+                64,
+                10,
+                25,
+                124,
+                38
+            ],
+            "answer": "Easy-peasy",
+            "hint": "So simple a child can do it (hyph.)"
+        },
+        "Q": {
+            "cells": [
+                13,
+                160,
+                76,
+                63,
+                96,
+                141,
+                127,
+                26,
+                46,
+                112
+            ],
+            "answer": "Never-never",
+            "hint": "Unreal, as an imagined land (hyph.)"
+        },
+        "R": {
+            "cells": [
+                120,
+                104,
+                11,
+                72,
+                31,
+                92,
+                174,
+                45,
+                56
+            ],
+            "answer": "Offensive",
+            "hint": "Disgusting; major military action"
+        },
+        "S": {
+            "cells": [
+                60,
+                93,
+                78,
+                149,
+                169,
+                131,
+                15
+            ],
+            "answer": "Masters",
+            "hint": "\u201cSpoon River Anthology\u201d poet"
+        },
+        "T": {
+            "cells": [
+                18,
+                140,
+                86,
+                114,
+                152,
+                173,
+                33,
+                48
+            ],
+            "answer": "Outburst",
+            "hint": "Eruption; tantrum"
+        },
+        "U": {
+            "cells": [
+                70,
+                136,
+                36,
+                158,
+                4,
+                91,
+                58,
+                116
+            ],
+            "answer": "Unlikely",
+            "hint": "Facing long odds"
+        },
+        "V": {
+            "cells": [
+                71,
+                157,
+                123,
+                51,
+                142,
+                30,
+                90,
+                7
+            ],
+            "answer": "Sluggish",
+            "hint": "Reacting less quickly than usual"
+        }
+    }
+}

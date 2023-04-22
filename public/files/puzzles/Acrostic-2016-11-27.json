@@ -1,0 +1,340 @@
+{
+    "answer": "[B]y the Sixties\u2026there was Postmodernism, and later post-Postmodernism, and so on until eventually the labels ran out. A literary critic in New York was later to call me a \u201cpre-Postmodernist,\u201d a moniker I am still working on.",
+    "author": "Julian Barnes,",
+    "authorCell": [
+        1,
+        124,
+        148,
+        113,
+        159,
+        151,
+        158,
+        114,
+        126,
+        137,
+        7,
+        149,
+        175,
+        162,
+        65,
+        40,
+        2,
+        147,
+        170,
+        21,
+        73,
+        55
+    ],
+    "source": "Keeping an Eye Open",
+    "clues": {
+        "A": {
+            "cells": [
+                1,
+                22,
+                91,
+                41,
+                146,
+                115,
+                131,
+                78,
+                172
+            ],
+            "answer": "Boardwalk",
+            "hint": "Last of 40 spaces in a game"
+        },
+        "B": {
+            "cells": [
+                124,
+                42,
+                165,
+                98,
+                9,
+                66,
+                27,
+                139
+            ],
+            "answer": "Aptitude",
+            "hint": "Natural talent; suitability"
+        },
+        "C": {
+            "cells": [
+                148,
+                161,
+                130,
+                14,
+                85,
+                29,
+                61
+            ],
+            "answer": "Richard",
+            "hint": "Maurice ____, Canadien who was first in the N.H.L. to score 500 goals"
+        },
+        "D": {
+            "cells": [
+                113,
+                76,
+                125,
+                138,
+                10,
+                87,
+                177,
+                99,
+                57
+            ],
+            "answer": "Nutrients",
+            "hint": "What junk food is low in"
+        },
+        "E": {
+            "cells": [
+                159,
+                8,
+                140,
+                77,
+                118,
+                103,
+                26,
+                45
+            ],
+            "answer": "Ex-parrot",
+            "hint": "Deceased subject of a classic Monty Python skit (hyph.)"
+        },
+        "F": {
+            "cells": [
+                151,
+                169,
+                19,
+                133,
+                88,
+                47,
+                120
+            ],
+            "answer": "Swallow",
+            "hint": "Accept without question"
+        },
+        "G": {
+            "cells": [
+                158,
+                129,
+                144,
+                117,
+                30,
+                52,
+                93,
+                171
+            ],
+            "answer": "Komondor",
+            "hint": "Hungarian dog breed with a very shaggy coat"
+        },
+        "H": {
+            "cells": [
+                114,
+                70,
+                18,
+                51,
+                145,
+                36
+            ],
+            "answer": "Elwood",
+            "hint": "One of the Blues Brothers"
+        },
+        "I": {
+            "cells": [
+                126,
+                50,
+                64,
+                37,
+                79,
+                150,
+                15,
+                174,
+                108
+            ],
+            "answer": "Emollient",
+            "hint": "Soothing to the skin"
+        },
+        "J": {
+            "cells": [
+                137,
+                89,
+                173,
+                39,
+                24,
+                59,
+                110,
+                69,
+                156,
+                11
+            ],
+            "answer": "Psittacine",
+            "hint": "Pertaining to cockatoos, macaws and such"
+        },
+        "K": {
+            "cells": [
+                7,
+                25,
+                154,
+                83,
+                67,
+                44,
+                166,
+                128,
+                104
+            ],
+            "answer": "Immensity",
+            "hint": "Hugeness"
+        },
+        "L": {
+            "cells": [
+                149,
+                38,
+                72,
+                116,
+                164,
+                53,
+                102,
+                84,
+                12
+            ],
+            "answer": "Navy Seals",
+            "hint": "Forces trained for ops in all terrains (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                175,
+                80,
+                33,
+                122,
+                4,
+                141,
+                101,
+                49,
+                62
+            ],
+            "answer": "Gym shorts",
+            "hint": "Exercising bottoms (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                162,
+                74,
+                143,
+                6
+            ],
+            "answer": "Ants",
+            "hint": "Myrmecologist\u2019s study"
+        },
+        "O": {
+            "cells": [
+                65,
+                43,
+                82,
+                157,
+                95,
+                13,
+                28,
+                127
+            ],
+            "answer": "No-hitter",
+            "hint": "Feat that\u2019s taboo to talk about while it\u2019s in progress (hyph.)"
+        },
+        "P": {
+            "cells": [
+                40,
+                97,
+                56,
+                155,
+                68,
+                112,
+                5,
+                142,
+                23
+            ],
+            "answer": "Eliot Ness",
+            "hint": "Crime-fighter played on TV by Robert Stack (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                2,
+                136,
+                16,
+                58,
+                94,
+                167,
+                119,
+                71
+            ],
+            "answer": "Yarmulke",
+            "hint": "Headwear leaving much of the head uncovered"
+        },
+        "R": {
+            "cells": [
+                147,
+                106,
+                160,
+                63,
+                90,
+                132,
+                17,
+                48,
+                32
+            ],
+            "answer": "Errorless",
+            "hint": "Perfect, unblemished"
+        },
+        "S": {
+            "cells": [
+                170,
+                86,
+                20,
+                75,
+                111,
+                60,
+                34,
+                152,
+                100
+            ],
+            "answer": "Obstinate",
+            "hint": "Unwilling to be convinced otherwise"
+        },
+        "T": {
+            "cells": [
+                21,
+                135,
+                54,
+                163,
+                107,
+                81
+            ],
+            "answer": "Permit",
+            "hint": "Paper a builder might need"
+        },
+        "U": {
+            "cells": [
+                73,
+                168,
+                105,
+                153,
+                46,
+                31,
+                3,
+                121,
+                92
+            ],
+            "answer": "El Capitan",
+            "hint": "Formidable rock formation in Yosemite (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                55,
+                176,
+                134,
+                109,
+                35,
+                96,
+                123
+            ],
+            "answer": "Nominal",
+            "hint": "Putative; trifling"
+        }
+    }
+}

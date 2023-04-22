@@ -1,0 +1,31 @@
+import React, { useEffect, useState } from 'react';
+
+const FileReader: React.FC = () => {
+  const [fileContent, setFileContent] = useState<string | null>(null);
+
+  useEffect(() => {
+    const fetchFileContent = async () => {
+      try {
+        const response = await fetch('/files/example.txt');
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        const text = await response.text();
+        setFileContent(text);
+      } catch (error) {
+        console.error('There was a problem fetching the file content:', error);
+      }
+    };
+
+    fetchFileContent();
+  }, []);
+
+  return (
+    <div>
+      <h1>Contents of "example.txt":</h1>
+      {fileContent ? <pre>{fileContent}</pre> : <p>Loading...</p>}
+    </div>
+  );
+};
+
+export default FileReader;

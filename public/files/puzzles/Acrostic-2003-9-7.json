@@ -1,0 +1,359 @@
+{
+    "answer": "Ive never found a hat that looks right on me... fedora, homburg, Swiss Tirol, Irish tinker, deerhound, Russian lamb, baseball, ten-gallon, seaman watch, Greek fisher, garrison, pith or steel helmet, on me theyre all dunce caps.",
+    "author": "E.L. Doctorow,",
+    "authorCell": [
+        71,
+        97,
+        167,
+        57,
+        172,
+        139,
+        135,
+        60,
+        32,
+        113,
+        103,
+        133,
+        2,
+        35,
+        175,
+        24,
+        123,
+        115,
+        159,
+        163,
+        137,
+        23,
+        145,
+        18,
+        52
+    ],
+    "source": "Lives Of The Poets",
+    "clues": {
+        "A": {
+            "cells": [
+                71,
+                134,
+                98,
+                83,
+                6,
+                41,
+                150
+            ],
+            "answer": "Estival",
+            "hint": "Pertaining to the summer"
+        },
+        "B": {
+            "cells": [
+                97,
+                76,
+                116,
+                25,
+                12,
+                141,
+                50
+            ],
+            "answer": "Lucknow",
+            "hint": "Capital of India\u2019s Uttar Pradesh state"
+        },
+        "C": {
+            "cells": [
+                167,
+                27,
+                105,
+                46,
+                118,
+                140,
+                17
+            ],
+            "answer": "Drought",
+            "hint": "What the Palmer Index measures"
+        },
+        "D": {
+            "cells": [
+                57,
+                36,
+                9,
+                119,
+                87,
+                156,
+                174
+            ],
+            "answer": "Off ramp",
+            "hint": "Egress from a high-speed flow (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                172,
+                15,
+                138,
+                155,
+                37,
+                81,
+                3
+            ],
+            "answer": "Chinese",
+            "hint": "Those who call themselves \u201cZhongguo ren\u201d"
+        },
+        "F": {
+            "cells": [
+                139,
+                16,
+                66,
+                164,
+                29,
+                7,
+                56
+            ],
+            "answer": "Tanager",
+            "hint": "It may be bay-headed, beryl-spangled, scarlet-rumped or saffron-crowned"
+        },
+        "G": {
+            "cells": [
+                135,
+                166,
+                34,
+                62,
+                21,
+                108,
+                78
+            ],
+            "answer": "Olmsted",
+            "hint": "Frederick ___, founder of American landscape architecture"
+        },
+        "H": {
+            "cells": [
+                60,
+                19,
+                80,
+                45,
+                111,
+                142,
+                94
+            ],
+            "answer": "Rhubarb",
+            "hint": "Loud argument, in slang"
+        },
+        "I": {
+            "cells": [
+                32,
+                168,
+                144,
+                82,
+                124,
+                13,
+                99
+            ],
+            "answer": "Outside",
+            "hint": "Like some chances and baseball pitches"
+        },
+        "J": {
+            "cells": [
+                113,
+                63,
+                14,
+                131,
+                153,
+                43,
+                85
+            ],
+            "answer": "Wharton",
+            "hint": "Author of \u201cThe House of Mirth\u201d"
+        },
+        "K": {
+            "cells": [
+                103,
+                75,
+                90,
+                53,
+                158,
+                146,
+                132
+            ],
+            "answer": "Lobster",
+            "hint": "Cousin of a crayfish"
+        },
+        "L": {
+            "cells": [
+                133,
+                100,
+                42,
+                114,
+                147,
+                68,
+                79
+            ],
+            "answer": "Inhaler",
+            "hint": "Dispenser of a salubrious vapor"
+        },
+        "M": {
+            "cells": [
+                2,
+                51,
+                67,
+                28,
+                106,
+                129,
+                92
+            ],
+            "answer": "Vikings",
+            "hint": "N.F.L. team that plays in the Metrodome"
+        },
+        "N": {
+            "cells": [
+                35,
+                73,
+                165,
+                122,
+                1,
+                136,
+                48
+            ],
+            "answer": "Erlking",
+            "hint": "Mythological spirit supposed to work great mischief"
+        },
+        "O": {
+            "cells": [
+                175,
+                20,
+                77,
+                38,
+                109,
+                96,
+                125
+            ],
+            "answer": "Sandals",
+            "hint": "Birkenstock stock"
+        },
+        "P": {
+            "cells": [
+                24,
+                112,
+                93,
+                143,
+                126,
+                10,
+                64
+            ],
+            "answer": "One-shot",
+            "hint": "Like a deal that won\u2019t be offered again (hyph.)"
+        },
+        "Q": {
+            "cells": [
+                123,
+                47,
+                149,
+                160,
+                89,
+                65,
+                5
+            ],
+            "answer": "Freebie",
+            "hint": "Complimentary theater ticket, for example"
+        },
+        "R": {
+            "cells": [
+                115,
+                84,
+                58,
+                22,
+                161,
+                148,
+                39
+            ],
+            "answer": "Tallyho",
+            "hint": "Cry upon sighting the quarry"
+        },
+        "S": {
+            "cells": [
+                159,
+                127,
+                102,
+                54,
+                117,
+                152,
+                33
+            ],
+            "answer": "Heathen",
+            "hint": "One regarded as irreligious or uncivilized"
+        },
+        "T": {
+            "cells": [
+                163,
+                128,
+                91,
+                107,
+                44,
+                11,
+                26
+            ],
+            "answer": "Erasmus",
+            "hint": "Scholar whose \u201cPraise of Folly\u201d was dedicated to Sir Thomas More"
+        },
+        "U": {
+            "cells": [
+                137,
+                30,
+                154,
+                169,
+                72,
+                110,
+                120
+            ],
+            "answer": "Phoneme",
+            "hint": "Basic unit of linguistics"
+        },
+        "V": {
+            "cells": [
+                23,
+                101,
+                162,
+                121,
+                61,
+                49,
+                74
+            ],
+            "answer": "Ogreish",
+            "hint": "A bit like Shrek"
+        },
+        "W": {
+            "cells": [
+                145,
+                40,
+                69,
+                95,
+                31,
+                55,
+                170
+            ],
+            "answer": "Erratic",
+            "hint": "Likely to behave unpredictably"
+        },
+        "X": {
+            "cells": [
+                18,
+                173,
+                59,
+                86,
+                157,
+                4,
+                70
+            ],
+            "answer": "Tail end",
+            "hint": "Back, bottom or conclusion of anything (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                52,
+                104,
+                130,
+                151,
+                88,
+                171,
+                8
+            ],
+            "answer": "Slammer",
+            "hint": "Pokey"
+        }
+    }
+}

@@ -1,0 +1,342 @@
+{
+    "answer": "I have an old highway atlas... the pages so soft from a thousand thumbings they whisper as I turn them. Put your finger... anyplace in this United States atlas, and I\u2019ve either been there or within twenty-five miles of it.",
+    "author": "(William) Least Heat-Moon,",
+    "authorCell": [
+        98,
+        145,
+        123,
+        30,
+        36,
+        51,
+        61,
+        70,
+        104,
+        53,
+        39,
+        44,
+        103,
+        136,
+        12,
+        162,
+        5,
+        147,
+        60,
+        85,
+        69,
+        114,
+        68
+    ],
+    "source": "River Horse",
+    "clues": {
+        "A": {
+            "cells": [
+                98,
+                72,
+                157,
+                49,
+                137,
+                112,
+                38,
+                91,
+                64
+            ],
+            "answer": "Lindbergh",
+            "hint": "Record-breaking voyager whose best seller was \u201cWe\u201d"
+        },
+        "B": {
+            "cells": [
+                145,
+                160,
+                35,
+                20,
+                86,
+                101,
+                140,
+                121
+            ],
+            "answer": "Effluent",
+            "hint": "Stream going out of a lake or reservoir"
+        },
+        "C": {
+            "cells": [
+                123,
+                106,
+                87,
+                31,
+                14,
+                149,
+                67
+            ],
+            "answer": "Airship",
+            "hint": "Craft whose salient feature is its lightness"
+        },
+        "D": {
+            "cells": [
+                30,
+                155,
+                99,
+                13,
+                164,
+                120,
+                76
+            ],
+            "answer": "Swagman",
+            "hint": "Vagrant or traveling laborer Down Under"
+        },
+        "E": {
+            "cells": [
+                36,
+                171,
+                54,
+                79,
+                23
+            ],
+            "answer": "Tibet",
+            "hint": "Region whose Mandarin name is Xizang"
+        },
+        "F": {
+            "cells": [
+                51,
+                118,
+                159,
+                135,
+                75,
+                127,
+                16,
+                2,
+                166
+            ],
+            "answer": "Heyerdahl",
+            "hint": "Adventurer and author of \u201cThe Ra Expeditions\u201d"
+        },
+        "G": {
+            "cells": [
+                61,
+                97,
+                1,
+                141,
+                78,
+                130,
+                42
+            ],
+            "answer": "Epithet",
+            "hint": "\u201cEric the Red,\u201d or \u201cSinbad the Sailor\u201d"
+        },
+        "H": {
+            "cells": [
+                70,
+                83,
+                172,
+                55,
+                100
+            ],
+            "answer": "Attic",
+            "hint": "Place to find a traveler\u2019s trunk"
+        },
+        "I": {
+            "cells": [
+                104,
+                17,
+                81,
+                43,
+                146,
+                169,
+                153
+            ],
+            "answer": "Typhoon",
+            "hint": "Peril for sailors in the South China Sea"
+        },
+        "J": {
+            "cells": [
+                53,
+                47,
+                154,
+                111,
+                24,
+                65,
+                29,
+                119,
+                124,
+                131,
+                7
+            ],
+            "answer": "Matthiessen",
+            "hint": "Explorer of the Himalayas who penned \u201cSnow Leopard\u201d"
+        },
+        "K": {
+            "cells": [
+                39,
+                77,
+                59,
+                27,
+                15,
+                125
+            ],
+            "answer": "Ottawa",
+            "hint": "Largest tributary of the St. Lawrence"
+        },
+        "L": {
+            "cells": [
+                44,
+                52,
+                158,
+                34,
+                88,
+                115,
+                11,
+                138,
+                148,
+                94,
+                62
+            ],
+            "answer": "Out-of-the-way",
+            "hint": "Remote, not heavily traveled (hyph.)"
+        },
+        "M": {
+            "cells": [
+                103,
+                18,
+                129,
+                84
+            ],
+            "answer": "Navy",
+            "hint": "Very dark, purplish blue"
+        },
+        "N": {
+            "cells": [
+                136,
+                25,
+                10,
+                37,
+                152,
+                66,
+                142
+            ],
+            "answer": "Redfish",
+            "hint": "Item often blackened in Cajun cuisine"
+        },
+        "O": {
+            "cells": [
+                12,
+                50,
+                132,
+                126,
+                156,
+                93,
+                41,
+                109,
+                150
+            ],
+            "answer": "Itinerant",
+            "hint": "Journeying, as on a circuit"
+        },
+        "P": {
+            "cells": [
+                162,
+                92,
+                58,
+                108,
+                4,
+                128,
+                74,
+                46
+            ],
+            "answer": "Vesuvius",
+            "hint": "Its blast killed Pliny the Elder"
+        },
+        "Q": {
+            "cells": [
+                5,
+                122,
+                167,
+                26,
+                105,
+                116,
+                90,
+                133
+            ],
+            "answer": "Elephant",
+            "hint": "Transport for a driver in a howdah"
+        },
+        "R": {
+            "cells": [
+                147,
+                8,
+                45,
+                57,
+                134,
+                161,
+                95,
+                28,
+                110,
+                117
+            ],
+            "answer": "\u201cRoughing It\"",
+            "hint": "Twain\u2019s 1872 account of his vagabonding (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                60,
+                139,
+                71,
+                168,
+                89,
+                6,
+                48
+            ],
+            "answer": "Hessian",
+            "hint": "Mercenary hired by England in the American Revolution"
+        },
+        "T": {
+            "cells": [
+                85,
+                56,
+                19,
+                151,
+                163,
+                144,
+                32,
+                3,
+                113
+            ],
+            "answer": "\"On the Road\u201d",
+            "hint": "1957 \u201cbeat\u201d novel of a hitchhiking trip (3 wds.)"
+        },
+        "U": {
+            "cells": [
+                69,
+                21,
+                80,
+                33,
+                143,
+                107
+            ],
+            "answer": "Ramses",
+            "hint": "Ruler with a mortuary temple at Thebes"
+        },
+        "V": {
+            "cells": [
+                114,
+                63,
+                102,
+                170,
+                73
+            ],
+            "answer": "Swift",
+            "hint": "Author of \u201cA Tale of a Tub\u201d"
+        },
+        "W": {
+            "cells": [
+                68,
+                9,
+                96,
+                22,
+                165,
+                82,
+                40
+            ],
+            "answer": "Elysium",
+            "hint": "Last stop for the virtuous, in Greek myth"
+        }
+    }
+}

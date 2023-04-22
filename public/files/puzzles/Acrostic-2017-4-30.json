@@ -1,0 +1,341 @@
+{
+    "answer": "[T]here is a \u201cblind spot\u201d in each eye. Your brain, with no information from that spot in visual space, fills in with the patterns around it. You\u2019re not perceiving what\u2019s out there. You\u2019re perceiving whatever your brain tells you.",
+    "author": "David Eagleman,",
+    "authorCell": [
+        105,
+        128,
+        150,
+        6,
+        13,
+        120,
+        33,
+        125,
+        72,
+        96,
+        56,
+        100,
+        113,
+        42,
+        40,
+        22,
+        51,
+        153,
+        52,
+        65,
+        87,
+        177
+    ],
+    "source": "Incognito",
+    "clues": {
+        "A": {
+            "cells": [
+                105,
+                172,
+                8,
+                157,
+                135,
+                36,
+                121,
+                73,
+                23
+            ],
+            "answer": "\"Death Wish\"",
+            "hint": "1974 action film with four sequels (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                128,
+                46,
+                166,
+                70,
+                95,
+                141,
+                7
+            ],
+            "answer": "Arbutus",
+            "hint": "Evergreen with edible red berries"
+        },
+        "C": {
+            "cells": [
+                150,
+                79,
+                26,
+                126,
+                62,
+                109,
+                11,
+                43,
+                94
+            ],
+            "answer": "Viewpoint",
+            "hint": "Scenic overlook; perspective"
+        },
+        "D": {
+            "cells": [
+                6,
+                171,
+                147,
+                127,
+                27,
+                44,
+                112,
+                91,
+                64
+            ],
+            "answer": "Itchy feet",
+            "hint": "Wanderlust (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                13,
+                146,
+                117,
+                162,
+                53,
+                29,
+                99
+            ],
+            "answer": "Dreyfus",
+            "hint": "French officer convicted of treason in 1894"
+        },
+        "F": {
+            "cells": [
+                120,
+                101,
+                136,
+                154,
+                39,
+                55,
+                84
+            ],
+            "answer": "Erewhon",
+            "hint": "Satire based partly on its author\u2019s New Zealand sojourn"
+        },
+        "G": {
+            "cells": [
+                33,
+                130,
+                92,
+                50,
+                111,
+                68,
+                152
+            ],
+            "answer": "Aspirin",
+            "hint": "Pain reliever derived from willow bark"
+        },
+        "H": {
+            "cells": [
+                125,
+                143,
+                63,
+                47,
+                5,
+                107,
+                20,
+                165
+            ],
+            "answer": "Geometer",
+            "hint": "Euclid or Benoit Mandelbrot, e.g."
+        },
+        "I": {
+            "cells": [
+                72,
+                103,
+                12,
+                119,
+                58,
+                88,
+                41,
+                178,
+                161
+            ],
+            "answer": "Lunch hour",
+            "hint": "Break in a shift (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                96,
+                60,
+                158,
+                32,
+                19,
+                83,
+                134,
+                108
+            ],
+            "answer": "Eternity",
+            "hint": "Dog\u2019s age, month of Sundays"
+        },
+        "K": {
+            "cells": [
+                56,
+                21,
+                76,
+                168,
+                97,
+                140,
+                35,
+                123
+            ],
+            "answer": "Macaroni",
+            "hint": "Tubes in a kitchen"
+        },
+        "L": {
+            "cells": [
+                100,
+                15,
+                74,
+                59,
+                30,
+                86,
+                1,
+                151,
+                114,
+                170
+            ],
+            "answer": "Apparition",
+            "hint": "Teleporting skill taught at Hogwarts"
+        },
+        "M": {
+            "cells": [
+                113,
+                93,
+                132,
+                38,
+                149,
+                80,
+                164,
+                61
+            ],
+            "answer": "Nautilus",
+            "hint": "Cephalopod with a shell"
+        },
+        "N": {
+            "cells": [
+                42,
+                115,
+                14,
+                131,
+                67,
+                148,
+                167
+            ],
+            "answer": "\"It's Over\"",
+            "hint": "Roy Orbison top 10 hit of 1964 (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                40,
+                28,
+                9,
+                106,
+                81,
+                169,
+                57,
+                139
+            ],
+            "answer": "Nobility",
+            "hint": "Feudal upper class"
+        },
+        "P": {
+            "cells": [
+                22,
+                90,
+                75,
+                144,
+                173,
+                48,
+                34,
+                124
+            ],
+            "answer": "Chaplain",
+            "hint": "Noncombatant member of the military"
+        },
+        "Q": {
+            "cells": [
+                51,
+                66,
+                78,
+                18,
+                142,
+                160
+            ],
+            "answer": "On fire",
+            "hint": "Hot, hot, hot (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                153,
+                110,
+                133,
+                10,
+                24,
+                82,
+                175
+            ],
+            "answer": "Gutless",
+            "hint": "Lily-livered, yellow-bellied"
+        },
+        "S": {
+            "cells": [
+                52,
+                145,
+                163,
+                116,
+                2,
+                25,
+                89,
+                77
+            ],
+            "answer": "Neophyte",
+            "hint": "Rookie, greenhorn, apprentice"
+        },
+        "T": {
+            "cells": [
+                65,
+                159,
+                45,
+                118,
+                176,
+                17,
+                102,
+                85,
+                138,
+                4
+            ],
+            "answer": "Ivory tower",
+            "hint": "Symbol of elite detachment (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                87,
+                54,
+                37,
+                71,
+                129,
+                155,
+                174,
+                16,
+                104
+            ],
+            "answer": "Triathlon",
+            "hint": "Sport making its Olympic debut in Sydney in 2000"
+        },
+        "V": {
+            "cells": [
+                177,
+                31,
+                69,
+                3,
+                137,
+                122,
+                156,
+                98,
+                49
+            ],
+            "answer": "Observant",
+            "hint": "Like a good detective"
+        }
+    }
+}

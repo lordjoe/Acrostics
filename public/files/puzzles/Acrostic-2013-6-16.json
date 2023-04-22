@@ -1,0 +1,329 @@
+{
+    "answer": "[M]y father did try... not to curse... . Having to squelch the profanities... reduced him to saying such things as, \u201cIf you ever... because you\u2018re a... and I swear I\u2019ll...\u201d For many years... I thought my father was... unable to complete a sentence.",
+    "author": "Bill Cosby,",
+    "authorCell": [
+        93,
+        10,
+        161,
+        117,
+        172,
+        133,
+        98,
+        152,
+        125,
+        156,
+        168,
+        118,
+        96,
+        50,
+        75,
+        162,
+        13,
+        143,
+        32,
+        19,
+        108
+    ],
+    "source": "On Fatherhood",
+    "clues": {
+        "A": {
+            "cells": [
+                93,
+                120,
+                106,
+                49,
+                29,
+                146,
+                165,
+                66,
+                132
+            ],
+            "answer": "Brainwash",
+            "hint": "Subject to a change of view"
+        },
+        "B": {
+            "cells": [
+                10,
+                107,
+                55,
+                34,
+                149,
+                84,
+                137,
+                68
+            ],
+            "answer": "Inequity",
+            "hint": "Bias, unfairness"
+        },
+        "C": {
+            "cells": [
+                161,
+                87,
+                23,
+                59,
+                5,
+                101,
+                134,
+                74,
+                41
+            ],
+            "answer": "Lose touch",
+            "hint": "Drift apart, as friends might (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                117,
+                26,
+                95,
+                77,
+                44,
+                14,
+                1,
+                65,
+                166,
+                144
+            ],
+            "answer": "Lachrymose",
+            "hint": "Prone to turn on the waterworks"
+        },
+        "E": {
+            "cells": [
+                172,
+                113,
+                40,
+                126,
+                92,
+                24,
+                145
+            ],
+            "answer": "Caterer",
+            "hint": "One serving a function"
+        },
+        "F": {
+            "cells": [
+                133,
+                97,
+                12,
+                39,
+                119,
+                57,
+                83,
+                154
+            ],
+            "answer": "Outhouse",
+            "hint": "Facility called a \u201cdunny\u201d in Australia"
+        },
+        "G": {
+            "cells": [
+                98,
+                42,
+                58,
+                76,
+                28,
+                158,
+                123
+            ],
+            "answer": "Section",
+            "hint": "640-acre chunk of land, out West"
+        },
+        "H": {
+            "cells": [
+                152,
+                116,
+                88,
+                173,
+                138,
+                45,
+                16,
+                70
+            ],
+            "answer": "\u201cBlue Moon\"",
+            "hint": "1961 doo-wop hit written by Rodgers and Hart (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                125,
+                141,
+                157,
+                25,
+                64,
+                109,
+                48,
+                80
+            ],
+            "answer": "Yachting",
+            "hint": "Sport that may be wind-assisted"
+        },
+        "J": {
+            "cells": [
+                156,
+                90,
+                170,
+                128,
+                110,
+                17,
+                73,
+                46,
+                3
+            ],
+            "answer": "Overstuff",
+            "hint": "Pack more than you should"
+        },
+        "K": {
+            "cells": [
+                168,
+                36,
+                111,
+                72,
+                60,
+                151,
+                86
+            ],
+            "answer": "\"Newsday\"",
+            "hint": "Cablevision media purchase of 2008"
+        },
+        "L": {
+            "cells": [
+                118,
+                105,
+                78,
+                54,
+                139,
+                11,
+                21,
+                33,
+                155
+            ],
+            "answer": "Fairy dust",
+            "hint": "Emanation from Tinker Bell\u2019s wand (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                96,
+                35,
+                135,
+                63,
+                112,
+                150,
+                18
+            ],
+            "answer": "Augment",
+            "hint": "Beef up, expand, add to"
+        },
+        "N": {
+            "cells": [
+                50,
+                127,
+                114,
+                31,
+                102,
+                140,
+                85,
+                164
+            ],
+            "answer": "\"Tartuffe\u201d",
+            "hint": "Moliere play about a pious hypocrite"
+        },
+        "O": {
+            "cells": [
+                75,
+                94,
+                147,
+                27,
+                124,
+                53,
+                7,
+                163
+            ],
+            "answer": "Heavyset",
+            "hint": "Built like Santa Claus"
+        },
+        "P": {
+            "cells": [
+                162,
+                82,
+                148,
+                100,
+                38,
+                136,
+                4,
+                62,
+                22
+            ],
+            "answer": "Easy chair",
+            "hint": "Place for a bibliophile (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                13,
+                67,
+                30,
+                131,
+                51,
+                159,
+                91
+            ],
+            "answer": "Ragtime",
+            "hint": "Style heard in the soundtrack for \u201cThe Sting\u201d"
+        },
+        "R": {
+            "cells": [
+                143,
+                99,
+                47,
+                9,
+                160,
+                130,
+                79
+            ],
+            "answer": "Headpin",
+            "hint": "Target when planning for a strike"
+        },
+        "S": {
+            "cells": [
+                32,
+                2,
+                81,
+                142,
+                167,
+                103,
+                121,
+                52,
+                15
+            ],
+            "answer": "Oystermen",
+            "hint": "Workers who harvest by raking beds"
+        },
+        "T": {
+            "cells": [
+                19,
+                37,
+                56,
+                104,
+                171,
+                71,
+                153,
+                115,
+                129,
+                6
+            ],
+            "answer": "Old English",
+            "hint": "The Venerable Bede\u2019s native tongue (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                108,
+                69,
+                8,
+                169,
+                20,
+                61,
+                89,
+                122,
+                43
+            ],
+            "answer": "Dirt cheap",
+            "hint": "Marked down a lot (hyph.)"
+        }
+    }
+}

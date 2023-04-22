@@ -1,0 +1,371 @@
+{
+    "answer": "Groucho, the most intellectual of the brothers, developed his ideas under the influence of social commentators like Mencken, with his passionate defense of freedom of speech and contempt for the American \u201cboobocracy\u201d.",
+    "author": "Simon Louvish,",
+    "authorCell": [
+        39,
+        50,
+        137,
+        175,
+        104,
+        94,
+        77,
+        69,
+        42,
+        116,
+        140,
+        63,
+        154,
+        34,
+        100,
+        96,
+        97,
+        180,
+        174,
+        4,
+        13,
+        167,
+        147,
+        10,
+        51,
+        76
+    ],
+    "source": "Monkey Business",
+    "clues": {
+        "A": {
+            "cells": [
+                39,
+                102,
+                134,
+                88,
+                22,
+                161
+            ],
+            "answer": "Sketch",
+            "hint": "Comic \u201cSaturday Night Live\u201d offering"
+        },
+        "B": {
+            "cells": [
+                50,
+                118,
+                85,
+                163,
+                17,
+                70
+            ],
+            "answer": "Inmate",
+            "hint": "\u201cBirdman of Alcatraz\u201d extra"
+        },
+        "C": {
+            "cells": [
+                137,
+                12,
+                171,
+                111,
+                35,
+                86,
+                61
+            ],
+            "answer": "Mobster",
+            "hint": "\u201cThe Godfather\u201d extra"
+        },
+        "D": {
+            "cells": [
+                175,
+                28,
+                124,
+                149,
+                74,
+                44,
+                7,
+                92
+            ],
+            "answer": "Off-color",
+            "hint": "Of doubtful propriety, jokewise (hyph.)"
+        },
+        "E": {
+            "cells": [
+                104,
+                129,
+                150,
+                53,
+                81,
+                31
+            ],
+            "answer": "Noodle",
+            "hint": "Bean, noggin"
+        },
+        "F": {
+            "cells": [
+                94,
+                158,
+                80,
+                139,
+                54,
+                33,
+                114
+            ],
+            "answer": "Loafers",
+            "hint": "Idlers\u2019 shoes?"
+        },
+        "G": {
+            "cells": [
+                77,
+                62,
+                145,
+                99,
+                38,
+                6,
+                113,
+                20,
+                157
+            ],
+            "answer": "Other half",
+            "hint": "Wife or husband (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                69,
+                112,
+                46,
+                18,
+                2,
+                168,
+                146,
+                93,
+                133
+            ],
+            "answer": "Upper case",
+            "hint": "Capital"
+        },
+        "I": {
+            "cells": [
+                42,
+                27,
+                68,
+                8,
+                103,
+                130,
+                169,
+                82,
+                143
+            ],
+            "answer": "Volte-face",
+            "hint": "Quite a turnabout in outlook (hyph.)"
+        },
+        "J": {
+            "cells": [
+                116,
+                98,
+                155,
+                41,
+                177,
+                131,
+                73,
+                5,
+                23
+            ],
+            "answer": "Imperfect",
+            "hint": "Flawed"
+        },
+        "K": {
+            "cells": [
+                140,
+                9,
+                162,
+                26,
+                67,
+                52,
+                78,
+                125
+            ],
+            "answer": "Shelf ice",
+            "hint": "Seasonal feature of Lake Michigan (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                63,
+                138,
+                105,
+                178,
+                159,
+                48
+            ],
+            "answer": "Howard",
+            "hint": "Moe or Curly, but not Larry"
+        },
+        "M": {
+            "cells": [
+                154,
+                121,
+                29,
+                49,
+                83,
+                135
+            ],
+            "answer": "Method",
+            "hint": "Technique for Brando and Hoffman"
+        },
+        "N": {
+            "cells": [
+                34,
+                141,
+                166,
+                55,
+                109
+            ],
+            "answer": "Oprah",
+            "hint": "Billionaire with a huge TV following"
+        },
+        "O": {
+            "cells": [
+                100,
+                172,
+                156,
+                15,
+                45,
+                71
+            ],
+            "answer": "Notion",
+            "hint": "Ingenious article, knickknack"
+        },
+        "P": {
+            "cells": [
+                96,
+                79,
+                120,
+                179,
+                36,
+                153,
+                66
+            ],
+            "answer": "Kitchen",
+            "hint": "Too-close-inside area, in baseball lingo"
+        },
+        "Q": {
+            "cells": [
+                97,
+                115,
+                14,
+                47,
+                142,
+                164
+            ],
+            "answer": "Esteem",
+            "hint": "Prize"
+        },
+        "R": {
+            "cells": [
+                180,
+                136,
+                57,
+                151,
+                1,
+                84,
+                119,
+                16
+            ],
+            "answer": "Youngman",
+            "hint": "Card saying \u201cTake my wife - please\u201d"
+        },
+        "S": {
+            "cells": [
+                174,
+                95,
+                32,
+                64,
+                19,
+                117,
+                152
+            ],
+            "answer": "Bibelot",
+            "hint": "Trinket"
+        },
+        "T": {
+            "cells": [
+                4,
+                58,
+                75,
+                91,
+                132,
+                176,
+                21,
+                40
+            ],
+            "answer": "Unforced",
+            "hint": "Like the worst kinds of errors in sports"
+        },
+        "U": {
+            "cells": [
+                13,
+                123,
+                56,
+                160,
+                37,
+                107
+            ],
+            "answer": "Sestet",
+            "hint": "Set of guitar strings, e.g."
+        },
+        "V": {
+            "cells": [
+                167,
+                122,
+                106,
+                3,
+                90,
+                65,
+                144
+            ],
+            "answer": "Idiotic",
+            "hint": "Crackbrained"
+        },
+        "W": {
+            "cells": [
+                147,
+                24,
+                89,
+                170,
+                101,
+                43,
+                59
+            ],
+            "answer": "Nuanced",
+            "hint": "Executed with subtlety"
+        },
+        "X": {
+            "cells": [
+                10,
+                148,
+                110,
+                127,
+                173,
+                87
+            ],
+            "answer": "Edison",
+            "hint": "\u201cReligion is all bunk\u201d sayer"
+        },
+        "Y": {
+            "cells": [
+                51,
+                72,
+                30,
+                128,
+                11,
+                165
+            ],
+            "answer": "Scheme",
+            "hint": "Wile E. Coyote concoction"
+        },
+        "Z": {
+            "cells": [
+                76,
+                108,
+                25,
+                126,
+                60
+            ],
+            "answer": "Shane",
+            "hint": "Name called at the end of a western"
+        }
+    }
+}

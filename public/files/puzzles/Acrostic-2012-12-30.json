@@ -1,0 +1,356 @@
+{
+    "answer": "In... workshops..., I paddled through Italian\u2018s treacherous tenses.... I struggled to corral its impish pronouns, which flit from the front to the back of sentences, disappear entirely, or latch on to verbs like fleas to a cat\u2019s ear.",
+    "author": "Dianne Hales,",
+    "authorCell": [
+        61,
+        27,
+        38,
+        48,
+        33,
+        157,
+        40,
+        29,
+        93,
+        60,
+        127,
+        17,
+        68,
+        159,
+        126,
+        30,
+        166,
+        174,
+        147,
+        89,
+        153,
+        57,
+        56,
+        14
+    ],
+    "source": "La Bella Lingua",
+    "clues": {
+        "A": {
+            "cells": [
+                61,
+                94,
+                25,
+                42,
+                172,
+                132,
+                78
+            ],
+            "answer": "Digraph",
+            "hint": "\u201cSh\u201d or \u201cwr,\u201d in phonetics"
+        },
+        "B": {
+            "cells": [
+                27,
+                49,
+                151,
+                108,
+                131,
+                67
+            ],
+            "answer": "Ishtar",
+            "hint": "Venus, to the Babylonians"
+        },
+        "C": {
+            "cells": [
+                38,
+                5,
+                154,
+                119,
+                105,
+                85,
+                58
+            ],
+            "answer": "Art song",
+            "hint": "Voice recital performance (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                48,
+                18,
+                133,
+                109,
+                95,
+                1,
+                169,
+                74
+            ],
+            "answer": "Nepotism",
+            "hint": "Appointing your grandmother to office for the good of the party, per Ambrose Bierce"
+        },
+        "E": {
+            "cells": [
+                33,
+                52,
+                115,
+                6,
+                138,
+                83,
+                69,
+                170,
+                102
+            ],
+            "answer": "Nick Nolte",
+            "hint": "\u201cJefferson in Paris\u201d star (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                157,
+                34,
+                75,
+                55,
+                12,
+                122
+            ],
+            "answer": "Esprit",
+            "hint": "___ de l\u2019escalier (retort thought of too late)"
+        },
+        "G": {
+            "cells": [
+                40,
+                135,
+                59,
+                96,
+                82,
+                155,
+                20,
+                177
+            ],
+            "answer": "Half-note",
+            "hint": "Minim on a staff, two crotchets in length (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                29,
+                176,
+                111,
+                125,
+                158,
+                145,
+                92,
+                71
+            ],
+            "answer": "Ashcroft",
+            "hint": "Attorney general after Reno"
+        },
+        "I": {
+            "cells": [
+                93,
+                171,
+                156,
+                47,
+                7,
+                110,
+                23,
+                66,
+                144
+            ],
+            "answer": "\u201cLove Story\u201d",
+            "hint": "Top-grossing film of 1970, written by a Yale classics professor (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                60,
+                178,
+                36,
+                149,
+                101,
+                136,
+                76,
+                11,
+                164
+            ],
+            "answer": "Earthrise",
+            "hint": "Famous photo taken by an Apollo astronaut"
+        },
+        "K": {
+            "cells": [
+                127,
+                148,
+                2,
+                19,
+                79,
+                162,
+                35
+            ],
+            "answer": "Sand pit",
+            "hint": "Landing area for long jumpers (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                17,
+                129,
+                165,
+                112,
+                54,
+                73,
+                99,
+                41
+            ],
+            "answer": "Lifetime",
+            "hint": "Network targeting women"
+        },
+        "M": {
+            "cells": [
+                68,
+                139,
+                113,
+                50,
+                160,
+                28
+            ],
+            "answer": "At best",
+            "hint": "If all the pieces fall into place (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                159,
+                114,
+                64,
+                91,
+                37,
+                143,
+                9,
+                22
+            ],
+            "answer": "Bachelor",
+            "hint": "Leonardo da Vinci or Ludwig van Beethoven, e.g."
+        },
+        "O": {
+            "cells": [
+                126,
+                10,
+                152,
+                39,
+                88,
+                72
+            ],
+            "answer": "Epochs",
+            "hint": "Subdivisions of a geologic period"
+        },
+        "P": {
+            "cells": [
+                30,
+                4,
+                117,
+                163,
+                103,
+                81,
+                146
+            ],
+            "answer": "Look for",
+            "hint": "Anticipate; try to find (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                166,
+                32,
+                124,
+                90,
+                142,
+                46
+            ],
+            "answer": "Lancet",
+            "hint": "Tool used to make small incisions"
+        },
+        "R": {
+            "cells": [
+                174,
+                13,
+                97,
+                134,
+                77,
+                53,
+                116,
+                31
+            ],
+            "answer": "Apres-ski",
+            "hint": "Snow boots for walking, to the French (hyph.)"
+        },
+        "S": {
+            "cells": [
+                147,
+                43,
+                130,
+                107,
+                87,
+                63,
+                179,
+                161,
+                16
+            ],
+            "answer": "Lost world",
+            "hint": "El Dorado or Shangri-La, e.g. (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                89,
+                104,
+                70,
+                15,
+                120,
+                45,
+                173,
+                137
+            ],
+            "answer": "Iridesce",
+            "hint": "Shimmer with different colors"
+        },
+        "U": {
+            "cells": [
+                153,
+                167,
+                3,
+                51,
+                21,
+                65,
+                84,
+                106,
+                128
+            ],
+            "answer": "Newshound",
+            "hint": "Brenda Starr or Lois Lane sort"
+        },
+        "V": {
+            "cells": [
+                57,
+                123,
+                140,
+                86,
+                26,
+                168
+            ],
+            "answer": "Geisha",
+            "hint": "Entertainer in a hanamachi"
+        },
+        "W": {
+            "cells": [
+                56,
+                121,
+                100,
+                141,
+                24,
+                175,
+                8
+            ],
+            "answer": "Untruth",
+            "hint": "Libel or slander, by definition"
+        },
+        "X": {
+            "cells": [
+                14,
+                150,
+                62,
+                118,
+                98,
+                44,
+                80
+            ],
+            "answer": "Act Four",
+            "hint": "When Juliet drinks the potion (2 wds.)"
+        }
+    }
+}

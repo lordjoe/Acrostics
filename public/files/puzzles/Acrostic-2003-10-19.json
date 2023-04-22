@@ -1,0 +1,373 @@
+{
+    "answer": "An unalterable and unquestioned law of the musical world required that the German text of French operas sung by Swedish artists... be translated into Italian for the clearer understanding of English speaking audiences.",
+    "author": "Edith Wharton,",
+    "authorCell": [
+        147,
+        153,
+        40,
+        117,
+        135,
+        31,
+        62,
+        116,
+        46,
+        150,
+        132,
+        145,
+        151,
+        156,
+        65,
+        82,
+        158,
+        53,
+        4,
+        172,
+        45,
+        80,
+        181,
+        79,
+        41,
+        159
+    ],
+    "source": "(The) Age Of Innocence",
+    "clues": {
+        "A": {
+            "cells": [
+                147,
+                12,
+                96,
+                180,
+                110,
+                49,
+                86
+            ],
+            "answer": "Electra",
+            "hint": "Vengeful sister of Orestes"
+        },
+        "B": {
+            "cells": [
+                153,
+                54,
+                174,
+                64,
+                130,
+                36,
+                103
+            ],
+            "answer": "Dragnet",
+            "hint": "Crime show syndicated as \u201cBadge 714\u201d"
+        },
+        "C": {
+            "cells": [
+                40,
+                26,
+                87,
+                58,
+                129,
+                167,
+                142
+            ],
+            "answer": "In shape",
+            "hint": "Evincing the benefits of exercise (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                117,
+                66,
+                144,
+                15,
+                97,
+                47,
+                168
+            ],
+            "answer": "Trundle",
+            "hint": "Push along by rolling"
+        },
+        "E": {
+            "cells": [
+                135,
+                169,
+                29,
+                75,
+                44,
+                120,
+                106
+            ],
+            "answer": "Halfwit",
+            "hint": "Dunderhead, lamebrain (hyph.)"
+        },
+        "F": {
+            "cells": [
+                31,
+                165,
+                59,
+                134,
+                94,
+                3,
+                83
+            ],
+            "answer": "\u201cWhat\u2019s up?\u201d",
+            "hint": "Inquiry into the state of affairs (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                62,
+                93,
+                48,
+                143,
+                14,
+                160,
+                125
+            ],
+            "answer": "Hydrant",
+            "hint": "Main outlet?"
+        },
+        "H": {
+            "cells": [
+                116,
+                141,
+                92,
+                20,
+                61,
+                38,
+                164
+            ],
+            "answer": "Arbutus",
+            "hint": "Strawberry tree or madrone"
+        },
+        "I": {
+            "cells": [
+                46,
+                109,
+                91,
+                68,
+                133,
+                16,
+                149
+            ],
+            "answer": "Regards",
+            "hint": "\u201cYours truly\u201d alternative"
+        },
+        "J": {
+            "cells": [
+                150,
+                88,
+                51,
+                17,
+                112,
+                102,
+                178
+            ],
+            "answer": "T square",
+            "hint": "Drafting tool for drawing parallel lines (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                132,
+                108,
+                6,
+                154,
+                19,
+                175,
+                63
+            ],
+            "answer": "Oblique",
+            "hint": "Slanting; circumlocutory"
+        },
+        "L": {
+            "cells": [
+                145,
+                27,
+                73,
+                114,
+                52,
+                170,
+                8
+            ],
+            "answer": "Netsuke",
+            "hint": "Collectible sculptured toggle from Japan"
+        },
+        "M": {
+            "cells": [
+                151,
+                182,
+                100,
+                10,
+                113,
+                70,
+                128
+            ],
+            "answer": "Ashanti",
+            "hint": "Urban music star with the 2002 hit \u201cFoolish\u201d"
+        },
+        "N": {
+            "cells": [
+                156,
+                9,
+                118,
+                37,
+                127,
+                24,
+                179
+            ],
+            "answer": "Gremlin",
+            "hint": "Source of unexplained difficulties"
+        },
+        "O": {
+            "cells": [
+                65,
+                152,
+                28,
+                89,
+                166,
+                50,
+                111
+            ],
+            "answer": "End user",
+            "hint": "Target of an instruction booklet (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                82,
+                155,
+                105,
+                23,
+                5,
+                173,
+                55
+            ],
+            "answer": "Onstage",
+            "hint": "Visible to the audience"
+        },
+        "Q": {
+            "cells": [
+                158,
+                25,
+                72,
+                131,
+                177,
+                85,
+                13
+            ],
+            "answer": "Foxfire",
+            "hint": "Luminescence produced by fungi on rotten wood"
+        },
+        "R": {
+            "cells": [
+                53,
+                2,
+                22,
+                104,
+                161,
+                81,
+                34
+            ],
+            "answer": "Insight",
+            "hint": "\u201cEureka!\u201d moment, maybe"
+        },
+        "S": {
+            "cells": [
+                4,
+                84,
+                95,
+                146,
+                71,
+                126,
+                43
+            ],
+            "answer": "New Deal",
+            "hint": "Depression-recovery program (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                172,
+                32,
+                107,
+                57,
+                77,
+                124,
+                138
+            ],
+            "answer": "Nostril",
+            "hint": "Whale\u2019s blowhole, e.g."
+        },
+        "U": {
+            "cells": [
+                45,
+                101,
+                122,
+                11,
+                148,
+                30,
+                90
+            ],
+            "answer": "Oat bran",
+            "hint": "Cholesterol-fighting fad food (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                80,
+                42,
+                69,
+                119,
+                163,
+                176,
+                21
+            ],
+            "answer": "Candide",
+            "hint": "Student of Doctor Pangloss"
+        },
+        "W": {
+            "cells": [
+                181,
+                18,
+                67,
+                140,
+                99,
+                39,
+                78
+            ],
+            "answer": "En masse",
+            "hint": "All together (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                79,
+                139,
+                157,
+                115,
+                171,
+                7,
+                35
+            ],
+            "answer": "Neolith",
+            "hint": "Late Stone Age tool"
+        },
+        "Y": {
+            "cells": [
+                41,
+                123,
+                74,
+                162,
+                137,
+                1,
+                60
+            ],
+            "answer": "Cool cat",
+            "hint": "Hipster (2 wds.)"
+        },
+        "Z": {
+            "cells": [
+                159,
+                76,
+                33,
+                136,
+                121,
+                56,
+                98
+            ],
+            "answer": "Effendi",
+            "hint": "Title of respect for a Turkish official"
+        }
+    }
+}

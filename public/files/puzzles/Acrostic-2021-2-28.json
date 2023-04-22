@@ -1,0 +1,358 @@
+{
+    "answer": "I had no song in my repertoire for commercial radio... . Songs about debauched bootleggers,... Cadillacs that only got five miles to the gallon, floods,... fires, darkness and cadavers at the bottom of rivers weren\u2019t for radiophiles.",
+    "author": "(Bob) Dylan,",
+    "authorCell": [
+        134,
+        89,
+        179,
+        74,
+        5,
+        34,
+        59,
+        156,
+        149,
+        128,
+        1,
+        28,
+        78,
+        165,
+        101,
+        139,
+        26,
+        88,
+        51,
+        30,
+        106,
+        103,
+        133,
+        122
+    ],
+    "source": "Chronicles, Volume One",
+    "clues": {
+        "A": {
+            "cells": [
+                134,
+                170,
+                157,
+                113,
+                65,
+                96,
+                33
+            ],
+            "answer": "Drifter",
+            "hint": "Rootless wanderer"
+        },
+        "B": {
+            "cells": [
+                89,
+                39,
+                23,
+                4,
+                55,
+                76,
+                141,
+                173,
+                118
+            ],
+            "answer": "Yardbirds",
+            "hint": "Band for which Clapton, Beck and Page played, with \u201cthe\u201d"
+        },
+        "C": {
+            "cells": [
+                179,
+                84,
+                166,
+                137,
+                66,
+                8,
+                121,
+                40
+            ],
+            "answer": "Landlord",
+            "hint": "Fred Mertz, to the Ricardos, on \u201cI Love Lucy\u201d"
+        },
+        "D": {
+            "cells": [
+                74,
+                148,
+                164,
+                48,
+                105,
+                136,
+                13
+            ],
+            "answer": "Abraham",
+            "hint": "Man who observed the destruction of Sodom"
+        },
+        "E": {
+            "cells": [
+                5,
+                42,
+                123,
+                20,
+                56,
+                77,
+                90,
+                174,
+                143
+            ],
+            "answer": "Nostalgia",
+            "hint": "Homesick blues?"
+        },
+        "F": {
+            "cells": [
+                34,
+                64,
+                97,
+                176,
+                111,
+                130,
+                159,
+                19
+            ],
+            "answer": "Composer",
+            "hint": "Creative person of note?"
+        },
+        "G": {
+            "cells": [
+                59,
+                98,
+                46,
+                146,
+                162,
+                132,
+                14
+            ],
+            "answer": "Highway",
+            "hint": "61, for example"
+        },
+        "H": {
+            "cells": [
+                156,
+                108,
+                68,
+                32
+            ],
+            "answer": "Rage",
+            "hint": "Emotion strong enough to induce tears"
+        },
+        "I": {
+            "cells": [
+                149,
+                110,
+                61,
+                18,
+                38
+            ],
+            "answer": "Older",
+            "hint": "\u201cAh, but I was so much ____ then\u201d (1964 lyric)"
+        },
+        "J": {
+            "cells": [
+                128,
+                152,
+                62,
+                16,
+                99,
+                178,
+                43,
+                82
+            ],
+            "answer": "Nobelist",
+            "hint": "What this quote\u2019s author became in 2016"
+        },
+        "K": {
+            "cells": [
+                1,
+                87,
+                168,
+                35,
+                53,
+                140,
+                114
+            ],
+            "answer": "Infidel",
+            "hint": "One who is unfaithful?"
+        },
+        "L": {
+            "cells": [
+                28,
+                2,
+                115,
+                154,
+                73,
+                177,
+                50,
+                86
+            ],
+            "answer": "Choo-choo",
+            "hint": "Echoic term for M. (hyph.)"
+        },
+        "M": {
+            "cells": [
+                78,
+                169,
+                135,
+                44,
+                31,
+                116,
+                150,
+                11,
+                95,
+                60
+            ],
+            "answer": "Locomotive",
+            "hint": "Literally, \u201cmoving from place to place\u201d"
+        },
+        "N": {
+            "cells": [
+                165,
+                47,
+                29,
+                151,
+                129,
+                15,
+                94,
+                80
+            ],
+            "answer": "Esoteric",
+            "hint": "Difficult to understand"
+        },
+        "O": {
+            "cells": [
+                101,
+                127,
+                147,
+                37,
+                70,
+                85,
+                175,
+                112
+            ],
+            "answer": "Skeleton",
+            "hint": "Word preceding staff and key"
+        },
+        "P": {
+            "cells": [
+                139,
+                36,
+                107,
+                172,
+                49,
+                91,
+                9,
+                75
+            ],
+            "answer": "Vagabond",
+            "hint": "Tramp, hobo, bindlestiff"
+        },
+        "Q": {
+            "cells": [
+                26,
+                158,
+                54,
+                171,
+                124,
+                6,
+                81,
+                100
+            ],
+            "answer": "Overdose",
+            "hint": "Administration taken to an extreme"
+        },
+        "R": {
+            "cells": [
+                88,
+                67,
+                145,
+                167,
+                24,
+                126,
+                7
+            ],
+            "answer": "Letters",
+            "hint": "Memorabilia of a sort"
+        },
+        "S": {
+            "cells": [
+                51,
+                17,
+                72,
+                144,
+                125,
+                160,
+                104
+            ],
+            "answer": "Upstart",
+            "hint": "Brash newcomer on the scene"
+        },
+        "T": {
+            "cells": [
+                30,
+                120,
+                12,
+                142,
+                92,
+                71,
+                163,
+                109
+            ],
+            "answer": "Minstrel",
+            "hint": "Poet with an instrument"
+        },
+        "U": {
+            "cells": [
+                106,
+                119,
+                93,
+                57,
+                161,
+                22,
+                45,
+                10
+            ],
+            "answer": "Effusing",
+            "hint": "Pouring out, as with words or ideas"
+        },
+        "V": {
+            "cells": [
+                103,
+                25,
+                155,
+                131,
+                52,
+                3,
+                69,
+                180
+            ],
+            "answer": "Offstage",
+            "hint": "Not performing; in private life"
+        },
+        "W": {
+            "cells": [
+                133,
+                21,
+                153,
+                79,
+                117,
+                41,
+                58
+            ],
+            "answer": "Nomadic",
+            "hint": "Like a rolling stone"
+        },
+        "X": {
+            "cells": [
+                122,
+                138,
+                27,
+                181,
+                83,
+                63,
+                102
+            ],
+            "answer": "Earshot",
+            "hint": "What listeners must be in"
+        }
+    }
+}

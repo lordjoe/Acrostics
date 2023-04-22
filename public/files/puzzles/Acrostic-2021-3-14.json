@@ -1,0 +1,323 @@
+{
+    "answer": "Before it became... law, Daylight Saving was considered a joke. Even... its... advocates believe that when Ben Franklin took pen in hand and wrote the first detailed proposal to save daylight... he had his tongue in his cheek.",
+    "author": "(Michael) Downing,",
+    "authorCell": [
+        143,
+        36,
+        77,
+        103,
+        54,
+        83,
+        162,
+        119,
+        96,
+        42,
+        22,
+        91,
+        23,
+        84,
+        93,
+        118,
+        32,
+        16,
+        5,
+        40
+    ],
+    "source": "Spring Forward",
+    "clues": {
+        "A": {
+            "cells": [
+                143,
+                168,
+                34,
+                46,
+                94,
+                157,
+                80,
+                120,
+                64,
+                18
+            ],
+            "answer": "Disjointed",
+            "hint": "Unconnected, incoherent; out of whack"
+        },
+        "B": {
+            "cells": [
+                36,
+                163,
+                73,
+                3,
+                21,
+                144,
+                53,
+                95,
+                122,
+                107
+            ],
+            "answer": "Outflanked",
+            "hint": "Beaten on the sides?"
+        },
+        "C": {
+            "cells": [
+                77,
+                149,
+                125,
+                159,
+                112,
+                48,
+                98,
+                7,
+                31,
+                171,
+                137
+            ],
+            "answer": "White knight",
+            "hint": "Savior from a hostile takeover (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                103,
+                57,
+                123,
+                167,
+                86,
+                37,
+                153,
+                75,
+                15,
+                142
+            ],
+            "answer": "Nathan Hale",
+            "hint": "Connecticut\u2019s official state hero (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                54,
+                87,
+                71,
+                172,
+                11,
+                150,
+                117,
+                28,
+                41
+            ],
+            "answer": "Invective",
+            "hint": "Vituperation, obloquy, vitriol"
+        },
+        "F": {
+            "cells": [
+                83,
+                33,
+                51,
+                20,
+                1,
+                67,
+                124,
+                100,
+                139
+            ],
+            "answer": "Navy beans",
+            "hint": "Legumes once a staple of sailors (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                162,
+                105,
+                65,
+                133,
+                89,
+                147,
+                30,
+                50
+            ],
+            "answer": "Gasoline",
+            "hint": "Fire feeder"
+        },
+        "H": {
+            "cells": [
+                119,
+                27,
+                161,
+                58,
+                81,
+                102,
+                148,
+                134
+            ],
+            "answer": "Sandbags",
+            "hint": "Bank deposits for a very rainy day?"
+        },
+        "I": {
+            "cells": [
+                96,
+                39,
+                85,
+                12,
+                113,
+                72,
+                56
+            ],
+            "answer": "Pirates",
+            "hint": "Team that last won a World Series in 1979"
+        },
+        "J": {
+            "cells": [
+                42,
+                14,
+                128,
+                169,
+                92,
+                154,
+                111,
+                70,
+                26
+            ],
+            "answer": "Red states",
+            "hint": "Group leaning to the right (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                22,
+                129,
+                74,
+                47,
+                106,
+                6,
+                158
+            ],
+            "answer": "iPhones",
+            "hint": "Big Apple offerings"
+        },
+        "L": {
+            "cells": [
+                91,
+                43,
+                25,
+                108,
+                60,
+                130,
+                174,
+                10,
+                155
+            ],
+            "answer": "Networked",
+            "hint": "Set up for interactivity"
+        },
+        "M": {
+            "cells": [
+                23,
+                110,
+                62,
+                78,
+                97,
+                135,
+                44
+            ],
+            "answer": "Go-ahead",
+            "hint": "Green light (hyph.)"
+        },
+        "N": {
+            "cells": [
+                84,
+                29,
+                116,
+                63,
+                101,
+                17,
+                151,
+                49,
+                2,
+                136
+            ],
+            "answer": "Fifth wheel",
+            "hint": "One with the feeling of being unneeded (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                93,
+                132,
+                24,
+                76,
+                114,
+                45,
+                146,
+                13,
+                165,
+                61
+            ],
+            "answer": "Ophthalmic",
+            "hint": "Pertaining to the eye"
+        },
+        "P": {
+            "cells": [
+                118,
+                173,
+                9,
+                131,
+                160,
+                55,
+                82,
+                104
+            ],
+            "answer": "Rebooted",
+            "hint": "Started over, as a TV series"
+        },
+        "Q": {
+            "cells": [
+                32,
+                4,
+                138,
+                121,
+                66,
+                90,
+                166,
+                152
+            ],
+            "answer": "Woodbine",
+            "hint": "Honeysuckle or Virginia creeper"
+        },
+        "R": {
+            "cells": [
+                16,
+                109,
+                170,
+                156,
+                140,
+                69,
+                35
+            ],
+            "answer": "Archaic",
+            "hint": "Like the words \u201caffright,\u201d \u201cquoth\u201d and \u201csooth\u201d"
+        },
+        "S": {
+            "cells": [
+                5,
+                79,
+                141,
+                99,
+                59,
+                19,
+                126,
+                38
+            ],
+            "answer": "Revivals",
+            "hint": "Old plays in new stagings"
+        },
+        "T": {
+            "cells": [
+                40,
+                127,
+                68,
+                52,
+                8,
+                164,
+                88,
+                115,
+                145
+            ],
+            "answer": "Delete key",
+            "hint": "Modern-day eraser (2 wds.)"
+        }
+    }
+}

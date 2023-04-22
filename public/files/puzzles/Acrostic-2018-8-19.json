@@ -1,0 +1,345 @@
+{
+    "answer": "I thought... my brother and his friends had created Pig Latin. Hearing my father speak it didn\u2019t startle me so much as it angered. It was simply another case of the trickiness of adults... . Another case... of... Grownups\u2019 Betrayal.",
+    "author": "Maya Angelou,",
+    "authorCell": [
+        87,
+        32,
+        10,
+        51,
+        95,
+        114,
+        160,
+        36,
+        144,
+        124,
+        165,
+        38,
+        49,
+        136,
+        34,
+        91,
+        6,
+        128,
+        40,
+        168,
+        102,
+        161,
+        20
+    ],
+    "source": "(I Know Why) The Caged Bird (Sings)",
+    "clues": {
+        "A": {
+            "cells": [
+                87,
+                157,
+                54,
+                106,
+                132,
+                31
+            ],
+            "answer": "Mensch",
+            "hint": "Good person of any gender, despite the sound"
+        },
+        "B": {
+            "cells": [
+                32,
+                11,
+                137,
+                116,
+                52,
+                67,
+                154,
+                94
+            ],
+            "answer": "Abstract",
+            "hint": "Digest, outline, summary"
+        },
+        "C": {
+            "cells": [
+                10,
+                152,
+                30,
+                104,
+                66,
+                89,
+                121,
+                135
+            ],
+            "answer": "Yes we can",
+            "hint": "Campaign slogan of 2008 (3 wds.)"
+        },
+        "D": {
+            "cells": [
+                51,
+                156,
+                70,
+                171,
+                86,
+                129,
+                5,
+                99,
+                24
+            ],
+            "answer": "Astroturf",
+            "hint": "Faux grass"
+        },
+        "E": {
+            "cells": [
+                95,
+                138,
+                117,
+                174,
+                28,
+                14,
+                69
+            ],
+            "answer": "Ashanti",
+            "hint": "R&B singer with the 2014 top 10 album \u201cBraveheart\u201d"
+        },
+        "F": {
+            "cells": [
+                114,
+                139,
+                92,
+                2,
+                78,
+                175,
+                43,
+                22,
+                155
+            ],
+            "answer": "Nostalgia",
+            "hint": "Rose-colored remembrance"
+        },
+        "G": {
+            "cells": [
+                160,
+                18,
+                97,
+                63,
+                143,
+                44,
+                118
+            ],
+            "answer": "Gag rule",
+            "hint": "Legislative ban on discussion (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                36,
+                109,
+                166,
+                7,
+                147,
+                23,
+                131,
+                76
+            ],
+            "answer": "Emphasis",
+            "hint": "Function of italics, boldface or accents"
+        },
+        "I": {
+            "cells": [
+                144,
+                123,
+                9,
+                158,
+                96,
+                45,
+                71,
+                27
+            ],
+            "answer": "Lemonade",
+            "hint": "Offering from some entrepreneurial neophytes"
+        },
+        "J": {
+            "cells": [
+                124,
+                146,
+                107,
+                72,
+                159,
+                57
+            ],
+            "answer": "Ossify",
+            "hint": "Turn rigid, lose flexibility"
+        },
+        "K": {
+            "cells": [
+                165,
+                48,
+                103,
+                119,
+                88,
+                75,
+                21
+            ],
+            "answer": "Untruth",
+            "hint": "Something not to be believed"
+        },
+        "L": {
+            "cells": [
+                38,
+                151,
+                53,
+                85,
+                126,
+                111,
+                16
+            ],
+            "answer": "Thistle",
+            "hint": "Favored food of goldfinches"
+        },
+        "M": {
+            "cells": [
+                49,
+                112,
+                29,
+                84,
+                65,
+                172,
+                153,
+                133
+            ],
+            "answer": "Hyde Park",
+            "hint": "Home town of the Culinary Institute of America (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                136,
+                35,
+                64,
+                150,
+                163,
+                15,
+                1,
+                81,
+                98
+            ],
+            "answer": "Erstwhile",
+            "hint": "Formerly, formerly"
+        },
+        "O": {
+            "cells": [
+                34,
+                127,
+                93,
+                55,
+                19,
+                115,
+                164
+            ],
+            "answer": "Chignon",
+            "hint": "Roll of hair worn at the back of the neck"
+        },
+        "P": {
+            "cells": [
+                91,
+                12,
+                60,
+                47,
+                140,
+                105,
+                120,
+                170
+            ],
+            "answer": "Artifact",
+            "hint": "Discovery at an archaeological dig"
+        },
+        "Q": {
+            "cells": [
+                6,
+                149,
+                37,
+                77,
+                169,
+                50,
+                101
+            ],
+            "answer": "Goateed",
+            "hint": "Sporting a tuft on the mentum"
+        },
+        "R": {
+            "cells": [
+                128,
+                73,
+                26,
+                8,
+                90,
+                110,
+                42,
+                141,
+                58
+            ],
+            "answer": "Edith Piaf",
+            "hint": "Oscar-winning role for Marion Cotillard (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                40,
+                162,
+                74,
+                148,
+                134,
+                122,
+                61
+            ],
+            "answer": "Donnish",
+            "hint": "Tweedily erudite"
+        },
+        "T": {
+            "cells": [
+                168,
+                108,
+                80,
+                41,
+                59,
+                17,
+                145
+            ],
+            "answer": "Bit part",
+            "hint": "Many a celebrity appearance on a sitcom (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                102,
+                130,
+                68,
+                167,
+                13,
+                83,
+                39
+            ],
+            "answer": "Irksome",
+            "hint": "Trying, causing annoyance"
+        },
+        "V": {
+            "cells": [
+                161,
+                82,
+                125,
+                4,
+                25,
+                56
+            ],
+            "answer": "Reform",
+            "hint": "Political party whose color is purple"
+        },
+        "W": {
+            "cells": [
+                20,
+                62,
+                3,
+                173,
+                142,
+                79,
+                113,
+                46,
+                100,
+                33
+            ],
+            "answer": "Dehydrated",
+            "hint": "Like many \u201cinstant\u201d foods"
+        }
+    }
+}

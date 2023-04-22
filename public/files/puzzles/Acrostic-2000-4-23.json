@@ -1,0 +1,354 @@
+{
+    "answer": "[T]he road runs in a long entwined undulation of mud, patched tar and fjords of green, the... flowers... in full regalia,... foxglove... lordliest of all, the big furry bees nosing in the cool speckled recesses of mauve and white bell.",
+    "author": "Edna O\u2019Brien,",
+    "authorCell": [
+        145,
+        54,
+        10,
+        166,
+        61,
+        116,
+        151,
+        131,
+        75,
+        28,
+        29,
+        37,
+        22,
+        167,
+        124,
+        123,
+        1,
+        114,
+        173,
+        64,
+        23,
+        164,
+        154,
+        76
+    ],
+    "source": "Down by the River",
+    "clues": {
+        "A": {
+            "cells": [
+                145,
+                31,
+                161,
+                3,
+                101,
+                91,
+                120,
+                26,
+                48
+            ],
+            "answer": "Elmer Fudd",
+            "hint": "Hapless hunter of \u201cMerrie Melodies\u201d (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                54,
+                125,
+                158,
+                42,
+                108,
+                136
+            ],
+            "answer": "Despot",
+            "hint": "Tyrant"
+        },
+        "C": {
+            "cells": [
+                10,
+                171,
+                133,
+                2,
+                21,
+                56,
+                110,
+                84
+            ],
+            "answer": "Nightjar",
+            "hint": "Goatsucker with a chirring song"
+        },
+        "D": {
+            "cells": [
+                166,
+                72,
+                142,
+                109,
+                89,
+                58,
+                126,
+                41
+            ],
+            "answer": "All-fired",
+            "hint": "Deucedly, extremely (hyph.)"
+        },
+        "E": {
+            "cells": [
+                61,
+                144,
+                129,
+                106,
+                156,
+                81,
+                39
+            ],
+            "answer": "Opossum",
+            "hint": "Marsupial with an opposable toe"
+        },
+        "F": {
+            "cells": [
+                116,
+                8,
+                78,
+                135,
+                147,
+                60
+            ],
+            "answer": "Brink\u2019s",
+            "hint": "Victim of a notable 1950 heist"
+        },
+        "G": {
+            "cells": [
+                151,
+                27,
+                20,
+                43,
+                132,
+                102,
+                94,
+                163,
+                67
+            ],
+            "answer": "Run-and-gun",
+            "hint": "Fast-breaking style of basketball offense (hyph.)"
+        },
+        "H": {
+            "cells": [
+                131,
+                121,
+                140,
+                17,
+                153,
+                177,
+                50,
+                168
+            ],
+            "answer": "Ironclad",
+            "hint": "The Monitor or the Virginia, e.g."
+        },
+        "I": {
+            "cells": [
+                75,
+                113,
+                141,
+                9,
+                62,
+                38,
+                85,
+                165
+            ],
+            "answer": "Étouffée",
+            "hint": "Cajun crayfish stew"
+        },
+        "J": {
+            "cells": [
+                28,
+                100,
+                134,
+                143,
+                157,
+                77,
+                92,
+                55,
+                119
+            ],
+            "answer": "\u201cNoises Off\u201d",
+            "hint": "Farcical Broadway hit by Michael Frayn (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                29,
+                19,
+                87,
+                150,
+                46,
+                98,
+                162,
+                107
+            ],
+            "answer": "Dead heat",
+            "hint": "One photo finish result (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                37,
+                122,
+                169,
+                66,
+                83,
+                112
+            ],
+            "answer": "Orwell",
+            "hint": "Coiner of the term \u201cdoublethink\u201d"
+        },
+        "M": {
+            "cells": [
+                22,
+                14,
+                97,
+                105,
+                148,
+                65,
+                128,
+                86,
+                44,
+                170
+            ],
+            "answer": "Wavelength",
+            "hint": "Determinant of color in optics"
+        },
+        "N": {
+            "cells": [
+                167,
+                16,
+                174,
+                137,
+                34,
+                82,
+                111
+            ],
+            "answer": "Nob Hill",
+            "hint": "Posh section of San Francisco (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                124,
+                96,
+                30,
+                71,
+                80,
+                90,
+                24,
+                172
+            ],
+            "answer": "Bouffant",
+            "hint": "Puffed out, as a hairstyle"
+        },
+        "P": {
+            "cells": [
+                123,
+                149,
+                103,
+                95,
+                35,
+                74,
+                59,
+                159,
+                18
+            ],
+            "answer": "Yellow-dog",
+            "hint": "Despicable coward (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                1,
+                51,
+                40,
+                130,
+                68
+            ],
+            "answer": "Trust",
+            "hint": "\u201c___ everybody, but cut the cards\u201d (Finley Peter Dunne)"
+        },
+        "R": {
+            "cells": [
+                114,
+                25,
+                7,
+                73,
+                36,
+                104,
+                155,
+                49
+            ],
+            "answer": "Hedonist",
+            "hint": "Follower of the Cyrenaic school of philosophy"
+        },
+        "S": {
+            "cells": [
+                173,
+                45,
+                5,
+                33,
+                52,
+                63,
+                152
+            ],
+            "answer": "Ecotage",
+            "hint": "Radical action to protect the environment"
+        },
+        "T": {
+            "cells": [
+                64,
+                47,
+                175,
+                160,
+                115,
+                4
+            ],
+            "answer": "Reefer",
+            "hint": "Double-breasted jacket; joint"
+        },
+        "U": {
+            "cells": [
+                23,
+                139,
+                69,
+                12,
+                53,
+                118
+            ],
+            "answer": "\u201cI Ching\u201d",
+            "hint": "Divination text based on pairs of trigrams (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                164,
+                117,
+                138,
+                13,
+                79,
+                32
+            ],
+            "answer": "Vienna",
+            "hint": "Base for the House of Hapsburg"
+        },
+        "W": {
+            "cells": [
+                154,
+                11,
+                127,
+                70,
+                93
+            ],
+            "answer": "Essex",
+            "hint": "Earl executed under Elizabeth I"
+        },
+        "X": {
+            "cells": [
+                76,
+                57,
+                99,
+                88,
+                146,
+                6,
+                176,
+                15
+            ],
+            "answer": "Roll call",
+            "hint": "Congressional voting method (2 wds.)"
+        }
+    }
+}

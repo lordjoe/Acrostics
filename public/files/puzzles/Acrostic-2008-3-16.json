@@ -1,0 +1,363 @@
+{
+    "answer": "What really knocks me out is a book that, when you\u2018re... done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone... I wouldn\u2019t mind calling this Isak Dinesen up.",
+    "author": "(J.D.) Salinger,",
+    "authorCell": [
+        16,
+        65,
+        151,
+        96,
+        108,
+        155,
+        97,
+        105,
+        21,
+        157,
+        87,
+        149,
+        48,
+        78,
+        118,
+        68,
+        45,
+        89,
+        158,
+        98,
+        129,
+        61,
+        136,
+        76,
+        102,
+        18
+    ],
+    "source": "The Catcher In The Rye",
+    "clues": {
+        "A": {
+            "cells": [
+                16,
+                126,
+                162,
+                143,
+                90,
+                106,
+                30
+            ],
+            "answer": "Spanish",
+            "hint": "Like the words in un diccionario"
+        },
+        "B": {
+            "cells": [
+                65,
+                20,
+                156,
+                134,
+                2,
+                119,
+                88,
+                172
+            ],
+            "answer": "Autoharp",
+            "hint": "Descendant of a Volkszither"
+        },
+        "C": {
+            "cells": [
+                151,
+                73,
+                112,
+                52,
+                34,
+                169,
+                5
+            ],
+            "answer": "Laugher",
+            "hint": "One-sided game, in baseball slang"
+        },
+        "D": {
+            "cells": [
+                96,
+                44,
+                120,
+                140,
+                14,
+                163
+            ],
+            "answer": "In luck",
+            "hint": "Graced by serendipity (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                108,
+                43,
+                23,
+                122,
+                139,
+                58
+            ],
+            "answer": "No-show",
+            "hint": "Creator of an empty seat (hyph.)"
+        },
+        "F": {
+            "cells": [
+                155,
+                95,
+                53,
+                12,
+                113,
+                130
+            ],
+            "answer": "Grinch",
+            "hint": "Pollyanna\u2019s opposite"
+        },
+        "G": {
+            "cells": [
+                97,
+                37,
+                79,
+                141,
+                22,
+                117,
+                161
+            ],
+            "answer": "Eyelids",
+            "hint": "Palpebrae"
+        },
+        "H": {
+            "cells": [
+                105,
+                47,
+                152,
+                137,
+                93
+            ],
+            "answer": "Relic",
+            "hint": "Piece of the past"
+        },
+        "I": {
+            "cells": [
+                21,
+                82,
+                127,
+                101,
+                64,
+                40
+            ],
+            "answer": "Twofer",
+            "hint": "Package deal, of a sort"
+        },
+        "J": {
+            "cells": [
+                157,
+                13,
+                54,
+                107,
+                92,
+                70
+            ],
+            "answer": "Hot air",
+            "hint": "Overblown rhetoric (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                87,
+                145,
+                132,
+                121,
+                77,
+                10,
+                167,
+                46
+            ],
+            "answer": "Employer",
+            "hint": "Mr. Burns, to Homer Simpson"
+        },
+        "L": {
+            "cells": [
+                149,
+                24,
+                66,
+                8,
+                94,
+                165,
+                131,
+                116,
+                42
+            ],
+            "answer": "Caulfield",
+            "hint": "Surname of this quote\u2019s fictional narrator"
+        },
+        "M": {
+            "cells": [
+                48,
+                86,
+                144,
+                123,
+                67,
+                104,
+                164,
+                6
+            ],
+            "answer": "Attitude",
+            "hint": "Hostile state of mind"
+        },
+        "N": {
+            "cells": [
+                78,
+                100,
+                124,
+                63,
+                7,
+                154,
+                28,
+                168
+            ],
+            "answer": "Tom Hanks",
+            "hint": "Actor with the line \u201cHouston, we have a problem?? (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                118,
+                133,
+                19,
+                33,
+                49,
+                103,
+                75,
+                166
+            ],
+            "answer": "Chow down",
+            "hint": "Fill the old breadbasket (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                68,
+                85,
+                146,
+                11,
+                171
+            ],
+            "answer": "Haiku",
+            "hint": "Insight in three lines"
+        },
+        "Q": {
+            "cells": [
+                45,
+                128,
+                32,
+                80,
+                62,
+                110
+            ],
+            "answer": "Entity",
+            "hint": "Something that is"
+        },
+        "R": {
+            "cells": [
+                89,
+                3,
+                50,
+                170,
+                25,
+                111,
+                138
+            ],
+            "answer": "Rainbow",
+            "hint": "Variety of sherbet"
+        },
+        "S": {
+            "cells": [
+                158,
+                71,
+                60,
+                35,
+                9,
+                91
+            ],
+            "answer": "Itself",
+            "hint": "What a tapeworm may fertilize to reproduce"
+        },
+        "T": {
+            "cells": [
+                98,
+                39,
+                142,
+                160,
+                74,
+                55
+            ],
+            "answer": "Nudity",
+            "hint": "Cause for a PG-13 rating"
+        },
+        "U": {
+            "cells": [
+                129,
+                115,
+                4,
+                29,
+                57,
+                81
+            ],
+            "answer": "Tut-tut",
+            "hint": "\u201cYou ought to be ashamed?? (hyph.)"
+        },
+        "V": {
+            "cells": [
+                61,
+                83,
+                135,
+                36,
+                150,
+                72
+            ],
+            "answer": "Hannah",
+            "hint": "Palindromic moniker from the Disney Channel"
+        },
+        "W": {
+            "cells": [
+                136,
+                99,
+                1,
+                26,
+                56,
+                148
+            ],
+            "answer": "Ed Wood",
+            "hint": "Director of \u201cPlan 9 From Outer Space?? (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                76,
+                27,
+                114,
+                15,
+                153,
+                41
+            ],
+            "answer": "Rookie",
+            "hint": "What Willie Mays was in 1951"
+        },
+        "Y": {
+            "cells": [
+                102,
+                69,
+                125,
+                17,
+                31,
+                51,
+                159
+            ],
+            "answer": "Youmans",
+            "hint": "\u201cTea for Two?? composer"
+        },
+        "Z": {
+            "cells": [
+                18,
+                109,
+                59,
+                84,
+                38,
+                147
+            ],
+            "answer": "Edison",
+            "hint": "Entrepreneur associated with bright ideas"
+        }
+    }
+}

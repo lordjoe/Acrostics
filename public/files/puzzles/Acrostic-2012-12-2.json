@@ -1,0 +1,368 @@
+{
+    "answer": "A class... conditioned their... professor a week after he told them about learning without awareness. Every time he moved toward the right..., they paid more attention..., until... they were able to condition him right out the door.",
+    "author": "W. Lambert Gardiner,",
+    "authorCell": [
+        99,
+        46,
+        59,
+        119,
+        146,
+        144,
+        84,
+        48,
+        64,
+        145,
+        177,
+        118,
+        117,
+        63,
+        126,
+        101,
+        115,
+        5,
+        140,
+        151,
+        160,
+        14,
+        3,
+        8,
+        165,
+        85
+    ],
+    "source": "Psychology: (A Story Of A Search)",
+    "clues": {
+        "A": {
+            "cells": [
+                99,
+                68,
+                4,
+                111,
+                129,
+                26
+            ],
+            "answer": "What-if",
+            "hint": "Counterfactual premise (hyph.)"
+        },
+        "B": {
+            "cells": [
+                46,
+                107,
+                162,
+                135,
+                67,
+                89,
+                17
+            ],
+            "answer": "Limited",
+            "hint": "Narrow in scope; having strings attached"
+        },
+        "C": {
+            "cells": [
+                59,
+                138,
+                2,
+                109,
+                25,
+                93
+            ],
+            "answer": "Ahchoo",
+            "hint": "Sound of sternutation"
+        },
+        "D": {
+            "cells": [
+                119,
+                35,
+                103,
+                166,
+                74,
+                9,
+                50
+            ],
+            "answer": "Methane",
+            "hint": "Release from fracking or flatulence"
+        },
+        "E": {
+            "cells": [
+                146,
+                100,
+                41,
+                66,
+                128,
+                168,
+                15,
+                113
+            ],
+            "answer": "Baritone",
+            "hint": "Falstaff or Figaro, e.g."
+        },
+        "F": {
+            "cells": [
+                144,
+                82,
+                16,
+                60,
+                40,
+                124,
+                171
+            ],
+            "answer": "Everett",
+            "hint": "Puget Sound city with a Boeing plant"
+        },
+        "G": {
+            "cells": [
+                84,
+                120,
+                39,
+                12,
+                139,
+                61
+            ],
+            "answer": "Rotten",
+            "hint": "Drunk, in the Outback; punk"
+        },
+        "H": {
+            "cells": [
+                48,
+                65,
+                20,
+                148,
+                174,
+                114
+            ],
+            "answer": "Tweedy",
+            "hint": "Affecting the style of Mr. Toad"
+        },
+        "I": {
+            "cells": [
+                64,
+                163,
+                116,
+                96,
+                11,
+                34,
+                133,
+                149
+            ],
+            "answer": "Gradient",
+            "hint": "Physical rate of change; inclination"
+        },
+        "J": {
+            "cells": [
+                145,
+                7,
+                170,
+                55,
+                72,
+                125,
+                27
+            ],
+            "answer": "Actuate",
+            "hint": "Put into motion"
+        },
+        "K": {
+            "cells": [
+                177,
+                150,
+                52,
+                10,
+                73,
+                98,
+                121,
+                36
+            ],
+            "answer": "Roadwork",
+            "hint": "Cause of some traffic delays"
+        },
+        "L": {
+            "cells": [
+                118,
+                62,
+                156,
+                19,
+                83,
+                143
+            ],
+            "answer": "Dither",
+            "hint": "Vacillate, waffle"
+        },
+        "M": {
+            "cells": [
+                117,
+                77,
+                167,
+                45,
+                97,
+                30
+            ],
+            "answer": "In toto",
+            "hint": "Lock, stock and barrel (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                63,
+                81,
+                33,
+                172,
+                123,
+                106,
+                18
+            ],
+            "answer": "\u201cNewhart\u201d",
+            "hint": "1982-90 sitcom about an innkeeper"
+        },
+        "O": {
+            "cells": [
+                126,
+                86,
+                169,
+                154,
+                58
+            ],
+            "answer": "Etude",
+            "hint": "Didactic keyboard piece"
+        },
+        "P": {
+            "cells": [
+                101,
+                70,
+                28,
+                112,
+                47,
+                155,
+                142
+            ],
+            "answer": "Rushdie",
+            "hint": "Memoirist with the alias \u201cJoseph Anton\u201d"
+        },
+        "Q": {
+            "cells": [
+                115,
+                95,
+                24,
+                80,
+                176,
+                159,
+                37
+            ],
+            "answer": "Persona",
+            "hint": "Jungian mask or facade"
+        },
+        "R": {
+            "cells": [
+                5,
+                141,
+                157,
+                127,
+                108,
+                79,
+                90,
+                21,
+                38,
+                56
+            ],
+            "answer": "Swing shift",
+            "hint": "Midafternoon to midnight, in a factory (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                140,
+                173,
+                69,
+                51,
+                122,
+                153
+            ],
+            "answer": "Yeomen",
+            "hint": "World War I female naval recruits, by rank"
+        },
+        "T": {
+            "cells": [
+                151,
+                104,
+                87,
+                23,
+                6,
+                42,
+                54,
+                134
+            ],
+            "answer": "Chip shot",
+            "hint": "Common use for a wedge (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                160,
+                175,
+                136,
+                29,
+                44,
+                105,
+                75
+            ],
+            "answer": "Holster",
+            "hint": "Case for a quick-draw artist"
+        },
+        "V": {
+            "cells": [
+                14,
+                88,
+                164,
+                71,
+                137,
+                43,
+                102
+            ],
+            "answer": "Omitted",
+            "hint": "Cut, left out"
+        },
+        "W": {
+            "cells": [
+                3,
+                76,
+                92,
+                158,
+                131
+            ],
+            "answer": "Lemon",
+            "hint": "Frequent shop visitor?"
+        },
+        "X": {
+            "cells": [
+                8,
+                94,
+                78,
+                31,
+                49,
+                161,
+                110
+            ],
+            "answer": "Overhit",
+            "hint": "Blast beyond a tennis baseline, say"
+        },
+        "Y": {
+            "cells": [
+                165,
+                32,
+                57,
+                13,
+                147,
+                91,
+                130
+            ],
+            "answer": "Galileo",
+            "hint": "Discoverer of Io, Europa, Callisto and Ganymede"
+        },
+        "Z": {
+            "cells": [
+                85,
+                152,
+                22,
+                132,
+                53,
+                1
+            ],
+            "answer": "Yoruba",
+            "hint": "Language heard in Nigeria, Togo and Benin"
+        }
+    }
+}

@@ -1,0 +1,366 @@
+{
+    "answer": "[C]ooking wouldn\u2019t be possible on the... journey to... the Red Planet; zero g wouldn\u2019t allow for that. ... [O]n Mars..., a crew... could have any number of gustatory adventures. They could bake and saute, boil water for pasta, and toss a salad.",
+    "author": "Kate Greene,",
+    "authorCell": [
+        136,
+        115,
+        62,
+        94,
+        7,
+        113,
+        145,
+        52,
+        34,
+        118,
+        31,
+        6,
+        86,
+        127,
+        21,
+        132,
+        148,
+        117,
+        24,
+        90,
+        38,
+        139,
+        100,
+        135,
+        33,
+        108
+    ],
+    "source": "Once (Upon a Time) I Lived on Mars",
+    "clues": {
+        "A": {
+            "cells": [
+                136,
+                103,
+                162,
+                68,
+                120
+            ],
+            "answer": "Kraft",
+            "hint": "Maker of Jell-O and Kool-Aid"
+        },
+        "B": {
+            "cells": [
+                115,
+                23,
+                134,
+                41,
+                175,
+                57
+            ],
+            "answer": "Albedo",
+            "hint": "Ratio measuring light reflectivity"
+        },
+        "C": {
+            "cells": [
+                62,
+                93,
+                124,
+                40,
+                2,
+                150
+            ],
+            "answer": "TV show",
+            "hint": "\u201cIron Chef\u201d or \u201cStar Trek,\u201d for example (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                94,
+                48,
+                12,
+                32,
+                157,
+                130
+            ],
+            "answer": "Enduro",
+            "hint": "Long-distance race over rough terrain"
+        },
+        "E": {
+            "cells": [
+                7,
+                89,
+                131,
+                152,
+                109,
+                25,
+                61
+            ],
+            "answer": "Glutton",
+            "hint": "\u201cFor the drunkard and the ____ shall come to poverty: and drowsiness shall clothe a man with rags\u201d (Proverbs)"
+        },
+        "F": {
+            "cells": [
+                113,
+                47,
+                164,
+                82,
+                28
+            ],
+            "answer": "Ranch",
+            "hint": "Dressing made with buttermilk"
+        },
+        "G": {
+            "cells": [
+                145,
+                159,
+                70,
+                14,
+                91,
+                46,
+                114
+            ],
+            "answer": "Earthly",
+            "hint": "Telluric, of this world, mundane"
+        },
+        "H": {
+            "cells": [
+                52,
+                151,
+                111,
+                172,
+                17,
+                137,
+                92,
+                1,
+                72
+            ],
+            "answer": "\"Eat a Peach\"",
+            "hint": "Allman Brothers album with the song \u201cBlue Sky\u201d (3 wds.)"
+        },
+        "I": {
+            "cells": [
+                34,
+                102,
+                85,
+                50,
+                66,
+                119
+            ],
+            "answer": "Newton",
+            "hint": "Chewy bar; \u201cOpticks\u201d author, 1704"
+        },
+        "J": {
+            "cells": [
+                118,
+                11,
+                146,
+                75,
+                56,
+                168
+            ],
+            "answer": "Elbows",
+            "hint": "Mac components having a curved shape?"
+        },
+        "K": {
+            "cells": [
+                31,
+                99,
+                161,
+                15,
+                54,
+                121,
+                76,
+                140
+            ],
+            "answer": "Outbound",
+            "hint": "Going up, as a rocket"
+        },
+        "L": {
+            "cells": [
+                6,
+                143,
+                71,
+                101,
+                88,
+                166,
+                27,
+                123,
+                42
+            ],
+            "answer": "Nut butter",
+            "hint": "High-protein spread (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                86,
+                142,
+                158,
+                171,
+                107,
+                64,
+                49
+            ],
+            "answer": "Capsule",
+            "hint": "Splashdown vehicle"
+        },
+        "N": {
+            "cells": [
+                127,
+                13,
+                30,
+                69,
+                97
+            ],
+            "answer": "Enjoy",
+            "hint": "\u201cBon appétit!\u201d"
+        },
+        "O": {
+            "cells": [
+                21,
+                98,
+                155,
+                58,
+                80,
+                35,
+                116
+            ],
+            "answer": "Infused",
+            "hint": "Given flavor, as by steeping with herbs"
+        },
+        "P": {
+            "cells": [
+                132,
+                156,
+                8,
+                105,
+                73,
+                39
+            ],
+            "answer": "Low-fat",
+            "hint": "Lean, for cuisine (hyph.)"
+        },
+        "Q": {
+            "cells": [
+                148,
+                110,
+                77,
+                20,
+                45,
+                167,
+                129,
+                4
+            ],
+            "answer": "\"I Am Spock\"",
+            "hint": "Leonard Nimoy\u2019s second volume of autobiography (3 wds.)"
+        },
+        "R": {
+            "cells": [
+                117,
+                18,
+                36,
+                138,
+                55,
+                84,
+                154
+            ],
+            "answer": "Voyager",
+            "hint": "Mission with two probes in interstellar space"
+        },
+        "S": {
+            "cells": [
+                24,
+                79,
+                141,
+                95,
+                125,
+                51
+            ],
+            "answer": "Ersatz",
+            "hint": "Synthetic or substitute, like chicory \u201ccoffee\u201d"
+        },
+        "T": {
+            "cells": [
+                90,
+                170,
+                106,
+                67,
+                147,
+                9,
+                133
+            ],
+            "answer": "Dagwood",
+            "hint": "Sandwich piled high with fillings"
+        },
+        "U": {
+            "cells": [
+                38,
+                59,
+                165,
+                22,
+                81,
+                128
+            ],
+            "answer": "Old Bay",
+            "hint": "Classic seafood seasoning brand (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                139,
+                87,
+                104,
+                60,
+                173,
+                43,
+                19
+            ],
+            "answer": "Noodles",
+            "hint": "Pad thai, pho or lo mein necessity"
+        },
+        "W": {
+            "cells": [
+                100,
+                3,
+                122,
+                44,
+                78,
+                26,
+                144
+            ],
+            "answer": "Mordant",
+            "hint": "Biting, sharp, acerbic"
+        },
+        "X": {
+            "cells": [
+                135,
+                160,
+                74,
+                53,
+                112,
+                96,
+                174,
+                10,
+                37
+            ],
+            "answer": "Astronaut",
+            "hint": "Consumer of Tang in old commercials"
+        },
+        "Y": {
+            "cells": [
+                33,
+                153,
+                65,
+                5,
+                169,
+                126
+            ],
+            "answer": "Relish",
+            "hint": "Condiment at a hot dog stand"
+        },
+        "Z": {
+            "cells": [
+                108,
+                63,
+                83,
+                163,
+                149,
+                16,
+                29
+            ],
+            "answer": "Sara Lee",
+            "hint": "Name seen in the frozen dessert aisle (2 wds.)"
+        }
+    }
+}

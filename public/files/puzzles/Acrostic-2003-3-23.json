@@ -1,0 +1,356 @@
+{
+    "answer": "A French taco... is usually lettuce,... cheese, meaty bolognese sauce, and a sweet tomato salsa piled onto a flat tortilla. How else could you eat it with a fork, [which] as any Frenchman can tell you is the proper way to do it?",
+    "author": "(Mort) Rosenblum,",
+    "authorCell": [
+        135,
+        96,
+        71,
+        147,
+        145,
+        39,
+        93,
+        104,
+        34,
+        119,
+        43,
+        170,
+        121,
+        130,
+        136,
+        153,
+        54,
+        24,
+        11,
+        14,
+        70,
+        108,
+        16,
+        154,
+        35
+    ],
+    "source": "A Goose In Toulouse",
+    "clues": {
+        "A": {
+            "cells": [
+                135,
+                91,
+                68,
+                168,
+                23,
+                155,
+                103
+            ],
+            "answer": "Risotto",
+            "hint": "Staple of Northern Italian cuisine"
+        },
+        "B": {
+            "cells": [
+                96,
+                127,
+                33,
+                84,
+                151,
+                172
+            ],
+            "answer": "Ocelot",
+            "hint": "Pink-nosed South American cat"
+        },
+        "C": {
+            "cells": [
+                71,
+                17,
+                166,
+                97,
+                125,
+                53,
+                146
+            ],
+            "answer": "\u201cSay what?\"",
+            "hint": "\u201cHuh!?\u201d (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                147,
+                25,
+                10,
+                118,
+                163,
+                98
+            ],
+            "answer": "Euchre",
+            "hint": "Game in which the highest trump is the \u201cright bower\u201d"
+        },
+        "E": {
+            "cells": [
+                145,
+                52,
+                164,
+                64,
+                85,
+                8,
+                128
+            ],
+            "answer": "New math",
+            "hint": "Elementary teaching based on set theory (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                39,
+                113,
+                3,
+                59,
+                80,
+                90,
+                165
+            ],
+            "answer": "Biretta",
+            "hint": "Square cap worn by ecclesiastics"
+        },
+        "G": {
+            "cells": [
+                93,
+                126,
+                18,
+                107,
+                161,
+                42,
+                137,
+                57
+            ],
+            "answer": "Lily Pons",
+            "hint": "Coloratura noted for her portrayal of Lakme (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                104,
+                7,
+                69,
+                152,
+                21
+            ],
+            "answer": "U-Haul",
+            "hint": "Relocation resource since 1945 (hyph.)"
+        },
+        "I": {
+            "cells": [
+                34,
+                74,
+                5,
+                51,
+                110,
+                169
+            ],
+            "answer": "Minced",
+            "hint": "Walked in an affectedly dainty way"
+        },
+        "J": {
+            "cells": [
+                119,
+                138,
+                67,
+                99,
+                20,
+                86,
+                47
+            ],
+            "answer": "Acolyte",
+            "hint": "Devoted follower or attendant"
+        },
+        "K": {
+            "cells": [
+                43,
+                60,
+                132,
+                12,
+                94,
+                148
+            ],
+            "answer": "Genial",
+            "hint": "Relating to the chin"
+        },
+        "L": {
+            "cells": [
+                170,
+                82,
+                123,
+                19,
+                30,
+                144,
+                2
+            ],
+            "answer": "Oak leaf",
+            "hint": "Gold insignia for an Army or Marine Corps major (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                121,
+                112,
+                66,
+                78,
+                140,
+                9,
+                44
+            ],
+            "answer": "Ottoman",
+            "hint": "Pouffe"
+        },
+        "N": {
+            "cells": [
+                130,
+                31,
+                61,
+                100,
+                156,
+                81,
+                114
+            ],
+            "answer": "Set shot",
+            "hint": "Field goal attempt with both feet planted (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                136,
+                50,
+                26,
+                1,
+                75,
+                38,
+                158,
+                62,
+                109,
+                13
+            ],
+            "answer": "Eucalyptus",
+            "hint": "Earth\u2019s tallest flowering plant"
+        },
+        "P": {
+            "cells": [
+                153,
+                6,
+                27,
+                58,
+                116,
+                142,
+                45
+            ],
+            "answer": "Ice wine",
+            "hint": "Alcoholic beverage made from frozen fruits"
+        },
+        "Q": {
+            "cells": [
+                54,
+                72,
+                89,
+                115,
+                29,
+                141,
+                105
+            ],
+            "answer": "Narwhal",
+            "hint": "Arctic denizen whose male has a long, spiral tusk"
+        },
+        "R": {
+            "cells": [
+                24,
+                171,
+                37,
+                117,
+                149,
+                76
+            ],
+            "answer": "Tittle",
+            "hint": "Slight speck, smidgen"
+        },
+        "S": {
+            "cells": [
+                11,
+                143,
+                95,
+                157,
+                122
+            ],
+            "answer": "Ocher",
+            "hint": "Clay/iron oxide mixture, used as a pigment"
+        },
+        "T": {
+            "cells": [
+                14,
+                73,
+                46,
+                102,
+                131,
+                92,
+                4
+            ],
+            "answer": "Upscale",
+            "hint": "Targeting an affluent clientele"
+        },
+        "U": {
+            "cells": [
+                70,
+                40,
+                15,
+                101,
+                134,
+                56,
+                28,
+                162
+            ],
+            "answer": "Lose face",
+            "hint": "Suffer public humiliation"
+        },
+        "V": {
+            "cells": [
+                108,
+                159,
+                41,
+                129,
+                79,
+                55,
+                63
+            ],
+            "answer": "\"Orlando\"",
+            "hint": "Virginia Woolf novel spanning 1588-1928"
+        },
+        "W": {
+            "cells": [
+                16,
+                32,
+                111,
+                87,
+                160,
+                77,
+                49,
+                133
+            ],
+            "answer": "\"USA Today\u201d",
+            "hint": "\u201cMcPaper,\u201d to detractors (two wds.)"
+        },
+        "X": {
+            "cells": [
+                154,
+                167,
+                36,
+                120,
+                83
+            ],
+            "answer": "Staff",
+            "hint": "Five lines for a musician"
+        },
+        "Y": {
+            "cells": [
+                35,
+                150,
+                22,
+                48,
+                139,
+                65,
+                106,
+                88,
+                124
+            ],
+            "answer": "Eye shadow",
+            "hint": "Use for powdered malachite, in ancient Egypt (2 wds.)"
+        }
+    }
+}

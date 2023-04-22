@@ -1,0 +1,355 @@
+{
+    "answer": "Captivated by [Mary Todd\u2019s] lively manner, intelligent face, clear blue eyes, and dimpled smile, Lincoln reportedly said, \u201cI want to dance with you in the worst way.\" And, Mary laughingly told her cousin later..., \"he certainly did.\u201d",
+    "author": "Doris (Kearns) Goodwin,",
+    "authorCell": [
+        19,
+        155,
+        53,
+        40,
+        72,
+        144,
+        81,
+        18,
+        178,
+        122,
+        158,
+        79,
+        36,
+        109,
+        7,
+        28,
+        87,
+        45,
+        84,
+        111,
+        24,
+        2,
+        38,
+        21
+    ],
+    "source": "Team Of Rivals",
+    "clues": {
+        "A": {
+            "cells": [
+                19,
+                78,
+                3,
+                126,
+                146,
+                49,
+                165
+            ],
+            "answer": "Diptych",
+            "hint": "Artwork on two hinged panels"
+        },
+        "B": {
+            "cells": [
+                155,
+                39,
+                97,
+                140,
+                75,
+                123,
+                169,
+                16
+            ],
+            "answer": "Old Glory",
+            "hint": "What Betsy Ross worked on (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                53,
+                172,
+                1,
+                151,
+                17,
+                121,
+                135
+            ],
+            "answer": "Richter",
+            "hint": "Eponym of a widely used logarithmic scale"
+        },
+        "D": {
+            "cells": [
+                40,
+                118,
+                71,
+                23,
+                154,
+                89,
+                57,
+                105
+            ],
+            "answer": "Indicted",
+            "hint": "Charged in an unwelcome way"
+        },
+        "E": {
+            "cells": [
+                72,
+                95,
+                41,
+                56,
+                128,
+                15,
+                115
+            ],
+            "answer": "Saguaro",
+            "hint": "Set item in many a western"
+        },
+        "F": {
+            "cells": [
+                144,
+                25,
+                8,
+                113,
+                166,
+                55,
+                68
+            ],
+            "answer": "Get help",
+            "hint": "\u201cYou should see a psychiatrist!\u201d (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                81,
+                153,
+                11,
+                98,
+                44,
+                134,
+                174
+            ],
+            "answer": "Orbital",
+            "hint": "Making the rounds?"
+        },
+        "H": {
+            "cells": [
+                18,
+                54,
+                150,
+                116,
+                88,
+                100,
+                170,
+                37
+            ],
+            "answer": "Obdurate",
+            "hint": "Not likely to say \u201cI\u2019m sorry\u201d for a crime"
+        },
+        "I": {
+            "cells": [
+                178,
+                129,
+                83,
+                106,
+                61,
+                4,
+                27
+            ],
+            "answer": "Dynasty",
+            "hint": "Sports franchise that perennially dominates"
+        },
+        "J": {
+            "cells": [
+                122,
+                34,
+                149,
+                92,
+                175,
+                107,
+                5,
+                69,
+                22,
+                136
+            ],
+            "answer": "Willy-nilly",
+            "hint": "Whether desired or not; randomly (hyph.)"
+        },
+        "K": {
+            "cells": [
+                158,
+                108,
+                85,
+                145,
+                171,
+                35,
+                20
+            ],
+            "answer": "Iceland",
+            "hint": "Country with the oldest known geyser ... and from which the word \u201cgeyser\u201d comes"
+        },
+        "L": {
+            "cells": [
+                79,
+                152,
+                6,
+                96,
+                137,
+                50,
+                32
+            ],
+            "answer": "Neville",
+            "hint": "___ Longbottom, bumbling friend of Harry Potter"
+        },
+        "M": {
+            "cells": [
+                36,
+                138,
+                177,
+                82,
+                110,
+                66,
+                159,
+                10
+            ],
+            "answer": "Tailwind",
+            "hint": "Pilot\u2019s aid in making good time"
+        },
+        "N": {
+            "cells": [
+                109,
+                91,
+                29,
+                67,
+                161,
+                133,
+                51
+            ],
+            "answer": "Edamame",
+            "hint": "Boiled soybean pods, in Japanese cuisine"
+        },
+        "O": {
+            "cells": [
+                7,
+                30,
+                147,
+                163,
+                101,
+                131,
+                52
+            ],
+            "answer": "Antenna",
+            "hint": "Destination of some waves"
+        },
+        "P": {
+            "cells": [
+                28,
+                70,
+                13,
+                86,
+                120,
+                142,
+                157
+            ],
+            "answer": "Memphis",
+            "hint": "Home of the bluesy Beale Street"
+        },
+        "Q": {
+            "cells": [
+                87,
+                139,
+                119,
+                160,
+                62,
+                99,
+                33,
+                12
+            ],
+            "answer": "Outlawry",
+            "hint": "State occupied by Jesse James beginning in 1866"
+        },
+        "R": {
+            "cells": [
+                45,
+                26,
+                90,
+                103,
+                167,
+                141,
+                76,
+                124
+            ],
+            "answer": "Fletcher",
+            "hint": "Person who makes arrows"
+        },
+        "S": {
+            "cells": [
+                84,
+                42,
+                143,
+                104,
+                127,
+                173,
+                9,
+                65
+            ],
+            "answer": "Renowned",
+            "hint": "Having widespread name recognition"
+        },
+        "T": {
+            "cells": [
+                111,
+                31,
+                80,
+                48,
+                63,
+                125,
+                168
+            ],
+            "answer": "Incense",
+            "hint": "Staple of aromatherapy"
+        },
+        "U": {
+            "cells": [
+                24,
+                58,
+                164,
+                73,
+                148,
+                43,
+                102
+            ],
+            "answer": "Vermont",
+            "hint": "Abutter of Lake Champlain"
+        },
+        "V": {
+            "cells": [
+                2,
+                47,
+                74,
+                132,
+                117,
+                162,
+                59
+            ],
+            "answer": "Acidity",
+            "hint": "What a pH below 7 indicates"
+        },
+        "W": {
+            "cells": [
+                38,
+                130,
+                176,
+                93,
+                64,
+                14,
+                114
+            ],
+            "answer": "Lady Day",
+            "hint": "Jazz nickname, or March 25 on the Christian calendar (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                21,
+                46,
+                77,
+                156,
+                112,
+                60,
+                94
+            ],
+            "answer": "Salutes",
+            "hint": "Fires off 21 rounds, maybe"
+        }
+    }
+}

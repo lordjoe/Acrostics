@@ -6,12 +6,13 @@ import PuzzleMenu from "./PuzzleMenu";
 import {PuzzleHolder} from "./Holders";
 import GameModels from "./GameModels";
 import PuzzleGameField from "./PuzzleGameField";
+import PersistentObject from "./PersistentObject";
 
 
 function PuzzleGameSection(props: PuzzleHolder) {
     let pzl: Puzzle = props.puzzle
 
-
+     let dateStr: string = pzl.getDateString();
 
     let inner: ReactNode[] = [];
 
@@ -29,7 +30,7 @@ function PuzzleGameSection(props: PuzzleHolder) {
                     <div className="acrostic-header">
                         <div className="acrostic-header__left"><h2><em
                             className="pz-game-title">Acrostic</em><span
-                            className="pz-game-date">June 5, 2022</span></h2>
+                            className="pz-game-date">{dateStr}</span></h2>
                             <p className="acrostic-header__credits">By <em>Emily Cox and Henry
                                 Rathvon</em> Edited by <em>Will
                                 Shortz</em></p></div>
@@ -45,9 +46,6 @@ function PuzzleGameSection(props: PuzzleHolder) {
             </div>
 
             <div className="pz-game-wrapper" id="js-hook-game-wrapper">
-                <div id="portal-game-moments"></div>
-                <div id="portal-sb-modals"></div>
-                <div id="portal-modal-system"></div>
                 <div className="pz-game-screen" id="js-hook-pz-moment__game">
                     <div className="pz-game-toolbar xwd__hide-when-no-data">
                         <div className="pz-row">

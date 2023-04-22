@@ -1,0 +1,322 @@
+{
+    "answer": "Take any noun, put it with any verb, and you have a sentence. It never fails. Rocks explode. Jane transmits. Mountains float. ... Many such thoughts make little... sense, but even the stranger ones... have a kind of poetic weight... .",
+    "author": "Stephen King,",
+    "authorCell": [
+        139,
+        121,
+        169,
+        12,
+        107,
+        164,
+        8,
+        116,
+        170,
+        11,
+        171,
+        163,
+        22,
+        168,
+        141,
+        18,
+        165,
+        166,
+        87,
+        110
+    ],
+    "source": "On Writing",
+    "clues": {
+        "A": {
+            "cells": [
+                139,
+                28,
+                122,
+                95,
+                9,
+                41,
+                79
+            ],
+            "answer": "Saloons",
+            "hint": "Bars in westerns ..."
+        },
+        "B": {
+            "cells": [
+                121,
+                47,
+                144,
+                34,
+                82,
+                64,
+                6,
+                103,
+                162
+            ],
+            "answer": "Tighten up",
+            "hint": "... get more restrictive. (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                169,
+                120,
+                136,
+                5,
+                71,
+                21,
+                98,
+                154,
+                58
+            ],
+            "answer": "Etta James",
+            "hint": "Singer of \u201cI\u2019d Rather Go Blind\u201d ... (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                12,
+                33,
+                126,
+                61,
+                105,
+                46,
+                159,
+                81,
+                148
+            ],
+            "answer": "Punched in",
+            "hint": "... started a work shift. (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                107,
+                123,
+                77,
+                1,
+                137,
+                45,
+                57,
+                15,
+                93,
+                161
+            ],
+            "answer": "Heathcliff",
+            "hint": "Brooding beau in \u201cWuthering Heights\u201d ..."
+        },
+        "F": {
+            "cells": [
+                164,
+                133,
+                108,
+                94,
+                24,
+                52,
+                69
+            ],
+            "answer": "Evolved",
+            "hint": "... began to adapt."
+        },
+        "G": {
+            "cells": [
+                8,
+                134,
+                42,
+                55,
+                73,
+                23,
+                115,
+                172,
+                86
+            ],
+            "answer": "Netanyahu",
+            "hint": "World leader who\u2019s known as \u201cBibi\u201d ..."
+        },
+        "H": {
+            "cells": [
+                116,
+                96,
+                31,
+                142,
+                62,
+                83
+            ],
+            "answer": "Kayaks",
+            "hint": "... goes paddling through white water."
+        },
+        "I": {
+            "cells": [
+                170,
+                29,
+                54,
+                2,
+                78,
+                16,
+                146,
+                101,
+                114,
+                43,
+                158
+            ],
+            "answer": "Infantrymen",
+            "hint": "Brothers in arms with their feet on the ground ..."
+        },
+        "J": {
+            "cells": [
+                11,
+                74,
+                89,
+                140,
+                117,
+                49
+            ],
+            "answer": "Neaten",
+            "hint": "... arrange things in order."
+        },
+        "K": {
+            "cells": [
+                171,
+                99,
+                118,
+                51,
+                25,
+                39,
+                75,
+                147,
+                135
+            ],
+            "answer": "Galveston",
+            "hint": "Title city in a Glen Campbell song ..."
+        },
+        "L": {
+            "cells": [
+                163,
+                36,
+                149,
+                53,
+                129,
+                109,
+                90,
+                67,
+                19
+            ],
+            "answer": "Overbuilt",
+            "hint": "... erected excess edifices."
+        },
+        "M": {
+            "cells": [
+                22,
+                157,
+                104,
+                3,
+                143,
+                35,
+                84,
+                128,
+                63
+            ],
+            "answer": "Nicknames",
+            "hint": "Basher, The Boss, The Possum, etc. ..."
+        },
+        "N": {
+            "cells": [
+                168,
+                85,
+                26,
+                156,
+                68,
+                13,
+                112
+            ],
+            "answer": "Work out",
+            "hint": "... feel the burn. (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                141,
+                60,
+                80,
+                38,
+                100,
+                27,
+                155,
+                14,
+                111,
+                124
+            ],
+            "answer": "Roman baths",
+            "hint": "Tepidarium, caldarium and frigidarium ... (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                18,
+                91,
+                106,
+                32,
+                65,
+                119,
+                167,
+                152,
+                48,
+                132
+            ],
+            "answer": "Intoxicate",
+            "hint": "... bring on John Barleycorn\u2019s effect."
+        },
+        "Q": {
+            "cells": [
+                165,
+                151,
+                50,
+                113,
+                70,
+                130,
+                92
+            ],
+            "answer": "Theseus",
+            "hint": "Minotaur\u2019s match ..."
+        },
+        "R": {
+            "cells": [
+                166,
+                44,
+                97,
+                4,
+                76,
+                153,
+                56,
+                125,
+                17,
+                138,
+                30
+            ],
+            "answer": "Interviewed",
+            "hint": "... answered questions one on one."
+        },
+        "S": {
+            "cells": [
+                87,
+                40,
+                160,
+                66,
+                20,
+                7,
+                131,
+                145,
+                102
+            ],
+            "answer": "Neophytes",
+            "hint": "Absolute beginners ..."
+        },
+        "T": {
+            "cells": [
+                110,
+                10,
+                37,
+                127,
+                88,
+                150,
+                173,
+                72,
+                59
+            ],
+            "answer": "Guest-star",
+            "hint": "... appear on TV shows as celebrities. (hyph.)"
+        }
+    }
+}

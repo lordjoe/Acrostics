@@ -1,0 +1,342 @@
+{
+    "answer": "I was... struck by the universal incapacity of Amazon Indians to imagine a community which did not reside on the banks of a vast river. They are not capable of asking, \u201cDo you live on a river?\" only \"What is your river like?\u201d",
+    "author": "A.S. Byatt,",
+    "authorCell": [
+        144,
+        128,
+        11,
+        135,
+        37,
+        79,
+        108,
+        30,
+        143,
+        132,
+        148,
+        24,
+        159,
+        127,
+        77,
+        76,
+        170,
+        87,
+        82,
+        141,
+        60,
+        13,
+        5
+    ],
+    "source": "Angels And Insects",
+    "clues": {
+        "A": {
+            "cells": [
+                144,
+                21,
+                67,
+                155,
+                8,
+                103,
+                43,
+                119,
+                57
+            ],
+            "answer": "Arthurian",
+            "hint": "Like Tennyson\u2019s \u201cIdylls of the King\u201d"
+        },
+        "B": {
+            "cells": [
+                128,
+                109,
+                146,
+                71,
+                157,
+                39,
+                171,
+                20
+            ],
+            "answer": "Shiitake",
+            "hint": "Common ingredient in Japanese cooking"
+        },
+        "C": {
+            "cells": [
+                11,
+                111,
+                40,
+                23,
+                65,
+                117,
+                158,
+                131,
+                58
+            ],
+            "answer": "Byzantine",
+            "hint": "Complex, intricate; characterized by scheming"
+        },
+        "D": {
+            "cells": [
+                135,
+                3,
+                48,
+                94,
+                116,
+                147,
+                165,
+                27
+            ],
+            "answer": "Yankovic",
+            "hint": "Frank ___, winner of the first Grammy for polka, 1986"
+        },
+        "E": {
+            "cells": [
+                37,
+                72,
+                50,
+                137,
+                120
+            ],
+            "answer": "Act up",
+            "hint": "Become troublesome (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                79,
+                100,
+                169,
+                156,
+                7,
+                32,
+                112
+            ],
+            "answer": "Talaria",
+            "hint": "The winged sandals of Hermes"
+        },
+        "G": {
+            "cells": [
+                108,
+                61,
+                154,
+                44,
+                9,
+                80,
+                18,
+                124,
+                145
+            ],
+            "answer": "Town crier",
+            "hint": "Newscaster in colonial times (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                30,
+                17,
+                133,
+                168,
+                41,
+                55,
+                153,
+                93,
+                81
+            ],
+            "answer": "Androgyne",
+            "hint": "Individual with both male and female characteristics"
+        },
+        "I": {
+            "cells": [
+                143,
+                25,
+                15,
+                91,
+                162,
+                70,
+                113
+            ],
+            "answer": "Niebuhr",
+            "hint": "Religious thinker who wrote \u201cMoral Man and Immoral Society\u201d in 1932"
+        },
+        "J": {
+            "cells": [
+                132,
+                16,
+                121,
+                107,
+                84,
+                1,
+                92,
+                42
+            ],
+            "answer": "Guardian",
+            "hint": "Protector, defender"
+        },
+        "K": {
+            "cells": [
+                148,
+                31,
+                51,
+                115,
+                78,
+                62,
+                160
+            ],
+            "answer": "Economy",
+            "hint": "Efficient, sparing or concise use, as of words"
+        },
+        "L": {
+            "cells": [
+                24,
+                46,
+                105,
+                85,
+                2,
+                56,
+                149,
+                167
+            ],
+            "answer": "Live wire",
+            "hint": "One who\u2019s energetic and excitable (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                159,
+                33,
+                66,
+                118,
+                10,
+                49,
+                89,
+                75,
+                126,
+                102
+            ],
+            "answer": "Stick shift",
+            "hint": "Automatic alternative (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                127,
+                88,
+                69,
+                136,
+                150,
+                45
+            ],
+            "answer": "Atwood",
+            "hint": "Canadian author of \u201cThe Edible Woman\u201d and \u201cBluebeard\u2019s Egg\u201d"
+        },
+        "O": {
+            "cells": [
+                77,
+                125,
+                139,
+                95,
+                161,
+                63,
+                110
+            ],
+            "answer": "Noisome",
+            "hint": "Offensive; noxious"
+        },
+        "P": {
+            "cells": [
+                76,
+                130,
+                166,
+                140,
+                12,
+                64,
+                29
+            ],
+            "answer": "Divvy up",
+            "hint": "Split, apportion (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                170,
+                26,
+                74,
+                83,
+                54,
+                104,
+                151,
+                129
+            ],
+            "answer": "India ink",
+            "hint": "Writing material made from lampblack (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                87,
+                35,
+                164,
+                6,
+                14,
+                98,
+                53
+            ],
+            "answer": "Northam",
+            "hint": "Jeremy ___, actor in \u201cThe Winslow Boy\u201d and \u201cAn Ideal Husband\u201d"
+        },
+        "S": {
+            "cells": [
+                82,
+                28,
+                38,
+                96,
+                4,
+                59
+            ],
+            "answer": "Samosa",
+            "hint": "Triangular turnover in Indian cuisine"
+        },
+        "T": {
+            "cells": [
+                141,
+                99,
+                52,
+                123,
+                172,
+                34,
+                114
+            ],
+            "answer": "Evil eye",
+            "hint": "Hexing power (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                60,
+                163,
+                90,
+                101,
+                22
+            ],
+            "answer": "Cress",
+            "hint": "Plant of the mustard family used as a garnish"
+        },
+        "V": {
+            "cells": [
+                13,
+                47,
+                138,
+                152,
+                122,
+                86,
+                68
+            ],
+            "answer": "Tallboy",
+            "hint": "Chest of drawers; long-stemmed goblet"
+        },
+        "W": {
+            "cells": [
+                5,
+                73,
+                142,
+                19,
+                106,
+                134,
+                36,
+                97
+            ],
+            "answer": "Shove off",
+            "hint": "Be on one\u2019s way (2 wds.)"
+        }
+    }
+}

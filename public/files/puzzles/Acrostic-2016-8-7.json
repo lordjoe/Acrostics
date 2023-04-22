@@ -1,0 +1,338 @@
+{
+    "answer": "Hercules Mulligan is a name every schoolchild should know and not just because it\u2019s fun to say. The man didn\u2019t utter a memorable last line like his... fellow spy Nathan Hale, but what he did was infinitely more important.",
+    "author": "Paul Martin,",
+    "authorCell": [
+        126,
+        132,
+        71,
+        112,
+        97,
+        50,
+        99,
+        78,
+        167,
+        174,
+        29,
+        7,
+        62,
+        165,
+        166,
+        73,
+        36,
+        80,
+        3,
+        33,
+        146,
+        106
+    ],
+    "source": "Secret Heroes",
+    "clues": {
+        "A": {
+            "cells": [
+                126,
+                160,
+                55,
+                43,
+                6,
+                100,
+                20,
+                172
+            ],
+            "answer": "Petulant",
+            "hint": "Cranky, peevish, fractious, touchy"
+        },
+        "B": {
+            "cells": [
+                132,
+                16,
+                59,
+                42,
+                154,
+                77,
+                95
+            ],
+            "answer": "Antonym",
+            "hint": "Patriot, to traitor"
+        },
+        "C": {
+            "cells": [
+                71,
+                133,
+                148,
+                119,
+                48,
+                27,
+                168,
+                8
+            ],
+            "answer": "Uniforms",
+            "hint": "British supply reported on by this puzzle\u2019s subject"
+        },
+        "D": {
+            "cells": [
+                112,
+                63,
+                155,
+                76,
+                28,
+                96,
+                130,
+                175,
+                2
+            ],
+            "answer": "Lafayette",
+            "hint": "Overseas confederate of this puzzle\u2019s subject"
+        },
+        "E": {
+            "cells": [
+                97,
+                37,
+                171,
+                82,
+                157,
+                52,
+                143
+            ],
+            "answer": "Miranda",
+            "hint": "Only major female role in \u201cThe Tempest\u201d"
+        },
+        "F": {
+            "cells": [
+                50,
+                111,
+                152,
+                4,
+                79,
+                127,
+                38,
+                139,
+                65
+            ],
+            "answer": "Aeschylus",
+            "hint": "Greek dramatist called the \u201cFather of Tragedy\u201d"
+        },
+        "G": {
+            "cells": [
+                99,
+                61,
+                25,
+                74,
+                44,
+                10,
+                140,
+                153,
+                123,
+                87
+            ],
+            "answer": "Revolution",
+            "hint": "Goal pursued by this puzzle\u2019s subject"
+        },
+        "H": {
+            "cells": [
+                78,
+                93,
+                67,
+                5,
+                22,
+                169,
+                134,
+                151,
+                108
+            ],
+            "answer": "Triumphal",
+            "hint": "In celebration of a great victory"
+        },
+        "I": {
+            "cells": [
+                167,
+                83,
+                114,
+                150,
+                137,
+                34,
+                12
+            ],
+            "answer": "Inkwell",
+            "hint": "Companion of a blotter and a quill"
+        },
+        "J": {
+            "cells": [
+                174,
+                158,
+                142,
+                117,
+                104,
+                17,
+                69,
+                90
+            ],
+            "answer": "Nihilist",
+            "hint": "Believer that it\u2019s all useless and meaningless"
+        },
+        "K": {
+            "cells": [
+                29,
+                131,
+                15,
+                86,
+                101,
+                64,
+                75,
+                145
+            ],
+            "answer": "Shadbush",
+            "hint": "Small tree also called a serviceberry"
+        },
+        "L": {
+            "cells": [
+                7,
+                58,
+                30,
+                129,
+                161,
+                105,
+                144,
+                92
+            ],
+            "answer": "Escalate",
+            "hint": "Heighten, as tensions or hostilities"
+        },
+        "M": {
+            "cells": [
+                62,
+                121,
+                170,
+                107,
+                31,
+                85,
+                47,
+                14
+            ],
+            "answer": "Clothing",
+            "hint": "Goods made and sold by this puzzle\u2019s subject"
+        },
+        "N": {
+            "cells": [
+                165,
+                23,
+                56,
+                120,
+                35,
+                88,
+                103,
+                147
+            ],
+            "answer": "Rejected",
+            "hint": "Turned back, as an N.B.A. shot"
+        },
+        "O": {
+            "cells": [
+                166,
+                53,
+                70,
+                13,
+                122,
+                135,
+                84,
+                26
+            ],
+            "answer": "Enfilade",
+            "hint": "Volley of gunfire from a flanking position"
+        },
+        "P": {
+            "cells": [
+                73,
+                116,
+                98,
+                57,
+                18,
+                173,
+                128,
+                45
+            ],
+            "answer": "Thousand",
+            "hint": "Bill denomination on which Grover Cleveland appears"
+        },
+        "Q": {
+            "cells": [
+                36,
+                21,
+                9,
+                156,
+                136,
+                91,
+                54,
+                110
+            ],
+            "answer": "\"Hamilton\"",
+            "hint": "Broadway musical in which this puzzle\u2019s subject has a role"
+        },
+        "R": {
+            "cells": [
+                80,
+                163,
+                138,
+                24,
+                11,
+                102,
+                113,
+                125,
+                41
+            ],
+            "answer": "Embellish",
+            "hint": "Enhance with fanciful features, as a tale"
+        },
+        "S": {
+            "cells": [
+                3,
+                66,
+                141,
+                109,
+                51,
+                39
+            ],
+            "answer": "Rewind",
+            "hint": "Button on a boom box or a VCR"
+        },
+        "T": {
+            "cells": [
+                33,
+                89,
+                68,
+                159,
+                19,
+                46,
+                115
+            ],
+            "answer": "Outtake",
+            "hint": "Unused piece of film"
+        },
+        "U": {
+            "cells": [
+                146,
+                81,
+                60,
+                94,
+                40,
+                118,
+                162
+            ],
+            "answer": "Embassy",
+            "hint": "Where political asylum may be sought"
+        },
+        "V": {
+            "cells": [
+                106,
+                1,
+                164,
+                49,
+                149,
+                32,
+                124,
+                72
+            ],
+            "answer": "Showdown",
+            "hint": "Duel with pistols at dawn, e.g."
+        }
+    }
+}

@@ -1,0 +1,363 @@
+{
+    "answer": "American hotels... when asked for tea... deliver a... jug of tepid water... covered by a square of Saran Wrap... . [O]ne might as well ask for a trip to Bombay as to ask for looseleaf Earl Grey, or first-flush Darjeeling, or Assam tips.",
+    "author": "Emily Hiestand,",
+    "authorCell": [
+        156,
+        83,
+        84,
+        148,
+        61,
+        86,
+        33,
+        157,
+        145,
+        115,
+        94,
+        160,
+        23,
+        55,
+        12,
+        134,
+        112,
+        77,
+        143,
+        53,
+        16,
+        151,
+        106,
+        149,
+        67,
+        172
+    ],
+    "source": "(The) Very Rich Hours",
+    "clues": {
+        "A": {
+            "cells": [
+                156,
+                34,
+                127,
+                144,
+                85,
+                4,
+                56,
+                22,
+                75
+            ],
+            "answer": "Evergreen",
+            "hint": "Botanically persistent, like most tropical plants"
+        },
+        "B": {
+            "cells": [
+                83,
+                41,
+                155,
+                98
+            ],
+            "answer": "Mojo",
+            "hint": "Magic charm also called a \u201cconjure bag\u201d"
+        },
+        "C": {
+            "cells": [
+                84,
+                36,
+                119,
+                150,
+                10,
+                109,
+                58
+            ],
+            "answer": "Irksome",
+            "hint": "Like a chore that bores or vexes"
+        },
+        "D": {
+            "cells": [
+                148,
+                5,
+                60,
+                73,
+                167,
+                99,
+                139
+            ],
+            "answer": "Library",
+            "hint": "\u201cMy ___ was dukedom large enough\u201d (Shakespeare)"
+        },
+        "E": {
+            "cells": [
+                61,
+                1,
+                96,
+                46,
+                168,
+                29
+            ],
+            "answer": "Yakima",
+            "hint": "City ESE of Mount Rainier National Park"
+        },
+        "F": {
+            "cells": [
+                86,
+                65,
+                131,
+                120,
+                158,
+                3,
+                171,
+                39,
+                24,
+                97
+            ],
+            "answer": "Hufflepuff",
+            "hint": "One of four houses at the Hogwarts School"
+        },
+        "G": {
+            "cells": [
+                33,
+                154,
+                108,
+                18,
+                121,
+                137,
+                68
+            ],
+            "answer": "Iron ore",
+            "hint": "Hematite or taconite (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                157,
+                123,
+                45,
+                100,
+                14,
+                140
+            ],
+            "answer": "\u201cEl Paso\"",
+            "hint": "1961 Grammy-winning hit for Marty Robbins (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                145,
+                93,
+                72,
+                6,
+                21,
+                38,
+                111,
+                48,
+                129,
+                59
+            ],
+            "answer": "Slack-jawed",
+            "hint": "Visibly awed or shocked (hyph.)"
+        },
+        "J": {
+            "cells": [
+                115,
+                62,
+                9,
+                162,
+                28
+            ],
+            "answer": "Tahoe",
+            "hint": "High-altitude lake drained by the Truckee River"
+        },
+        "K": {
+            "cells": [
+                94,
+                142,
+                42,
+                66,
+                107,
+                128,
+                82
+            ],
+            "answer": "Affable",
+            "hint": "Warm and friendly"
+        },
+        "L": {
+            "cells": [
+                160,
+                19,
+                126,
+                30,
+                49,
+                64
+            ],
+            "answer": "Nasdaq",
+            "hint": "Data system for brokers"
+        },
+        "M": {
+            "cells": [
+                23,
+                124,
+                136,
+                146,
+                7,
+                40,
+                63
+            ],
+            "answer": "Dog tags",
+            "hint": "Service ID\u2019s (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                55,
+                78,
+                165,
+                95,
+                133,
+                13
+            ],
+            "answer": "Vassal",
+            "hint": "Someone holding a fief"
+        },
+        "O": {
+            "cells": [
+                12,
+                74,
+                161,
+                135,
+                44,
+                118
+            ],
+            "answer": "Eagles",
+            "hint": "Silver insignia worn by colonels in the U.S. military"
+        },
+        "P": {
+            "cells": [
+                134,
+                117,
+                50,
+                103,
+                25,
+                81
+            ],
+            "answer": "Ration",
+            "hint": "Be restrictive in times of scarcity"
+        },
+        "Q": {
+            "cells": [
+                112,
+                153,
+                122,
+                26,
+                80,
+                90
+            ],
+            "answer": "Yarrow",
+            "hint": "Peter of Peter, Paul and Mary"
+        },
+        "R": {
+            "cells": [
+                77,
+                164,
+                147,
+                105,
+                35,
+                52,
+                20
+            ],
+            "answer": "Rafters",
+            "hint": "Jim and Huck as they traveled"
+        },
+        "S": {
+            "cells": [
+                143,
+                2,
+                130,
+                32,
+                54,
+                114,
+                91,
+                102
+            ],
+            "answer": "\"I\u2019m a Loser\u201d",
+            "hint": "Tune from the \u201cBeatles for Sale\u201d album (3 wds.)"
+        },
+        "T": {
+            "cells": [
+                53,
+                88,
+                110,
+                31,
+                163
+            ],
+            "answer": "Caber",
+            "hint": "Pole involved in a contest of strength"
+        },
+        "U": {
+            "cells": [
+                16,
+                51,
+                76,
+                159,
+                101,
+                169
+            ],
+            "answer": "Hewitt",
+            "hint": "2002 Wimbledon men\u2019s champion"
+        },
+        "V": {
+            "cells": [
+                151,
+                69,
+                27,
+                11,
+                170,
+                132
+            ],
+            "answer": "Hottie",
+            "hint": "Sexually attractive person"
+        },
+        "W": {
+            "cells": [
+                106,
+                71,
+                15,
+                37,
+                92,
+                152
+            ],
+            "answer": "Oswald",
+            "hint": "Figure fingered by the Warren Commission"
+        },
+        "X": {
+            "cells": [
+                149,
+                104,
+                70,
+                57,
+                125,
+                8,
+                43
+            ],
+            "answer": "Up-front",
+            "hint": "Frank (hyph.)"
+        },
+        "Y": {
+            "cells": [
+                67,
+                116,
+                166,
+                87,
+                17,
+                141
+            ],
+            "answer": "Roster",
+            "hint": "Roll, especially in sports"
+        },
+        "Z": {
+            "cells": [
+                172,
+                79,
+                113,
+                47,
+                138,
+                89
+            ],
+            "answer": "Spades",
+            "hint": "13 of 52"
+        }
+    }
+}

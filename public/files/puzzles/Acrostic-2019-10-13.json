@@ -1,0 +1,364 @@
+{
+    "answer": "(T)he bicycle is the most efficient machine... : Converting calories into gas, a bicycle gets the equivalent of three thousand miles per gallon. A person pedaling a bike uses energy more efficiently than a gazelle or an eagle.",
+    "author": "(Bill) Strickland,",
+    "authorCell": [
+        12,
+        28,
+        41,
+        11,
+        6,
+        133,
+        158,
+        110,
+        121,
+        124,
+        77,
+        135,
+        49,
+        73,
+        166,
+        62,
+        111,
+        75,
+        36,
+        144,
+        64,
+        9,
+        43,
+        138,
+        13
+    ],
+    "source": "(The) Quotable Cyclist",
+    "clues": {
+        "A": {
+            "cells": [
+                12,
+                79,
+                179,
+                63,
+                153,
+                120,
+                44,
+                107
+            ],
+            "answer": "Silicone",
+            "hint": "Compound used to make rubber and lubricants"
+        },
+        "B": {
+            "cells": [
+                28,
+                95,
+                78,
+                118,
+                51,
+                163,
+                143
+            ],
+            "answer": "Touring",
+            "hint": "Seeing the sights"
+        },
+        "C": {
+            "cells": [
+                41,
+                125,
+                170,
+                104,
+                152,
+                69,
+                14
+            ],
+            "answer": "Raleigh",
+            "hint": "16th-17th century Elizabethan courtier and El Dorado seeker"
+        },
+        "D": {
+            "cells": [
+                11,
+                175,
+                151,
+                112,
+                47,
+                85,
+                26
+            ],
+            "answer": "Inflate",
+            "hint": "Overstate, embellish"
+        },
+        "E": {
+            "cells": [
+                6,
+                162,
+                142,
+                56,
+                94,
+                30,
+                178,
+                117
+            ],
+            "answer": "Carthage",
+            "hint": "State founded by Dido, according to the \u201cAeneid\u201d"
+        },
+        "F": {
+            "cells": [
+                133,
+                149,
+                103,
+                80,
+                33,
+                55
+            ],
+            "answer": "Kelvin",
+            "hint": "Temperature unit named for a British engineer"
+        },
+        "G": {
+            "cells": [
+                158,
+                137,
+                29,
+                57,
+                84,
+                100,
+                15
+            ],
+            "answer": "\"Le Monde\"",
+            "hint": "Daily reading for many Parisians (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                110,
+                83,
+                50,
+                146,
+                131,
+                25,
+                66
+            ],
+            "answer": "Aerobic",
+            "hint": "Good for the heart and lungs"
+        },
+        "I": {
+            "cells": [
+                121,
+                102,
+                58,
+                161,
+                42,
+                136,
+                2,
+                23,
+                87,
+                71
+            ],
+            "answer": "Night shift",
+            "hint": "10 to 6 or 11 to 7, say (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                124,
+                20,
+                150,
+                76,
+                99,
+                53,
+                171
+            ],
+            "answer": "Defense",
+            "hint": "One side in a sports contest"
+        },
+        "K": {
+            "cells": [
+                77,
+                96,
+                168,
+                40,
+                140
+            ],
+            "answer": "Queen",
+            "hint": "Twin\u2019s big sister?"
+        },
+        "L": {
+            "cells": [
+                135,
+                27,
+                119,
+                52,
+                10,
+                101,
+                82,
+                159
+            ],
+            "answer": "Unseemly",
+            "hint": "Not comporting with decorum"
+        },
+        "M": {
+            "cells": [
+                49,
+                24,
+                157,
+                172,
+                4,
+                134,
+                90
+            ],
+            "answer": "October",
+            "hint": "When an iconic Answer N. takes place in Hawaii"
+        },
+        "N": {
+            "cells": [
+                73,
+                108,
+                154,
+                174,
+                1,
+                89,
+                126,
+                17,
+                38
+            ],
+            "answer": "Triathlon",
+            "hint": "Event for fitness freaks"
+        },
+        "O": {
+            "cells": [
+                166,
+                145,
+                54,
+                105,
+                32
+            ],
+            "answer": "Amish",
+            "hint": "Sect eschewing automobiles"
+        },
+        "P": {
+            "cells": [
+                62,
+                92,
+                139,
+                19,
+                173,
+                37,
+                113,
+                160
+            ],
+            "answer": "Beetroot",
+            "hint": "Borscht base, in a British recipe"
+        },
+        "Q": {
+            "cells": [
+                111,
+                3,
+                165,
+                48,
+                127,
+                22,
+                88,
+                72
+            ],
+            "answer": "Leg lifts",
+            "hint": "Reps targeting the core (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                75,
+                169,
+                148,
+                129,
+                59,
+                34,
+                8,
+                91
+            ],
+            "answer": "Elegance",
+            "hint": "Aesthetic simplicity"
+        },
+        "S": {
+            "cells": [
+                36,
+                74,
+                115,
+                97,
+                60,
+                132,
+                18
+            ],
+            "answer": "Chassis",
+            "hint": "Vehicular framework"
+        },
+        "T": {
+            "cells": [
+                144,
+                130,
+                114,
+                45,
+                93,
+                167,
+                68
+            ],
+            "answer": "Yangtze",
+            "hint": "River through the Three Gorges"
+        },
+        "U": {
+            "cells": [
+                64,
+                98,
+                7,
+                176,
+                156,
+                128,
+                35
+            ],
+            "answer": "Cayenne",
+            "hint": "Spicily named capital of French Guiana"
+        },
+        "V": {
+            "cells": [
+                9,
+                70,
+                39,
+                180,
+                147,
+                164,
+                109,
+                123
+            ],
+            "answer": "Leverage",
+            "hint": "Benefit of using a crowbar"
+        },
+        "W": {
+            "cells": [
+                43,
+                16,
+                106,
+                81,
+                67,
+                177
+            ],
+            "answer": "Impala",
+            "hint": "Serengeti grazer groomed by oxpeckers"
+        },
+        "X": {
+            "cells": [
+                138,
+                122,
+                155,
+                46,
+                5,
+                21,
+                65
+            ],
+            "answer": "Specify",
+            "hint": "Describe exactly, spell out"
+        },
+        "Y": {
+            "cells": [
+                13,
+                86,
+                141,
+                31,
+                61,
+                116
+            ],
+            "answer": "Toe cap",
+            "hint": "Protective part of a shoe (2 wds.)"
+        }
+    }
+}

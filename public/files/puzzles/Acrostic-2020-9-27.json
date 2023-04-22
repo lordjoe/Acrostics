@@ -1,0 +1,362 @@
+{
+    "answer": "LEXICOGRAPHER... A pestilent fellow who, under the pretense of recording some particular stage in the development of a language, does what he can to arrest its growth, stiffen its flexibility and mechanize its methods.",
+    "author": "(Ambrose) Bierce,",
+    "authorCell": [
+        151,
+        152,
+        2,
+        37,
+        53,
+        83,
+        155,
+        114,
+        78,
+        56,
+        36,
+        86,
+        127,
+        71,
+        47,
+        159,
+        79,
+        69,
+        144,
+        166,
+        32,
+        142,
+        103,
+        55,
+        156
+    ],
+    "source": "The Devil's Dictionary",
+    "clues": {
+        "A": {
+            "cells": [
+                151,
+                19,
+                42,
+                113,
+                135
+            ],
+            "answer": "Birth",
+            "hint": "\u201cThe first and direst of all disasters,\u201d per the author of this puzzle\u2019s quote"
+        },
+        "B": {
+            "cells": [
+                152,
+                118,
+                139,
+                68,
+                168,
+                27,
+                84
+            ],
+            "answer": "Infield",
+            "hint": "Area near home"
+        },
+        "C": {
+            "cells": [
+                2,
+                100,
+                75,
+                163,
+                51,
+                121,
+                26,
+                147,
+                178
+            ],
+            "answer": "Enthralls",
+            "hint": "Captivates"
+        },
+        "D": {
+            "cells": [
+                37,
+                115,
+                130,
+                8,
+                85,
+                60,
+                171
+            ],
+            "answer": "Regress",
+            "hint": "Go to a state you left"
+        },
+        "E": {
+            "cells": [
+                53,
+                97,
+                41,
+                138,
+                119,
+                164,
+                20
+            ],
+            "answer": "Capital",
+            "hint": "\u201cThe seat of misgovernment\u201d"
+        },
+        "F": {
+            "cells": [
+                83,
+                143,
+                24,
+                50,
+                161,
+                1
+            ],
+            "answer": "Eiffel",
+            "hint": "Towering figure?"
+        },
+        "G": {
+            "cells": [
+                155,
+                95,
+                64,
+                80,
+                28,
+                137,
+                5,
+                111
+            ],
+            "answer": "Top-notch",
+            "hint": "Crackerjack, A-one (hyph.)"
+        },
+        "H": {
+            "cells": [
+                114,
+                54,
+                128,
+                146,
+                102,
+                177,
+                7,
+                21
+            ],
+            "answer": "Hot fudge",
+            "hint": "Gooey kind of sundae (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                78,
+                149,
+                29,
+                4,
+                96,
+                173
+            ],
+            "answer": "Ex-wife",
+            "hint": "One who has seceded from a union (hyph.)"
+        },
+        "J": {
+            "cells": [
+                56,
+                40,
+                108,
+                90,
+                145,
+                16,
+                76
+            ],
+            "answer": "Deep sea",
+            "hint": "Place for a bathysphere (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                36,
+                123,
+                70,
+                106,
+                57,
+                170,
+                154,
+                6,
+                93
+            ],
+            "answer": "Erudition",
+            "hint": "\u201cDust shaken out of a book into an empty skull\u201d"
+        },
+        "L": {
+            "cells": [
+                86,
+                157,
+                22,
+                59,
+                132,
+                101,
+                39
+            ],
+            "answer": "Van Gogh",
+            "hint": "Romantic ideal of the tortured artist (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                127,
+                91,
+                15,
+                65,
+                162,
+                44,
+                109
+            ],
+            "answer": "Impacts",
+            "hint": "Causes of planetary craters"
+        },
+        "N": {
+            "cells": [
+                71,
+                9,
+                94,
+                48,
+                129,
+                175,
+                107,
+                30
+            ],
+            "answer": "Late show",
+            "hint": "Entertainment in dark times (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                47,
+                12,
+                153,
+                140,
+                63,
+                125,
+                81,
+                25,
+                105,
+                172
+            ],
+            "answer": "Self-esteem",
+            "hint": "\u201cAn erroneous appraisement\u201d (hyph.)"
+        },
+        "P": {
+            "cells": [
+                159,
+                66,
+                89,
+                10,
+                35,
+                120,
+                133,
+                46
+            ],
+            "answer": "Drop-down",
+            "hint": "Descriptor of a modern menu (hyph.)"
+        },
+        "Q": {
+            "cells": [
+                79,
+                160,
+                62,
+                176,
+                131,
+                14,
+                98
+            ],
+            "answer": "Immoral",
+            "hint": "\u201cInexpedient\u201d"
+        },
+        "R": {
+            "cells": [
+                69,
+                49,
+                165,
+                134,
+                92,
+                3,
+                23
+            ],
+            "answer": "Context",
+            "hint": "Sentences around an excerpt, say"
+        },
+        "S": {
+            "cells": [
+                144,
+                117,
+                33,
+                104,
+                82,
+                18
+            ],
+            "answer": "Taught",
+            "hint": "Did the job of Mr. Chips in \u201cGoodbye, Mr. Chips\u201d"
+        },
+        "T": {
+            "cells": [
+                166,
+                58,
+                126,
+                45,
+                112,
+                13,
+                74
+            ],
+            "answer": "In tears",
+            "hint": "Visibly moved (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                32,
+                174,
+                11,
+                124,
+                73,
+                110,
+                150,
+                136,
+                87
+            ],
+            "answer": "Otherwise",
+            "hint": "\u201cNo better\u201d"
+        },
+        "V": {
+            "cells": [
+                142,
+                99,
+                67,
+                116,
+                31,
+                52,
+                167
+            ],
+            "answer": "Natchez",
+            "hint": "Mississippi city on the Mississippi"
+        },
+        "W": {
+            "cells": [
+                103,
+                88,
+                61,
+                34,
+                148
+            ],
+            "answer": "Alone",
+            "hint": "\u201cIn bad company\u201d"
+        },
+        "X": {
+            "cells": [
+                55,
+                141,
+                17,
+                38,
+                169,
+                158,
+                77
+            ],
+            "answer": "Resting",
+            "hint": "On a break from work or play"
+        },
+        "Y": {
+            "cells": [
+                156,
+                43,
+                72,
+                122
+            ],
+            "answer": "Year",
+            "hint": "\u201cA period of three hundred and sixty-five disappointments\u201d"
+        }
+    }
+}

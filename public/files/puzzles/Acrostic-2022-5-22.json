@@ -1,0 +1,360 @@
+{
+    "answer": "[W]hat would a book or a song or a kangaroo be without finitude? Isn\u2019t it their impermanence that gives kangaroos that je ne sais quoi? Doesn\u2019t our transitory condition lend an endearing quality to almost anything we do?",
+    "author": "(Amy) Leach,",
+    "authorCell": [
+        135,
+        136,
+        139,
+        126,
+        74,
+        73,
+        57,
+        58,
+        34,
+        79,
+        141,
+        115,
+        167,
+        33,
+        158,
+        107,
+        125,
+        80,
+        52,
+        163,
+        174,
+        66,
+        11,
+        153,
+        144
+    ],
+    "source": "The Everybody Ensemble",
+    "clues": {
+        "A": {
+            "cells": [
+                135,
+                3,
+                63,
+                40,
+                157,
+                17
+            ],
+            "answer": "Laputa",
+            "hint": "Magnetically levitated island in \u201cGulliver\u2019s Travels\u201d"
+        },
+        "B": {
+            "cells": [
+                136,
+                165,
+                30,
+                53,
+                2,
+                150,
+                114,
+                75,
+                14,
+                98
+            ],
+            "answer": "Earthquake",
+            "hint": "Impetus for fault-finding?"
+        },
+        "C": {
+            "cells": [
+                139,
+                23,
+                91,
+                122,
+                10,
+                46,
+                104,
+                62
+            ],
+            "answer": "Art Tatum",
+            "hint": "Jazz pianist with famously fast fingers (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                126,
+                162,
+                21,
+                147,
+                112,
+                83,
+                4,
+                69
+            ],
+            "answer": "Cogitate",
+            "hint": "Think deep thoughts, ponder"
+        },
+        "E": {
+            "cells": [
+                74,
+                145,
+                1,
+                25,
+                45,
+                119,
+                172
+            ],
+            "answer": "\"Hawking\"",
+            "hint": "British physicist who received a U.S. Presidential Medal of Freedom"
+        },
+        "F": {
+            "cells": [
+                73,
+                146,
+                121,
+                100,
+                55,
+                38,
+                160,
+                6,
+                20
+            ],
+            "answer": "Triathlon",
+            "hint": "Test of versatile endurance"
+        },
+        "G": {
+            "cells": [
+                57,
+                39,
+                8,
+                156,
+                85,
+                169,
+                22,
+                110,
+                131
+            ],
+            "answer": "Holy Ghost",
+            "hint": "Spirit connected with Pentecost (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                58,
+                103,
+                7,
+                118,
+                164,
+                43,
+                31,
+                142
+            ],
+            "answer": "Equation",
+            "hint": "Balanced formula"
+        },
+        "I": {
+            "cells": [
+                34,
+                117,
+                170,
+                9,
+                93,
+                70,
+                151,
+                51
+            ],
+            "answer": "Eridanus",
+            "hint": "Southern constellation; river of Hades"
+        },
+        "J": {
+            "cells": [
+                79,
+                108,
+                127,
+                143,
+                32,
+                12
+            ],
+            "answer": "Voodoo",
+            "hint": "Form of black magic; mojo"
+        },
+        "K": {
+            "cells": [
+                141,
+                161,
+                78,
+                27,
+                123,
+                60
+            ],
+            "answer": "E minor",
+            "hint": "Key in which \u201cEleanor Rigby\u201d was composed (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                115,
+                19,
+                99,
+                64,
+                168,
+                37,
+                86
+            ],
+            "answer": "Rosetta",
+            "hint": "Site of a key discovery in Egyptology"
+        },
+        "M": {
+            "cells": [
+                167,
+                47,
+                82,
+                133,
+                97
+            ],
+            "answer": "Yukon",
+            "hint": "Territory whose capital is Whitehorse"
+        },
+        "N": {
+            "cells": [
+                33,
+                16,
+                88,
+                173,
+                148,
+                101,
+                72,
+                120
+            ],
+            "answer": "Brownies",
+            "hint": "Box cameras first sold by Kodak in 1900 for $1 apiece"
+        },
+        "O": {
+            "cells": [
+                158,
+                84,
+                42,
+                113,
+                13,
+                56
+            ],
+            "answer": "On foot",
+            "hint": "Traveling sans transportation (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                107,
+                152,
+                87,
+                35,
+                130,
+                68
+            ],
+            "answer": "Darwin",
+            "hint": "Australian port on Beagle Gulf"
+        },
+        "Q": {
+            "cells": [
+                125,
+                105,
+                149,
+                61
+            ],
+            "answer": "Yogi",
+            "hint": "Eastern mystic"
+        },
+        "R": {
+            "cells": [
+                80,
+                24,
+                102,
+                116,
+                5,
+                59,
+                140,
+                175
+            ],
+            "answer": "East Wind",
+            "hint": "It brought Mary Poppins to the Banks home (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                52,
+                154,
+                137,
+                95,
+                67
+            ],
+            "answer": "Ninja",
+            "hint": "Secret agent a.k.a. shinobi"
+        },
+        "T": {
+            "cells": [
+                163,
+                94,
+                29,
+                76,
+                132,
+                15,
+                44
+            ],
+            "answer": "Station",
+            "hint": "Stopping point on a transportation route"
+        },
+        "U": {
+            "cells": [
+                174,
+                18,
+                71,
+                92,
+                49,
+                124
+            ],
+            "answer": "Escher",
+            "hint": "M. C. with a flair for paradox"
+        },
+        "V": {
+            "cells": [
+                66,
+                26,
+                128,
+                155,
+                50,
+                90
+            ],
+            "answer": "Mantis",
+            "hint": "Insect whose name means \u201cprophet\u201d"
+        },
+        "W": {
+            "cells": [
+                11,
+                65,
+                106,
+                28,
+                159,
+                48,
+                176,
+                89,
+                134
+            ],
+            "answer": "\"Brigadoon\"",
+            "hint": "Musical about a village appearing just one day per century"
+        },
+        "X": {
+            "cells": [
+                153,
+                54,
+                81,
+                41,
+                96,
+                166,
+                109,
+                138
+            ],
+            "answer": "Listened",
+            "hint": "Didn\u2019t ignore someone"
+        },
+        "Y": {
+            "cells": [
+                144,
+                171,
+                129,
+                36,
+                111,
+                77
+            ],
+            "answer": "Ending",
+            "hint": "Conclusion, denouement, windup"
+        }
+    }
+}

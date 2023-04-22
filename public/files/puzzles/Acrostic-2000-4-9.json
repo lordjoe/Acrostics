@@ -1,0 +1,350 @@
+{
+    "answer": "I\u2018ve got Tourette\u2019s. My mouth won\u2018t quit.... If I were a Dick Tracy villain, I\u2019d... be Mumbles.... The words rush out of the cornucopia of my brain to course over the surface of the world, tickling reality like fingers on piano keys.",
+    "author": "(Jonathan) Lethem,",
+    "authorCell": [
+        148,
+        112,
+        129,
+        67,
+        35,
+        61,
+        59,
+        127,
+        66,
+        84,
+        115,
+        10,
+        141,
+        14,
+        73,
+        65,
+        62,
+        74,
+        24,
+        106,
+        140,
+        51,
+        17,
+        25
+    ],
+    "source": "Motherless Brooklyn",
+    "clues": {
+        "A": {
+            "cells": [
+                148,
+                8,
+                144,
+                19,
+                110,
+                101,
+                77,
+                160,
+                124
+            ],
+            "answer": "Logorrhea",
+            "hint": "Excessive talkativeness"
+        },
+        "B": {
+            "cells": [
+                112,
+                86,
+                22,
+                70,
+                50,
+                102,
+                63,
+                138,
+                167
+            ],
+            "answer": "Echolalia",
+            "hint": "Compulsive repetition of what\u2019s just been said"
+        },
+        "C": {
+            "cells": [
+                129,
+                81,
+                71,
+                145,
+                29,
+                56
+            ],
+            "answer": "Torrid",
+            "hint": "Scorching; ardent"
+        },
+        "D": {
+            "cells": [
+                67,
+                119,
+                32,
+                83,
+                47
+            ],
+            "answer": "Hefty",
+            "hint": "Packing a lot of weight"
+        },
+        "E": {
+            "cells": [
+                35,
+                100,
+                5,
+                168,
+                153,
+                46,
+                111
+            ],
+            "answer": "Ebonics",
+            "hint": "Hot topic among educators in 1996-97"
+        },
+        "F": {
+            "cells": [
+                61,
+                96,
+                48,
+                131,
+                1,
+                7
+            ],
+            "answer": "Move it",
+            "hint": "\u201cGet going!\u201d (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                59,
+                94,
+                15,
+                120,
+                18,
+                28,
+                156,
+                128,
+                146,
+                43
+            ],
+            "answer": "Miss Muffet",
+            "hint": "Arachnophobe of verse (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                127,
+                21,
+                118,
+                37,
+                135,
+                152,
+                163
+            ],
+            "answer": "Othello",
+            "hint": "Shakespeare character who said, \u201cRude am I in my speech\u201d"
+        },
+        "I": {
+            "cells": [
+                66,
+                38,
+                130,
+                31,
+                80,
+                55
+            ],
+            "answer": "Tahiti",
+            "hint": "Where Papeete is located"
+        },
+        "J": {
+            "cells": [
+                84,
+                33,
+                114,
+                68
+            ],
+            "answer": "Hive",
+            "hint": "Symbol of busyness"
+        },
+        "K": {
+            "cells": [
+                115,
+                123,
+                97,
+                79,
+                162,
+                49,
+                2,
+                155
+            ],
+            "answer": "Effusive",
+            "hint": "Overflowing; lacking reserve"
+        },
+        "L": {
+            "cells": [
+                10,
+                85,
+                76,
+                105
+            ],
+            "answer": "Rest",
+            "hint": "\u201c___ and Be Thankful\u201d (Wordsworth poem, based on a headstone inscription)"
+        },
+        "M": {
+            "cells": [
+                141,
+                87,
+                158,
+                4,
+                132,
+                149,
+                54,
+                72,
+                11,
+                39
+            ],
+            "answer": "Long-winded",
+            "hint": "Inclined to go on and on (hyph.)"
+        },
+        "N": {
+            "cells": [
+                14,
+                88,
+                122,
+                108,
+                36,
+                165,
+                161,
+                133,
+                143,
+                64
+            ],
+            "answer": "Error-prone",
+            "hint": "Given to goofing (hyph.)"
+        },
+        "O": {
+            "cells": [
+                73,
+                103,
+                173,
+                26,
+                58,
+                116
+            ],
+            "answer": "Sister",
+            "hint": "Clotho, to Lachesis"
+        },
+        "P": {
+            "cells": [
+                65,
+                69,
+                157,
+                16,
+                98,
+                171,
+                134
+            ],
+            "answer": "Swimmer",
+            "hint": "Butterfly expert?"
+        },
+        "Q": {
+            "cells": [
+                62,
+                3,
+                91,
+                170
+            ],
+            "answer": "Beck",
+            "hint": "1990\u2019s rock star with the album \u201cOdelay\u201d"
+        },
+        "R": {
+            "cells": [
+                74,
+                92,
+                121,
+                104,
+                136,
+                147,
+                57,
+                169,
+                109,
+                30
+            ],
+            "answer": "Roundabout",
+            "hint": "Circuitous"
+        },
+        "S": {
+            "cells": [
+                24,
+                41,
+                107,
+                53,
+                93,
+                60,
+                137
+            ],
+            "answer": "Occiput",
+            "hint": "Back part of the skull"
+        },
+        "T": {
+            "cells": [
+                106,
+                9,
+                44,
+                150,
+                78,
+                23,
+                89
+            ],
+            "answer": "\u201cOur Town\u201d",
+            "hint": "Play set in the fictional village of Grover\u2019s Corners (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                140,
+                75,
+                164,
+                159,
+                82,
+                20
+            ],
+            "answer": "Kung fu",
+            "hint": "Literally, skill (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                51,
+                113,
+                27,
+                90,
+                45,
+                125,
+                142,
+                13,
+                151
+            ],
+            "answer": "Loquacity",
+            "hint": "Trait of a blabberer"
+        },
+        "W": {
+            "cells": [
+                17,
+                95,
+                139,
+                154,
+                126,
+                12,
+                99,
+                172,
+                52,
+                42
+            ],
+            "answer": "Yackety-yak",
+            "hint": "Chitter-chatter (hyph.)"
+        },
+        "X": {
+            "cells": [
+                25,
+                166,
+                6,
+                34,
+                40,
+                117
+            ],
+            "answer": "Nitwit",
+            "hint": "Pinhead"
+        }
+    }
+}

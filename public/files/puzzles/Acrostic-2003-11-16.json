@@ -1,0 +1,356 @@
+{
+    "answer": "Among hard-core weather watchers, tornadoes are known affectionately as \u201cbeasts\u201d... . Because they are localized,... you can drive right up to them... . There are risks, of course. ... [They] will make projectiles... of full-sized rental cars.",
+    "author": "(William) Langewiesche,",
+    "authorCell": [
+        58,
+        46,
+        4,
+        104,
+        122,
+        44,
+        124,
+        119,
+        158,
+        24,
+        112,
+        77,
+        166,
+        54,
+        65,
+        103,
+        9,
+        81,
+        51,
+        76,
+        49,
+        37,
+        146,
+        59
+    ],
+    "source": "Inside The Sky",
+    "clues": {
+        "A": {
+            "cells": [
+                58,
+                150,
+                32,
+                19,
+                125,
+                173,
+                79,
+                102
+            ],
+            "answer": "\u201cLone Star\"",
+            "hint": "1996 John Sayles western (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                46,
+                21,
+                69,
+                179,
+                109,
+                8,
+                162,
+                94,
+                126
+            ],
+            "answer": "Awestruck",
+            "hint": "Bowled over, filled with amazement"
+        },
+        "C": {
+            "cells": [
+                4,
+                74,
+                88,
+                148,
+                138,
+                118,
+                50,
+                26
+            ],
+            "answer": "Nez Perce",
+            "hint": "Chief Joseph\u2019s tribe (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                104,
+                133,
+                145,
+                47,
+                161,
+                87,
+                66,
+                3
+            ],
+            "answer": "Graffito",
+            "hint": "One of Jean-Michel Basquiat\u2019s early works"
+        },
+        "E": {
+            "cells": [
+                122,
+                174,
+                31,
+                111,
+                18,
+                90,
+                55,
+                139
+            ],
+            "answer": "Earth Day",
+            "hint": "April 22, since 1970 (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                44,
+                116,
+                16,
+                164,
+                141,
+                96,
+                5
+            ],
+            "answer": "Whaling",
+            "hint": "Focus of a museum in New Bedford, Mass."
+        },
+        "G": {
+            "cells": [
+                124,
+                131,
+                42,
+                63,
+                165,
+                10,
+                92
+            ],
+            "answer": "Ionesco",
+            "hint": "Author of absurdist plays"
+        },
+        "H": {
+            "cells": [
+                119,
+                78,
+                135,
+                153,
+                6,
+                177,
+                98,
+                29
+            ],
+            "answer": "Eye chart",
+            "hint": "Ophthalmologist Hermann Snellen\u2019s 1862 invention (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                158,
+                72,
+                108,
+                40,
+                123,
+                2,
+                83,
+                97,
+                15,
+                175
+            ],
+            "answer": "Supermodel",
+            "hint": "Twiggy or Iman, e.g."
+        },
+        "J": {
+            "cells": [
+                24,
+                43,
+                91,
+                128,
+                75,
+                147
+            ],
+            "answer": "Coyote",
+            "hint": "Firefighter in a remote area"
+        },
+        "K": {
+            "cells": [
+                112,
+                53,
+                154,
+                14,
+                137,
+                168,
+                36,
+                82,
+                67
+            ],
+            "answer": "Hot Wheels",
+            "hint": "Collectible toy vehicles (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                77,
+                107,
+                142,
+                57,
+                149
+            ],
+            "answer": "Euler",
+            "hint": "Prolific Swiss mathematician"
+        },
+        "M": {
+            "cells": [
+                166,
+                95,
+                114,
+                22,
+                121,
+                11,
+                70,
+                41
+            ],
+            "answer": "\"I Am a Rock\u201d",
+            "hint": "1966 Simon and Garfunkel hit (4 wds.)"
+        },
+        "N": {
+            "cells": [
+                54,
+                71,
+                167,
+                1,
+                39,
+                152,
+                23,
+                105
+            ],
+            "answer": "Nazareth",
+            "hint": "Tourist locale near the Sea of Galilee"
+        },
+        "O": {
+            "cells": [
+                65,
+                45,
+                99,
+                136,
+                176,
+                25
+            ],
+            "answer": "Snitch",
+            "hint": "Winged ball pursued by Harry Potter in quidditch"
+        },
+        "P": {
+            "cells": [
+                103,
+                130,
+                38,
+                170,
+                93,
+                61
+            ],
+            "answer": "Icarus",
+            "hint": "Asteroid with an orbit that approaches Earth"
+        },
+        "Q": {
+            "cells": [
+                9,
+                155,
+                28,
+                115,
+                64,
+                48,
+                129
+            ],
+            "answer": "Distaff",
+            "hint": "Cleft stick carried by Clotho"
+        },
+        "R": {
+            "cells": [
+                81,
+                160,
+                143,
+                33,
+                56
+            ],
+            "answer": "E flat",
+            "hint": "Alto saxophone key (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                51,
+                132,
+                20,
+                62,
+                35,
+                151,
+                171,
+                106
+            ],
+            "answer": "Turbojet",
+            "hint": "Engine for a Boeing 707"
+        },
+        "T": {
+            "cells": [
+                76,
+                159,
+                140,
+                86,
+                117,
+                27
+            ],
+            "answer": "Howler",
+            "hint": "Laughable blunder; very funny joke"
+        },
+        "U": {
+            "cells": [
+                49,
+                156,
+                84,
+                30,
+                12,
+                169,
+                110,
+                68,
+                101,
+                127
+            ],
+            "answer": "El Cordobes",
+            "hint": "Legendary corrida showman (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                37,
+                157,
+                100,
+                89,
+                172,
+                17,
+                52,
+                113,
+                134
+            ],
+            "answer": "Seventies",
+            "hint": "Era of mood rings and lava lamps"
+        },
+        "W": {
+            "cells": [
+                146,
+                7,
+                80,
+                144,
+                60
+            ],
+            "answer": "Karma",
+            "hint": "Determinant of destiny in Jainism"
+        },
+        "X": {
+            "cells": [
+                59,
+                120,
+                178,
+                34,
+                73,
+                85,
+                163,
+                13
+            ],
+            "answer": "Yard sale",
+            "hint": "Mountain-biking slang for the scene of a crash (2 wds.)"
+        }
+    }
+}

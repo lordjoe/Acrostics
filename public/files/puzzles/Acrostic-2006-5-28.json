@@ -1,0 +1,360 @@
+{
+    "answer": "Organic life... has developed gradually from the protozoon to the philosopher, and this development, we are assured, is indubitably an advance. Unfortunately it is the philosopher, not the protozoon, who gives... this assurance.",
+    "author": "(Bertrand) Russell,",
+    "authorCell": [
+        121,
+        117,
+        96,
+        177,
+        93,
+        128,
+        8,
+        79,
+        32,
+        14,
+        134,
+        97,
+        115,
+        95,
+        90,
+        36,
+        125,
+        109,
+        94,
+        106,
+        149,
+        3,
+        132,
+        182
+    ],
+    "source": "Mysticism And Logic",
+    "clues": {
+        "A": {
+            "cells": [
+                121,
+                18,
+                105,
+                143,
+                159,
+                50
+            ],
+            "answer": "Rebozo",
+            "hint": "Mexican scarf used at times as a baby sling"
+        },
+        "B": {
+            "cells": [
+                117,
+                81,
+                133,
+                55,
+                11,
+                104,
+                43,
+                152,
+                183,
+                27
+            ],
+            "answer": "Unsheathed",
+            "hint": "Drawn, in a way"
+        },
+        "C": {
+            "cells": [
+                96,
+                4,
+                155,
+                23,
+                130,
+                114,
+                53,
+                71
+            ],
+            "answer": "Sardines",
+            "hint": "Game in which seekers become hiders"
+        },
+        "D": {
+            "cells": [
+                177,
+                138,
+                65,
+                21,
+                116,
+                91,
+                154
+            ],
+            "answer": "Shape up",
+            "hint": "Get with the program (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                93,
+                28,
+                150,
+                63,
+                2,
+                78,
+                127
+            ],
+            "answer": "Euterpe",
+            "hint": "Muse of music and lyric poetry"
+        },
+        "F": {
+            "cells": [
+                128,
+                9,
+                103,
+                135,
+                158,
+                24,
+                86,
+                175,
+                40,
+                69
+            ],
+            "answer": "Lithograph",
+            "hint": "Escher\u2019s \u201cDrawing Hands,\u201d e.g."
+        },
+        "G": {
+            "cells": [
+                8,
+                80,
+                142,
+                160,
+                171,
+                52,
+                35
+            ],
+            "answer": "Lesotho",
+            "hint": "Enclave surrounded by South Africa"
+        },
+        "H": {
+            "cells": [
+                79,
+                123,
+                147,
+                61,
+                38,
+                107,
+                176,
+                19,
+                88,
+                163
+            ],
+            "answer": "Murphy\u2019s law",
+            "hint": "Pessimistic axiom (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                32,
+                156,
+                67,
+                113
+            ],
+            "answer": "Yoda",
+            "hint": "Jedi master voiced by Frank Oz"
+        },
+        "J": {
+            "cells": [
+                14,
+                172,
+                58,
+                161,
+                122,
+                44,
+                100,
+                82
+            ],
+            "answer": "Shootout",
+            "hint": "Means for breaking a tie in soccer or hockey"
+        },
+        "K": {
+            "cells": [
+                134,
+                62,
+                73,
+                101,
+                167,
+                41,
+                15,
+                89
+            ],
+            "answer": "\u201cThe Birds\"",
+            "hint": "1963 film based on a Daphne du Maurier short story (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                97,
+                118,
+                33,
+                140,
+                178,
+                16,
+                162,
+                45,
+                85
+            ],
+            "answer": "Influenza",
+            "hint": "Malady once attributed to unlucky stars"
+        },
+        "M": {
+            "cells": [
+                115,
+                145,
+                56,
+                7,
+                26,
+                166,
+                47
+            ],
+            "answer": "Chicago",
+            "hint": "Site of the world\u2019s first skyscraper, built in 1885"
+        },
+        "N": {
+            "cells": [
+                95,
+                72,
+                139,
+                120,
+                157,
+                54,
+                179,
+                20,
+                42,
+                10
+            ],
+            "answer": "Idiot-proof",
+            "hint": "User-friendly, and then some (hyph.)"
+        },
+        "O": {
+            "cells": [
+                90,
+                75,
+                126,
+                49,
+                31,
+                153
+            ],
+            "answer": "Settle",
+            "hint": "Come to terms; come to rest"
+        },
+        "P": {
+            "cells": [
+                36,
+                13,
+                170,
+                141,
+                66,
+                92,
+                129
+            ],
+            "answer": "Masonry",
+            "hint": "Work employing flintstone or rubble, perhaps"
+        },
+        "Q": {
+            "cells": [
+                125,
+                99,
+                17,
+                84,
+                181,
+                37,
+                6,
+                59,
+                68
+            ],
+            "answer": "Adventist",
+            "hint": "Believer in an imminent second coming"
+        },
+        "R": {
+            "cells": [
+                109,
+                46,
+                5,
+                174,
+                151,
+                77,
+                137
+            ],
+            "answer": "Nonstop",
+            "hint": "Like Lindbergh\u2019s 1927 flight to Paris"
+        },
+        "S": {
+            "cells": [
+                94,
+                25,
+                173,
+                112,
+                146,
+                76
+            ],
+            "answer": "Drivel",
+            "hint": "Codswallop, folderol"
+        },
+        "T": {
+            "cells": [
+                106,
+                165,
+                148,
+                136,
+                83,
+                60,
+                30,
+                119
+            ],
+            "answer": "Lone wolf",
+            "hint": "Rugged individualist, free agent (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                149,
+                74,
+                169,
+                64,
+                12,
+                39,
+                180,
+                111
+            ],
+            "answer": "Overhead",
+            "hint": "Taxes, insurance, utilities and such"
+        },
+        "V": {
+            "cells": [
+                3,
+                102,
+                29,
+                124,
+                51
+            ],
+            "answer": "\"Giant\u201d",
+            "hint": "Ferber novel set on a Texas ranch called Reata"
+        },
+        "W": {
+            "cells": [
+                132,
+                34,
+                110,
+                57,
+                87,
+                168,
+                70,
+                98
+            ],
+            "answer": "Ira Levin",
+            "hint": "Author of the plays \u201cNo Time for Sergeants\u201d and \u201cDeathtrap\u201d (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                182,
+                22,
+                48,
+                1,
+                131,
+                108,
+                144,
+                164
+            ],
+            "answer": "Cenotaph",
+            "hint": "Monument commonly serving as a war memorial"
+        }
+    }
+}

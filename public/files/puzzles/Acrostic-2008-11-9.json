@@ -1,0 +1,372 @@
+{
+    "answer": "Until the eighteenth century,... the Garden of Eden... appeared on maps - located, ironically... in what is now... Iraq. European explorers prepared for expeditions in search of paradise by learning Aramaic, the language Jesus spoke.",
+    "author": "Eric Weiner,",
+    "authorCell": [
+        163,
+        131,
+        141,
+        160,
+        82,
+        129,
+        151,
+        124,
+        143,
+        84,
+        11,
+        20,
+        134,
+        167,
+        100,
+        30,
+        91,
+        162,
+        145,
+        179,
+        135,
+        144,
+        5,
+        126,
+        177,
+        142
+    ],
+    "source": "(The) Geography Of Bliss",
+    "clues": {
+        "A": {
+            "cells": [
+                163,
+                1,
+                53,
+                133,
+                35,
+                24,
+                72,
+                108
+            ],
+            "answer": "Euphoria",
+            "hint": "State sought by pleasure-seekers"
+        },
+        "B": {
+            "cells": [
+                131,
+                15,
+                38,
+                175,
+                96
+            ],
+            "answer": "Redux",
+            "hint": "Brought back in new form"
+        },
+        "C": {
+            "cells": [
+                141,
+                16,
+                176,
+                107,
+                159,
+                46,
+                60
+            ],
+            "answer": "Inspire",
+            "hint": "Motivate by example"
+        },
+        "D": {
+            "cells": [
+                160,
+                85,
+                51,
+                104,
+                128,
+                4,
+                22,
+                37
+            ],
+            "answer": "Campsite",
+            "hint": "Ground-floor rental?"
+        },
+        "E": {
+            "cells": [
+                82,
+                47,
+                174,
+                26,
+                110,
+                150,
+                61
+            ],
+            "answer": "West End",
+            "hint": "London entertainment district (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                129,
+                41,
+                109,
+                161,
+                18,
+                146,
+                71
+            ],
+            "answer": "Earthly",
+            "hint": "Far from divine; conceivable"
+        },
+        "G": {
+            "cells": [
+                151,
+                105,
+                9,
+                69,
+                130,
+                80,
+                48
+            ],
+            "answer": "Ireland",
+            "hint": "Where \u201csonas\u201d means \u201chappiness\u201d"
+        },
+        "H": {
+            "cells": [
+                124,
+                158,
+                180,
+                14,
+                140,
+                76,
+                97,
+                39
+            ],
+            "answer": "Naked ape",
+            "hint": "Human, in a 1967 Desmond Morris best seller (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                143,
+                2,
+                172,
+                49,
+                25,
+                157,
+                101,
+                127,
+                77
+            ],
+            "answer": "Enjoyment",
+            "hint": "Gratification"
+        },
+        "J": {
+            "cells": [
+                84,
+                171,
+                136,
+                106,
+                50,
+                17
+            ],
+            "answer": "Repent",
+            "hint": "Earn admission to heaven?"
+        },
+        "K": {
+            "cells": [
+                11,
+                70,
+                83,
+                40,
+                111,
+                165
+            ],
+            "answer": "Glinda",
+            "hint": "Witch who gave Dorothy the ruby slippers"
+        },
+        "L": {
+            "cells": [
+                20,
+                42,
+                78,
+                57,
+                88,
+                114,
+                147
+            ],
+            "answer": "Epicure",
+            "hint": "Devotee of fine food and wine"
+        },
+        "M": {
+            "cells": [
+                134,
+                63,
+                170,
+                93,
+                21,
+                79,
+                3,
+                113,
+                43
+            ],
+            "answer": "Organ stop",
+            "hint": "Something pulled out for a hymn (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                167,
+                90,
+                125,
+                75,
+                28,
+                152
+            ],
+            "answer": "Goshen",
+            "hint": "Land of plenty in ancient Egypt"
+        },
+        "O": {
+            "cells": [
+                100,
+                156,
+                117,
+                7,
+                139,
+                33,
+                55
+            ],
+            "answer": "Raphael",
+            "hint": "Painter of \u201cThe School of Athens\u201d"
+        },
+        "P": {
+            "cells": [
+                30,
+                112,
+                6,
+                44,
+                89,
+                153,
+                164,
+                56,
+                74
+            ],
+            "answer": "Afterglow",
+            "hint": "Residual happiness"
+        },
+        "Q": {
+            "cells": [
+                91,
+                148,
+                73,
+                52,
+                132,
+                27,
+                173
+            ],
+            "answer": "Panache",
+            "hint": "Quality admired in Cyrano de Bergerac"
+        },
+        "R": {
+            "cells": [
+                162,
+                95,
+                137,
+                119,
+                54,
+                12,
+                81,
+                178
+            ],
+            "answer": "Head shop",
+            "hint": "Vendor of bongs, roach clips, etc. (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                145,
+                58,
+                86,
+                23,
+                120
+            ],
+            "answer": "Yaqui",
+            "hint": "Indian of Sonora, Mexico"
+        },
+        "T": {
+            "cells": [
+                179,
+                116,
+                94,
+                68,
+                155,
+                32
+            ],
+            "answer": "Oxnard",
+            "hint": "California town known for its strawberry fields"
+        },
+        "U": {
+            "cells": [
+                135,
+                169,
+                103,
+                13,
+                115,
+                65
+            ],
+            "answer": "Fasten",
+            "hint": "Button, buckle, pin or tie"
+        },
+        "V": {
+            "cells": [
+                144,
+                99,
+                64,
+                29,
+                10,
+                118
+            ],
+            "answer": "Boogie",
+            "hint": "Driving rock music conducive to dancing"
+        },
+        "W": {
+            "cells": [
+                5,
+                168,
+                67,
+                122,
+                36,
+                92,
+                138
+            ],
+            "answer": "Lucifer",
+            "hint": "Archangel who fell from grace"
+        },
+        "X": {
+            "cells": [
+                126,
+                149,
+                87,
+                166,
+                62,
+                19
+            ],
+            "answer": "Irenic",
+            "hint": "Peace-promoting, conciliatory"
+        },
+        "Y": {
+            "cells": [
+                177,
+                8,
+                45,
+                98,
+                66,
+                123,
+                34
+            ],
+            "answer": "Sea lion",
+            "hint": "Pinniped seen in aquarium shows (2 wds.)"
+        },
+        "Z": {
+            "cells": [
+                142,
+                121,
+                154,
+                31,
+                59,
+                181,
+                102
+            ],
+            "answer": "Starter",
+            "hint": "Appetizer; athlete who\u2019s not a substitute"
+        }
+    }
+}

@@ -1,0 +1,346 @@
+{
+    "answer": "A puzzle is not about anything. It is just an experience, with an arbitrary beginning, middle, and end that are unique for each solver. ... We enjoy bursts of insight as we hopscotch over islands of meaning, and then it\u2019s over.",
+    "author": "Dean Olsher,",
+    "authorCell": [
+        78,
+        7,
+        18,
+        151,
+        96,
+        104,
+        172,
+        22,
+        75,
+        146,
+        95,
+        117,
+        15,
+        70,
+        29,
+        92,
+        89,
+        86,
+        107,
+        175,
+        135,
+        111,
+        110
+    ],
+    "source": "From Square One",
+    "clues": {
+        "A": {
+            "cells": [
+                78,
+                16,
+                156,
+                2,
+                125,
+                33,
+                106,
+                57
+            ],
+            "answer": "Dumpster",
+            "hint": "Venue for some diving"
+        },
+        "B": {
+            "cells": [
+                7,
+                164,
+                144,
+                71,
+                102,
+                50,
+                127,
+                88
+            ],
+            "answer": "Envisage",
+            "hint": "Have a mental picture of"
+        },
+        "C": {
+            "cells": [
+                18,
+                136,
+                6,
+                39,
+                80,
+                56,
+                114
+            ],
+            "answer": "Aplenty",
+            "hint": "To spare, galore"
+        },
+        "D": {
+            "cells": [
+                151,
+                23,
+                62,
+                119,
+                5,
+                131,
+                100,
+                167,
+                45
+            ],
+            "answer": "Nietzsche",
+            "hint": "Superman inventor"
+        },
+        "E": {
+            "cells": [
+                96,
+                112,
+                67,
+                14,
+                46,
+                150
+            ],
+            "answer": "Ojibwa",
+            "hint": "The fictional Hiawatha\u2019s tribe"
+        },
+        "F": {
+            "cells": [
+                104,
+                11,
+                32,
+                79,
+                122,
+                163,
+                44,
+                145
+            ],
+            "answer": "Lose face",
+            "hint": "Suffer humiliation (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                172,
+                83,
+                154,
+                98,
+                142,
+                113,
+                40,
+                10
+            ],
+            "answer": "Shoehorn",
+            "hint": "Fit, as into a tight spot"
+        },
+        "H": {
+            "cells": [
+                22,
+                121,
+                137,
+                48,
+                160,
+                74,
+                109
+            ],
+            "answer": "Hostile",
+            "hint": "Far from affectionate"
+        },
+        "I": {
+            "cells": [
+                75,
+                58,
+                118,
+                171,
+                132,
+                147,
+                43,
+                25
+            ],
+            "answer": "East Wing",
+            "hint": "Site of the first lady\u2019s office (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                146,
+                168,
+                9,
+                103,
+                66,
+                34,
+                124,
+                85
+            ],
+            "answer": "Resonant",
+            "hint": "Deep and strong, vocally"
+        },
+        "K": {
+            "cells": [
+                95,
+                1,
+                53,
+                17,
+                128,
+                28,
+                77,
+                162
+            ],
+            "answer": "Farthing",
+            "hint": "Coin last minted in 1956"
+        },
+        "L": {
+            "cells": [
+                117,
+                170,
+                105,
+                133,
+                87,
+                61,
+                36,
+                152
+            ],
+            "answer": "Riverbed",
+            "hint": "Bank-to-bank deposit?"
+        },
+        "M": {
+            "cells": [
+                15,
+                38,
+                76,
+                141,
+                91,
+                129,
+                60
+            ],
+            "answer": "Opacity",
+            "hint": "Imperviousness to light"
+        },
+        "N": {
+            "cells": [
+                70,
+                99,
+                30,
+                157,
+                120,
+                12,
+                55,
+                138
+            ],
+            "answer": "Majestic",
+            "hint": "Broadway theater where \u201cCamelot\u201d premiered"
+        },
+        "O": {
+            "cells": [
+                29,
+                93,
+                65,
+                165,
+                41,
+                13,
+                149
+            ],
+            "answer": "Sundial",
+            "hint": "Many an obelisk, functionally"
+        },
+        "P": {
+            "cells": [
+                92,
+                31,
+                126,
+                4,
+                153,
+                49,
+                173,
+                108
+            ],
+            "answer": "\u201cQuiz Show\u201d",
+            "hint": "Fact-based 1994 film revolving around a scandal (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                89,
+                35,
+                54,
+                143,
+                116,
+                169,
+                73
+            ],
+            "answer": "Unbound",
+            "hint": "Free; loose-leaf"
+        },
+        "R": {
+            "cells": [
+                86,
+                161,
+                21,
+                101,
+                59,
+                130,
+                37
+            ],
+            "answer": "Anthrax",
+            "hint": "Thrash metal band with Joey Belladonna"
+        },
+        "S": {
+            "cells": [
+                107,
+                84,
+                155,
+                140,
+                47,
+                24,
+                69
+            ],
+            "answer": "Rafting",
+            "hint": "Sport that may involve blowing something up"
+        },
+        "T": {
+            "cells": [
+                175,
+                72,
+                8,
+                27,
+                134,
+                52,
+                159,
+                90
+            ],
+            "answer": "Edith Ann",
+            "hint": "\u201cLaugh-In\u201d character with a doll named Doris (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                135,
+                174,
+                42,
+                19,
+                115,
+                64,
+                97,
+                81
+            ],
+            "answer": "Ovenbird",
+            "hint": "Warbler whose nest is a dome on the ground"
+        },
+        "V": {
+            "cells": [
+                111,
+                3,
+                63,
+                158,
+                82,
+                139,
+                176,
+                20
+            ],
+            "answer": "Nugatory",
+            "hint": "Trivial, of no consequence"
+        },
+        "W": {
+            "cells": [
+                110,
+                26,
+                51,
+                148,
+                166,
+                94,
+                123,
+                68
+            ],
+            "answer": "Einstein",
+            "hint": "Eponym of element #99"
+        }
+    }
+}

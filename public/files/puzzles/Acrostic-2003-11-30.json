@@ -1,0 +1,341 @@
+{
+    "answer": "\u201cI\u2019m stuffing the turkey this year,\u201d I told my sister. She was much relieved. ... After all, an unstuffed turkey is like a jigsaw puzzle of the American flag with a piece missing... in the middle. Now... all was restored to order.",
+    "author": "Laurie Colwin,",
+    "authorCell": [
+        86,
+        108,
+        48,
+        16,
+        84,
+        170,
+        128,
+        149,
+        153,
+        154,
+        143,
+        70,
+        42,
+        103,
+        142,
+        129,
+        113,
+        30,
+        166,
+        17,
+        8,
+        138,
+        136
+    ],
+    "source": "Home Cooking",
+    "clues": {
+        "A": {
+            "cells": [
+                86,
+                98,
+                61,
+                140,
+                121,
+                163,
+                27
+            ],
+            "answer": "Luthier",
+            "hint": "Antonio Stradivari, for one"
+        },
+        "B": {
+            "cells": [
+                108,
+                157,
+                33,
+                85,
+                146,
+                55,
+                68,
+                10,
+                20,
+                123
+            ],
+            "answer": "Arm\u2019s length",
+            "hint": "Emotional remoteness (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                48,
+                152,
+                37,
+                165,
+                13,
+                80
+            ],
+            "answer": "Ulster",
+            "hint": "Loose, heavy overcoat, often belted"
+        },
+        "D": {
+            "cells": [
+                16,
+                137,
+                32,
+                77,
+                101,
+                52
+            ],
+            "answer": "Riddle",
+            "hint": "\u201cWhat has four wheels and flies?,\u201d e.g."
+        },
+        "E": {
+            "cells": [
+                84,
+                109,
+                125,
+                5,
+                65,
+                156,
+                57
+            ],
+            "answer": "Impulse",
+            "hint": "Wave transmitted through a nerve fiber"
+        },
+        "F": {
+            "cells": [
+                170,
+                155,
+                133,
+                11,
+                71,
+                36,
+                58,
+                25
+            ],
+            "answer": "East Side",
+            "hint": "Part of Manhattan (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                128,
+                161,
+                9,
+                110,
+                83
+            ],
+            "answer": "Coney",
+            "hint": "Frankfurter with sauce served on a bun, named after an \u201cisland\u201d"
+        },
+        "H": {
+            "cells": [
+                149,
+                117,
+                24,
+                2,
+                97,
+                79,
+                41
+            ],
+            "answer": "Olympus",
+            "hint": "Mountain peak first successfully scaled by humans in 1913"
+        },
+        "I": {
+            "cells": [
+                153,
+                112,
+                7,
+                43,
+                53,
+                126,
+                81,
+                102
+            ],
+            "answer": "Lifelike",
+            "hint": "Realistic, natural"
+        },
+        "J": {
+            "cells": [
+                154,
+                22,
+                99,
+                67,
+                40,
+                145
+            ],
+            "answer": "Wizard",
+            "hint": "One of Gandalf\u2019s or Saruman\u2019s kind"
+        },
+        "K": {
+            "cells": [
+                143,
+                14,
+                106,
+                127,
+                91,
+                69,
+                171,
+                34
+            ],
+            "answer": "\u201cI the Jury\u201d",
+            "hint": "Mickey Spillane caper filmed in 1953 in 3-D (3 wds.)"
+        },
+        "L": {
+            "cells": [
+                70,
+                18,
+                96,
+                60,
+                45,
+                135,
+                119,
+                31,
+                158,
+                144
+            ],
+            "answer": "Newfangled",
+            "hint": "Just invented, but of dubious value"
+        },
+        "M": {
+            "cells": [
+                42,
+                167,
+                122,
+                150,
+                92,
+                51,
+                107
+            ],
+            "answer": "Hot-wire",
+            "hint": "Start, in the manner of some thieves (hyph.)"
+        },
+        "N": {
+            "cells": [
+                103,
+                130,
+                89,
+                162,
+                29,
+                64
+            ],
+            "answer": "Omerta",
+            "hint": "Mob code of silence"
+        },
+        "O": {
+            "cells": [
+                142,
+                95,
+                169,
+                39,
+                21,
+                114,
+                3,
+                78,
+                62
+            ],
+            "answer": "Made haste",
+            "hint": "Acted swiftly, rushed (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                129,
+                23,
+                4,
+                82,
+                56,
+                141,
+                100
+            ],
+            "answer": "Estevez",
+            "hint": "Martin Sheen\u2019s surname at birth"
+        },
+        "Q": {
+            "cells": [
+                113,
+                26,
+                72,
+                12,
+                151,
+                168,
+                132,
+                54,
+                35
+            ],
+            "answer": "Catharsis",
+            "hint": "Therapeutic release of repressed feelings"
+        },
+        "R": {
+            "cells": [
+                30,
+                73,
+                160,
+                105,
+                124,
+                88,
+                147
+            ],
+            "answer": "Outtake",
+            "hint": "Sequence containing a blooper, perhaps"
+        },
+        "S": {
+            "cells": [
+                166,
+                116,
+                6,
+                66,
+                28,
+                47,
+                131,
+                38,
+                94
+            ],
+            "answer": "Off-limits",
+            "hint": "Not allowed to be visited (hyph.)"
+        },
+        "T": {
+            "cells": [
+                17,
+                134,
+                115,
+                93,
+                75,
+                1,
+                159,
+                50
+            ],
+            "answer": "Kingfish",
+            "hint": "Epithet for Louisiana\u2019s Huey Long"
+        },
+        "U": {
+            "cells": [
+                8,
+                46,
+                139,
+                111,
+                87,
+                59
+            ],
+            "answer": "Istria",
+            "hint": "Adriatic Sea peninsula"
+        },
+        "V": {
+            "cells": [
+                138,
+                90,
+                148,
+                49,
+                19,
+                164,
+                63,
+                76,
+                120
+            ],
+            "answer": "Nancy Drew",
+            "hint": "Fictional sleuth introduced in 1930 (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                136,
+                15,
+                74,
+                104,
+                118,
+                44
+            ],
+            "answer": "Guffaw",
+            "hint": "Sound gratifying to a comedian"
+        }
+    }
+}

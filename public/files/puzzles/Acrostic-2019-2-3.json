@@ -1,0 +1,361 @@
+{
+    "answer": "Ordinary objects are covered with text. Although few people besides collectors and counterfeiters pay attention to them, there are eighty-one words and twenty-three numbers, including MDCCLXXVI, engraved on a dollar bill.",
+    "author": "Dennis Baron,",
+    "authorCell": [
+        175,
+        170,
+        173,
+        147,
+        146,
+        84,
+        142,
+        6,
+        106,
+        9,
+        165,
+        168,
+        10,
+        24,
+        28,
+        99,
+        52,
+        77,
+        45,
+        18,
+        153,
+        157,
+        4,
+        49
+    ],
+    "source": "A Better Pencil",
+    "clues": {
+        "A": {
+            "cells": [
+                175,
+                72,
+                58,
+                39,
+                155,
+                130,
+                96,
+                115
+            ],
+            "answer": "Document",
+            "hint": "Write down for the record"
+        },
+        "B": {
+            "cells": [
+                170,
+                32,
+                103,
+                66,
+                150,
+                3,
+                50
+            ],
+            "answer": "Extrude",
+            "hint": "Squeeze out into a certain shape"
+        },
+        "C": {
+            "cells": [
+                173,
+                148,
+                120,
+                8,
+                22,
+                81,
+                41
+            ],
+            "answer": "N.C. Wyeth",
+            "hint": "Illustrator of \u201cThe Yearling\u201d (3 wds.)"
+        },
+        "D": {
+            "cells": [
+                147,
+                98,
+                21,
+                82,
+                177,
+                64,
+                133
+            ],
+            "answer": "Novelty",
+            "hint": "Magic 8 Ball or Pet Rock, e.g."
+        },
+        "E": {
+            "cells": [
+                146,
+                127,
+                43,
+                65,
+                166,
+                83,
+                16,
+                102
+            ],
+            "answer": "Ideogram",
+            "hint": "Symbol for a concept, like an \u201cX\u201d for \u201cnot allowed\u201d"
+        },
+        "F": {
+            "cells": [
+                84,
+                129,
+                152,
+                169,
+                56,
+                184,
+                111,
+                25
+            ],
+            "answer": "Swiveled",
+            "hint": "Spun, as a piano stool"
+        },
+        "G": {
+            "cells": [
+                142,
+                121,
+                61,
+                15,
+                104,
+                38,
+                80
+            ],
+            "answer": "Bolshoi",
+            "hint": "Theater depicted on 100-ruble notes"
+        },
+        "H": {
+            "cells": [
+                6,
+                159,
+                97,
+                59,
+                19,
+                35,
+                137,
+                78
+            ],
+            "answer": "Alto clef",
+            "hint": "Sign on sheet music for violas (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                106,
+                20,
+                149,
+                60,
+                36,
+                1,
+                85
+            ],
+            "answer": "Roll top",
+            "hint": "Sliding feature of an antique desk (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                9,
+                73,
+                134,
+                51,
+                95,
+                161
+            ],
+            "answer": "Outbox",
+            "hint": "Place for letters to be sent"
+        },
+        "K": {
+            "cells": [
+                165,
+                54,
+                113,
+                29,
+                75,
+                11,
+                179,
+                136
+            ],
+            "answer": "Nightjar",
+            "hint": "Goatsucker by another name"
+        },
+        "L": {
+            "cells": [
+                168,
+                131,
+                12,
+                63,
+                151,
+                117,
+                93,
+                46
+            ],
+            "answer": "Anecdote",
+            "hint": "Tale told on a talk show"
+        },
+        "M": {
+            "cells": [
+                10,
+                108,
+                171,
+                141,
+                27,
+                126,
+                89,
+                47,
+                69
+            ],
+            "answer": "Badminton",
+            "hint": "Sport that made its official Olympic debut in 1992"
+        },
+        "N": {
+            "cells": [
+                24,
+                123,
+                139,
+                68,
+                42,
+                91,
+                167,
+                181,
+                107,
+                7
+            ],
+            "answer": "Edna Ferber",
+            "hint": "Author who wrote \u201cCherry cobbler is shortcake with a soul\u201d (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                28,
+                140,
+                109,
+                5,
+                124,
+                90,
+                163,
+                183,
+                62
+            ],
+            "answer": "Turnstile",
+            "hint": "Single-file entry enforcer"
+        },
+        "P": {
+            "cells": [
+                99,
+                79,
+                178,
+                119,
+                158,
+                34,
+                57,
+                14
+            ],
+            "answer": "Telecast",
+            "hint": "Delivery coming through a tube"
+        },
+        "Q": {
+            "cells": [
+                52,
+                128,
+                71,
+                37,
+                112,
+                92,
+                154
+            ],
+            "answer": "Etching",
+            "hint": "One of around 290 works by Rembrandt"
+        },
+        "R": {
+            "cells": [
+                77,
+                94,
+                40,
+                162,
+                143,
+                55,
+                125
+            ],
+            "answer": "Rig-Veda",
+            "hint": "Set of ancient Sanskrit hymns (hyph.)"
+        },
+        "S": {
+            "cells": [
+                45,
+                23,
+                110,
+                145,
+                182,
+                70,
+                164
+            ],
+            "answer": "Preside",
+            "hint": "Act in the role of a chair"
+        },
+        "T": {
+            "cells": [
+                18,
+                122,
+                88,
+                53,
+                31,
+                144
+            ],
+            "answer": "Eraser",
+            "hint": "Fixer at the unpointed end of a barrel?"
+        },
+        "U": {
+            "cells": [
+                153,
+                101,
+                26,
+                67,
+                44,
+                172,
+                2,
+                132,
+                114,
+                87
+            ],
+            "answer": "Newsworthy",
+            "hint": "Fit to be publicized"
+        },
+        "V": {
+            "cells": [
+                157,
+                86,
+                13,
+                100,
+                138,
+                48,
+                176,
+                33
+            ],
+            "answer": "Cachepot",
+            "hint": "Decorative plant holder"
+        },
+        "W": {
+            "cells": [
+                4,
+                118,
+                30,
+                135,
+                76,
+                180,
+                105,
+                156
+            ],
+            "answer": "In the red",
+            "hint": "Carrying a tab (3 wds.)"
+        },
+        "X": {
+            "cells": [
+                49,
+                174,
+                17,
+                116,
+                74,
+                160
+            ],
+            "answer": "Larynx",
+            "hint": "Natural speech generator"
+        }
+    }
+}

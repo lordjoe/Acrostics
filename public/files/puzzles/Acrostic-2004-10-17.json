@@ -1,0 +1,351 @@
+{
+    "answer": "White is... not a mere absence of color; it is a shining and affirmative thing, as fierce as red, as definite as black. When (so to speak) your pencil grows red-hot, it draws roses; when it grows white-hot, it draws stars.",
+    "author": "G. K. Chesterton,",
+    "authorCell": [
+        41,
+        103,
+        25,
+        122,
+        15,
+        167,
+        31,
+        22,
+        166,
+        97,
+        98,
+        40,
+        42,
+        108,
+        156,
+        13,
+        21,
+        152,
+        123,
+        46,
+        89,
+        57,
+        45,
+        87,
+        90
+    ],
+    "source": "A Piece Of Chalk",
+    "clues": {
+        "A": {
+            "cells": [
+                41,
+                55,
+                119,
+                131,
+                149,
+                1,
+                79,
+                110
+            ],
+            "answer": "Gershwin",
+            "hint": "Composer whose first hit was \u201cSwanee\u201d"
+        },
+        "B": {
+            "cells": [
+                103,
+                48,
+                151,
+                164,
+                77,
+                20,
+                37,
+                118,
+                138
+            ],
+            "answer": "Kittenish",
+            "hint": "Playful and frisky"
+        },
+        "C": {
+            "cells": [
+                25,
+                61,
+                75,
+                147,
+                125,
+                165
+            ],
+            "answer": "Cassia",
+            "hint": "Chinese tree whose bark yields a variety of cinnamon"
+        },
+        "D": {
+            "cells": [
+                122,
+                74,
+                8,
+                143,
+                88,
+                107
+            ],
+            "answer": "Hangar",
+            "hint": "Cessna\u2019s resting place"
+        },
+        "E": {
+            "cells": [
+                15,
+                38,
+                67,
+                113,
+                51,
+                150,
+                132
+            ],
+            "answer": "En clair",
+            "hint": "Using uncoded language (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                167,
+                91,
+                58,
+                126,
+                153,
+                3,
+                140
+            ],
+            "answer": "Swithin",
+            "hint": "English saint associated with a 40-day rain"
+        },
+        "G": {
+            "cells": [
+                31,
+                133,
+                100,
+                44,
+                154,
+                60
+            ],
+            "answer": "Top dog",
+            "hint": "Dominant one among go-getters (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                22,
+                80,
+                47,
+                145,
+                66,
+                111,
+                93,
+                128
+            ],
+            "answer": "Enforcer",
+            "hint": "Hockey player whose job is to be aggressive and rough"
+        },
+        "I": {
+            "cells": [
+                166,
+                11,
+                24,
+                56,
+                101,
+                71
+            ],
+            "answer": "Rafter",
+            "hint": "Barn support; whitewater enthusiast"
+        },
+        "J": {
+            "cells": [
+                97,
+                116,
+                49,
+                144,
+                64,
+                127
+            ],
+            "answer": "Torrid",
+            "hint": "Ardent, as a love scene; hurried, as a pace"
+        },
+        "K": {
+            "cells": [
+                98,
+                17,
+                162,
+                39,
+                76,
+                112,
+                129,
+                59
+            ],
+            "answer": "Obsidian",
+            "hint": "Volcanic glass, once used by Indians to make arrowheads and knives"
+        },
+        "L": {
+            "cells": [
+                40,
+                120,
+                146,
+                86,
+                6,
+                68
+            ],
+            "answer": "Newbie",
+            "hint": "Novice, tyro, greenhorn"
+        },
+        "M": {
+            "cells": [
+                42,
+                78,
+                115,
+                102,
+                12,
+                135
+            ],
+            "answer": "A-frame",
+            "hint": "What makes a point in home design? (hyph.)"
+        },
+        "N": {
+            "cells": [
+                108,
+                29,
+                96,
+                63,
+                141,
+                10
+            ],
+            "answer": "Profit",
+            "hint": "Entrepreneur\u2019s motive"
+        },
+        "O": {
+            "cells": [
+                156,
+                85,
+                33,
+                106,
+                5,
+                62
+            ],
+            "answer": "Issues",
+            "hint": "Unresolved questions or conflicts, in modern lingo"
+        },
+        "P": {
+            "cells": [
+                13,
+                50,
+                158,
+                84,
+                95,
+                36
+            ],
+            "answer": "Em dash",
+            "hint": "Indicator of a sudden break in thought (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                21,
+                92,
+                34,
+                134,
+                72
+            ],
+            "answer": "Chase",
+            "hint": "Portrait on a $10,000 bill"
+        },
+        "R": {
+            "cells": [
+                152,
+                73,
+                114,
+                83,
+                130,
+                53,
+                7,
+                19
+            ],
+            "answer": "Edgewise",
+            "hint": "From the side, conversationally"
+        },
+        "S": {
+            "cells": [
+                123,
+                94,
+                139,
+                52,
+                161,
+                26
+            ],
+            "answer": "One-two",
+            "hint": "Ring combination (hyph.)"
+        },
+        "T": {
+            "cells": [
+                46,
+                27,
+                104,
+                35,
+                148,
+                160,
+                82,
+                124,
+                65,
+                14
+            ],
+            "answer": "Flyswatter",
+            "hint": "Instrument producing a flat buzzer"
+        },
+        "U": {
+            "cells": [
+                89,
+                69,
+                163,
+                2,
+                30,
+                43
+            ],
+            "answer": "Cash in",
+            "hint": "Convert one\u2019s holdings to liquid assets (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                57,
+                16,
+                32,
+                159,
+                121,
+                105
+            ],
+            "answer": "Hairdo",
+            "hint": "Arrangement of locks"
+        },
+        "W": {
+            "cells": [
+                45,
+                136,
+                99,
+                81,
+                18,
+                4,
+                70
+            ],
+            "answer": "Assists",
+            "hint": "Category in which John Stockton is the N.B.A.\u2019s all-time leader"
+        },
+        "X": {
+            "cells": [
+                87,
+                28,
+                54,
+                109,
+                157,
+                142
+            ],
+            "answer": "Lovett",
+            "hint": "Ex of Roberts who recorded \u201cThe Road to Ensenada\u201d in 1996"
+        },
+        "Y": {
+            "cells": [
+                90,
+                9,
+                137,
+                155,
+                23,
+                117
+            ],
+            "answer": "Kowtow",
+            "hint": "Truckle, grovel"
+        }
+    }
+}

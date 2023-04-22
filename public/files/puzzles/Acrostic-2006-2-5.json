@@ -1,0 +1,359 @@
+{
+    "answer": "To drink a mocha is to gulp down the... history of the New World. From the Spanish exportation of Aztec cacao and the Dutch invention of the chemical process for making cocoa... down to the capitalist empire of Hershey, PA...",
+    "author": "(Sarah) Vowell,",
+    "authorCell": [
+        99,
+        141,
+        24,
+        79,
+        47,
+        20,
+        119,
+        8,
+        128,
+        68,
+        155,
+        173,
+        95,
+        118,
+        136,
+        19,
+        48,
+        35,
+        65,
+        139,
+        153,
+        4,
+        162,
+        106,
+        94
+    ],
+    "source": "(The) Partly Cloudy Patriot",
+    "clues": {
+        "A": {
+            "cells": [
+                99,
+                157,
+                39,
+                69,
+                21,
+                172,
+                3
+            ],
+            "answer": "V-shaped",
+            "hint": "Configured like some pilots\u2019 formations (hyph.)"
+        },
+        "B": {
+            "cells": [
+                141,
+                158,
+                38,
+                23,
+                88,
+                115,
+                64
+            ],
+            "answer": "Otto Dix",
+            "hint": "German antiwar artist denounced by the Nazis (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                24,
+                132,
+                83,
+                96,
+                5,
+                146,
+                175
+            ],
+            "answer": "Wichita",
+            "hint": "Midwestern city nicknamed the \u201cAir Capital\u201d"
+        },
+        "D": {
+            "cells": [
+                79,
+                57,
+                27,
+                164,
+                140,
+                46,
+                117
+            ],
+            "answer": "Ephedra",
+            "hint": "Herbal stimulant also called ma huang"
+        },
+        "E": {
+            "cells": [
+                47,
+                28,
+                89,
+                1,
+                156,
+                61,
+                112
+            ],
+            "answer": "Lettish",
+            "hint": "Official language of Latvia"
+        },
+        "F": {
+            "cells": [
+                20,
+                76,
+                161,
+                102,
+                2,
+                174,
+                56
+            ],
+            "answer": "Laptops",
+            "hint": "Items carried by traveling surfers"
+        },
+        "G": {
+            "cells": [
+                119,
+                147,
+                17,
+                133,
+                40,
+                160,
+                100
+            ],
+            "answer": "Phoneme",
+            "hint": "To linguists, a basic unit of speech"
+        },
+        "H": {
+            "cells": [
+                8,
+                50,
+                149,
+                109,
+                166,
+                36,
+                63
+            ],
+            "answer": "Arch foe",
+            "hint": "Moriarty vis-à-vis Holmes (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                128,
+                74,
+                22,
+                55,
+                87,
+                144,
+                170
+            ],
+            "answer": "Rodents",
+            "hint": "Mammals whose name comes from Latin for \u201cto gnaw\u201d"
+        },
+        "J": {
+            "cells": [
+                68,
+                169,
+                150,
+                49,
+                126,
+                97,
+                111
+            ],
+            "answer": "Traffic",
+            "hint": "What may flow or jam"
+        },
+        "K": {
+            "cells": [
+                155,
+                82,
+                44,
+                124,
+                93,
+                71,
+                16
+            ],
+            "answer": "Lawsuit",
+            "hint": "Recourse for the wronged"
+        },
+        "L": {
+            "cells": [
+                173,
+                154,
+                59,
+                134,
+                26,
+                77,
+                91
+            ],
+            "answer": "Yangtze",
+            "hint": "River called Chang Jiang in China"
+        },
+        "M": {
+            "cells": [
+                95,
+                167,
+                33,
+                116,
+                78,
+                58,
+                142
+            ],
+            "answer": "Choctaw",
+            "hint": "Tribe once led by Pushmataha"
+        },
+        "N": {
+            "cells": [
+                118,
+                72,
+                43,
+                135,
+                104,
+                15,
+                53
+            ],
+            "answer": "Low-cost",
+            "hint": "Not exactly bank-busting (hyph.)"
+        },
+        "O": {
+            "cells": [
+                136,
+                67,
+                151,
+                171,
+                103,
+                31,
+                114
+            ],
+            "answer": "Orphism",
+            "hint": "Mystical Greek religion named for a musician"
+        },
+        "P": {
+            "cells": [
+                19,
+                101,
+                122,
+                70,
+                152,
+                45,
+                143
+            ],
+            "answer": "Unction",
+            "hint": "Smarmy flattery"
+        },
+        "Q": {
+            "cells": [
+                48,
+                159,
+                125,
+                11,
+                110,
+                25,
+                92
+            ],
+            "answer": "Descend",
+            "hint": "\u201cLarge and melodious thoughts ___ upon me\u201d (Whitman)"
+        },
+        "R": {
+            "cells": [
+                35,
+                10,
+                131,
+                121,
+                66,
+                98,
+                85
+            ],
+            "answer": "Yoko Ono",
+            "hint": "Tokyo-born avant-garde artist who wrote \u201cGrapefruit\u201d (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                65,
+                29,
+                84,
+                120,
+                13,
+                138,
+                54
+            ],
+            "answer": "Pharaoh",
+            "hint": "King often pictured with a crook and flail"
+        },
+        "T": {
+            "cells": [
+                139,
+                73,
+                51,
+                108,
+                12,
+                123,
+                163
+            ],
+            "answer": "Another",
+            "hint": "\u201cHit me again, barkeep\u201d"
+        },
+        "U": {
+            "cells": [
+                153,
+                62,
+                168,
+                107,
+                14,
+                34,
+                129
+            ],
+            "answer": "The Firm",
+            "hint": "1991 legal thriller by John Grisham (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                4,
+                165,
+                52,
+                86,
+                30,
+                41,
+                113
+            ],
+            "answer": "Romaine",
+            "hint": "Iceberg\u2019s relative"
+        },
+        "W": {
+            "cells": [
+                162,
+                105,
+                137,
+                90,
+                42,
+                80,
+                7
+            ],
+            "answer": "In check",
+            "hint": "Besieged during a strategic game (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                106,
+                81,
+                32,
+                130,
+                18,
+                145,
+                6
+            ],
+            "answer": "Octagon",
+            "hint": "Shape of Thomas Jefferson\u2019s Poplar Forest house"
+        },
+        "Y": {
+            "cells": [
+                94,
+                60,
+                9,
+                148,
+                127,
+                37,
+                75
+            ],
+            "answer": "Time off",
+            "hint": "Good-behavior reward for some (2 wds.)"
+        }
+    }
+}

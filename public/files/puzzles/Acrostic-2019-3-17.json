@@ -1,0 +1,359 @@
+{
+    "answer": "Often he is seen sitting, cross-legged with a tiny hammer in his hand, working on a fairy shoe. ... Usually he wears a suit of green and... fine leather shoes adorned with silver buckles. Sometimes he wears a cap with a feather.",
+    "author": "(Bairbre) McCarthy,",
+    "authorCell": [
+        44,
+        139,
+        161,
+        78,
+        114,
+        166,
+        52,
+        40,
+        108,
+        30,
+        163,
+        46,
+        27,
+        21,
+        173,
+        168,
+        138,
+        5,
+        9,
+        16,
+        57,
+        97,
+        47,
+        118,
+        71
+    ],
+    "source": "(Irish) Leprechaun Stories",
+    "clues": {
+        "A": {
+            "cells": [
+                44,
+                91,
+                14,
+                130,
+                175,
+                63,
+                117,
+                150
+            ],
+            "answer": "Mushroom",
+            "hint": "Seat or shade for the quote\u2019s subject"
+        },
+        "B": {
+            "cells": [
+                139,
+                86,
+                59,
+                109,
+                24
+            ],
+            "answer": "Cakes",
+            "hint": "Wonderland snacks for Alice"
+        },
+        "C": {
+            "cells": [
+                161,
+                35,
+                4,
+                119,
+                51,
+                76,
+                142,
+                93
+            ],
+            "answer": "Chess set",
+            "hint": "Group including 32 men (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                78,
+                48,
+                62,
+                11,
+                133,
+                104,
+                33,
+                152,
+                167
+            ],
+            "answer": "Angelfish",
+            "hint": "Eye-catching tank denizen"
+        },
+        "E": {
+            "cells": [
+                114,
+                157,
+                60,
+                19,
+                137,
+                1,
+                84
+            ],
+            "answer": "Rainbow",
+            "hint": "Hopeful sign for gold hunters?"
+        },
+        "F": {
+            "cells": [
+                166,
+                56,
+                135,
+                79,
+                95,
+                34,
+                116
+            ],
+            "answer": "Twelfth",
+            "hint": "Fraction between digits on the face of a clock"
+        },
+        "G": {
+            "cells": [
+                52,
+                154,
+                26,
+                2,
+                96,
+                73,
+                111,
+                129
+            ],
+            "answer": "Helfgott",
+            "hint": "Pianist played by Rush in \u201cShine\u201d"
+        },
+        "H": {
+            "cells": [
+                40,
+                94,
+                75,
+                123,
+                25,
+                156,
+                141,
+                169
+            ],
+            "answer": "Yourself",
+            "hint": "Word often following suit or brace"
+        },
+        "I": {
+            "cells": [
+                108,
+                74,
+                29,
+                125,
+                13,
+                55,
+                143
+            ],
+            "answer": "Legends",
+            "hint": "Some narratives or Japanese cars"
+        },
+        "J": {
+            "cells": [
+                30,
+                80,
+                66,
+                146,
+                110,
+                124
+            ],
+            "answer": "Elfman",
+            "hint": "Danny who composed the \u201cBeetlejuice\u201d soundtrack"
+        },
+        "K": {
+            "cells": [
+                163,
+                22,
+                38,
+                134,
+                101,
+                3,
+                151,
+                87,
+                70,
+                120,
+                54
+            ],
+            "answer": "Private Ryan",
+            "hint": "Cinematic target of a rescue mission (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                46,
+                145,
+                77,
+                159,
+                105,
+                61,
+                20
+            ],
+            "answer": "Rousing",
+            "hint": "Brisk, lively, invigorative"
+        },
+        "M": {
+            "cells": [
+                27,
+                100,
+                81,
+                53
+            ],
+            "answer": "Enya",
+            "hint": "Singer from Gweedore, County Donegal"
+        },
+        "N": {
+            "cells": [
+                21,
+                6,
+                42,
+                149,
+                102,
+                88,
+                171,
+                127
+            ],
+            "answer": "Chainsaw",
+            "hint": "Tool for felling, limbing and bucking"
+        },
+        "O": {
+            "cells": [
+                173,
+                122,
+                28,
+                155,
+                65,
+                10,
+                49
+            ],
+            "answer": "Hogwash",
+            "hint": "Blarney"
+        },
+        "P": {
+            "cells": [
+                168,
+                121,
+                72,
+                45,
+                136,
+                7,
+                31
+            ],
+            "answer": "Adhered",
+            "hint": "Stuck, as by suction"
+        },
+        "Q": {
+            "cells": [
+                138,
+                158,
+                98,
+                172,
+                112,
+                67,
+                39,
+                12
+            ],
+            "answer": "Urethane",
+            "hint": "Another name for ethyl carbamate"
+        },
+        "R": {
+            "cells": [
+                5,
+                23,
+                148,
+                69,
+                107,
+                126,
+                89,
+                43,
+                170
+            ],
+            "answer": "Notre Dame",
+            "hint": "University with a \u201cTouchdown Jesus\u201d mural (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                9,
+                32,
+                174,
+                103,
+                50,
+                144,
+                82
+            ],
+            "answer": "Swedish",
+            "hint": "From the land of W."
+        },
+        "T": {
+            "cells": [
+                16,
+                160,
+                41,
+                92,
+                106,
+                68
+            ],
+            "answer": "Tahini",
+            "hint": "Condiment made from sesame seeds"
+        },
+        "U": {
+            "cells": [
+                57,
+                36,
+                90,
+                15,
+                131
+            ],
+            "answer": "Oasis",
+            "hint": "Liam and Noel Gallagher\u2019s band"
+        },
+        "V": {
+            "cells": [
+                97,
+                153,
+                165,
+                64,
+                8,
+                37,
+                132,
+                115
+            ],
+            "answer": "Rhinitis",
+            "hint": "Inflammation of the nose as by pollen"
+        },
+        "W": {
+            "cells": [
+                47,
+                140,
+                83,
+                162
+            ],
+            "answer": "Ikea",
+            "hint": "Company founded by Ingvar Kamprad"
+        },
+        "X": {
+            "cells": [
+                118,
+                18,
+                58,
+                85
+            ],
+            "answer": "Eire",
+            "hint": "Land named for a Gaelic goddess"
+        },
+        "Y": {
+            "cells": [
+                71,
+                164,
+                99,
+                147,
+                17,
+                128,
+                113
+            ],
+            "answer": "Sweetie",
+            "hint": "Sugar or honey"
+        }
+    }
+}

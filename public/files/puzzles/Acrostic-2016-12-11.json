@@ -1,0 +1,322 @@
+{
+    "answer": "I secretly carry a really wonderful person... inside me.... This person is... good and smart and talented and kind... and she uses the correct bins for glass recyclables and doesn\u2019t say \u201cuh\u201d or wave her arms around when talking.",
+    "author": "(Alexandra) Petri,",
+    "authorCell": [
+        31,
+        95,
+        138,
+        145,
+        171,
+        15,
+        163,
+        83,
+        22,
+        147,
+        102,
+        71,
+        94,
+        108,
+        115,
+        135,
+        88,
+        4,
+        92,
+        2
+    ],
+    "source": "(A Field Guide To) Awkward Silences",
+    "clues": {
+        "A": {
+            "cells": [
+                31,
+                87,
+                161,
+                45,
+                98,
+                128,
+                58,
+                76
+            ],
+            "answer": "Pantheon",
+            "hint": "Rebuilding project for Hadrian"
+        },
+        "B": {
+            "cells": [
+                95,
+                117,
+                167,
+                33,
+                18,
+                81,
+                57,
+                3,
+                132
+            ],
+            "answer": "Estranged",
+            "hint": "No longer intimate"
+        },
+        "C": {
+            "cells": [
+                138,
+                5,
+                23,
+                106,
+                72,
+                120,
+                60
+            ],
+            "answer": "Trotted",
+            "hint": "Went with legs moving in diagonal pairs"
+        },
+        "D": {
+            "cells": [
+                145,
+                42,
+                68,
+                29,
+                113,
+                54,
+                156
+            ],
+            "answer": "Returns",
+            "hint": "What to watch on election nights"
+        },
+        "E": {
+            "cells": [
+                171,
+                158,
+                144,
+                131,
+                91,
+                35,
+                51,
+                110,
+                17
+            ],
+            "answer": "Iron horse",
+            "hint": "Steam-powered prairie crosser (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                15,
+                148,
+                93,
+                137,
+                105,
+                160,
+                30,
+                69,
+                119
+            ],
+            "answer": "Avuncular",
+            "hint": "Like Henry in relation to Dorothy, in the Oz books"
+        },
+        "G": {
+            "cells": [
+                163,
+                1,
+                62,
+                41,
+                100,
+                143,
+                84,
+                20,
+                127
+            ],
+            "answer": "Wind chill",
+            "hint": "Factor that exacerbates discomfort (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                83,
+                70,
+                53,
+                146,
+                8,
+                99,
+                133,
+                114,
+                26
+            ],
+            "answer": "Knowledge",
+            "hint": "\u201c____ without education is but armed injustice\u201d (Horace)"
+        },
+        "I": {
+            "cells": [
+                22,
+                134,
+                101,
+                89,
+                38,
+                9,
+                65,
+                49,
+                150
+            ],
+            "answer": "Wood nymph",
+            "hint": "Being like Eurydice (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                147,
+                162,
+                86,
+                16,
+                75,
+                118,
+                39,
+                104,
+                56
+            ],
+            "answer": "Addresses",
+            "hint": "Data employed by MapQuest"
+        },
+        "K": {
+            "cells": [
+                102,
+                116,
+                43,
+                130,
+                14,
+                61,
+                24,
+                80
+            ],
+            "answer": "Ramayana",
+            "hint": "Opus ascribed to the Hindu sage Valmiki"
+        },
+        "L": {
+            "cells": [
+                71,
+                6,
+                97,
+                153,
+                123,
+                46,
+                165,
+                82
+            ],
+            "answer": "Detached",
+            "hint": "Aloof; impartial; standing by itself"
+        },
+        "M": {
+            "cells": [
+                94,
+                11,
+                166,
+                139,
+                129,
+                151,
+                27,
+                40,
+                111
+            ],
+            "answer": "Sans serif",
+            "hint": "Type evoking simplicity or minimalism (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                108,
+                85,
+                36,
+                64,
+                126,
+                154,
+                142,
+                10,
+                170
+            ],
+            "answer": "Innsbruck",
+            "hint": "Host of the 1976 Winter Olympics"
+        },
+        "O": {
+            "cells": [
+                115,
+                32,
+                173,
+                73,
+                19,
+                149,
+                90,
+                50
+            ],
+            "answer": "Legalese",
+            "hint": "Gobbledygook found in contracts"
+        },
+        "P": {
+            "cells": [
+                135,
+                168,
+                96,
+                122,
+                13,
+                55,
+                25,
+                78,
+                152
+            ],
+            "answer": "\"Easy Rider\"",
+            "hint": "1969 film in which hogs are prominent (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                88,
+                157,
+                7,
+                47,
+                59,
+                109,
+                125,
+                74,
+                34
+            ],
+            "answer": "Nationals",
+            "hint": "Only N.L. team never to play in a World Series"
+        },
+        "R": {
+            "cells": [
+                4,
+                164,
+                103,
+                21,
+                52,
+                66,
+                124,
+                37,
+                136
+            ],
+            "answer": "Chrysalis",
+            "hint": "Hard case in life"
+        },
+        "S": {
+            "cells": [
+                92,
+                172,
+                63,
+                159,
+                28,
+                48,
+                77,
+                112,
+                12,
+                141
+            ],
+            "answer": "End of story",
+            "hint": "\u201cNothing more to discuss\u201d (3 wds.)"
+        },
+        "T": {
+            "cells": [
+                2,
+                121,
+                67,
+                140,
+                155,
+                107,
+                169,
+                44,
+                79
+            ],
+            "answer": "Scrambled",
+            "hint": "Like some eggs and jets"
+        }
+    }
+}

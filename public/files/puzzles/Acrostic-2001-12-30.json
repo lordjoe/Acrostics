@@ -1,0 +1,363 @@
+{
+    "answer": "Time has no divisions to mark its passage, there is never a thunderstorm or blare of trumpets to announce... a new month or year. Even when a new century begins it is only we mortals who ring bells and fire off pistols.",
+    "author": "Thomas Mann,",
+    "authorCell": [
+        56,
+        5,
+        92,
+        137,
+        87,
+        172,
+        3,
+        156,
+        93,
+        111,
+        1,
+        107,
+        53,
+        59,
+        64,
+        150,
+        11,
+        85,
+        21,
+        146,
+        83,
+        80,
+        19,
+        22,
+        40,
+        81
+    ],
+    "source": "The Magic Mountain",
+    "clues": {
+        "A": {
+            "cells": [
+                56,
+                115,
+                23,
+                72,
+                129,
+                8,
+                100,
+                153
+            ],
+            "answer": "Terminal",
+            "hint": "Coming at the end of a series"
+        },
+        "B": {
+            "cells": [
+                5,
+                43,
+                119,
+                151
+            ],
+            "answer": "Herb",
+            "hint": "Plant whose stems and leaves die after each season\u2019s growth"
+        },
+        "C": {
+            "cells": [
+                92,
+                68,
+                48,
+                112,
+                157
+            ],
+            "answer": "Often",
+            "hint": "More than occasionally"
+        },
+        "D": {
+            "cells": [
+                137,
+                20,
+                84,
+                170,
+                35,
+                60,
+                125,
+                98
+            ],
+            "answer": "Monotony",
+            "hint": "Sentry\u2019s woe"
+        },
+        "E": {
+            "cells": [
+                87,
+                159,
+                61,
+                99,
+                31,
+                145
+            ],
+            "answer": "Afresh",
+            "hint": "Once more"
+        },
+        "F": {
+            "cells": [
+                172,
+                50,
+                116,
+                147,
+                15,
+                30,
+                66
+            ],
+            "answer": "Sunrise",
+            "hint": "Claude Monet\u2019s \u201cImpression: ___\u201d"
+        },
+        "G": {
+            "cells": [
+                3,
+                96,
+                126,
+                41
+            ],
+            "answer": "Moss",
+            "hint": "Growth abundant during the Carboniferous Period"
+        },
+        "H": {
+            "cells": [
+                156,
+                135,
+                6,
+                24,
+                89
+            ],
+            "answer": "Awake",
+            "hint": "No longer dormant"
+        },
+        "I": {
+            "cells": [
+                93,
+                148,
+                105,
+                39,
+                26,
+                127,
+                162,
+                55
+            ],
+            "answer": "Nineties",
+            "hint": "\u201cBelle of the ___\u201d (1934 Mae West film)"
+        },
+        "J": {
+            "cells": [
+                111,
+                57,
+                67,
+                17
+            ],
+            "answer": "Noon",
+            "hint": "What\u2019s signified by both hands pointing up"
+        },
+        "K": {
+            "cells": [
+                1,
+                70,
+                79,
+                109,
+                14,
+                124,
+                34,
+                42,
+                140
+            ],
+            "answer": "Transient",
+            "hint": "Fleeting, fugacious"
+        },
+        "L": {
+            "cells": [
+                107,
+                167,
+                32,
+                117,
+                71,
+                18
+            ],
+            "answer": "Hiatus",
+            "hint": "Slight break in pronunciation between adjacent vowels, as in \u201cso old\u201d"
+        },
+        "M": {
+            "cells": [
+                53,
+                38,
+                130,
+                75,
+                106,
+                95,
+                160,
+                142,
+                86
+            ],
+            "answer": "Erstwhile",
+            "hint": "Quondam, ci-devant"
+        },
+        "N": {
+            "cells": [
+                59,
+                141,
+                120,
+                164,
+                154,
+                16,
+                90,
+                74,
+                46
+            ],
+            "answer": "Mayflower",
+            "hint": "Hotel that hosted Coolidge\u2019s inaugural ball"
+        },
+        "O": {
+            "cells": [
+                64,
+                52,
+                12,
+                102,
+                132,
+                77
+            ],
+            "answer": "Advent",
+            "hint": "Season of prayer and penitence, for some"
+        },
+        "P": {
+            "cells": [
+                150,
+                133,
+                110,
+                27,
+                76
+            ],
+            "answer": "Glass",
+            "hint": "Container for trickling sand"
+        },
+        "Q": {
+            "cells": [
+                11,
+                51,
+                73,
+                97,
+                82,
+                33,
+                139,
+                122,
+                168,
+                155
+            ],
+            "answer": "In progress",
+            "hint": "Happening now (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                85,
+                163,
+                121,
+                144,
+                45,
+                62,
+                7
+            ],
+            "answer": "Cobwebs",
+            "hint": "Indication of antiquity"
+        },
+        "S": {
+            "cells": [
+                21,
+                78,
+                9,
+                158
+            ],
+            "answer": "Mood",
+            "hint": "Temporary state of mind"
+        },
+        "T": {
+            "cells": [
+                146,
+                54,
+                161,
+                104,
+                65,
+                134
+            ],
+            "answer": "Orrery",
+            "hint": "Mechanical model of the solar system"
+        },
+        "U": {
+            "cells": [
+                83,
+                166,
+                10,
+                29,
+                128,
+                108
+            ],
+            "answer": "Update",
+            "hint": "Engage in aggiornamento"
+        },
+        "V": {
+            "cells": [
+                80,
+                13,
+                123,
+                49,
+                69,
+                143,
+                36,
+                2,
+                165,
+                94
+            ],
+            "answer": "Night shift",
+            "hint": "Dogwatch (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                19,
+                113,
+                136,
+                171,
+                44,
+                4
+            ],
+            "answer": "Twelve",
+            "hint": "Point at which a ball drops in a square"
+        },
+        "X": {
+            "cells": [
+                22,
+                149,
+                88,
+                118,
+                47,
+                63
+            ],
+            "answer": "Annual",
+            "hint": "\u201cPoor, dear, silly Spring, preparing her ___ surprise!\u201d (Wallace Stevens)"
+        },
+        "Y": {
+            "cells": [
+                40,
+                91,
+                28,
+                58,
+                138,
+                103
+            ],
+            "answer": "Improv",
+            "hint": "Form of jazz or theater"
+        },
+        "Z": {
+            "cells": [
+                81,
+                152,
+                131,
+                169,
+                37,
+                101,
+                25,
+                114
+            ],
+            "answer": "Neoteric",
+            "hint": "Modern, just originated"
+        }
+    }
+}

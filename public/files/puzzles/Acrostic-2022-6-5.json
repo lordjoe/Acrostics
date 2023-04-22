@@ -1,0 +1,353 @@
+{
+    "answer": "From an early age... I pondered what my mind was and, by analogy, what all minds are. ... I wondered what it would be like to be a girl, to be a native speaker of another language, to be Einstein,... a dog,... an eagle, even... a mosquito.",
+    "author": "Douglas Hofstadter,",
+    "authorCell": [
+        74,
+        163,
+        118,
+        60,
+        27,
+        131,
+        72,
+        106,
+        143,
+        9,
+        144,
+        37,
+        162,
+        75,
+        164,
+        99,
+        70,
+        150,
+        67,
+        154,
+        157,
+        45,
+        3,
+        17,
+        16
+    ],
+    "source": "I Am A Strange Loop",
+    "clues": {
+        "A": {
+            "cells": [
+                74,
+                41,
+                132,
+                87,
+                159,
+                58,
+                20
+            ],
+            "answer": "Hygiene",
+            "hint": "Concern in the food service industry"
+        },
+        "B": {
+            "cells": [
+                163,
+                130,
+                78,
+                21,
+                113,
+                95,
+                7,
+                59
+            ],
+            "answer": "Outraged",
+            "hint": "Quite a bit more than peeved"
+        },
+        "C": {
+            "cells": [
+                118,
+                155,
+                46,
+                24,
+                85,
+                97,
+                11
+            ],
+            "answer": "Flowery",
+            "hint": "Overly ornate, as prose"
+        },
+        "D": {
+            "cells": [
+                60,
+                140,
+                124,
+                102,
+                2
+            ],
+            "answer": "Sneer",
+            "hint": "Something often worn by a movie villain"
+        },
+        "E": {
+            "cells": [
+                27,
+                94,
+                4,
+                111,
+                61,
+                136,
+                153,
+                48
+            ],
+            "answer": "Tampa Bay",
+            "hint": "Longtime home of the Safety Harbor culture (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                131,
+                165,
+                81,
+                105,
+                56,
+                8,
+                32
+            ],
+            "answer": "Aquaman",
+            "hint": "Superhero with a harpoon"
+        },
+        "G": {
+            "cells": [
+                72,
+                100,
+                6,
+                168,
+                49,
+                146,
+                126,
+                88
+            ],
+            "answer": "Don't walk",
+            "hint": "Meaning of a hand held up, palm forward (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                106,
+                65,
+                91,
+                40,
+                15,
+                134
+            ],
+            "answer": "Two-bit",
+            "hint": "Cheap, petty, small-time (hyph.)"
+        },
+        "I": {
+            "cells": [
+                143,
+                86,
+                128,
+                31,
+                43,
+                66
+            ],
+            "answer": "El Nino",
+            "hint": "Force in current events? (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                9,
+                161,
+                64,
+                104,
+                129,
+                148,
+                83
+            ],
+            "answer": "Rain god",
+            "hint": "Tlaloc, to Aztecs (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                144,
+                30,
+                127,
+                47,
+                107,
+                160,
+                14,
+                68
+            ],
+            "answer": "Imagined",
+            "hint": "Make-believe, fanciful"
+        },
+        "L": {
+            "cells": [
+                37,
+                55,
+                114,
+                5,
+                82,
+                96,
+                151,
+                22
+            ],
+            "answer": "Al Kaline",
+            "hint": "Hall-of-Famer with a basic name? (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                162,
+                80,
+                120,
+                63,
+                29,
+                101,
+                44,
+                13,
+                141
+            ],
+            "answer": "Moneybags",
+            "hint": "Fat cat, nabob, plutocrat"
+        },
+        "N": {
+            "cells": [
+                75,
+                52,
+                34,
+                135,
+                117,
+                19
+            ],
+            "answer": "Atwood",
+            "hint": "Writer whose first novel was \u201cThe Edible Woman\u201d (1969)"
+        },
+        "O": {
+            "cells": [
+                164,
+                50,
+                26,
+                1,
+                76
+            ],
+            "answer": "Shaft",
+            "hint": "Film for which Isaac Hayes wrote a popular theme"
+        },
+        "P": {
+            "cells": [
+                99,
+                123,
+                42,
+                145,
+                71
+            ],
+            "answer": "Thane",
+            "hint": "Shakespearean title"
+        },
+        "Q": {
+            "cells": [
+                70,
+                156,
+                25,
+                119,
+                84
+            ],
+            "answer": "Rehab",
+            "hint": "Hit song by Amy Winehouse"
+        },
+        "R": {
+            "cells": [
+                150,
+                166,
+                39,
+                77,
+                92,
+                10,
+                112
+            ],
+            "answer": "Audible",
+            "hint": "Football play called at the line of scrimmage"
+        },
+        "S": {
+            "cells": [
+                67,
+                89,
+                158,
+                35,
+                147,
+                103,
+                18
+            ],
+            "answer": "Nevadan",
+            "hint": "Resident of the Silver State"
+        },
+        "T": {
+            "cells": [
+                154,
+                12,
+                28,
+                138,
+                122,
+                69,
+                110
+            ],
+            "answer": "Gametes",
+            "hint": "Vital elements in multiplication"
+        },
+        "U": {
+            "cells": [
+                157,
+                98,
+                51,
+                142,
+                115,
+                33
+            ],
+            "answer": "Elated",
+            "hint": "Over the moon"
+        },
+        "V": {
+            "cells": [
+                45,
+                121,
+                73,
+                90,
+                57,
+                23,
+                137
+            ],
+            "answer": "Low tide",
+            "hint": "Beach-enlarging event (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                3,
+                125,
+                139,
+                169,
+                54,
+                109
+            ],
+            "answer": "Oriole",
+            "hint": "Official bird of the Old Line State ..."
+        },
+        "X": {
+            "cells": [
+                17,
+                116,
+                53,
+                38,
+                149,
+                133
+            ],
+            "answer": "Orange",
+            "hint": "... and a hue associated with it"
+        },
+        "Y": {
+            "cells": [
+                16,
+                62,
+                152,
+                108,
+                167,
+                93,
+                79,
+                36
+            ],
+            "answer": "Previews",
+            "hint": "What Hollywood trailers provide"
+        }
+    }
+}

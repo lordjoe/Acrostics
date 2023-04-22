@@ -1,0 +1,353 @@
+{
+    "answer": "I am a narrative junkie. I consume stories in all forms. TV shows, novels, dreams, newspaper accounts of kidnappings, murders, heroism, panic, disaster: they all feed the habit. In a way they\u2019re all the same.... I need [my] daily fix.",
+    "author": "Phyllis Rose,",
+    "authorCell": [
+        89,
+        122,
+        168,
+        56,
+        39,
+        84,
+        93,
+        99,
+        104,
+        51,
+        98,
+        8,
+        19,
+        69,
+        58,
+        11,
+        5,
+        92,
+        68,
+        42,
+        22,
+        77,
+        44,
+        10
+    ],
+    "source": "(The Year Of) Reading Proust",
+    "clues": {
+        "A": {
+            "cells": [
+                89,
+                37,
+                167,
+                60,
+                153,
+                125
+            ],
+            "answer": "Pamela",
+            "hint": "Title heroine of a Samuel Richardson tale, 1740"
+        },
+        "B": {
+            "cells": [
+                122,
+                9,
+                46,
+                171,
+                57,
+                133,
+                159,
+                94
+            ],
+            "answer": "Havisham",
+            "hint": "Miss ___, Dickens woman in perpetual wedding dress"
+        },
+        "C": {
+            "cells": [
+                168,
+                102,
+                154,
+                38,
+                49,
+                143
+            ],
+            "answer": "Yellow",
+            "hint": "Sensationally morbid and offensive"
+        },
+        "D": {
+            "cells": [
+                56,
+                90,
+                118,
+                29,
+                172,
+                148,
+                14,
+                76,
+                135,
+                64
+            ],
+            "answer": "Little John",
+            "hint": "Upon first meeting Robin Hood he \u201ctumbl\u2019d him into the brook\u201d (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                39,
+                162,
+                70,
+                108,
+                1
+            ],
+            "answer": "Lippi",
+            "hint": "Florentine monk in a Browning poem"
+        },
+        "F": {
+            "cells": [
+                84,
+                67,
+                6,
+                17,
+                113,
+                105,
+                78,
+                27,
+                158,
+                33,
+                52
+            ],
+            "answer": "Isak Dinesen",
+            "hint": "Author of \u201cSeven Gothic Tales\u201d (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                93,
+                142,
+                82,
+                165
+            ],
+            "answer": "Safe",
+            "hint": "Under lock and key"
+        },
+        "H": {
+            "cells": [
+                99,
+                164,
+                12,
+                140,
+                119,
+                66
+            ],
+            "answer": "Review",
+            "hint": "Work as a critic"
+        },
+        "I": {
+            "cells": [
+                104,
+                176,
+                149,
+                7,
+                156,
+                124,
+                86,
+                74,
+                48,
+                25,
+                115
+            ],
+            "answer": "Oxyrhynchus",
+            "hint": "Egyptian site yielding many ancient literary papyri"
+        },
+        "J": {
+            "cells": [
+                51,
+                157,
+                4,
+                100
+            ],
+            "answer": "Seas",
+            "hint": "Geographical heptad"
+        },
+        "K": {
+            "cells": [
+                98,
+                15,
+                72,
+                145,
+                85,
+                111,
+                21,
+                55
+            ],
+            "answer": "Eurydice",
+            "hint": "Dryad who was killed by a snake while fleeing the advances of Aristaeus"
+        },
+        "L": {
+            "cells": [
+                8,
+                73,
+                117,
+                106,
+                151,
+                127,
+                136,
+                34
+            ],
+            "answer": "Rasselas",
+            "hint": "Prince of Abyssinia in a Samuel Johnson romance"
+        },
+        "M": {
+            "cells": [
+                19,
+                170,
+                63,
+                45,
+                123,
+                141,
+                131
+            ],
+            "answer": "East End",
+            "hint": "Area associated with Cockneys (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                69,
+                121,
+                132,
+                161,
+                16,
+                169
+            ],
+            "answer": "Attend",
+            "hint": "Be a good listener"
+        },
+        "O": {
+            "cells": [
+                58,
+                103,
+                138,
+                40,
+                146,
+                53,
+                128,
+                174
+            ],
+            "answer": "Drift off",
+            "hint": "Be a poor listener (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                11,
+                91,
+                54,
+                71,
+                120,
+                36,
+                129,
+                80,
+                24
+            ],
+            "answer": "Inverness",
+            "hint": "Town known as the Capital of the Highlands"
+        },
+        "Q": {
+            "cells": [
+                5,
+                114,
+                75,
+                83,
+                144,
+                97,
+                61,
+                107,
+                28
+            ],
+            "answer": "Nick Adams",
+            "hint": "Hero in much of Hemingway\u2019s short fiction (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                92,
+                59,
+                35,
+                160,
+                3
+            ],
+            "answer": "Grimm",
+            "hint": "One of a pair of storytelling brothers"
+        },
+        "S": {
+            "cells": [
+                68,
+                41,
+                31,
+                139,
+                175,
+                152
+            ],
+            "answer": "Portia",
+            "hint": "In Shakespeare, the disguised Balthazar\u2019s true identity"
+        },
+        "T": {
+            "cells": [
+                42,
+                2,
+                166,
+                20,
+                81
+            ],
+            "answer": "Radio",
+            "hint": "Police car feature"
+        },
+        "U": {
+            "cells": [
+                22,
+                50,
+                134,
+                110,
+                62,
+                13,
+                87,
+                163,
+                173
+            ],
+            "answer": "Owen Meany",
+            "hint": "John Irving title character (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                77,
+                26,
+                137,
+                32,
+                126,
+                18,
+                112,
+                95,
+                47
+            ],
+            "answer": "Umbilicus",
+            "hint": "Navel"
+        },
+        "W": {
+            "cells": [
+                44,
+                109,
+                96,
+                79,
+                150,
+                130
+            ],
+            "answer": "Sartre",
+            "hint": "French leftist who declined a Nobel Prize in 1964"
+        },
+        "X": {
+            "cells": [
+                10,
+                101,
+                65,
+                88,
+                147,
+                116,
+                23,
+                155,
+                30,
+                43
+            ],
+            "answer": "The Phantom",
+            "hint": "Costumed crime-fighter created by Lee Falk (2 wds.)"
+        }
+    }
+}

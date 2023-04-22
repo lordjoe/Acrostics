@@ -1,0 +1,332 @@
+{
+    "answer": "Hatred is always a sin, my mother told me.... One drop... in your soul will spread and discolor everything like a drop of black ink in white milk. I was struck by that and meant to try it, but knew I shouldn\u2019t waste the milk.",
+    "author": "(Alice) Munro,",
+    "authorCell": [
+        166,
+        118,
+        101,
+        138,
+        88,
+        161,
+        77,
+        84,
+        89,
+        70,
+        47,
+        80,
+        26,
+        106,
+        14,
+        115,
+        33,
+        91,
+        29,
+        67,
+        72,
+        165
+    ],
+    "source": "The Progress Of Love",
+    "clues": {
+        "A": {
+            "cells": [
+                166,
+                13,
+                114,
+                134,
+                82,
+                66,
+                100,
+                150,
+                31
+            ],
+            "answer": "Mysticism",
+            "hint": "Belief of a yogi or Gnostic"
+        },
+        "B": {
+            "cells": [
+                118,
+                18,
+                158,
+                56,
+                97,
+                144,
+                3,
+                73,
+                41
+            ],
+            "answer": "Unwritten",
+            "hint": "Based on custom rather than documentation"
+        },
+        "C": {
+            "cells": [
+                101,
+                136,
+                63,
+                86,
+                162,
+                36
+            ],
+            "answer": "Nodded",
+            "hint": "Gave assent without saying so"
+        },
+        "D": {
+            "cells": [
+                138,
+                35,
+                23,
+                124,
+                51,
+                79,
+                99
+            ],
+            "answer": "Rethink",
+            "hint": "Consider from a new angle"
+        },
+        "E": {
+            "cells": [
+                88,
+                109,
+                129,
+                147,
+                34,
+                62,
+                2,
+                20,
+                160
+            ],
+            "answer": "Olden days",
+            "hint": "Times of yore (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                161,
+                37,
+                127,
+                54,
+                1,
+                141,
+                113,
+                68,
+                96
+            ],
+            "answer": "Trash talk",
+            "hint": "Taunts and boasts between rival players (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                77,
+                94,
+                61,
+                155,
+                46,
+                6,
+                28,
+                112,
+                128
+            ],
+            "answer": "Hands down",
+            "hint": "Without there being a close second (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                84,
+                53,
+                19,
+                69
+            ],
+            "answer": "Elmo",
+            "hint": "Furry red monster with a falsetto voice"
+        },
+        "I": {
+            "cells": [
+                89,
+                108,
+                133,
+                169,
+                16,
+                52,
+                64,
+                39
+            ],
+            "answer": "Pink slip",
+            "hint": "Let go (hyph.)"
+        },
+        "J": {
+            "cells": [
+                70,
+                90,
+                119,
+                145,
+                164,
+                9,
+                21,
+                107,
+                131,
+                45
+            ],
+            "answer": "Rock hammer",
+            "hint": "Tool for a geological outing (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                47,
+                121,
+                105,
+                143,
+                8,
+                32
+            ],
+            "answer": "Obtuse",
+            "hint": "Displaying not much acumen"
+        },
+        "L": {
+            "cells": [
+                80,
+                44,
+                93,
+                10,
+                57,
+                137
+            ],
+            "answer": "Gullet",
+            "hint": "Way to a man\u2019s stomach"
+        },
+        "M": {
+            "cells": [
+                26,
+                71,
+                130,
+                111,
+                157
+            ],
+            "answer": "Remit",
+            "hint": "Instruction on a bill"
+        },
+        "N": {
+            "cells": [
+                106,
+                58,
+                74,
+                168,
+                42,
+                92,
+                149,
+                4,
+                30
+            ],
+            "answer": "Early bird",
+            "hint": "One determined not to miss out (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                14,
+                98,
+                38,
+                148,
+                163,
+                78,
+                117,
+                25
+            ],
+            "answer": "Snow tire",
+            "hint": "Apt anagram of \u201cwinter\u2019s O\u201d (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                115,
+                81,
+                152,
+                11,
+                55,
+                40,
+                135,
+                95,
+                24
+            ],
+            "answer": "Slow-pitch",
+            "hint": "Kind of ball game with few strikeouts (hyph.)"
+        },
+        "Q": {
+            "cells": [
+                33,
+                7,
+                49,
+                116,
+                132,
+                146,
+                83
+            ],
+            "answer": "Oil tank",
+            "hint": "Crude storage unit (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                91,
+                140,
+                65,
+                103,
+                151,
+                43,
+                22,
+                120
+            ],
+            "answer": "Fishhook",
+            "hint": "What has an eye, a shank, a bend and a barb"
+        },
+        "S": {
+            "cells": [
+                29,
+                159,
+                75,
+                60,
+                102,
+                12,
+                122
+            ],
+            "answer": "Layaway",
+            "hint": "Save-it-for-me plan"
+        },
+        "T": {
+            "cells": [
+                67,
+                110,
+                17,
+                156,
+                125,
+                50,
+                85
+            ],
+            "answer": "Okinawa",
+            "hint": "Where karate originated"
+        },
+        "U": {
+            "cells": [
+                72,
+                15,
+                154,
+                104,
+                59,
+                167,
+                123,
+                139
+            ],
+            "answer": "Validity",
+            "hint": "Legal force or soundness"
+        },
+        "V": {
+            "cells": [
+                165,
+                126,
+                76,
+                48,
+                142,
+                87,
+                153,
+                27,
+                5
+            ],
+            "answer": "\u201cEt tu, Brute?\u201d",
+            "hint": "Rebuke at a betrayal (3 wds.)"
+        }
+    }
+}

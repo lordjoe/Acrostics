@@ -1,0 +1,354 @@
+{
+    "answer": "The Mentally Ill Mathematician seems now... to be what the Knight Errant,... Tortured Artist, and Mad Scientist have been for other eras: our Prometheus,... who goes to forbidden places and returns with gifts... he alone pays for.",
+    "author": "(David Foster) Wallace,",
+    "authorCell": [
+        121,
+        42,
+        167,
+        14,
+        8,
+        24,
+        104,
+        126,
+        90,
+        94,
+        112,
+        173,
+        116,
+        88,
+        23,
+        57,
+        124,
+        16,
+        33,
+        78,
+        15,
+        176,
+        55,
+        39
+    ],
+    "source": "Everything And More",
+    "clues": {
+        "A": {
+            "cells": [
+                121,
+                12,
+                75,
+                162,
+                45,
+                107
+            ],
+            "answer": "Widths",
+            "hint": "\u201cSome people are afraid of heights. I\u2019m afraid of ___.\u201d (Steven Wright)"
+        },
+        "B": {
+            "cells": [
+                42,
+                98,
+                80,
+                117,
+                149,
+                59,
+                11,
+                171,
+                30
+            ],
+            "answer": "Archetype",
+            "hint": "What\u2019s copied by succeeding models"
+        },
+        "C": {
+            "cells": [
+                167,
+                41,
+                56,
+                120,
+                67,
+                21,
+                139,
+                79,
+                99
+            ],
+            "answer": "Lhasa apso",
+            "hint": "Dog breed developed to guard monasteries (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                14,
+                91,
+                50,
+                164,
+                131,
+                103,
+                74
+            ],
+            "answer": "Leghorn",
+            "hint": "Breed of chicken named for an Italian city"
+        },
+        "E": {
+            "cells": [
+                8,
+                114,
+                86,
+                44,
+                170,
+                132,
+                66,
+                145,
+                31
+            ],
+            "answer": "Amsterdam",
+            "hint": "Where Heineken was founded"
+        },
+        "F": {
+            "cells": [
+                24,
+                51,
+                118,
+                144,
+                71,
+                4,
+                102,
+                169
+            ],
+            "answer": "Chessmen",
+            "hint": "Forces deployed by Paul Morphy"
+        },
+        "G": {
+            "cells": [
+                104,
+                172,
+                64,
+                43,
+                158,
+                28,
+                82,
+                141
+            ],
+            "answer": "Earthsea",
+            "hint": "Realm in Ursula K. Le Guin\u2019s \u201cTehanu\u201d"
+        },
+        "H": {
+            "cells": [
+                126,
+                48,
+                72,
+                160,
+                100,
+                13,
+                29,
+                147
+            ],
+            "answer": "Entitled",
+            "hint": "Opposite of undeserving"
+        },
+        "I": {
+            "cells": [
+                90,
+                165,
+                148,
+                127,
+                22
+            ],
+            "answer": "Verst",
+            "hint": "Russian measure equal to 3,500 feet"
+        },
+        "J": {
+            "cells": [
+                94,
+                110,
+                37,
+                174
+            ],
+            "answer": "Eros",
+            "hint": "God born of Chaos, per Hesiod"
+        },
+        "K": {
+            "cells": [
+                112,
+                97,
+                17,
+                84,
+                155,
+                5,
+                49,
+                140,
+                65,
+                177
+            ],
+            "answer": "Rottweiler",
+            "hint": "Herder named for a German town"
+        },
+        "L": {
+            "cells": [
+                173,
+                113,
+                63,
+                157,
+                18,
+                134,
+                83,
+                47
+            ],
+            "answer": "\u201cYou think?\u201d",
+            "hint": "Sarcastic reply to an obvious statement (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                116,
+                61,
+                89,
+                135,
+                19,
+                34,
+                161,
+                175
+            ],
+            "answer": "Trade-off",
+            "hint": "Result of a compromise (hyph.)"
+        },
+        "N": {
+            "cells": [
+                88,
+                108,
+                53,
+                136,
+                123,
+                40,
+                153
+            ],
+            "answer": "Hoedown",
+            "hint": "Occasion for much fiddling"
+        },
+        "O": {
+            "cells": [
+                23,
+                6,
+                154,
+                52,
+                81,
+                95,
+                142,
+                69
+            ],
+            "answer": "Instinct",
+            "hint": "Motivation that\u2019s hard to override"
+        },
+        "P": {
+            "cells": [
+                57,
+                125,
+                27,
+                111,
+                10,
+                151,
+                163
+            ],
+            "answer": "Nonplus",
+            "hint": "Leave completely puzzled"
+        },
+        "Q": {
+            "cells": [
+                124,
+                77,
+                105,
+                152,
+                93,
+                62
+            ],
+            "answer": "Garret",
+            "hint": "Space under a pitched roof"
+        },
+        "R": {
+            "cells": [
+                16,
+                119,
+                36,
+                60,
+                76,
+                106,
+                150,
+                168,
+                138
+            ],
+            "answer": "Automaton",
+            "hint": "Person who acts like a robot"
+        },
+        "S": {
+            "cells": [
+                33,
+                85,
+                130,
+                9,
+                101,
+                115,
+                156,
+                20
+            ],
+            "answer": "Niflheim",
+            "hint": "Underworld region of mist and cold, in Norse myth"
+        },
+        "T": {
+            "cells": [
+                78,
+                46,
+                96,
+                3,
+                26,
+                128
+            ],
+            "answer": "Defeat",
+            "hint": "Something you go down to"
+        },
+        "U": {
+            "cells": [
+                15,
+                73,
+                58,
+                87,
+                122,
+                137,
+                35
+            ],
+            "answer": "Matthew",
+            "hint": "Sermon on the Mount source"
+        },
+        "V": {
+            "cells": [
+                176,
+                54,
+                38,
+                25,
+                1,
+                143,
+                68
+            ],
+            "answer": "Orbiter",
+            "hint": "One making long round trips"
+        },
+        "W": {
+            "cells": [
+                55,
+                166,
+                92,
+                133,
+                70,
+                7,
+                32
+            ],
+            "answer": "Rabbits",
+            "hint": "What Steinbeck\u2019s Lennie Small dreams of raising"
+        },
+        "X": {
+            "cells": [
+                39,
+                146,
+                129,
+                109,
+                159,
+                2
+            ],
+            "answer": "Enough",
+            "hint": "\u201cUncle!\u201d"
+        }
+    }
+}

@@ -1,0 +1,350 @@
+{
+    "answer": "I open with a clock striking, to beget an awful attention in the audience: it also marks the time, which is four o\u2019clock..., and saves a description of the rising sun, and a great deal about gilding the eastern hemisphere.",
+    "author": "Richard (Brinsley) Sheridan,",
+    "authorCell": [
+        120,
+        112,
+        14,
+        164,
+        62,
+        172,
+        54,
+        84,
+        118,
+        105,
+        68,
+        121,
+        131,
+        31,
+        5,
+        17,
+        82,
+        101,
+        11,
+        162,
+        55,
+        117,
+        123,
+        81
+    ],
+    "source": "The Critic",
+    "clues": {
+        "A": {
+            "cells": [
+                120,
+                56,
+                85,
+                145,
+                98,
+                67,
+                37
+            ],
+            "answer": "Refusal",
+            "hint": "Act of noncompliance"
+        },
+        "B": {
+            "cells": [
+                112,
+                93,
+                173,
+                26,
+                149,
+                7,
+                42,
+                69
+            ],
+            "answer": "Iceblink",
+            "hint": "Yellow glow on a polar cloud"
+        },
+        "C": {
+            "cells": [
+                14,
+                136,
+                35,
+                154,
+                52,
+                114
+            ],
+            "answer": "Caftan",
+            "hint": "Long, loose robe"
+        },
+        "D": {
+            "cells": [
+                164,
+                36,
+                66,
+                83,
+                97,
+                1,
+                16,
+                49,
+                132,
+                146
+            ],
+            "answer": "Humidistat",
+            "hint": "Instrument often found in a greenhouse"
+        },
+        "E": {
+            "cells": [
+                62,
+                150,
+                86,
+                46,
+                109,
+                126
+            ],
+            "answer": "Adonis",
+            "hint": "Object of Aphrodite\u2019s affections"
+        },
+        "F": {
+            "cells": [
+                172,
+                13,
+                87,
+                28,
+                50,
+                127,
+                110
+            ],
+            "answer": "Rough up",
+            "hint": "Manhandle (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                54,
+                135,
+                116,
+                18,
+                89,
+                70,
+                160
+            ],
+            "answer": "Defrost",
+            "hint": "Get ready to cook, in a way"
+        },
+        "H": {
+            "cells": [
+                84,
+                9,
+                44,
+                57,
+                157,
+                108
+            ],
+            "answer": "Shiner",
+            "hint": "Black eye"
+        },
+        "I": {
+            "cells": [
+                118,
+                45,
+                30,
+                90,
+                142,
+                15,
+                77,
+                159
+            ],
+            "answer": "\u201cHotcakes\"",
+            "hint": "Aptly popular Carly Simon album of 1974?"
+        },
+        "J": {
+            "cells": [
+                105,
+                19,
+                147,
+                170,
+                40,
+                59,
+                73,
+                128
+            ],
+            "answer": "Eighteen",
+            "hint": "Majority in 47 of the United States"
+        },
+        "K": {
+            "cells": [
+                68,
+                51,
+                6,
+                21,
+                124,
+                138
+            ],
+            "answer": "Rewind",
+            "hint": "Back up on a cassette"
+        },
+        "L": {
+            "cells": [
+                121,
+                166,
+                99,
+                133,
+                75,
+                152,
+                27
+            ],
+            "answer": "Imagine",
+            "hint": "Fancy, reckon, suppose"
+        },
+        "M": {
+            "cells": [
+                131,
+                115,
+                100,
+                165,
+                71,
+                38,
+                148,
+                12
+            ],
+            "answer": "Dovetail",
+            "hint": "Fit together neatly"
+        },
+        "N": {
+            "cells": [
+                31,
+                143,
+                122,
+                161,
+                48,
+                8
+            ],
+            "answer": "Absent",
+            "hint": "Lost in thought; away"
+        },
+        "O": {
+            "cells": [
+                5,
+                167,
+                23,
+                72,
+                61,
+                34,
+                119,
+                103,
+                88
+            ],
+            "answer": "Nightwear",
+            "hint": "Sack dress?"
+        },
+        "P": {
+            "cells": [
+                17,
+                65,
+                47,
+                91,
+                156,
+                104
+            ],
+            "answer": "Toiled",
+            "hint": "Put in long, hard hours"
+        },
+        "Q": {
+            "cells": [
+                82,
+                171,
+                3,
+                43,
+                129,
+                153,
+                92,
+                22
+            ],
+            "answer": "Heptagon",
+            "hint": "Shape of a British 50-pence coin"
+        },
+        "R": {
+            "cells": [
+                101,
+                125,
+                144,
+                80,
+                64,
+                24
+            ],
+            "answer": "Egoist",
+            "hint": "Number one fan?"
+        },
+        "S": {
+            "cells": [
+                11,
+                158,
+                76,
+                29,
+                141,
+                113,
+                39
+            ],
+            "answer": "\"Camelot\u201d",
+            "hint": "1967 film starring Richard Harris and Vanessa Redgrave"
+        },
+        "T": {
+            "cells": [
+                162,
+                10,
+                32,
+                106,
+                140,
+                58,
+                94
+            ],
+            "answer": "Ransack",
+            "hint": "Search with abandon"
+        },
+        "U": {
+            "cells": [
+                55,
+                163,
+                107,
+                79,
+                25,
+                95,
+                137,
+                4
+            ],
+            "answer": "Inchoate",
+            "hint": "Not yet fully developed"
+        },
+        "V": {
+            "cells": [
+                117,
+                78,
+                151,
+                130,
+                20,
+                63,
+                41,
+                168
+            ],
+            "answer": "Twinkles",
+            "hint": "Shows flashes of brilliance"
+        },
+        "W": {
+            "cells": [
+                123,
+                33,
+                169,
+                139,
+                74,
+                53,
+                102
+            ],
+            "answer": "Iapetus",
+            "hint": "Saturn\u2019s third-largest moon"
+        },
+        "X": {
+            "cells": [
+                81,
+                2,
+                134,
+                60,
+                96,
+                111,
+                155
+            ],
+            "answer": "Corinth",
+            "hint": "Home of the ancient Isthmian Games"
+        }
+    }
+}

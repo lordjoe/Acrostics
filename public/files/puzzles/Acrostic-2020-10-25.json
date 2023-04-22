@@ -1,0 +1,362 @@
+{
+    "answer": "Rogarou... was a dog, a man, a wolf. He was clothed, he was naked in his fur, he wore moccasins to jig. He was whatever made you shiver but he was always there,... whistling to the stars so that they pulsed bright in the navy sky... .",
+    "author": "Cherie Dimaline,",
+    "authorCell": [
+        29,
+        115,
+        44,
+        53,
+        96,
+        55,
+        35,
+        66,
+        60,
+        15,
+        109,
+        156,
+        161,
+        85,
+        25,
+        16,
+        148,
+        160,
+        58,
+        75,
+        57,
+        51,
+        79,
+        72,
+        22,
+        89
+    ],
+    "source": "Empire of Wild",
+    "clues": {
+        "A": {
+            "cells": [
+                29,
+                54,
+                164,
+                76,
+                134,
+                2,
+                112
+            ],
+            "answer": "Chew toy",
+            "hint": "Pet\u2019s plaything (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                115,
+                61,
+                73,
+                8,
+                88,
+                136,
+                32,
+                151
+            ],
+            "answer": "Hogwarts",
+            "hint": "School with an emphasis on spelling?"
+        },
+        "C": {
+            "cells": [
+                44,
+                168,
+                98,
+                28,
+                145,
+                64,
+                12,
+                129,
+                110
+            ],
+            "answer": "Eye shadow",
+            "hint": "Enhancer of many a gothic Halloween character (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                53,
+                13,
+                130,
+                144,
+                37,
+                86
+            ],
+            "answer": "Rotter",
+            "hint": "Bad egg"
+        },
+        "E": {
+            "cells": [
+                96,
+                67,
+                167,
+                152,
+                5,
+                114,
+                83,
+                45
+            ],
+            "answer": "Inverted",
+            "hint": "Flipped over"
+        },
+        "F": {
+            "cells": [
+                55,
+                147,
+                105,
+                27
+            ],
+            "answer": "Eywa",
+            "hint": "Mother goddess in \u201cAvatar\u201d"
+        },
+        "G": {
+            "cells": [
+                35,
+                108,
+                91,
+                150,
+                125,
+                14,
+                163,
+                69
+            ],
+            "answer": "Daylight",
+            "hint": "Anathema to vampires"
+        },
+        "H": {
+            "cells": [
+                66,
+                153,
+                81,
+                48,
+                21
+            ],
+            "answer": "Idaho",
+            "hint": "Home of the Shoshone-Bannock Tribes"
+        },
+        "I": {
+            "cells": [
+                60,
+                171,
+                102,
+                36,
+                138
+            ],
+            "answer": "Myths",
+            "hint": "Pandora\u2019s box and the 12 labors of Hercules, e.g."
+        },
+        "J": {
+            "cells": [
+                15,
+                159,
+                95,
+                132,
+                41,
+                77
+            ],
+            "answer": "Athena",
+            "hint": "Enemy of the heroine in Madeline Miller\u2019s \u201cCirce\u201d"
+        },
+        "K": {
+            "cells": [
+                109,
+                149,
+                1,
+                62,
+                33
+            ],
+            "answer": "Lurch",
+            "hint": "Butler to the Addams family"
+        },
+        "L": {
+            "cells": [
+                156,
+                84,
+                17,
+                47,
+                131,
+                31,
+                116
+            ],
+            "answer": "Ivanhoe",
+            "hint": "Knight who rode to rescue an accused witch"
+        },
+        "M": {
+            "cells": [
+                161,
+                9,
+                101,
+                127,
+                80,
+                143
+            ],
+            "answer": "Naught",
+            "hint": "What futile efforts come to"
+        },
+        "N": {
+            "cells": [
+                85,
+                4,
+                99,
+                26,
+                49,
+                157,
+                113
+            ],
+            "answer": "Earwigs",
+            "hint": "Creatures with wings and pincers"
+        },
+        "O": {
+            "cells": [
+                25,
+                38,
+                111,
+                94,
+                128,
+                59
+            ],
+            "answer": "E-waste",
+            "hint": "Discarded computers, e.g. (hyph.)"
+        },
+        "P": {
+            "cells": [
+                16,
+                92,
+                74,
+                166,
+                56,
+                43,
+                122
+            ],
+            "answer": "Mohawks",
+            "hint": "Cuts for some punky trick-or-treaters"
+        },
+        "Q": {
+            "cells": [
+                148,
+                103,
+                19,
+                165,
+                123,
+                42,
+                68,
+                87
+            ],
+            "answer": "Phantasm",
+            "hint": "Ghost, illusion; figment of the imagination"
+        },
+        "R": {
+            "cells": [
+                160,
+                65,
+                23,
+                39,
+                141,
+                106,
+                126
+            ],
+            "answer": "Isfahan",
+            "hint": "Iranian city once Persia\u2019s capital"
+        },
+        "S": {
+            "cells": [
+                58,
+                7,
+                137,
+                104,
+                78
+            ],
+            "answer": "Ruses",
+            "hint": "Wiles of a trickster"
+        },
+        "T": {
+            "cells": [
+                75,
+                117,
+                34,
+                154,
+                93,
+                169
+            ],
+            "answer": "Erebus",
+            "hint": "Darkness personified"
+        },
+        "U": {
+            "cells": [
+                57,
+                71,
+                121,
+                100,
+                20,
+                135
+            ],
+            "answer": "Ojibwa",
+            "hint": "Tribe of the Lake Superior region"
+        },
+        "V": {
+            "cells": [
+                51,
+                70,
+                30,
+                170,
+                140,
+                11,
+                124,
+                90,
+                107
+            ],
+            "answer": "Folktales",
+            "hint": "Stories of Pecos Bill or the Pied Piper (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                79,
+                24,
+                139,
+                50,
+                119,
+                158,
+                6
+            ],
+            "answer": "Who's who",
+            "hint": "Roster of those worth rostering (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                72,
+                155,
+                97,
+                46,
+                18,
+                3
+            ],
+            "answer": "Irving",
+            "hint": "\u201cThe Legend of Sleepy Hollow\u201d author"
+        },
+        "Y": {
+            "cells": [
+                22,
+                118,
+                40,
+                162,
+                142,
+                82
+            ],
+            "answer": "Lestat",
+            "hint": "Vampire played by Tom Cruise"
+        },
+        "Z": {
+            "cells": [
+                89,
+                52,
+                63,
+                120,
+                146,
+                10,
+                133
+            ],
+            "answer": "Duchess",
+            "hint": "Wonderland\u2019s owner of the Cheshire Cat, with \u201cthe\u201d"
+        }
+    }
+}

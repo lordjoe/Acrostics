@@ -1,0 +1,361 @@
+{
+    "answer": "I prefer to believe that inside every television there lives a community of... thumb-size actors.... Fickle gnomes control the weather, and an air conditioner is powered by a team of squirrels, their cheeks packed with ice.",
+    "author": "(David) Sedaris,",
+    "authorCell": [
+        51,
+        35,
+        110,
+        138,
+        95,
+        70,
+        90,
+        56,
+        50,
+        104,
+        166,
+        34,
+        163,
+        2,
+        30,
+        125,
+        32,
+        60,
+        61,
+        54,
+        58,
+        140,
+        135,
+        141,
+        137
+    ],
+    "source": "Me Talk Pretty One Day",
+    "clues": {
+        "A": {
+            "cells": [
+                51,
+                62,
+                83,
+                172,
+                25
+            ],
+            "answer": "Solid",
+            "hint": "Free of cavities"
+        },
+        "B": {
+            "cells": [
+                35,
+                5,
+                79,
+                97,
+                57,
+                49,
+                122,
+                147,
+                142
+            ],
+            "answer": "Effluvium",
+            "hint": "Outflow in the form of a vapor; aura"
+        },
+        "C": {
+            "cells": [
+                110,
+                48,
+                81,
+                161
+            ],
+            "answer": "Dice",
+            "hint": "\u201cWine loved I deeply, ___ dearly\u201d (\u201cKing Lear\u201d)"
+        },
+        "D": {
+            "cells": [
+                138,
+                29,
+                109,
+                44,
+                148,
+                170
+            ],
+            "answer": "\u201cAeneid\"",
+            "hint": "Poem that begins \u201cI sing of arms and the man ...\u201d"
+        },
+        "E": {
+            "cells": [
+                95,
+                169,
+                10,
+                26,
+                159,
+                74,
+                113
+            ],
+            "answer": "\"Rebecca\"",
+            "hint": "Oscar-winning film in which the title character never appears"
+        },
+        "F": {
+            "cells": [
+                70,
+                41,
+                139,
+                155,
+                16,
+                107,
+                177,
+                119
+            ],
+            "answer": "In the red",
+            "hint": "Failing at business (3 wds.)"
+        },
+        "G": {
+            "cells": [
+                90,
+                43,
+                59,
+                152,
+                143,
+                18
+            ],
+            "answer": "Shiloh",
+            "hint": "Civil War battle of April 6-7, 1862"
+        },
+        "H": {
+            "cells": [
+                56,
+                21,
+                7,
+                77,
+                92,
+                133,
+                145
+            ],
+            "answer": "Mirrors",
+            "hint": "Explanation for some magic tricks"
+        },
+        "I": {
+            "cells": [
+                50,
+                36,
+                151,
+                124,
+                69,
+                173,
+                106,
+                28,
+                132,
+                93
+            ],
+            "answer": "Even-steven",
+            "hint": "With accounts settled to mutual satisfaction (hyph.)"
+        },
+        "J": {
+            "cells": [
+                104,
+                117,
+                55,
+                40,
+                158,
+                3,
+                87,
+                131
+            ],
+            "answer": "\"Tomorrow\u201d",
+            "hint": "Hit song from a 1977 musical by Charnin and Strouse"
+        },
+        "K": {
+            "cells": [
+                166,
+                33,
+                128,
+                24,
+                115
+            ],
+            "answer": "Aesir",
+            "hint": "The residents of Asgard"
+        },
+        "L": {
+            "cells": [
+                34,
+                157,
+                144,
+                6,
+                68,
+                123,
+                19,
+                75
+            ],
+            "answer": "Lifeboat",
+            "hint": "Provision in case of abandonment"
+        },
+        "M": {
+            "cells": [
+                163,
+                120,
+                53,
+                168,
+                153,
+                65,
+                73,
+                101,
+                23
+            ],
+            "answer": "Kickshaws",
+            "hint": "Trifles or gewgaws; fancy foods or delicacies"
+        },
+        "N": {
+            "cells": [
+                2,
+                175,
+                146,
+                66,
+                46
+            ],
+            "answer": "Pique",
+            "hint": "Ruffled pride"
+        },
+        "O": {
+            "cells": [
+                30,
+                156,
+                15,
+                84,
+                45,
+                89
+            ],
+            "answer": "Revere",
+            "hint": "Subject of a popular but inaccurate ballad of 1861"
+        },
+        "P": {
+            "cells": [
+                125,
+                149,
+                37,
+                167,
+                91,
+                12,
+                103,
+                129,
+                64,
+                76,
+                22
+            ],
+            "answer": "Eric Clapton",
+            "hint": "Bluesy Brit inducted into the Rock and Roll Hall of Fame in 2000 (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                32,
+                105,
+                126,
+                72,
+                11,
+                165,
+                134,
+                52,
+                94
+            ],
+            "answer": "Threepeat",
+            "hint": "Slangy term for a sports champion\u2019s achievement"
+        },
+        "R": {
+            "cells": [
+                60,
+                171,
+                96,
+                136,
+                1,
+                20
+            ],
+            "answer": "Two-bit",
+            "hint": "Cheap; mediocre (hyph.)"
+        },
+        "S": {
+            "cells": [
+                61,
+                111,
+                38,
+                121,
+                150,
+                71,
+                102,
+                88,
+                164,
+                82,
+                13
+            ],
+            "answer": "Yastrzemski",
+            "hint": "1967 Triple Crown winner in baseball"
+        },
+        "T": {
+            "cells": [
+                54,
+                154,
+                42,
+                130,
+                99,
+                108,
+                174,
+                118
+            ],
+            "answer": "Otto Hahn",
+            "hint": "German chemist, co-discoverer of nuclear fission (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                58,
+                127,
+                176,
+                14,
+                98,
+                31
+            ],
+            "answer": "Nicety",
+            "hint": "Delicate point; fine distinction"
+        },
+        "V": {
+            "cells": [
+                140,
+                114,
+                85,
+                160,
+                8
+            ],
+            "answer": "Eight",
+            "hint": "Complement for some shells"
+        },
+        "W": {
+            "cells": [
+                135,
+                162,
+                63,
+                80,
+                116,
+                39,
+                17
+            ],
+            "answer": "Deficit",
+            "hint": "Perennial concern of economists"
+        },
+        "X": {
+            "cells": [
+                141,
+                47,
+                9,
+                112,
+                100
+            ],
+            "answer": "Alone",
+            "hint": "Peerless"
+        },
+        "Y": {
+            "cells": [
+                137,
+                4,
+                78,
+                67,
+                27,
+                86
+            ],
+            "answer": "Yes-men",
+            "hint": "Their affirmatives are a negative (hyph.)"
+        }
+    }
+}

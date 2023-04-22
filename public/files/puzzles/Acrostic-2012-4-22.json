@@ -1,0 +1,361 @@
+{
+    "answer": "Our word \u201chuman\u201c comes from the... root dhghem, meaning simply \"earth.\u201d The most telling cognate word is \u201chumus,\u201d the primary product of microbial industry. ... It gives a new... spin, to the old cliche for an apology: \"Sorry, I\u2019m only human.\u201d",
+    "author": "Lewis Thomas,",
+    "authorCell": [
+        46,
+        149,
+        74,
+        124,
+        84,
+        28,
+        32,
+        57,
+        168,
+        37,
+        132,
+        103,
+        3,
+        155,
+        69,
+        64,
+        158,
+        73,
+        117,
+        88,
+        48,
+        100,
+        43,
+        55,
+        42
+    ],
+    "source": "(The) Fragile Species",
+    "clues": {
+        "A": {
+            "cells": [
+                46,
+                92,
+                77,
+                172,
+                150,
+                126,
+                25,
+                12
+            ],
+            "answer": "Lady fern",
+            "hint": "Feathery plant for a woodland garden (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                149,
+                106,
+                169,
+                72,
+                94,
+                133,
+                24
+            ],
+            "answer": "Ecotype",
+            "hint": "Environmental subgroup"
+        },
+        "C": {
+            "cells": [
+                74,
+                54,
+                176,
+                104,
+                26
+            ],
+            "answer": "Wham-O",
+            "hint": "Maker of Hacky Sacks and Frisbees (hyph.)"
+        },
+        "D": {
+            "cells": [
+                124,
+                38,
+                143,
+                90,
+                174,
+                56
+            ],
+            "answer": "Indium",
+            "hint": "Element named for its blue spectral lines"
+        },
+        "E": {
+            "cells": [
+                84,
+                105,
+                177,
+                160,
+                142,
+                36,
+                127
+            ],
+            "answer": "Singles",
+            "hint": "Like some bars or tennis matches"
+        },
+        "F": {
+            "cells": [
+                28,
+                157,
+                44,
+                60,
+                139,
+                2,
+                91,
+                109
+            ],
+            "answer": "Tom Thumb",
+            "hint": "Mouse-riding Arthurian knight of lore (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                32,
+                151,
+                66,
+                131,
+                110,
+                171,
+                7
+            ],
+            "answer": "Hog-wild",
+            "hint": "Gaga, overflowing with enthusiasm (hyph.)"
+        },
+        "H": {
+            "cells": [
+                57,
+                8,
+                148,
+                87,
+                40,
+                107,
+                166
+            ],
+            "answer": "Oh Henry!",
+            "hint": "Classic candy bar (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                168,
+                78,
+                98,
+                59,
+                33,
+                119,
+                15
+            ],
+            "answer": "Midterm",
+            "hint": "Halfway point in a presidential election cycle"
+        },
+        "J": {
+            "cells": [
+                37,
+                146,
+                165,
+                4,
+                68,
+                19,
+                53,
+                80,
+                120
+            ],
+            "answer": "Airworthy",
+            "hint": "O.K. to fly"
+        },
+        "K": {
+            "cells": [
+                132,
+                118,
+                93,
+                11,
+                154,
+                29
+            ],
+            "answer": "Strand",
+            "hint": "Leave in the lurch; thread or fiber"
+        },
+        "L": {
+            "cells": [
+                103,
+                141,
+                31,
+                52,
+                163,
+                76,
+                129
+            ],
+            "answer": "Foghorn",
+            "hint": "Loud alternative to a lighthouse"
+        },
+        "M": {
+            "cells": [
+                3,
+                86,
+                18,
+                71,
+                147,
+                51,
+                102,
+                164
+            ],
+            "answer": "Rh factor",
+            "hint": "Concern for certain banks (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                155,
+                135,
+                113,
+                10,
+                83,
+                58
+            ],
+            "answer": "Animus",
+            "hint": "Hatred, hostility, loathing"
+        },
+        "O": {
+            "cells": [
+                69,
+                5,
+                97,
+                115,
+                50,
+                167,
+                144,
+                23
+            ],
+            "answer": "Goodrich",
+            "hint": "Benjamin Franklin who founded a rubber company"
+        },
+        "P": {
+            "cells": [
+                64,
+                21,
+                45,
+                89,
+                108,
+                125
+            ],
+            "answer": "Improv",
+            "hint": "\u201cWhose Line Is It Anyway?\u201d genre"
+        },
+        "Q": {
+            "cells": [
+                158,
+                116,
+                175,
+                39,
+                70,
+                137,
+                99,
+                17
+            ],
+            "answer": "Luminous",
+            "hint": "Filled with light, brilliant"
+        },
+        "R": {
+            "cells": [
+                73,
+                6,
+                123,
+                27,
+                85
+            ],
+            "answer": "Ergot",
+            "hint": "Fungal cause of St. Anthony\u2019s fire"
+        },
+        "S": {
+            "cells": [
+                117,
+                153,
+                47,
+                81,
+                170,
+                13,
+                62,
+                130
+            ],
+            "answer": "Say uncle",
+            "hint": "Throw in the towel (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                88,
+                112,
+                9,
+                136,
+                49,
+                152,
+                67,
+                30
+            ],
+            "answer": "Plutarch",
+            "hint": "Greek author of \u201cParallel Lives\u201d"
+        },
+        "U": {
+            "cells": [
+                48,
+                34,
+                75,
+                101,
+                134,
+                159,
+                114
+            ],
+            "answer": "Emotion",
+            "hint": "What someone with alexithymia can\u2019t express"
+        },
+        "V": {
+            "cells": [
+                100,
+                1,
+                82,
+                156,
+                16,
+                138,
+                121,
+                65,
+                41
+            ],
+            "answer": "Competing",
+            "hint": "Active in sports, business or evolution"
+        },
+        "W": {
+            "cells": [
+                43,
+                79,
+                14,
+                95,
+                63,
+                140,
+                122,
+                173
+            ],
+            "answer": "Isopleth",
+            "hint": "Line connecting equal values on a map"
+        },
+        "X": {
+            "cells": [
+                55,
+                35,
+                20,
+                96,
+                161
+            ],
+            "answer": "Emory",
+            "hint": "Atlanta campus boasting many a \u201cgreen\u201d building"
+        },
+        "Y": {
+            "cells": [
+                42,
+                61,
+                128,
+                162,
+                111,
+                145,
+                22
+            ],
+            "answer": "Sea salt",
+            "hint": "Much of the atmosphere\u2019s particulate matter (2 wds.)"
+        }
+    }
+}

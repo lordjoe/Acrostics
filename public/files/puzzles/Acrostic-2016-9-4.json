@@ -1,0 +1,356 @@
+{
+    "answer": "\u201c[S]pace-time... becomes a bottomless pit. Light and matter can go in but never come back out. It\u2019s a condition of zero volume and infinite density called a \"singularity\u201d... where the ordinary laws of physics completely break down.\"",
+    "author": "Marcia Bartusiak,",
+    "authorCell": [
+        39,
+        74,
+        141,
+        159,
+        129,
+        127,
+        64,
+        40,
+        128,
+        70,
+        69,
+        157,
+        50,
+        115,
+        175,
+        171,
+        24,
+        65,
+        161,
+        67,
+        133,
+        82,
+        148,
+        134
+    ],
+    "source": "Black Hole",
+    "clues": {
+        "A": {
+            "cells": [
+                39,
+                140,
+                94,
+                25,
+                109,
+                72,
+                53,
+                8
+            ],
+            "answer": "Momentum",
+            "hint": "Good thing to have in a campaign or sports contest"
+        },
+        "B": {
+            "cells": [
+                74,
+                135,
+                152,
+                90,
+                104,
+                179,
+                33
+            ],
+            "answer": "A-roving",
+            "hint": "What Byron wrote that he\u2019d stop, in a poem (hyph.)"
+        },
+        "C": {
+            "cells": [
+                141,
+                17,
+                80,
+                35,
+                126,
+                63
+            ],
+            "answer": "Rattle",
+            "hint": "Discombobulate; baby\u2019s toy"
+        },
+        "D": {
+            "cells": [
+                159,
+                146,
+                131,
+                178,
+                13,
+                31,
+                85
+            ],
+            "answer": "Cry wolf",
+            "hint": "Get everyone panicked over nothing (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                129,
+                97,
+                114,
+                79,
+                26,
+                143,
+                57,
+                168
+            ],
+            "answer": "Incisive",
+            "hint": "Sharp, trenchant, penetrating"
+        },
+        "F": {
+            "cells": [
+                127,
+                12,
+                145,
+                176,
+                58,
+                163,
+                102,
+                75
+            ],
+            "answer": "Academic",
+            "hint": "Conjectural as opposed to practical"
+        },
+        "G": {
+            "cells": [
+                64,
+                89,
+                132,
+                20,
+                111,
+                5,
+                160
+            ],
+            "answer": "Bow ties",
+            "hint": "Items that a clown wardrobe is apt to include (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                40,
+                54,
+                162,
+                23,
+                7,
+                86,
+                139,
+                119
+            ],
+            "answer": "Atomized",
+            "hint": "Reduced to fine particles"
+        },
+        "I": {
+            "cells": [
+                128,
+                93,
+                27,
+                155,
+                108,
+                78
+            ],
+            "answer": "Rushed",
+            "hint": "Not done in a leisurely fashion"
+        },
+        "J": {
+            "cells": [
+                70,
+                138,
+                172,
+                122,
+                153,
+                6
+            ],
+            "answer": "Thrift",
+            "hint": "An asset unless it reaches the point of parsimony"
+        },
+        "K": {
+            "cells": [
+                69,
+                123,
+                1,
+                41,
+                149,
+                52,
+                165,
+                106
+            ],
+            "answer": "Unstable",
+            "hint": "Like a house of cards"
+        },
+        "L": {
+            "cells": [
+                157,
+                81,
+                118,
+                100,
+                51,
+                36
+            ],
+            "answer": "Sienna",
+            "hint": "Hue whose name has an Italian origin"
+        },
+        "M": {
+            "cells": [
+                50,
+                14,
+                154,
+                120,
+                66,
+                30,
+                173,
+                107
+            ],
+            "answer": "Impacted",
+            "hint": "Struck so as to leave craters"
+        },
+        "N": {
+            "cells": [
+                115,
+                77,
+                174,
+                42,
+                19,
+                62,
+                156
+            ],
+            "answer": "Anatomy",
+            "hint": "Gray area"
+        },
+        "O": {
+            "cells": [
+                175,
+                99,
+                55,
+                9,
+                130,
+                29,
+                45,
+                73
+            ],
+            "answer": "Kinetics",
+            "hint": "Study of the forces that cause motion in bodies"
+        },
+        "P": {
+            "cells": [
+                171,
+                92,
+                76,
+                150,
+                38,
+                59,
+                113
+            ],
+            "answer": "Blow-dry",
+            "hint": "Groom with a hand-held device (hyph.)"
+        },
+        "Q": {
+            "cells": [
+                24,
+                158,
+                101,
+                56,
+                10,
+                125,
+                84,
+                147
+            ],
+            "answer": "Life buoy",
+            "hint": "Ring that might rescue you (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                65,
+                164,
+                28,
+                117,
+                11,
+                151,
+                136,
+                43,
+                98
+            ],
+            "answer": "Appleseed",
+            "hint": "Epithet of pioneer John Chapman"
+        },
+        "S": {
+            "cells": [
+                161,
+                91,
+                144,
+                121,
+                21,
+                3,
+                37,
+                105
+            ],
+            "answer": "Constant",
+            "hint": "Pi, for example"
+        },
+        "T": {
+            "cells": [
+                67,
+                87,
+                166,
+                16,
+                34,
+                49,
+                103,
+                142
+            ],
+            "answer": "Keeshond",
+            "hint": "Breed once known as the Dutch Barge Dog"
+        },
+        "U": {
+            "cells": [
+                133,
+                96,
+                44,
+                2,
+                68,
+                177,
+                83
+            ],
+            "answer": "Harpoon",
+            "hint": "Item whose point was known to Melville"
+        },
+        "V": {
+            "cells": [
+                82,
+                18,
+                110,
+                137,
+                46,
+                60,
+                169,
+                95
+            ],
+            "answer": "Obstacle",
+            "hint": "Impediment, as in negotiations"
+        },
+        "W": {
+            "cells": [
+                148,
+                71,
+                112,
+                167,
+                15,
+                88,
+                32,
+                47,
+                124
+            ],
+            "answer": "Littering",
+            "hint": "Crime driving the story in \u201cAlice\u2019s Restaurant\u201d"
+        },
+        "X": {
+            "cells": [
+                134,
+                4,
+                22,
+                116,
+                61,
+                48,
+                170
+            ],
+            "answer": "Ecology",
+            "hint": "Environmentalist\u2019s study"
+        }
+    }
+}

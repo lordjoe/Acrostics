@@ -1,0 +1,359 @@
+{
+    "answer": "Most mornings I got out of bed and went to the refrigerator to see how my mother was feeling. You could tell instantly just by opening the door. The more odd and interesting things there were..., the happier my mother was.",
+    "author": "Ruth Reichl,",
+    "authorCell": [
+        37,
+        18,
+        155,
+        156,
+        153,
+        23,
+        9,
+        78,
+        147,
+        86,
+        146,
+        38,
+        130,
+        82,
+        132,
+        44,
+        174,
+        61,
+        46,
+        170,
+        152,
+        100,
+        168,
+        143,
+        84
+    ],
+    "source": "Tender At The Bone",
+    "clues": {
+        "A": {
+            "cells": [
+                37,
+                2,
+                135,
+                111,
+                93,
+                19,
+                154
+            ],
+            "answer": "Rosette",
+            "hint": "Flower-shaped decoration on a cake"
+        },
+        "B": {
+            "cells": [
+                18,
+                161,
+                3,
+                56,
+                41,
+                92,
+                74
+            ],
+            "answer": "Upswing",
+            "hint": "Positive trend, as in business"
+        },
+        "C": {
+            "cells": [
+                155,
+                137,
+                1,
+                17,
+                34,
+                117,
+                58
+            ],
+            "answer": "Timothy",
+            "hint": "Spiky grass grown for hay"
+        },
+        "D": {
+            "cells": [
+                156,
+                55,
+                14,
+                96,
+                114,
+                65,
+                85
+            ],
+            "answer": "Hog jowl",
+            "hint": "Meat often added to a Southern stew (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                153,
+                91,
+                106,
+                30,
+                72,
+                118,
+                133
+            ],
+            "answer": "Rainier",
+            "hint": "Volcano named for a British rear admiral"
+        },
+        "F": {
+            "cells": [
+                23,
+                127,
+                160,
+                115,
+                142,
+                67,
+                36
+            ],
+            "answer": "En prise",
+            "hint": "Exposed to capture in chess (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                9,
+                24,
+                140,
+                35,
+                52,
+                68,
+                116
+            ],
+            "answer": "ID theft",
+            "hint": "Result of a purloined PIN, perhaps (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                78,
+                20,
+                119,
+                103,
+                33,
+                49,
+                148
+            ],
+            "answer": "Compote",
+            "hint": "Syrupy stewed fruit for dessert"
+        },
+        "I": {
+            "cells": [
+                147,
+                126,
+                165,
+                59,
+                47,
+                8,
+                27
+            ],
+            "answer": "Hammond",
+            "hint": "Name associated with organs and maps"
+        },
+        "J": {
+            "cells": [
+                86,
+                50,
+                166,
+                25,
+                71,
+                131,
+                101
+            ],
+            "answer": "Loyalty",
+            "hint": "Enduring trait of Chicago Cubs fans"
+        },
+        "K": {
+            "cells": [
+                146,
+                102,
+                121,
+                90,
+                60,
+                10,
+                162
+            ],
+            "answer": "Tortoni",
+            "hint": "Ice cream often flavored with cherries"
+        },
+        "L": {
+            "cells": [
+                38,
+                81,
+                138,
+                120,
+                7,
+                169,
+                69
+            ],
+            "answer": "\u201cEl Norte\"",
+            "hint": "1983 drama about illegal immigrants (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                130,
+                53,
+                151,
+                22,
+                80,
+                164,
+                11
+            ],
+            "answer": "Newburg",
+            "hint": "Served in a creamy sauce, as lobster"
+        },
+        "N": {
+            "cells": [
+                82,
+                113,
+                40,
+                123,
+                136,
+                158,
+                95
+            ],
+            "answer": "Dorothy",
+            "hint": "Ally and pal of Princess Ozma"
+        },
+        "O": {
+            "cells": [
+                132,
+                45,
+                172,
+                112,
+                64,
+                77,
+                5
+            ],
+            "answer": "Eardrum",
+            "hint": "Ossicles\u2019 close neighbor"
+        },
+        "P": {
+            "cells": [
+                44,
+                150,
+                108,
+                87,
+                167,
+                70,
+                26
+            ],
+            "answer": "Regimen",
+            "hint": "Therapeutic plan, as a diet"
+        },
+        "Q": {
+            "cells": [
+                174,
+                94,
+                57,
+                79,
+                105,
+                124,
+                12
+            ],
+            "answer": "Almonds",
+            "hint": "Marzipan ingredients"
+        },
+        "R": {
+            "cells": [
+                61,
+                157,
+                43,
+                89,
+                141,
+                76,
+                31
+            ],
+            "answer": "Tee shot",
+            "hint": "Initial act when approaching a hole (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                46,
+                63,
+                88,
+                125,
+                6,
+                107,
+                145
+            ],
+            "answer": "Tendons",
+            "hint": "Corporeal connectors"
+        },
+        "T": {
+            "cells": [
+                170,
+                134,
+                159,
+                4,
+                62,
+                122,
+                48
+            ],
+            "answer": "Heather",
+            "hint": "Moorland plant also called ling"
+        },
+        "U": {
+            "cells": [
+                152,
+                42,
+                139,
+                173,
+                66,
+                98,
+                110
+            ],
+            "answer": "Egg wash",
+            "hint": "Application brushed onto rolls before baking (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                100,
+                163,
+                13,
+                144,
+                73,
+                29,
+                83
+            ],
+            "answer": "Beignet",
+            "hint": "Squarish doughnut with no hole and lots of powdered sugar"
+        },
+        "W": {
+            "cells": [
+                168,
+                39,
+                21,
+                128,
+                97,
+                109,
+                75
+            ],
+            "answer": "Off duty",
+            "hint": "Not presently walking the beat, say (hyph.)"
+        },
+        "X": {
+            "cells": [
+                143,
+                15,
+                28,
+                99,
+                54,
+                129,
+                175
+            ],
+            "answer": "\"Now this\u201d",
+            "hint": "TV anchor\u2019s pithy segue (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                84,
+                51,
+                32,
+                149,
+                104,
+                171,
+                16
+            ],
+            "answer": "E Street",
+            "hint": "Locale in Asbury Park, N.J., once used by Bruce Springsteen\u2019s backup band (2 wds.)"
+        }
+    }
+}

@@ -1,0 +1,321 @@
+{
+    "answer": "[He] wrote painting as other children wrote their A B C.... His drawings were not of things seen but of things expressed, in short they were words for him and drawing... was his only way of talking and he [talked] a great deal.",
+    "author": "Gertrude Stein,",
+    "authorCell": [
+        68,
+        58,
+        107,
+        101,
+        165,
+        75,
+        122,
+        35,
+        96,
+        168,
+        85,
+        81,
+        95,
+        8,
+        127,
+        43,
+        41,
+        132,
+        135,
+        62
+    ],
+    "source": "Picasso",
+    "clues": {
+        "A": {
+            "cells": [
+                68,
+                120,
+                172,
+                158,
+                6,
+                38,
+                141
+            ],
+            "answer": "Galatea",
+            "hint": "Object of a chiseler\u2019s desire"
+        },
+        "B": {
+            "cells": [
+                58,
+                67,
+                83,
+                138,
+                16,
+                30,
+                123
+            ],
+            "answer": "England",
+            "hint": "Its coat of arms depicts three lions"
+        },
+        "C": {
+            "cells": [
+                107,
+                152,
+                13,
+                54,
+                66,
+                128,
+                91
+            ],
+            "answer": "Raisins",
+            "hint": "Bits of gorp"
+        },
+        "D": {
+            "cells": [
+                101,
+                163,
+                14,
+                42,
+                131,
+                28,
+                148
+            ],
+            "answer": "Tanbark",
+            "hint": "Mulch used in surfacing a circus ring"
+        },
+        "E": {
+            "cells": [
+                165,
+                56,
+                26,
+                89,
+                137,
+                12
+            ],
+            "answer": "Relent",
+            "hint": "Bend"
+        },
+        "F": {
+            "cells": [
+                75,
+                150,
+                136,
+                48,
+                100,
+                20,
+                115,
+                162,
+                33,
+                86
+            ],
+            "answer": "Unorthodox",
+            "hint": "Given to thought outside the box"
+        },
+        "G": {
+            "cells": [
+                122,
+                7,
+                70,
+                36,
+                134,
+                59,
+                104
+            ],
+            "answer": "Destiny",
+            "hint": "\u201cA tyrant\u2019s authority for crime and a fool\u2019s excuse for failure\u201d (Bierce)"
+        },
+        "H": {
+            "cells": [
+                35,
+                151,
+                164,
+                109,
+                80,
+                10,
+                64,
+                21,
+                46
+            ],
+            "answer": "Egg whites",
+            "hint": "What whiskers might work with? (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                96,
+                44,
+                124,
+                72,
+                112,
+                169,
+                2,
+                154
+            ],
+            "answer": "Shredded",
+            "hint": "Like some documents and wheat"
+        },
+        "J": {
+            "cells": [
+                168,
+                88,
+                5,
+                142,
+                55,
+                71,
+                118,
+                129,
+                102,
+                34
+            ],
+            "answer": "Troy weight",
+            "hint": "System for measuring precious metals (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                85,
+                171,
+                17,
+                139,
+                119,
+                49,
+                32,
+                160
+            ],
+            "answer": "Easy mark",
+            "hint": "Pushover for a confidence man (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                81,
+                11,
+                23,
+                155,
+                144,
+                60,
+                99,
+                126,
+                167,
+                111,
+                47
+            ],
+            "answer": "Inch forward",
+            "hint": "Make progress by slow increments (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                95,
+                39,
+                15,
+                1,
+                79,
+                53,
+                143,
+                130,
+                153
+            ],
+            "answer": "Nightgown",
+            "hint": "Groucho\u2019s attire in the mirror scene of \u201cDuck Soup\u201d"
+        },
+        "N": {
+            "cells": [
+                8,
+                37,
+                98,
+                19,
+                110,
+                63,
+                149,
+                73,
+                51,
+                90,
+                133
+            ],
+            "answer": "Photo finish",
+            "hint": "Result that requires close scrutiny (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                127,
+                82,
+                52,
+                94,
+                69,
+                114,
+                40,
+                29,
+                156
+            ],
+            "answer": "Innisfree",
+            "hint": "Where Yeats yearned for a \u201cbee-loud glade\u201d"
+        },
+        "P": {
+            "cells": [
+                43,
+                117,
+                92,
+                140,
+                157,
+                24,
+                106,
+                78,
+                9,
+                61
+            ],
+            "answer": "Chew the fat",
+            "hint": "Take part in a confab (3 wds.)"
+        },
+        "Q": {
+            "cells": [
+                41,
+                147,
+                159,
+                50,
+                108,
+                125,
+                76,
+                97,
+                170,
+                22
+            ],
+            "answer": "All-weather",
+            "hint": "Good for whatever Mother Nature has in store (hyph.)"
+        },
+        "R": {
+            "cells": [
+                132,
+                87,
+                146,
+                57,
+                166,
+                4,
+                25,
+                74,
+                113
+            ],
+            "answer": "Spareribs",
+            "hint": "Dinner items traditionally ordered in a half rack or full rack"
+        },
+        "S": {
+            "cells": [
+                135,
+                65,
+                18,
+                105,
+                3,
+                45,
+                121,
+                93,
+                77,
+                31
+            ],
+            "answer": "Show window",
+            "hint": "Visual lure for customers (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                62,
+                161,
+                116,
+                84,
+                145,
+                103,
+                27
+            ],
+            "answer": "Oersted",
+            "hint": "Electromagnetic unit named for a Dane"
+        }
+    }
+}

@@ -1,0 +1,347 @@
+{
+    "answer": "A house is never still in darkness to those who listen intently; there is a whispering in distant chambers, an unearthly hand presses... the window, the latch rises. Ghosts were created when the first man woke in the night.",
+    "author": "J.M. Barrie,",
+    "authorCell": [
+        84,
+        93,
+        94,
+        158,
+        168,
+        167,
+        124,
+        176,
+        55,
+        18,
+        7,
+        170,
+        53,
+        51,
+        141,
+        83,
+        40,
+        72,
+        174,
+        106,
+        136,
+        85,
+        127
+    ],
+    "source": "The Little Minister",
+    "clues": {
+        "A": {
+            "cells": [
+                84,
+                145,
+                46,
+                107,
+                126,
+                172,
+                66
+            ],
+            "answer": "Banshee",
+            "hint": "Keening woman of Irish lore"
+        },
+        "B": {
+            "cells": [
+                93,
+                160,
+                17,
+                130,
+                115,
+                70,
+                146,
+                37
+            ],
+            "answer": "At length",
+            "hint": "Extensively (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                94,
+                133,
+                26,
+                58,
+                161,
+                41
+            ],
+            "answer": "Rheims",
+            "hint": "French town paired with Douay in the name of a Bible translation"
+        },
+        "D": {
+            "cells": [
+                158,
+                4,
+                135,
+                32,
+                102,
+                68,
+                48
+            ],
+            "answer": "Rushdie",
+            "hint": "Knighted writer of magic realism"
+        },
+        "E": {
+            "cells": [
+                168,
+                104,
+                36,
+                128,
+                20,
+                64,
+                81,
+                1,
+                149
+            ],
+            "answer": "Irwin Shaw",
+            "hint": "Author of \u201cThe Young Lions,\u201d 1948 (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                167,
+                8,
+                42,
+                96,
+                144,
+                131,
+                74,
+                28
+            ],
+            "answer": "Esthesis",
+            "hint": "Sensation or feeling"
+        },
+        "G": {
+            "cells": [
+                124,
+                38,
+                147,
+                78,
+                60,
+                19,
+                97,
+                5
+            ],
+            "answer": "Toenails",
+            "hint": "Apt anagram of TALONS, I.E."
+        },
+        "H": {
+            "cells": [
+                176,
+                134,
+                110,
+                61,
+                45,
+                86,
+                151
+            ],
+            "answer": "Hot-wire",
+            "hint": "Start using a larcenous technique (hyph.)"
+        },
+        "I": {
+            "cells": [
+                55,
+                169,
+                76,
+                2,
+                90,
+                137,
+                112,
+                21
+            ],
+            "answer": "Enthused",
+            "hint": "Rhapsodized, spoke glowingly"
+        },
+        "J": {
+            "cells": [
+                18,
+                3,
+                142,
+                166,
+                75,
+                119,
+                43,
+                103
+            ],
+            "answer": "Lockstep",
+            "hint": "Rigid manner of marching"
+        },
+        "K": {
+            "cells": [
+                7,
+                125,
+                150,
+                79,
+                54,
+                98,
+                27
+            ],
+            "answer": "Ichthys",
+            "hint": "Religious icon in the form of a fish"
+        },
+        "L": {
+            "cells": [
+                170,
+                143,
+                82,
+                63,
+                44,
+                121,
+                12
+            ],
+            "answer": "Trainee",
+            "hint": "Novice at a job, apprentice"
+        },
+        "M": {
+            "cells": [
+                53,
+                165,
+                71,
+                122,
+                139,
+                31,
+                95,
+                6
+            ],
+            "answer": "Toilette",
+            "hint": "Routine often performed in front of a mirror"
+        },
+        "N": {
+            "cells": [
+                51,
+                88,
+                118,
+                69,
+                148,
+                162,
+                13,
+                177,
+                34
+            ],
+            "answer": "Lawn darts",
+            "hint": "Missiles banned for sale in the U.S. (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                141,
+                16,
+                175,
+                62,
+                47,
+                105,
+                155,
+                89,
+                29,
+                120
+            ],
+            "answer": "Eighteenth",
+            "hint": "Amendment connected with the Volstead Act"
+        },
+        "P": {
+            "cells": [
+                83,
+                123,
+                67,
+                109,
+                154,
+                22,
+                39
+            ],
+            "answer": "Marshal",
+            "hint": "Big wheel in a parade"
+        },
+        "Q": {
+            "cells": [
+                40,
+                163,
+                129,
+                111,
+                23,
+                92,
+                73,
+                59
+            ],
+            "answer": "In shreds",
+            "hint": "Like sails after a maelstrom, maybe (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                72,
+                57,
+                113,
+                159,
+                171,
+                100,
+                138,
+                24
+            ],
+            "answer": "Newshawk",
+            "hint": "Reporter, as for a tabloid, who is energetic and aggressive"
+        },
+        "S": {
+            "cells": [
+                174,
+                140,
+                30,
+                91,
+                156,
+                114,
+                14,
+                50
+            ],
+            "answer": "Iron fist",
+            "hint": "What a despot wields (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                106,
+                157,
+                25,
+                132,
+                10,
+                56,
+                87
+            ],
+            "answer": "Singers",
+            "hint": "Birds like canaries and wrens"
+        },
+        "U": {
+            "cells": [
+                136,
+                33,
+                65,
+                152,
+                117,
+                15,
+                80,
+                99
+            ],
+            "answer": "Top-notch",
+            "hint": "Five-star, choice, superior (hyph.)"
+        },
+        "V": {
+            "cells": [
+                85,
+                116,
+                164,
+                52,
+                101,
+                9
+            ],
+            "answer": "Ed Wynn",
+            "hint": "Portrayer of Uncle Albert in \u201cMary Poppins\u201d (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                127,
+                108,
+                11,
+                35,
+                49,
+                77,
+                173,
+                153
+            ],
+            "answer": "Revenant",
+            "hint": "Figure such as a vampire or zombie"
+        }
+    }
+}

@@ -1,0 +1,336 @@
+{
+    "answer": "The [Boston] Red Sox have long memories. It is their curse. They are... susceptible to hauntings and collective nervous breakdowns... The evil that the Bosox do lives after them. The good is oft interred with their moans.",
+    "author": "(Thomas) Boswell,",
+    "authorCell": [
+        61,
+        145,
+        13,
+        102,
+        87,
+        80,
+        111,
+        151,
+        165,
+        166,
+        143,
+        156,
+        82,
+        17,
+        59,
+        108,
+        31,
+        33,
+        73,
+        75,
+        139,
+        57
+    ],
+    "source": "The Greatest Game (Ever Played)",
+    "clues": {
+        "A": {
+            "cells": [
+                61,
+                114,
+                4,
+                134,
+                96,
+                68,
+                162,
+                47
+            ],
+            "answer": "Babe Ruth",
+            "hint": "Figure in a pivotal 1920 deal (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                145,
+                72,
+                97,
+                170,
+                20,
+                12,
+                41,
+                131,
+                115
+            ],
+            "answer": "One old cat",
+            "hint": "Early version of the national pastime (3 wds.)"
+        },
+        "C": {
+            "cells": [
+                13,
+                140,
+                93,
+                119,
+                44
+            ],
+            "answer": "Stubs",
+            "hint": "Scrapbook souvenirs from a day at the park"
+        },
+        "D": {
+            "cells": [
+                102,
+                66,
+                27,
+                53,
+                120,
+                153,
+                132,
+                85,
+                168,
+                6,
+                36
+            ],
+            "answer": "\u201cWho\u2019s on First?\"",
+            "hint": "Classic Abbott & Costello comedy routine (3 wds.)"
+        },
+        "E": {
+            "cells": [
+                87,
+                128,
+                50,
+                35,
+                152,
+                18,
+                142
+            ],
+            "answer": "Evasive",
+            "hint": "Like a Dodger?"
+        },
+        "F": {
+            "cells": [
+                80,
+                167,
+                22,
+                155,
+                146,
+                40,
+                110,
+                91,
+                129
+            ],
+            "answer": "Line drive",
+            "hint": "Exceptionally hard-hammered ball (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                111,
+                89,
+                150,
+                1,
+                32,
+                48,
+                130
+            ],
+            "answer": "Lefties",
+            "hint": "A minority in terms of pitching"
+        },
+        "H": {
+            "cells": [
+                151,
+                163,
+                51,
+                138,
+                30
+            ],
+            "answer": "Three",
+            "hint": "Figure on the back of Answer A"
+        },
+        "I": {
+            "cells": [
+                165,
+                63,
+                98,
+                86,
+                49,
+                37,
+                71,
+                154,
+                7,
+                25,
+                135
+            ],
+            "answer": "Heavy hitter",
+            "hint": "Formidable contender, metaphorically (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                166,
+                77,
+                124,
+                28,
+                5,
+                54,
+                148,
+                106
+            ],
+            "answer": "Edd Roush",
+            "hint": "Hall-of-Famer who played for the White Sox, Hoosiers, Peppers, Giants and Reds (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                143,
+                81,
+                125,
+                109,
+                52
+            ],
+            "answer": "Glove",
+            "hint": "One of the tools of the trade"
+        },
+        "L": {
+            "cells": [
+                156,
+                67,
+                127,
+                9,
+                56,
+                141,
+                45,
+                78,
+                99
+            ],
+            "answer": "Rain check",
+            "hint": "Compensation for a washout (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                82,
+                123,
+                113,
+                60,
+                95,
+                147,
+                70,
+                29,
+                14,
+                172
+            ],
+            "answer": "Exhibition",
+            "hint": "Contest not on the regular schedule"
+        },
+        "N": {
+            "cells": [
+                17,
+                46,
+                117,
+                62,
+                38,
+                105,
+                161,
+                83
+            ],
+            "answer": "Athletic",
+            "hint": "Any player for a franchise that began in Philadelphia in 1901"
+        },
+        "O": {
+            "cells": [
+                59,
+                137,
+                10,
+                101,
+                160,
+                69,
+                21,
+                42,
+                84
+            ],
+            "answer": "Thrown out",
+            "hint": "Caught in the act of stealing, for example (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                108,
+                76,
+                23,
+                126,
+                39,
+                173,
+                2
+            ],
+            "answer": "English",
+            "hint": "Spinning motion imparted to a ball"
+        },
+        "Q": {
+            "cells": [
+                31,
+                16,
+                92,
+                157,
+                164,
+                104,
+                112,
+                79,
+                58
+            ],
+            "answer": "Shortstop",
+            "hint": "Position requiring alertness and agility"
+        },
+        "R": {
+            "cells": [
+                33,
+                11,
+                94,
+                64
+            ],
+            "answer": "Test",
+            "hint": "Tryout"
+        },
+        "S": {
+            "cells": [
+                73,
+                149,
+                116,
+                107,
+                171,
+                26
+            ],
+            "answer": "\"Go, team!\u201d",
+            "hint": "Generic cry from a bleacherite (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                75,
+                55,
+                136,
+                90,
+                122,
+                100,
+                8,
+                24,
+                158
+            ],
+            "answer": "Astrodome",
+            "hint": "Sports venue opened to the public in 1965"
+        },
+        "U": {
+            "cells": [
+                139,
+                65,
+                15,
+                34,
+                118
+            ],
+            "answer": "Moxie",
+            "hint": "Name of an early soft drink, now meaning pep or aggressiveness"
+        },
+        "V": {
+            "cells": [
+                57,
+                103,
+                159,
+                144,
+                43,
+                74,
+                19,
+                169,
+                3,
+                88,
+                133,
+                121
+            ],
+            "answer": "Endorsements",
+            "hint": "What star players aspire to beyond their salaries"
+        }
+    }
+}

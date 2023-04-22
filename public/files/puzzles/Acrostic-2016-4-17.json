@@ -1,0 +1,336 @@
+{
+    "answer": "Despite what you see in Hollywood movies, horses... rarely \u201cstampede\u201d en masse. If several bands of horses... are frightened..., the bands... head off in all different directions. Their... flight trajectories... look... like spokes in a wheel.",
+    "author": "Wendy Williams,",
+    "authorCell": [
+        8,
+        61,
+        94,
+        74,
+        24,
+        176,
+        5,
+        23,
+        70,
+        127,
+        10,
+        29,
+        59,
+        48,
+        137,
+        55,
+        9,
+        26,
+        140,
+        40,
+        54
+    ],
+    "source": "The Horse",
+    "clues": {
+        "A": {
+            "cells": [
+                8,
+                166,
+                132,
+                90,
+                78,
+                147,
+                180,
+                106,
+                64,
+                47
+            ],
+            "answer": "Weightless",
+            "hint": "How you sometimes feel on a roller coaster"
+        },
+        "B": {
+            "cells": [
+                61,
+                31,
+                95,
+                174,
+                146,
+                119,
+                14,
+                45
+            ],
+            "answer": "Eventful",
+            "hint": "Consequential; fraught with happenings"
+        },
+        "C": {
+            "cells": [
+                94,
+                39,
+                60,
+                3,
+                129,
+                163,
+                148,
+                79,
+                108,
+                17
+            ],
+            "answer": "Nesselrode",
+            "hint": "Kind of pie similar to tutti-frutti"
+        },
+        "D": {
+            "cells": [
+                74,
+                171,
+                125,
+                105,
+                88,
+                27,
+                56,
+                2
+            ],
+            "answer": "Dethrone",
+            "hint": "Remove from a high position"
+        },
+        "E": {
+            "cells": [
+                24,
+                138,
+                158,
+                92,
+                67,
+                80,
+                117,
+                107,
+                46
+            ],
+            "answer": "\"Yesterday\"",
+            "hint": "#1 on Rolling Stone and MTV\u2019s \u201c100 Greatest Pop Songs\u201d of all time"
+        },
+        "F": {
+            "cells": [
+                176,
+                91,
+                156,
+                128,
+                115,
+                4,
+                36,
+                76,
+                22
+            ],
+            "answer": "Whirlpool",
+            "hint": "Appliance giant based in Michigan"
+        },
+        "G": {
+            "cells": [
+                5,
+                28,
+                151,
+                42,
+                116,
+                173,
+                104,
+                57
+            ],
+            "answer": "Idealism",
+            "hint": "Quality of many youthful activists"
+        },
+        "H": {
+            "cells": [
+                23,
+                89,
+                110,
+                44,
+                71,
+                161,
+                58,
+                131
+            ],
+            "answer": "Lifeboat",
+            "hint": "Resource when foundering"
+        },
+        "I": {
+            "cells": [
+                70,
+                30,
+                169,
+                51,
+                98,
+                13,
+                142,
+                123
+            ],
+            "answer": "Loophole",
+            "hint": "Opportunity for evasion"
+        },
+        "J": {
+            "cells": [
+                127,
+                102,
+                66,
+                52,
+                37,
+                81,
+                143,
+                160,
+                19
+            ],
+            "answer": "Inversion",
+            "hint": "Transposal of upper and lower voices, as in counterpoint"
+        },
+        "K": {
+            "cells": [
+                10,
+                141,
+                111,
+                32,
+                175,
+                73,
+                130,
+                93,
+                53
+            ],
+            "answer": "Affianced",
+            "hint": "Betrothed, bound to be married"
+        },
+        "L": {
+            "cells": [
+                29,
+                101,
+                162,
+                179,
+                75,
+                145,
+                62,
+                120,
+                6
+            ],
+            "answer": "Makeshift",
+            "hint": "Ad hoc measure; serving as a temporary substitute"
+        },
+        "M": {
+            "cells": [
+                59,
+                133,
+                96,
+                114,
+                150,
+                82,
+                41,
+                170,
+                15
+            ],
+            "answer": "Soda jerks",
+            "hint": "Pop culture figures? (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                48,
+                20,
+                155,
+                65,
+                84,
+                1,
+                135
+            ],
+            "answer": "Threads",
+            "hint": "Toggery, duds, getup"
+        },
+        "O": {
+            "cells": [
+                137,
+                109,
+                85,
+                124,
+                157,
+                11,
+                38
+            ],
+            "answer": "Hornets",
+            "hint": "Charlotte pro cagers"
+        },
+        "P": {
+            "cells": [
+                55,
+                126,
+                144,
+                18,
+                113,
+                99,
+                167,
+                34
+            ],
+            "answer": "Edginess",
+            "hint": "Envelope-pushing quality"
+        },
+        "Q": {
+            "cells": [
+                9,
+                149,
+                25,
+                69,
+                112,
+                164,
+                49,
+                134,
+                83
+            ],
+            "answer": "Hawaiians",
+            "hint": "People who say \u201cekahi, elua, ekolu, eha, elima\u201d when counting from one to five"
+        },
+        "R": {
+            "cells": [
+                26,
+                63,
+                77,
+                178,
+                122,
+                136,
+                154,
+                43,
+                12
+            ],
+            "answer": "Offertory",
+            "hint": "Music for a collection?"
+        },
+        "S": {
+            "cells": [
+                140,
+                33,
+                172,
+                86,
+                50,
+                100,
+                159,
+                16
+            ],
+            "answer": "Resemble",
+            "hint": "\u201cI ___ that remark!\u201d (old vaudeville comeback)"
+        },
+        "T": {
+            "cells": [
+                40,
+                177,
+                121,
+                7,
+                97,
+                68,
+                21,
+                152,
+                165
+            ],
+            "answer": "Sheetrock",
+            "hint": "Drywall trademark"
+        },
+        "U": {
+            "cells": [
+                54,
+                103,
+                139,
+                153,
+                35,
+                168,
+                118,
+                72,
+                87
+            ],
+            "answer": "Edith Piaf",
+            "hint": "Singer played cinematically by Marion Cotillard (2 wds.)"
+        }
+    }
+}

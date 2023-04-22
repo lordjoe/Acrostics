@@ -1,0 +1,344 @@
+{
+    "answer": "WATCHING-[T]he wonderful thing about saints is that they were human. They lost their tempers, got hungry, scolded God, were egotistical or testy..., made mistakes and regretted them. Still they went on doggedly blundering toward heaven.",
+    "author": "P(hyllis) Mcginley,",
+    "authorCell": [
+        64,
+        113,
+        78,
+        126,
+        95,
+        151,
+        52,
+        180,
+        51,
+        67,
+        117,
+        98,
+        148,
+        94,
+        146,
+        18,
+        1,
+        99,
+        143,
+        114,
+        47,
+        92
+    ],
+    "source": "Saint",
+    "clues": {
+        "A": {
+            "cells": [
+                64,
+                150,
+                141,
+                108,
+                45,
+                178,
+                13,
+                32
+            ],
+            "answer": "Polymath",
+            "hint": "Polite term for a know-it-all"
+        },
+        "B": {
+            "cells": [
+                113,
+                100,
+                17,
+                68,
+                153,
+                48
+            ],
+            "answer": "Maggot",
+            "hint": "Fly larva that\u2019s good at cleaning wounds"
+        },
+        "C": {
+            "cells": [
+                78,
+                49,
+                66,
+                29,
+                106,
+                130,
+                165,
+                16
+            ],
+            "answer": "Christen",
+            "hint": "Name ceremoniously"
+        },
+        "D": {
+            "cells": [
+                126,
+                110,
+                54,
+                101,
+                25,
+                155,
+                71,
+                35
+            ],
+            "answer": "\u201cGaslight\"",
+            "hint": "Classic Ingrid Bergman/Charles Boyer thriller, for which Bergman won an Oscar"
+        },
+        "E": {
+            "cells": [
+                95,
+                26,
+                129,
+                14,
+                3,
+                154,
+                72,
+                142,
+                61,
+                177,
+                41
+            ],
+            "answer": "In the gutter",
+            "hint": "Where a dirty mind is said to be (3 wds.)"
+        },
+        "F": {
+            "cells": [
+                151,
+                135,
+                27,
+                172,
+                93,
+                9,
+                118,
+                65,
+                81
+            ],
+            "answer": "Networked",
+            "hint": "Cultivated important business relationships"
+        },
+        "G": {
+            "cells": [
+                52,
+                88,
+                136,
+                69,
+                122,
+                175,
+                8
+            ],
+            "answer": "\"Le Monde\u201d",
+            "hint": "French daily since 1944 (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                180,
+                34,
+                43,
+                145,
+                12,
+                90,
+                163,
+                112
+            ],
+            "answer": "Ethylene",
+            "hint": "Compound used in ripening fruit"
+        },
+        "I": {
+            "cells": [
+                51,
+                33,
+                89,
+                109,
+                5,
+                162,
+                149,
+                134
+            ],
+            "answer": "Yarmouth",
+            "hint": "Cape Cod town founded by Pilgrims"
+        },
+        "J": {
+            "cells": [
+                67,
+                85,
+                10,
+                46,
+                160,
+                105,
+                123
+            ],
+            "answer": "Sofa bed",
+            "hint": "Piece of furniture with a dual function (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                117,
+                83,
+                179,
+                40,
+                166,
+                137,
+                91
+            ],
+            "answer": "Adverse",
+            "hint": "Unfavorable, not at all conducive"
+        },
+        "L": {
+            "cells": [
+                98,
+                115,
+                20,
+                133,
+                2,
+                50,
+                75,
+                63,
+                173,
+                158
+            ],
+            "answer": "Isothermal",
+            "hint": "Unchanging in temperature"
+        },
+        "M": {
+            "cells": [
+                148,
+                44,
+                169,
+                84,
+                131,
+                56,
+                23
+            ],
+            "answer": "Nuggets",
+            "hint": "N.B.A. franchise with a snow-capped mountain in its logo"
+        },
+        "N": {
+            "cells": [
+                94,
+                57,
+                139,
+                124,
+                7,
+                42,
+                77,
+                170,
+                24,
+                107,
+                156
+            ],
+            "answer": "Third estate",
+            "hint": "Hoi polloi, common folk (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                146,
+                79,
+                171,
+                132,
+                96,
+                36,
+                58,
+                111
+            ],
+            "answer": "Woodshed",
+            "hint": "Traditional place of punishment"
+        },
+        "P": {
+            "cells": [
+                18,
+                55,
+                104,
+                125,
+                181,
+                164
+            ],
+            "answer": "Attend",
+            "hint": "Listen to; wait on"
+        },
+        "Q": {
+            "cells": [
+                1,
+                87,
+                167,
+                22,
+                70,
+                147,
+                127,
+                38
+            ],
+            "answer": "Twittery",
+            "hint": "Inclined to chirp like a bird"
+        },
+        "R": {
+            "cells": [
+                99,
+                60,
+                37,
+                120,
+                138,
+                15,
+                168,
+                74
+            ],
+            "answer": "Cresting",
+            "hint": "Decorative roof ridge; reaching the peak"
+        },
+        "S": {
+            "cells": [
+                143,
+                102,
+                161,
+                86,
+                28,
+                39,
+                121,
+                76
+            ],
+            "answer": "Hold sway",
+            "hint": "Be dominant, rule (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                114,
+                6,
+                97,
+                128,
+                174,
+                80,
+                21,
+                157,
+                62
+            ],
+            "answer": "Interlude",
+            "hint": "Between-acts diversion"
+        },
+        "U": {
+            "cells": [
+                47,
+                144,
+                4,
+                176,
+                119,
+                19,
+                103,
+                59,
+                152,
+                82,
+                30
+            ],
+            "answer": "New Hebrides",
+            "hint": "Vanuatu\u2019s name before 1980 (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                92,
+                140,
+                11,
+                31,
+                116,
+                53,
+                73,
+                159
+            ],
+            "answer": "Gluttony",
+            "hint": "Epicurean excess"
+        }
+    }
+}

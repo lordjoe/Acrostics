@@ -1,0 +1,353 @@
+{
+    "answer": "When Monty Python\u2019s mistaken messiah in \u201cThe Life of Brian\u201d exhorts the crowd \u201cDon\u2019t follow me! Think for yourselves! You are all individuals!\u201d they reply in unison, \u201cWe are all individuals!\u201d That is advertising in a nutshell.",
+    "author": "Leslie Savan,",
+    "authorCell": [
+        120,
+        40,
+        54,
+        70,
+        45,
+        158,
+        16,
+        96,
+        142,
+        151,
+        164,
+        127,
+        119,
+        71,
+        33,
+        172,
+        68,
+        82,
+        88,
+        63,
+        137,
+        107,
+        80,
+        134
+    ],
+    "source": "(The) Sponsored Life",
+    "clues": {
+        "A": {
+            "cells": [
+                120,
+                64,
+                8,
+                85,
+                28,
+                100,
+                132,
+                47,
+                156
+            ],
+            "answer": "Lotusland",
+            "hint": "Dreamy place of pleasure, Shangri-La"
+        },
+        "B": {
+            "cells": [
+                40,
+                101,
+                19,
+                138,
+                57
+            ],
+            "answer": "Elsie",
+            "hint": "Bovine seen in the dairy aisle"
+        },
+        "C": {
+            "cells": [
+                54,
+                79,
+                126,
+                4,
+                39,
+                111,
+                143,
+                24,
+                171
+            ],
+            "answer": "Skinflint",
+            "hint": "Jack Benny persona"
+        },
+        "D": {
+            "cells": [
+                70,
+                145,
+                17,
+                43,
+                115,
+                97
+            ],
+            "answer": "Lumber",
+            "hint": "Move like a ponderous giant"
+        },
+        "E": {
+            "cells": [
+                45,
+                73,
+                91,
+                135,
+                27,
+                9
+            ],
+            "answer": "\"I'm Easy\"",
+            "hint": "Oscar-winning song from \u201cNashville\u201d (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                158,
+                95,
+                108,
+                74,
+                25,
+                6,
+                125
+            ],
+            "answer": "Eudemon",
+            "hint": "Benevolent being whose name comes from the Greek for \u201cgood spirit\u201d"
+        },
+        "G": {
+            "cells": [
+                16,
+                110,
+                136,
+                94,
+                60,
+                169
+            ],
+            "answer": "Saloon",
+            "hint": "Casualty of the 18th Amendment"
+        },
+        "H": {
+            "cells": [
+                96,
+                129,
+                144,
+                116,
+                61,
+                46,
+                159,
+                13,
+                81,
+                175
+            ],
+            "answer": "Andy Warhol",
+            "hint": "Artist whose purple \u201cSelf-Portrait\u201d sold in 2010 for $32.6 million (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                142,
+                122,
+                106,
+                163,
+                42,
+                83
+            ],
+            "answer": "Vivify",
+            "hint": "Energize, spark, quicken, animate"
+        },
+        "J": {
+            "cells": [
+                151,
+                112,
+                76,
+                14,
+                59,
+                36
+            ],
+            "answer": "Ashore",
+            "hint": "Toward terra firma"
+        },
+        "K": {
+            "cells": [
+                164,
+                128,
+                55,
+                2,
+                146,
+                103,
+                22,
+                87
+            ],
+            "answer": "No thanks",
+            "hint": "Passing comment? (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                127,
+                113,
+                168,
+                37,
+                153,
+                78
+            ],
+            "answer": "Stalin",
+            "hint": "Former eponym of Volgograd"
+        },
+        "M": {
+            "cells": [
+                119,
+                77,
+                12,
+                58,
+                150,
+                174,
+                133
+            ],
+            "answer": "Pitcher",
+            "hint": "George Plimpton\u2019s fictional Sidd Finch, for one"
+        },
+        "N": {
+            "cells": [
+                71,
+                89,
+                140,
+                162,
+                51,
+                124,
+                20,
+                35
+            ],
+            "answer": "Old South",
+            "hint": "Antebellum Dixie (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                33,
+                105,
+                167,
+                48,
+                66,
+                11,
+                149,
+                130,
+                84
+            ],
+            "answer": "Ninety-two",
+            "hint": "Uranium\u2019s atomic number (hyph.)"
+        },
+        "P": {
+            "cells": [
+                172,
+                75,
+                44,
+                29,
+                62,
+                98,
+                154
+            ],
+            "answer": "Strides",
+            "hint": "Noticeable progress"
+        },
+        "Q": {
+            "cells": [
+                68,
+                90,
+                118,
+                52,
+                1,
+                141,
+                160,
+                31
+            ],
+            "answer": "Over with",
+            "hint": "Finished, finally (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                82,
+                170,
+                104,
+                41,
+                147,
+                10,
+                56
+            ],
+            "answer": "Rudolph",
+            "hint": "Leader of a gifted team?"
+        },
+        "S": {
+            "cells": [
+                88,
+                176,
+                18,
+                72,
+                50,
+                161,
+                34,
+                139,
+                3,
+                121
+            ],
+            "answer": "Eli Whitney",
+            "hint": "Gin-making entrepreneur born in 1765 (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                63,
+                32,
+                15,
+                165,
+                114,
+                93
+            ],
+            "answer": "Dinghy",
+            "hint": "Small boat whose name comes from Hindi"
+        },
+        "U": {
+            "cells": [
+                137,
+                109,
+                67,
+                53,
+                173,
+                30,
+                7,
+                92,
+                155
+            ],
+            "answer": "Lufthansa",
+            "hint": "Airline with the slogan \u201cNonstop you\u201d"
+        },
+        "V": {
+            "cells": [
+                107,
+                123,
+                152,
+                26,
+                86,
+                5,
+                166,
+                49
+            ],
+            "answer": "Intermix",
+            "hint": "Get blended together, commingle"
+        },
+        "W": {
+            "cells": [
+                80,
+                38,
+                117,
+                23,
+                148,
+                99,
+                69,
+                131
+            ],
+            "answer": "Fire sale",
+            "hint": "Mass unloading of goods at extremely discounted prices (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                134,
+                157,
+                102,
+                21,
+                65
+            ],
+            "answer": "Evian",
+            "hint": "Alternative to Perrier or San Pellegrino"
+        }
+    }
+}

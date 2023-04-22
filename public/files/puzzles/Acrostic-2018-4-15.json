@@ -1,0 +1,372 @@
+{
+    "answer": "[N]o other sport heralds its... moment of ultimate importance as figure skating does. ... Its enticement is the lure of imminent disaster,... the only activity that makes room for both Rodgers and Hammerstein and Alfred Hitchcock.",
+    "author": "Christine Brennan,",
+    "authorCell": [
+        116,
+        84,
+        132,
+        39,
+        104,
+        108,
+        95,
+        98,
+        106,
+        139,
+        170,
+        38,
+        96,
+        27,
+        125,
+        72,
+        74,
+        46,
+        70,
+        68,
+        152,
+        157,
+        161,
+        145,
+        63,
+        78
+    ],
+    "source": "Inside Edge",
+    "clues": {
+        "A": {
+            "cells": [
+                116,
+                43,
+                134,
+                57,
+                22
+            ],
+            "answer": "Cross",
+            "hint": "What proton streams should never do, per \u201cGhostbusters\u201d"
+        },
+        "B": {
+            "cells": [
+                84,
+                61,
+                9,
+                153,
+                179,
+                41
+            ],
+            "answer": "Hip-hop",
+            "hint": "Style promoted by Afrika Bambaataa (hyph.)"
+        },
+        "C": {
+            "cells": [
+                132,
+                2,
+                150,
+                100,
+                117,
+                48,
+                19,
+                69
+            ],
+            "answer": "Road test",
+            "hint": "Trial run (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                39,
+                18,
+                4,
+                109,
+                171,
+                91,
+                141
+            ],
+            "answer": "ID theft",
+            "hint": "Aim of a phishing attack, in brief (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                104,
+                73,
+                55,
+                89,
+                154,
+                129,
+                6,
+                172
+            ],
+            "answer": "Streaked",
+            "hint": "Ran out of clothes?"
+        },
+        "F": {
+            "cells": [
+                108,
+                20,
+                126,
+                168,
+                85,
+                50
+            ],
+            "answer": "Titles",
+            "hint": "Mr. and Mrs., for example"
+        },
+        "G": {
+            "cells": [
+                95,
+                138,
+                10,
+                112,
+                65,
+                31,
+                80
+            ],
+            "answer": "Iron out",
+            "hint": "Resolve, clear up (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                98,
+                56,
+                146,
+                42,
+                160,
+                81,
+                128,
+                28,
+                14
+            ],
+            "answer": "Negotiate",
+            "hint": "Manage to get through, as difficulties ... or a turn"
+        },
+        "I": {
+            "cells": [
+                106,
+                1,
+                176,
+                133,
+                25,
+                52,
+                87,
+                156
+            ],
+            "answer": "Encomium",
+            "hint": "Glowing praise"
+        },
+        "J": {
+            "cells": [
+                139,
+                158,
+                3,
+                21,
+                173,
+                71,
+                107
+            ],
+            "answer": "Brother",
+            "hint": "Relative of \u201cWhew!\u201d"
+        },
+        "K": {
+            "cells": [
+                170,
+                103,
+                64,
+                24,
+                151
+            ],
+            "answer": "Radon",
+            "hint": "One of six nobles in a chart?"
+        },
+        "L": {
+            "cells": [
+                38,
+                155,
+                16,
+                62,
+                115,
+                83,
+                97
+            ],
+            "answer": "Emanate",
+            "hint": "What scents do from blossoms"
+        },
+        "M": {
+            "cells": [
+                96,
+                118,
+                75,
+                58,
+                147,
+                32,
+                8
+            ],
+            "answer": "Nickels",
+            "hint": "Change that echoes Answer N."
+        },
+        "N": {
+            "cells": [
+                27,
+                101,
+                47,
+                13,
+                137,
+                86,
+                67
+            ],
+            "answer": "Nichols",
+            "hint": "Director of \u201cThe Graduate\u201d and \u201cSpamalot\u201d"
+        },
+        "O": {
+            "cells": [
+                125,
+                7,
+                143,
+                26,
+                102,
+                44,
+                76,
+                166
+            ],
+            "answer": "Arrested",
+            "hint": "Nicked, as a Brit would say"
+        },
+        "P": {
+            "cells": [
+                72,
+                111,
+                12,
+                159,
+                90,
+                40,
+                54,
+                178,
+                124
+            ],
+            "answer": "Not so much",
+            "hint": "Anything but, wryly (3 wds.)"
+        },
+        "Q": {
+            "cells": [
+                74,
+                163,
+                149,
+                60,
+                92,
+                33,
+                180,
+                5,
+                110,
+                131
+            ],
+            "answer": "In stitches",
+            "hint": "Rolling on the floor laughing (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                46,
+                144,
+                88,
+                127,
+                164,
+                113
+            ],
+            "answer": "Normal",
+            "hint": "Garden-variety, routine"
+        },
+        "S": {
+            "cells": [
+                70,
+                162,
+                99,
+                175,
+                34,
+                53,
+                142,
+                121
+            ],
+            "answer": "Sit tight",
+            "hint": "\u201cJust stay here and don\u2019t do anything yet\u201d (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                68,
+                169,
+                30,
+                122
+            ],
+            "answer": "Iffy",
+            "hint": "Up in the air; touch and go"
+        },
+        "U": {
+            "cells": [
+                152,
+                120,
+                82,
+                105,
+                36,
+                51,
+                136
+            ],
+            "answer": "Distaff",
+            "hint": "Female side of a family"
+        },
+        "V": {
+            "cells": [
+                157,
+                23,
+                140,
+                37,
+                174,
+                119,
+                66
+            ],
+            "answer": "Emotive",
+            "hint": "Appealing to feeling"
+        },
+        "W": {
+            "cells": [
+                161,
+                123,
+                177,
+                59,
+                79,
+                29,
+                17
+            ],
+            "answer": "Ethanol",
+            "hint": "Biofuel option"
+        },
+        "X": {
+            "cells": [
+                145,
+                130,
+                165,
+                93,
+                49,
+                11,
+                181
+            ],
+            "answer": "Denmark",
+            "hint": "Homeland of tennis\u2019s Caroline Wozniacki"
+        },
+        "Y": {
+            "cells": [
+                63,
+                15,
+                167,
+                77,
+                94,
+                45,
+                148
+            ],
+            "answer": "Grammar",
+            "hint": "Lessons what the writer of this clue should of took?"
+        },
+        "Z": {
+            "cells": [
+                78,
+                35,
+                135,
+                114
+            ],
+            "answer": "Emmy",
+            "hint": "Award won by Dick Button as an on-air analyst"
+        }
+    }
+}

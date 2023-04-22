@@ -1,0 +1,354 @@
+{
+    "answer": "I love the language of spaceflight: the go and the no-go, the translunar injection burn, the nod and the twang. The names Neil Armstrong and Buzz Aldrin. The sonorousness of the... acronym NASA. These are the sounds of dreams.",
+    "author": "Margaret (Lazarus) Dean,",
+    "authorCell": [
+        176,
+        50,
+        173,
+        12,
+        10,
+        69,
+        94,
+        38,
+        37,
+        163,
+        142,
+        36,
+        99,
+        160,
+        85,
+        4,
+        64,
+        59,
+        33,
+        145,
+        159,
+        112,
+        120,
+        63
+    ],
+    "source": "Leaving Orbit",
+    "clues": {
+        "A": {
+            "cells": [
+                176,
+                116,
+                6,
+                22,
+                154,
+                97,
+                136
+            ],
+            "answer": "Matches",
+            "hint": "Contents of some books"
+        },
+        "B": {
+            "cells": [
+                50,
+                169,
+                135,
+                1,
+                95,
+                153
+            ],
+            "answer": "Assist",
+            "hint": "\u201cDime,\u201d to a basketball player"
+        },
+        "C": {
+            "cells": [
+                173,
+                109,
+                55,
+                143,
+                31,
+                42
+            ],
+            "answer": "Rancho",
+            "hint": "Where a vaquero does his work"
+        },
+        "D": {
+            "cells": [
+                12,
+                89,
+                165,
+                132,
+                48,
+                25,
+                147
+            ],
+            "answer": "Ghostly",
+            "hint": "Spectral"
+        },
+        "E": {
+            "cells": [
+                10,
+                121,
+                139,
+                40,
+                107,
+                70,
+                92
+            ],
+            "answer": "Antenna",
+            "hint": "Part of a beetle or a Beetle"
+        },
+        "F": {
+            "cells": [
+                69,
+                155,
+                167,
+                44,
+                84,
+                110
+            ],
+            "answer": "Renown",
+            "hint": "Celebrity"
+        },
+        "G": {
+            "cells": [
+                94,
+                74,
+                60,
+                170,
+                26,
+                133
+            ],
+            "answer": "Enjoin",
+            "hint": "Prescribe, or proscribe"
+        },
+        "H": {
+            "cells": [
+                38,
+                123,
+                166,
+                102,
+                67,
+                81,
+                17,
+                53,
+                141
+            ],
+            "answer": "Thumbhole",
+            "hint": "Feature of a bowling ball"
+        },
+        "I": {
+            "cells": [
+                37,
+                126,
+                87,
+                72,
+                106,
+                54,
+                19,
+                174
+            ],
+            "answer": "Doghouse",
+            "hint": "Place for a partner in disfavor"
+        },
+        "J": {
+            "cells": [
+                163,
+                91,
+                43,
+                131,
+                2,
+                18,
+                61,
+                79
+            ],
+            "answer": "Engulfed",
+            "hint": "Taken for a meal by an amoeba, say"
+        },
+        "K": {
+            "cells": [
+                142,
+                11,
+                158,
+                108,
+                49,
+                175,
+                93
+            ],
+            "answer": "Anagram",
+            "hint": "Turn radio sets to asteroids, e.g."
+        },
+        "L": {
+            "cells": [
+                36,
+                100,
+                114,
+                14,
+                129,
+                82,
+                161,
+                140
+            ],
+            "answer": "Nazareth",
+            "hint": "Destination of a Christian pilgrim"
+        },
+        "M": {
+            "cells": [
+                99,
+                58,
+                24,
+                122,
+                75,
+                138,
+                171
+            ],
+            "answer": "Liftoff",
+            "hint": "End of a countdown"
+        },
+        "N": {
+            "cells": [
+                160,
+                146,
+                73,
+                57,
+                15,
+                98,
+                115,
+                32
+            ],
+            "answer": "Energize",
+            "hint": "Command to Scotty from Captain Kirk"
+        },
+        "O": {
+            "cells": [
+                85,
+                45,
+                148,
+                65,
+                177,
+                20,
+                162,
+                134,
+                105,
+                5
+            ],
+            "answer": "Atmosphere",
+            "hint": "Mercury\u2019s near lack"
+        },
+        "P": {
+            "cells": [
+                4,
+                157,
+                41,
+                172,
+                124,
+                80,
+                29,
+                56
+            ],
+            "answer": "Vendetta",
+            "hint": "Plot driver in \u201cThe Wrath of Khan\u201d"
+        },
+        "Q": {
+            "cells": [
+                64,
+                118,
+                35,
+                7,
+                137,
+                152,
+                78,
+                103
+            ],
+            "answer": "Idahoans",
+            "hint": "People closest to Craters of the Moon"
+        },
+        "R": {
+            "cells": [
+                59,
+                130,
+                113,
+                27,
+                150,
+                88
+            ],
+            "answer": "Nougat",
+            "hint": "Milky Way\u2019s matter, in part"
+        },
+        "S": {
+            "cells": [
+                33,
+                117,
+                8,
+                66,
+                96
+            ],
+            "answer": "Glenn",
+            "hint": "First American to see four sunsets in one day"
+        },
+        "T": {
+            "cells": [
+                145,
+                9,
+                76,
+                39,
+                21,
+                127,
+                111
+            ],
+            "answer": "Old hand",
+            "hint": "One who\u2019s been around the block a few times (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                159,
+                77,
+                30,
+                62,
+                46,
+                16,
+                104,
+                125
+            ],
+            "answer": "Ratchets",
+            "hint": "Revolvers with teeth"
+        },
+        "V": {
+            "cells": [
+                112,
+                34,
+                128,
+                156,
+                71,
+                90,
+                144,
+                52
+            ],
+            "answer": "Boosters",
+            "hint": "Aids in getting launched"
+        },
+        "W": {
+            "cells": [
+                120,
+                149,
+                86,
+                68,
+                23,
+                51,
+                168,
+                3
+            ],
+            "answer": "Innuendo",
+            "hint": "Suggestion in a smear campaign"
+        },
+        "X": {
+            "cells": [
+                63,
+                28,
+                119,
+                13,
+                151,
+                83,
+                47,
+                101,
+                164
+            ],
+            "answer": "Thrusters",
+            "hint": "Aids in gaining propulsion"
+        }
+    }
+}

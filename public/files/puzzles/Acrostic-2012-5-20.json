@@ -1,0 +1,342 @@
+{
+    "answer": "[Y]oung people of [the moon]... can have thirty books in their pockets or hanging on the pommels of their saddles. They... need only wind a spring to hear one... . I attached... books to my ears as pendants and went for a walk in town.",
+    "author": "(Cyrano) De Bergerac,",
+    "authorCell": [
+        128,
+        78,
+        129,
+        127,
+        140,
+        61,
+        156,
+        161,
+        104,
+        48,
+        88,
+        77,
+        50,
+        35,
+        158,
+        126,
+        7,
+        31,
+        163,
+        18,
+        54,
+        165,
+        84
+    ],
+    "source": "The Other World",
+    "clues": {
+        "A": {
+            "cells": [
+                128,
+                164,
+                107,
+                76,
+                22,
+                5,
+                92,
+                142,
+                60
+            ],
+            "answer": "D\u2019Artagnan",
+            "hint": "Real swordsman fictionalized in Dumas novels"
+        },
+        "B": {
+            "cells": [
+                78,
+                26,
+                12,
+                132,
+                59,
+                149,
+                110
+            ],
+            "answer": "Evoking",
+            "hint": "Conjuring up"
+        },
+        "C": {
+            "cells": [
+                129,
+                115,
+                172,
+                25,
+                57,
+                148
+            ],
+            "answer": "Banana",
+            "hint": "Fruit that Jules Verne described for the unacquainted"
+        },
+        "D": {
+            "cells": [
+                127,
+                144,
+                47,
+                109,
+                91,
+                70
+            ],
+            "answer": "Eponym",
+            "hint": "Harald Bluetooth or Gustave Eiffel, e.g."
+        },
+        "E": {
+            "cells": [
+                140,
+                24,
+                44,
+                168,
+                112,
+                10,
+                74,
+                58,
+                99
+            ],
+            "answer": "Rhinology",
+            "hint": "The study of the nose"
+        },
+        "F": {
+            "cells": [
+                61,
+                138,
+                14,
+                98,
+                36,
+                81,
+                122
+            ],
+            "answer": "\u201cGet lost!\"",
+            "hint": "What\u2019s implied by \u201cThree\u2019s a crowd\u201d (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                156,
+                85,
+                2,
+                67,
+                27,
+                136,
+                114,
+                102,
+                41
+            ],
+            "answer": "Elopement",
+            "hint": "Consequence of some wooing"
+        },
+        "H": {
+            "cells": [
+                161,
+                55,
+                96,
+                17,
+                34,
+                79,
+                125
+            ],
+            "answer": "Rhombic",
+            "hint": "In the form of a diamond"
+        },
+        "I": {
+            "cells": [
+                104,
+                6,
+                28,
+                157,
+                43,
+                143,
+                73
+            ],
+            "answer": "Aptness",
+            "hint": "Attribute of a mot juste, felicity"
+        },
+        "J": {
+            "cells": [
+                48,
+                1,
+                80,
+                121,
+                23,
+                160
+            ],
+            "answer": "Cyrano",
+            "hint": "First name of this quote\u2019s author"
+        },
+        "K": {
+            "cells": [
+                88,
+                19,
+                53,
+                37,
+                117,
+                159,
+                75
+            ],
+            "answer": "Took off",
+            "hint": "Didn\u2019t work; went viral (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                77,
+                93,
+                152,
+                32,
+                15,
+                49,
+                120,
+                169
+            ],
+            "answer": "Heathkit",
+            "hint": "Vintage amateur radio brand"
+        },
+        "M": {
+            "cells": [
+                50,
+                33,
+                16,
+                155,
+                167,
+                134,
+                63,
+                119,
+                105,
+                87
+            ],
+            "answer": "Eyewitness",
+            "hint": "One whose account may be credited"
+        },
+        "N": {
+            "cells": [
+                35,
+                113,
+                137,
+                94,
+                162,
+                65
+            ],
+            "answer": "\"Oh, yeah?\u201d",
+            "hint": "Interrogative challenge (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                158,
+                100,
+                86,
+                72,
+                13,
+                51,
+                29,
+                141
+            ],
+            "answer": "Twelfths",
+            "hint": "Thin slices of pizza or pie"
+        },
+        "P": {
+            "cells": [
+                126,
+                90,
+                45,
+                170,
+                30,
+                4,
+                145
+            ],
+            "answer": "Heroine",
+            "hint": "Xena or Roxane, e.g."
+        },
+        "Q": {
+            "cells": [
+                7,
+                154,
+                69,
+                131,
+                40,
+                103
+            ],
+            "answer": "Edmond",
+            "hint": "With R., author who wrote about J."
+        },
+        "R": {
+            "cells": [
+                31,
+                68,
+                52,
+                123,
+                139,
+                153,
+                95
+            ],
+            "answer": "Rostand",
+            "hint": "See Q."
+        },
+        "S": {
+            "cells": [
+                163,
+                42,
+                124,
+                64,
+                97,
+                8,
+                111
+            ],
+            "answer": "Whatnot",
+            "hint": "Etagere; miscellaneous items"
+        },
+        "T": {
+            "cells": [
+                18,
+                46,
+                106,
+                130,
+                151,
+                66,
+                83
+            ],
+            "answer": "Opposed",
+            "hint": "Not in favor"
+        },
+        "U": {
+            "cells": [
+                54,
+                135,
+                21,
+                166,
+                71,
+                150,
+                38,
+                89,
+                108,
+                9
+            ],
+            "answer": "Rocket ship",
+            "hint": "Flash Gordon\u2019s ride to the planet Mongo (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                165,
+                3,
+                20,
+                56,
+                116,
+                101,
+                82,
+                146
+            ],
+            "answer": "Lunarian",
+            "hint": "Native of this quote\u2019s setting"
+        },
+        "W": {
+            "cells": [
+                84,
+                62,
+                171,
+                118,
+                133,
+                39,
+                147,
+                11
+            ],
+            "answer": "Downside",
+            "hint": "Negative aspect"
+        }
+    }
+}

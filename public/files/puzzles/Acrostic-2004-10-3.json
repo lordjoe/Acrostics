@@ -1,0 +1,367 @@
+{
+    "answer": "Autumn comes to the sea with a fresh blaze of phosphorescence, when every wave crest is aflame. ...[T]he whole surface may glow with sheets of cold fire, while below schools of fish pour through the water like molten metal.",
+    "author": "Rachel Carson,",
+    "authorCell": [
+        59,
+        90,
+        112,
+        79,
+        16,
+        114,
+        47,
+        158,
+        44,
+        46,
+        39,
+        171,
+        159,
+        103,
+        48,
+        40,
+        45,
+        32,
+        72,
+        118,
+        98,
+        151,
+        49,
+        115,
+        87,
+        136
+    ],
+    "source": "The Sea Around Us",
+    "clues": {
+        "A": {
+            "cells": [
+                59,
+                175,
+                73,
+                138,
+                31,
+                10,
+                66
+            ],
+            "answer": "Raffler",
+            "hint": "Offerer of charity fund-raiser tickets"
+        },
+        "B": {
+            "cells": [
+                90,
+                108,
+                38,
+                58,
+                122,
+                11,
+                166
+            ],
+            "answer": "Atheism",
+            "hint": "State doctrine of Albania before 1991"
+        },
+        "C": {
+            "cells": [
+                112,
+                82,
+                133,
+                50,
+                154,
+                1,
+                20
+            ],
+            "answer": "Choctaw",
+            "hint": "One of the Five Civilized Nations"
+        },
+        "D": {
+            "cells": [
+                79,
+                19,
+                33,
+                126,
+                97
+            ],
+            "answer": "Hazel",
+            "hint": "1960\u2019s sitcom based on a Saturday Evening Post cartoon"
+        },
+        "E": {
+            "cells": [
+                16,
+                84,
+                95,
+                71,
+                165,
+                54
+            ],
+            "answer": "Elysee",
+            "hint": "French counterpart to the White House"
+        },
+        "F": {
+            "cells": [
+                114,
+                128,
+                36,
+                78
+            ],
+            "answer": "Loft",
+            "hint": "Storage area"
+        },
+        "G": {
+            "cells": [
+                47,
+                26,
+                119,
+                143,
+                80
+            ],
+            "answer": "Crepe",
+            "hint": "Crinkly shoe material"
+        },
+        "H": {
+            "cells": [
+                158,
+                52,
+                85,
+                109,
+                137,
+                9,
+                34
+            ],
+            "answer": "Awesome",
+            "hint": "Stupendously cool, rad"
+        },
+        "I": {
+            "cells": [
+                44,
+                160,
+                104,
+                174,
+                15,
+                83,
+                5,
+                27
+            ],
+            "answer": "Rest home",
+            "hint": "Long-term care facility (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                46,
+                155,
+                134,
+                61,
+                8,
+                116,
+                89
+            ],
+            "answer": "Showoff",
+            "hint": "Hot dog (hyph.)"
+        },
+        "K": {
+            "cells": [
+                39,
+                125,
+                28,
+                150,
+                168,
+                107,
+                3,
+                67
+            ],
+            "answer": "Obsolete",
+            "hint": "\u201cEither war is ___ or men are\u201d (R. Buckminster Fuller)"
+        },
+        "L": {
+            "cells": [
+                171,
+                43,
+                88,
+                157,
+                101,
+                65,
+                121
+            ],
+            "answer": "Norwich",
+            "hint": "Connecticut hometown of Benedict Arnold"
+        },
+        "M": {
+            "cells": [
+                159,
+                146,
+                94,
+                57,
+                70,
+                130
+            ],
+            "answer": "Travis",
+            "hint": "Crockett\u2019s commander at the Alamo"
+        },
+        "N": {
+            "cells": [
+                103,
+                113,
+                142,
+                35,
+                153,
+                167
+            ],
+            "answer": "Ho ho ho",
+            "hint": "Sound heard at Christmas (3 wds.)"
+        },
+        "O": {
+            "cells": [
+                48,
+                60,
+                170,
+                17,
+                74,
+                124,
+                139,
+                102
+            ],
+            "answer": "Eyes left",
+            "hint": "Drill command to cadets (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                40,
+                91,
+                144,
+                111,
+                25,
+                176,
+                75,
+                129
+            ],
+            "answer": "Scofflaw",
+            "hint": "1924 contest-winning coinage for a Volstead Act violator"
+        },
+        "Q": {
+            "cells": [
+                45,
+                149,
+                92,
+                131,
+                105,
+                14,
+                29,
+                77,
+                2,
+                172
+            ],
+            "answer": "Erechtheum",
+            "hint": "Acropolis temple with columns of sculptured female figures"
+        },
+        "R": {
+            "cells": [
+                32,
+                141,
+                164,
+                64,
+                99
+            ],
+            "answer": "Askew",
+            "hint": "Crooked, wry, out of kilter"
+        },
+        "S": {
+            "cells": [
+                72,
+                55,
+                147,
+                23,
+                173,
+                93
+            ],
+            "answer": "Anthem",
+            "hint": "\u201cYumi, Yumi, Yumi,\u201d for Vanuatu"
+        },
+        "T": {
+            "cells": [
+                118,
+                13,
+                145,
+                96,
+                42,
+                163,
+                69
+            ],
+            "answer": "Rough it",
+            "hint": "Forgo the usual amenities (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                98,
+                120,
+                162,
+                51,
+                12
+            ],
+            "answer": "Owlet",
+            "hint": "One who can barely give a hoot"
+        },
+        "V": {
+            "cells": [
+                151,
+                37,
+                68,
+                132,
+                110,
+                22
+            ],
+            "answer": "Upshot",
+            "hint": "Consequence, aftermath"
+        },
+        "W": {
+            "cells": [
+                49,
+                106,
+                63,
+                117,
+                135,
+                86,
+                148,
+                4,
+                169,
+                18
+            ],
+            "answer": "Nevil Shute",
+            "hint": "Author of \u201cA Town Like Alice\u201d (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                115,
+                156,
+                81,
+                7,
+                127,
+                62,
+                100
+            ],
+            "answer": "Dewclaw",
+            "hint": "Vestigial digit or false hoof"
+        },
+        "Y": {
+            "cells": [
+                87,
+                76,
+                30,
+                161,
+                140,
+                56,
+                123
+            ],
+            "answer": "Umbriel",
+            "hint": "Alexander Pope\u2019s \u201cdusky, melancholy sprite\u201d"
+        },
+        "Z": {
+            "cells": [
+                136,
+                53,
+                24,
+                41,
+                21,
+                6,
+                152
+            ],
+            "answer": "Shaping",
+            "hint": "Work done by a lathe"
+        }
+    }
+}

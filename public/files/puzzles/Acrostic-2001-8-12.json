@@ -1,0 +1,340 @@
+{
+    "answer": "The Sumerians wrote by pressing... the tip of a hollow reed into wet clay tablets, which were then preserved by baking. Masses of these... survive from those... remote days;... computer punchcards [from] the [Sixties] largely do not.",
+    "author": "(Robert) Kaplan,",
+    "authorCell": [
+        91,
+        36,
+        78,
+        171,
+        56,
+        144,
+        53,
+        2,
+        170,
+        175,
+        127,
+        74,
+        69,
+        9,
+        77,
+        169,
+        31,
+        146,
+        148,
+        28,
+        32,
+        165
+    ],
+    "source": "The Nothing That Is",
+    "clues": {
+        "A": {
+            "cells": [
+                91,
+                5,
+                79,
+                119,
+                13,
+                129,
+                163,
+                61,
+                40
+            ],
+            "answer": "Kurt Weill",
+            "hint": "German composer who wrote for Lotte Lenya (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                36,
+                118,
+                132,
+                96,
+                55,
+                147,
+                15,
+                156,
+                1
+            ],
+            "answer": "Amy Alcott",
+            "hint": "Winner of the U.S. Women\u2019s Open in 1980 (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                78,
+                45,
+                153,
+                64,
+                123,
+                92,
+                130,
+                4
+            ],
+            "answer": "Perseids",
+            "hint": "Spectacle of August 12 or thereabouts"
+        },
+        "D": {
+            "cells": [
+                171,
+                67,
+                49,
+                126,
+                143,
+                81,
+                58,
+                105,
+                24,
+                16
+            ],
+            "answer": "Litmus test",
+            "hint": "Crucial and revealing experiment (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                56,
+                46,
+                154,
+                87,
+                107
+            ],
+            "answer": "Adobe",
+            "hint": "Alternative to rammed earth"
+        },
+        "F": {
+            "cells": [
+                144,
+                135,
+                10,
+                120,
+                42,
+                82,
+                60,
+                23,
+                128,
+                164,
+                110
+            ],
+            "answer": "Noah Webster",
+            "hint": "Author of 1783\u2019s best-selling \u201cBlue-Backed Speller\u201d (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                53,
+                22,
+                72,
+                33,
+                122
+            ],
+            "answer": "Terps",
+            "hint": "University of Maryland team, informally"
+        },
+        "H": {
+            "cells": [
+                2,
+                85,
+                167,
+                63,
+                75,
+                145,
+                39,
+                25,
+                102,
+                152
+            ],
+            "answer": "Heathcliff",
+            "hint": "Revenge-driven lover in a Bronte novel"
+        },
+        "I": {
+            "cells": [
+                170,
+                149,
+                112,
+                134,
+                29,
+                70,
+                62,
+                160,
+                12,
+                97
+            ],
+            "answer": "Erich Weiss",
+            "hint": "Houdini (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                175,
+                121,
+                111,
+                94,
+                34,
+                83,
+                50,
+                150
+            ],
+            "answer": "Novgorod",
+            "hint": "Historic city on the Volkhov River that once rivaled Moscow"
+        },
+        "K": {
+            "cells": [
+                127,
+                151,
+                103,
+                8,
+                41,
+                27,
+                117,
+                139,
+                157
+            ],
+            "answer": "Ostrogoth",
+            "hint": "Subject of King Theodoric"
+        },
+        "L": {
+            "cells": [
+                74,
+                168,
+                176,
+                138,
+                113,
+                3,
+                124,
+                71
+            ],
+            "answer": "Trouvere",
+            "hint": "Middle Ages minstrel of France"
+        },
+        "M": {
+            "cells": [
+                69,
+                131,
+                21,
+                109,
+                100,
+                142,
+                44,
+                161
+            ],
+            "answer": "Haruspex",
+            "hint": "One who sees the future in animal entrails"
+        },
+        "N": {
+            "cells": [
+                9,
+                54,
+                80,
+                68,
+                90,
+                137,
+                98
+            ],
+            "answer": "Icecaps",
+            "hint": "Notable features of Mars"
+        },
+        "O": {
+            "cells": [
+                77,
+                158,
+                89,
+                18,
+                47,
+                106,
+                66
+            ],
+            "answer": "Nebbish",
+            "hint": "Character type often portrayed by Woody Allen"
+        },
+        "P": {
+            "cells": [
+                169,
+                38,
+                84,
+                125,
+                14,
+                48,
+                99,
+                159,
+                108
+            ],
+            "answer": "Governess",
+            "hint": "Trainer and tutor in the home"
+        },
+        "Q": {
+            "cells": [
+                31,
+                43,
+                101,
+                20,
+                76
+            ],
+            "answer": "Trope",
+            "hint": "Figurative use of words"
+        },
+        "R": {
+            "cells": [
+                146,
+                7,
+                166,
+                73,
+                26,
+                140,
+                104,
+                59,
+                93,
+                115,
+                35
+            ],
+            "answer": "Helene Hanff",
+            "hint": "Author of \u201c84, Charing Cross Road\u201d (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                148,
+                11,
+                86,
+                141,
+                30,
+                65,
+                51,
+                172,
+                114,
+                162,
+                37
+            ],
+            "answer": "Andrew Wyeth",
+            "hint": "Frequent painter of Helga Testorf (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                28,
+                174,
+                6,
+                155,
+                88
+            ],
+            "answer": "Tommy",
+            "hint": "1969 so-called \u201cconcept album\u201d or 1975 film"
+        },
+        "U": {
+            "cells": [
+                32,
+                173,
+                52,
+                133
+            ],
+            "answer": "Ides",
+            "hint": "The 13th or 15th, to old Romans"
+        },
+        "V": {
+            "cells": [
+                165,
+                57,
+                136,
+                95,
+                17,
+                177,
+                116,
+                19
+            ],
+            "answer": "Symmetry",
+            "hint": "What an Acrostic diagram will probably never have"
+        }
+    }
+}

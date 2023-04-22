@@ -1,0 +1,352 @@
+{
+    "answer": "[S]nuggling... together in a big bed was normal... . A French phrase book for use by medieval [travelers] included the... useful expressions: \u201cyou are an ill bed-fellow\u201c, \"you pull all the bed clothes\u201d and \"you do nothing but kick about\u201d.",
+    "author": "L(ucy) Worsley,",
+    "authorCell": [
+        74,
+        125,
+        103,
+        70,
+        29,
+        6,
+        62,
+        106,
+        22,
+        53,
+        27,
+        71,
+        132,
+        123,
+        57,
+        41,
+        50,
+        128,
+        116,
+        119,
+        175,
+        20,
+        143,
+        170
+    ],
+    "source": "If Walls Could Talk",
+    "clues": {
+        "A": {
+            "cells": [
+                74,
+                54,
+                165,
+                30,
+                9,
+                140
+            ],
+            "answer": "Lounge",
+            "hint": "Gathering place for the inn crowd"
+        },
+        "B": {
+            "cells": [
+                125,
+                112,
+                17,
+                33,
+                65,
+                83,
+                174,
+                97
+            ],
+            "answer": "Warmed up",
+            "hint": "Took the chill off (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                103,
+                59,
+                81,
+                156,
+                40,
+                5
+            ],
+            "answer": "Oblong",
+            "hint": "Rectangular, but not square"
+        },
+        "D": {
+            "cells": [
+                70,
+                95,
+                120,
+                32,
+                48,
+                1,
+                146
+            ],
+            "answer": "Refresh",
+            "hint": "Give or get a second wind"
+        },
+        "E": {
+            "cells": [
+                29,
+                44,
+                82,
+                159,
+                138,
+                60,
+                118
+            ],
+            "answer": "Shuteye",
+            "hint": "Insomniac\u2019s dream?"
+        },
+        "F": {
+            "cells": [
+                6,
+                127,
+                72,
+                58,
+                21,
+                39,
+                171,
+                151,
+                100
+            ],
+            "answer": "Love beads",
+            "hint": "Accessory for a flower child (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                62,
+                43,
+                161,
+                105,
+                86,
+                115,
+                147
+            ],
+            "answer": "Epistle",
+            "hint": "Galatians or Colossians, e.g."
+        },
+        "H": {
+            "cells": [
+                106,
+                144,
+                93,
+                8,
+                23,
+                69,
+                130,
+                55,
+                167
+            ],
+            "answer": "Young Turk",
+            "hint": "Sultan-deposing revolutionary (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                22,
+                2,
+                92,
+                168,
+                111,
+                135,
+                63
+            ],
+            "answer": "Infield",
+            "hint": "Area relatively close to home"
+        },
+        "J": {
+            "cells": [
+                53,
+                75,
+                101,
+                145,
+                158,
+                124,
+                19
+            ],
+            "answer": "Festoon",
+            "hint": "Deck with garlands"
+        },
+        "K": {
+            "cells": [
+                27,
+                78,
+                131,
+                47,
+                153,
+                113
+            ],
+            "answer": "Wilson",
+            "hint": "Companion volleyball in \u201cCast Away\u201d"
+        },
+        "L": {
+            "cells": [
+                71,
+                117,
+                133,
+                35,
+                51,
+                162,
+                91
+            ],
+            "answer": "Abalone",
+            "hint": "Gastropod also called an ormer or ear shell"
+        },
+        "M": {
+            "cells": [
+                132,
+                34,
+                79,
+                163,
+                108,
+                64,
+                148,
+                15
+            ],
+            "answer": "Languish",
+            "hint": "Suffer through hardship and neglect"
+        },
+        "N": {
+            "cells": [
+                123,
+                154,
+                169,
+                89,
+                139,
+                110,
+                36,
+                14,
+                73
+            ],
+            "answer": "Lucubrate",
+            "hint": "Burn the midnight oil"
+        },
+        "O": {
+            "cells": [
+                57,
+                160,
+                76,
+                18,
+                37,
+                136
+            ],
+            "answer": "Shrift",
+            "hint": "Confession to a priest, old-style"
+        },
+        "P": {
+            "cells": [
+                41,
+                149,
+                94,
+                134,
+                114,
+                77,
+                166,
+                11
+            ],
+            "answer": "Callisto",
+            "hint": "Jovian moon found by Galileo"
+        },
+        "Q": {
+            "cells": [
+                50,
+                150,
+                126,
+                96
+            ],
+            "answer": "Onyx",
+            "hint": "Banded form of chalcedony"
+        },
+        "R": {
+            "cells": [
+                128,
+                157,
+                90,
+                42,
+                28,
+                66,
+                16,
+                141
+            ],
+            "answer": "Unshaved",
+            "hint": "Like Sikh men"
+        },
+        "S": {
+            "cells": [
+                116,
+                7,
+                164,
+                84,
+                98,
+                46,
+                142,
+                25
+            ],
+            "answer": "Liberace",
+            "hint": "Showman who said \u201cI\u2019m a one-man Disneyland\u201d"
+        },
+        "T": {
+            "cells": [
+                119,
+                67,
+                104,
+                85,
+                13,
+                38
+            ],
+            "answer": "Dander",
+            "hint": "Loose scales formed on the skin; temper"
+        },
+        "U": {
+            "cells": [
+                175,
+                109,
+                49,
+                68,
+                121,
+                155,
+                137,
+                31,
+                10,
+                88
+            ],
+            "answer": "Table d\u2019hote",
+            "hint": "Restaurant meal with a set menu (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                20,
+                61,
+                129,
+                87,
+                102,
+                4,
+                173,
+                45,
+                152
+            ],
+            "answer": "Amphigory",
+            "hint": "Nonsensical verse often written as a parody"
+        },
+        "W": {
+            "cells": [
+                143,
+                3,
+                24,
+                172,
+                107,
+                80,
+                52
+            ],
+            "answer": "Lubbock",
+            "hint": "Home of Texas Tech University"
+        },
+        "X": {
+            "cells": [
+                170,
+                122,
+                56,
+                26,
+                12,
+                99
+            ],
+            "answer": "Kludge",
+            "hint": "Fix that\u2019s workable though inelegant"
+        }
+    }
+}

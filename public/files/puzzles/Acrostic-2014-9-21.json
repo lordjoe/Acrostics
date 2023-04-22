@@ -1,0 +1,358 @@
+{
+    "answer": "This is the appearance which he presents: he is four-footed, cloven-hoofed like an ox, flat-nosed, with a mane like a horse and teeth like tusks, and his hide is so exceedingly thick that shafts of javelins are made of it.",
+    "author": "Herodotus,",
+    "authorCell": [
+        117,
+        131,
+        15,
+        40,
+        48,
+        127,
+        1,
+        110,
+        148,
+        146,
+        17,
+        164,
+        23,
+        130,
+        67,
+        41,
+        115,
+        46,
+        45,
+        151,
+        9,
+        136,
+        138,
+        12,
+        147
+    ],
+    "source": "An Account of Egypt",
+    "clues": {
+        "A": {
+            "cells": [
+                117,
+                141,
+                27,
+                11,
+                171
+            ],
+            "answer": "Hippo",
+            "hint": "What is described by this puzzle\u2019s quotation, informally"
+        },
+        "B": {
+            "cells": [
+                131,
+                5,
+                155,
+                43,
+                102,
+                87
+            ],
+            "answer": "Eiffel",
+            "hint": "Bartholdi\u2019s helper with the Statue of Liberty"
+        },
+        "C": {
+            "cells": [
+                15,
+                128,
+                160,
+                106,
+                75,
+                35
+            ],
+            "answer": "Relish",
+            "hint": "Something often put on a dog"
+        },
+        "D": {
+            "cells": [
+                40,
+                125,
+                144,
+                161,
+                73,
+                16,
+                100,
+                57
+            ],
+            "answer": "Ostinato",
+            "hint": "Recurring melodic phrase"
+        },
+        "E": {
+            "cells": [
+                48,
+                31,
+                7,
+                93,
+                68,
+                166,
+                133
+            ],
+            "answer": "Detoxed",
+            "hint": "Dried out at a facility"
+        },
+        "F": {
+            "cells": [
+                127,
+                114,
+                143,
+                70,
+                168,
+                32,
+                60
+            ],
+            "answer": "Oakland",
+            "hint": "City of the \u201cMoneyball\u201d team"
+        },
+        "G": {
+            "cells": [
+                1,
+                55,
+                22,
+                76,
+                158,
+                124,
+                38,
+                145
+            ],
+            "answer": "Thievish",
+            "hint": "Inclined to have sticky fingers"
+        },
+        "H": {
+            "cells": [
+                110,
+                85,
+                21,
+                134,
+                33,
+                49,
+                149
+            ],
+            "answer": "Unhitch",
+            "hint": "Free, as from a train"
+        },
+        "I": {
+            "cells": [
+                148,
+                59,
+                97,
+                20,
+                36,
+                86,
+                122
+            ],
+            "answer": "Seaweed",
+            "hint": "Salad green at a sushi restaurant"
+        },
+        "J": {
+            "cells": [
+                146,
+                58,
+                39,
+                88,
+                129,
+                29,
+                116
+            ],
+            "answer": "Affixed",
+            "hint": "Stuck on, as a letter\u2019s stamp"
+        },
+        "K": {
+            "cells": [
+                17,
+                47,
+                83,
+                64,
+                30,
+                108,
+                163
+            ],
+            "answer": "Nemeses",
+            "hint": "Opponents one rarely defeats"
+        },
+        "L": {
+            "cells": [
+                164,
+                54,
+                74,
+                94,
+                14,
+                107
+            ],
+            "answer": "Anorak",
+            "hint": "Jacket for an arctic trek"
+        },
+        "M": {
+            "cells": [
+                23,
+                104,
+                132,
+                89,
+                120,
+                154,
+                52
+            ],
+            "answer": "Chekhov",
+            "hint": "Acclaimed playwright who was a physician by profession"
+        },
+        "N": {
+            "cells": [
+                130,
+                2,
+                159,
+                18,
+                112,
+                44,
+                172,
+                69
+            ],
+            "answer": "Check off",
+            "hint": "Mark the homophone of answer M.? (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                67,
+                123,
+                37,
+                50,
+                137,
+                82,
+                99,
+                26
+            ],
+            "answer": "Oeillade",
+            "hint": "Glance, especially an amorous one"
+        },
+        "P": {
+            "cells": [
+                41,
+                174,
+                19,
+                162,
+                119,
+                62,
+                105,
+                4
+            ],
+            "answer": "Utensils",
+            "hint": "Items included in mess kits"
+        },
+        "Q": {
+            "cells": [
+                115,
+                53,
+                78,
+                126,
+                95,
+                152,
+                10,
+                66,
+                169
+            ],
+            "answer": "Newsstand",
+            "hint": "Apple app for readers of current events"
+        },
+        "R": {
+            "cells": [
+                46,
+                121,
+                139,
+                61,
+                96,
+                6
+            ],
+            "answer": "Titles",
+            "hint": "What spines may reveal"
+        },
+        "S": {
+            "cells": [
+                45,
+                165,
+                101,
+                34,
+                72,
+                13,
+                118,
+                84
+            ],
+            "answer": "Oresteia",
+            "hint": "Aeschylus trilogy"
+        },
+        "T": {
+            "cells": [
+                151,
+                79,
+                98,
+                135,
+                3,
+                113,
+                24
+            ],
+            "answer": "Finnish",
+            "hint": "Language also called Suomi"
+        },
+        "U": {
+            "cells": [
+                9,
+                156,
+                90,
+                142,
+                103,
+                170,
+                77
+            ],
+            "answer": "Ejected",
+            "hint": "Given the old heave-ho"
+        },
+        "V": {
+            "cells": [
+                136,
+                42,
+                65,
+                80,
+                173,
+                153
+            ],
+            "answer": "Gratis",
+            "hint": "Complimentary"
+        },
+        "W": {
+            "cells": [
+                138,
+                150,
+                111,
+                8,
+                167,
+                91,
+                63
+            ],
+            "answer": "Yashmak",
+            "hint": "Veil worn by some Muslim women in Turkey"
+        },
+        "X": {
+            "cells": [
+                12,
+                92,
+                71,
+                28,
+                157,
+                51,
+                140
+            ],
+            "answer": "Pharaoh",
+            "hint": "Dynast often pictured in a headdress"
+        },
+        "Y": {
+            "cells": [
+                147,
+                81,
+                56,
+                109,
+                25
+            ],
+            "answer": "Thoth",
+            "hint": "Ibis-headed god of wisdom and magic"
+        }
+    }
+}

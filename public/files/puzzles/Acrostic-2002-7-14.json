@@ -1,0 +1,371 @@
+{
+    "answer": "Some habits that saw us through the millennia are proving hazardous in a modern context-for example the yen to consume carbohydrates and fat whenever they cross our path, or the proclivity for unchecked reproduction.",
+    "author": "(Barbara) Kingsolver,",
+    "authorCell": [
+        166,
+        152,
+        94,
+        48,
+        1,
+        68,
+        32,
+        153,
+        88,
+        43,
+        104,
+        31,
+        25,
+        12,
+        140,
+        154,
+        174,
+        122,
+        8,
+        59,
+        14,
+        175,
+        176,
+        15,
+        179,
+        113
+    ],
+    "source": "High Tide In Tucson",
+    "clues": {
+        "A": {
+            "cells": [
+                166,
+                35,
+                120,
+                111,
+                133,
+                71,
+                155
+            ],
+            "answer": "Knesset",
+            "hint": "Parliamentary body first elected in 1949"
+        },
+        "B": {
+            "cells": [
+                152,
+                99,
+                49,
+                177,
+                141,
+                129,
+                23,
+                10,
+                79,
+                160,
+                40
+            ],
+            "answer": "Ichthyosaur",
+            "hint": "Extinct bearer of paddlelike flippers"
+        },
+        "C": {
+            "cells": [
+                94,
+                146,
+                33,
+                57,
+                135,
+                66
+            ],
+            "answer": "Nelson",
+            "hint": "Whom Olivier portrayed in \u201cThat Hamilton Woman\u201d"
+        },
+        "D": {
+            "cells": [
+                48,
+                158,
+                81,
+                145,
+                110,
+                22
+            ],
+            "answer": "Gopher",
+            "hint": "Expert in tunneling"
+        },
+        "E": {
+            "cells": [
+                1,
+                27,
+                159,
+                41,
+                86,
+                117
+            ],
+            "answer": "Street",
+            "hint": "Place to pick up rumors, with \u201cthe\u201d"
+        },
+        "F": {
+            "cells": [
+                68,
+                169,
+                138,
+                85,
+                100,
+                121
+            ],
+            "answer": "Orphan",
+            "hint": "First line of a paragraph alone at the bottom of a page"
+        },
+        "G": {
+            "cells": [
+                32,
+                178,
+                91,
+                69,
+                19
+            ],
+            "answer": "Lions",
+            "hint": "Ones traditionally at play on Thanksgiving Day"
+        },
+        "H": {
+            "cells": [
+                153,
+                128,
+                161,
+                106,
+                34,
+                73,
+                11,
+                50
+            ],
+            "answer": "Vendetta",
+            "hint": "Bitter quarrel or feud"
+        },
+        "I": {
+            "cells": [
+                88,
+                180,
+                150,
+                107,
+                75,
+                52,
+                130,
+                21
+            ],
+            "answer": "Encroach",
+            "hint": "Advance beyond proper limits"
+        },
+        "J": {
+            "cells": [
+                43,
+                136,
+                102,
+                7,
+                83,
+                65
+            ],
+            "answer": "Rubber",
+            "hint": "Major export of Thailand"
+        },
+        "K": {
+            "cells": [
+                104,
+                24,
+                54,
+                168,
+                82,
+                4
+            ],
+            "answer": "Huddle",
+            "hint": "Get together to make important decisions"
+        },
+        "L": {
+            "cells": [
+                31,
+                80,
+                42,
+                98,
+                148,
+                115,
+                164,
+                67,
+                9
+            ],
+            "answer": "Imperfect",
+            "hint": "Flawed"
+        },
+        "M": {
+            "cells": [
+                25,
+                6,
+                51,
+                108
+            ],
+            "answer": "Gaza",
+            "hint": "City where Samson pulled down a temple"
+        },
+        "N": {
+            "cells": [
+                12,
+                112,
+                97,
+                30,
+                170,
+                131
+            ],
+            "answer": "Hammer",
+            "hint": "Item thrown competitively"
+        },
+        "O": {
+            "cells": [
+                140,
+                127,
+                167,
+                3,
+                60,
+                47
+            ],
+            "answer": "The Man",
+            "hint": "Person or group in oppressive authority (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                154,
+                123,
+                2,
+                143,
+                87,
+                165,
+                44,
+                16,
+                95,
+                70
+            ],
+            "answer": "Ivory Coast",
+            "hint": "Part of Africa along the Gulf of Guinea (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                174,
+                58,
+                90,
+                119,
+                29,
+                137
+            ],
+            "answer": "Dither",
+            "hint": "State of nervous discombobulation"
+        },
+        "R": {
+            "cells": [
+                122,
+                61,
+                147,
+                13,
+                84,
+                26,
+                105
+            ],
+            "answer": "Empathy",
+            "hint": "Feeling for another person\u2019s situation"
+        },
+        "S": {
+            "cells": [
+                8,
+                72,
+                109,
+                38,
+                92,
+                46,
+                163,
+                56,
+                139,
+                20,
+                151
+            ],
+            "answer": "Ixtacihuatl",
+            "hint": "Mexican volcano known as \u201cthe Sleeping Woman\u201d"
+        },
+        "T": {
+            "cells": [
+                59,
+                173,
+                114,
+                132,
+                157,
+                74
+            ],
+            "answer": "Nod off",
+            "hint": "Not stay awake (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                14,
+                103,
+                171,
+                28,
+                116,
+                126
+            ],
+            "answer": "\u201cTop Hat\u201d",
+            "hint": "Musical with the song \u201cCheek to Cheek\u201d (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                175,
+                78,
+                149,
+                101,
+                37,
+                55,
+                18,
+                134
+            ],
+            "answer": "Uxorious",
+            "hint": "Too submissive to one\u2019s wife"
+        },
+        "W": {
+            "cells": [
+                176,
+                93,
+                118,
+                144,
+                62,
+                17,
+                36
+            ],
+            "answer": "Cow town",
+            "hint": "Any burg whose business is burgers-to-be (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                15,
+                89,
+                142,
+                76,
+                124
+            ],
+            "answer": "Snore",
+            "hint": "Produce stertor"
+        },
+        "Y": {
+            "cells": [
+                179,
+                53,
+                162,
+                5,
+                39,
+                125,
+                63
+            ],
+            "answer": "Orchard",
+            "hint": "Symbol of an idyllic past in Chekhov"
+        },
+        "Z": {
+            "cells": [
+                113,
+                96,
+                172,
+                77,
+                156,
+                64,
+                45
+            ],
+            "answer": "Nureyev",
+            "hint": "Ballet great born in Siberia"
+        }
+    }
+}

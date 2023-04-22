@@ -1,0 +1,347 @@
+{
+    "answer": "\u201cYou can pick up a good-sized sting ray by slipping your fingers into its spiracles. It\u2019s like picking up a bowling ball and is the best way to lift this slippery creature and avoid the poisonous sting on the tail.\u201d",
+    "author": "Eugenie Clark,",
+    "authorCell": [
+        64,
+        88,
+        29,
+        127,
+        10,
+        158,
+        146,
+        136,
+        71,
+        63,
+        144,
+        128,
+        5,
+        90,
+        17,
+        54,
+        102,
+        103,
+        106,
+        118,
+        84,
+        28,
+        78,
+        23
+    ],
+    "source": "The Lady and the Sharks",
+    "clues": {
+        "A": {
+            "cells": [
+                64,
+                112,
+                11,
+                151,
+                167,
+                126,
+                93,
+                43
+            ],
+            "answer": "Cousteau",
+            "hint": "Creator of the 1950s book and film \u201cThe Silent World\u201d"
+        },
+        "B": {
+            "cells": [
+                88,
+                168,
+                58,
+                74,
+                135,
+                18
+            ],
+            "answer": "Lasers",
+            "hint": "Tools in microsurgery"
+        },
+        "C": {
+            "cells": [
+                29,
+                98,
+                141,
+                123,
+                9,
+                49
+            ],
+            "answer": "Advice",
+            "hint": "What this Acrostic\u2019s quoted passage helpfully gives you"
+        },
+        "D": {
+            "cells": [
+                127,
+                68,
+                161,
+                143,
+                22,
+                89,
+                45,
+                110
+            ],
+            "answer": "Rigidify",
+            "hint": "Become less flexible"
+        },
+        "E": {
+            "cells": [
+                10,
+                56,
+                125,
+                95,
+                76,
+                153,
+                27
+            ],
+            "answer": "Kipling",
+            "hint": "Din creator"
+        },
+        "F": {
+            "cells": [
+                158,
+                13,
+                134,
+                80,
+                111,
+                59
+            ],
+            "answer": "Taunts",
+            "hint": "Some verbal sticks and stones"
+        },
+        "G": {
+            "cells": [
+                146,
+                35,
+                48,
+                165,
+                92,
+                130,
+                15,
+                108
+            ],
+            "answer": "Highbrow",
+            "hint": "Aimed at eggheads"
+        },
+        "H": {
+            "cells": [
+                136,
+                100,
+                37,
+                16,
+                70,
+                52,
+                116,
+                154
+            ],
+            "answer": "Esposito",
+            "hint": "First N.H.L. player to score 100 points in a season"
+        },
+        "I": {
+            "cells": [
+                71,
+                55,
+                164,
+                33,
+                87,
+                8,
+                115,
+                131
+            ],
+            "answer": "Lot's wife",
+            "hint": "Name of a pillar near the Dead Sea at Mount Sodom (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                63,
+                97,
+                24,
+                46,
+                83,
+                152,
+                139,
+                166,
+                120
+            ],
+            "answer": "Antipodes",
+            "hint": "Rio and Tokyo, approximately"
+        },
+        "K": {
+            "cells": [
+                144,
+                38,
+                157,
+                75,
+                113,
+                96,
+                4,
+                21
+            ],
+            "answer": "Displace",
+            "hint": "Bump, in a way"
+        },
+        "L": {
+            "cells": [
+                128,
+                77,
+                34,
+                105,
+                7,
+                57
+            ],
+            "answer": "Yclept",
+            "hint": "Named in a quaint old fashion"
+        },
+        "M": {
+            "cells": [
+                5,
+                31,
+                104,
+                86,
+                133,
+                117
+            ],
+            "answer": "Abbott",
+            "hint": "Who placed Who on first"
+        },
+        "N": {
+            "cells": [
+                90,
+                109,
+                62,
+                6,
+                150,
+                132
+            ],
+            "answer": "Narnia",
+            "hint": "Where the White Witch was done in"
+        },
+        "O": {
+            "cells": [
+                17,
+                137,
+                41,
+                65,
+                79,
+                122,
+                1
+            ],
+            "answer": "Day lily",
+            "hint": "Flower with a short blooming period (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                54,
+                72,
+                160,
+                101,
+                119,
+                26
+            ],
+            "answer": "Tintin",
+            "hint": "Boy adventurer whose faithful dog is Snowy"
+        },
+        "Q": {
+            "cells": [
+                102,
+                147,
+                44,
+                20,
+                162,
+                81
+            ],
+            "answer": "Herzog",
+            "hint": "1979 director of \u201cNosferatu the Vampyre\u201d"
+        },
+        "R": {
+            "cells": [
+                103,
+                36,
+                19,
+                129,
+                155,
+                50,
+                82,
+                67
+            ],
+            "answer": "Epicurus",
+            "hint": "Early Greek believer in atoms"
+        },
+        "S": {
+            "cells": [
+                106,
+                170,
+                30,
+                85,
+                149,
+                42,
+                69,
+                121
+            ],
+            "answer": "Slyboots",
+            "hint": "Foxy sort of person"
+        },
+        "T": {
+            "cells": [
+                118,
+                61,
+                148,
+                12,
+                32
+            ],
+            "answer": "Hippy",
+            "hint": "The ____ Gourmet (PBS chef and former flower child)"
+        },
+        "U": {
+            "cells": [
+                84,
+                163,
+                107,
+                25,
+                40,
+                2,
+                138,
+                66
+            ],
+            "answer": "Antigone",
+            "hint": "Daughter of Oedipus who enraged Creon"
+        },
+        "V": {
+            "cells": [
+                28,
+                140,
+                60,
+                124,
+                159,
+                47,
+                91
+            ],
+            "answer": "Rapping",
+            "hint": "Activity for Chance, Drake or Future"
+        },
+        "W": {
+            "cells": [
+                78,
+                94,
+                114,
+                53,
+                14,
+                142,
+                39,
+                156
+            ],
+            "answer": "Klingons",
+            "hint": "Race with large foreheads"
+        },
+        "X": {
+            "cells": [
+                23,
+                73,
+                169,
+                51,
+                3,
+                99,
+                145
+            ],
+            "answer": "Ski suit",
+            "hint": "Outfit that may include salopettes (2 wds.)"
+        }
+    }
+}

@@ -1,0 +1,339 @@
+{
+    "answer": "Empathy isn\u2019t just something that happens to us\u2014a meteor shower of synapses firing across the brain\u2014it\u2019s also a choice we make: to pay attention, to extend ourselves. It\u2019s made of exertion, that dowdier cousin of impulse.",
+    "author": "(Leslie) Jamison,",
+    "authorCell": [
+        12,
+        80,
+        2,
+        66,
+        175,
+        168,
+        10,
+        151,
+        6,
+        96,
+        122,
+        41,
+        31,
+        138,
+        15,
+        21,
+        107,
+        176,
+        120,
+        106,
+        99,
+        14
+    ],
+    "source": "The Empathy Exams",
+    "clues": {
+        "A": {
+            "cells": [
+                12,
+                27,
+                70,
+                101,
+                172,
+                118,
+                43
+            ],
+            "answer": "Jackpot",
+            "hint": "Great fortune suddenly acquired"
+        },
+        "B": {
+            "cells": [
+                80,
+                123,
+                68,
+                145,
+                174,
+                54,
+                159,
+                9,
+                92
+            ],
+            "answer": "Angelfish",
+            "hint": "Common denizen of a home aquarium"
+        },
+        "C": {
+            "cells": [
+                2,
+                164,
+                39,
+                22,
+                95,
+                78,
+                115,
+                144
+            ],
+            "answer": "Music box",
+            "hint": "Tinkly melody producer (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                66,
+                167,
+                121,
+                19,
+                82,
+                47,
+                94,
+                142,
+                7
+            ],
+            "answer": "Intensify",
+            "hint": "Become stronger or more extreme"
+        },
+        "E": {
+            "cells": [
+                175,
+                152,
+                49,
+                75,
+                32,
+                13,
+                110
+            ],
+            "answer": "Shot put",
+            "hint": "Women\u2019s Olympic event since 1948 (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                168,
+                113,
+                26,
+                77,
+                52,
+                97,
+                8,
+                128,
+                143
+            ],
+            "answer": "Otherwise",
+            "hint": "Anything else; in a different way"
+        },
+        "G": {
+            "cells": [
+                10,
+                89,
+                28,
+                51,
+                105,
+                69,
+                124
+            ],
+            "answer": "Notepad",
+            "hint": "Asset for a reporter or a shopper"
+        },
+        "H": {
+            "cells": [
+                151,
+                42,
+                16,
+                109,
+                79,
+                126,
+                67
+            ],
+            "answer": "Test run",
+            "hint": "Bug-catching operation (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                6,
+                153,
+                131,
+                33,
+                63,
+                173,
+                116
+            ],
+            "answer": "Have fun",
+            "hint": "Get some enjoyment out of life (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                96,
+                162,
+                37,
+                130,
+                149,
+                24,
+                114,
+                62,
+                5
+            ],
+            "answer": "Ecologist",
+            "hint": "Likely sort to investigate global warming"
+        },
+        "K": {
+            "cells": [
+                122,
+                136,
+                36,
+                170,
+                18,
+                58,
+                147,
+                102,
+                158
+            ],
+            "answer": "Estimated",
+            "hint": "Given a rough calculation"
+        },
+        "L": {
+            "cells": [
+                41,
+                61,
+                23,
+                156,
+                84,
+                103,
+                134
+            ],
+            "answer": "Menotti",
+            "hint": "Composer of \u201cAmahl and the Night Visitors\u201d"
+        },
+        "M": {
+            "cells": [
+                31,
+                141,
+                165,
+                117,
+                48,
+                86,
+                73,
+                11,
+                98
+            ],
+            "answer": "Posthaste",
+            "hint": "Lickety-split, with no dawdling"
+        },
+        "N": {
+            "cells": [
+                138,
+                3,
+                163,
+                35,
+                20,
+                108,
+                85,
+                56
+            ],
+            "answer": "Apostasy",
+            "hint": "Total departure from one\u2019s beliefs or party"
+        },
+        "O": {
+            "cells": [
+                15,
+                104,
+                30,
+                55,
+                154,
+                132,
+                71
+            ],
+            "answer": "Toaster",
+            "hint": "Browning\u2019s facilitator?"
+        },
+        "P": {
+            "cells": [
+                21,
+                90,
+                148,
+                65,
+                112,
+                44,
+                135
+            ],
+            "answer": "Hairnet",
+            "hint": "Item often worn by a food service worker"
+        },
+        "Q": {
+            "cells": [
+                107,
+                125,
+                74,
+                88,
+                40,
+                146,
+                166,
+                4,
+                57
+            ],
+            "answer": "Yossarian",
+            "hint": "Protagonist of \u201cCatch-22\u201d"
+        },
+        "R": {
+            "cells": [
+                176,
+                81,
+                139,
+                111,
+                127,
+                155,
+                93,
+                50,
+                34
+            ],
+            "answer": "Eiderdown",
+            "hint": "Comforter material"
+        },
+        "S": {
+            "cells": [
+                120,
+                91,
+                29,
+                161,
+                17,
+                137,
+                45,
+                60,
+                72,
+                171,
+                1
+            ],
+            "answer": "X chromosome",
+            "hint": "What men have once and women twice (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                106,
+                87,
+                140,
+                157,
+                64,
+                169,
+                119
+            ],
+            "answer": "Alewife",
+            "hint": "Herring family member"
+        },
+        "U": {
+            "cells": [
+                99,
+                53,
+                38,
+                150,
+                25,
+                83,
+                129
+            ],
+            "answer": "Mountie",
+            "hint": "Wearer of the Red Serge"
+        },
+        "V": {
+            "cells": [
+                14,
+                76,
+                160,
+                46,
+                59,
+                100,
+                133
+            ],
+            "answer": "Sherpas",
+            "hint": "Those who help people get high?"
+        }
+    }
+}

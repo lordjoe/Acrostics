@@ -1,0 +1,363 @@
+{
+    "answer": "Let me tell you about red-footed boobies. They are white with long pointy bills and pouchy necks like pelicans\u2019. Their feet are... scarlet. If you come... close..., [they] rise up flapping and... scream... and... barf squid vomit on [you].",
+    "author": "Allegra Goodman,",
+    "authorCell": [
+        105,
+        135,
+        1,
+        82,
+        141,
+        39,
+        88,
+        53,
+        15,
+        171,
+        144,
+        117,
+        65,
+        74,
+        137,
+        149,
+        95,
+        142,
+        162,
+        94,
+        145,
+        102,
+        138,
+        136,
+        147,
+        77
+    ],
+    "source": "Paradise Park",
+    "clues": {
+        "A": {
+            "cells": [
+                105,
+                85,
+                59,
+                33,
+                130,
+                16,
+                165
+            ],
+            "answer": "Alyssum",
+            "hint": "Flowering herb also called madwort and once believed to cure rabies"
+        },
+        "B": {
+            "cells": [
+                135,
+                31,
+                154,
+                18,
+                84,
+                167,
+                44,
+                55
+            ],
+            "answer": "Libretto",
+            "hint": "It might be applied to a score"
+        },
+        "C": {
+            "cells": [
+                1,
+                110,
+                150,
+                133
+            ],
+            "answer": "Limp",
+            "hint": "Lacking vitality; pedestrian\u2019s problem"
+        },
+        "D": {
+            "cells": [
+                82,
+                161,
+                26,
+                148,
+                3,
+                47,
+                119
+            ],
+            "answer": "Eidetic",
+            "hint": "Having vividly detailed imagery"
+        },
+        "E": {
+            "cells": [
+                141,
+                151,
+                107,
+                2,
+                66,
+                13
+            ],
+            "answer": "Galena",
+            "hint": "Illinois town named for a variety of ore once mined there"
+        },
+        "F": {
+            "cells": [
+                39,
+                113,
+                169,
+                67,
+                7,
+                79
+            ],
+            "answer": "Rondel",
+            "hint": "Verse with 14 lines and two rhymes"
+        },
+        "G": {
+            "cells": [
+                88,
+                103,
+                42,
+                71,
+                156,
+                22,
+                134,
+                6
+            ],
+            "answer": "Ashcroft",
+            "hint": "Reno\u2019s successor as attorney general"
+        },
+        "H": {
+            "cells": [
+                53,
+                23,
+                78,
+                35,
+                98,
+                152
+            ],
+            "answer": "Goshen",
+            "hint": "Fertile district in Egypt settled by the Israelites"
+        },
+        "I": {
+            "cells": [
+                15,
+                96,
+                111,
+                54,
+                5,
+                155,
+                81
+            ],
+            "answer": "Off-peak",
+            "hint": "Opposite of \u201crush\u201d (hyph.)"
+        },
+        "J": {
+            "cells": [
+                171,
+                14,
+                90,
+                104,
+                32,
+                140,
+                123
+            ],
+            "answer": "Obscene",
+            "hint": "Awfully blue"
+        },
+        "K": {
+            "cells": [
+                144,
+                126,
+                63,
+                97,
+                34,
+                108
+            ],
+            "answer": "Delete",
+            "hint": "Word-processing option"
+        },
+        "L": {
+            "cells": [
+                117,
+                168,
+                132,
+                99,
+                49
+            ],
+            "answer": "Mouth",
+            "hint": "Stomatologist\u2019s study, with \u201cthe\u201d"
+        },
+        "M": {
+            "cells": [
+                65,
+                146,
+                172,
+                129,
+                48,
+                112
+            ],
+            "answer": "Acuity",
+            "hint": "Keenness, as of mind or vision"
+        },
+        "N": {
+            "cells": [
+                74,
+                164,
+                17,
+                57,
+                116,
+                41
+            ],
+            "answer": "\u201cNot now\u201d",
+            "hint": "\u201cI\u2019m busy, bother me later\u201d (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                137,
+                19,
+                109,
+                86,
+                58,
+                157,
+                36,
+                70
+            ],
+            "answer": "Petit feu",
+            "hint": "Technique for firing ceramics at low temperature (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                149,
+                159,
+                114,
+                139,
+                21,
+                45,
+                128
+            ],
+            "answer": "Aquifer",
+            "hint": "Water supply for wells, springs, etc."
+        },
+        "Q": {
+            "cells": [
+                95,
+                69,
+                27,
+                106,
+                11,
+                170
+            ],
+            "answer": "Rob Roy",
+            "hint": "Cocktail named for a Scottish freebooter (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                142,
+                83,
+                68,
+                50,
+                40,
+                124
+            ],
+            "answer": "Applet",
+            "hint": "Computer program requiring very little memory"
+        },
+        "S": {
+            "cells": [
+                162,
+                38,
+                143,
+                80,
+                64,
+                125
+            ],
+            "answer": "Danish",
+            "hint": "Coffee accompanier for many commuters"
+        },
+        "T": {
+            "cells": [
+                94,
+                20,
+                37,
+                8,
+                120,
+                166,
+                76
+            ],
+            "answer": "Idyllic",
+            "hint": "Like Tennyson\u2019s decade of Arthurian tales"
+        },
+        "U": {
+            "cells": [
+                145,
+                127,
+                62,
+                9,
+                100,
+                30,
+                43
+            ],
+            "answer": "Syllabi",
+            "hint": "Course outlines"
+        },
+        "V": {
+            "cells": [
+                102,
+                115,
+                28,
+                89,
+                51,
+                4,
+                73
+            ],
+            "answer": "Economy",
+            "hint": "Class on a flight"
+        },
+        "W": {
+            "cells": [
+                138,
+                92,
+                29,
+                75,
+                60,
+                160,
+                122
+            ],
+            "answer": "Phoebus",
+            "hint": "Epithet of Apollo; the sun personified"
+        },
+        "X": {
+            "cells": [
+                136,
+                101,
+                87,
+                72,
+                56,
+                163,
+                25,
+                153
+            ],
+            "answer": "Archived",
+            "hint": "Stored, as data or public records"
+        },
+        "Y": {
+            "cells": [
+                147,
+                121,
+                12,
+                24,
+                61,
+                52,
+                93
+            ],
+            "answer": "Routine",
+            "hint": "Nothing out of the ordinary"
+        },
+        "Z": {
+            "cells": [
+                77,
+                118,
+                10,
+                46,
+                131,
+                158,
+                91
+            ],
+            "answer": "Key West",
+            "hint": "Southernmost city of the continental United States (2 wds.)"
+        }
+    }
+}

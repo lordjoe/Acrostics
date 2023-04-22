@@ -1,0 +1,353 @@
+{
+    "answer": "It is in our nature to dramatize. ...(W)e reinterpret the weather - an essentially impersonal phenomenon - into an expression of our current view of the universe. \u201cGreat. It\u2018s raining. Just when I\u2019m blue. Isn\u2019t that just like life?\u201d",
+    "author": "(David) Mamet,",
+    "authorCell": [
+        21,
+        71,
+        64,
+        30,
+        110,
+        33,
+        118,
+        9,
+        15,
+        176,
+        8,
+        167,
+        172,
+        135,
+        81,
+        175,
+        16,
+        47,
+        127,
+        171,
+        159,
+        3,
+        116,
+        44
+    ],
+    "source": "Three Uses Of The Knife",
+    "clues": {
+        "A": {
+            "cells": [
+                21,
+                7,
+                107,
+                91,
+                74,
+                48,
+                155,
+                126
+            ],
+            "answer": "Morpheus",
+            "hint": "Dreamy god of Greeks and Romans"
+        },
+        "B": {
+            "cells": [
+                71,
+                19,
+                136,
+                96,
+                123,
+                108,
+                45,
+                164
+            ],
+            "answer": "Arrive at",
+            "hint": "Come to, as a decision (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                64,
+                28,
+                129,
+                104,
+                162,
+                87,
+                150,
+                46
+            ],
+            "answer": "Merchant",
+            "hint": "Practitioner of capitalism"
+        },
+        "D": {
+            "cells": [
+                30,
+                67,
+                10,
+                138,
+                93
+            ],
+            "answer": "Ernie",
+            "hint": "Muppet with Rubber Duckie"
+        },
+        "E": {
+            "cells": [
+                110,
+                148,
+                79,
+                14,
+                131,
+                36,
+                170,
+                54,
+                2
+            ],
+            "answer": "Therapist",
+            "hint": "Seated figure in many New Yorker cartoons"
+        },
+        "F": {
+            "cells": [
+                33,
+                125,
+                69,
+                143,
+                163,
+                88
+            ],
+            "answer": "Trojan",
+            "hint": "Shakespeare\u2019s Cressida, for one"
+        },
+        "G": {
+            "cells": [
+                118,
+                11,
+                31,
+                60,
+                94,
+                134,
+                77,
+                106,
+                152
+            ],
+            "answer": "Hailstorm",
+            "hint": "Striking event in meteorology"
+        },
+        "H": {
+            "cells": [
+                9,
+                101,
+                27,
+                58,
+                82,
+                128
+            ],
+            "answer": "Rowing",
+            "hint": "Earliest U.S. intercollegiate sport (1852)"
+        },
+        "I": {
+            "cells": [
+                15,
+                29,
+                75,
+                153,
+                120,
+                95
+            ],
+            "answer": "Erebus",
+            "hint": "Volcanic mount of Antarctica"
+        },
+        "J": {
+            "cells": [
+                176,
+                80,
+                161,
+                35,
+                149,
+                98,
+                115,
+                13,
+                53
+            ],
+            "answer": "\u201cEntre Nous\u201d",
+            "hint": "Privately (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                8,
+                141,
+                49,
+                24,
+                65,
+                89
+            ],
+            "answer": "Unripe",
+            "hint": "Like harvested bananas, usually"
+        },
+        "L": {
+            "cells": [
+                167,
+                20,
+                140,
+                84,
+                40,
+                154,
+                62
+            ],
+            "answer": "Saintly",
+            "hint": "Pious, perfect"
+        },
+        "M": {
+            "cells": [
+                172,
+                158,
+                85,
+                52,
+                111,
+                130,
+                25
+            ],
+            "answer": "Estevez",
+            "hint": "Last name on Martin Sheen\u2019s passport"
+        },
+        "N": {
+            "cells": [
+                135,
+                56,
+                99,
+                114,
+                169,
+                83,
+                32,
+                156
+            ],
+            "answer": "Snow line",
+            "hint": "It may go up a mountain in the spring (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                81,
+                166,
+                39,
+                147,
+                133,
+                57
+            ],
+            "answer": "Outwit",
+            "hint": "Best with brainpower"
+        },
+        "P": {
+            "cells": [
+                175,
+                55,
+                157,
+                142,
+                76,
+                124,
+                18
+            ],
+            "answer": "Feigned",
+            "hint": "Not for real, insincere, sham"
+        },
+        "Q": {
+            "cells": [
+                16,
+                92,
+                38,
+                50,
+                132,
+                151,
+                68,
+                113
+            ],
+            "answer": "Treatise",
+            "hint": "\u201cDas Kapital\u201d or \u201cCommon Sense,\u201d e.g."
+        },
+        "R": {
+            "cells": [
+                47,
+                122,
+                73,
+                165,
+                97,
+                5,
+                139,
+                23
+            ],
+            "answer": "Hip joint",
+            "hint": "Coxa, in anatomy (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                127,
+                109,
+                72,
+                1,
+                145,
+                160,
+                26,
+                42
+            ],
+            "answer": "Enlistee",
+            "hint": "One signing up for a tour"
+        },
+        "T": {
+            "cells": [
+                171,
+                105,
+                43,
+                22,
+                63,
+                117
+            ],
+            "answer": "Kuwait",
+            "hint": "Gulf war battleground"
+        },
+        "U": {
+            "cells": [
+                159,
+                17,
+                37,
+                78,
+                59,
+                6,
+                173,
+                119,
+                137,
+                103
+            ],
+            "answer": "Norman Lear",
+            "hint": "Producer of \u201cThe Jeffersons\u201d and \u201cMaude\u201d (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                3,
+                70,
+                100,
+                112,
+                51,
+                174,
+                146,
+                34
+            ],
+            "answer": "Infinite",
+            "hint": "One ___ Loop (Apple\u2019s street address)"
+        },
+        "W": {
+            "cells": [
+                116,
+                61,
+                102,
+                4,
+                41,
+                86,
+                168
+            ],
+            "answer": "Flu shot",
+            "hint": "Bug repellent? (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                44,
+                90,
+                66,
+                144,
+                121,
+                12
+            ],
+            "answer": "Exeunt",
+            "hint": "Direction for departing players"
+        }
+    }
+}

@@ -1,0 +1,357 @@
+{
+    "answer": "Dale always shouted \u201cAiee!\u201d when he was in pain. It... amazed me... when I first heard him stubbing his toe..., since I had never imagined that expressions of pain could vary. I... thought \u201cOuch!\u201d and \u201cOw!\u201d were the same all over the world.",
+    "author": "Stephen Fry,",
+    "authorCell": [
+        11,
+        38,
+        158,
+        33,
+        137,
+        4,
+        121,
+        117,
+        129,
+        9,
+        64,
+        123,
+        95,
+        68,
+        112,
+        65,
+        45,
+        130,
+        169,
+        29,
+        111,
+        48,
+        107,
+        146,
+        76
+    ],
+    "source": "Moab is My Washpot",
+    "clues": {
+        "A": {
+            "cells": [
+                11,
+                62,
+                105,
+                49,
+                79,
+                153
+            ],
+            "answer": "Sheesh",
+            "hint": "Utterance of exasperation"
+        },
+        "B": {
+            "cells": [
+                38,
+                14,
+                108,
+                81,
+                134,
+                90,
+                154,
+                54
+            ],
+            "answer": "Turnover",
+            "hint": "Samosa or empanada"
+        },
+        "C": {
+            "cells": [
+                158,
+                122,
+                23,
+                35,
+                88,
+                140,
+                115
+            ],
+            "answer": "Echinus",
+            "hint": "Common sea urchin\u2019s genus"
+        },
+        "D": {
+            "cells": [
+                33,
+                91,
+                10,
+                66,
+                161,
+                109
+            ],
+            "answer": "Pestle",
+            "hint": "\u201cThe Knight of the Burning ___\u201d (comedy by Francis Beaumont, ca. 1607)"
+        },
+        "E": {
+            "cells": [
+                137,
+                19,
+                69,
+                119,
+                82,
+                102,
+                53
+            ],
+            "answer": "Hibachi",
+            "hint": "Backyard barbecue equipment"
+        },
+        "F": {
+            "cells": [
+                4,
+                94,
+                41,
+                71,
+                135,
+                16,
+                160,
+                59,
+                106
+            ],
+            "answer": "Emanuel Ax",
+            "hint": "Polish-born pianist who won the Avery Fisher Prize in 1979 (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                121,
+                164,
+                104,
+                74,
+                42,
+                20,
+                32
+            ],
+            "answer": "Netizen",
+            "hint": "Member of the on-line community"
+        },
+        "H": {
+            "cells": [
+                117,
+                92,
+                18,
+                50,
+                152,
+                31,
+                141
+            ],
+            "answer": "\u201cFrantic\u201d",
+            "hint": "1988 Roman Polanski thriller with Harrison Ford"
+        },
+        "I": {
+            "cells": [
+                129,
+                21,
+                1,
+                166,
+                37,
+                145,
+                83
+            ],
+            "answer": "Red tide",
+            "hint": "Toxic bloom of dinoflagellates (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                9,
+                27,
+                155,
+                85,
+                51,
+                127,
+                103
+            ],
+            "answer": "Yeshiva",
+            "hint": "University that includes the Albert Einstein School of Medicine"
+        },
+        "K": {
+            "cells": [
+                64,
+                77,
+                147,
+                96,
+                6,
+                131
+            ],
+            "answer": "Mowgli",
+            "hint": "Human friend of Baloo and Bagheera, in Kipling"
+        },
+        "L": {
+            "cells": [
+                123,
+                172,
+                100,
+                157,
+                2,
+                63,
+                44
+            ],
+            "answer": "Old Maid",
+            "hint": "Game played with 51 cards (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                95,
+                67,
+                132,
+                113,
+                17,
+                159,
+                52,
+                43
+            ],
+            "answer": "Auto-da-fé",
+            "hint": "Frequent fate of those condemned by the Spanish Inquisition (hyph.)"
+        },
+        "N": {
+            "cells": [
+                68,
+                46,
+                89,
+                26,
+                120,
+                163,
+                149
+            ],
+            "answer": "Beehive",
+            "hint": "Locale of busy activity"
+        },
+        "O": {
+            "cells": [
+                112,
+                171,
+                7,
+                70,
+                98,
+                55,
+                133,
+                39,
+                148
+            ],
+            "answer": "Irwin Shaw",
+            "hint": "\u201cRich Man, Poor Man\u201d author (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                65,
+                12,
+                162,
+                28,
+                99,
+                150
+            ],
+            "answer": "Shower",
+            "hint": "Party in someone\u2019s honor"
+        },
+        "Q": {
+            "cells": [
+                45,
+                143,
+                165,
+                93,
+                36,
+                128
+            ],
+            "answer": "Marina",
+            "hint": "Yacht club facility"
+        },
+        "R": {
+            "cells": [
+                130,
+                58,
+                86,
+                101,
+                75
+            ],
+            "answer": "Yeats",
+            "hint": "\u201cLong-Legged Fly\u201d poet"
+        },
+        "S": {
+            "cells": [
+                169,
+                139,
+                60,
+                110,
+                15,
+                78,
+                126
+            ],
+            "answer": "Worsted",
+            "hint": "Wool cloth having no nap; beat"
+        },
+        "T": {
+            "cells": [
+                29,
+                144,
+                87,
+                73,
+                13,
+                47
+            ],
+            "answer": "And how",
+            "hint": "\u201cYou said it!\u201d (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                111,
+                167,
+                80,
+                5,
+                56,
+                30,
+                124
+            ],
+            "answer": "Shiatsu",
+            "hint": "Massage technique that uses acupressure"
+        },
+        "V": {
+            "cells": [
+                48,
+                97,
+                173,
+                156,
+                3,
+                72,
+                116
+            ],
+            "answer": "Hidalgo",
+            "hint": "Mountainous Mexican state"
+        },
+        "W": {
+            "cells": [
+                107,
+                84,
+                136,
+                118,
+                168,
+                25
+            ],
+            "answer": "Pig Pen",
+            "hint": "Cartoon character in a perpetual cloud of dust (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                146,
+                114,
+                138,
+                57,
+                24,
+                125,
+                8,
+                40
+            ],
+            "answer": "On the lam",
+            "hint": "Hiding from the law (3 wds.)"
+        },
+        "Y": {
+            "cells": [
+                76,
+                170,
+                22,
+                142,
+                151,
+                34,
+                61
+            ],
+            "answer": "Towhead",
+            "hint": "Person with white-blond hair"
+        }
+    }
+}

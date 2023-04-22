@@ -1,0 +1,345 @@
+{
+    "answer": "Wooden-headedness, the source of self-deception,... plays a remarkably large role in government. It consists in assessing a situation in terms of preconceived... notions... while not allowing oneself to be deflected by the facts.",
+    "author": "(Barbara W.) Tuchman,",
+    "authorCell": [
+        175,
+        22,
+        80,
+        176,
+        114,
+        90,
+        108,
+        17,
+        18,
+        112,
+        74,
+        104,
+        62,
+        121,
+        7,
+        39,
+        178,
+        159,
+        143,
+        147,
+        167,
+        174
+    ],
+    "source": "The March of Folly",
+    "clues": {
+        "A": {
+            "cells": [
+                175,
+                66,
+                130,
+                100,
+                29,
+                146
+            ],
+            "answer": "Tinsel",
+            "hint": "Superficial glamour of little real worth"
+        },
+        "B": {
+            "cells": [
+                22,
+                41,
+                181,
+                3,
+                129,
+                58,
+                144,
+                157
+            ],
+            "answer": "Up-to-date",
+            "hint": "Like the latest news (hyph.)"
+        },
+        "C": {
+            "cells": [
+                80,
+                59,
+                148,
+                94,
+                115,
+                164,
+                23,
+                5,
+                136,
+                45
+            ],
+            "answer": "Cross-dress",
+            "hint": "Go in reverse gear? (hyph.)"
+        },
+        "D": {
+            "cells": [
+                176,
+                50,
+                119,
+                36,
+                153,
+                63,
+                97,
+                16
+            ],
+            "answer": "Harpoons",
+            "hint": "Equipment for whale hunters"
+        },
+        "E": {
+            "cells": [
+                114,
+                9,
+                152,
+                73,
+                33,
+                86,
+                101,
+                169
+            ],
+            "answer": "Magnetic",
+            "hint": "Having a certain attractiveness"
+        },
+        "F": {
+            "cells": [
+                90,
+                117,
+                31,
+                179,
+                162,
+                64,
+                14
+            ],
+            "answer": "Affable",
+            "hint": "At ease, pleasant, friendly"
+        },
+        "G": {
+            "cells": [
+                108,
+                11,
+                180,
+                25,
+                156,
+                91,
+                133,
+                77,
+                56
+            ],
+            "answer": "Necessity",
+            "hint": "Idiomatically famous mother"
+        },
+        "H": {
+            "cells": [
+                17,
+                165,
+                151,
+                135,
+                96,
+                83,
+                110,
+                65,
+                37
+            ],
+            "answer": "Tennis net",
+            "hint": "Divider that sags slightly in the middle (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                18,
+                145,
+                84,
+                72,
+                118,
+                106,
+                163,
+                34,
+                48
+            ],
+            "answer": "Hairpiece",
+            "hint": "Set of new locks"
+        },
+        "J": {
+            "cells": [
+                112,
+                82,
+                166,
+                35,
+                155,
+                54,
+                140,
+                128,
+                4
+            ],
+            "answer": "Enfeebled",
+            "hint": "Made weak and ineffective"
+        },
+        "K": {
+            "cells": [
+                74,
+                168,
+                15,
+                28,
+                49,
+                99,
+                111,
+                141,
+                87
+            ],
+            "answer": "Messmates",
+            "hint": "Companions in a military hall"
+        },
+        "L": {
+            "cells": [
+                104,
+                173,
+                46,
+                89,
+                32,
+                122,
+                13
+            ],
+            "answer": "Abandon",
+            "hint": "A thorough yielding to natural impulses"
+        },
+        "M": {
+            "cells": [
+                62,
+                120,
+                98,
+                47,
+                19,
+                79,
+                182
+            ],
+            "answer": "Regrets",
+            "hint": "Polite word of declination"
+        },
+        "N": {
+            "cells": [
+                121,
+                139,
+                76,
+                24,
+                88,
+                154,
+                6,
+                53,
+                102,
+                38
+            ],
+            "answer": "Cincinnati",
+            "hint": "City called the \u201cQueen of the West\u201d by Longfellow"
+        },
+        "O": {
+            "cells": [
+                7,
+                131,
+                105,
+                172,
+                26,
+                68,
+                92
+            ],
+            "answer": "Hot dogs",
+            "hint": "Show-offy sorts (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                39,
+                67,
+                124,
+                51,
+                93,
+                12,
+                150,
+                170
+            ],
+            "answer": "On credit",
+            "hint": "Using plastic, perhaps (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                178,
+                43,
+                55,
+                85,
+                71,
+                160,
+                132,
+                107
+            ],
+            "answer": "Falsetto",
+            "hint": "High-toned?"
+        },
+        "R": {
+            "cells": [
+                159,
+                30,
+                81,
+                137,
+                125,
+                113,
+                177,
+                10
+            ],
+            "answer": "Flowered",
+            "hint": "Developed to full and lovely potential"
+        },
+        "S": {
+            "cells": [
+                143,
+                57,
+                109,
+                127,
+                75,
+                2,
+                44,
+                158
+            ],
+            "answer": "Olive Oyl",
+            "hint": "Cartoon character with a brother named Castor (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                147,
+                116,
+                70,
+                171,
+                20,
+                134,
+                40,
+                60,
+                95
+            ],
+            "answer": "Love songs",
+            "hint": "Troubadour\u2019s output (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                167,
+                126,
+                27,
+                61,
+                42,
+                78,
+                142,
+                8
+            ],
+            "answer": "Lifeline",
+            "hint": "Means of salvation in a crisis"
+        },
+        "V": {
+            "cells": [
+                174,
+                161,
+                103,
+                52,
+                123,
+                21,
+                149,
+                1,
+                138,
+                69
+            ],
+            "answer": "You know who",
+            "hint": "\u201cWe don\u2019t have to mention his name\u201d (3 wds.)"
+        }
+    }
+}

@@ -1,0 +1,334 @@
+{
+    "answer": "[A]... contortionist... experienced a rubber man\u2019s worst nightmare...-his... foot got stuck behind his neck. ...[H]is circus pals ignored his cries for help because they thought he was joking. ...[He] had \u201c...pins and needles for ages afterwards.\u201d",
+    "author": "NPR,",
+    "authorCell": [
+        11,
+        17,
+        176,
+        37,
+        89,
+        100,
+        46,
+        174,
+        135,
+        104,
+        14,
+        25,
+        127,
+        150,
+        5,
+        60,
+        172,
+        159,
+        112,
+        47,
+        167
+    ],
+    "source": "Wait, Wait... Don\u2019t Tell Me!",
+    "clues": {
+        "A": {
+            "cells": [
+                11,
+                95,
+                70,
+                138,
+                42,
+                178,
+                115,
+                155,
+                87,
+                31
+            ],
+            "answer": "No-nonsense",
+            "hint": "Businesslike, utilitarian (hyph.)"
+        },
+        "B": {
+            "cells": [
+                17,
+                118,
+                161,
+                132,
+                65,
+                80,
+                35
+            ],
+            "answer": "Pushkin",
+            "hint": "City named for a poet, formerly a summer residence for czars"
+        },
+        "C": {
+            "cells": [
+                176,
+                120,
+                69,
+                85,
+                99,
+                36,
+                8,
+                152,
+                142
+            ],
+            "answer": "Reichstag",
+            "hint": "Building housing Germany\u2019s parliament"
+        },
+        "D": {
+            "cells": [
+                37,
+                96,
+                73,
+                57,
+                144,
+                10,
+                107,
+                170
+            ],
+            "answer": "Write-off",
+            "hint": "Loss in accounting (hyph.)"
+        },
+        "E": {
+            "cells": [
+                89,
+                7,
+                77,
+                110,
+                29,
+                140,
+                101,
+                122,
+                38,
+                148
+            ],
+            "answer": "Archbishop",
+            "hint": "Man in a pointed hat"
+        },
+        "F": {
+            "cells": [
+                100,
+                22,
+                154,
+                83,
+                166,
+                55
+            ],
+            "answer": "Indigo",
+            "hint": "Dye used in the wrappings of some Egyptian mummies"
+        },
+        "G": {
+            "cells": [
+                46,
+                76,
+                33,
+                113,
+                131,
+                162,
+                146,
+                62,
+                21
+            ],
+            "answer": "Tempt fate",
+            "hint": "Flirt with disaster (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                174,
+                26,
+                121,
+                160,
+                39,
+                13,
+                79,
+                111,
+                98
+            ],
+            "answer": "Watershed",
+            "hint": "Point of significant change"
+        },
+        "I": {
+            "cells": [
+                135,
+                23,
+                45,
+                67,
+                91,
+                56,
+                153
+            ],
+            "answer": "Acheson",
+            "hint": "Secretary of state under Truman"
+        },
+        "J": {
+            "cells": [
+                104,
+                84,
+                149,
+                40,
+                130,
+                53,
+                15,
+                1
+            ],
+            "answer": "Irish Sea",
+            "hint": "Where the Isle of Man lies (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                14,
+                109,
+                63,
+                90,
+                124
+            ],
+            "answer": "Truly",
+            "hint": "Indeed, without question"
+        },
+        "L": {
+            "cells": [
+                25,
+                86,
+                177,
+                156,
+                49,
+                117,
+                141,
+                2,
+                72
+            ],
+            "answer": "Dude ranch",
+            "hint": "Vacation spot for city folk (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                127,
+                16,
+                54,
+                163,
+                103,
+                147
+            ],
+            "answer": "Oxford",
+            "hint": "Where J. R. R. Tolkien and C. S. Lewis taught"
+        },
+        "N": {
+            "cells": [
+                150,
+                169,
+                19,
+                102,
+                43,
+                74,
+                61,
+                92,
+                136,
+                125
+            ],
+            "answer": "Narcissist",
+            "hint": "\u201cA ___ is someone better looking than you are\u201d (Gore Vidal)"
+        },
+        "O": {
+            "cells": [
+                5,
+                108,
+                28,
+                82,
+                51,
+                66,
+                165,
+                151,
+                123
+            ],
+            "answer": "Touch base",
+            "hint": "Establish contact (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                60,
+                126,
+                173,
+                24,
+                157,
+                139,
+                9,
+                94,
+                44,
+                106
+            ],
+            "answer": "\u201cThree Kings\u201d",
+            "hint": "1999 film set in Iraq (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                172,
+                4,
+                158,
+                59,
+                134,
+                50,
+                71
+            ],
+            "answer": "Endowed",
+            "hint": "Having natural gifts or a steady provision of funds"
+        },
+        "R": {
+            "cells": [
+                159,
+                52,
+                171,
+                145,
+                6,
+                119,
+                88,
+                68,
+                133,
+                27,
+                105
+            ],
+            "answer": "Lithosphere",
+            "hint": "The crust and upper mantle of the earth"
+        },
+        "S": {
+            "cells": [
+                112,
+                12,
+                129,
+                143,
+                41,
+                81,
+                175,
+                30,
+                97,
+                164
+            ],
+            "answer": "Lightsaber",
+            "hint": "Weapon of modern science fiction"
+        },
+        "T": {
+            "cells": [
+                47,
+                18,
+                93,
+                34,
+                114,
+                128,
+                64,
+                78,
+                168
+            ],
+            "answer": "Megabucks",
+            "hint": "Lottery jackpot"
+        },
+        "U": {
+            "cells": [
+                167,
+                32,
+                20,
+                116,
+                48,
+                137,
+                3,
+                75,
+                58
+            ],
+            "answer": "Erica Jong",
+            "hint": "\u201cFear of Fifty\u201d memoirist, 1994 (2 wds.)"
+        }
+    }
+}

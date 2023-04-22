@@ -1,0 +1,350 @@
+{
+    "answer": "According to the books,... the alpha male [baboon]... spearheaded the hunts, defended against predators, kept the females in line, changed the lightbulbs, fixed the car, blah blah blah.... Most of that turned out to be wrong, naturally.",
+    "author": "(Robert) Sapolsky,",
+    "authorCell": [
+        120,
+        152,
+        83,
+        78,
+        141,
+        38,
+        81,
+        180,
+        138,
+        39,
+        42,
+        7,
+        90,
+        41,
+        85,
+        51,
+        146,
+        28,
+        166,
+        144,
+        11,
+        122,
+        79
+    ],
+    "source": "A Primate\u2019s Memoir",
+    "clues": {
+        "A": {
+            "cells": [
+                120,
+                173,
+                61,
+                46,
+                80,
+                147,
+                4,
+                104,
+                158
+            ],
+            "answer": "Sandstone",
+            "hint": "Composition of Enchanted Mesa"
+        },
+        "B": {
+            "cells": [
+                152,
+                167,
+                40,
+                98,
+                9,
+                86
+            ],
+            "answer": "Aweigh",
+            "hint": "Clear of the bottom, at sea"
+        },
+        "C": {
+            "cells": [
+                83,
+                177,
+                92,
+                14,
+                33,
+                111,
+                63
+            ],
+            "answer": "Pale ale",
+            "hint": "Choice in a brewpub (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                78,
+                161,
+                108,
+                34,
+                142,
+                129,
+                18
+            ],
+            "answer": "Outback",
+            "hint": "Hinterland, sticks"
+        },
+        "E": {
+            "cells": [
+                141,
+                45,
+                8,
+                57,
+                178,
+                155,
+                116,
+                15,
+                93,
+                73
+            ],
+            "answer": "Landlubber",
+            "hint": "Opposite of a shellback"
+        },
+        "F": {
+            "cells": [
+                38,
+                117,
+                6,
+                75,
+                58,
+                172,
+                107,
+                89,
+                130,
+                154,
+                26
+            ],
+            "answer": "Sudden death",
+            "hint": "Form of overtime (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                81,
+                95,
+                140,
+                165,
+                30,
+                110
+            ],
+            "answer": "Kibble",
+            "hint": "Chow chow chow"
+        },
+        "H": {
+            "cells": [
+                180,
+                44,
+                96,
+                71,
+                118
+            ],
+            "answer": "\u201cYentl\u201d",
+            "hint": "1983 film in which an actress plays the lead role of a young man"
+        },
+        "I": {
+            "cells": [
+                138,
+                115,
+                97,
+                47,
+                157,
+                66,
+                174,
+                13
+            ],
+            "answer": "At length",
+            "hint": "Eventually; voluminously (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                39,
+                114,
+                164,
+                70,
+                25,
+                102,
+                134,
+                150,
+                87
+            ],
+            "answer": "Phosphate",
+            "hint": "Fountain drink made from syrup and carbonated water"
+        },
+        "K": {
+            "cells": [
+                42,
+                135,
+                88,
+                103,
+                2,
+                77,
+                17,
+                168
+            ],
+            "answer": "Rh factor",
+            "hint": "Substance that may induce an antigenic response (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                7,
+                170,
+                48,
+                124,
+                72,
+                20,
+                143
+            ],
+            "answer": "In-depth",
+            "hint": "Highly detailed (hyph.)"
+        },
+        "M": {
+            "cells": [
+                90,
+                145,
+                162,
+                43,
+                22,
+                5,
+                52,
+                82,
+                69
+            ],
+            "answer": "Mother hen",
+            "hint": "Overly protective sort (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                41,
+                59,
+                126,
+                74,
+                176,
+                163,
+                27,
+                94,
+                153,
+                106
+            ],
+            "answer": "Aftertaste",
+            "hint": "Lingering sensation, often unpleasant"
+        },
+        "O": {
+            "cells": [
+                85,
+                36,
+                131,
+                56,
+                68,
+                160,
+                99
+            ],
+            "answer": "Torsion",
+            "hint": "Stress from twisting"
+        },
+        "P": {
+            "cells": [
+                51,
+                62,
+                159,
+                112,
+                128,
+                137,
+                76,
+                37,
+                171
+            ],
+            "answer": "Eddie Lang",
+            "hint": "Jazz guitar virtuoso of the 1920\u2019s-30\u2019s (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                146,
+                65,
+                54,
+                125,
+                29,
+                179
+            ],
+            "answer": "Sandal",
+            "hint": "Zori or huarache"
+        },
+        "R": {
+            "cells": [
+                28,
+                67,
+                55,
+                3,
+                109,
+                132,
+                16,
+                123
+            ],
+            "answer": "Matchbox",
+            "hint": "Brand name of some collectible miniature vehicles"
+        },
+        "S": {
+            "cells": [
+                166,
+                113,
+                105,
+                84,
+                31,
+                60,
+                12,
+                151
+            ],
+            "answer": "Egg teeth",
+            "hint": "Hatching facilitators (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                144,
+                169,
+                10,
+                50,
+                119,
+                91,
+                24,
+                133
+            ],
+            "answer": "Mothball",
+            "hint": "Defer indefinitely"
+        },
+        "U": {
+            "cells": [
+                11,
+                121,
+                149,
+                136,
+                100,
+                23,
+                49
+            ],
+            "answer": "Offbeat",
+            "hint": "Unconventional, eccentric"
+        },
+        "V": {
+            "cells": [
+                122,
+                101,
+                21,
+                1,
+                32,
+                148,
+                64
+            ],
+            "answer": "Ichabod",
+            "hint": "Rival for Katrina\u2019s hand in a classic tale"
+        },
+        "W": {
+            "cells": [
+                79,
+                175,
+                19,
+                139,
+                127,
+                35,
+                53,
+                156
+            ],
+            "answer": "Rush hour",
+            "hint": "Maker of jams (2 wds.)"
+        }
+    }
+}

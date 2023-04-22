@@ -1,0 +1,339 @@
+{
+    "answer": "We have so much artificial light that after an earthquake knocked out power, some residents of Los Angeles called the police to report a strange \"giant, silvery cloud\u201d. It was the Milky Way. They had never seen it before.",
+    "author": "David K. Randall,",
+    "authorCell": [
+        72,
+        21,
+        128,
+        146,
+        94,
+        148,
+        115,
+        82,
+        160,
+        159,
+        158,
+        86,
+        133,
+        136,
+        110,
+        155,
+        112,
+        66,
+        147,
+        37,
+        83,
+        55
+    ],
+    "source": "Dreamland",
+    "clues": {
+        "A": {
+            "cells": [
+                72,
+                109,
+                150,
+                123,
+                28,
+                137,
+                9,
+                167
+            ],
+            "answer": "Downtime",
+            "hint": "Stretch during a stoppage of work"
+        },
+        "B": {
+            "cells": [
+                21,
+                81,
+                138,
+                99,
+                50,
+                121,
+                64,
+                154
+            ],
+            "answer": "Astonish",
+            "hint": "Bowl over, floor, flabbergast"
+        },
+        "C": {
+            "cells": [
+                128,
+                35,
+                91,
+                51,
+                19,
+                71,
+                170,
+                149
+            ],
+            "answer": "Velocity",
+            "hint": "Displacement divided by time, in a physics equation"
+        },
+        "D": {
+            "cells": [
+                146,
+                70,
+                3,
+                24,
+                84,
+                45,
+                130,
+                105
+            ],
+            "answer": "Ishiguro",
+            "hint": "Kazuo ____, author of \u201cThe Remains of the Day\u201d"
+        },
+        "E": {
+            "cells": [
+                94,
+                107,
+                124,
+                26,
+                68,
+                8,
+                168,
+                48
+            ],
+            "answer": "Dethrone",
+            "hint": "Topple, unseat"
+        },
+        "F": {
+            "cells": [
+                148,
+                80,
+                97,
+                165,
+                111,
+                23,
+                39,
+                63
+            ],
+            "answer": "Koestler",
+            "hint": "Arthur who wrote \u201cDarkness at Noon\u201d"
+        },
+        "G": {
+            "cells": [
+                115,
+                29,
+                54,
+                134,
+                7,
+                153,
+                90,
+                75
+            ],
+            "answer": "Rheostat",
+            "hint": "Device for regulating Answer K"
+        },
+        "H": {
+            "cells": [
+                82,
+                102,
+                27,
+                126,
+                5,
+                46,
+                142,
+                163
+            ],
+            "answer": "Activate",
+            "hint": "Turn on"
+        },
+        "I": {
+            "cells": [
+                160,
+                16,
+                120,
+                43,
+                95,
+                60,
+                139,
+                79
+            ],
+            "answer": "Night owl",
+            "hint": "Opposite of an early bird (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                159,
+                57,
+                31,
+                131,
+                173,
+                106,
+                69,
+                6
+            ],
+            "answer": "Duty-free",
+            "hint": "Not subject to taxes, as foreign goods (hyph.)"
+        },
+        "K": {
+            "cells": [
+                158,
+                145,
+                108,
+                62,
+                41,
+                122,
+                25,
+                172
+            ],
+            "answer": "Amperage",
+            "hint": "Magnitude of electric current"
+        },
+        "L": {
+            "cells": [
+                86,
+                2,
+                33,
+                15,
+                171,
+                151,
+                117,
+                53
+            ],
+            "answer": "Left Bank",
+            "hint": "Latin Quarter setting (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                133,
+                30,
+                114,
+                89,
+                12,
+                49,
+                67,
+                152
+            ],
+            "answer": "Latchkey",
+            "hint": "Central plot item in \u201cDial M for Murder\u201d"
+        },
+        "N": {
+            "cells": [
+                136,
+                65,
+                162,
+                87,
+                42,
+                116,
+                101,
+                22
+            ],
+            "answer": "Dovetail",
+            "hint": "Fit together perfectly"
+        },
+        "O": {
+            "cells": [
+                110,
+                140,
+                38,
+                11,
+                157,
+                93,
+                175,
+                77
+            ],
+            "answer": "Ranchero",
+            "hint": "Style of cheese made in Mexico"
+        },
+        "P": {
+            "cells": [
+                155,
+                40,
+                14,
+                59,
+                100,
+                135,
+                118,
+                88
+            ],
+            "answer": "Earplugs",
+            "hint": "Barriers placed in canals"
+        },
+        "Q": {
+            "cells": [
+                112,
+                92,
+                17,
+                36,
+                129,
+                76,
+                52,
+                174
+            ],
+            "answer": "Alfresco",
+            "hint": "Outdoors, in the open air"
+        },
+        "R": {
+            "cells": [
+                66,
+                85,
+                141,
+                44,
+                10,
+                169,
+                104,
+                119
+            ],
+            "answer": "Mesquite",
+            "hint": "Flavor-imparting fuel for grillers"
+        },
+        "S": {
+            "cells": [
+                147,
+                32,
+                132,
+                103,
+                164,
+                13,
+                58,
+                73
+            ],
+            "answer": "Lacerate",
+            "hint": "Cut deeply and jaggedly"
+        },
+        "T": {
+            "cells": [
+                37,
+                98,
+                143,
+                166,
+                127,
+                18,
+                56,
+                74
+            ],
+            "answer": "Aphelion",
+            "hint": "Orbital point farthest from the sun"
+        },
+        "U": {
+            "cells": [
+                83,
+                144,
+                1,
+                125,
+                61,
+                176,
+                161,
+                47
+            ],
+            "answer": "\"Newsweek\"",
+            "hint": "Magazine merged with The Daily Beast from 2010 to 2013"
+        },
+        "V": {
+            "cells": [
+                55,
+                4,
+                156,
+                113,
+                96,
+                20,
+                78,
+                34
+            ],
+            "answer": "Day shift",
+            "hint": "Preferred working hours for most laborers (2 wds.)"
+        }
+    }
+}

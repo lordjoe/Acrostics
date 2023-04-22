@@ -1,0 +1,358 @@
+{
+    "answer": "Marsh is a space of light, where grass grows in water, and water flows into the sky. ... [T]rue swamp crawls into low-lying bogs... in clammy forests. Swamp water is still and dark, having swallowed the light in its muddy throat.",
+    "author": "(Delia) Owens,",
+    "authorCell": [
+        94,
+        71,
+        41,
+        57,
+        30,
+        117,
+        170,
+        49,
+        42,
+        62,
+        174,
+        136,
+        69,
+        75,
+        67,
+        77,
+        148,
+        45,
+        8,
+        131,
+        163,
+        29,
+        97,
+        130,
+        18
+    ],
+    "source": "Where the Crawdads Sing",
+    "clues": {
+        "A": {
+            "cells": [
+                94,
+                147,
+                1,
+                74,
+                61
+            ],
+            "answer": "Oomph",
+            "hint": "Spirited vigor; sexual allure"
+        },
+        "B": {
+            "cells": [
+                71,
+                108,
+                48,
+                145,
+                129,
+                91,
+                166
+            ],
+            "answer": "Wetland",
+            "hint": "Saturated area"
+        },
+        "C": {
+            "cells": [
+                41,
+                12,
+                86,
+                70,
+                104,
+                55,
+                151,
+                25,
+                164
+            ],
+            "answer": "Ecosystem",
+            "hint": "Organisms and their environs as a unit"
+        },
+        "D": {
+            "cells": [
+                57,
+                84,
+                40,
+                98,
+                14,
+                113
+            ],
+            "answer": "Not now",
+            "hint": "\u201cAsk me later\u201d (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                30,
+                139,
+                156,
+                103,
+                47
+            ],
+            "answer": "Sigma",
+            "hint": "Leading character of Sophocles?"
+        },
+        "F": {
+            "cells": [
+                117,
+                161,
+                88,
+                132,
+                105,
+                16,
+                33,
+                54,
+                149,
+                76,
+                4
+            ],
+            "answer": "Wildflowers",
+            "hint": "Baby blue-eyes and black-eyed Susans"
+        },
+        "G": {
+            "cells": [
+                170,
+                6,
+                110,
+                146,
+                36,
+                63,
+                125
+            ],
+            "answer": "Hit list",
+            "hint": "Good \u2014 or bad \u2014 roster to be on (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                49,
+                134,
+                160,
+                7,
+                83,
+                115,
+                173,
+                99,
+                19
+            ],
+            "answer": "Ernst Mach",
+            "hint": "Austrian physicist who studied shock waves (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                42,
+                72,
+                92,
+                20,
+                118,
+                141
+            ],
+            "answer": "Ragtag",
+            "hint": "Motley; unkempt; hastily assembled"
+        },
+        "J": {
+            "cells": [
+                62,
+                43,
+                171,
+                158,
+                5,
+                85,
+                126,
+                140,
+                26,
+                109
+            ],
+            "answer": "Earthlings",
+            "hint": "Us, to Klaatu and Gort"
+        },
+        "K": {
+            "cells": [
+                174,
+                22,
+                155,
+                82,
+                135,
+                51,
+                39,
+                112,
+                66
+            ],
+            "answer": "Think fast",
+            "hint": "Warning akin to \u201cHeads up!\u201d (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                136,
+                172,
+                21,
+                52,
+                120,
+                107
+            ],
+            "answer": "Howler",
+            "hint": "Ridiculous blunder"
+        },
+        "M": {
+            "cells": [
+                69,
+                154,
+                138,
+                56,
+                27,
+                101
+            ],
+            "answer": "\"Elvira\"",
+            "hint": "1981 hit for the Oak Ridge Boys"
+        },
+        "N": {
+            "cells": [
+                75,
+                168,
+                116,
+                50,
+                13,
+                35,
+                142
+            ],
+            "answer": "Cypress",
+            "hint": "Tree whose limbs are a symbol of mourning"
+        },
+        "O": {
+            "cells": [
+                67,
+                11,
+                102,
+                53,
+                123,
+                23
+            ],
+            "answer": "Ramose",
+            "hint": "Full of branches"
+        },
+        "P": {
+            "cells": [
+                77,
+                93,
+                32,
+                165,
+                10,
+                119
+            ],
+            "answer": "Abrupt",
+            "hint": "Curt, perhaps rudely so"
+        },
+        "Q": {
+            "cells": [
+                148,
+                17,
+                100,
+                128,
+                59,
+                34,
+                80
+            ],
+            "answer": "Willows",
+            "hint": "Trees whose bark gives us salicin"
+        },
+        "R": {
+            "cells": [
+                45,
+                81,
+                95,
+                159,
+                60,
+                144,
+                127
+            ],
+            "answer": "Digital",
+            "hint": "Like fingers and much information nowadays"
+        },
+        "S": {
+            "cells": [
+                8,
+                78,
+                64,
+                46,
+                137,
+                121,
+                167
+            ],
+            "answer": "Awkward",
+            "hint": "Comment at a cringeworthy moment"
+        },
+        "T": {
+            "cells": [
+                131,
+                143,
+                28,
+                3,
+                15,
+                90,
+                111,
+                157
+            ],
+            "answer": "Dwarfish",
+            "hint": "Atypically small"
+        },
+        "U": {
+            "cells": [
+                163,
+                87,
+                106,
+                24,
+                150,
+                9
+            ],
+            "answer": "Swords",
+            "hint": "Suit in a tarot deck"
+        },
+        "V": {
+            "cells": [
+                29,
+                169,
+                65,
+                79,
+                122,
+                96,
+                152
+            ],
+            "answer": "Stylish",
+            "hint": "À la mode"
+        },
+        "W": {
+            "cells": [
+                97,
+                31,
+                68,
+                133,
+                44,
+                114
+            ],
+            "answer": "Iguana",
+            "hint": "Dorsally crested reptile"
+        },
+        "X": {
+            "cells": [
+                130,
+                153,
+                38,
+                58
+            ],
+            "answer": "Newt",
+            "hint": "J. K. Rowling\u2019s wizard and \u201cmagizoologist\u201d ____ Scamander"
+        },
+        "Y": {
+            "cells": [
+                18,
+                89,
+                73,
+                37,
+                2,
+                124,
+                162
+            ],
+            "answer": "Gymnast",
+            "hint": "Athlete who hangs around bars a lot?"
+        }
+    }
+}

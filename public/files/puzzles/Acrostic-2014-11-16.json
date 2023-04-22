@@ -1,0 +1,344 @@
+{
+    "answer": "Every morning I called Aeroflot to ask about my suitcase. \u201cOh, it\u2019s you,\u201d sighed the clerk. \u201cWhen we find the suitcase we will send it to you. In the meantime, are you familiar with our Russian phrase \u2019resignation of the soul\u2019?\u201d",
+    "author": "Elif Batuman,",
+    "authorCell": [
+        75,
+        131,
+        10,
+        127,
+        34,
+        147,
+        43,
+        84,
+        119,
+        15,
+        116,
+        28,
+        49,
+        156,
+        149,
+        164,
+        97,
+        46,
+        170,
+        52,
+        40,
+        67,
+        100
+    ],
+    "source": "The Possessed",
+    "clues": {
+        "A": {
+            "cells": [
+                75,
+                41,
+                25,
+                54,
+                159,
+                130,
+                89,
+                110
+            ],
+            "answer": "Eulogist",
+            "hint": "Oprah Winfrey, relative to Rosa Parks in 2005"
+        },
+        "B": {
+            "cells": [
+                131,
+                92,
+                160,
+                73,
+                26,
+                9
+            ],
+            "answer": "Lennon",
+            "hint": "Musician whose first band was the Quarrymen"
+        },
+        "C": {
+            "cells": [
+                10,
+                58,
+                126,
+                88,
+                109,
+                161
+            ],
+            "answer": "Iguana",
+            "hint": "Reptile with a spiny back"
+        },
+        "D": {
+            "cells": [
+                127,
+                42,
+                145,
+                63,
+                24,
+                8,
+                105
+            ],
+            "answer": "Fish fry",
+            "hint": "Cookout for pescatarians (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                34,
+                17,
+                125,
+                74,
+                169,
+                152,
+                4,
+                61
+            ],
+            "answer": "Blowhard",
+            "hint": "Windy conversationalist"
+        },
+        "F": {
+            "cells": [
+                147,
+                129,
+                113,
+                35,
+                165,
+                85,
+                102,
+                21
+            ],
+            "answer": "Ammonite",
+            "hint": "Coiled fossil shell of a mollusk"
+        },
+        "G": {
+            "cells": [
+                43,
+                150,
+                22,
+                106,
+                91,
+                121,
+                76,
+                136,
+                168
+            ],
+            "answer": "Throw a fit",
+            "hint": "Fail to control one\u2019s temper (3 wds.)"
+        },
+        "H": {
+            "cells": [
+                84,
+                148,
+                163,
+                14,
+                124,
+                44,
+                96,
+                72
+            ],
+            "answer": "Unicycle",
+            "hint": "Prop for a circus clown"
+        },
+        "I": {
+            "cells": [
+                119,
+                29,
+                99,
+                157,
+                13,
+                60,
+                173,
+                141
+            ],
+            "answer": "Monsieur",
+            "hint": "Title for Camus or Sartre"
+        },
+        "J": {
+            "cells": [
+                15,
+                107,
+                155,
+                45,
+                66,
+                123,
+                90
+            ],
+            "answer": "\"Aura Lee\"",
+            "hint": "Tune from which \u201cLove Me Tender\u201d derives (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                116,
+                158,
+                87,
+                59,
+                104,
+                174,
+                30,
+                144
+            ],
+            "answer": "Nicholas",
+            "hint": "Saint from the Lycian town of Myra"
+        },
+        "L": {
+            "cells": [
+                28,
+                48,
+                143,
+                12,
+                81,
+                101,
+                120
+            ],
+            "answer": "Toughie",
+            "hint": "Hard-to-solve puzzle"
+        },
+        "M": {
+            "cells": [
+                49,
+                154,
+                108,
+                78,
+                172,
+                140,
+                31
+            ],
+            "answer": "Heinous",
+            "hint": "Abominable"
+        },
+        "N": {
+            "cells": [
+                156,
+                132,
+                19,
+                82,
+                117,
+                50,
+                65
+            ],
+            "answer": "Eidetic",
+            "hint": "Like a photographic memory"
+        },
+        "O": {
+            "cells": [
+                149,
+                68,
+                57,
+                11,
+                86,
+                98,
+                122
+            ],
+            "answer": "Printer",
+            "hint": "Part of a desktop setup"
+        },
+        "P": {
+            "cells": [
+                164,
+                55,
+                137,
+                95,
+                7,
+                36,
+                79
+            ],
+            "answer": "Out loud",
+            "hint": "One way of thinking or laughing (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                97,
+                146,
+                20,
+                38,
+                112,
+                171,
+                64
+            ],
+            "answer": "Siamese",
+            "hint": "Cat breed in \u201cLady and the Tramp\u201d"
+        },
+        "R": {
+            "cells": [
+                46,
+                111,
+                33,
+                62,
+                80,
+                3,
+                134
+            ],
+            "answer": "Shatter",
+            "hint": "Go all to pieces"
+        },
+        "S": {
+            "cells": [
+                170,
+                151,
+                56,
+                37,
+                135,
+                71,
+                118,
+                16,
+                1
+            ],
+            "answer": "Erstwhile",
+            "hint": "In bygone days, but no longer"
+        },
+        "T": {
+            "cells": [
+                52,
+                138,
+                77,
+                167,
+                103,
+                32,
+                18,
+                5
+            ],
+            "answer": "Shift key",
+            "hint": "Means of capital conversion? (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                40,
+                162,
+                23,
+                70,
+                133,
+                93,
+                115,
+                53
+            ],
+            "answer": "Stowaway",
+            "hint": "One hoping for a free ride"
+        },
+        "V": {
+            "cells": [
+                67,
+                6,
+                94,
+                142,
+                128,
+                27,
+                47
+            ],
+            "answer": "Emirate",
+            "hint": "Domain of a prince"
+        },
+        "W": {
+            "cells": [
+                100,
+                139,
+                83,
+                51,
+                166,
+                114,
+                2,
+                153,
+                69,
+                39
+            ],
+            "answer": "Dostoevsky",
+            "hint": "Author of \u201cThe Idiot\u201d"
+        }
+    }
+}

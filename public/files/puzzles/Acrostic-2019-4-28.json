@@ -1,0 +1,343 @@
+{
+    "answer": "For a... time the telephone was little more than a novelty. ... Mark Twain was among the first... to own a telephone, but he wasn\u2019t completely taken with the device. \u201cThe human voice carries entirely too far as it is,\u201d he remarked.",
+    "author": "(Eula) Biss,",
+    "authorCell": [
+        86,
+        25,
+        159,
+        23,
+        145,
+        31,
+        95,
+        90,
+        143,
+        155,
+        68,
+        97,
+        59,
+        39,
+        154,
+        7,
+        56,
+        131,
+        69,
+        100,
+        92,
+        84,
+        173
+    ],
+    "source": "Notes From No Man's Land",
+    "clues": {
+        "A": {
+            "cells": [
+                86,
+                48,
+                109,
+                22,
+                146,
+                64
+            ],
+            "answer": "Breath",
+            "hint": "Meaning of \u201cAbel\u201d in Hebrew"
+        },
+        "B": {
+            "cells": [
+                25,
+                81,
+                47,
+                118,
+                98,
+                160,
+                61,
+                141
+            ],
+            "answer": "iPad Mini",
+            "hint": "Tablet you might take on a trip (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                159,
+                73,
+                110,
+                94,
+                42,
+                124
+            ],
+            "answer": "Sonnet",
+            "hint": "Shelley\u2019s \u201cOzymandias,\u201d for example"
+        },
+        "D": {
+            "cells": [
+                23,
+                35,
+                153,
+                96,
+                49,
+                111,
+                169,
+                132,
+                65
+            ],
+            "answer": "Shock wave",
+            "hint": "Immediate result of an impact (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                145,
+                76,
+                2,
+                46,
+                121,
+                18,
+                93,
+                107,
+                171,
+                158
+            ],
+            "answer": "Naomi Osaka",
+            "hint": "Tennis star whose surname is her birthplace (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                31,
+                120,
+                144,
+                3,
+                91,
+                17,
+                78,
+                43,
+                168
+            ],
+            "answer": "Overwhelm",
+            "hint": "Swamp"
+        },
+        "G": {
+            "cells": [
+                95,
+                119,
+                138,
+                163,
+                33,
+                63
+            ],
+            "answer": "Tea set",
+            "hint": "Group of items in a well-stocked dollhouse (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                90,
+                128,
+                24,
+                4
+            ],
+            "answer": "Eula",
+            "hint": "First name of this acrostic quote\u2019s author"
+        },
+        "I": {
+            "cells": [
+                143,
+                51,
+                162,
+                66,
+                77,
+                14,
+                105
+            ],
+            "answer": "Swiftly",
+            "hint": "How Tom makes puns?"
+        },
+        "J": {
+            "cells": [
+                155,
+                140,
+                6,
+                62,
+                114,
+                27
+            ],
+            "answer": "Fright",
+            "hint": "One cause of goose bumps"
+        },
+        "K": {
+            "cells": [
+                68,
+                172,
+                102,
+                147,
+                19,
+                130
+            ],
+            "answer": "Retina",
+            "hint": "Eye makeup, in part"
+        },
+        "L": {
+            "cells": [
+                97,
+                16,
+                117,
+                139,
+                36,
+                50,
+                83,
+                157
+            ],
+            "answer": "Operator",
+            "hint": "Company position that\u2019s now almost always automated"
+        },
+        "M": {
+            "cells": [
+                59,
+                133,
+                44,
+                89,
+                20,
+                170,
+                116,
+                8,
+                75
+            ],
+            "answer": "Mother hen",
+            "hint": "Metaphorical worrier (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                39,
+                15,
+                87,
+                1,
+                137,
+                125,
+                58,
+                161,
+                103,
+                28
+            ],
+            "answer": "Neufchatel",
+            "hint": "Soft, slightly crumbly cheese from France"
+        },
+        "O": {
+            "cells": [
+                154,
+                115,
+                10,
+                29,
+                104,
+                79,
+                40
+            ],
+            "answer": "\"Othello\"",
+            "hint": "Play with the line \u201cGive me the ocular proof\u201d"
+        },
+        "P": {
+            "cells": [
+                7,
+                38,
+                71,
+                152,
+                127,
+                85,
+                55
+            ],
+            "answer": "Matthew",
+            "hint": "First-century book probably written in Greek"
+        },
+        "Q": {
+            "cells": [
+                56,
+                37,
+                9,
+                164,
+                80,
+                129
+            ],
+            "answer": "Anthem",
+            "hint": "\u201cJana Gana Mana,\u201d for India, e.g."
+        },
+        "R": {
+            "cells": [
+                131,
+                149,
+                60,
+                99,
+                82,
+                45,
+                26,
+                11
+            ],
+            "answer": "Neophyte",
+            "hint": "Beginner, tyro, fresh convert"
+        },
+        "S": {
+            "cells": [
+                69,
+                101,
+                54,
+                156,
+                12,
+                126
+            ],
+            "answer": "Senate",
+            "hint": "Body from the Latin \u201ccouncil of elders\u201d"
+        },
+        "T": {
+            "cells": [
+                100,
+                53,
+                41,
+                142,
+                74,
+                112,
+                166,
+                13
+            ],
+            "answer": "Live wire",
+            "hint": "Dynamic person; hot line (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                92,
+                70,
+                21,
+                134,
+                113,
+                34,
+                167,
+                148
+            ],
+            "answer": "Atwitter",
+            "hint": "All excited about a social media message?"
+        },
+        "V": {
+            "cells": [
+                84,
+                123,
+                106,
+                5,
+                150,
+                136,
+                57,
+                72,
+                30,
+                165
+            ],
+            "answer": "Nettlesome",
+            "hint": "Like a thorn in one\u2019s side"
+        },
+        "W": {
+            "cells": [
+                173,
+                67,
+                135,
+                108,
+                88,
+                32,
+                52,
+                122,
+                151
+            ],
+            "answer": "Dick Tracy",
+            "hint": "Cop drawn with a smartwatch precursor (2 wds.)"
+        }
+    }
+}

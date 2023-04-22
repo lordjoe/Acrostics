@@ -1,0 +1,360 @@
+{
+    "answer": "I belonged to a small minority of boys who were lacking in physical strength and athletic prowess.... We found... refuge in science.... We learned... that science is a territory of freedom and friendship in the midst of tyranny.",
+    "author": "F(reeman) Dyson,",
+    "authorCell": [
+        84,
+        147,
+        171,
+        97,
+        34,
+        174,
+        167,
+        26,
+        72,
+        141,
+        15,
+        102,
+        161,
+        21,
+        149,
+        152,
+        168,
+        57,
+        132,
+        77,
+        170,
+        151,
+        67,
+        98,
+        33
+    ],
+    "source": "To Teach Or Not To Teach",
+    "clues": {
+        "A": {
+            "cells": [
+                84,
+                156,
+                134,
+                8,
+                173,
+                101,
+                62,
+                51
+            ],
+            "answer": "Fire ants",
+            "hint": "Tropical South American stingers (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                147,
+                11,
+                32,
+                81,
+                105,
+                89
+            ],
+            "answer": "Dowser",
+            "hint": "One wielding a bifurcated tool"
+        },
+        "C": {
+            "cells": [
+                171,
+                29,
+                86,
+                163,
+                145,
+                65,
+                117
+            ],
+            "answer": "Youmans",
+            "hint": "Composer of \u201cNo, No, Nanette\u201d"
+        },
+        "D": {
+            "cells": [
+                97,
+                164,
+                83,
+                13,
+                113,
+                40
+            ],
+            "answer": "Siesta",
+            "hint": "What some stores close their doors for"
+        },
+        "E": {
+            "cells": [
+                34,
+                130,
+                150,
+                91,
+                70,
+                108,
+                18,
+                144,
+                123
+            ],
+            "answer": "Oriflamme",
+            "hint": "Crimson banner carried by the French at Agincourt"
+        },
+        "F": {
+            "cells": [
+                174,
+                1,
+                137,
+                39,
+                49,
+                111,
+                73,
+                14
+            ],
+            "answer": "Niflheim",
+            "hint": "Abode of the dead, in Norse mythology"
+        },
+        "G": {
+            "cells": [
+                167,
+                99,
+                16,
+                31,
+                124,
+                116
+            ],
+            "answer": "Tilsit",
+            "hint": "Holey cheese made from cow\u2019s milk"
+        },
+        "H": {
+            "cells": [
+                26,
+                160,
+                95,
+                125
+            ],
+            "answer": "Otis",
+            "hint": "Inventor with an uplifting idea"
+        },
+        "I": {
+            "cells": [
+                72,
+                19,
+                93,
+                37,
+                46,
+                166
+            ],
+            "answer": "Tigris",
+            "hint": "Feeder of the Shatt-al-Arab"
+        },
+        "J": {
+            "cells": [
+                141,
+                175,
+                7,
+                64,
+                22,
+                153,
+                90
+            ],
+            "answer": "En garde",
+            "hint": "A match director\u2019s starting call to the contestants (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                15,
+                44,
+                165,
+                58,
+                94,
+                78,
+                154
+            ],
+            "answer": "Andrews",
+            "hint": "Sisters who sang \u201cBoogie Woogie Bugle Boy\u201d"
+        },
+        "L": {
+            "cells": [
+                102,
+                109,
+                135,
+                157,
+                68,
+                23,
+                118
+            ],
+            "answer": "Cryptic",
+            "hint": "Having a hidden or ambiguous meaning"
+        },
+        "M": {
+            "cells": [
+                161,
+                5,
+                176,
+                88,
+                38,
+                146
+            ],
+            "answer": "Hoyden",
+            "hint": "Tomboy"
+        },
+        "N": {
+            "cells": [
+                21,
+                148,
+                138,
+                128,
+                60,
+                2,
+                54,
+                74,
+                114
+            ],
+            "answer": "Offenbach",
+            "hint": "Operetta composer (1819-80) who influenced Johann Strauss"
+        },
+        "O": {
+            "cells": [
+                149,
+                133,
+                9,
+                112,
+                59,
+                20,
+                28,
+                71,
+                139,
+                172,
+                50
+            ],
+            "answer": "Roddenberry",
+            "hint": "Creator of TV\u2019s \u201cStar Trek\u201d"
+        },
+        "P": {
+            "cells": [
+                152,
+                107,
+                48,
+                140,
+                121,
+                127,
+                63,
+                79
+            ],
+            "answer": "Nepenthe",
+            "hint": "\u201cQuaff this kind ___ and forget the lost Lenore\u201d (Poe)"
+        },
+        "Q": {
+            "cells": [
+                168,
+                4,
+                17,
+                126
+            ],
+            "answer": "Olla",
+            "hint": "Spanish pot or its stew"
+        },
+        "R": {
+            "cells": [
+                57,
+                162,
+                6,
+                96,
+                43,
+                80
+            ],
+            "answer": "Tennis",
+            "hint": "Game once called Sphairistike"
+        },
+        "S": {
+            "cells": [
+                132,
+                52,
+                122,
+                42,
+                143,
+                169,
+                27
+            ],
+            "answer": "Tick off",
+            "hint": "Check; rile (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                77,
+                41,
+                3,
+                115,
+                159,
+                92,
+                56
+            ],
+            "answer": "Oceanus",
+            "hint": "River that circled the earth, in myth"
+        },
+        "U": {
+            "cells": [
+                170,
+                104,
+                136,
+                82,
+                12,
+                30
+            ],
+            "answer": "Two-way",
+            "hint": "Like some radio communication (hyph.)"
+        },
+        "V": {
+            "cells": [
+                151,
+                87,
+                55,
+                131,
+                61,
+                69,
+                24,
+                100,
+                110,
+                120,
+                142
+            ],
+            "answer": "Enlightened",
+            "hint": "Having achieved prajna or satori"
+        },
+        "W": {
+            "cells": [
+                67,
+                129,
+                53,
+                155,
+                36,
+                10,
+                25,
+                75,
+                103
+            ],
+            "answer": "Archetype",
+            "hint": "Innate idea or original pattern"
+        },
+        "X": {
+            "cells": [
+                98,
+                85,
+                35,
+                45,
+                119,
+                76,
+                106
+            ],
+            "answer": "Cowgirl",
+            "hint": "Lass with a lasso"
+        },
+        "Y": {
+            "cells": [
+                33,
+                158,
+                47,
+                66
+            ],
+            "answer": "Hind",
+            "hint": "Female of the red deer"
+        }
+    }
+}

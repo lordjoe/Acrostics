@@ -1,0 +1,351 @@
+{
+    "answer": "Fred Hoyle felt that an explosion was an undignified way for the world to begin, rather like \u201ca party girl jumping out of a cake.\"... Hoyle sardonically referred to the hypothesized origin as \"the Big Bang.\u201d The term stuck.",
+    "author": "(Jim) Holt,",
+    "authorCell": [
+        52,
+        136,
+        117,
+        68,
+        29,
+        133,
+        7,
+        127,
+        27,
+        9,
+        170,
+        130,
+        15,
+        75,
+        45,
+        129,
+        79,
+        72,
+        58,
+        155,
+        21,
+        83,
+        25,
+        153
+    ],
+    "source": "Why Does The World Exist?",
+    "clues": {
+        "A": {
+            "cells": [
+                52,
+                145,
+                67,
+                82,
+                37,
+                123
+            ],
+            "answer": "Hoagie",
+            "hint": "Hero by another name"
+        },
+        "B": {
+            "cells": [
+                136,
+                46,
+                14,
+                169,
+                121,
+                32,
+                85
+            ],
+            "answer": "Oatmeal",
+            "hint": "Customary haggis ingredient"
+        },
+        "C": {
+            "cells": [
+                117,
+                102,
+                157,
+                61,
+                19,
+                90,
+                142
+            ],
+            "answer": "Leibniz",
+            "hint": "1600s mathematician who invented mechanical calculators"
+        },
+        "D": {
+            "cells": [
+                68,
+                84,
+                116,
+                42,
+                28,
+                140
+            ],
+            "answer": "Trains",
+            "hint": "Some toy store displays"
+        },
+        "E": {
+            "cells": [
+                29,
+                164,
+                147,
+                122,
+                10,
+                62,
+                44
+            ],
+            "answer": "Whiffed",
+            "hint": "Struck out"
+        },
+        "F": {
+            "cells": [
+                133,
+                160,
+                34,
+                23,
+                6,
+                97,
+                48
+            ],
+            "answer": "Haul off",
+            "hint": "Prepare to deliver a wallop; cart away (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                7,
+                24,
+                110,
+                174,
+                149,
+                126
+            ],
+            "answer": "Yorkie",
+            "hint": "Terrier type, for short"
+        },
+        "H": {
+            "cells": [
+                127,
+                50,
+                94,
+                4,
+                38,
+                143,
+                66,
+                81
+            ],
+            "answer": "Drudgery",
+            "hint": "Lexicographer\u2019s lot, per Samuel Johnson"
+        },
+        "I": {
+            "cells": [
+                27,
+                89,
+                100,
+                173,
+                114,
+                137,
+                47
+            ],
+            "answer": "Opacity",
+            "hint": "Mental dullness; imperviousness to light"
+        },
+        "J": {
+            "cells": [
+                9,
+                57,
+                148,
+                71,
+                165,
+                115,
+                93
+            ],
+            "answer": "El Greco",
+            "hint": "Domenikos Theotokopoulos (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                170,
+                12,
+                40,
+                63,
+                154,
+                128,
+                107,
+                144
+            ],
+            "answer": "Slighted",
+            "hint": "Made to feel like a nobody"
+        },
+        "L": {
+            "cells": [
+                130,
+                69,
+                53,
+                168,
+                88,
+                18,
+                106
+            ],
+            "answer": "Thermal",
+            "hint": "Designed to retain body heat"
+        },
+        "M": {
+            "cells": [
+                15,
+                151,
+                59,
+                31,
+                166,
+                78,
+                91,
+                111
+            ],
+            "answer": "Hatstand",
+            "hint": "Tree usually found indoors (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                75,
+                35,
+                163,
+                120,
+                49,
+                22,
+                105
+            ],
+            "answer": "Entropy",
+            "hint": "What an isolated system tends toward"
+        },
+        "O": {
+            "cells": [
+                45,
+                20,
+                64,
+                162,
+                138,
+                80,
+                108
+            ],
+            "answer": "Weights",
+            "hint": "Gym equipment"
+        },
+        "P": {
+            "cells": [
+                129,
+                156,
+                86,
+                43,
+                99,
+                13,
+                26,
+                112,
+                65
+            ],
+            "answer": "Objection",
+            "hint": "Protest that may be sustained"
+        },
+        "Q": {
+            "cells": [
+                79,
+                16,
+                51,
+                1,
+                141,
+                161,
+                101
+            ],
+            "answer": "Ratfink",
+            "hint": "Canary, singer"
+        },
+        "R": {
+            "cells": [
+                72,
+                30,
+                87,
+                158,
+                103,
+                171,
+                132,
+                56
+            ],
+            "answer": "Laughter",
+            "hint": "What the Stoic Chrysippus is said to have died of (alcohol was involved)"
+        },
+        "S": {
+            "cells": [
+                58,
+                146,
+                98,
+                41,
+                17,
+                159,
+                70,
+                3,
+                124
+            ],
+            "answer": "Draft beer",
+            "hint": "It has a head and hops (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                155,
+                8,
+                55,
+                135,
+                73,
+                113,
+                92
+            ],
+            "answer": "Eloping",
+            "hint": "Opting out of a traditional ceremony"
+        },
+        "U": {
+            "cells": [
+                21,
+                134,
+                118,
+                60,
+                77,
+                5,
+                96,
+                39,
+                167
+            ],
+            "answer": "Xylophone",
+            "hint": "Instrument played by jazzman Red Norvo"
+        },
+        "V": {
+            "cells": [
+                83,
+                54,
+                104,
+                150,
+                36,
+                11,
+                125
+            ],
+            "answer": "I wonder",
+            "hint": "\u201cHmmm ...\u201d (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                25,
+                131,
+                109,
+                152,
+                95,
+                76
+            ],
+            "answer": "Shasta",
+            "hint": "Peak visible from Yreka, Calif."
+        },
+        "X": {
+            "cells": [
+                153,
+                172,
+                2,
+                33,
+                74,
+                139,
+                119
+            ],
+            "answer": "Turnkey",
+            "hint": "Fully equipped, ready to operate"
+        }
+    }
+}

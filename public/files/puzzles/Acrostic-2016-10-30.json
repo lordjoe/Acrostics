@@ -1,0 +1,330 @@
+{
+    "answer": "The mosquitoes are bloodthirstier than any Twilight vampire. Sharks lurk just offshore, ready to chomp on your leg. Alligators show up at your picnic. And without any warning, the ground is liable to swallow you up.",
+    "author": "Craig Pittman,",
+    "authorCell": [
+        120,
+        51,
+        157,
+        153,
+        147,
+        118,
+        141,
+        66,
+        10,
+        4,
+        33,
+        140,
+        168,
+        107,
+        68,
+        59,
+        67,
+        75,
+        99,
+        126,
+        14
+    ],
+    "source": "Oh, Florida!",
+    "clues": {
+        "A": {
+            "cells": [
+                120,
+                11,
+                159,
+                78,
+                26,
+                109,
+                146,
+                55,
+                38
+            ],
+            "answer": "Cold sweat",
+            "hint": "Sign of nervousness (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                51,
+                131,
+                114,
+                35,
+                18,
+                63,
+                3,
+                98,
+                166,
+                79
+            ],
+            "answer": "Royal jelly",
+            "hint": "Diet of those who would be queens (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                157,
+                110,
+                129,
+                71,
+                90,
+                25,
+                9,
+                144,
+                37
+            ],
+            "answer": "Authority",
+            "hint": "What a scepter symbolizes"
+        },
+        "D": {
+            "cells": [
+                153,
+                80,
+                130,
+                50,
+                36,
+                62,
+                106,
+                19
+            ],
+            "answer": "\"I think so\"",
+            "hint": "Positive but qualified assertion (3 wds.)"
+        },
+        "E": {
+            "cells": [
+                147,
+                23,
+                87,
+                6,
+                102,
+                45,
+                162,
+                137,
+                125
+            ],
+            "answer": "Ghost town",
+            "hint": "Site of a onetime boom and bust (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                118,
+                61,
+                72,
+                46,
+                94,
+                139,
+                17,
+                154
+            ],
+            "answer": "Proverbs",
+            "hint": "Source of the line \u201cAn honest answer is like a kiss on the lips\u201d"
+        },
+        "G": {
+            "cells": [
+                141,
+                88,
+                57,
+                167,
+                128,
+                34,
+                100
+            ],
+            "answer": "Inkling",
+            "hint": "Slightest idea"
+        },
+        "H": {
+            "cells": [
+                66,
+                115,
+                172,
+                95,
+                44,
+                151,
+                132,
+                22
+            ],
+            "answer": "Tough nut",
+            "hint": "Enigma that\u2019s hard to crack (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                10,
+                60,
+                86,
+                174,
+                160,
+                30,
+                127,
+                112,
+                148,
+                74
+            ],
+            "answer": "Tupperware",
+            "hint": "Name associated with a \u201cburping seal\u201d"
+        },
+        "J": {
+            "cells": [
+                4,
+                149,
+                173,
+                70,
+                29,
+                113,
+                92,
+                124,
+                49
+            ],
+            "answer": "Mousetrap",
+            "hint": "Classic Rube Goldberg-like board game first published by Ideal (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                33,
+                117,
+                161,
+                2,
+                91,
+                73,
+                47,
+                105,
+                145,
+                16
+            ],
+            "answer": "Arthur Ashe",
+            "hint": "Athlete with the memoir \u201cDays of Grace\u201d (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                140,
+                108,
+                15,
+                169,
+                156,
+                82,
+                54
+            ],
+            "answer": "Norwich",
+            "hint": "Connecticut city called \u201cThe Rose of New England\u201d"
+        },
+        "M": {
+            "cells": [
+                168,
+                21,
+                96,
+                155,
+                40,
+                58,
+                7,
+                116,
+                76
+            ],
+            "answer": "Odalisque",
+            "hint": "Concubine in a sultan\u2019s seraglio"
+        },
+        "N": {
+            "cells": [
+                107,
+                134,
+                24,
+                41,
+                69,
+                56,
+                5,
+                85
+            ],
+            "answer": "Hail from",
+            "hint": "Call home (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                68,
+                81,
+                150,
+                93,
+                53,
+                32,
+                171,
+                1
+            ],
+            "answer": "Foul shot",
+            "hint": "Unopposed chance to score a point (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                59,
+                103,
+                164,
+                123,
+                84,
+                48,
+                12,
+                152,
+                136
+            ],
+            "answer": "Low comedy",
+            "hint": "Skits with pie fights or lewd jokes (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                67,
+                158,
+                52,
+                28,
+                13,
+                101,
+                121,
+                133
+            ],
+            "answer": "Obeisant",
+            "hint": "Deferential to a slavish degree"
+        },
+        "R": {
+            "cells": [
+                75,
+                138,
+                104,
+                122,
+                31,
+                89
+            ],
+            "answer": "Rarity",
+            "hint": "Hole in one or triple play, e.g."
+        },
+        "S": {
+            "cells": [
+                99,
+                43,
+                135,
+                165,
+                27,
+                119,
+                8,
+                65
+            ],
+            "answer": "Ignatius",
+            "hint": "Saint who founded the Jesuits"
+        },
+        "T": {
+            "cells": [
+                126,
+                20,
+                39,
+                142,
+                111,
+                97,
+                77,
+                170
+            ],
+            "answer": "Downplay",
+            "hint": "Make light of, de-emphasize"
+        },
+        "U": {
+            "cells": [
+                14,
+                143,
+                64,
+                42,
+                163,
+                83
+            ],
+            "answer": "Aguish",
+            "hint": "Feeling too hot and too cold by turns"
+        }
+    }
+}

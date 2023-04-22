@@ -1,0 +1,331 @@
+{
+    "answer": "The monster of advertisement... is a sort of octopus with innumerable tentacles. It throws out... its clammy arms, and gathers in, through its... suckers, all the gossip and slander and praise afloat, to spit out... at the public.",
+    "author": "Sarah Bernhardt,",
+    "authorCell": [
+        128,
+        94,
+        104,
+        53,
+        168,
+        172,
+        124,
+        140,
+        91,
+        103,
+        131,
+        17,
+        14,
+        67,
+        22,
+        64,
+        50,
+        157,
+        43,
+        52,
+        29
+    ],
+    "source": "(The) Memoirs (Of...)",
+    "clues": {
+        "A": {
+            "cells": [
+                128,
+                62,
+                86,
+                151,
+                34,
+                105,
+                173,
+                138
+            ],
+            "answer": "Scaffold",
+            "hint": "Supporter of Michelangelo in the Sistine Chapel"
+        },
+        "B": {
+            "cells": [
+                94,
+                84,
+                119,
+                31,
+                141,
+                6,
+                155,
+                45
+            ],
+            "answer": "Amaranth",
+            "hint": "Flower also known as love-lies-bleeding"
+        },
+        "C": {
+            "cells": [
+                104,
+                21,
+                95,
+                46,
+                36,
+                75,
+                135,
+                171,
+                4
+            ],
+            "answer": "Reticulum",
+            "hint": "Southern constellation known as the Net"
+        },
+        "D": {
+            "cells": [
+                53,
+                89,
+                164,
+                153,
+                132,
+                77,
+                27,
+                2
+            ],
+            "answer": "Astonish",
+            "hint": "\u201cAlways do right. This will gratify some people, and ___ the rest\u201d (Twain)"
+        },
+        "E": {
+            "cells": [
+                168,
+                149,
+                88,
+                38,
+                65,
+                76,
+                28,
+                102
+            ],
+            "answer": "Hemostat",
+            "hint": "Hospital implement with a scissorlike handle"
+        },
+        "F": {
+            "cells": [
+                172,
+                63,
+                163,
+                23,
+                125,
+                117,
+                146,
+                99,
+                7
+            ],
+            "answer": "Bluegrass",
+            "hint": "Musical style featured in \u201cO Brother, Where Art Thou?\u201d and \u201cHarlan County, U.S.A.\u201d"
+        },
+        "G": {
+            "cells": [
+                124,
+                137,
+                68,
+                26,
+                110,
+                152,
+                51,
+                92
+            ],
+            "answer": "Entitled",
+            "hint": "Having a right; given a name"
+        },
+        "H": {
+            "cells": [
+                140,
+                49,
+                118,
+                1,
+                159,
+                98,
+                30,
+                74,
+                12
+            ],
+            "answer": "Rustproof",
+            "hint": "Protect from weathering, in a way"
+        },
+        "I": {
+            "cells": [
+                91,
+                3,
+                158,
+                78,
+                121,
+                19,
+                47,
+                107
+            ],
+            "answer": "Nestling",
+            "hint": "Avian baby; lying snugly together"
+        },
+        "J": {
+            "cells": [
+                103,
+                71,
+                33,
+                133,
+                42,
+                147,
+                59,
+                115
+            ],
+            "answer": "Hoodwink",
+            "hint": "Take for a ride, bamboozle"
+        },
+        "K": {
+            "cells": [
+                131,
+                54,
+                148,
+                25,
+                10,
+                82,
+                175,
+                161
+            ],
+            "answer": "Abstract",
+            "hint": "Not practical or representative; brief"
+        },
+        "L": {
+            "cells": [
+                17,
+                165,
+                39,
+                57,
+                106,
+                145,
+                126,
+                113,
+                79
+            ],
+            "answer": "Rapturous",
+            "hint": "Overflowing with joy"
+        },
+        "M": {
+            "cells": [
+                14,
+                56,
+                72,
+                143,
+                87,
+                162,
+                170,
+                112
+            ],
+            "answer": "Dewdrops",
+            "hint": "Condensation on a spider web"
+        },
+        "N": {
+            "cells": [
+                67,
+                16,
+                116,
+                32,
+                108,
+                160,
+                48,
+                93
+            ],
+            "answer": "Teething",
+            "hint": "Process of eruption typically lasting six to nine months"
+        },
+        "O": {
+            "cells": [
+                22,
+                61,
+                156,
+                114,
+                96,
+                81,
+                139,
+                41,
+                127
+            ],
+            "answer": "Matchless",
+            "hint": "Nonpareil; unable to start a fire?"
+        },
+        "P": {
+            "cells": [
+                64,
+                134,
+                44,
+                123,
+                9,
+                18,
+                174,
+                80
+            ],
+            "answer": "Esthetic",
+            "hint": "Pleasing to the eye; in good taste"
+        },
+        "Q": {
+            "cells": [
+                50,
+                5,
+                40,
+                24,
+                122,
+                154,
+                66,
+                101
+            ],
+            "answer": "Mountain",
+            "hint": "Product of orogeny"
+        },
+        "R": {
+            "cells": [
+                157,
+                20,
+                60,
+                169,
+                35,
+                130,
+                90,
+                8,
+                69
+            ],
+            "answer": "Osteopath",
+            "hint": "Manipulative sort of doctor?"
+        },
+        "S": {
+            "cells": [
+                43,
+                83,
+                144,
+                11,
+                120,
+                109,
+                166,
+                58
+            ],
+            "answer": "Impolite",
+            "hint": "Obviously unversed in etiquette"
+        },
+        "T": {
+            "cells": [
+                52,
+                97,
+                73,
+                129,
+                111,
+                37,
+                13,
+                142,
+                167
+            ],
+            "answer": "Resistant",
+            "hint": "Not apt to yield"
+        },
+        "U": {
+            "cells": [
+                29,
+                150,
+                55,
+                100,
+                15,
+                136,
+                70,
+                85
+            ],
+            "answer": "Salivary",
+            "hint": "Kind of gland affected by mumps"
+        }
+    }
+}

@@ -1,0 +1,348 @@
+{
+    "answer": "Christmas Eve... was a day of nonstop action... . It was the rowdiest crowd I have ever seen, and we were short on elves... . It was us against them. ... My Santa and I had them on the lap, off the lap in forty-five seconds flat.",
+    "author": "David Sedaris,",
+    "authorCell": [
+        46,
+        141,
+        87,
+        100,
+        117,
+        5,
+        139,
+        17,
+        58,
+        147,
+        56,
+        65,
+        2,
+        83,
+        140,
+        4,
+        121,
+        16,
+        149,
+        154,
+        23,
+        112,
+        143,
+        1,
+        12
+    ],
+    "source": "Holidays On Ice",
+    "clues": {
+        "A": {
+            "cells": [
+                46,
+                146,
+                22,
+                132,
+                113,
+                63
+            ],
+            "answer": "Donate",
+            "hint": "Offer as a gift"
+        },
+        "B": {
+            "cells": [
+                141,
+                164,
+                86,
+                18,
+                39,
+                104
+            ],
+            "answer": "At last",
+            "hint": "After a seeming eternity (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                87,
+                111,
+                3,
+                68,
+                32,
+                49,
+                129
+            ],
+            "answer": "Varnish",
+            "hint": "Sugarcoat; superficiality"
+        },
+        "D": {
+            "cells": [
+                100,
+                11,
+                47,
+                61,
+                159
+            ],
+            "answer": "Ivied",
+            "hint": "Garlanded with green plants"
+        },
+        "E": {
+            "cells": [
+                117,
+                20,
+                74,
+                127,
+                148,
+                35,
+                7,
+                88
+            ],
+            "answer": "Downtime",
+            "hint": "Consequence of malfunctioning machinery"
+        },
+        "F": {
+            "cells": [
+                5,
+                122,
+                29,
+                137,
+                73,
+                96
+            ],
+            "answer": "States",
+            "hint": "Tasmania, Chihuahua, Punjab and others"
+        },
+        "G": {
+            "cells": [
+                139,
+                94,
+                78,
+                66,
+                116,
+                51,
+                155
+            ],
+            "answer": "Essence",
+            "hint": "Lifestyle magazine first published in 1970"
+        },
+        "H": {
+            "cells": [
+                17,
+                99,
+                142,
+                123,
+                34,
+                67
+            ],
+            "answer": "Daphne",
+            "hint": "Nymph chased by Apollo and turned into a tree"
+        },
+        "I": {
+            "cells": [
+                58,
+                45,
+                115,
+                9,
+                138
+            ],
+            "answer": "Awash",
+            "hint": "Overflowing, inundated"
+        },
+        "J": {
+            "cells": [
+                147,
+                114,
+                71,
+                90,
+                163,
+                24,
+                50
+            ],
+            "answer": "Radiant",
+            "hint": "Like an angel\u2019s halo or a light display"
+        },
+        "K": {
+            "cells": [
+                56,
+                158,
+                26,
+                80,
+                37
+            ],
+            "answer": "In tow",
+            "hint": "Tagging along behind (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                65,
+                79,
+                27,
+                53,
+                161,
+                131,
+                109
+            ],
+            "answer": "Shoofly",
+            "hint": "\u201cI break for ___ pie\u201d (official Pennsylvania bumper sticker)"
+        },
+        "M": {
+            "cells": [
+                2,
+                130,
+                144,
+                156,
+                119,
+                108,
+                38,
+                70
+            ],
+            "answer": "Henchman",
+            "hint": "Oddjob, to Goldfinger"
+        },
+        "N": {
+            "cells": [
+                83,
+                152,
+                106,
+                43,
+                25,
+                120,
+                13
+            ],
+            "answer": "Oversaw",
+            "hint": "Supervised, had charge of"
+        },
+        "O": {
+            "cells": [
+                140,
+                33,
+                59,
+                48,
+                21,
+                75,
+                8,
+                102,
+                128
+            ],
+            "answer": "Lovefeast",
+            "hint": "Religious service held in December celebrating fellowship and charity (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                4,
+                31,
+                60,
+                107
+            ],
+            "answer": "Item",
+            "hint": "Listing in a shopping list"
+        },
+        "Q": {
+            "cells": [
+                121,
+                97,
+                89,
+                41,
+                10,
+                52
+            ],
+            "answer": "Dasher",
+            "hint": "Dancer\u2019s partner"
+        },
+        "R": {
+            "cells": [
+                16,
+                145,
+                6,
+                85,
+                64,
+                98,
+                162,
+                126,
+                54
+            ],
+            "answer": "Afterglow",
+            "hint": "Lingering effect from Krakatoa depicted in Munch\u2019s \u201cThe Scream\u201d"
+        },
+        "S": {
+            "cells": [
+                149,
+                77,
+                92,
+                110
+            ],
+            "answer": "Yews",
+            "hint": "Red-berried evergreens with wood suitable for bow-making"
+        },
+        "T": {
+            "cells": [
+                154,
+                133,
+                81,
+                93,
+                19,
+                124,
+                55
+            ],
+            "answer": "Sprayed",
+            "hint": "Like some evergreens, to extend their freshness or reduce their risk of catching fire"
+        },
+        "U": {
+            "cells": [
+                23,
+                95,
+                40,
+                136,
+                151,
+                82
+            ],
+            "answer": "Outfit",
+            "hint": "Costume, rig"
+        },
+        "V": {
+            "cells": [
+                112,
+                134,
+                160,
+                72,
+                42,
+                14,
+                91
+            ],
+            "answer": "No sweat",
+            "hint": "\u201cEasy!\u201d (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                143,
+                125,
+                28,
+                44,
+                15,
+                103,
+                157,
+                76
+            ],
+            "answer": "Impostor",
+            "hint": "Humbug"
+        },
+        "X": {
+            "cells": [
+                1,
+                57,
+                69,
+                150,
+                135,
+                118,
+                84,
+                30,
+                105
+            ],
+            "answer": "Chaffinch",
+            "hint": "Songbird that often flocks with bramblings"
+        },
+        "Y": {
+            "cells": [
+                12,
+                62,
+                153,
+                101,
+                36
+            ],
+            "answer": "Event",
+            "hint": "Something to mark on a calendar"
+        }
+    }
+}

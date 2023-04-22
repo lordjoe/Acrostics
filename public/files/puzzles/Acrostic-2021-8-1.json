@@ -1,0 +1,342 @@
+{
+    "answer": "It has strange teeth and clawed shovels for hands. But the real mystery... is that nose. If one day you... cross paths with a star-nosed mole, don\u2019t feel self-conscious, everybody stares, and the mole can\u2019t see, so no harm done.",
+    "author": "(Kenneth) Catania,",
+    "authorCell": [
+        21,
+        166,
+        111,
+        140,
+        145,
+        69,
+        18,
+        11,
+        48,
+        129,
+        97,
+        2,
+        75,
+        146,
+        9,
+        85,
+        13,
+        38,
+        7,
+        59,
+        71,
+        65,
+        116
+    ],
+    "source": "Great Adaptations",
+    "clues": {
+        "A": {
+            "cells": [
+                21,
+                37,
+                55,
+                148,
+                164,
+                99,
+                1,
+                124
+            ],
+            "answer": "Chthonic",
+            "hint": "Dark and deep; belonging to the underworld"
+        },
+        "B": {
+            "cells": [
+                166,
+                110,
+                23,
+                96,
+                78,
+                150,
+                133
+            ],
+            "answer": "Anatomy",
+            "hint": "Study of tissues, bones and such"
+        },
+        "C": {
+            "cells": [
+                111,
+                62,
+                36,
+                172,
+                90,
+                128,
+                3,
+                155,
+                20,
+                49
+            ],
+            "answer": "Threw shade",
+            "hint": "Engaged in eye-rolling or subtle digs (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                140,
+                41,
+                16,
+                121,
+                79,
+                156,
+                103
+            ],
+            "answer": "Astound",
+            "hint": "Flabbergast, boggle, bowl over"
+        },
+        "E": {
+            "cells": [
+                145,
+                126,
+                60,
+                88,
+                107,
+                6
+            ],
+            "answer": "Noshes",
+            "hint": "Snacks on some tidbits"
+        },
+        "F": {
+            "cells": [
+                69,
+                40,
+                106,
+                160,
+                19,
+                131,
+                54,
+                5
+            ],
+            "answer": "Idleness",
+            "hint": "\u201cThe Dead Sea that swallows all virtues,\u201d per Benjamin Franklin"
+        },
+        "G": {
+            "cells": [
+                18,
+                39,
+                80,
+                165,
+                109,
+                130,
+                53
+            ],
+            "answer": "Anchovy",
+            "hint": "Fish that may be a pizza topping"
+        },
+        "H": {
+            "cells": [
+                11,
+                73,
+                92,
+                167,
+                31,
+                50,
+                108,
+                137
+            ],
+            "answer": "Get ready",
+            "hint": "Take measures to prepare (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                48,
+                14,
+                123,
+                68,
+                81,
+                30,
+                159
+            ],
+            "answer": "Reserve",
+            "hint": "Set aside for later; caution in one\u2019s words or actions"
+        },
+        "J": {
+            "cells": [
+                129,
+                163,
+                74,
+                29,
+                147,
+                93,
+                113,
+                8,
+                52
+            ],
+            "answer": "Endotherm",
+            "hint": "Warm-blooded creature"
+        },
+        "K": {
+            "cells": [
+                97,
+                134,
+                63,
+                84,
+                46,
+                114,
+                26
+            ],
+            "answer": "Abashed",
+            "hint": "Smitten with shame, red-faced"
+        },
+        "L": {
+            "cells": [
+                2,
+                86,
+                152,
+                66,
+                122,
+                33
+            ],
+            "answer": "Talons",
+            "hint": "Sharp growths helpful for burrowing"
+        },
+        "M": {
+            "cells": [
+                75,
+                27,
+                161,
+                56,
+                104,
+                42,
+                118,
+                142
+            ],
+            "answer": "Assemble",
+            "hint": "Piece together; collect; meet"
+        },
+        "N": {
+            "cells": [
+                146,
+                105,
+                51,
+                64,
+                125,
+                89,
+                17
+            ],
+            "answer": "Doltish",
+            "hint": "Pea-brained, far from shrewd"
+        },
+        "O": {
+            "cells": [
+                9,
+                43,
+                61,
+                28,
+                170,
+                141,
+                91,
+                157,
+                76
+            ],
+            "answer": "Authority",
+            "hint": "Expert with a commanding grasp"
+        },
+        "P": {
+            "cells": [
+                85,
+                132,
+                12,
+                45,
+                149,
+                72,
+                169
+            ],
+            "answer": "Pretend",
+            "hint": "Imaginary, made-up, sham"
+        },
+        "Q": {
+            "cells": [
+                13,
+                82,
+                143,
+                67,
+                162,
+                34,
+                119
+            ],
+            "answer": "Toss off",
+            "hint": "Produce quickly and with little effort (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                38,
+                94,
+                57,
+                136,
+                24,
+                151,
+                115,
+                70
+            ],
+            "answer": "Aardwolf",
+            "hint": "Striped African termite eater"
+        },
+        "S": {
+            "cells": [
+                7,
+                102,
+                171,
+                87,
+                144,
+                120,
+                32,
+                47,
+                158
+            ],
+            "answer": "Tentacles",
+            "hint": "Appendages not usually found on mammals"
+        },
+        "T": {
+            "cells": [
+                59,
+                83,
+                101,
+                127,
+                15
+            ],
+            "answer": "Issue",
+            "hint": "Debatable subject; children"
+        },
+        "U": {
+            "cells": [
+                71,
+                22,
+                112,
+                4,
+                154,
+                44,
+                135,
+                98,
+                58
+            ],
+            "answer": "Olfactory",
+            "hint": "Pertaining to the sense of smell"
+        },
+        "V": {
+            "cells": [
+                65,
+                153,
+                168,
+                117,
+                95,
+                25,
+                138
+            ],
+            "answer": "Nemeses",
+            "hint": "Agents of ruination"
+        },
+        "W": {
+            "cells": [
+                116,
+                10,
+                35,
+                100,
+                139,
+                77
+            ],
+            "answer": "Snooty",
+            "hint": "Hoity-toity, la-di-da"
+        }
+    }
+}

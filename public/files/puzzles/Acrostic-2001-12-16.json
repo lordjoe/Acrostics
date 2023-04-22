@@ -1,0 +1,328 @@
+{
+    "answer": "[D]etails of oral tradition often are real. The Mycenaeans were actively working in gold by the time of Jason.... [It] was gathered by staking... fleeces in streams, because the hides had a natural affinity for the precious metal.",
+    "author": "(Richard) Manning,",
+    "authorCell": [
+        175,
+        145,
+        22,
+        27,
+        79,
+        119,
+        69,
+        61,
+        88,
+        37,
+        31,
+        21,
+        173,
+        68,
+        17,
+        15,
+        171,
+        56,
+        44,
+        62
+    ],
+    "source": "One Round River",
+    "clues": {
+        "A": {
+            "cells": [
+                175,
+                16,
+                40,
+                77,
+                101,
+                70,
+                146,
+                118,
+                85
+            ],
+            "answer": "Macedonia",
+            "hint": "Neighbor of Greece"
+        },
+        "B": {
+            "cells": [
+                145,
+                13,
+                89,
+                53,
+                166
+            ],
+            "answer": "Alice",
+            "hint": "Arts patron ___ Tully"
+        },
+        "C": {
+            "cells": [
+                22,
+                98,
+                48,
+                8,
+                122,
+                71,
+                114,
+                33,
+                157,
+                86
+            ],
+            "answer": "New Orleans",
+            "hint": "U.S. city lying largely below sea level (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                27,
+                51,
+                9,
+                81,
+                150,
+                164,
+                64,
+                35,
+                138
+            ],
+            "answer": "Nefertiti",
+            "hint": "Noted limestone bust in Berlin\u2019s Staatliche Museum"
+        },
+        "E": {
+            "cells": [
+                79,
+                50,
+                158,
+                120,
+                165,
+                93,
+                105,
+                133,
+                60
+            ],
+            "answer": "Irish stew",
+            "hint": "Dish of mutton, potatoes, onions, etc. (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                119,
+                156,
+                106,
+                66,
+                45,
+                29,
+                143
+            ],
+            "answer": "Niagara",
+            "hint": "Relentless barrage, overwhelming flow"
+        },
+        "G": {
+            "cells": [
+                69,
+                137,
+                178,
+                42,
+                153
+            ],
+            "answer": "Ghana",
+            "hint": "First colonial sub-Saharan state to gain independence"
+        },
+        "H": {
+            "cells": [
+                61,
+                107,
+                19,
+                82,
+                73,
+                169,
+                99,
+                161,
+                2,
+                47,
+                121
+            ],
+            "answer": "Oktoberfest",
+            "hint": "Celebration dating from 1810 also known as the Wiesn"
+        },
+        "I": {
+            "cells": [
+                88,
+                113,
+                10,
+                167,
+                36,
+                59,
+                96,
+                30
+            ],
+            "answer": "Neophyte",
+            "hint": "Person admitted to probationary membership in a religious group"
+        },
+        "J": {
+            "cells": [
+                37,
+                78,
+                177,
+                147,
+                84,
+                12,
+                125,
+                26,
+                141
+            ],
+            "answer": "Etta James",
+            "hint": "\u201cTell Mama\u201d blues and soul singer (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                31,
+                136,
+                126,
+                20,
+                144,
+                49,
+                65,
+                170,
+                160
+            ],
+            "answer": "Residency",
+            "hint": "Period of specialized training"
+        },
+        "L": {
+            "cells": [
+                21,
+                154,
+                111,
+                54,
+                97,
+                41,
+                174,
+                135,
+                123,
+                6,
+                83
+            ],
+            "answer": "Off-the-shelf",
+            "hint": "Ready-made (hyph.)"
+        },
+        "M": {
+            "cells": [
+                173,
+                58,
+                25,
+                108,
+                38,
+                130,
+                3,
+                149,
+                80
+            ],
+            "answer": "Ultimatum",
+            "hint": "Possible prelude to war"
+        },
+        "N": {
+            "cells": [
+                68,
+                18,
+                94,
+                76,
+                159,
+                52,
+                109,
+                1,
+                139,
+                124,
+                39
+            ],
+            "answer": "\u201cNight and Day\u201d",
+            "hint": "Song from Cole Porter\u2019s 1932 musical \u201cGay Divorce\u201d (3 wds.)"
+        },
+        "O": {
+            "cells": [
+                17,
+                87,
+                91,
+                46,
+                104,
+                148,
+                4,
+                67,
+                168,
+                132
+            ],
+            "answer": "Downstairs",
+            "hint": "Below"
+        },
+        "P": {
+            "cells": [
+                15,
+                43,
+                90,
+                28,
+                75,
+                172,
+                131,
+                55,
+                112,
+                152,
+                100
+            ],
+            "answer": "Ratatouille",
+            "hint": "Vegetable dish of Provence"
+        },
+        "Q": {
+            "cells": [
+                171,
+                34,
+                63,
+                151,
+                129,
+                142,
+                92,
+                7,
+                116
+            ],
+            "answer": "Ilka Chase",
+            "hint": "1930\u2019s-50\u2019s actress whose memoirs were titled \u201cPast Imperfect\u201d (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                56,
+                23,
+                74,
+                95,
+                110,
+                128,
+                163
+            ],
+            "answer": "Voyager",
+            "hint": "Spacecraft carrying greetings to extraterrestrials"
+        },
+        "S": {
+            "cells": [
+                44,
+                127,
+                102,
+                140,
+                14,
+                117,
+                155,
+                5,
+                57,
+                179,
+                72
+            ],
+            "answer": "Ebbets Field",
+            "hint": "Former Flatbush landmark (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                62,
+                176,
+                24,
+                32,
+                115,
+                134,
+                162,
+                11,
+                103
+            ],
+            "answer": "Refectory",
+            "hint": "Dining hall for monks"
+        }
+    }
+}

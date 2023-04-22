@@ -1,0 +1,343 @@
+{
+    "answer": "Plants invented \u201csteamy but not touchy\u201d long before the Victorian novel\u2014much flowering, perfuming and... green yearning, all without direct contact of... organs. Just a dusting of pollen wafted on a breeze or delivered by a bee.",
+    "author": "Susan Milius,",
+    "authorCell": [
+        136,
+        29,
+        6,
+        18,
+        89,
+        78,
+        70,
+        99,
+        95,
+        61,
+        15,
+        131,
+        119,
+        138,
+        161,
+        139,
+        62,
+        13,
+        96,
+        87,
+        149,
+        128
+    ],
+    "source": "Science News",
+    "clues": {
+        "A": {
+            "cells": [
+                136,
+                48,
+                17,
+                35,
+                120,
+                68,
+                84
+            ],
+            "answer": "Scented",
+            "hint": "Meant to be olfactorily stimulating"
+        },
+        "B": {
+            "cells": [
+                29,
+                143,
+                166,
+                93,
+                53,
+                76,
+                117
+            ],
+            "answer": "Updraft",
+            "hint": "Boost for a paraglider"
+        },
+        "C": {
+            "cells": [
+                6,
+                92,
+                24,
+                125,
+                151,
+                172,
+                66,
+                47,
+                108
+            ],
+            "answer": "Sangfroid",
+            "hint": "Unflappability, aplomb (hyph.)"
+        },
+        "D": {
+            "cells": [
+                18,
+                94,
+                134,
+                51,
+                115,
+                72,
+                173,
+                4
+            ],
+            "answer": "Androgen",
+            "hint": "Hormone connected with hair loss"
+        },
+        "E": {
+            "cells": [
+                89,
+                179,
+                159,
+                123,
+                67,
+                25,
+                2,
+                142,
+                38
+            ],
+            "answer": "Nero Wolfe",
+            "hint": "Fictional sleuth with a passion for orchids (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                78,
+                121,
+                8,
+                137,
+                165,
+                150,
+                30,
+                104,
+                180,
+                43
+            ],
+            "answer": "Montrachet",
+            "hint": "White Burgundy from a grand cru vineyard"
+        },
+        "G": {
+            "cells": [
+                70,
+                54,
+                103,
+                169,
+                19,
+                118,
+                132,
+                88
+            ],
+            "answer": "Intimate",
+            "hint": "Confidential; cozy; bosom"
+        },
+        "H": {
+            "cells": [
+                99,
+                42,
+                64,
+                12,
+                129,
+                177,
+                158
+            ],
+            "answer": "Left jab",
+            "hint": "Common start of a one-two combo (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                95,
+                116,
+                170,
+                28,
+                65,
+                46,
+                10,
+                154
+            ],
+            "answer": "Involved",
+            "hint": "Elaborate, complex; having a relationship"
+        },
+        "J": {
+            "cells": [
+                61,
+                156,
+                178,
+                130,
+                16,
+                107,
+                40,
+                83
+            ],
+            "answer": "Unbutton",
+            "hint": "Loosen up, in a way; start to take off"
+        },
+        "K": {
+            "cells": [
+                15,
+                45,
+                146,
+                122,
+                31,
+                171,
+                100,
+                73
+            ],
+            "answer": "Self-help",
+            "hint": "Book genre for independent problem-solvers (hyph.)"
+        },
+        "L": {
+            "cells": [
+                131,
+                109,
+                11,
+                97,
+                59,
+                167,
+                26,
+                144,
+                80
+            ],
+            "answer": "Singleton",
+            "hint": "Person living alone, in Bridget Jones\u2019s world"
+        },
+        "M": {
+            "cells": [
+                119,
+                50,
+                135,
+                86,
+                152,
+                102,
+                71,
+                36
+            ],
+            "answer": "Courting",
+            "hint": "Suitor\u2019s pursuit"
+        },
+        "N": {
+            "cells": [
+                138,
+                39,
+                58,
+                153,
+                168,
+                1,
+                124,
+                74,
+                23,
+                113,
+                90
+            ],
+            "answer": "\"I Feel Pretty\"",
+            "hint": "\u201cWest Side Story\u201d number sung by Maria (3 wds.)"
+        },
+        "O": {
+            "cells": [
+                161,
+                55,
+                5,
+                105,
+                22,
+                41,
+                133,
+                85,
+                147
+            ],
+            "answer": "Entourage",
+            "hint": "Star-orbiting crew"
+        },
+        "P": {
+            "cells": [
+                139,
+                3,
+                49,
+                106,
+                69,
+                160,
+                21,
+                34,
+                176
+            ],
+            "answer": "\"Nature Boy\"",
+            "hint": "1948 Nat King Cole hit about a sort of proto-hippie (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                62,
+                44,
+                79,
+                9,
+                126,
+                145,
+                110,
+                32
+            ],
+            "answer": "Chivalry",
+            "hint": "Round Table code"
+        },
+        "R": {
+            "cells": [
+                13,
+                60,
+                37,
+                141,
+                101,
+                163,
+                75
+            ],
+            "answer": "Embower",
+            "hint": "Shelter, as with tree branches"
+        },
+        "S": {
+            "cells": [
+                96,
+                111,
+                57,
+                82,
+                174,
+                157
+            ],
+            "answer": "Nevada",
+            "hint": "U.S. state with the lowest average annual rainfall"
+        },
+        "T": {
+            "cells": [
+                87,
+                114,
+                155,
+                33,
+                56,
+                140,
+                20
+            ],
+            "answer": "Ecology",
+            "hint": "Subject dealing with habitats and biodiversity"
+        },
+        "U": {
+            "cells": [
+                149,
+                63,
+                7,
+                162,
+                175,
+                98,
+                127,
+                81
+            ],
+            "answer": "Whiz-bang",
+            "hint": "Crackling with excitement and action (hyph.)"
+        },
+        "V": {
+            "cells": [
+                128,
+                91,
+                14,
+                77,
+                112,
+                27,
+                52,
+                164,
+                148
+            ],
+            "answer": "Seduction",
+            "hint": "Skill of Don Juan or Casanova"
+        }
+    }
+}

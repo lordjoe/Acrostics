@@ -1,0 +1,358 @@
+{
+    "answer": "Benjamin Franklin, who befriended Webster, and advocated spelling reform, proposed that we lose c, w, y, and j; modify a and u to represent their different sounds; and adopt a new form of s for sh and a variation on y for ng.",
+    "author": "Mary Norris,",
+    "authorCell": [
+        6,
+        94,
+        172,
+        83,
+        166,
+        135,
+        10,
+        160,
+        161,
+        106,
+        1,
+        21,
+        46,
+        30,
+        31,
+        28,
+        38,
+        93,
+        146,
+        98,
+        162,
+        131,
+        39,
+        62,
+        69
+    ],
+    "source": "Between You and Me",
+    "clues": {
+        "A": {
+            "cells": [
+                6,
+                60,
+                167,
+                96,
+                148,
+                72,
+                116,
+                26,
+                47
+            ],
+            "answer": "Moonshine",
+            "hint": "Hooch from a still"
+        },
+        "B": {
+            "cells": [
+                94,
+                14,
+                164,
+                56,
+                111,
+                137
+            ],
+            "answer": "Alight",
+            "hint": "Go from air to earth"
+        },
+        "C": {
+            "cells": [
+                172,
+                24,
+                59,
+                118,
+                101,
+                159,
+                147,
+                9
+            ],
+            "answer": "Riffraff",
+            "hint": "Disreputable people"
+        },
+        "D": {
+            "cells": [
+                83,
+                100,
+                53,
+                13
+            ],
+            "answer": "Yolk",
+            "hint": "Opposite of white, in a way"
+        },
+        "E": {
+            "cells": [
+                166,
+                91,
+                127,
+                109,
+                153,
+                141,
+                45,
+                23,
+                70
+            ],
+            "answer": "Ninth Ward",
+            "hint": "New Orleans area hit hard by Katrina (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                135,
+                117,
+                92,
+                169,
+                2,
+                40,
+                57
+            ],
+            "answer": "Off year",
+            "hint": "Season worse than the usual (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                10,
+                89,
+                43,
+                22,
+                123,
+                67,
+                103
+            ],
+            "answer": "Rooftop",
+            "hint": "Place for a TV antenna or satellite dish"
+        },
+        "H": {
+            "cells": [
+                160,
+                126,
+                139,
+                29,
+                65,
+                82,
+                12
+            ],
+            "answer": "Rundown",
+            "hint": "\u201cPickle,\u201d in baseball"
+        },
+        "I": {
+            "cells": [
+                161,
+                122,
+                4,
+                58,
+                81,
+                34,
+                105,
+                134
+            ],
+            "answer": "Injected",
+            "hint": "Given a shot"
+        },
+        "J": {
+            "cells": [
+                106,
+                18,
+                120,
+                133,
+                63,
+                155,
+                35,
+                77
+            ],
+            "answer": "Shrapnel",
+            "hint": "Bits of shells"
+        },
+        "K": {
+            "cells": [
+                1,
+                104,
+                143,
+                75,
+                55,
+                33
+            ],
+            "answer": "Browns",
+            "hint": "Only N.F.L. team without a helmet logo"
+        },
+        "L": {
+            "cells": [
+                21,
+                3,
+                48,
+                74,
+                150,
+                140,
+                85,
+                115
+            ],
+            "answer": "End-to-end",
+            "hint": "Like frantic, back-and-forth basketball action (hyph.)"
+        },
+        "M": {
+            "cells": [
+                46,
+                17,
+                165,
+                32,
+                113,
+                99,
+                129
+            ],
+            "answer": "Two bits",
+            "hint": "Cost of a shave and a haircut, once (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                30,
+                64,
+                130,
+                50
+            ],
+            "answer": "Wrap",
+            "hint": "Sandwich in a tortilla"
+        },
+        "O": {
+            "cells": [
+                31,
+                88,
+                66,
+                144,
+                107,
+                49,
+                79
+            ],
+            "answer": "Empress",
+            "hint": "Title for Catherine the Great"
+        },
+        "P": {
+            "cells": [
+                28,
+                108,
+                173,
+                51,
+                11,
+                156
+            ],
+            "answer": "Ennead",
+            "hint": "Group such as the Muses"
+        },
+        "Q": {
+            "cells": [
+                38,
+                171,
+                8,
+                76,
+                110
+            ],
+            "answer": "Nonet",
+            "hint": "Group such as the Muses"
+        },
+        "R": {
+            "cells": [
+                93,
+                138,
+                114,
+                41,
+                73,
+                174,
+                25
+            ],
+            "answer": "Yardage",
+            "hint": "What might be picked up at a football game"
+        },
+        "S": {
+            "cells": [
+                146,
+                20,
+                87,
+                121,
+                44,
+                71,
+                7,
+                158,
+                102
+            ],
+            "answer": "Objective",
+            "hint": "Grammatical case for \u201cthem\u201d"
+        },
+        "T": {
+            "cells": [
+                98,
+                168,
+                27,
+                61,
+                80,
+                152,
+                124
+            ],
+            "answer": "Undress",
+            "hint": "Strip, disrobe"
+        },
+        "U": {
+            "cells": [
+                162,
+                128,
+                145,
+                37,
+                16
+            ],
+            "answer": "Adman",
+            "hint": "Pitcher who\u2019s not in sports"
+        },
+        "V": {
+            "cells": [
+                131,
+                5,
+                54,
+                157,
+                86
+            ],
+            "answer": "Naiad",
+            "hint": "Dragonfly in its juvenile stage"
+        },
+        "W": {
+            "cells": [
+                39,
+                154,
+                142,
+                170,
+                125,
+                90,
+                15,
+                52,
+                68
+            ],
+            "answer": "Daffodils",
+            "hint": "What filled Wordsworth\u2019s heart with pleasure"
+        },
+        "X": {
+            "cells": [
+                62,
+                112,
+                97,
+                149,
+                78,
+                36,
+                132
+            ],
+            "answer": "Medford",
+            "hint": "Massachusetts home of Tufts University"
+        },
+        "Y": {
+            "cells": [
+                69,
+                42,
+                84,
+                136,
+                19,
+                151,
+                95,
+                163,
+                119
+            ],
+            "answer": "Evaporate",
+            "hint": "Vanish into thin air"
+        }
+    }
+}

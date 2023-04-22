@@ -1,0 +1,349 @@
+{
+    "answer": "Sometimes professional wrestling is like... ballet,... sometimes like a crude morality play... decked out with... elements of antique theater,... hieratic posturing, menace, dread,... pain.... This is Theater of Cruelty played for laughs.",
+    "author": "Angela Carter,",
+    "authorCell": [
+        72,
+        19,
+        30,
+        136,
+        52,
+        175,
+        118,
+        38,
+        58,
+        122,
+        91,
+        11,
+        15,
+        86,
+        167,
+        77,
+        84,
+        92,
+        127,
+        140,
+        162,
+        109,
+        177
+    ],
+    "source": "Shaking A Leg",
+    "clues": {
+        "A": {
+            "cells": [
+                72,
+                32,
+                57,
+                178
+            ],
+            "answer": "Asch",
+            "hint": "Polish-born novelist and dramatist (1880-1957) who wrote in Yiddish"
+        },
+        "B": {
+            "cells": [
+                19,
+                97,
+                47,
+                123,
+                114,
+                131,
+                88,
+                6,
+                146,
+                62
+            ],
+            "answer": "Naturalism",
+            "hint": "Style embraced by Zola"
+        },
+        "C": {
+            "cells": [
+                30,
+                173,
+                161,
+                55,
+                98,
+                135,
+                120,
+                63,
+                7
+            ],
+            "answer": "Greenroom",
+            "hint": "Offstage lounge for performers"
+        },
+        "D": {
+            "cells": [
+                136,
+                101,
+                59,
+                147,
+                85,
+                168
+            ],
+            "answer": "Equity",
+            "hint": "Actors\u2019 union, informally"
+        },
+        "E": {
+            "cells": [
+                52,
+                133,
+                145,
+                153,
+                90,
+                172,
+                163,
+                34,
+                13
+            ],
+            "answer": "Leitmotif",
+            "hint": "Theme in a music drama"
+        },
+        "F": {
+            "cells": [
+                175,
+                71,
+                129
+            ],
+            "answer": "Ale",
+            "hint": "Drink in the title of a Maugham novel"
+        },
+        "G": {
+            "cells": [
+                118,
+                20,
+                108,
+                149,
+                166,
+                89,
+                132,
+                56,
+                39,
+                33
+            ],
+            "answer": "Cattle call",
+            "hint": "Open tryout for roles (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                38,
+                157,
+                96,
+                21,
+                169,
+                76,
+                54
+            ],
+            "answer": "Affleck",
+            "hint": "Co-winner of 1997\u2019s Best Screenplay Oscar"
+        },
+        "I": {
+            "cells": [
+                58,
+                102,
+                82,
+                144
+            ],
+            "answer": "Ruth",
+            "hint": "Frederic\u2019s nurse in \u201cThe Pirates of Penzance\u201d"
+        },
+        "J": {
+            "cells": [
+                122,
+                83,
+                164,
+                40,
+                115,
+                26,
+                105,
+                65,
+                155,
+                10
+            ],
+            "answer": "Twyla Tharp",
+            "hint": "Choreographer whose works include \u201cPush Comes to Shove\u201d (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                91,
+                81,
+                3,
+                103,
+                130,
+                112,
+                170,
+                151,
+                16
+            ],
+            "answer": "Eumenides",
+            "hint": "Greek goddesses of vengeance"
+        },
+        "L": {
+            "cells": [
+                11,
+                111,
+                125,
+                29,
+                2,
+                158,
+                50,
+                64,
+                80,
+                94
+            ],
+            "answer": "\u201cRhinoceros\"",
+            "hint": "Theater of the absurd classic"
+        },
+        "M": {
+            "cells": [
+                15,
+                22,
+                4,
+                46,
+                126,
+                113,
+                69,
+                93,
+                156,
+                138,
+                79
+            ],
+            "answer": "\"Sweeney Todd\"",
+            "hint": "Subject of an 1847 George Pitt melodrama and a 1979 hit Broadway musical (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                86,
+                18,
+                139,
+                36
+            ],
+            "answer": "Hope",
+            "hint": "\u201cThe miserable have no other medicine / But only ___\u201d (\u201cMeasure for Measure\u201d)"
+        },
+        "O": {
+            "cells": [
+                167,
+                99,
+                42,
+                53,
+                143,
+                176,
+                134,
+                75
+            ],
+            "answer": "Attitude",
+            "hint": "In ballet, a pose on one leg, with the other leg bent behind"
+        },
+        "P": {
+            "cells": [
+                77,
+                17,
+                1,
+                121,
+                45,
+                24,
+                35,
+                107,
+                116,
+                87
+            ],
+            "answer": "\"Kiss Me Kate\"",
+            "hint": "1948 musical with the song \u201cWunderbar\u201d (3 wds.)"
+        },
+        "Q": {
+            "cells": [
+                84,
+                128,
+                119,
+                31,
+                51,
+                150
+            ],
+            "answer": "Impish",
+            "hint": "Like Puck"
+        },
+        "R": {
+            "cells": [
+                92,
+                106,
+                117,
+                174,
+                25,
+                67,
+                49,
+                12,
+                142
+            ],
+            "answer": "Neil Simon",
+            "hint": "New York theater formerly called the Alvin (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                127,
+                95,
+                44,
+                74,
+                171,
+                8,
+                27,
+                66,
+                152,
+                179
+            ],
+            "answer": "\"Goodfellas\"",
+            "hint": "1990 film about \u201cwiseguys\u201d"
+        },
+        "T": {
+            "cells": [
+                140,
+                165,
+                61,
+                110,
+                73
+            ],
+            "answer": "Apery",
+            "hint": "Clownish imitation"
+        },
+        "U": {
+            "cells": [
+                162,
+                28,
+                37,
+                124,
+                14,
+                5,
+                68,
+                48,
+                148,
+                104
+            ],
+            "answer": "Librettist",
+            "hint": "Author of operatic lyrics"
+        },
+        "V": {
+            "cells": [
+                109,
+                160,
+                23,
+                100,
+                70,
+                141,
+                60,
+                154,
+                43
+            ],
+            "answer": "Euripides",
+            "hint": "Tragedian who wrote \u201cIon\u201d and \u201cMedea\u201d"
+        },
+        "W": {
+            "cells": [
+                177,
+                159,
+                41,
+                137,
+                9,
+                78
+            ],
+            "answer": "\"Grease\u201d",
+            "hint": "1972 rock \u2019n\u2019 roll musical"
+        }
+    }
+}

@@ -1,0 +1,353 @@
+{
+    "answer": "Roget had many irons in the fire before compiling his thesaurus\u2026. His writings include treatises on physiology and phrenology \u2026 on \u2026 inhaling nitrous oxide; \u2026 and \u2026 a method of completing a knight\u2019s tour of the chessboard.",
+    "author": "Arthur Schulman,",
+    "authorCell": [
+        174,
+        51,
+        118,
+        110,
+        69,
+        25,
+        78,
+        33,
+        21,
+        50,
+        102,
+        35,
+        150,
+        40,
+        98,
+        71,
+        56,
+        173,
+        100,
+        93,
+        114,
+        67,
+        32,
+        157
+    ],
+    "source": "Resonances",
+    "clues": {
+        "A": {
+            "cells": [
+                174,
+                80,
+                20,
+                159,
+                94,
+                59,
+                44,
+                135
+            ],
+            "answer": "Astonish",
+            "hint": "Floor, rock, bowl over, stun"
+        },
+        "B": {
+            "cells": [
+                51,
+                121,
+                27,
+                175,
+                13,
+                140
+            ],
+            "answer": "Rubric",
+            "hint": "Heading in a book or manuscript printed in a different color from the rest"
+        },
+        "C": {
+            "cells": [
+                118,
+                155,
+                10,
+                55,
+                86
+            ],
+            "answer": "Thais",
+            "hint": "Eaters of tom yum goong"
+        },
+        "D": {
+            "cells": [
+                110,
+                75,
+                31,
+                131,
+                48,
+                170
+            ],
+            "answer": "Harass",
+            "hint": "Hector, pester, tease, annoy"
+        },
+        "E": {
+            "cells": [
+                69,
+                19,
+                167,
+                88,
+                52,
+                143,
+                38,
+                127
+            ],
+            "answer": "Uncouple",
+            "hint": "Make two together into separate ones"
+        },
+        "F": {
+            "cells": [
+                25,
+                2,
+                49,
+                64,
+                134,
+                117,
+                152,
+                91
+            ],
+            "answer": "Roasting",
+            "hint": "So hot you could cook an egg on the sidewalk"
+        },
+        "G": {
+            "cells": [
+                78,
+                42,
+                138,
+                4,
+                172,
+                106,
+                124
+            ],
+            "answer": "Shoebox",
+            "hint": "Classic holder of a kid\u2019s baseball card collection"
+        },
+        "H": {
+            "cells": [
+                33,
+                54,
+                87,
+                112,
+                8,
+                97,
+                136,
+                162,
+                70
+            ],
+            "answer": "Childhood",
+            "hint": "Period rarely skipped by biographers"
+        },
+        "I": {
+            "cells": [
+                21,
+                169,
+                89,
+                122,
+                37,
+                107,
+                151,
+                65
+            ],
+            "answer": "Helsinki",
+            "hint": "City called the \u201cDaughter of the Baltic\u201d"
+        },
+        "J": {
+            "cells": [
+                50,
+                83,
+                68,
+                153,
+                163,
+                5,
+                125,
+                16,
+                104
+            ],
+            "answer": "Uplifting",
+            "hint": "Spiritually or morally inspirational"
+        },
+        "K": {
+            "cells": [
+                102,
+                166,
+                41,
+                119,
+                79,
+                17,
+                146
+            ],
+            "answer": "Leg rest",
+            "hint": "Place to put your feet up (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                35,
+                74,
+                144,
+                164,
+                95,
+                123,
+                57,
+                109
+            ],
+            "answer": "Meltdown",
+            "hint": "Total loss of self-control"
+        },
+        "M": {
+            "cells": [
+                150,
+                108,
+                58,
+                76,
+                18,
+                3,
+                165,
+                45
+            ],
+            "answer": "Airtight",
+            "hint": "Ironclad, as proof or an alibi"
+        },
+        "N": {
+            "cells": [
+                40,
+                81,
+                63,
+                141,
+                15,
+                126
+            ],
+            "answer": "No good",
+            "hint": "Possible ruling after a field goal attempt (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                98,
+                120,
+                160,
+                60
+            ],
+            "answer": "Rout",
+            "hint": "Opposite of a nail-biter"
+        },
+        "P": {
+            "cells": [
+                71,
+                53,
+                36,
+                113,
+                90,
+                129,
+                7,
+                149,
+                22
+            ],
+            "answer": "Espionage",
+            "hint": "Activity of a plant or mole"
+        },
+        "Q": {
+            "cells": [
+                56,
+                101,
+                73,
+                176,
+                24,
+                137
+            ],
+            "answer": "Sordid",
+            "hint": "Seamy, sleazy, squalid"
+        },
+        "R": {
+            "cells": [
+                173,
+                11,
+                99,
+                139,
+                61,
+                23,
+                156,
+                46
+            ],
+            "answer": "One-fifth",
+            "hint": "Amount of a quintile (hyph.)"
+        },
+        "S": {
+            "cells": [
+                100,
+                133,
+                77,
+                115,
+                168,
+                39,
+                62,
+                154
+            ],
+            "answer": "Neighing",
+            "hint": "Giving a stable impression?"
+        },
+        "T": {
+            "cells": [
+                93,
+                14,
+                43,
+                111,
+                130,
+                148,
+                28
+            ],
+            "answer": "Ariadne",
+            "hint": "She helped Theseus escape the Labyrinth"
+        },
+        "U": {
+            "cells": [
+                114,
+                47,
+                34,
+                96,
+                6,
+                85,
+                158,
+                145
+            ],
+            "answer": "Neophyte",
+            "hint": "Beginner, tyro, novice"
+        },
+        "V": {
+            "cells": [
+                67,
+                84,
+                128,
+                142,
+                29,
+                26,
+                1
+            ],
+            "answer": "Chamfer",
+            "hint": "Groove or bevel"
+        },
+        "W": {
+            "cells": [
+                32,
+                116,
+                103,
+                161,
+                9,
+                147,
+                72,
+                92
+            ],
+            "answer": "Enormity",
+            "hint": "Hugeness with a negative connotation"
+        },
+        "X": {
+            "cells": [
+                157,
+                12,
+                66,
+                30,
+                82,
+                105,
+                132,
+                171
+            ],
+            "answer": "Synonyms",
+            "hint": "Things associated with the quote\u2019s subject"
+        }
+    }
+}

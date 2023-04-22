@@ -1,0 +1,352 @@
+{
+    "answer": "Human beings were originally... two people joined together as one perfect sphere... but Zeus chopped each of them in two. As a result, says Aristophanes, \u201ceach of us is perpetually hunting for the matching half of himself.\u201d",
+    "author": "(Anne) Carson,",
+    "authorCell": [
+        83,
+        109,
+        48,
+        97,
+        36,
+        147,
+        34,
+        65,
+        28,
+        130,
+        136,
+        88,
+        154,
+        6,
+        8,
+        93,
+        41,
+        100,
+        133,
+        108,
+        94,
+        66,
+        7,
+        60
+    ],
+    "source": "Eros: The Bittersweet",
+    "clues": {
+        "A": {
+            "cells": [
+                83,
+                163,
+                117,
+                144,
+                43,
+                64,
+                2,
+                29
+            ],
+            "answer": "Changeup",
+            "hint": "Unexpected diamond delivery?"
+        },
+        "B": {
+            "cells": [
+                109,
+                77,
+                1,
+                17,
+                125,
+                40,
+                160,
+                145,
+                89
+            ],
+            "answer": "Aphrodite",
+            "hint": "Consequential pick of Paris"
+        },
+        "C": {
+            "cells": [
+                48,
+                132,
+                155,
+                22,
+                113,
+                74,
+                169
+            ],
+            "answer": "Rematch",
+            "hint": "Concession of a winner"
+        },
+        "D": {
+            "cells": [
+                97,
+                45,
+                164,
+                20,
+                110,
+                73
+            ],
+            "answer": "Stairs",
+            "hint": "Links between various stories"
+        },
+        "E": {
+            "cells": [
+                36,
+                106,
+                86,
+                129,
+                61,
+                159
+            ],
+            "answer": "Oafish",
+            "hint": "Clumsy, klutzy"
+        },
+        "F": {
+            "cells": [
+                147,
+                82,
+                62,
+                174,
+                39,
+                120,
+                11
+            ],
+            "answer": "Napless",
+            "hint": "Unlikely to produce lint"
+        },
+        "G": {
+            "cells": [
+                34,
+                3,
+                131,
+                153,
+                98,
+                50,
+                18,
+                70,
+                119
+            ],
+            "answer": "Emphasize",
+            "hint": "Place extra weight on"
+        },
+        "H": {
+            "cells": [
+                65,
+                138,
+                152,
+                170,
+                42,
+                21
+            ],
+            "answer": "Ration",
+            "hint": "Limit in times of scarcity"
+        },
+        "I": {
+            "cells": [
+                28,
+                49,
+                142,
+                102
+            ],
+            "answer": "Oahu",
+            "hint": "Island where H1 runs"
+        },
+        "J": {
+            "cells": [
+                130,
+                32,
+                71,
+                158,
+                91,
+                175,
+                107
+            ],
+            "answer": "Specify",
+            "hint": "What particular individuals do?"
+        },
+        "K": {
+            "cells": [
+                136,
+                81,
+                9,
+                156,
+                118,
+                26
+            ],
+            "answer": "Tenant",
+            "hint": "Many a monthly check writer"
+        },
+        "L": {
+            "cells": [
+                88,
+                31,
+                115,
+                53,
+                166,
+                68,
+                139
+            ],
+            "answer": "Hopeful",
+            "hint": "Contender showing promise"
+        },
+        "M": {
+            "cells": [
+                154,
+                14,
+                137,
+                59,
+                104
+            ],
+            "answer": "Eruct",
+            "hint": "Let out a belch"
+        },
+        "N": {
+            "cells": [
+                6,
+                103,
+                127,
+                168,
+                57,
+                37,
+                92,
+                148
+            ],
+            "answer": "Bluffing",
+            "hint": "Helpful skill in the games Fictionary and Liar\u2019s Dice"
+        },
+        "O": {
+            "cells": [
+                8,
+                90,
+                54,
+                114,
+                172,
+                101,
+                146,
+                67,
+                23,
+                79
+            ],
+            "answer": "Impossible",
+            "hint": "\u201cA word to be found only in the dictionary of fools,\u201d per Napoleon"
+        },
+        "P": {
+            "cells": [
+                93,
+                51,
+                162,
+                19,
+                33,
+                121
+            ],
+            "answer": "Toggle",
+            "hint": "Switch between options"
+        },
+        "Q": {
+            "cells": [
+                41,
+                55,
+                4,
+                69,
+                99,
+                122,
+                141
+            ],
+            "answer": "Tea tray",
+            "hint": "Carrier of an afternoon service (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                100,
+                165,
+                87,
+                150,
+                5,
+                35,
+                16,
+                75,
+                52
+            ],
+            "answer": "Elton John",
+            "hint": "Singer with the 1969 debut album \u201cEmpty Sky\u201d (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                133,
+                85,
+                27,
+                111,
+                161,
+                10
+            ],
+            "answer": "Rowing",
+            "hint": "Crew, by another name"
+        },
+        "T": {
+            "cells": [
+                108,
+                63,
+                76,
+                12,
+                95,
+                126,
+                149
+            ],
+            "answer": "Show-off",
+            "hint": "Hot dog (hyph.)"
+        },
+        "U": {
+            "cells": [
+                94,
+                46,
+                30,
+                58,
+                140,
+                124,
+                167,
+                72,
+                105,
+                15
+            ],
+            "answer": "Wheelhouse",
+            "hint": "Pilot\u2019s spot; zone of expertise"
+        },
+        "V": {
+            "cells": [
+                66,
+                78,
+                116,
+                135,
+                171,
+                47,
+                151,
+                96,
+                24
+            ],
+            "answer": "Ephemeral",
+            "hint": "Transient"
+        },
+        "W": {
+            "cells": [
+                7,
+                38,
+                123,
+                56,
+                25,
+                134,
+                157,
+                173,
+                80
+            ],
+            "answer": "Encrypted",
+            "hint": "Made unreadable by third parties"
+        },
+        "X": {
+            "cells": [
+                60,
+                84,
+                44,
+                128,
+                13,
+                143,
+                112
+            ],
+            "answer": "Theseus",
+            "hint": "Follower of a lifesaving clue"
+        }
+    }
+}

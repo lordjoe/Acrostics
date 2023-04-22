@@ -1,0 +1,365 @@
+{
+    "answer": "Lobsters... were considered aquatic vermin... by European colonists. This sea pestilence, which littered the shores of New England, was used as fish bait and fertilizer... . Excessive serving of this \u201cjunk\u201d food led slaves... to rebel.",
+    "author": "Rachel Herz,",
+    "authorCell": [
+        91,
+        113,
+        29,
+        86,
+        144,
+        166,
+        56,
+        167,
+        177,
+        133,
+        53,
+        118,
+        44,
+        55,
+        52,
+        112,
+        51,
+        110,
+        151,
+        25,
+        108,
+        80,
+        17,
+        35,
+        101
+    ],
+    "source": "That's Disgusting",
+    "clues": {
+        "A": {
+            "cells": [
+                91,
+                38,
+                162,
+                67,
+                12,
+                137
+            ],
+            "answer": "Reflex",
+            "hint": "Action without conscious intent"
+        },
+        "B": {
+            "cells": [
+                113,
+                93,
+                6,
+                42,
+                27,
+                130,
+                70
+            ],
+            "answer": "Aseptic",
+            "hint": "Free from germs"
+        },
+        "C": {
+            "cells": [
+                29,
+                73,
+                116,
+                171,
+                96,
+                5,
+                149
+            ],
+            "answer": "Chianti",
+            "hint": "Drink choice for Hannibal Lecter"
+        },
+        "D": {
+            "cells": [
+                86,
+                120,
+                143,
+                178,
+                9,
+                49,
+                32,
+                105,
+                64
+            ],
+            "answer": "Have words",
+            "hint": "Mix it up verbally (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                144,
+                158,
+                60,
+                13,
+                175
+            ],
+            "answer": "Eject",
+            "hint": "Toss, as a player"
+        },
+        "F": {
+            "cells": [
+                166,
+                41,
+                106,
+                131,
+                28,
+                153,
+                63
+            ],
+            "answer": "Lowlife",
+            "hint": "Scum of the earth; slimeball"
+        },
+        "G": {
+            "cells": [
+                56,
+                94,
+                119,
+                36,
+                81,
+                145
+            ],
+            "answer": "Hobbes",
+            "hint": "He described life as \u201csolitary, poor, nasty, brutish and short\u201d"
+        },
+        "H": {
+            "cells": [
+                167,
+                150,
+                122,
+                7,
+                26,
+                78,
+                102,
+                58
+            ],
+            "answer": "Entrails",
+            "hint": "What a haruspex reads to foretell the future"
+        },
+        "I": {
+            "cells": [
+                177,
+                146,
+                22,
+                164,
+                48,
+                68,
+                124,
+                85
+            ],
+            "answer": "Redolent",
+            "hint": "Suffused with a distinctive smell"
+        },
+        "J": {
+            "cells": [
+                133,
+                152,
+                39,
+                69,
+                18,
+                88
+            ],
+            "answer": "Zounds",
+            "hint": "Minced oath like \u201c\u2019Sblood!\u201d"
+        },
+        "K": {
+            "cells": [
+                53,
+                134,
+                100,
+                87,
+                33,
+                180,
+                160,
+                65,
+                8
+            ],
+            "answer": "Tenements",
+            "hint": "Backdrop for \u201cWest Side Story\u201d or \u201cRent\u201d"
+        },
+        "L": {
+            "cells": [
+                118,
+                176,
+                135,
+                11,
+                34,
+                95,
+                57,
+                75
+            ],
+            "answer": "Horrific",
+            "hint": "Shockingly grim and ghastly"
+        },
+        "M": {
+            "cells": [
+                44,
+                148,
+                21,
+                82,
+                59,
+                127
+            ],
+            "answer": "Averse",
+            "hint": "Unfavorably disposed, loath"
+        },
+        "N": {
+            "cells": [
+                55,
+                89,
+                109,
+                147,
+                74,
+                3,
+                170,
+                19
+            ],
+            "answer": "Thurible",
+            "hint": "Incense burner swung in church"
+        },
+        "O": {
+            "cells": [
+                52,
+                24,
+                159,
+                107,
+                1,
+                90,
+                128
+            ],
+            "answer": "Squalor",
+            "hint": "\u201cFor Esme \u2014 With Love and ___\u201d (Salinger story)"
+        },
+        "P": {
+            "cells": [
+                112,
+                132,
+                30,
+                66,
+                50,
+                10
+            ],
+            "answer": "Divine",
+            "hint": "Prophesy; excellent, informally"
+        },
+        "Q": {
+            "cells": [
+                51,
+                15,
+                115,
+                99,
+                140,
+                154,
+                173,
+                84
+            ],
+            "answer": "Infested",
+            "hint": "Overrun, as with bugs"
+        },
+        "R": {
+            "cells": [
+                110,
+                98,
+                43,
+                123,
+                79,
+                169,
+                155,
+                14,
+                62
+            ],
+            "answer": "Sweatshop",
+            "hint": "Target for some muckraking"
+        },
+        "S": {
+            "cells": [
+                151,
+                47,
+                163,
+                4,
+                31,
+                126,
+                181,
+                92,
+                114,
+                76
+            ],
+            "answer": "Gooseflesh",
+            "hint": "What makes hair or quills stand on end"
+        },
+        "T": {
+            "cells": [
+                25,
+                104,
+                168,
+                40,
+                71,
+                141,
+                117
+            ],
+            "answer": "Undress",
+            "hint": "Get ready for bed or a sauna"
+        },
+        "U": {
+            "cells": [
+                108,
+                72,
+                23,
+                45,
+                125,
+                156,
+                172,
+                136
+            ],
+            "answer": "Swan dive",
+            "hint": "Pilates exercise done prone, with rocking (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                80,
+                20,
+                142,
+                103,
+                157,
+                174,
+                121,
+                46
+            ],
+            "answer": "Triassic",
+            "hint": "Period when pterosaurs first appeared"
+        },
+        "W": {
+            "cells": [
+                17,
+                138,
+                161,
+                37
+            ],
+            "answer": "Icky",
+            "hint": "Awful, nasty, repulsive"
+        },
+        "X": {
+            "cells": [
+                35,
+                2,
+                54,
+                139,
+                179,
+                77,
+                111,
+                97,
+                165
+            ],
+            "answer": "Nosebleed",
+            "hint": "Sky-high, like seats far from the action"
+        },
+        "Y": {
+            "cells": [
+                101,
+                61,
+                129,
+                83,
+                16
+            ],
+            "answer": "Gates",
+            "hint": "Boolean logic devices"
+        }
+    }
+}

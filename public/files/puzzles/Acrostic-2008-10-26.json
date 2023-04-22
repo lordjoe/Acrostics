@@ -1,0 +1,348 @@
+{
+    "answer": "I would prefer not to be afraid of phone bills,... black bears, climate change,... heights,... flying, the prospect that the supervolcano underlying Yosemite... will erupt and kill us..., and... that the car I\u2019m driving will simply explode.",
+    "author": "(Patricia) Pearson,",
+    "authorCell": [
+        28,
+        82,
+        101,
+        108,
+        166,
+        103,
+        13,
+        75,
+        159,
+        92,
+        84,
+        115,
+        127,
+        114,
+        98,
+        68,
+        140,
+        102,
+        173,
+        119,
+        9,
+        88,
+        110
+    ],
+    "source": "(A Brief) History Of Anxiety",
+    "clues": {
+        "A": {
+            "cells": [
+                28,
+                165,
+                57,
+                112,
+                91
+            ],
+            "answer": "Plane",
+            "hint": "Locale of snakes in a 2006 thriller"
+        },
+        "B": {
+            "cells": [
+                82,
+                97,
+                63,
+                164,
+                146,
+                122,
+                50,
+                31
+            ],
+            "answer": "Evil twin",
+            "hint": "Sinister sort of doppelganger (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                101,
+                81,
+                136,
+                17,
+                154,
+                33
+            ],
+            "answer": "Aplomb",
+            "hint": "Poise in the face of adversity"
+        },
+        "D": {
+            "cells": [
+                108,
+                71,
+                139,
+                42
+            ],
+            "answer": "Risk",
+            "hint": "Board game released in 1957 as La Conquete du Monde"
+        },
+        "E": {
+            "cells": [
+                166,
+                86,
+                149,
+                49,
+                35,
+                107,
+                70
+            ],
+            "answer": "Shelley",
+            "hint": "Frankenstein\u2019s creator"
+        },
+        "F": {
+            "cells": [
+                103,
+                158,
+                62,
+                22,
+                2,
+                144,
+                178,
+                125,
+                51
+            ],
+            "answer": "Overwhelm",
+            "hint": "Render helpless by sheer force"
+        },
+        "G": {
+            "cells": [
+                13,
+                34,
+                64,
+                90,
+                143,
+                168,
+                52,
+                156,
+                76
+            ],
+            "answer": "Nightmare",
+            "hint": "Painting by Henry Fuseli (1741-1825), featuring a Word I., with \u201cThe\u201d"
+        },
+        "H": {
+            "cells": [
+                75,
+                111,
+                94,
+                129,
+                176,
+                59,
+                46,
+                163,
+                10,
+                21
+            ],
+            "answer": "Hippogriff",
+            "hint": "Monster with an eagle\u2019s head and a horse\u2019s body"
+        },
+        "I": {
+            "cells": [
+                159,
+                132,
+                48,
+                93,
+                18,
+                4,
+                116
+            ],
+            "answer": "Incubus",
+            "hint": "Demon that preys on the unconscious"
+        },
+        "J": {
+            "cells": [
+                92,
+                120,
+                44,
+                174,
+                29,
+                19,
+                160,
+                134,
+                1,
+                58,
+                73
+            ],
+            "answer": "Stephen King",
+            "hint": "Winner of a 2002 Bram Stoker Award for lifetime achievement (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                84,
+                96,
+                20,
+                138,
+                118,
+                151,
+                66,
+                167,
+                41
+            ],
+            "answer": "Traumatic",
+            "hint": "Leaving the psyche shaken"
+        },
+        "L": {
+            "cells": [
+                115,
+                150,
+                89,
+                11,
+                130
+            ],
+            "answer": "Octet",
+            "hint": "Brubeck group that played \u201cSchizophrenic Scherzo\u201d"
+        },
+        "M": {
+            "cells": [
+                127,
+                145,
+                16,
+                74,
+                36,
+                60,
+                106
+            ],
+            "answer": "Rattled",
+            "hint": "Given a pretty good scare"
+        },
+        "N": {
+            "cells": [
+                114,
+                32,
+                99,
+                137,
+                14,
+                162
+            ],
+            "answer": "Yellow",
+            "hint": "Like a scaredy-cat"
+        },
+        "O": {
+            "cells": [
+                98,
+                155,
+                142,
+                38,
+                87,
+                124,
+                170
+            ],
+            "answer": "Oddball",
+            "hint": "Geek, weirdo, crackpot, flake"
+        },
+        "P": {
+            "cells": [
+                68,
+                78,
+                153,
+                113,
+                56,
+                15,
+                27,
+                128,
+                175
+            ],
+            "answer": "Frightful",
+            "hint": "Spooky; horrible; extreme"
+        },
+        "Q": {
+            "cells": [
+                140,
+                105,
+                161,
+                37,
+                85,
+                12,
+                123,
+                177,
+                25,
+                54,
+                72
+            ],
+            "answer": "Angst-ridden",
+            "hint": "Perpetually beset with worries (hyph.)"
+        },
+        "R": {
+            "cells": [
+                102,
+                117,
+                83,
+                152,
+                26,
+                169,
+                3,
+                39,
+                135,
+                67
+            ],
+            "answer": "Necropolis",
+            "hint": "Ancient burial ground"
+        },
+        "S": {
+            "cells": [
+                173,
+                95,
+                141,
+                79,
+                7,
+                61,
+                30,
+                43,
+                121
+            ],
+            "answer": "Xenophobe",
+            "hint": "One fearful of strangers or foreigners"
+        },
+        "T": {
+            "cells": [
+                119,
+                55,
+                40,
+                8,
+                104,
+                80
+            ],
+            "answer": "Icarus",
+            "hint": "Mythical figure who rose and fell"
+        },
+        "U": {
+            "cells": [
+                9,
+                171,
+                126,
+                77,
+                23,
+                53,
+                100,
+                148
+            ],
+            "answer": "Eyepatch",
+            "hint": "Accessory for a pirate costume"
+        },
+        "V": {
+            "cells": [
+                88,
+                131,
+                109,
+                69,
+                147,
+                45,
+                5,
+                172
+            ],
+            "answer": "Tall tale",
+            "hint": "Account not to be believed (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                110,
+                24,
+                6,
+                133,
+                157,
+                47,
+                65
+            ],
+            "answer": "Yiddish",
+            "hint": "Language from which \u201cgolem\u201d comes"
+        }
+    }
+}

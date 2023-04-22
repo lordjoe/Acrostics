@@ -1,0 +1,339 @@
+{
+    "answer": "Fischer\u2019s adversaries knew that he derived unwholesome pleasure from ravishing them. When [he] was alone..., psyching himself up for a... game, people... would hear him shout... Slam! Bam! Zowie! as he banged pieces down on the board.",
+    "author": "Paul Hoffman,",
+    "authorCell": [
+        115,
+        137,
+        133,
+        42,
+        25,
+        173,
+        104,
+        1,
+        138,
+        15,
+        168,
+        20,
+        66,
+        166,
+        68,
+        14,
+        154,
+        26,
+        72,
+        139,
+        17,
+        169
+    ],
+    "source": "King\u2019s Gambit",
+    "clues": {
+        "A": {
+            "cells": [
+                115,
+                9,
+                39,
+                76,
+                64,
+                95,
+                143,
+                157
+            ],
+            "answer": "Pawnshop",
+            "hint": "Business symbolized by three gold globes hanging from a bar"
+        },
+        "B": {
+            "cells": [
+                137,
+                60,
+                4,
+                123,
+                151,
+                33,
+                81,
+                170,
+                105,
+                48
+            ],
+            "answer": "Archbishop",
+            "hint": "Wearer of a cassock, rochet and zucchetto"
+        },
+        "C": {
+            "cells": [
+                133,
+                87,
+                112,
+                18,
+                32,
+                70,
+                51,
+                153,
+                176
+            ],
+            "answer": "Upper hand",
+            "hint": "Position of advantage or control (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                42,
+                146,
+                109,
+                98,
+                127,
+                83,
+                61,
+                165
+            ],
+            "answer": "Leash law",
+            "hint": "Neighborhood restraining order? (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                25,
+                63,
+                94,
+                77,
+                131,
+                47,
+                159,
+                116,
+                148
+            ],
+            "answer": "High heels",
+            "hint": "Means of gaining an inch or two (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                173,
+                121,
+                156,
+                23,
+                96,
+                62,
+                78,
+                3
+            ],
+            "answer": "Old wives",
+            "hint": "Proverbial purveyors of tales (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                104,
+                13,
+                86,
+                52,
+                65,
+                118,
+                152,
+                134,
+                35,
+                175
+            ],
+            "answer": "Fresh water",
+            "hint": "Concern of a limnologist (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                1,
+                174,
+                21,
+                93,
+                128,
+                38,
+                108
+            ],
+            "answer": "Fanning",
+            "hint": "Gunslinger\u2019s technique for rapid fire; means of displaying playing cards"
+        },
+        "I": {
+            "cells": [
+                138,
+                41,
+                27,
+                167,
+                57
+            ],
+            "answer": "Motor",
+            "hint": "Supplier of power or speed"
+        },
+        "J": {
+            "cells": [
+                15,
+                73,
+                111,
+                88,
+                164,
+                141,
+                31
+            ],
+            "answer": "Awesome",
+            "hint": "Enough to elicit a \u201cWow!\u201d"
+        },
+        "K": {
+            "cells": [
+                168,
+                114,
+                101,
+                49,
+                89,
+                142,
+                132,
+                67,
+                12
+            ],
+            "answer": "No-fly zone",
+            "hint": "Militarily restricted airspace (hyph., 2 wds.)"
+        },
+        "L": {
+            "cells": [
+                20,
+                74,
+                54,
+                120,
+                135,
+                5,
+                90,
+                149,
+                161,
+                34
+            ],
+            "answer": "Khrushchev",
+            "hint": "Premier when Mikhail Tal was chess champ"
+        },
+        "M": {
+            "cells": [
+                66,
+                160,
+                50,
+                100,
+                125,
+                85,
+                36,
+                22,
+                7
+            ],
+            "answer": "Icelander",
+            "hint": "One hosting the 1972 Spassky match"
+        },
+        "N": {
+            "cells": [
+                166,
+                140,
+                46,
+                117,
+                10,
+                126,
+                84,
+                103
+            ],
+            "answer": "Name-drop",
+            "hint": "Be a pretentious conversationalist (hyph.)"
+        },
+        "O": {
+            "cells": [
+                68,
+                2,
+                56,
+                24,
+                91,
+                119,
+                106,
+                162,
+                43
+            ],
+            "answer": "Gift horse",
+            "hint": "Something that shouldn\u2019t be looked at too closely (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                14,
+                113,
+                155,
+                130,
+                82,
+                144,
+                55,
+                30
+            ],
+            "answer": "Seesawed",
+            "hint": "Had a few ups and downs"
+        },
+        "Q": {
+            "cells": [
+                154,
+                58,
+                80,
+                28,
+                6,
+                107,
+                122
+            ],
+            "answer": "Go-ahead",
+            "hint": "Signal to proceed as planned (hyph.)"
+        },
+        "R": {
+            "cells": [
+                26,
+                97,
+                147,
+                163,
+                71,
+                53,
+                8
+            ],
+            "answer": "\u201cAmadeus\u201d",
+            "hint": "Oscar-winning film about a boorish prodigy"
+        },
+        "S": {
+            "cells": [
+                72,
+                37,
+                19,
+                171,
+                102,
+                129
+            ],
+            "answer": "Museum",
+            "hint": "Where past things are present"
+        },
+        "T": {
+            "cells": [
+                139,
+                75,
+                99,
+                40,
+                158,
+                11,
+                124
+            ],
+            "answer": "Beehive",
+            "hint": "Home of a pampered queen"
+        },
+        "U": {
+            "cells": [
+                17,
+                110,
+                59,
+                45,
+                172,
+                92,
+                136,
+                150
+            ],
+            "answer": "Immobile",
+            "hint": "Unable to budge"
+        },
+        "V": {
+            "cells": [
+                169,
+                79,
+                145,
+                44,
+                69,
+                29,
+                16
+            ],
+            "answer": "Twister",
+            "hint": "Scene in \u201cThe Wizard of Oz\u201d; party entertainment since 1966"
+        }
+    }
+}

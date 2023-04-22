@@ -1,0 +1,344 @@
+{
+    "answer": "Euphemisms are not... useless verbiage...; they are like secret agents on a delicate mission, they must airily pass by a stinking mess with barely... a nod of the head... Euphemisms are unpleasant truths wearing diplomatic cologne.",
+    "author": "(Quentin) Crisp,",
+    "authorCell": [
+        45,
+        83,
+        70,
+        89,
+        131,
+        134,
+        111,
+        72,
+        117,
+        51,
+        140,
+        54,
+        121,
+        26,
+        176,
+        9,
+        4,
+        59,
+        127,
+        24,
+        38,
+        143
+    ],
+    "source": "Manners From Heaven",
+    "clues": {
+        "A": {
+            "cells": [
+                45,
+                132,
+                147,
+                85,
+                177,
+                159,
+                14,
+                30,
+                103,
+                58
+            ],
+            "answer": "Challenged",
+            "hint": "Deficient, politically correctly"
+        },
+        "B": {
+            "cells": [
+                83,
+                34,
+                157,
+                108,
+                46,
+                178,
+                120,
+                66
+            ],
+            "answer": "Rest room",
+            "hint": "Space not really descriptive of its function"
+        },
+        "C": {
+            "cells": [
+                70,
+                137,
+                167,
+                55,
+                39,
+                96,
+                152,
+                13
+            ],
+            "answer": "Impolite",
+            "hint": "Taking frankness a bit too far, maybe"
+        },
+        "D": {
+            "cells": [
+                89,
+                106,
+                25,
+                75,
+                53,
+                162,
+                141
+            ],
+            "answer": "Sweetie",
+            "hint": "Endearment on the sugary side"
+        },
+        "E": {
+            "cells": [
+                131,
+                78,
+                37,
+                173,
+                151,
+                93,
+                56
+            ],
+            "answer": "Puritan",
+            "hint": "Someone not likely to owe a sin tax"
+        },
+        "F": {
+            "cells": [
+                134,
+                166,
+                150,
+                82,
+                104,
+                41,
+                67,
+                12,
+                122
+            ],
+            "answer": "Miniskirt",
+            "hint": "Fashion item popularized by Mary Quant"
+        },
+        "G": {
+            "cells": [
+                111,
+                158,
+                63,
+                76,
+                50,
+                139,
+                6,
+                19
+            ],
+            "answer": "Away game",
+            "hint": "Event for those not at home (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                72,
+                99,
+                174,
+                5,
+                52,
+                126,
+                20,
+                114,
+                35
+            ],
+            "answer": "Nice-nelly",
+            "hint": "Mealy-mouthed and prudish (hyph.)"
+        },
+        "I": {
+            "cells": [
+                117,
+                88,
+                170,
+                21,
+                69,
+                57,
+                98,
+                1,
+                136
+            ],
+            "answer": "Namesakes",
+            "hint": "John Quincy Adams and George W. Bush, for example"
+        },
+        "J": {
+            "cells": [
+                51,
+                18,
+                169,
+                144,
+                125,
+                36,
+                101,
+                2,
+                68
+            ],
+            "answer": "Esophagus",
+            "hint": "The path to nourishment?"
+        },
+        "K": {
+            "cells": [
+                140,
+                124,
+                27,
+                154,
+                105
+            ],
+            "answer": "Rebus",
+            "hint": "Type of teaser on \u201cConcentration\u201d"
+        },
+        "L": {
+            "cells": [
+                54,
+                156,
+                11,
+                119,
+                92
+            ],
+            "answer": "Shady",
+            "hint": "Rather disreputable"
+        },
+        "M": {
+            "cells": [
+                121,
+                153,
+                44,
+                133,
+                33,
+                81,
+                100,
+                165
+            ],
+            "answer": "Freehand",
+            "hint": "Executed without a mechanical aid"
+        },
+        "N": {
+            "cells": [
+                26,
+                129,
+                148,
+                80,
+                112,
+                171,
+                7,
+                97,
+                48
+            ],
+            "answer": "Restraint",
+            "hint": "The exercise of self-control"
+        },
+        "O": {
+            "cells": [
+                176,
+                91,
+                79,
+                62,
+                146,
+                163,
+                40,
+                16,
+                115
+            ],
+            "answer": "Obscenity",
+            "hint": "What is defined by the Supreme Court\u2019s \u201cMiller test\u201d"
+        },
+        "P": {
+            "cells": [
+                9,
+                29,
+                128,
+                74,
+                118,
+                142,
+                94,
+                47
+            ],
+            "answer": "Madhouse",
+            "hint": "Scene of clamor and chaos"
+        },
+        "Q": {
+            "cells": [
+                4,
+                135,
+                179,
+                109,
+                123,
+                71,
+                161,
+                90,
+                31
+            ],
+            "answer": "High horse",
+            "hint": "Attitude of hauteur (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                59,
+                102,
+                28,
+                145,
+                86,
+                3,
+                15,
+                43,
+                172
+            ],
+            "answer": "Emily Post",
+            "hint": "Author of \u201cHow to Behave Though a Debutante\u201d (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                127,
+                77,
+                110,
+                17,
+                168,
+                149,
+                32,
+                65
+            ],
+            "answer": "Ambulate",
+            "hint": "Get around on your own power"
+        },
+        "T": {
+            "cells": [
+                24,
+                181,
+                138,
+                73,
+                84,
+                164,
+                107,
+                49,
+                60
+            ],
+            "answer": "Vestigial",
+            "hint": "Like a whale\u2019s leg bones"
+        },
+        "U": {
+            "cells": [
+                38,
+                95,
+                116,
+                155,
+                8,
+                130,
+                180,
+                61,
+                22
+            ],
+            "answer": "Etats Unis",
+            "hint": "What Nicolas Sarkozy calls the United States (hyph.)"
+        },
+        "V": {
+            "cells": [
+                143,
+                42,
+                23,
+                64,
+                175,
+                113,
+                87,
+                160,
+                10
+            ],
+            "answer": "\u201cN\u2019est-ce pas?\u201d",
+            "hint": "\u201cRight?\u201d (Fr., 2 wds., hyph.)"
+        }
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "answer": "I have... hair that usually exists only in the imagination of artists and can be disturbing to see on the head of a real woman.... It is the color of nuclear sunsets... but on me the corkscrewing curls are clownish and... carroty.",
+    "author": "(Kate) Atkinson,",
+    "authorCell": [
+        166,
+        81,
+        141,
+        44,
+        61,
+        103,
+        139,
+        167,
+        35,
+        37,
+        110,
+        43,
+        71,
+        75,
+        28,
+        155,
+        159,
+        18,
+        175,
+        161,
+        106,
+        1,
+        91,
+        168
+    ],
+    "source": "Emotionally Weird",
+    "clues": {
+        "A": {
+            "cells": [
+                166,
+                46,
+                98,
+                149,
+                69,
+                12,
+                133
+            ],
+            "answer": "Anagram",
+            "hint": "Broadcast of bad actors, e.g."
+        },
+        "B": {
+            "cells": [
+                81,
+                172,
+                23,
+                158,
+                136,
+                108,
+                40,
+                64
+            ],
+            "answer": "Trichoid",
+            "hint": "Resembling what grows out of the scalp"
+        },
+        "C": {
+            "cells": [
+                141,
+                99,
+                160,
+                54,
+                10,
+                30
+            ],
+            "answer": "Knotty",
+            "hint": "Difficult to solve or straighten"
+        },
+        "D": {
+            "cells": [
+                44,
+                32,
+                59,
+                165,
+                137,
+                121
+            ],
+            "answer": "Inches",
+            "hint": "What can be meant by \""
+        },
+        "E": {
+            "cells": [
+                61,
+                173,
+                104,
+                15,
+                27,
+                48,
+                86,
+                127,
+                74
+            ],
+            "answer": "Not so fast",
+            "hint": "\u201cHold your horses there, pal\u201d (3 wds.)"
+        },
+        "F": {
+            "cells": [
+                103,
+                33,
+                14,
+                70,
+                128,
+                153,
+                85
+            ],
+            "answer": "Stubble",
+            "hint": "Impediment to a smooth kiss?"
+        },
+        "G": {
+            "cells": [
+                139,
+                22,
+                89,
+                112,
+                156,
+                58
+            ],
+            "answer": "Oxford",
+            "hint": "Where Stephen Hawking studied physics"
+        },
+        "H": {
+            "cells": [
+                167,
+                38,
+                24,
+                154,
+                90,
+                115
+            ],
+            "answer": "Nassau",
+            "hint": "Island city with a Junkanoo festival"
+        },
+        "I": {
+            "cells": [
+                35,
+                8,
+                114,
+                142,
+                51,
+                83,
+                65,
+                162
+            ],
+            "answer": "Einstein",
+            "hint": "Celebrated thinker with an unruly do"
+        },
+        "J": {
+            "cells": [
+                37,
+                131,
+                151,
+                101,
+                84,
+                113,
+                68,
+                19
+            ],
+            "answer": "Mouthful",
+            "hint": "Quite a lot to express"
+        },
+        "K": {
+            "cells": [
+                110,
+                122,
+                174,
+                144,
+                52,
+                39,
+                82,
+                25
+            ],
+            "answer": "Outright",
+            "hint": "Lacking any reservations"
+        },
+        "L": {
+            "cells": [
+                43,
+                11,
+                56,
+                126,
+                150,
+                105
+            ],
+            "answer": "Thatch",
+            "hint": "Hard-to-comb growth"
+        },
+        "M": {
+            "cells": [
+                71,
+                57,
+                41,
+                96,
+                169,
+                134,
+                148,
+                13
+            ],
+            "answer": "Innocent",
+            "hint": "\u201cAs ___ as a new-laid egg\u201d (W. S. Gilbert)"
+        },
+        "N": {
+            "cells": [
+                75,
+                31,
+                109,
+                124,
+                6,
+                60,
+                94,
+                145
+            ],
+            "answer": "Oil shale",
+            "hint": "Rock rich in hydrocarbons (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                28,
+                42,
+                111,
+                72,
+                163,
+                3
+            ],
+            "answer": "Narnia",
+            "hint": "Land found by the Pevensies"
+        },
+        "P": {
+            "cells": [
+                155,
+                97,
+                20,
+                67,
+                170,
+                123
+            ],
+            "answer": "Amy Tan",
+            "hint": "Author of \u201cSaving Fish From Drowning\u201d (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                159,
+                93,
+                146,
+                50,
+                125,
+                80,
+                107,
+                21
+            ],
+            "answer": "Lawrence",
+            "hint": "Home of the Kansas Jayhawks"
+        },
+        "R": {
+            "cells": [
+                18,
+                77,
+                95,
+                49,
+                171,
+                116,
+                34,
+                157,
+                140
+            ],
+            "answer": "Lew Archer",
+            "hint": "World-weary private eye of Ross Macdonald (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                175,
+                79,
+                16,
+                62,
+                92,
+                130,
+                143,
+                2,
+                119
+            ],
+            "answer": "\u201cYou betcha\u201d",
+            "hint": "Palinesque affirmative (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                161,
+                63,
+                17,
+                4,
+                78,
+                120
+            ],
+            "answer": "Weaver",
+            "hint": "Arachne, for one"
+        },
+        "U": {
+            "cells": [
+                106,
+                9,
+                47,
+                164,
+                147,
+                88,
+                132
+            ],
+            "answer": "Erosion",
+            "hint": "Natural problem for some banks"
+        },
+        "V": {
+            "cells": [
+                1,
+                29,
+                117,
+                45,
+                73,
+                100,
+                138
+            ],
+            "answer": "Illogic",
+            "hint": "Less than cogent reasoning"
+        },
+        "W": {
+            "cells": [
+                91,
+                129,
+                76,
+                55,
+                36,
+                7
+            ],
+            "answer": "Russia",
+            "hint": "Spanner of nine time zones"
+        },
+        "X": {
+            "cells": [
+                168,
+                102,
+                66,
+                135,
+                152,
+                5,
+                53,
+                26,
+                118,
+                87
+            ],
+            "answer": "Distressed",
+            "hint": "Not happy \u2014 at being shorn?"
+        }
+    }
+}

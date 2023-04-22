@@ -1,0 +1,348 @@
+{
+    "answer": "My standard breakfast of bacon,... eggs, toast, jelly, and orange juice, with coffee... contains every element I crave: caffeine, salt, sugar, cholesterol, and fat.... In California,... eating such a meal is regarded as a suicide attempt.",
+    "author": "Sue Grafton,",
+    "authorCell": [
+        113,
+        51,
+        155,
+        28,
+        133,
+        123,
+        16,
+        174,
+        117,
+        47,
+        11,
+        130,
+        103,
+        131,
+        60,
+        76,
+        22,
+        144,
+        87,
+        156,
+        39,
+        147,
+        107
+    ],
+    "source": "B Is For Burglar",
+    "clues": {
+        "A": {
+            "cells": [
+                113,
+                101,
+                172,
+                86,
+                15,
+                36,
+                136,
+                55,
+                149,
+                161
+            ],
+            "answer": "Slack-jawed",
+            "hint": "Openly shocked or bewildered (hyph.)"
+        },
+        "B": {
+            "cells": [
+                51,
+                6,
+                135,
+                62,
+                110,
+                158,
+                148,
+                96,
+                35,
+                77
+            ],
+            "answer": "Uniformity",
+            "hint": "Principle that nature\u2019s laws hold throughout the cosmos"
+        },
+        "C": {
+            "cells": [
+                155,
+                108,
+                127,
+                95,
+                83,
+                19,
+                45,
+                169,
+                59
+            ],
+            "answer": "Eccentric",
+            "hint": "\u201cBe virtuous and you will be ___\u201d (Mark Twain)"
+        },
+        "D": {
+            "cells": [
+                28,
+                44,
+                122,
+                140,
+                72,
+                58
+            ],
+            "answer": "Go Fish",
+            "hint": "Game in which books are made (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                133,
+                98,
+                50,
+                20,
+                152,
+                67,
+                7,
+                37,
+                116
+            ],
+            "answer": "Rejoinder",
+            "hint": "An answer to an answer"
+        },
+        "F": {
+            "cells": [
+                123,
+                74,
+                52,
+                94,
+                8,
+                166,
+                141,
+                23
+            ],
+            "answer": "Avifauna",
+            "hint": "Birds of a region"
+        },
+        "G": {
+            "cells": [
+                16,
+                138,
+                42,
+                162,
+                124,
+                85,
+                65
+            ],
+            "answer": "Fanatic",
+            "hint": "Extreme in one\u2019s enthusiasm"
+        },
+        "H": {
+            "cells": [
+                174,
+                109,
+                64,
+                93,
+                129,
+                2
+            ],
+            "answer": "\u201cThe Fly\u201d",
+            "hint": "Sci-fi tale of a teleportation-lab fiasco (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                117,
+                176,
+                75,
+                151,
+                54,
+                102
+            ],
+            "answer": "Omelet",
+            "hint": "Dish whose name is derived from the Latin word \u201clamella,\u201d meaning \u201cthin plate\u201d"
+        },
+        "J": {
+            "cells": [
+                47,
+                132,
+                91,
+                5,
+                26,
+                170,
+                66
+            ],
+            "answer": "No can do",
+            "hint": "\u201cSorry, but that\u2019s impossible\u201d (3 wds.)"
+        },
+        "K": {
+            "cells": [
+                11,
+                78,
+                137,
+                61,
+                150,
+                118,
+                25
+            ],
+            "answer": "Beefalo",
+            "hint": "Cow-bison hybrid"
+        },
+        "L": {
+            "cells": [
+                130,
+                1,
+                177,
+                112,
+                43,
+                70,
+                81,
+                13,
+                97,
+                31,
+                163
+            ],
+            "answer": "Impediments",
+            "hint": "Per Shakespeare, what not to admit \u201cto the marriage of true minds\u201d"
+        },
+        "M": {
+            "cells": [
+                103,
+                164,
+                10,
+                120,
+                80,
+                34,
+                143
+            ],
+            "answer": "Sadness",
+            "hint": "Blue state"
+        },
+        "N": {
+            "cells": [
+                131,
+                69,
+                111,
+                153,
+                175,
+                84,
+                4,
+                32
+            ],
+            "answer": "Falsetto",
+            "hint": "Out of a guy\u2019s usual range"
+        },
+        "O": {
+            "cells": [
+                60,
+                145,
+                173,
+                41,
+                89,
+                115
+            ],
+            "answer": "Octave",
+            "hint": "8/14 of an Italian sonnet"
+        },
+        "P": {
+            "cells": [
+                76,
+                27,
+                126,
+                90,
+                105,
+                160
+            ],
+            "answer": "Renege",
+            "hint": "Fail to follow suit when required and able"
+        },
+        "Q": {
+            "cells": [
+                22,
+                9,
+                82,
+                100,
+                114,
+                146,
+                49
+            ],
+            "answer": "Breathe",
+            "hint": "Allow air to pass through, as a fabric"
+        },
+        "R": {
+            "cells": [
+                144,
+                134,
+                159,
+                171,
+                12,
+                30,
+                68,
+                104,
+                121,
+                40
+            ],
+            "answer": "Understudy",
+            "hint": "One who may take another\u2019s role"
+        },
+        "S": {
+            "cells": [
+                87,
+                157,
+                48,
+                139,
+                14,
+                29
+            ],
+            "answer": "Ragtag",
+            "hint": "Unkempt, disorderly; motley"
+        },
+        "T": {
+            "cells": [
+                156,
+                79,
+                17,
+                168,
+                56,
+                106,
+                38
+            ],
+            "answer": "Glacial",
+            "hint": "Seeming to require an epoch to move"
+        },
+        "U": {
+            "cells": [
+                39,
+                92,
+                142,
+                119,
+                18,
+                165,
+                63
+            ],
+            "answer": "Lagasse",
+            "hint": "Prudhomme\u2019s successor at Commander\u2019s Palace, New Orleans"
+        },
+        "V": {
+            "cells": [
+                147,
+                99,
+                24,
+                73,
+                178,
+                125,
+                53
+            ],
+            "answer": "Ascetic",
+            "hint": "Taking self-denial a bit far"
+        },
+        "W": {
+            "cells": [
+                107,
+                128,
+                3,
+                57,
+                88,
+                21,
+                46,
+                154,
+                167,
+                33,
+                71
+            ],
+            "answer": "Rastafarian",
+            "hint": "Believer in Ethiopia as the true Zion"
+        }
+    }
+}

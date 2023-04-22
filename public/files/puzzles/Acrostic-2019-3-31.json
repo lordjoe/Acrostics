@@ -1,0 +1,348 @@
+{
+    "answer": "I still have my old copy of Sophocles, ... covered with... notes... written in my... neat schoolgirl print. ... [H]andwriting that you know was... yours but... now seems only dimly familiar can inspire a confrontation with the mystery of time.",
+    "author": "(Francine) Prose,",
+    "authorCell": [
+        18,
+        171,
+        173,
+        101,
+        114,
+        105,
+        59,
+        154,
+        15,
+        156,
+        79,
+        87,
+        6,
+        130,
+        95,
+        29,
+        60,
+        81,
+        143,
+        123,
+        3,
+        36,
+        134
+    ],
+    "source": "Reading Like a Writer",
+    "clues": {
+        "A": {
+            "cells": [
+                18,
+                48,
+                157,
+                33,
+                4,
+                106,
+                83,
+                65,
+                119
+            ],
+            "answer": "Provision",
+            "hint": "Contingency plan; legal requirement"
+        },
+        "B": {
+            "cells": [
+                171,
+                111,
+                19,
+                145,
+                71,
+                129,
+                85,
+                55,
+                40
+            ],
+            "answer": "Royal Mint",
+            "hint": "Where a pound is made to be 8.75 grams (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                173,
+                94,
+                109,
+                38,
+                142,
+                76
+            ],
+            "answer": "Outwit",
+            "hint": "Defeat in a battle of brains"
+        },
+        "D": {
+            "cells": [
+                101,
+                25,
+                165,
+                82,
+                128,
+                51,
+                66,
+                148
+            ],
+            "answer": "Sheraton",
+            "hint": "Marriott-owned hotel brand"
+        },
+        "E": {
+            "cells": [
+                114,
+                175,
+                162,
+                139,
+                26,
+                75,
+                92,
+                11
+            ],
+            "answer": "Ethnonym",
+            "hint": "Slav, Inuit, Kurd, or Goth, e.g."
+        },
+        "F": {
+            "cells": [
+                105,
+                89,
+                52,
+                161,
+                118,
+                70,
+                138,
+                16
+            ],
+            "answer": "Rhetoric",
+            "hint": "Art employed by Demosthenes"
+        },
+        "G": {
+            "cells": [
+                59,
+                177,
+                160,
+                5,
+                121,
+                141,
+                43,
+                30,
+                84
+            ],
+            "answer": "Emily Post",
+            "hint": "Who wrote \u201cEtiquette requires the presumption of good until the contrary is proved\u201d (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                154,
+                28,
+                56,
+                97,
+                137,
+                80,
+                2
+            ],
+            "answer": "Almonds",
+            "hint": "Marzipan sine qua non"
+        },
+        "I": {
+            "cells": [
+                15,
+                132,
+                31,
+                77,
+                93,
+                50,
+                151,
+                116,
+                172
+            ],
+            "answer": "Dichotomy",
+            "hint": "Two contrasting parts"
+        },
+        "J": {
+            "cells": [
+                156,
+                135,
+                10,
+                46,
+                64,
+                23,
+                112
+            ],
+            "answer": "Ice show",
+            "hint": "Dance exhibition involving blades (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                79,
+                34,
+                159,
+                140,
+                107,
+                13,
+                57
+            ],
+            "answer": "Newsboy",
+            "hint": "Job for young Ben Franklin"
+        },
+        "L": {
+            "cells": [
+                87,
+                170,
+                22,
+                61,
+                100,
+                155,
+                45
+            ],
+            "answer": "Gestate",
+            "hint": "Develop prior to delivery"
+        },
+        "M": {
+            "cells": [
+                6,
+                136,
+                96,
+                37,
+                149,
+                176,
+                67,
+                120
+            ],
+            "answer": "Landfill",
+            "hint": "Site where compactors and bulldozers work"
+        },
+        "N": {
+            "cells": [
+                130,
+                58,
+                113,
+                44,
+                1,
+                152,
+                27,
+                169
+            ],
+            "answer": "Instinct",
+            "hint": "What makes fish swim and spiders spin"
+        },
+        "O": {
+            "cells": [
+                95,
+                115,
+                167,
+                131,
+                8,
+                150,
+                68,
+                32
+            ],
+            "answer": "Key Largo",
+            "hint": "1948 Bogart/Bacall classic (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                29,
+                14,
+                127,
+                74,
+                42
+            ],
+            "answer": "Elfin",
+            "hint": "Pixielike; petite and puckish"
+        },
+        "Q": {
+            "cells": [
+                60,
+                158,
+                126,
+                99,
+                78,
+                12
+            ],
+            "answer": "Anyway",
+            "hint": "Tangent-ending adverb"
+        },
+        "R": {
+            "cells": [
+                81,
+                7,
+                133,
+                153,
+                62,
+                104,
+                24
+            ],
+            "answer": "\"What's Up?\"",
+            "hint": "Friendly greeting to an astronomer? (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                143,
+                90,
+                72,
+                54,
+                122,
+                39,
+                163,
+                102
+            ],
+            "answer": "Rapidity",
+            "hint": "Swiftness, fleetness, speed"
+        },
+        "T": {
+            "cells": [
+                123,
+                110,
+                146,
+                41,
+                98,
+                20,
+                73,
+                166
+            ],
+            "answer": "Inchworm",
+            "hint": "Caterpillar so named for the way it walks"
+        },
+        "U": {
+            "cells": [
+                3,
+                147,
+                124,
+                168,
+                47,
+                69,
+                21,
+                88
+            ],
+            "answer": "Tom Swift",
+            "hint": "Inventor of a \u201cwizard camera\u201d in 1912 fiction (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                36,
+                9,
+                144,
+                53,
+                91,
+                174,
+                108,
+                125
+            ],
+            "answer": "Eventful",
+            "hint": "Far from boring, action-packed"
+        },
+        "W": {
+            "cells": [
+                134,
+                164,
+                49,
+                86,
+                17,
+                63,
+                178,
+                35,
+                103,
+                117
+            ],
+            "answer": "Rhinoceros",
+            "hint": "Animal drawn prehistorically in France\u2019s Chauvet Cave"
+        }
+    }
+}

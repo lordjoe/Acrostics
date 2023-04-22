@@ -5,7 +5,7 @@ function PuzzleToolBar(props: PuzzleHolder) {
 
 //    let identifier: string  = " <!-- PuzzleMenu.tsx -->";
     let puzzle: Puzzle = props.puzzle;
-    let dateStr = puzzle.date.toString();
+    let dateStr = puzzle.getDate().toDateString();
     return (
         <div className="pz-row pz-game-title-bar xwd__hide-when-no-data">
             <div className="pz-module" id="portal-game-header">

@@ -1,0 +1,362 @@
+{
+    "answer": "Cartoon cats possess... more than... nine lives... . They can be... splayed, accordion-pleated, spindled, or disassembled, but they cannot be destroyed. After a few moments of... self-pity, they reinflate, elongate, snap back, or solidify.",
+    "author": "Mark O\u2019Donnell,",
+    "authorCell": [
+        85,
+        150,
+        170,
+        168,
+        124,
+        75,
+        13,
+        156,
+        147,
+        38,
+        31,
+        173,
+        8,
+        114,
+        3,
+        138,
+        101,
+        172,
+        7,
+        123,
+        169,
+        10,
+        146,
+        55,
+        100
+    ],
+    "source": "(O\u2018Donnell\u2019S Laws Of) Cartoon Motion",
+    "clues": {
+        "A": {
+            "cells": [
+                85,
+                163,
+                175,
+                37,
+                2,
+                65,
+                128,
+                106,
+                21
+            ],
+            "answer": "Mad Hatter",
+            "hint": "Tea party figure of note (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                150,
+                18,
+                69,
+                50,
+                167,
+                93
+            ],
+            "answer": "Aspect",
+            "hint": "Point of view; exposure"
+        },
+        "C": {
+            "cells": [
+                170,
+                34,
+                107,
+                79,
+                57,
+                152,
+                127,
+                4
+            ],
+            "answer": "Resident",
+            "hint": "Nonmigratory, as a bird"
+        },
+        "D": {
+            "cells": [
+                168,
+                32,
+                116,
+                14,
+                54,
+                94,
+                143
+            ],
+            "answer": "Kitschy",
+            "hint": "Appealing to lowbrow tastes"
+        },
+        "E": {
+            "cells": [
+                124,
+                165,
+                104,
+                51,
+                28,
+                145,
+                71,
+                92
+            ],
+            "answer": "Obedient",
+            "hint": "What any good robot should be"
+        },
+        "F": {
+            "cells": [
+                75,
+                176,
+                19,
+                136,
+                47,
+                153,
+                105
+            ],
+            "answer": "Dimpled",
+            "hint": "Like a golf ball"
+        },
+        "G": {
+            "cells": [
+                13,
+                120,
+                148,
+                80,
+                66,
+                102
+            ],
+            "answer": "Offset",
+            "hint": "Balance; displacement"
+        },
+        "H": {
+            "cells": [
+                156,
+                64,
+                33,
+                178,
+                103,
+                134,
+                91,
+                121
+            ],
+            "answer": "Navy blue",
+            "hint": "Field color for Kansas\u2019 state flag (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                147,
+                119,
+                97,
+                24,
+                5,
+                68
+            ],
+            "answer": "Nachos",
+            "hint": "Snack food sold at ballparks"
+        },
+        "J": {
+            "cells": [
+                38,
+                132,
+                53,
+                81,
+                164,
+                16
+            ],
+            "answer": "Escape",
+            "hint": "Feat for Houdini"
+        },
+        "K": {
+            "cells": [
+                31,
+                9,
+                125,
+                46,
+                155,
+                76,
+                99
+            ],
+            "answer": "\u201cLampoon\"",
+            "hint": "Harvard magazine once headed by John Updike"
+        },
+        "L": {
+            "cells": [
+                173,
+                48,
+                26,
+                1,
+                95,
+                73,
+                130,
+                151
+            ],
+            "answer": "Lancelot",
+            "hint": "John Cleese role in \u201cMonty Python and the Holy Grail\u201d"
+        },
+        "M": {
+            "cells": [
+                8,
+                110,
+                42,
+                83,
+                137,
+                157,
+                60
+            ],
+            "answer": "Consign",
+            "hint": "Put up for auction, say"
+        },
+        "N": {
+            "cells": [
+                114,
+                90,
+                22,
+                131,
+                6,
+                56,
+                36,
+                158,
+                171
+            ],
+            "answer": "Abe Fortas",
+            "hint": "L.B.J. Supreme Court appointee (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                3,
+                141,
+                39,
+                59,
+                87,
+                174,
+                23,
+                126
+            ],
+            "answer": "Rhyolite",
+            "hint": "Volcanic form of granite"
+        },
+        "P": {
+            "cells": [
+                138,
+                118,
+                70,
+                177,
+                154,
+                30,
+                45
+            ],
+            "answer": "Trifles",
+            "hint": "Fruit-and-custard concoctions"
+        },
+        "Q": {
+            "cells": [
+                101,
+                17,
+                122,
+                166,
+                149,
+                72
+            ],
+            "answer": "Oswald",
+            "hint": "So-called \u201cLucky Rabbit\u201d of early Disney productions"
+        },
+        "R": {
+            "cells": [
+                172,
+                61,
+                44,
+                27,
+                160,
+                139,
+                112,
+                78
+            ],
+            "answer": "Open-eyed",
+            "hint": "Alert, watchful (hyph.)"
+        },
+        "S": {
+            "cells": [
+                7,
+                20,
+                144,
+                89,
+                58,
+                40
+            ],
+            "answer": "Nordic",
+            "hint": "Like some Olympic skiing"
+        },
+        "T": {
+            "cells": [
+                123,
+                25,
+                109,
+                86,
+                62,
+                142,
+                161
+            ],
+            "answer": "Marbles",
+            "hint": "Game that gave us the expression \u201cknuckle down\u201d"
+        },
+        "U": {
+            "cells": [
+                169,
+                113,
+                49,
+                15,
+                129,
+                74,
+                96
+            ],
+            "answer": "\"Odyssey\u201d",
+            "hint": "Mars orbiter launched in 2001"
+        },
+        "V": {
+            "cells": [
+                10,
+                52,
+                115,
+                135,
+                84,
+                159,
+                98
+            ],
+            "answer": "Taffeta",
+            "hint": "Fabric often used in wedding gowns"
+        },
+        "W": {
+            "cells": [
+                146,
+                29,
+                67,
+                88,
+                43,
+                108
+            ],
+            "answer": "In debt",
+            "hint": "Seeing red? (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                55,
+                35,
+                12,
+                77,
+                133,
+                111
+            ],
+            "answer": "Osprey",
+            "hint": "Raptor with a white head and a dark mask"
+        },
+        "Y": {
+            "cells": [
+                100,
+                117,
+                41,
+                140,
+                162,
+                63,
+                11,
+                82
+            ],
+            "answer": "Neatness",
+            "hint": "Attribute prized by many a teacher"
+        }
+    }
+}

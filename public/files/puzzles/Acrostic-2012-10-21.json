@@ -1,0 +1,354 @@
+{
+    "answer": "Bizarre life-forms... evolved there: ...iguanas able to hold their breath under water..., cormorants that no longer need wings..., vampire finches that survive on the blood of... boobies, daisies that have morphed into giant trees.",
+    "author": "Carol Ann Bassett,",
+    "authorCell": [
+        67,
+        32,
+        5,
+        133,
+        38,
+        99,
+        33,
+        124,
+        135,
+        151,
+        148,
+        141,
+        65,
+        172,
+        40,
+        96,
+        34,
+        129,
+        54,
+        101,
+        154,
+        168,
+        84,
+        177
+    ],
+    "source": "Galapagos (At The Crossroads)",
+    "clues": {
+        "A": {
+            "cells": [
+                67,
+                118,
+                11,
+                147,
+                160,
+                35,
+                47,
+                130,
+                93
+            ],
+            "answer": "\u201cCreepshow\"",
+            "hint": "1982 film horrorfest written by Stephen King"
+        },
+        "B": {
+            "cells": [
+                32,
+                69,
+                108,
+                150,
+                12,
+                49,
+                127,
+                165,
+                92
+            ],
+            "answer": "Archfiend",
+            "hint": "Number one among evildoers"
+        },
+        "C": {
+            "cells": [
+                5,
+                71,
+                138,
+                51,
+                26,
+                88
+            ],
+            "answer": "Robber",
+            "hint": "Bad guy often masked"
+        },
+        "D": {
+            "cells": [
+                133,
+                119,
+                156,
+                27,
+                76,
+                169,
+                3,
+                91
+            ],
+            "answer": "Oversize",
+            "hint": "Much bigger than normal"
+        },
+        "E": {
+            "cells": [
+                38,
+                140,
+                121,
+                106,
+                4,
+                152,
+                56,
+                73,
+                89
+            ],
+            "answer": "Leviathan",
+            "hint": "Formidable marine behemoth"
+        },
+        "F": {
+            "cells": [
+                99,
+                30,
+                123,
+                57,
+                75,
+                144
+            ],
+            "answer": "Agouti",
+            "hint": "Rain forest rodent that swims well"
+        },
+        "G": {
+            "cells": [
+                33,
+                2,
+                86,
+                161,
+                173,
+                111,
+                126,
+                63,
+                142,
+                17
+            ],
+            "answer": "Nightshade",
+            "hint": "Belladonna or bittersweet"
+        },
+        "H": {
+            "cells": [
+                124,
+                90,
+                21,
+                7,
+                50,
+                157,
+                68,
+                174,
+                110
+            ],
+            "answer": "Nevermore",
+            "hint": "Cryptic cry in a haunting 1845 account"
+        },
+        "I": {
+            "cells": [
+                135,
+                28,
+                167,
+                62,
+                117,
+                44,
+                10
+            ],
+            "answer": "Beowulf",
+            "hint": "Monster-slaying hero of the Geats"
+        },
+        "J": {
+            "cells": [
+                151,
+                107,
+                80,
+                9,
+                163,
+                43,
+                24,
+                60
+            ],
+            "answer": "Antidote",
+            "hint": "Physostigmine vis-a-vis belladonna"
+        },
+        "K": {
+            "cells": [
+                148,
+                113,
+                131,
+                98,
+                162,
+                8,
+                53,
+                72
+            ],
+            "answer": "Shoveler",
+            "hint": "One working on a graveyard shift?"
+        },
+        "L": {
+            "cells": [
+                141,
+                166,
+                36,
+                103,
+                77
+            ],
+            "answer": "Start",
+            "hint": "Reaction to a ghost shouting \u201cBoo!\u201d"
+        },
+        "M": {
+            "cells": [
+                65,
+                85,
+                115,
+                137,
+                100,
+                37
+            ],
+            "answer": "Entomb",
+            "hint": "Place in a Gothic setting?"
+        },
+        "N": {
+            "cells": [
+                172,
+                66,
+                29,
+                134,
+                105,
+                146,
+                45,
+                16
+            ],
+            "answer": "Triffids",
+            "hint": "Killer plants in John Wyndham\u2019s 1951 sci-fi novel"
+        },
+        "O": {
+            "cells": [
+                40,
+                78,
+                122,
+                159,
+                143,
+                18,
+                175,
+                58
+            ],
+            "answer": "\"The Raven\u201d",
+            "hint": "Source of Word H (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                96,
+                136,
+                1,
+                20,
+                120,
+                81,
+                59
+            ],
+            "answer": "Go blind",
+            "hint": "Develop as the star-nosed mole has (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                34,
+                15,
+                158,
+                104,
+                128,
+                79
+            ],
+            "answer": "Amoeba",
+            "hint": "Shape shifter"
+        },
+        "R": {
+            "cells": [
+                129,
+                114,
+                95,
+                149,
+                22,
+                52,
+                74
+            ],
+            "answer": "Lantern",
+            "hint": "What Diogenes the Cynic carried in the daytime"
+        },
+        "S": {
+            "cells": [
+                54,
+                112,
+                25,
+                41,
+                70,
+                176
+            ],
+            "answer": "At home",
+            "hint": "Set to receive trick-or-treaters, say (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                101,
+                19,
+                6,
+                64,
+                87,
+                171,
+                46
+            ],
+            "answer": "Portent",
+            "hint": "Sign of calamity in the wind"
+        },
+        "U": {
+            "cells": [
+                154,
+                82,
+                61,
+                125,
+                170
+            ],
+            "answer": "Aorta",
+            "hint": "Conveyor of a sanguine sort"
+        },
+        "V": {
+            "cells": [
+                168,
+                153,
+                13,
+                31,
+                83,
+                94,
+                116,
+                42
+            ],
+            "answer": "Ghoulish",
+            "hint": "Like something out of \u201cNight of the Living Dead\u201d"
+        },
+        "W": {
+            "cells": [
+                84,
+                132,
+                23,
+                102,
+                55,
+                164,
+                39,
+                145
+            ],
+            "answer": "Oddities",
+            "hint": "Strange things"
+        },
+        "X": {
+            "cells": [
+                177,
+                109,
+                139,
+                155,
+                48,
+                14,
+                97
+            ],
+            "answer": "Shivers",
+            "hint": "Evidence of horror"
+        }
+    }
+}

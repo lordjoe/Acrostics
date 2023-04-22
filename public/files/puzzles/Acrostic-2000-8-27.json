@@ -1,0 +1,356 @@
+{
+    "answer": "To counter Soviet pressure in Eastern Europe, John F. Kennedy went to the Berlin Wall... and announced that \u201cIch bin ein Berliner\u201c.... He meant \"I am a citizen of Berlin.\u201d The German actually translates \"I am a jelly doughnut.\u201d",
+    "author": "Tad Tuleja,",
+    "authorCell": [
+        1,
+        148,
+        72,
+        109,
+        34,
+        144,
+        48,
+        39,
+        73,
+        16,
+        40,
+        37,
+        141,
+        151,
+        27,
+        147,
+        138,
+        158,
+        154,
+        97,
+        86,
+        3,
+        113,
+        91,
+        152
+    ],
+    "source": "Popular Americana",
+    "clues": {
+        "A": {
+            "cells": [
+                1,
+                102,
+                77,
+                122,
+                43,
+                143,
+                161,
+                28
+            ],
+            "answer": "Truffles",
+            "hint": "Ingredient of pate de foie gras"
+        },
+        "B": {
+            "cells": [
+                148,
+                12,
+                99,
+                79,
+                30,
+                170,
+                120,
+                67
+            ],
+            "answer": "Avicenna",
+            "hint": "Medieval Persian physician, author of the \u201cCanon of Medicine\u201d"
+        },
+        "C": {
+            "cells": [
+                72,
+                156,
+                47,
+                104,
+                125
+            ],
+            "answer": "Diner",
+            "hint": "Place for a short-order cook"
+        },
+        "D": {
+            "cells": [
+                109,
+                36,
+                6,
+                64,
+                168,
+                88,
+                140
+            ],
+            "answer": "\u201cTonight\"",
+            "hint": "Duet sung on Broadway by Larry Kert and Carol Lawrence"
+        },
+        "E": {
+            "cells": [
+                34,
+                57,
+                103,
+                136,
+                71,
+                146
+            ],
+            "answer": "U Thant",
+            "hint": "A predecessor of Kurt Waldheim (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                144,
+                18,
+                105,
+                76,
+                32,
+                126,
+                159,
+                51
+            ],
+            "answer": "Lemon law",
+            "hint": "Legislation protecting some consumers (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                48,
+                164,
+                8,
+                153,
+                92,
+                133,
+                29,
+                83
+            ],
+            "answer": "Eyeteeth",
+            "hint": "Upper canines"
+        },
+        "H": {
+            "cells": [
+                39,
+                5,
+                69,
+                110,
+                124,
+                55
+            ],
+            "answer": "Juliet",
+            "hint": "\u201cDost thou love me? I know thou wilt say \u2019Ay\u2019\u201d speaker"
+        },
+        "I": {
+            "cells": [
+                73,
+                89,
+                24,
+                163,
+                33,
+                137,
+                106
+            ],
+            "answer": "Abilene",
+            "hint": "Kansas terminus of the Chisholm Trail"
+        },
+        "J": {
+            "cells": [
+                16,
+                52,
+                142,
+                78,
+                167,
+                116,
+                150
+            ],
+            "answer": "Peanuts",
+            "hint": "Trifling amount of money"
+        },
+        "K": {
+            "cells": [
+                40,
+                65,
+                162,
+                90,
+                108,
+                14
+            ],
+            "answer": "On-line",
+            "hint": "Connected to the Internet (hyph.)"
+        },
+        "L": {
+            "cells": [
+                37,
+                98,
+                70,
+                82,
+                129,
+                59
+            ],
+            "answer": "Platte",
+            "hint": "Missouri River tributary"
+        },
+        "M": {
+            "cells": [
+                141,
+                46,
+                13,
+                172,
+                107,
+                31,
+                81
+            ],
+            "answer": "Unitard",
+            "hint": "Garment for jazzercise, perhaps"
+        },
+        "N": {
+            "cells": [
+                151,
+                84,
+                95,
+                166,
+                41,
+                23,
+                135,
+                119
+            ],
+            "answer": "\"La Boheme\u201d",
+            "hint": "Inspiration for the musical \u201cRent\u201d (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                27,
+                112,
+                130,
+                61,
+                9,
+                155,
+                85
+            ],
+            "answer": "Amherst",
+            "hint": "Calvin Coolidge\u2019s alma mater"
+        },
+        "P": {
+            "cells": [
+                147,
+                111,
+                42,
+                87,
+                121,
+                22
+            ],
+            "answer": "Rancor",
+            "hint": "Deep-harbored hatred"
+        },
+        "Q": {
+            "cells": [
+                138,
+                25,
+                15,
+                58,
+                4,
+                128,
+                50
+            ],
+            "answer": "Anthony",
+            "hint": "Patron saint of Padua"
+        },
+        "R": {
+            "cells": [
+                158,
+                93,
+                62,
+                134,
+                2,
+                35
+            ],
+            "answer": "Mirror",
+            "hint": "Space telescope component"
+        },
+        "S": {
+            "cells": [
+                154,
+                60,
+                80,
+                100,
+                26,
+                118,
+                45,
+                17
+            ],
+            "answer": "Ebenezer",
+            "hint": "In the Bible, site of the battle where the Philistines captured the Ark"
+        },
+        "T": {
+            "cells": [
+                97,
+                11,
+                20,
+                38,
+                123,
+                171,
+                49
+            ],
+            "answer": "Rosebud",
+            "hint": "Purplish pink hue"
+        },
+        "U": {
+            "cells": [
+                86,
+                68,
+                165,
+                21,
+                114,
+                96
+            ],
+            "answer": "Il Duce",
+            "hint": "Leader of the Black Shirts (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                3,
+                157,
+                53,
+                94,
+                131,
+                19
+            ],
+            "answer": "Cannes",
+            "hint": "Where the Palme d\u2019Or is awarded"
+        },
+        "W": {
+            "cells": [
+                113,
+                149,
+                7,
+                139,
+                56,
+                66
+            ],
+            "answer": "Ant cow",
+            "hint": "Honeydew-yielding aphid (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                91,
+                115,
+                160,
+                127,
+                74,
+                10,
+                44,
+                145
+            ],
+            "answer": "Nijinsky",
+            "hint": "Choreographer for \u201cLe Sacre du Printemps\u201d"
+        },
+        "Y": {
+            "cells": [
+                152,
+                54,
+                169,
+                101,
+                63,
+                117,
+                75,
+                132
+            ],
+            "answer": "Atheling",
+            "hint": "Anglo-Saxon prince"
+        }
+    }
+}

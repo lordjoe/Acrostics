@@ -1,0 +1,346 @@
+{
+    "answer": "Often in winter days, I heard the forlorn but melodious note of a hooting owl, indefinitely far; such a sound as the frozen earth would yield if struck with a suitable plectrum, the very lingua vernacula of Walden Wood.",
+    "author": "Henry David Thoreau,",
+    "authorCell": [
+        125,
+        20,
+        159,
+        158,
+        16,
+        41,
+        76,
+        156,
+        18,
+        65,
+        48,
+        81,
+        28,
+        148,
+        66,
+        155,
+        79,
+        61,
+        52,
+        163,
+        176,
+        134,
+        69
+    ],
+    "source": "Walden",
+    "clues": {
+        "A": {
+            "cells": [
+                125,
+                171,
+                114,
+                101,
+                145,
+                17,
+                78
+            ],
+            "answer": "Heiress",
+            "hint": "Title role for which Olivia de Havilland won an Oscar, with \u201cThe\u201d"
+        },
+        "B": {
+            "cells": [
+                20,
+                71,
+                32,
+                141,
+                83,
+                161,
+                126,
+                98
+            ],
+            "answer": "Etruscan",
+            "hint": "Extinct language not known to be related to any other"
+        },
+        "C": {
+            "cells": [
+                159,
+                40,
+                59,
+                118,
+                174,
+                8,
+                102,
+                19
+            ],
+            "answer": "No-growth",
+            "hint": "Curtailing development, as a policy (hyph.)"
+        },
+        "D": {
+            "cells": [
+                158,
+                43,
+                131,
+                73,
+                14,
+                113,
+                100,
+                53,
+                30
+            ],
+            "answer": "Roald Dahl",
+            "hint": "Master of the macabre who wrote \u201cRevolting Rhymes\u201d and \u201cDirty Beasts\u201d (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                16,
+                31,
+                94,
+                121,
+                130,
+                105,
+                173,
+                58
+            ],
+            "answer": "Yorktown",
+            "hint": "Where Cornwallis surrendered in October 1781"
+        },
+        "F": {
+            "cells": [
+                41,
+                140,
+                72,
+                127,
+                116,
+                23,
+                55,
+                167,
+                7
+            ],
+            "answer": "Dress down",
+            "hint": "Scold severely (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                76,
+                46,
+                95,
+                154,
+                6,
+                169,
+                144
+            ],
+            "answer": "Anouilh",
+            "hint": "French dramatist whose works include \u201cAntigone\u201d and \u201cL\u2019Alouette\u201d"
+        },
+        "H": {
+            "cells": [
+                156,
+                63,
+                29,
+                117,
+                128,
+                54,
+                45,
+                9,
+                80
+            ],
+            "answer": "Virtuosic",
+            "hint": "Displaying highest proficiency in art or music"
+        },
+        "I": {
+            "cells": [
+                18,
+                152,
+                38,
+                2,
+                75,
+                160,
+                132,
+                107,
+                92
+            ],
+            "answer": "Ineffable",
+            "hint": "Too awesome to be expressed"
+        },
+        "J": {
+            "cells": [
+                65,
+                42,
+                27,
+                93,
+                123,
+                170,
+                157,
+                5,
+                139
+            ],
+            "answer": "Diffident",
+            "hint": "Far from cocky"
+        },
+        "K": {
+            "cells": [
+                48,
+                175,
+                122,
+                25,
+                4,
+                137
+            ],
+            "answer": "Towhee",
+            "hint": "Finch also called a chewink or ground robin"
+        },
+        "L": {
+            "cells": [
+                81,
+                60,
+                3,
+                104,
+                129,
+                22,
+                97
+            ],
+            "answer": "Hot-wire",
+            "hint": "Achieve ignition crookedly (hyph.)"
+        },
+        "M": {
+            "cells": [
+                28,
+                150,
+                74,
+                37,
+                135,
+                110,
+                164,
+                87
+            ],
+            "answer": "Olympiad",
+            "hint": "Quadrennial period"
+        },
+        "N": {
+            "cells": [
+                148,
+                68,
+                50,
+                90
+            ],
+            "answer": "Riot",
+            "hint": "Something very wild or very funny"
+        },
+        "O": {
+            "cells": [
+                66,
+                34,
+                44,
+                112,
+                136,
+                151,
+                12,
+                86,
+                56
+            ],
+            "answer": "Ebullient",
+            "hint": "Bubbling over; high-spirited"
+        },
+        "P": {
+            "cells": [
+                155,
+                89,
+                143,
+                106,
+                24,
+                49
+            ],
+            "answer": "Astute",
+            "hint": "Having a clever or cunning mind"
+        },
+        "Q": {
+            "cells": [
+                79,
+                64,
+                138,
+                39,
+                99,
+                146,
+                15,
+                33,
+                109,
+                168
+            ],
+            "answer": "\u201cUncle Vanya\u201d",
+            "hint": "Four-act play by Anton Chekhov (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                61,
+                88,
+                166,
+                51,
+                133,
+                111
+            ],
+            "answer": "Waffle",
+            "hint": "Behave in a wordy, vague and indecisive manner"
+        },
+        "S": {
+            "cells": [
+                52,
+                85,
+                36,
+                91,
+                165,
+                77
+            ],
+            "answer": "Author",
+            "hint": "Cry from a thrilled audience at a play"
+        },
+        "T": {
+            "cells": [
+                163,
+                35,
+                10,
+                119,
+                62,
+                82
+            ],
+            "answer": "Lunula",
+            "hint": "The whitish half-moon at the base of a fingernail"
+        },
+        "U": {
+            "cells": [
+                176,
+                84,
+                96,
+                147,
+                47,
+                67,
+                115
+            ],
+            "answer": "Doze off",
+            "hint": "Slip into the land of Nod (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                134,
+                162,
+                13,
+                149,
+                108,
+                70,
+                120,
+                26
+            ],
+            "answer": "Eurydice",
+            "hint": "Dryad beloved of Orpheus"
+        },
+        "W": {
+            "cells": [
+                69,
+                1,
+                124,
+                11,
+                57,
+                172,
+                153,
+                103,
+                21,
+                142
+            ],
+            "answer": "Nottingham",
+            "hint": "District of the villainous sheriff Philip Mark"
+        }
+    }
+}

@@ -1,0 +1,346 @@
+{
+    "answer": "People lie when you ask them what they eat when they are alone. A salad, they tell you. But when you persist, they confess to peanut butter and bacon sandwiches... fried... with hot sauce, or spaghetti with butter and grape jam.",
+    "author": "Laurie Colwin,",
+    "authorCell": [
+        64,
+        175,
+        102,
+        80,
+        8,
+        108,
+        89,
+        90,
+        7,
+        133,
+        157,
+        120,
+        151,
+        145,
+        176,
+        6,
+        115,
+        116,
+        66,
+        19,
+        134,
+        117,
+        169
+    ],
+    "source": "Home Cooking",
+    "clues": {
+        "A": {
+            "cells": [
+                64,
+                152,
+                27,
+                106,
+                45,
+                165,
+                127
+            ],
+            "answer": "Letters",
+            "hint": "What Answer B. comprises"
+        },
+        "B": {
+            "cells": [
+                175,
+                47,
+                98,
+                11,
+                119,
+                160,
+                62,
+                28
+            ],
+            "answer": "Alphabet",
+            "hint": "Kind of soup"
+        },
+        "C": {
+            "cells": [
+                102,
+                13,
+                147,
+                84,
+                50,
+                114,
+                132,
+                31
+            ],
+            "answer": "Unsteady",
+            "hint": "Like the gait of someone who\u2019s woozy or tipsy"
+        },
+        "D": {
+            "cells": [
+                80,
+                164,
+                25,
+                131,
+                110,
+                57
+            ],
+            "answer": "Reheat",
+            "hint": "Put back in a microwave, say"
+        },
+        "E": {
+            "cells": [
+                8,
+                111,
+                128,
+                54,
+                82,
+                150,
+                21,
+                34
+            ],
+            "answer": "In-flight",
+            "hint": "During an airplane trip (hyph.)"
+        },
+        "F": {
+            "cells": [
+                108,
+                81,
+                96,
+                129,
+                144,
+                59,
+                162
+            ],
+            "answer": "E Street",
+            "hint": "Rock \u2019n\u2019 roll\u2019s ___ Band (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                89,
+                26,
+                52,
+                142,
+                166,
+                5
+            ],
+            "answer": "Casual",
+            "hint": "Requiring no fancy attire"
+        },
+        "H": {
+            "cells": [
+                90,
+                16,
+                107,
+                63,
+                141,
+                156,
+                2,
+                168
+            ],
+            "answer": "Outlawed",
+            "hint": "More than just frowned upon"
+        },
+        "I": {
+            "cells": [
+                7,
+                43,
+                105,
+                74,
+                143,
+                29
+            ],
+            "answer": "Launch",
+            "hint": "Occasion for smashing a bottle"
+        },
+        "J": {
+            "cells": [
+                133,
+                53,
+                94,
+                159,
+                37,
+                121,
+                67,
+                78
+            ],
+            "answer": "Washed up",
+            "hint": "Over the hill; got ready for dinner, in a way (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                157,
+                122,
+                76,
+                101,
+                56,
+                30,
+                170,
+                10,
+                136,
+                42
+            ],
+            "answer": "I wonder why",
+            "hint": "Phrase from a pondering person (3 wds.)"
+        },
+        "L": {
+            "cells": [
+                120,
+                22,
+                35,
+                174,
+                79,
+                146,
+                95,
+                9,
+                60
+            ],
+            "answer": "New Jersey",
+            "hint": "\u201cEverything\u2019s legal in ___\u201d (line from \u201cHamilton\u201d) (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                151,
+                14,
+                1,
+                58,
+                126,
+                91,
+                33,
+                163,
+                73,
+                112
+            ],
+            "answer": "Hyphenated",
+            "hint": "Like all Social Security numbers"
+        },
+        "N": {
+            "cells": [
+                145,
+                113,
+                41,
+                83,
+                130,
+                20,
+                65
+            ],
+            "answer": "Obesity",
+            "hint": "The American Medical Association classified it as a disease in 2013"
+        },
+        "O": {
+            "cells": [
+                176,
+                15,
+                77,
+                103,
+                125,
+                140
+            ],
+            "answer": "Mouths",
+            "hint": "Rants, with \u201coff\u201d"
+        },
+        "P": {
+            "cells": [
+                6,
+                167,
+                61,
+                109,
+                75,
+                24,
+                46,
+                88
+            ],
+            "answer": "Entryway",
+            "hint": "Hall from a front door to a dining room, e.g."
+        },
+        "Q": {
+            "cells": [
+                115,
+                69,
+                148,
+                48,
+                92,
+                135,
+                173,
+                17
+            ],
+            "answer": "Cup of tea",
+            "hint": "Something you like, informally; aid for soothing the throat (3 wds.)"
+        },
+        "R": {
+            "cells": [
+                116,
+                158,
+                139,
+                3,
+                72,
+                100,
+                86,
+                38
+            ],
+            "answer": "Otto Hahn",
+            "hint": "German chemist who helped discover nuclear fission (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                66,
+                118,
+                85,
+                12,
+                138,
+                172,
+                51,
+                154,
+                36
+            ],
+            "answer": "Osteopath",
+            "hint": "Practitioner who may be manipulative"
+        },
+        "T": {
+            "cells": [
+                19,
+                87,
+                99,
+                4,
+                71,
+                171,
+                153,
+                124,
+                40
+            ],
+            "answer": "Keep watch",
+            "hint": "Hold a vigil (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                134,
+                97,
+                49,
+                149
+            ],
+            "answer": "Iona",
+            "hint": "Island of the Inner Hebrides"
+        },
+        "V": {
+            "cells": [
+                117,
+                161,
+                39,
+                23,
+                93,
+                55,
+                70
+            ],
+            "answer": "Nutmeat",
+            "hint": "Kernel"
+        },
+        "W": {
+            "cells": [
+                169,
+                123,
+                104,
+                68,
+                32,
+                44,
+                155,
+                18,
+                137
+            ],
+            "answer": "Gibberish",
+            "hint": "Gobbledygook"
+        }
+    }
+}

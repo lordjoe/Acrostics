@@ -1,0 +1,353 @@
+{
+    "answer": "He died in ignorance of the real grandeur of his discovery. Until his last breath he entertained the idea that he had... discovered... wild regions of the East... He supposed... Cuba and Terra Firma were but remote parts of Asia.",
+    "author": "Washington Irving,",
+    "authorCell": [
+        106,
+        94,
+        98,
+        120,
+        175,
+        11,
+        112,
+        80,
+        44,
+        115,
+        7,
+        150,
+        45,
+        9,
+        15,
+        10,
+        99,
+        12,
+        57,
+        129,
+        162,
+        138,
+        158,
+        124
+    ],
+    "source": "(The Life And Voyages Of Christopher) Columbus",
+    "clues": {
+        "A": {
+            "cells": [
+                106,
+                91,
+                52,
+                71,
+                164,
+                26,
+                134
+            ],
+            "answer": "Whittle",
+            "hint": "Pass the time as Queequeg did"
+        },
+        "B": {
+            "cells": [
+                94,
+                56,
+                119,
+                2,
+                155
+            ],
+            "answer": "Aster",
+            "hint": "Flower name used after beach, bog or sea"
+        },
+        "C": {
+            "cells": [
+                98,
+                66,
+                4,
+                130,
+                42,
+                88,
+                147,
+                166,
+                22
+            ],
+            "answer": "Shipshape",
+            "hint": "Trim, tidy"
+        },
+        "D": {
+            "cells": [
+                120,
+                75,
+                53,
+                172,
+                93,
+                107,
+                143,
+                16,
+                37
+            ],
+            "answer": "Half hitch",
+            "hint": "Something any good sailor can tie (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                175,
+                136,
+                67,
+                89,
+                157,
+                18,
+                109
+            ],
+            "answer": "Ichabod",
+            "hint": "Man\u2019s name meaning \u201cwithout honor\u201d in Hebrew"
+        },
+        "F": {
+            "cells": [
+                11,
+                114,
+                62,
+                46,
+                152,
+                128,
+                169,
+                85,
+                28
+            ],
+            "answer": "Nor\u2019easter",
+            "hint": "What a New England mariner might fear"
+        },
+        "G": {
+            "cells": [
+                112,
+                100,
+                35,
+                3,
+                21,
+                171,
+                131,
+                68
+            ],
+            "answer": "Good Hope",
+            "hint": "Cape named by John II of Portugal (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                80,
+                1,
+                23,
+                104,
+                156
+            ],
+            "answer": "Three",
+            "hint": "Crew complement for a randan"
+        },
+        "I": {
+            "cells": [
+                44,
+                139,
+                73,
+                59,
+                151,
+                122,
+                30
+            ],
+            "answer": "Oarsmen",
+            "hint": "Propellers on a trireme"
+        },
+        "J": {
+            "cells": [
+                115,
+                161,
+                145,
+                5,
+                83,
+                31
+            ],
+            "answer": "Nereid",
+            "hint": "Nymph in the realm of Poseidon"
+        },
+        "K": {
+            "cells": [
+                7,
+                141,
+                79,
+                55,
+                92,
+                39
+            ],
+            "answer": "Indies",
+            "hint": "Island group of the West named in geographical confusion"
+        },
+        "L": {
+            "cells": [
+                150,
+                137,
+                6,
+                84,
+                121,
+                103
+            ],
+            "answer": "Rudder",
+            "hint": "Controlling agent or guide"
+        },
+        "M": {
+            "cells": [
+                45,
+                63,
+                13,
+                97,
+                125,
+                25,
+                170
+            ],
+            "answer": "Veritas",
+            "hint": "Bureau ___, international ship certification agency, from the Latin for \u201ctruth\u201d"
+        },
+        "N": {
+            "cells": [
+                9,
+                43,
+                69,
+                133,
+                54,
+                165,
+                108,
+                148
+            ],
+            "answer": "Ice shelf",
+            "hint": "Impediment to a coastal docking (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                15,
+                173,
+                101,
+                38,
+                27,
+                64,
+                87,
+                113,
+                132,
+                50
+            ],
+            "answer": "Navigation",
+            "hint": "Forte of Prince Henry (1394-1460)"
+        },
+        "P": {
+            "cells": [
+                10,
+                160,
+                32,
+                82,
+                135
+            ],
+            "answer": "Greed",
+            "hint": "Likely motive for some New World exploration"
+        },
+        "Q": {
+            "cells": [
+                99,
+                126,
+                86,
+                70,
+                159,
+                144,
+                48
+            ],
+            "answer": "Chantey",
+            "hint": "Sailor\u2019s song"
+        },
+        "R": {
+            "cells": [
+                12,
+                33,
+                74,
+                61,
+                117,
+                167,
+                146,
+                95
+            ],
+            "answer": "Outboard",
+            "hint": "On the exterior of a hull"
+        },
+        "S": {
+            "cells": [
+                57,
+                149,
+                36,
+                72,
+                110,
+                123,
+                19,
+                90
+            ],
+            "answer": "Life raft",
+            "hint": "Refuge after capsizing (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                129,
+                77,
+                96,
+                17,
+                47,
+                153,
+                29,
+                65,
+                111,
+                168
+            ],
+            "answer": "Underwater",
+            "hint": "Of an aquanaut\u2019s milieu"
+        },
+        "U": {
+            "cells": [
+                162,
+                140,
+                116,
+                60,
+                81,
+                102,
+                14,
+                40
+            ],
+            "answer": "Masthead",
+            "hint": "Spot near a crow\u2019s-nest"
+        },
+        "V": {
+            "cells": [
+                138,
+                78,
+                176,
+                49,
+                118,
+                163,
+                34,
+                20
+            ],
+            "answer": "Beaufort",
+            "hint": "Eponym of a wind-strength scale"
+        },
+        "W": {
+            "cells": [
+                158,
+                8,
+                51,
+                76,
+                127,
+                142
+            ],
+            "answer": "Untied",
+            "hint": "No longer having a mooring"
+        },
+        "X": {
+            "cells": [
+                124,
+                154,
+                58,
+                174,
+                41,
+                105,
+                24
+            ],
+            "answer": "Seaside",
+            "hint": "Typical locale for a summer resort"
+        }
+    }
+}

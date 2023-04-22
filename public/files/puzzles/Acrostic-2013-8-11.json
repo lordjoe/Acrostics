@@ -1,0 +1,345 @@
+{
+    "answer": "Mendel had not always worked with peas; at first he had tried breeding mice. But... the local bishop... seemed to find it inappropriate... for a priest who had taken vows of chastity... to be encouraging-and watching-rodent sex.",
+    "author": "(Robin) Henig,",
+    "authorCell": [
+        28,
+        48,
+        126,
+        164,
+        152,
+        34,
+        119,
+        41,
+        82,
+        142,
+        89,
+        22,
+        153,
+        157,
+        92,
+        40,
+        2,
+        57,
+        120,
+        21,
+        4,
+        81,
+        3
+    ],
+    "source": "The Monk In The Garden",
+    "clues": {
+        "A": {
+            "cells": [
+                28,
+                148,
+                73,
+                50,
+                102,
+                115,
+                130
+            ],
+            "answer": "Hobbits",
+            "hint": "Short race in fiction"
+        },
+        "B": {
+            "cells": [
+                48,
+                32,
+                133,
+                151,
+                110,
+                93,
+                79,
+                12
+            ],
+            "answer": "Escapist",
+            "hint": "Visitor of castles in the air"
+        },
+        "C": {
+            "cells": [
+                126,
+                47,
+                78,
+                97,
+                5,
+                167
+            ],
+            "answer": "Nipper",
+            "hint": "Small boy, in Britain"
+        },
+        "D": {
+            "cells": [
+                164,
+                94,
+                66,
+                80,
+                150,
+                112,
+                137,
+                30,
+                49
+            ],
+            "answer": "Inherited",
+            "hint": "Like some of the things that make you you"
+        },
+        "E": {
+            "cells": [
+                152,
+                107,
+                45,
+                134,
+                26,
+                60
+            ],
+            "answer": "Gothic",
+            "hint": "In the style of \u201cDracula\u201d"
+        },
+        "F": {
+            "cells": [
+                34,
+                138,
+                155,
+                76,
+                172,
+                105,
+                10,
+                90
+            ],
+            "answer": "Tight end",
+            "hint": "Position played by Mike Ditka (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                119,
+                95,
+                65,
+                42,
+                13,
+                25,
+                156,
+                140
+            ],
+            "answer": "Hathaway",
+            "hint": "Surname in a 1582 marriage"
+        },
+        "H": {
+            "cells": [
+                41,
+                62,
+                143,
+                23,
+                104,
+                173
+            ],
+            "answer": "Ebbets",
+            "hint": "Eponym of the Dodgers\u2019 field in Brooklyn"
+        },
+        "I": {
+            "cells": [
+                82,
+                118,
+                147,
+                70,
+                103,
+                18,
+                36,
+                171,
+                136
+            ],
+            "answer": "Moccasins",
+            "hint": "Means of moving quietly in the woods"
+        },
+        "J": {
+            "cells": [
+                142,
+                100,
+                117,
+                55,
+                168,
+                68,
+                160,
+                85,
+                37,
+                17
+            ],
+            "answer": "Ophiolatry",
+            "hint": "Worship of snakes"
+        },
+        "K": {
+            "cells": [
+                89,
+                144,
+                58,
+                43,
+                161,
+                128,
+                9,
+                113,
+                75
+            ],
+            "answer": "Nematodes",
+            "hint": "Worms good for controlling lawn grubs"
+        },
+        "L": {
+            "cells": [
+                22,
+                170,
+                51,
+                87,
+                63,
+                106,
+                132,
+                6,
+                145
+            ],
+            "answer": "Kerfuffle",
+            "hint": "Foofaraw, hoo-ha, hurly-burly"
+        },
+        "M": {
+            "cells": [
+                153,
+                139,
+                114,
+                123,
+                44,
+                67,
+                33,
+                14
+            ],
+            "answer": "It\u2019s a deal",
+            "hint": "\u201cO.K., let\u2019s shake\u201d (3 wds.)"
+        },
+        "N": {
+            "cells": [
+                157,
+                125,
+                175,
+                39,
+                84,
+                69,
+                11,
+                98
+            ],
+            "answer": "Next door",
+            "hint": "Not at all far from home (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                92,
+                163,
+                46,
+                131,
+                116,
+                74,
+                146
+            ],
+            "answer": "Throw-in",
+            "hint": "Supplement or bonus, as to a purchase (hyph.)"
+        },
+        "P": {
+            "cells": [
+                40,
+                83,
+                59,
+                166,
+                7,
+                27
+            ],
+            "answer": "Height",
+            "hint": "Mountain or hill; N.B.A. player stat"
+        },
+        "Q": {
+            "cells": [
+                2,
+                135,
+                38,
+                122,
+                19,
+                88,
+                165,
+                54
+            ],
+            "answer": "East wind",
+            "hint": "Eurus, in Greek mythology (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                57,
+                20,
+                169,
+                8,
+                129,
+                35,
+                149,
+                72
+            ],
+            "answer": "God-awful",
+            "hint": "Cussedly bad (hyph.)"
+        },
+        "S": {
+            "cells": [
+                120,
+                158,
+                1,
+                91,
+                64
+            ],
+            "answer": "Admit",
+            "hint": "Come clean about"
+        },
+        "T": {
+            "cells": [
+                21,
+                61,
+                162,
+                141,
+                86,
+                101
+            ],
+            "answer": "Rector",
+            "hint": "One in charge of a parish"
+        },
+        "U": {
+            "cells": [
+                4,
+                108,
+                31,
+                159,
+                121,
+                77,
+                15,
+                56
+            ],
+            "answer": "Draw down",
+            "hint": "Reduce in number, as troops (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                81,
+                127,
+                16,
+                29,
+                53,
+                111,
+                99,
+                154
+            ],
+            "answer": "Eva Peron",
+            "hint": "1996 movie role for Madonna (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                3,
+                71,
+                124,
+                52,
+                24,
+                109,
+                96,
+                174
+            ],
+            "answer": "Naked ape",
+            "hint": "Human, per a zoologist\u2019s 1967 book (2 wds.)"
+        }
+    }
+}

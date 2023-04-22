@@ -1,0 +1,354 @@
+{
+    "answer": "As I look back on my long... struggle to make myself over, and on my dismaying... glimpses of lost babyhood, I am more than ever sure that it\u2019s enough to be born once, and to take one\u2019s chances, and to grow old disgracefully.",
+    "author": "Christopher Hitchens,",
+    "authorCell": [
+        143,
+        78,
+        22,
+        3,
+        53,
+        131,
+        80,
+        64,
+        90,
+        125,
+        120,
+        113,
+        62,
+        129,
+        139,
+        140,
+        37,
+        127,
+        67,
+        44,
+        142,
+        157,
+        15,
+        27,
+        106
+    ],
+    "source": "And Yet",
+    "clues": {
+        "A": {
+            "cells": [
+                143,
+                56,
+                14,
+                76,
+                163,
+                38,
+                97
+            ],
+            "answer": "Cymbals",
+            "hint": "Percussion instrument heard at the end of Tchaikovsky\u2019s Symphony No. 4"
+        },
+        "B": {
+            "cells": [
+                78,
+                47,
+                99,
+                138,
+                117,
+                160
+            ],
+            "answer": "Horses",
+            "hint": "Units of engine power, informally"
+        },
+        "C": {
+            "cells": [
+                22,
+                86,
+                65,
+                100,
+                118,
+                167,
+                46
+            ],
+            "answer": "Rosebud",
+            "hint": "Balsa wood prop in a 1941 movie"
+        },
+        "D": {
+            "cells": [
+                3,
+                63,
+                84,
+                33,
+                18,
+                107,
+                134
+            ],
+            "answer": "Immense",
+            "hint": "Transcending ordinary means of measurement"
+        },
+        "E": {
+            "cells": [
+                53,
+                75,
+                34,
+                5,
+                94,
+                141,
+                162
+            ],
+            "answer": "Samovar",
+            "hint": "Water heater often on short legs"
+        },
+        "F": {
+            "cells": [
+                131,
+                115,
+                151,
+                25,
+                61,
+                42,
+                81
+            ],
+            "answer": "Toggled",
+            "hint": "Switched back and forth between two options"
+        },
+        "G": {
+            "cells": [
+                80,
+                43,
+                169,
+                103,
+                121,
+                148,
+                17
+            ],
+            "answer": "Orlando",
+            "hint": "Rosalind\u2019s beloved in \u201cAs You Like It\u201d"
+        },
+        "H": {
+            "cells": [
+                64,
+                87,
+                135,
+                39,
+                105,
+                21
+            ],
+            "answer": "Profit",
+            "hint": "Desired display on a bottom line"
+        },
+        "I": {
+            "cells": [
+                90,
+                110,
+                147,
+                7,
+                170,
+                73,
+                40,
+                58,
+                133
+            ],
+            "answer": "Honky-tonk",
+            "hint": "Cousin of a juke joint (hyph.)"
+        },
+        "J": {
+            "cells": [
+                125,
+                60,
+                112,
+                35,
+                150,
+                168,
+                11
+            ],
+            "answer": "Egg yolk",
+            "hint": "Yellow spheroid (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                120,
+                68,
+                154,
+                36
+            ],
+            "answer": "Rows",
+            "hint": "Makes a gig or wherry go"
+        },
+        "L": {
+            "cells": [
+                113,
+                146,
+                49,
+                74,
+                23,
+                96,
+                161
+            ],
+            "answer": "Hamburg",
+            "hint": "Where the Beatles performed from 1960 to 1962"
+        },
+        "M": {
+            "cells": [
+                62,
+                45,
+                123,
+                82,
+                109,
+                19,
+                2
+            ],
+            "answer": "Innings",
+            "hint": "Divisions akin to overs and ends"
+        },
+        "N": {
+            "cells": [
+                129,
+                79,
+                4,
+                26,
+                145
+            ],
+            "answer": "Tolls",
+            "hint": "Some expenses on a road trip"
+        },
+        "O": {
+            "cells": [
+                139,
+                70,
+                98,
+                116,
+                20,
+                155,
+                51,
+                1
+            ],
+            "answer": "Club soda",
+            "hint": "Provider of effervescence at a party (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                140,
+                12,
+                69,
+                166,
+                85,
+                31,
+                48
+            ],
+            "answer": "Hoffman",
+            "hint": "Role for Sacha Baron Cohen in \u201cThe Trial of the Chicago 7\u201d"
+        },
+        "Q": {
+            "cells": [
+                37,
+                54,
+                165,
+                152,
+                91,
+                16,
+                128
+            ],
+            "answer": "Emerald",
+            "hint": "Gemstone once mined in Egypt"
+        },
+        "R": {
+            "cells": [
+                127,
+                55,
+                41,
+                77,
+                8,
+                156,
+                111,
+                95
+            ],
+            "answer": "Navy blue",
+            "hint": "Apt team color of the Seattle Mariners (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                67,
+                126,
+                30,
+                6,
+                50,
+                93,
+                158
+            ],
+            "answer": "Samoyed",
+            "hint": "White-coated canine"
+        },
+        "T": {
+            "cells": [
+                44,
+                13,
+                28,
+                57,
+                89,
+                102,
+                144,
+                159,
+                72,
+                114
+            ],
+            "answer": "Antitheist",
+            "hint": "Self-description of the quote\u2019s author, in terms of belief"
+        },
+        "U": {
+            "cells": [
+                142,
+                122,
+                71,
+                104,
+                32,
+                9
+            ],
+            "answer": "Nootka",
+            "hint": "Indigenous people of Canada\u2019s Pacific Northwest"
+        },
+        "V": {
+            "cells": [
+                157,
+                119,
+                101,
+                132,
+                24,
+                66
+            ],
+            "answer": "Dotage",
+            "hint": "Phase well past the prime of life"
+        },
+        "W": {
+            "cells": [
+                15,
+                130,
+                59,
+                83
+            ],
+            "answer": "Yoga",
+            "hint": "Practice using a mat"
+        },
+        "X": {
+            "cells": [
+                27,
+                153,
+                10,
+                88,
+                136,
+                108
+            ],
+            "answer": "Eocene",
+            "hint": "Epoch that\u2019s Greek for \u201cnew dawn\u201d"
+        },
+        "Y": {
+            "cells": [
+                106,
+                137,
+                164,
+                149,
+                29,
+                92,
+                52,
+                124
+            ],
+            "answer": "Tectonic",
+            "hint": "Like some heavy plates"
+        }
+    }
+}

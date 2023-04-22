@@ -1,0 +1,353 @@
+{
+    "answer": "[T]oast from which the crispness has... thawed away... is abomination. It is limp, and tough, and indigent. ... [T]he mastication of it makes no sound. ... [T]he noise from good toast should reverberate in the head like the thunder of July.",
+    "author": "E.V. Lucas,",
+    "authorCell": [
+        157,
+        174,
+        18,
+        84,
+        41,
+        6,
+        53,
+        170,
+        112,
+        25,
+        20,
+        74,
+        17,
+        42,
+        93,
+        136,
+        129,
+        134,
+        47,
+        105,
+        111,
+        40,
+        149,
+        154
+    ],
+    "source": "Fireside and Sunshine",
+    "clues": {
+        "A": {
+            "cells": [
+                157,
+                127,
+                13,
+                100,
+                63,
+                171,
+                33,
+                78
+            ],
+            "answer": "Lockdown",
+            "hint": "Response to a security threat"
+        },
+        "B": {
+            "cells": [
+                174,
+                1,
+                145,
+                162,
+                29,
+                97,
+                69,
+                49,
+                117
+            ],
+            "answer": "Utah State",
+            "hint": "The Aggies of the Mountain West Conference (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                18,
+                44,
+                62,
+                102,
+                120,
+                137,
+                86
+            ],
+            "answer": "Consort",
+            "hint": "Spouse of a reigning monarch"
+        },
+        "D": {
+            "cells": [
+                84,
+                71,
+                173,
+                124,
+                107,
+                144,
+                52
+            ],
+            "answer": "Adjourn",
+            "hint": "Call it a day in court"
+        },
+        "E": {
+            "cells": [
+                41,
+                79,
+                99,
+                21,
+                153,
+                138,
+                125
+            ],
+            "answer": "Stashed",
+            "hint": "Put away for later use"
+        },
+        "F": {
+            "cells": [
+                6,
+                91,
+                116,
+                27,
+                64,
+                48,
+                158,
+                135
+            ],
+            "answer": "Fishtail",
+            "hint": "Have the rear end swing out of control"
+        },
+        "G": {
+            "cells": [
+                53,
+                141,
+                92,
+                70,
+                37,
+                106,
+                123,
+                168
+            ],
+            "answer": "Ironwood",
+            "hint": "Tree also known as a hornbeam"
+        },
+        "H": {
+            "cells": [
+                170,
+                82,
+                35,
+                131,
+                68,
+                50,
+                118,
+                15
+            ],
+            "answer": "Redshift",
+            "hint": "Physics phenomenon in which light from an object is increased in wavelength"
+        },
+        "I": {
+            "cells": [
+                112,
+                148,
+                67,
+                31,
+                130,
+                87,
+                169,
+                54,
+                14
+            ],
+            "answer": "Eightieth",
+            "hint": "Congressional session that Harry Truman called \u201cDo-Nothing\u201d"
+        },
+        "J": {
+            "cells": [
+                25,
+                51,
+                175,
+                3,
+                88,
+                143
+            ],
+            "answer": "Solace",
+            "hint": "Provider of comfort"
+        },
+        "K": {
+            "cells": [
+                20,
+                56,
+                5,
+                132,
+                98,
+                115,
+                155,
+                73
+            ],
+            "answer": "Isthmian",
+            "hint": "Citizen of Panama, e.g."
+        },
+        "L": {
+            "cells": [
+                74,
+                10,
+                36,
+                119,
+                95
+            ],
+            "answer": "Dwarf",
+            "hint": "Gimli of Middle-earth, for one"
+        },
+        "M": {
+            "cells": [
+                17,
+                83,
+                65,
+                146,
+                34
+            ],
+            "answer": "Emote",
+            "hint": "Play against type, as a robot"
+        },
+        "N": {
+            "cells": [
+                42,
+                103,
+                128,
+                151,
+                77,
+                12,
+                59
+            ],
+            "answer": "Anaheim",
+            "hint": "Host of Angels on a field?"
+        },
+        "O": {
+            "cells": [
+                93,
+                28,
+                43,
+                114,
+                159,
+                8,
+                139
+            ],
+            "answer": "Nabokov",
+            "hint": "Literary giant with a love of wordplay"
+        },
+        "P": {
+            "cells": [
+                136,
+                11,
+                104,
+                164,
+                75
+            ],
+            "answer": "Dhoti",
+            "hint": "Traditional garb worn by Gandhi"
+        },
+        "Q": {
+            "cells": [
+                129,
+                110,
+                7,
+                72,
+                22,
+                45,
+                96,
+                167,
+                152
+            ],
+            "answer": "Strip mine",
+            "hint": "Bauxite source, usually (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                134,
+                108,
+                90,
+                58,
+                156,
+                176
+            ],
+            "answer": "Untidy",
+            "hint": "Lacking in order"
+        },
+        "S": {
+            "cells": [
+                47,
+                61,
+                9,
+                147,
+                161,
+                32,
+                76
+            ],
+            "answer": "Nametag",
+            "hint": "Handout for conventioneers"
+        },
+        "T": {
+            "cells": [
+                105,
+                38,
+                122,
+                160,
+                142,
+                19,
+                66,
+                4,
+                81
+            ],
+            "answer": "Sagebrush",
+            "hint": "Backdrop for a prairie dog town"
+        },
+        "U": {
+            "cells": [
+                111,
+                24,
+                89,
+                57,
+                150,
+                165,
+                39
+            ],
+            "answer": "Healthy",
+            "hint": "Thriving, robust, in fine shape"
+        },
+        "V": {
+            "cells": [
+                40,
+                172,
+                26,
+                80,
+                133,
+                113,
+                101
+            ],
+            "answer": "I.F. Stone",
+            "hint": "Publisher of an influential 1960s weekly (3 wds.)"
+        },
+        "W": {
+            "cells": [
+                149,
+                94,
+                2,
+                23,
+                126,
+                55,
+                109,
+                163
+            ],
+            "answer": "Noontide",
+            "hint": "\u201cThe demon of ____\u201d (boredom)"
+        },
+        "X": {
+            "cells": [
+                154,
+                166,
+                60,
+                16,
+                140,
+                121,
+                46,
+                85,
+                30
+            ],
+            "answer": "Euphemist",
+            "hint": "Thomas Bowdler, notably"
+        }
+    }
+}

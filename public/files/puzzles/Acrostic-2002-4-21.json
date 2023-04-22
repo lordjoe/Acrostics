@@ -1,0 +1,339 @@
+{
+    "answer": "Inside our heads we carry ourselves perfected, ourselves at the best age and in the best light... never caught awkwardly, one leg out of a car, one still in, or picking our teeth, or slouching, or scratching our noses or bums.",
+    "author": "(Margaret) Atwood,",
+    "authorCell": [
+        156,
+        106,
+        92,
+        98,
+        22,
+        5,
+        37,
+        67,
+        137,
+        173,
+        101,
+        74,
+        161,
+        95,
+        89,
+        142,
+        30,
+        84,
+        14,
+        43,
+        121,
+        166
+    ],
+    "source": "The Blind Assassin",
+    "clues": {
+        "A": {
+            "cells": [
+                156,
+                143,
+                27,
+                66,
+                87,
+                53,
+                112,
+                16
+            ],
+            "answer": "All there",
+            "hint": "In one\u2019s right mind (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                106,
+                35,
+                18,
+                158,
+                147,
+                129,
+                65,
+                86
+            ],
+            "answer": "Teaching",
+            "hint": "Pursuit of a pedagogue"
+        },
+        "C": {
+            "cells": [
+                92,
+                10,
+                151,
+                73,
+                169,
+                52,
+                113,
+                103
+            ],
+            "answer": "Whole hog",
+            "hint": "The furthest extent (2 wds., slang)"
+        },
+        "D": {
+            "cells": [
+                98,
+                176,
+                36,
+                118,
+                77,
+                12,
+                149,
+                57
+            ],
+            "answer": "Oscitant",
+            "hint": "Yawning"
+        },
+        "E": {
+            "cells": [
+                22,
+                46,
+                160,
+                125,
+                140,
+                56,
+                1,
+                72
+            ],
+            "answer": "Oviposit",
+            "hint": "Lay an egg"
+        },
+        "F": {
+            "cells": [
+                5,
+                49,
+                164,
+                59,
+                76,
+                135,
+                115,
+                19
+            ],
+            "answer": "Daughter",
+            "hint": "\u201c___ of the Moon, Nokomis\u201d (\u201cThe Song of Hiawatha\u201d)"
+        },
+        "G": {
+            "cells": [
+                37,
+                134,
+                60,
+                68,
+                108,
+                7,
+                172,
+                117
+            ],
+            "answer": "Tree fort",
+            "hint": "Place of escape amid ramifications (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                67,
+                171,
+                99,
+                39,
+                8,
+                152,
+                109,
+                116
+            ],
+            "answer": "Honduras",
+            "hint": "Country where the lempira is money"
+        },
+        "I": {
+            "cells": [
+                137,
+                83,
+                96,
+                6,
+                17,
+                51,
+                64,
+                110
+            ],
+            "answer": "Eclectic",
+            "hint": "Choosing from various sources"
+        },
+        "J": {
+            "cells": [
+                173,
+                144,
+                90,
+                45,
+                123,
+                80,
+                32,
+                155
+            ],
+            "answer": "Bowl over",
+            "hint": "Surprise or impress greatly (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                101,
+                145,
+                157,
+                55,
+                34,
+                126,
+                25,
+                91
+            ],
+            "answer": "Lutefisk",
+            "hint": "Scandinavian dish of dried cod tenderized by soaking in lye"
+        },
+        "L": {
+            "cells": [
+                74,
+                114,
+                128,
+                54,
+                29,
+                9,
+                42,
+                97
+            ],
+            "answer": "Inkberry",
+            "hint": "Shrub with leathery evergreen leaves; pokeweed"
+        },
+        "M": {
+            "cells": [
+                161,
+                40,
+                28,
+                150,
+                167,
+                82,
+                104,
+                63
+            ],
+            "answer": "Novgorod",
+            "hint": "Russian city once a power in the Hanseatic League"
+        },
+        "N": {
+            "cells": [
+                95,
+                107,
+                162,
+                131,
+                79,
+                24,
+                47,
+                119
+            ],
+            "answer": "Doggerel",
+            "hint": "Loose and irregular verse, as in Butler\u2019s \u201cHudibras\u201d"
+        },
+        "O": {
+            "cells": [
+                89,
+                105,
+                168,
+                31,
+                148,
+                127,
+                11,
+                48
+            ],
+            "answer": "Auspices",
+            "hint": "Sponsorship, support, patronage"
+        },
+        "P": {
+            "cells": [
+                142,
+                41,
+                71,
+                85,
+                20,
+                124,
+                174,
+                3
+            ],
+            "answer": "Susurrus",
+            "hint": "Rustling, murmuring or whispering sound"
+        },
+        "Q": {
+            "cells": [
+                30,
+                111,
+                15,
+                159,
+                132,
+                94,
+                170,
+                38
+            ],
+            "answer": "Sawhorse",
+            "hint": "Prop in a workshop"
+        },
+        "R": {
+            "cells": [
+                84,
+                141,
+                175,
+                21,
+                61,
+                130,
+                50,
+                153
+            ],
+            "answer": "Army ants",
+            "hint": "Nomads in marching columns (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                14,
+                136,
+                2,
+                88,
+                100,
+                78,
+                154,
+                26
+            ],
+            "answer": "Sentence",
+            "hint": "\u201cA ___ is but a cheveril glove to a good wit\u201d: \u201cTwelfth Night\u201d"
+        },
+        "T": {
+            "cells": [
+                43,
+                93,
+                23,
+                138,
+                81,
+                165,
+                122,
+                70
+            ],
+            "answer": "Sauterne",
+            "hint": "Semisweet wine of California"
+        },
+        "U": {
+            "cells": [
+                121,
+                146,
+                44,
+                69,
+                163,
+                133,
+                62,
+                13
+            ],
+            "answer": "Icebound",
+            "hint": "Like Shackleton\u2019s ship in a 1915 misadventure"
+        },
+        "V": {
+            "cells": [
+                166,
+                58,
+                33,
+                75,
+                139,
+                4,
+                120,
+                102
+            ],
+            "answer": "Narghile",
+            "hint": "Eastern smoking pipe with a long tube passing through an urn of water"
+        }
+    }
+}

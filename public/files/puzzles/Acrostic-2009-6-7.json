@@ -1,0 +1,374 @@
+{
+    "answer": "[W]riters of... Star Trek... were so stung by... criticism from physicists that they added \u201cHeisenberg compensators\u201d to explain their teleporters... . Today, because of a recent breakthrough, physicists can teleport atoms across a room... .",
+    "author": "(Michio) Kaku,",
+    "authorCell": [
+        139,
+        128,
+        17,
+        26,
+        107,
+        67,
+        118,
+        124,
+        101,
+        77,
+        70,
+        42,
+        40,
+        140,
+        141,
+        161,
+        50,
+        39,
+        80,
+        86,
+        38,
+        53,
+        96,
+        29,
+        94,
+        132
+    ],
+    "source": "Physics Of The Impossible",
+    "clues": {
+        "A": {
+            "cells": [
+                139,
+                166,
+                122,
+                43,
+                74,
+                13
+            ],
+            "answer": "Kramer",
+            "hint": "TV character in apartment 5B"
+        },
+        "B": {
+            "cells": [
+                128,
+                88,
+                169,
+                106,
+                6,
+                23,
+                48,
+                63,
+                154
+            ],
+            "answer": "\u201cAsteroids\u201d",
+            "hint": "Classic Atari arcade game"
+        },
+        "C": {
+            "cells": [
+                17,
+                104,
+                85,
+                174,
+                148
+            ],
+            "answer": "Ketch",
+            "hint": "Boat similar to a yawl"
+        },
+        "D": {
+            "cells": [
+                26,
+                44,
+                160,
+                146,
+                87,
+                123,
+                10,
+                98
+            ],
+            "answer": "Upthrust",
+            "hint": "Buoyancy; forcible rise of the earth\u2019s crust"
+        },
+        "E": {
+            "cells": [
+                107,
+                136,
+                65,
+                51,
+                167,
+                90
+            ],
+            "answer": "Presto",
+            "hint": "Utterance from a conjurer"
+        },
+        "F": {
+            "cells": [
+                67,
+                35,
+                145,
+                99,
+                119,
+                16,
+                56,
+                171
+            ],
+            "answer": "High beam",
+            "hint": "Lamp on a lonely road at night (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                118,
+                165,
+                76,
+                33
+            ],
+            "answer": "Yogi",
+            "hint": "Master of many an asana"
+        },
+        "H": {
+            "cells": [
+                124,
+                52,
+                142,
+                168,
+                82,
+                28,
+                100
+            ],
+            "answer": "Strange",
+            "hint": "Third-lightest flavor of quark"
+        },
+        "I": {
+            "cells": [
+                101,
+                152,
+                120,
+                83,
+                54,
+                170,
+                32,
+                183
+            ],
+            "answer": "Ice storm",
+            "hint": "Potential cause of broken limbs (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                77,
+                30,
+                135,
+                21,
+                102,
+                47,
+                164,
+                179,
+                121,
+                5
+            ],
+            "answer": "Cyberspace",
+            "hint": "Virtual reality milieu"
+        },
+        "K": {
+            "cells": [
+                70,
+                1,
+                151,
+                127,
+                57
+            ],
+            "answer": "Swift",
+            "hint": "Tom ___, inventive genius of fiction"
+        },
+        "L": {
+            "cells": [
+                42,
+                147,
+                84,
+                112,
+                25
+            ],
+            "answer": "Op art",
+            "hint": "Eye-tricking works (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                40,
+                153,
+                97,
+                71,
+                113,
+                11
+            ],
+            "answer": "Finest",
+            "hint": "Able to pass through the tiniest holes"
+        },
+        "N": {
+            "cells": [
+                140,
+                125,
+                24,
+                14,
+                49,
+                158,
+                177,
+                68
+            ],
+            "answer": "Test case",
+            "hint": "Precedent-setting legal action (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                141,
+                81,
+                2,
+                178,
+                36,
+                59,
+                19,
+                105
+            ],
+            "answer": "Herschel",
+            "hint": "Discoverer of Uranus and infrared light"
+        },
+        "P": {
+            "cells": [
+                161,
+                79,
+                37,
+                58,
+                103,
+                137,
+                20
+            ],
+            "answer": "Emitter",
+            "hint": "Whence electrons flow in a transistor"
+        },
+        "Q": {
+            "cells": [
+                50,
+                92,
+                69,
+                143,
+                27
+            ],
+            "answer": "Ixion",
+            "hint": "King forever revolving in Tartarus"
+        },
+        "R": {
+            "cells": [
+                39,
+                111,
+                134,
+                60,
+                78,
+                175,
+                3,
+                157
+            ],
+            "answer": "Meteoric",
+            "hint": "Brief but brilliant"
+        },
+        "S": {
+            "cells": [
+                80,
+                144,
+                172,
+                22,
+                61,
+                9,
+                108,
+                181,
+                34
+            ],
+            "answer": "Pussyfoot",
+            "hint": "Move stealthily or cautiously"
+        },
+        "T": {
+            "cells": [
+                86,
+                150,
+                110,
+                180,
+                12,
+                31,
+                126,
+                64
+            ],
+            "answer": "Ostracod",
+            "hint": "Tiny bivalve also called a seed shrimp"
+        },
+        "U": {
+            "cells": [
+                38,
+                93,
+                162,
+                138,
+                7,
+                55,
+                116,
+                182,
+                18,
+                72
+            ],
+            "answer": "Splash down",
+            "hint": "Land in the water (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                53,
+                155,
+                129,
+                115,
+                73,
+                91
+            ],
+            "answer": "Strobe",
+            "hint": "Aid for photographing a bullet in flight, e.g."
+        },
+        "W": {
+            "cells": [
+                96,
+                4,
+                131,
+                45,
+                149
+            ],
+            "answer": "Itchy",
+            "hint": "Restless, unable to sit still"
+        },
+        "X": {
+            "cells": [
+                29,
+                130,
+                89,
+                173,
+                109,
+                62,
+                46,
+                156
+            ],
+            "answer": "Beta rays",
+            "hint": "Signs of decay observed in a lab (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                94,
+                163,
+                8,
+                133,
+                117,
+                41,
+                66,
+                176
+            ],
+            "answer": "Leonardo",
+            "hint": "One of four Teenage Mutant Ninja Turtles"
+        },
+        "Z": {
+            "cells": [
+                132,
+                15,
+                75,
+                95,
+                159,
+                114
+            ],
+            "answer": "Errant",
+            "hint": "Traveling in quest of adventure"
+        }
+    }
+}

@@ -1,0 +1,360 @@
+{
+    "answer": "It\u2019s almost comical that astronauts are stereotyped as daredevils and cowboys. As a rule, we\u2019re highly methodical and detail-oriented. Our passion isn\u2019t for thrills but for the grindstone, and pressing our noses to it.",
+    "author": "(Chris) Hadfield,",
+    "authorCell": [
+        129,
+        92,
+        89,
+        125,
+        105,
+        153,
+        102,
+        156,
+        48,
+        155,
+        15,
+        30,
+        9,
+        158,
+        119,
+        58,
+        27,
+        112,
+        124,
+        116,
+        80,
+        136,
+        1,
+        47,
+        73
+    ],
+    "source": "An Astronauts Guide (to Life on Earth)",
+    "clues": {
+        "A": {
+            "cells": [
+                129,
+                57,
+                40,
+                91,
+                18,
+                75,
+                149
+            ],
+            "answer": "Hatches",
+            "hint": "Cooks up; openings in NASA"
+        },
+        "B": {
+            "cells": [
+                92,
+                147,
+                69,
+                114,
+                52,
+                34,
+                17
+            ],
+            "answer": "Anapest",
+            "hint": "\u201cIn the Mood\u201d or \u201cAt the Hop,\u201d metrically"
+        },
+        "C": {
+            "cells": [
+                89,
+                25,
+                134,
+                3,
+                146,
+                109,
+                37
+            ],
+            "answer": "Dossier",
+            "hint": "File of records about a subject"
+        },
+        "D": {
+            "cells": [
+                125,
+                55,
+                13,
+                144,
+                87,
+                173,
+                41
+            ],
+            "answer": "Flighty",
+            "hint": "Capricious, changing opinions easily"
+        },
+        "E": {
+            "cells": [
+                105,
+                123,
+                51,
+                171,
+                14,
+                77,
+                152,
+                29
+            ],
+            "answer": "Indecent",
+            "hint": "Unfit for public exposure"
+        },
+        "F": {
+            "cells": [
+                153,
+                83,
+                50,
+                70,
+                169,
+                5,
+                132
+            ],
+            "answer": "Eye roll",
+            "hint": "Exasperation in facial form (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                102,
+                115,
+                166,
+                26,
+                60,
+                78,
+                42,
+                4,
+                148
+            ],
+            "answer": "Launchpad",
+            "hint": "Where some long journeys start"
+        },
+        "H": {
+            "cells": [
+                156,
+                90,
+                66,
+                10,
+                139,
+                24,
+                110
+            ],
+            "answer": "Discord",
+            "hint": "What Eris is the goddess of"
+        },
+        "I": {
+            "cells": [
+                48,
+                150,
+                82,
+                67,
+                107,
+                20,
+                175,
+                122
+            ],
+            "answer": "Atlantis",
+            "hint": "The land down under?"
+        },
+        "J": {
+            "cells": [
+                155,
+                61,
+                170,
+                128,
+                32,
+                88,
+                12,
+                111
+            ],
+            "answer": "\"Nostromo\"",
+            "hint": "Conrad novel; name of the starship in \u201cAlien\u201d"
+        },
+        "K": {
+            "cells": [
+                15,
+                135,
+                94,
+                117,
+                81,
+                159,
+                44
+            ],
+            "answer": "Abashed",
+            "hint": "Put to shame"
+        },
+        "L": {
+            "cells": [
+                30,
+                142,
+                45,
+                96,
+                126,
+                62,
+                160
+            ],
+            "answer": "Shadows",
+            "hint": "Effects of solar eclipses on the earth"
+        },
+        "M": {
+            "cells": [
+                9,
+                131,
+                72,
+                56,
+                101,
+                35
+            ],
+            "answer": "Tilsit",
+            "hint": "Cheese named for a Prussian town"
+        },
+        "N": {
+            "cells": [
+                158,
+                36,
+                99,
+                127,
+                7
+            ],
+            "answer": "Retro",
+            "hint": "Lead-in to rocket or virus"
+        },
+        "O": {
+            "cells": [
+                119,
+                65,
+                22,
+                2,
+                38,
+                104,
+                161
+            ],
+            "answer": "Oysters",
+            "hint": "Victims of the Walrus and the Carpenter, in a Lewis Carroll poem"
+        },
+        "P": {
+            "cells": [
+                58,
+                154,
+                176,
+                71,
+                140,
+                19,
+                93
+            ],
+            "answer": "Natural",
+            "hint": "Being neither sharp nor flat"
+        },
+        "Q": {
+            "cells": [
+                27,
+                95,
+                162,
+                46,
+                143
+            ],
+            "answer": "Anise",
+            "hint": "Flavoring used in sambuca"
+        },
+        "R": {
+            "cells": [
+                112,
+                138,
+                39,
+                16,
+                151,
+                164,
+                54,
+                68,
+                86
+            ],
+            "answer": "Ufologist",
+            "hint": "Student of seemingly out-of-this-world stuff"
+        },
+        "S": {
+            "cells": [
+                124,
+                106,
+                145,
+                76,
+                31,
+                163
+            ],
+            "answer": "Terran",
+            "hint": "Native of the planet Earth"
+        },
+        "T": {
+            "cells": [
+                116,
+                43,
+                137,
+                59,
+                11,
+                74,
+                168
+            ],
+            "answer": "Set down",
+            "hint": "Land from above (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                80,
+                98,
+                23,
+                133,
+                174,
+                8,
+                108
+            ],
+            "answer": "Get lost",
+            "hint": "\u201cGo jump in a lake!\u201d (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                136,
+                6,
+                63,
+                167,
+                121,
+                21
+            ],
+            "answer": "Umbria",
+            "hint": "Region whose capital is Perugia"
+        },
+        "W": {
+            "cells": [
+                1,
+                84,
+                157,
+                130,
+                33,
+                172,
+                100,
+                49,
+                118,
+                64
+            ],
+            "answer": "Impresario",
+            "hint": "Stager of concerts, operas and other public entertainments"
+        },
+        "X": {
+            "cells": [
+                47,
+                113,
+                165,
+                79,
+                97
+            ],
+            "answer": "Droid",
+            "hint": "Sidekick in some sci-fi tales"
+        },
+        "Y": {
+            "cells": [
+                73,
+                53,
+                85,
+                120,
+                103,
+                28,
+                141
+            ],
+            "answer": "Even out",
+            "hint": "Become balanced, stable or smooth (2 wds.)"
+        }
+    }
+}

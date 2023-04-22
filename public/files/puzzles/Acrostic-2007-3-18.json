@@ -1,0 +1,334 @@
+{
+    "answer": "If an American city at night is film noir, then Hong Kong is just a camera blur. The residents of Kowloon speed around as if irked at their bodies for not being cars. You feel that you have no other choice but motion.",
+    "author": "Ken Chen,",
+    "authorCell": [
+        77,
+        67,
+        93,
+        128,
+        154,
+        87,
+        150,
+        157,
+        9,
+        165,
+        143,
+        39,
+        92,
+        15,
+        118,
+        26,
+        123,
+        119,
+        102,
+        3,
+        73,
+        35
+    ],
+    "source": "City Out Of Breath",
+    "clues": {
+        "A": {
+            "cells": [
+                77,
+                97,
+                44,
+                155,
+                131,
+                32,
+                116
+            ],
+            "answer": "Kinesis",
+            "hint": "Movement upon stimulation"
+        },
+        "B": {
+            "cells": [
+                67,
+                12,
+                86,
+                110,
+                41,
+                136,
+                153,
+                169,
+                53
+            ],
+            "answer": "Energetic",
+            "hint": "Hustling and bustling; full of pep"
+        },
+        "C": {
+            "cells": [
+                93,
+                114,
+                161,
+                144,
+                18,
+                46,
+                30,
+                71
+            ],
+            "answer": "Nicotine",
+            "hint": "An alkaloid stimulant craved by its users"
+        },
+        "D": {
+            "cells": [
+                128,
+                147,
+                2,
+                76,
+                108,
+                20,
+                37,
+                162
+            ],
+            "answer": "Caffeine",
+            "hint": "Another alkaloid stimulant craved by its users"
+        },
+        "E": {
+            "cells": [
+                154,
+                75,
+                4,
+                101,
+                132,
+                122,
+                167,
+                19,
+                42
+            ],
+            "answer": "Honky-tonk",
+            "hint": "Cheap, noisy bar with blues or country music (hyph.)"
+        },
+        "F": {
+            "cells": [
+                87,
+                6,
+                121,
+                63,
+                109,
+                148,
+                36
+            ],
+            "answer": "Emotive",
+            "hint": "Expressing or exciting the feelings"
+        },
+        "G": {
+            "cells": [
+                150,
+                125,
+                64,
+                27,
+                138,
+                14,
+                47,
+                105
+            ],
+            "answer": "Nihilist",
+            "hint": "One rejecting all values and beliefs"
+        },
+        "H": {
+            "cells": [
+                157,
+                133,
+                55,
+                29,
+                91,
+                40,
+                74
+            ],
+            "answer": "Commons",
+            "hint": "Shared land, as in an urban area"
+        },
+        "I": {
+            "cells": [
+                9,
+                120,
+                58,
+                98,
+                81,
+                45
+            ],
+            "answer": "In a fog",
+            "hint": "Dazed, confused, lost (3 wds.)"
+        },
+        "J": {
+            "cells": [
+                165,
+                66,
+                104,
+                25,
+                146,
+                124,
+                94
+            ],
+            "answer": "Trashed",
+            "hint": "Thrown away; verbally scathed"
+        },
+        "K": {
+            "cells": [
+                143,
+                159,
+                21,
+                69,
+                111,
+                7,
+                57,
+                90,
+                129
+            ],
+            "answer": "Yogi Berra",
+            "hint": "Who said \u201cWhen you come to a fork in the road, take it\u201d (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                39,
+                68,
+                168,
+                8,
+                112,
+                127,
+                151,
+                142,
+                22,
+                84
+            ],
+            "answer": "Ostrogoths",
+            "hint": "Followers of Theodoric the Great"
+        },
+        "M": {
+            "cells": [
+                92,
+                62,
+                134,
+                50,
+                107,
+                160,
+                31,
+                80
+            ],
+            "answer": "Urushiol",
+            "hint": "Poison ivy\u2019s toxic oil"
+        },
+        "N": {
+            "cells": [
+                15,
+                82,
+                34,
+                56,
+                96
+            ],
+            "answer": "Totes",
+            "hint": "Accessories for mall shoppers"
+        },
+        "O": {
+            "cells": [
+                118,
+                83,
+                51,
+                158,
+                65,
+                135,
+                28,
+                16
+            ],
+            "answer": "On the fly",
+            "hint": "Hastily; without preparation (3 wds.)"
+        },
+        "P": {
+            "cells": [
+                26,
+                152,
+                170,
+                117,
+                11,
+                130,
+                52,
+                79
+            ],
+            "answer": "Foofaraw",
+            "hint": "Much ado about nothing"
+        },
+        "Q": {
+            "cells": [
+                123,
+                156,
+                78,
+                61,
+                140,
+                5,
+                38,
+                95
+            ],
+            "answer": "Brouhaha",
+            "hint": "Hubbub, rumpus, tumult, ballyhoo"
+        },
+        "R": {
+            "cells": [
+                119,
+                99,
+                166,
+                59,
+                17,
+                145,
+                88
+            ],
+            "answer": "Rimbaud",
+            "hint": "French poet who wrote \u201cA Season in Hell\u201d"
+        },
+        "S": {
+            "cells": [
+                102,
+                60,
+                115,
+                10,
+                139,
+                33,
+                43,
+                171
+            ],
+            "answer": "Electron",
+            "hint": "Orbiter the naked eye can\u2019t see"
+        },
+        "T": {
+            "cells": [
+                3,
+                163,
+                24,
+                103,
+                48,
+                141,
+                72
+            ],
+            "answer": "Abidjan",
+            "hint": "De facto capital of Cote d\u2019Ivoire"
+        },
+        "U": {
+            "cells": [
+                73,
+                164,
+                100,
+                85,
+                1,
+                23,
+                49,
+                113,
+                137
+            ],
+            "answer": "Turpitude",
+            "hint": "The lack of any moral compass"
+        },
+        "V": {
+            "cells": [
+                35,
+                89,
+                106,
+                70,
+                54,
+                126,
+                13,
+                149
+            ],
+            "answer": "Hat dance",
+            "hint": "Man + woman + sombrero + guitar? (2 wds.)"
+        }
+    }
+}

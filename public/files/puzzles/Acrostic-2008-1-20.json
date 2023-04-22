@@ -1,0 +1,361 @@
+{
+    "answer": "The strange resonant word instar describes the stage between... molts... as a caterpillar... splits its skin. ... Instar implies something both celestial and ingrown, heavenly and disastrous, and perhaps change is commonly like that.",
+    "author": "Rebecca Solnit,",
+    "authorCell": [
+        21,
+        134,
+        107,
+        30,
+        61,
+        169,
+        138,
+        150,
+        99,
+        68,
+        86,
+        142,
+        5,
+        106,
+        51,
+        146,
+        18,
+        67,
+        8,
+        125,
+        175,
+        14,
+        81,
+        184
+    ],
+    "source": "(A Field Guide To) Getting Lost",
+    "clues": {
+        "A": {
+            "cells": [
+                21,
+                58,
+                73,
+                123,
+                153,
+                168
+            ],
+            "answer": "Rapids",
+            "hint": "What you may shoot in the wild"
+        },
+        "B": {
+            "cells": [
+                134,
+                154,
+                39,
+                112,
+                53,
+                180,
+                71,
+                91,
+                22,
+                4
+            ],
+            "answer": "Ephemerids",
+            "hint": "Mayflies, so named for their short lives"
+        },
+        "C": {
+            "cells": [
+                107,
+                170,
+                1,
+                70,
+                24,
+                85,
+                41,
+                56
+            ],
+            "answer": "Botanist",
+            "hint": "Good guide to what\u2019s edible in meadows"
+        },
+        "D": {
+            "cells": [
+                30,
+                171,
+                46,
+                156,
+                137,
+                108
+            ],
+            "answer": "Embryo",
+            "hint": "Rudimentary plant contained within a seed"
+        },
+        "E": {
+            "cells": [
+                61,
+                130,
+                6,
+                176,
+                145,
+                163,
+                119,
+                83,
+                98
+            ],
+            "answer": "Chrysalis",
+            "hint": "Moth in its early life"
+        },
+        "F": {
+            "cells": [
+                169,
+                148,
+                118,
+                80,
+                63,
+                27,
+                94
+            ],
+            "answer": "Coastal",
+            "hint": "Littoral"
+        },
+        "G": {
+            "cells": [
+                138,
+                55,
+                35,
+                114,
+                11,
+                181
+            ],
+            "answer": "Albert",
+            "hint": "The alligator in Walt Kelly\u2019s \u201cPogo\u201d"
+        },
+        "H": {
+            "cells": [
+                150,
+                62,
+                135,
+                102,
+                183,
+                16,
+                121,
+                84,
+                43
+            ],
+            "answer": "Santa Anna",
+            "hint": "Winning general at the Alamo (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                99,
+                49,
+                136,
+                167,
+                77,
+                2
+            ],
+            "answer": "Owlish",
+            "hint": "Appearing solemn and wise"
+        },
+        "J": {
+            "cells": [
+                68,
+                54,
+                9,
+                132,
+                28,
+                117,
+                88,
+                157,
+                172
+            ],
+            "answer": "Logarithm",
+            "hint": "Exponent of mathematics"
+        },
+        "K": {
+            "cells": [
+                86,
+                144,
+                72,
+                32,
+                10,
+                124,
+                109
+            ],
+            "answer": "Nascent",
+            "hint": "Just coming into existence"
+        },
+        "L": {
+            "cells": [
+                142,
+                52,
+                111,
+                162,
+                19,
+                173,
+                126,
+                92
+            ],
+            "answer": "Inchworm",
+            "hint": "Creature that moves by bringing its rear end forward and then advancing its front"
+        },
+        "M": {
+            "cells": [
+                5,
+                110,
+                166,
+                37,
+                66,
+                95,
+                151,
+                129
+            ],
+            "answer": "Thespian",
+            "hint": "Relating to the dramatic arts"
+        },
+        "N": {
+            "cells": [
+                106,
+                147,
+                120,
+                160,
+                31,
+                13,
+                179,
+                75,
+                90,
+                48
+            ],
+            "answer": "Grass skirt",
+            "hint": "Covering made of blades (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                51,
+                25,
+                38,
+                12,
+                64,
+                100,
+                155,
+                141
+            ],
+            "answer": "Esteemed",
+            "hint": "Held in high regard"
+        },
+        "P": {
+            "cells": [
+                146,
+                133,
+                29,
+                78,
+                15,
+                174,
+                96,
+                65,
+                115
+            ],
+            "answer": "TV dinners",
+            "hint": "Easy meals that start out hard? (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                18,
+                50,
+                36,
+                79,
+                103
+            ],
+            "answer": "Teeth",
+            "hint": "Features a snail may have by the thousands"
+        },
+        "R": {
+            "cells": [
+                67,
+                17,
+                82,
+                128,
+                40,
+                113,
+                177
+            ],
+            "answer": "Inkwell",
+            "hint": "Old school desk feature"
+        },
+        "S": {
+            "cells": [
+                8,
+                131,
+                97,
+                26,
+                69,
+                178,
+                164,
+                44
+            ],
+            "answer": "Nestling",
+            "hint": "Babe in the woods?"
+        },
+        "T": {
+            "cells": [
+                125,
+                3,
+                87,
+                42,
+                158,
+                76,
+                101
+            ],
+            "answer": "Gestate",
+            "hint": "Develop little by little"
+        },
+        "U": {
+            "cells": [
+                175,
+                34,
+                89,
+                104,
+                57,
+                127,
+                139
+            ],
+            "answer": "Liaison",
+            "hint": "Relationship kept under wraps"
+        },
+        "V": {
+            "cells": [
+                14,
+                161,
+                116,
+                149,
+                93,
+                74,
+                45
+            ],
+            "answer": "Octuple",
+            "hint": "x 8"
+        },
+        "W": {
+            "cells": [
+                81,
+                182,
+                60,
+                140,
+                23,
+                152,
+                165
+            ],
+            "answer": "Shading",
+            "hint": "What crosshatched lines provide"
+        },
+        "X": {
+            "cells": [
+                184,
+                33,
+                7,
+                105,
+                143,
+                159,
+                20,
+                59,
+                47,
+                122
+            ],
+            "answer": "Transposed",
+            "hint": "Like 1920 and 2019"
+        }
+    }
+}

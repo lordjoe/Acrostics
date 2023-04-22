@@ -1,0 +1,362 @@
+{
+    "answer": "[T]rees under attack pump out insecticides to save their lives. ... [T]rees a little way off, untouched by the invading swarms, ramp up their own defenses... . The... trees... are signaling. They\u2019re linked together in an airborne network... .",
+    "author": "Richard Powers,",
+    "authorCell": [
+        169,
+        137,
+        15,
+        82,
+        39,
+        108,
+        8,
+        101,
+        109,
+        175,
+        106,
+        129,
+        97,
+        42,
+        76,
+        44,
+        168,
+        40,
+        115,
+        46,
+        38,
+        52,
+        176,
+        159,
+        66
+    ],
+    "source": "The Overstory",
+    "clues": {
+        "A": {
+            "cells": [
+                169,
+                4,
+                62,
+                99,
+                143,
+                119
+            ],
+            "answer": "Relays",
+            "hint": "Four-legged events on a track"
+        },
+        "B": {
+            "cells": [
+                137,
+                174,
+                68,
+                160,
+                91,
+                18,
+                2,
+                34,
+                51
+            ],
+            "answer": "It figures",
+            "hint": "\u201cThat\u2019s hardly surprising\u201d (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                15,
+                105,
+                50,
+                127,
+                156,
+                172,
+                70,
+                140
+            ],
+            "answer": "Chestnut",
+            "hint": "Hoary joke, story or riddle"
+        },
+        "D": {
+            "cells": [
+                82,
+                135,
+                64,
+                152,
+                121,
+                21,
+                95,
+                7,
+                173
+            ],
+            "answer": "Hawthorne",
+            "hint": "Author of the collection \u201cTwice-Told Tales\u201d"
+        },
+        "E": {
+            "cells": [
+                39,
+                92,
+                141,
+                65,
+                170,
+                123,
+                24
+            ],
+            "answer": "Ashanti",
+            "hint": "Singer named for an African kingdom"
+        },
+        "F": {
+            "cells": [
+                108,
+                155,
+                35,
+                142,
+                124,
+                49,
+                3
+            ],
+            "answer": "Reserve",
+            "hint": "Tract set aside as a wilderness"
+        },
+        "G": {
+            "cells": [
+                8,
+                73,
+                93,
+                111,
+                41,
+                128,
+                56,
+                23
+            ],
+            "answer": "Down East",
+            "hint": "Monthly subtitled \u201cThe Magazine of Maine\u201d (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                101,
+                130,
+                164,
+                75,
+                43,
+                147,
+                31,
+                16
+            ],
+            "answer": "Peachick",
+            "hint": "Hatchling of a showy fowl"
+        },
+        "I": {
+            "cells": [
+                109,
+                17,
+                32,
+                138,
+                54
+            ],
+            "answer": "Opine",
+            "hint": "Let one\u2019s views be known"
+        },
+        "J": {
+            "cells": [
+                175,
+                158,
+                12,
+                114,
+                55,
+                145,
+                81
+            ],
+            "answer": "Wet feet",
+            "hint": "Saturated roots in a grove (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                106,
+                167,
+                14,
+                80
+            ],
+            "answer": "EBay",
+            "hint": "Marketplace founded by Pierre Omidyar"
+        },
+        "L": {
+            "cells": [
+                129,
+                87,
+                107,
+                163
+            ],
+            "answer": "\"Rain\"",
+            "hint": "Song on the flip side of \u201cPaperback Writer\u201d"
+        },
+        "M": {
+            "cells": [
+                97,
+                77,
+                161,
+                1,
+                48,
+                118,
+                134,
+                29
+            ],
+            "answer": "Sentient",
+            "hint": "Conscious and perceptive"
+        },
+        "N": {
+            "cells": [
+                42,
+                157,
+                84,
+                71,
+                139,
+                22,
+                100
+            ],
+            "answer": "Thingum",
+            "hint": "Doodad"
+        },
+        "O": {
+            "cells": [
+                76,
+                153,
+                103,
+                178,
+                89,
+                25,
+                131
+            ],
+            "answer": "Hopkins",
+            "hint": "Gerard Manley ____ (poet who wrote \u201cBinsey Poplars\u201d)"
+        },
+        "P": {
+            "cells": [
+                44,
+                58,
+                88,
+                126,
+                144,
+                28,
+                11,
+                166,
+                113
+            ],
+            "answer": "Eldercare",
+            "hint": "Assistance for senior citizens"
+        },
+        "Q": {
+            "cells": [
+                168,
+                57,
+                149,
+                74,
+                19
+            ],
+            "answer": "Oakum",
+            "hint": "Tarred fiber used for caulking"
+        },
+        "R": {
+            "cells": [
+                40,
+                150,
+                165,
+                85,
+                63,
+                112
+            ],
+            "answer": "Veined",
+            "hint": "Like leaves or marble"
+        },
+        "S": {
+            "cells": [
+                115,
+                136,
+                96,
+                171,
+                53,
+                69,
+                6,
+                151,
+                33
+            ],
+            "answer": "Elmer Fudd",
+            "hint": "Nimrod with rhotacism (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                46,
+                102,
+                79,
+                122,
+                148,
+                26
+            ],
+            "answer": "Rubens",
+            "hint": "Painter of \u201cThe Rainbow Landscape\u201d"
+        },
+        "U": {
+            "cells": [
+                38,
+                162,
+                20,
+                59,
+                83,
+                116,
+                104
+            ],
+            "answer": "Sapient",
+            "hint": "Wise and insightful"
+        },
+        "V": {
+            "cells": [
+                52,
+                67,
+                13,
+                36,
+                125,
+                177
+            ],
+            "answer": "Totter",
+            "hint": "Presage the cry of \u201cTimber!\u201d"
+        },
+        "W": {
+            "cells": [
+                176,
+                146,
+                132,
+                86,
+                27,
+                98,
+                72,
+                110,
+                45,
+                5,
+                60
+            ],
+            "answer": "Oliver Twist",
+            "hint": "Novel character born in a workhouse (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                159,
+                37,
+                61,
+                120,
+                9,
+                90
+            ],
+            "answer": "Rotten",
+            "hint": "\u201c____ wood cannot be carved\u201d (Confucius)"
+        },
+        "Y": {
+            "cells": [
+                66,
+                133,
+                154,
+                78,
+                10,
+                94,
+                117,
+                30,
+                47
+            ],
+            "answer": "Yggdrasil",
+            "hint": "Branched wonder of Norse mythology"
+        }
+    }
+}

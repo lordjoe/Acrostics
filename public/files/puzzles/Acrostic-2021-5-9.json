@@ -1,0 +1,375 @@
+{
+    "answer": "[H]unter-gatherers... are known for being fiercely egalitarian and going to great lengths to downplay competition and forestall ruptures in the social fabric,... shunning... those who behave in stingy, boastful, or antisocial ways.",
+    "author": "Sarah B(laffer) Hrdy,",
+    "authorCell": [
+        184,
+        171,
+        14,
+        182,
+        140,
+        27,
+        132,
+        111,
+        75,
+        183,
+        85,
+        141,
+        156,
+        71,
+        112,
+        17,
+        72,
+        81,
+        137,
+        53,
+        25,
+        88,
+        1,
+        18,
+        170,
+        155
+    ],
+    "source": "Mothers and Others",
+    "clues": {
+        "A": {
+            "cells": [
+                184,
+                146,
+                124,
+                76,
+                29,
+                164,
+                102
+            ],
+            "answer": "Soloist",
+            "hint": "Musical center of attention"
+        },
+        "B": {
+            "cells": [
+                171,
+                158,
+                109,
+                136,
+                31,
+                60,
+                3,
+                87
+            ],
+            "answer": "Antigone",
+            "hint": "Jocasta\u2019s daughter and granddaughter"
+        },
+        "C": {
+            "cells": [
+                14,
+                40,
+                69,
+                153,
+                97,
+                139
+            ],
+            "answer": "Regift",
+            "hint": "Unload a white elephant, say"
+        },
+        "D": {
+            "cells": [
+                182,
+                6,
+                36,
+                65,
+                21,
+                79,
+                145,
+                122,
+                168,
+                100
+            ],
+            "answer": "Arctophile",
+            "hint": "Fancy term for a collector of teddy bears"
+        },
+        "E": {
+            "cells": [
+                140,
+                51,
+                66,
+                121,
+                160,
+                176,
+                95
+            ],
+            "answer": "Halcyon",
+            "hint": "Idyllic, calm and blissful"
+        },
+        "F": {
+            "cells": [
+                27,
+                47,
+                13,
+                103,
+                116,
+                149
+            ],
+            "answer": "Breath",
+            "hint": "Something a sprinter may be out of"
+        },
+        "G": {
+            "cells": [
+                132,
+                148,
+                35,
+                15,
+                83,
+                117,
+                67,
+                180
+            ],
+            "answer": "Herschel",
+            "hint": "Caroline ____, discoverer of eight comets"
+        },
+        "H": {
+            "cells": [
+                111,
+                133,
+                50,
+                84,
+                24,
+                166
+            ],
+            "answer": "Run off",
+            "hint": "Leave in a hurry; chase away (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                75,
+                2,
+                105,
+                130,
+                37,
+                165
+            ],
+            "answer": "Dulcet",
+            "hint": "Pleasing to the ear, harmonious"
+        },
+        "J": {
+            "cells": [
+                183,
+                64,
+                93,
+                41
+            ],
+            "answer": "Yang",
+            "hint": "Sunny side of a circular symbol"
+        },
+        "K": {
+            "cells": [
+                85,
+                163,
+                128,
+                54,
+                34
+            ],
+            "answer": "Marge",
+            "hint": "Matriarch on \u201cThe Simpsons\u201d"
+        },
+        "L": {
+            "cells": [
+                141,
+                167,
+                73,
+                104,
+                42,
+                22
+            ],
+            "answer": "Outlaw",
+            "hint": "Ma Barker or Belle Starr, e.g."
+        },
+        "M": {
+            "cells": [
+                156,
+                110,
+                7,
+                92,
+                125,
+                181,
+                46,
+                62
+            ],
+            "answer": "Tug of war",
+            "hint": "Yank-based team activity (3 wds.)"
+        },
+        "N": {
+            "cells": [
+                71,
+                107,
+                147,
+                12,
+                48,
+                175
+            ],
+            "answer": "Hubris",
+            "hint": "Unwarranted pride"
+        },
+        "O": {
+            "cells": [
+                112,
+                58,
+                162,
+                9,
+                26,
+                129,
+                86
+            ],
+            "answer": "Ego trip",
+            "hint": "Something a big head may be on (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                17,
+                49,
+                91,
+                68,
+                161,
+                120,
+                144
+            ],
+            "answer": "\"Rainbow\"",
+            "hint": "Grammy-nominated Kesha album of 2017"
+        },
+        "Q": {
+            "cells": [
+                72,
+                43,
+                114,
+                138,
+                10,
+                90
+            ],
+            "answer": "Slight",
+            "hint": "Rebuff, snub, affront"
+        },
+        "R": {
+            "cells": [
+                81,
+                23,
+                177,
+                63,
+                142,
+                4,
+                106,
+                123,
+                38
+            ],
+            "answer": "Ancestral",
+            "hint": "Connected by deep roots"
+        },
+        "S": {
+            "cells": [
+                137,
+                89,
+                20,
+                118,
+                70,
+                169,
+                32,
+                56,
+                151,
+                5
+            ],
+            "answer": "Nine to five",
+            "hint": "Workaday span (3 wds.)"
+        },
+        "T": {
+            "cells": [
+                53,
+                16,
+                99,
+                77,
+                178,
+                154
+            ],
+            "answer": "Darwin",
+            "hint": "Capital of Australia\u2019s Northern Territory"
+        },
+        "U": {
+            "cells": [
+                25,
+                127,
+                101,
+                59,
+                174,
+                78,
+                150,
+                45,
+                11
+            ],
+            "answer": "Obstinate",
+            "hint": "Headstrong, unyielding"
+        },
+        "V": {
+            "cells": [
+                88,
+                152,
+                172,
+                113,
+                33,
+                55,
+                135
+            ],
+            "answer": "Tension",
+            "hint": "Psychological or physical strain"
+        },
+        "W": {
+            "cells": [
+                1,
+                143,
+                96,
+                74,
+                30,
+                157,
+                119,
+                173
+            ],
+            "answer": "Hedonist",
+            "hint": "Sybarite, pleasure seeker"
+        },
+        "X": {
+            "cells": [
+                18,
+                57,
+                98,
+                80,
+                179,
+                159,
+                126,
+                39
+            ],
+            "answer": "\"Enola Gay\"",
+            "hint": "Noted W.W. II bomber named for its pilot\u2019s mom (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                170,
+                94,
+                134,
+                19,
+                44,
+                115,
+                61
+            ],
+            "answer": "Ranking",
+            "hint": "Position on a scale, status"
+        },
+        "Z": {
+            "cells": [
+                155,
+                82,
+                52,
+                8,
+                108,
+                131,
+                28
+            ],
+            "answer": "Synapse",
+            "hint": "Spot where a passing impulse may occur"
+        }
+    }
+}

@@ -1,0 +1,362 @@
+{
+    "answer": "\u201cHow can a three-pound mass of jelly... imagine angels, contemplate... infinity, and... question its... place in the cosmos? ... With the arrival of humans ... the universe has... become conscious of itself. This... is the greatest mystery of all.\u201d",
+    "author": "V.S. Ramachandran,",
+    "authorCell": [
+        99,
+        176,
+        88,
+        19,
+        42,
+        1,
+        98,
+        81,
+        17,
+        100,
+        31,
+        34,
+        8,
+        97,
+        177,
+        104,
+        163,
+        125,
+        40,
+        147,
+        127,
+        121,
+        50,
+        72,
+        57
+    ],
+    "source": "(The) Tell-Tale Brain",
+    "clues": {
+        "A": {
+            "cells": [
+                99,
+                43,
+                15,
+                158
+            ],
+            "answer": "Roue",
+            "hint": "Rake, but not the kind with prongs"
+        },
+        "B": {
+            "cells": [
+                176,
+                102,
+                58,
+                32,
+                6,
+                86,
+                135
+            ],
+            "answer": "Avignon",
+            "hint": "City on the Rhone with medieval ramparts"
+        },
+        "C": {
+            "cells": [
+                88,
+                5,
+                24,
+                123,
+                141,
+                59,
+                173
+            ],
+            "answer": "Majesty",
+            "hint": "Royal bearing; splendor"
+        },
+        "D": {
+            "cells": [
+                19,
+                148,
+                33,
+                64,
+                116,
+                134,
+                51
+            ],
+            "answer": "Aliquot",
+            "hint": "Denoting an exact factor, in math"
+        },
+        "E": {
+            "cells": [
+                42,
+                107,
+                138,
+                156,
+                78,
+                124,
+                7,
+                170
+            ],
+            "answer": "Chitchat",
+            "hint": "Schmoozers\u2019 exchange"
+        },
+        "F": {
+            "cells": [
+                1,
+                101,
+                172,
+                21,
+                140,
+                45,
+                120
+            ],
+            "answer": "Hirsute",
+            "hint": "More than a little hairy"
+        },
+        "G": {
+            "cells": [
+                98,
+                3,
+                25,
+                153,
+                70,
+                167,
+                132
+            ],
+            "answer": "Awesome",
+            "hint": "Stunning"
+        },
+        "H": {
+            "cells": [
+                81,
+                22,
+                166,
+                133,
+                151,
+                39,
+                67
+            ],
+            "answer": "Notches",
+            "hint": "Features in denticulation"
+        },
+        "I": {
+            "cells": [
+                17,
+                52,
+                68,
+                35,
+                4,
+                95,
+                154,
+                119,
+                171
+            ],
+            "answer": "Detective",
+            "hint": "Typical figure in a noir drama"
+        },
+        "J": {
+            "cells": [
+                100,
+                69,
+                48,
+                14,
+                175,
+                149,
+                122
+            ],
+            "answer": "Ripoffs",
+            "hint": "Bad deals"
+        },
+        "K": {
+            "cells": [
+                31,
+                109,
+                13,
+                76,
+                92,
+                143,
+                60
+            ],
+            "answer": "Amplify",
+            "hint": "Explain more completely"
+        },
+        "L": {
+            "cells": [
+                34,
+                46,
+                142,
+                117,
+                61,
+                93,
+                79
+            ],
+            "answer": "Neonate",
+            "hint": "Very recent delivery"
+        },
+        "M": {
+            "cells": [
+                8,
+                83,
+                162,
+                27,
+                103,
+                47,
+                65,
+                146
+            ],
+            "answer": "Thalamus",
+            "hint": "Ovoid lump of gray matter"
+        },
+        "N": {
+            "cells": [
+                97,
+                37,
+                63,
+                130,
+                10,
+                75,
+                157,
+                144,
+                111,
+                169
+            ],
+            "answer": "Endorphins",
+            "hint": "Hormones that reduce the sensation of pain"
+        },
+        "O": {
+            "cells": [
+                177,
+                115,
+                36,
+                71,
+                150,
+                2
+            ],
+            "answer": "Lean-to",
+            "hint": "Something having only one pitch (hyph.)"
+        },
+        "P": {
+            "cells": [
+                104,
+                56,
+                165,
+                82,
+                126
+            ],
+            "answer": "Lists",
+            "hint": "Fenced-off area for jousting knights"
+        },
+        "Q": {
+            "cells": [
+                163,
+                53,
+                30,
+                11,
+                178,
+                84,
+                136,
+                112
+            ],
+            "answer": "Timeless",
+            "hint": "Good for all ages"
+        },
+        "R": {
+            "cells": [
+                125,
+                62,
+                110,
+                26,
+                89,
+                38,
+                168
+            ],
+            "answer": "Analogy",
+            "hint": "Comparison involving colons"
+        },
+        "S": {
+            "cells": [
+                40,
+                139,
+                105,
+                16,
+                80,
+                66,
+                155
+            ],
+            "answer": "Loonies",
+            "hint": "What could fatten a Canadian coin purse"
+        },
+        "T": {
+            "cells": [
+                147,
+                106,
+                55,
+                164,
+                85,
+                73,
+                20
+            ],
+            "answer": "Effects",
+            "hint": "Personal stuff"
+        },
+        "U": {
+            "cells": [
+                127,
+                49,
+                174,
+                91,
+                23,
+                152,
+                74,
+                9
+            ],
+            "answer": "Blowfish",
+            "hint": "Saltwater catch that puffs up when in danger"
+        },
+        "V": {
+            "cells": [
+                121,
+                77,
+                108,
+                44,
+                137,
+                94,
+                28
+            ],
+            "answer": "Raunchy",
+            "hint": "Like an obscene joke"
+        },
+        "W": {
+            "cells": [
+                50,
+                18,
+                114,
+                128,
+                160,
+                87,
+                145
+            ],
+            "answer": "Amherst",
+            "hint": "Member of the Five College Consortium"
+        },
+        "X": {
+            "cells": [
+                72,
+                113,
+                129,
+                96,
+                29,
+                54,
+                159
+            ],
+            "answer": "Itching",
+            "hint": "Affected by a practical joker\u2019s powder"
+        },
+        "Y": {
+            "cells": [
+                57,
+                161,
+                131,
+                12,
+                41,
+                118,
+                90
+            ],
+            "answer": "Nemesis",
+            "hint": "Greek goddess of retributive justice"
+        }
+    }
+}

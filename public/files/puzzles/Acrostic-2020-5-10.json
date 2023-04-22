@@ -1,0 +1,342 @@
+{
+    "answer": "An Internet video of a... monkey cracking nuts with stones will get far fewer hits than one of a buffalo herd driving lions away from a calf... . We identify with the calf... and are delighted by the reunion with its mother.",
+    "author": "Frans de Waal,",
+    "authorCell": [
+        103,
+        85,
+        68,
+        21,
+        166,
+        115,
+        154,
+        47,
+        1,
+        75,
+        141,
+        19,
+        130,
+        167,
+        107,
+        46,
+        110,
+        109,
+        41,
+        53,
+        151,
+        34,
+        51
+    ],
+    "source": "Mama's Last Hug",
+    "clues": {
+        "A": {
+            "cells": [
+                103,
+                43,
+                65,
+                162,
+                138,
+                7
+            ],
+            "answer": "Foster",
+            "hint": "Act as a parent to; nurture"
+        },
+        "B": {
+            "cells": [
+                85,
+                58,
+                165,
+                127,
+                142,
+                71,
+                29
+            ],
+            "answer": "Rethink",
+            "hint": "Consider in a different light"
+        },
+        "C": {
+            "cells": [
+                68,
+                54,
+                120,
+                140,
+                28,
+                169,
+                12,
+                96,
+                156
+            ],
+            "answer": "Affection",
+            "hint": "Fond feelings, tenderness"
+        },
+        "D": {
+            "cells": [
+                21,
+                91,
+                74,
+                131,
+                170,
+                6,
+                38,
+                106
+            ],
+            "answer": "Niflheim",
+            "hint": "Cold and misty underworld of Norse myth"
+        },
+        "E": {
+            "cells": [
+                166,
+                150,
+                136,
+                56,
+                116,
+                13,
+                73,
+                37,
+                97
+            ],
+            "answer": "Stare down",
+            "hint": "Cow with piercing vision (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                115,
+                77,
+                52,
+                134,
+                33,
+                99
+            ],
+            "answer": "Duenna",
+            "hint": "Chica-minding matron"
+        },
+        "G": {
+            "cells": [
+                154,
+                92,
+                42,
+                59,
+                114,
+                2,
+                23,
+                135
+            ],
+            "answer": "Entwined",
+            "hint": "Wrapped in a tight embrace"
+        },
+        "H": {
+            "cells": [
+                47,
+                20,
+                8,
+                139,
+                72,
+                172,
+                111,
+                155,
+                94
+            ],
+            "answer": "\"Wonderful\"",
+            "hint": "Song from \u201cWicked,\u201d or, when doubled, a 1957 Johnny Mathis song"
+        },
+        "I": {
+            "cells": [
+                1,
+                49,
+                76,
+                104,
+                30,
+                143,
+                62,
+                124
+            ],
+            "answer": "Albright",
+            "hint": "Secretary of state preceding Powell"
+        },
+        "J": {
+            "cells": [
+                75,
+                145,
+                40,
+                160,
+                55,
+                88,
+                118
+            ],
+            "answer": "Athwart",
+            "hint": "In opposition to; contradictorily"
+        },
+        "K": {
+            "cells": [
+                141,
+                101,
+                121,
+                16,
+                79,
+                57
+            ],
+            "answer": "Lay off",
+            "hint": "\u201cCut that out!\u201d (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                19,
+                105,
+                117,
+                39,
+                133,
+                93,
+                152
+            ],
+            "answer": "Montage",
+            "hint": "Sequence of shots in film editing"
+        },
+        "M": {
+            "cells": [
+                130,
+                61,
+                5,
+                95,
+                108,
+                163,
+                82,
+                22,
+                45
+            ],
+            "answer": "Artichoke",
+            "hint": "The \u201cspring\u201d topping on a \u201cfour seasons\u201d pizza"
+        },
+        "N": {
+            "cells": [
+                167,
+                63,
+                147,
+                100,
+                119,
+                17,
+                84
+            ],
+            "answer": "Midwife",
+            "hint": "Expert in delivery methods"
+        },
+        "O": {
+            "cells": [
+                107,
+                11,
+                48,
+                86,
+                157,
+                126,
+                24
+            ],
+            "answer": "Avidity",
+            "hint": "Enthusiasm, zeal, fervor"
+        },
+        "P": {
+            "cells": [
+                46,
+                89,
+                31,
+                159,
+                60,
+                137
+            ],
+            "answer": "Sinner",
+            "hint": "Candidate for redemption"
+        },
+        "Q": {
+            "cells": [
+                110,
+                14,
+                98,
+                70,
+                35,
+                144,
+                158
+            ],
+            "answer": "Lesotho",
+            "hint": "Inspiration for the country of Wakanda in \u201cBlack Panther\u201d"
+        },
+        "R": {
+            "cells": [
+                109,
+                78,
+                64,
+                171,
+                153,
+                32,
+                50,
+                15,
+                122
+            ],
+            "answer": "Afterglow",
+            "hint": "Warm feeling following a success"
+        },
+        "S": {
+            "cells": [
+                41,
+                27,
+                81,
+                123,
+                69,
+                9
+            ],
+            "answer": "Saline",
+            "hint": "Like tears or ocean water"
+        },
+        "T": {
+            "cells": [
+                53,
+                83,
+                26,
+                161,
+                132,
+                10,
+                149
+            ],
+            "answer": "Thrifty",
+            "hint": "Sister of Dollar, with Hertz as parent"
+        },
+        "U": {
+            "cells": [
+                151,
+                102,
+                80,
+                25,
+                164,
+                44,
+                66,
+                125
+            ],
+            "answer": "Hyacinth",
+            "hint": "Flower named for a prince loved by Apollo"
+        },
+        "V": {
+            "cells": [
+                34,
+                4,
+                148,
+                168,
+                112,
+                128,
+                87
+            ],
+            "answer": "\"Unbowed\"",
+            "hint": "2006 memoir by Peace Nobelist Wangari Maathai"
+        },
+        "W": {
+            "cells": [
+                51,
+                3,
+                90,
+                146,
+                129,
+                67,
+                18,
+                36,
+                113
+            ],
+            "answer": "Give chase",
+            "hint": "Engage in hot pursuit (2 wds.)"
+        }
+    }
+}

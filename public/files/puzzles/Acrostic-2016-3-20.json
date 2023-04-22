@@ -1,0 +1,334 @@
+{
+    "answer": "Why is an acrobat like a horse?... [A] monosyllabic sound used by Neolithic farmers... to signify something quick... or piercing... was ak and it has survived into English... in... acute... acrostic... acerbic... acrimony... equine and equestrian.",
+    "author": "Christopher Stevens,",
+    "authorCell": [
+        67,
+        107,
+        160,
+        116,
+        62,
+        70,
+        23,
+        1,
+        139,
+        80,
+        78,
+        54,
+        117,
+        49,
+        150,
+        7,
+        38,
+        142,
+        21,
+        41,
+        18
+    ],
+    "source": "Written in Stone",
+    "clues": {
+        "A": {
+            "cells": [
+                67,
+                51,
+                35,
+                148,
+                106,
+                83,
+                171,
+                123,
+                14
+            ],
+            "answer": "Sobriquet",
+            "hint": "\u201cThe Say Hey Kid\u201d for Willie Mays, e.g."
+        },
+        "B": {
+            "cells": [
+                107,
+                77,
+                34,
+                90,
+                152,
+                22,
+                174,
+                48
+            ],
+            "answer": "Tea party",
+            "hint": "Act of defiance by the Sons of Liberty (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                160,
+                145,
+                63,
+                103,
+                9,
+                129,
+                172
+            ],
+            "answer": "Earache",
+            "hint": "Problem in a canal?"
+        },
+        "D": {
+            "cells": [
+                116,
+                68,
+                144,
+                92,
+                5,
+                161,
+                40,
+                25,
+                105
+            ],
+            "answer": "Vice squad",
+            "hint": "Police unit for busting pimps and pushers (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                62,
+                126,
+                101,
+                143,
+                28,
+                45,
+                76,
+                166,
+                3
+            ],
+            "answer": "Elaine May",
+            "hint": "Writer of the script for \u201cThe Birdcage\u201d (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                70,
+                132,
+                114,
+                176,
+                146,
+                43,
+                32,
+                19,
+                89
+            ],
+            "answer": "Navicular",
+            "hint": "Human bone that resembles a small boat"
+        },
+        "G": {
+            "cells": [
+                23,
+                163,
+                60,
+                136,
+                120,
+                74
+            ],
+            "answer": "Sirens",
+            "hint": "Noises heard during a chase scene"
+        },
+        "H": {
+            "cells": [
+                1,
+                71,
+                128,
+                169,
+                151,
+                113,
+                59,
+                86,
+                17,
+                30
+            ],
+            "answer": "Wisecracks",
+            "hint": "Class clown\u2019s remarks"
+        },
+        "I": {
+            "cells": [
+                139,
+                99,
+                119,
+                81,
+                159,
+                46,
+                13,
+                31,
+                173
+            ],
+            "answer": "Rainy days",
+            "hint": "Downers for the Carpenters in 1971 (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                80,
+                167,
+                110,
+                39,
+                61,
+                124,
+                95,
+                137,
+                153
+            ],
+            "answer": "Insomniac",
+            "hint": "One too often up and not often enough out"
+        },
+        "K": {
+            "cells": [
+                78,
+                112,
+                10,
+                170,
+                134,
+                27,
+                56,
+                44,
+                147
+            ],
+            "answer": "Turquoise",
+            "hint": "Stone in the dome of many a mosque"
+        },
+        "L": {
+            "cells": [
+                54,
+                29,
+                149,
+                11,
+                97,
+                82,
+                109,
+                131
+            ],
+            "answer": "Toboggan",
+            "hint": "Item for wintertime fun"
+        },
+        "M": {
+            "cells": [
+                117,
+                47,
+                12,
+                135,
+                85,
+                168,
+                24
+            ],
+            "answer": "Ebb tide",
+            "hint": "A drop in the ocean? (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                49,
+                88,
+                141,
+                26,
+                122,
+                102,
+                4,
+                158,
+                69
+            ],
+            "answer": "No smoking",
+            "hint": "Meaning of one of the icons over an airplane seat (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                150,
+                57,
+                15,
+                177,
+                162,
+                42,
+                130,
+                84,
+                100
+            ],
+            "answer": "\"I, Claudius\"",
+            "hint": "Novel narrated by an emperor (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                7,
+                115,
+                94,
+                20,
+                75,
+                33,
+                64,
+                140,
+                164
+            ],
+            "answer": "Nicholson",
+            "hint": "Male actor with the most Academy Award nominations (12)"
+        },
+        "Q": {
+            "cells": [
+                38,
+                121,
+                16,
+                58,
+                72,
+                104,
+                165,
+                133,
+                87
+            ],
+            "answer": "Stiff neck",
+            "hint": "Impediment to looking back (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                142,
+                55,
+                155,
+                96,
+                8,
+                127,
+                175
+            ],
+            "answer": "Thin air",
+            "hint": "Condition at 30,000 feet (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                21,
+                52,
+                91,
+                125,
+                6,
+                154,
+                37,
+                108,
+                73
+            ],
+            "answer": "Oligarchy",
+            "hint": "Government by a small group"
+        },
+        "T": {
+            "cells": [
+                41,
+                157,
+                98,
+                65,
+                2,
+                53,
+                111
+            ],
+            "answer": "Now this",
+            "hint": "Transitional phrase from a news anchor (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                18,
+                138,
+                79,
+                36,
+                178,
+                66,
+                118,
+                50,
+                93,
+                156
+            ],
+            "answer": "Echinoderm",
+            "hint": "Sand dollar, sea cucumber or starfish"
+        }
+    }
+}

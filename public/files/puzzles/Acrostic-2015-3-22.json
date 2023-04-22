@@ -1,0 +1,354 @@
+{
+    "answer": "A lightly boned... corset... is... very easy... to wear, more comfortable, in my opinion, than... underwired bras of the twenty-first century. ... [I]t is hard to achieve more compression than is produced by the shapewear currently on sale... .",
+    "author": "Ruth Goodman,",
+    "authorCell": [
+        4,
+        125,
+        112,
+        148,
+        36,
+        78,
+        88,
+        63,
+        37,
+        159,
+        135,
+        143,
+        149,
+        177,
+        108,
+        118,
+        105,
+        114,
+        30,
+        41,
+        73,
+        116,
+        27,
+        67
+    ],
+    "source": "How to be a Victorian",
+    "clues": {
+        "A": {
+            "cells": [
+                4,
+                31,
+                62,
+                115,
+                92,
+                146
+            ],
+            "answer": "Gothic",
+            "hint": "Like Stoker\u2019s \u201cDracula\u201d or Shelley\u2019s \u201cFrankenstein\u201d"
+        },
+        "B": {
+            "cells": [
+                125,
+                35,
+                64,
+                96,
+                145,
+                49,
+                161,
+                16
+            ],
+            "answer": "Oracular",
+            "hint": "Giving cryptic clues about the future"
+        },
+        "C": {
+            "cells": [
+                112,
+                58,
+                170,
+                132,
+                9,
+                84,
+                142,
+                46,
+                25
+            ],
+            "answer": "\"On Liberty\"",
+            "hint": "Influential 1859 work by John Stuart Mill (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                148,
+                165,
+                50,
+                28,
+                131
+            ],
+            "answer": "Dress",
+            "hint": "Subject of certain codes"
+        },
+        "E": {
+            "cells": [
+                36,
+                150,
+                124,
+                101,
+                10,
+                81,
+                169
+            ],
+            "answer": "Mycroft",
+            "hint": "Brilliant but lethargic brother of Sherlock Holmes"
+        },
+        "F": {
+            "cells": [
+                78,
+                162,
+                94,
+                15,
+                61
+            ],
+            "answer": "Arson",
+            "hint": "A case of faulty ignition?"
+        },
+        "G": {
+            "cells": [
+                88,
+                74,
+                56,
+                26,
+                173,
+                104,
+                5,
+                39
+            ],
+            "answer": "Nepenthe",
+            "hint": "Remedy for grief, per Greek myth"
+        },
+        "H": {
+            "cells": [
+                63,
+                8,
+                157,
+                107,
+                23,
+                134,
+                79
+            ],
+            "answer": "Hyphens",
+            "hint": "Up-to-the-minute things?"
+        },
+        "I": {
+            "cells": [
+                37,
+                141,
+                72,
+                164,
+                126,
+                86,
+                1,
+                109,
+                21
+            ],
+            "answer": "Opium Wars",
+            "hint": "Anglo-Chinese strife of the 1800s (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                159,
+                136,
+                59,
+                17,
+                82,
+                176,
+                33,
+                122
+            ],
+            "answer": "Whistler",
+            "hint": "\u201cArrangement in Grey and Black No. 1\u201d artist"
+        },
+        "K": {
+            "cells": [
+                135,
+                45,
+                60,
+                100,
+                174,
+                12,
+                77,
+                154
+            ],
+            "answer": "Trousers",
+            "hint": "Where flies are typically found"
+        },
+        "L": {
+            "cells": [
+                143,
+                48,
+                130,
+                111,
+                166,
+                66,
+                14,
+                95
+            ],
+            "answer": "Obstruct",
+            "hint": "Hamper the progress of"
+        },
+        "M": {
+            "cells": [
+                149,
+                121,
+                32,
+                54,
+                167,
+                93
+            ],
+            "answer": "Bowyer",
+            "hint": "Supplier of archery gear"
+        },
+        "N": {
+            "cells": [
+                177,
+                144,
+                71,
+                156,
+                38,
+                13,
+                57,
+                113,
+                98
+            ],
+            "answer": "Edwardian",
+            "hint": "Like the era after the one evoked in this puzzle"
+        },
+        "O": {
+            "cells": [
+                108,
+                53,
+                127,
+                18,
+                70,
+                87
+            ],
+            "answer": "Ampere",
+            "hint": "Eponymous physicist André-Marie"
+        },
+        "P": {
+            "cells": [
+                118,
+                47,
+                11,
+                139,
+                151,
+                102
+            ],
+            "answer": "Vanity",
+            "hint": "Cabinet with an inset washbowl"
+        },
+        "Q": {
+            "cells": [
+                105,
+                75,
+                123,
+                138,
+                89,
+                20,
+                43,
+                171
+            ],
+            "answer": "Identify",
+            "hint": "Psychologically connect (with)"
+        },
+        "R": {
+            "cells": [
+                114,
+                80,
+                29,
+                172,
+                99,
+                153
+            ],
+            "answer": "Coyote",
+            "hint": "Trickster in Native American folklore"
+        },
+        "S": {
+            "cells": [
+                30,
+                155,
+                103,
+                42,
+                76,
+                7,
+                117,
+                140
+            ],
+            "answer": "Thimbles",
+            "hint": "Monopoly tokens with dimples"
+        },
+        "T": {
+            "cells": [
+                41,
+                22,
+                158,
+                128,
+                83,
+                97,
+                175,
+                68
+            ],
+            "answer": "Overhead",
+            "hint": "Factor in the budget for a roofing company?"
+        },
+        "U": {
+            "cells": [
+                73,
+                160,
+                91,
+                55,
+                24,
+                120,
+                137,
+                40,
+                6
+            ],
+            "answer": "Reform Act",
+            "hint": "Parliamentary law affecting voting (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                116,
+                133,
+                2,
+                34,
+                52,
+                19,
+                152,
+                69
+            ],
+            "answer": "\"Iolanthe\"",
+            "hint": "Gilbert and Sullivan opera featuring the Queen of the Fairies"
+        },
+        "W": {
+            "cells": [
+                27,
+                65,
+                44,
+                110,
+                90,
+                168,
+                129
+            ],
+            "answer": "Anodyne",
+            "hint": "Drug that brings pain relief"
+        },
+        "X": {
+            "cells": [
+                67,
+                3,
+                163,
+                119,
+                85,
+                51,
+                147,
+                106
+            ],
+            "answer": "Niceties",
+            "hint": "Subtle distinctions"
+        }
+    }
+}

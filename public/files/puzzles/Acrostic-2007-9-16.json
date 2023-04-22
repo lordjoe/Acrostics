@@ -1,0 +1,371 @@
+{
+    "answer": "[E]lectrons do not move in clear-cut orbits like... celestial bodies. ... [T]hey dance, and the atom is a ballroom. They perform stately waltzes, weave curvaceous tangos, jitter in spasmodic quicksteps, and rock to frenetic rhythms.",
+    "author": "[Edward] Harrison,",
+    "authorCell": [
+        67,
+        97,
+        93,
+        90,
+        149,
+        156,
+        128,
+        12,
+        142,
+        77,
+        180,
+        151,
+        152,
+        49,
+        166,
+        28,
+        85,
+        62,
+        122,
+        169,
+        36,
+        112,
+        42,
+        174,
+        9,
+        99
+    ],
+    "source": "Masks Of The Universe",
+    "clues": {
+        "A": {
+            "cells": [
+                67,
+                92,
+                35,
+                141,
+                164
+            ],
+            "answer": "Holst",
+            "hint": "Composer of \u201cThe Planets\u201d"
+        },
+        "B": {
+            "cells": [
+                97,
+                123,
+                176,
+                83,
+                139,
+                14,
+                161,
+                66,
+                40
+            ],
+            "answer": "Asymptote",
+            "hint": "Graph line showing another line\u2019s limits"
+        },
+        "C": {
+            "cells": [
+                93,
+                24,
+                72,
+                130,
+                113,
+                153
+            ],
+            "answer": "Ramjet",
+            "hint": "Engine used to propel missiles"
+        },
+        "D": {
+            "cells": [
+                90,
+                51,
+                121,
+                177,
+                69,
+                150,
+                33
+            ],
+            "answer": "Riot Act",
+            "hint": "English law regarding disturbing the peace, repealed in 1973 (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                149,
+                34,
+                82,
+                104,
+                50,
+                170
+            ],
+            "answer": "Isolde",
+            "hint": "Title role for a Wagnerian soprano"
+        },
+        "F": {
+            "cells": [
+                156,
+                55,
+                38,
+                10,
+                133,
+                89,
+                111,
+                167,
+                74
+            ],
+            "answer": "Shed tears",
+            "hint": "Break down, in a way (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                128,
+                148,
+                171,
+                61,
+                30,
+                87
+            ],
+            "answer": "Outcry",
+            "hint": "Vociferously negative reaction"
+        },
+        "H": {
+            "cells": [
+                12,
+                157,
+                48,
+                32,
+                129,
+                173,
+                71
+            ],
+            "answer": "Nabisco",
+            "hint": "Maker of Mallomars and Chips Ahoy!"
+        },
+        "I": {
+            "cells": [
+                142,
+                86,
+                39,
+                175,
+                125,
+                8,
+                73,
+                106,
+                23,
+                58
+            ],
+            "answer": "Mechanized",
+            "hint": "Like clockwork, e.g."
+        },
+        "J": {
+            "cells": [
+                77,
+                31,
+                53,
+                103,
+                2,
+                143,
+                15
+            ],
+            "answer": "Absalom",
+            "hint": "Treacherous but lamented son of David"
+        },
+        "K": {
+            "cells": [
+                180,
+                3,
+                98,
+                76,
+                140,
+                114,
+                163
+            ],
+            "answer": "Setback",
+            "hint": "Change for the worse"
+        },
+        "L": {
+            "cells": [
+                151,
+                1,
+                88,
+                132,
+                109,
+                59,
+                70,
+                21,
+                178
+            ],
+            "answer": "Kept watch",
+            "hint": "Acted as a sentinel (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                152,
+                172,
+                41,
+                18,
+                95,
+                131,
+                75
+            ],
+            "answer": "Silesia",
+            "hint": "Coal-producing region of Poland"
+        },
+        "N": {
+            "cells": [
+                49,
+                20,
+                117,
+                145,
+                168,
+                102
+            ],
+            "answer": "On view",
+            "hint": "Available to be seen (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                166,
+                25,
+                45,
+                5,
+                124,
+                107,
+                80
+            ],
+            "answer": "Fritter",
+            "hint": "Doughy carnival treat"
+        },
+        "P": {
+            "cells": [
+                28,
+                57,
+                108,
+                13,
+                126
+            ],
+            "answer": "Tyson",
+            "hint": "Troubled heavyweight champ of the 1980s"
+        },
+        "Q": {
+            "cells": [
+                85,
+                46,
+                22,
+                146,
+                101,
+                7,
+                64
+            ],
+            "answer": "Halcyon",
+            "hint": "Serene and tranquil; glorious"
+        },
+        "R": {
+            "cells": [
+                62,
+                118,
+                6,
+                47,
+                144,
+                165,
+                94
+            ],
+            "answer": "Earldom",
+            "hint": "Avon or Inverness, e.g."
+        },
+        "S": {
+            "cells": [
+                122,
+                137,
+                54,
+                29,
+                100,
+                159
+            ],
+            "answer": "Untold",
+            "hint": "Not revealed, incalculable"
+        },
+        "T": {
+            "cells": [
+                169,
+                19,
+                119,
+                37,
+                154,
+                79
+            ],
+            "answer": "Nickel",
+            "hint": "Ferromagnetic metal mined near Riddle, Ore."
+        },
+        "U": {
+            "cells": [
+                36,
+                60,
+                91,
+                16,
+                135,
+                162,
+                110
+            ],
+            "answer": "In force",
+            "hint": "Active, as a law; en masse (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                112,
+                134,
+                160,
+                17,
+                56
+            ],
+            "answer": "Verve",
+            "hint": "Jazz record label since 1956"
+        },
+        "W": {
+            "cells": [
+                42,
+                138,
+                26,
+                11,
+                116,
+                84
+            ],
+            "answer": "Escort",
+            "hint": "Ford model replaced by the Focus"
+        },
+        "X": {
+            "cells": [
+                174,
+                120,
+                96,
+                136,
+                4,
+                68,
+                158,
+                44
+            ],
+            "answer": "Reticent",
+            "hint": "Slow to speak, close-mouthed"
+        },
+        "Y": {
+            "cells": [
+                9,
+                179,
+                27,
+                65,
+                127,
+                52,
+                155,
+                81,
+                105
+            ],
+            "answer": "Smudge pot",
+            "hint": "Frost protection in a citrus grove (2 wds.)"
+        },
+        "Z": {
+            "cells": [
+                99,
+                147,
+                115,
+                63,
+                78,
+                43
+            ],
+            "answer": "Equals",
+            "hint": "Matches or ties; peers"
+        }
+    }
+}

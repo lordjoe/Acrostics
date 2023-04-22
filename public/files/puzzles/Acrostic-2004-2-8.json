@@ -1,0 +1,341 @@
+{
+    "answer": "My teacher... tells me... every scale has a shape/ and I have to learn to hold/ each... in my hands./ I practice with my eyes closed./ C is an open book./ D is a vase with two handles./ G flat is a black boot./ E has the legs of a bird.",
+    "author": "Billy Collins,",
+    "authorCell": [
+        161,
+        61,
+        132,
+        46,
+        86,
+        74,
+        158,
+        154,
+        127,
+        39,
+        50,
+        31,
+        71,
+        76,
+        124,
+        67,
+        52,
+        55,
+        43,
+        97,
+        69,
+        100,
+        37,
+        88
+    ],
+    "source": "Piano Lessons",
+    "clues": {
+        "A": {
+            "cells": [
+                161,
+                137,
+                95,
+                27
+            ],
+            "answer": "Bach",
+            "hint": "\u201cMagnificat\u201d composer"
+        },
+        "B": {
+            "cells": [
+                61,
+                77,
+                96,
+                6,
+                25,
+                47,
+                114
+            ],
+            "answer": "Icicles",
+            "hint": "What Nabokov called \u201csvelte stilettos of a frozen stillicide\u201d"
+        },
+        "C": {
+            "cells": [
+                132,
+                36,
+                121,
+                83,
+                5,
+                62
+            ],
+            "answer": "Lawman",
+            "hint": "Marshal, sheriff or constable"
+        },
+        "D": {
+            "cells": [
+                46,
+                144,
+                112,
+                8,
+                90,
+                135,
+                159,
+                26
+            ],
+            "answer": "Love life",
+            "hint": "Romantic pursuits (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                86,
+                35,
+                22,
+                75,
+                155,
+                49,
+                126,
+                140,
+                2
+            ],
+            "answer": "\u201cYesterday\"",
+            "hint": "Sad song first recorded on June 14, 1965"
+        },
+        "F": {
+            "cells": [
+                74,
+                53,
+                91,
+                34,
+                129,
+                118,
+                162,
+                141,
+                107,
+                14
+            ],
+            "answer": "\"Chopsticks\"",
+            "hint": "Musical piece typically played with two fingers"
+        },
+        "G": {
+            "cells": [
+                158,
+                142,
+                12,
+                73,
+                119,
+                54,
+                1,
+                30
+            ],
+            "answer": "\"Oklahoma\"",
+            "hint": "Show including the song \u201cI Cain\u2019t Say No\u201d"
+        },
+        "H": {
+            "cells": [
+                154,
+                84,
+                20,
+                70,
+                59,
+                110
+            ],
+            "answer": "Lyrics",
+            "hint": "Specialty of W. S. Gilbert of Gilbert and Sullivan"
+        },
+        "I": {
+            "cells": [
+                127,
+                153,
+                23,
+                7,
+                78,
+                163,
+                64
+            ],
+            "answer": "Lechery",
+            "hint": "Roue\u2019s less-than-noble quality"
+        },
+        "J": {
+            "cells": [
+                39,
+                103,
+                123,
+                11,
+                149,
+                81
+            ],
+            "answer": "In heat",
+            "hint": "Filled with animalistic ardor (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                50,
+                122,
+                106,
+                68,
+                13,
+                85,
+                164
+            ],
+            "answer": "Noodled",
+            "hint": "Messed around instrumentally"
+        },
+        "L": {
+            "cells": [
+                31,
+                65,
+                105,
+                116,
+                94,
+                145,
+                79,
+                125
+            ],
+            "answer": "Showdown",
+            "hint": "Gun duel at high noon, for example"
+        },
+        "M": {
+            "cells": [
+                71,
+                98,
+                134,
+                89,
+                40,
+                17,
+                150
+            ],
+            "answer": "Patches",
+            "hint": "Garden plots; electrical connections; pieces of cloth with military insignia"
+        },
+        "N": {
+            "cells": [
+                76,
+                63,
+                101,
+                9,
+                45,
+                18,
+                109,
+                92,
+                128
+            ],
+            "answer": "Improvise",
+            "hint": "Ignore the score?"
+        },
+        "O": {
+            "cells": [
+                124,
+                139,
+                33,
+                104,
+                48,
+                15,
+                66
+            ],
+            "answer": "Alabama",
+            "hint": "Group with the #1 country hit \u201cLove in the First Degree\u201d"
+        },
+        "P": {
+            "cells": [
+                67,
+                113,
+                138,
+                160,
+                3,
+                57,
+                41
+            ],
+            "answer": "Nabatea",
+            "hint": "Ancient Arab kingdom whose capital was Petra"
+        },
+        "Q": {
+            "cells": [
+                52,
+                108,
+                87,
+                151,
+                136
+            ],
+            "answer": "Odets",
+            "hint": "\u201cAwake and Sing!\u201d dramatist, 1935"
+        },
+        "R": {
+            "cells": [
+                55,
+                16,
+                133,
+                38
+            ],
+            "answer": "Lead",
+            "hint": "Start of a trick"
+        },
+        "S": {
+            "cells": [
+                43,
+                117,
+                156,
+                60,
+                146,
+                21,
+                93,
+                80,
+                130,
+                32,
+                10
+            ],
+            "answer": "Eighty-eight",
+            "hint": "Key count for the author of this puzzle\u2019s quotation (hyph.)"
+        },
+        "T": {
+            "cells": [
+                97,
+                24,
+                56,
+                147
+            ],
+            "answer": "Sade",
+            "hint": "Female soloist with the multiplatinum albums \u201cDiamond Life\u201d and \u201cPromise\u201d"
+        },
+        "U": {
+            "cells": [
+                69,
+                152,
+                111,
+                131,
+                51
+            ],
+            "answer": "\"Shaft\u201d",
+            "hint": "1971 Oscar-winning song with the line \u201cShut your mouth!\u201d"
+        },
+        "V": {
+            "cells": [
+                100,
+                143,
+                42,
+                19,
+                72,
+                157,
+                115
+            ],
+            "answer": "Obverse",
+            "hint": "Side of a coin that bears the principal stamp"
+        },
+        "W": {
+            "cells": [
+                37,
+                58,
+                120,
+                82,
+                28,
+                99
+            ],
+            "answer": "Nathan",
+            "hint": "Detroit of \u201cGuys and Dolls\u201d"
+        },
+        "X": {
+            "cells": [
+                88,
+                148,
+                4,
+                102,
+                44,
+                29
+            ],
+            "answer": "Sheets",
+            "hint": "Quire members"
+        }
+    }
+}

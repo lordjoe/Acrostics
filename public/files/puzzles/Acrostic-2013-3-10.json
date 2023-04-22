@@ -1,0 +1,362 @@
+{
+    "answer": "Not losing time has been my permanent concern since I was three years old, when it dawned on me that time is the warp of life, its very fabric, something that you cannot buy, trade, steal, falsify, or obtain by begging.",
+    "author": "(Nina) Berberova,",
+    "authorCell": [
+        163,
+        63,
+        37,
+        165,
+        166,
+        156,
+        73,
+        103,
+        146,
+        80,
+        49,
+        18,
+        152,
+        144,
+        27,
+        150,
+        169,
+        129,
+        47,
+        55,
+        25,
+        116,
+        21,
+        85,
+        38,
+        24
+    ],
+    "source": "The Italics Are Mine",
+    "clues": {
+        "A": {
+            "cells": [
+                163,
+                84,
+                22,
+                133,
+                70,
+                112,
+                43
+            ],
+            "answer": "Beyonce",
+            "hint": "Singer of the 2006 hit \u201cDeja Vu\u201d"
+        },
+        "B": {
+            "cells": [
+                63,
+                3,
+                42,
+                88,
+                100,
+                20,
+                121
+            ],
+            "answer": "Etching",
+            "hint": "Goya\u2019s \u201cThe Sleep of Reason Produces Monsters,\u201d e.g."
+        },
+        "C": {
+            "cells": [
+                37,
+                13,
+                86,
+                122,
+                153,
+                136,
+                59
+            ],
+            "answer": "Restful",
+            "hint": "Conducive to meditation"
+        },
+        "D": {
+            "cells": [
+                165,
+                58,
+                90,
+                148,
+                11,
+                132
+            ],
+            "answer": "Bowfin",
+            "hint": "Fish also called a swamp bass"
+        },
+        "E": {
+            "cells": [
+                166,
+                138,
+                78,
+                29,
+                56,
+                1,
+                99,
+                117
+            ],
+            "answer": "Ethernet",
+            "hint": "Sort of computer connection"
+        },
+        "F": {
+            "cells": [
+                156,
+                36,
+                60,
+                110,
+                15,
+                95,
+                77
+            ],
+            "answer": "Redraft",
+            "hint": "Take from the top, as a letter"
+        },
+        "G": {
+            "cells": [
+                73,
+                17,
+                145,
+                57,
+                119,
+                101,
+                164
+            ],
+            "answer": "Obesity",
+            "hint": "Attribute of most Nauru natives"
+        },
+        "H": {
+            "cells": [
+                103,
+                54,
+                32,
+                87,
+                155,
+                139
+            ],
+            "answer": "Vector",
+            "hint": "Flight path; pollinating agent"
+        },
+        "I": {
+            "cells": [
+                146,
+                170,
+                125,
+                40,
+                62,
+                19,
+                92,
+                2
+            ],
+            "answer": "Antihero",
+            "hint": "Character like Tony Soprano or Gordon Gekko"
+        },
+        "J": {
+            "cells": [
+                80,
+                7,
+                23,
+                143,
+                106
+            ],
+            "answer": "Tipsy",
+            "hint": "Feeling a bit of a buzz"
+        },
+        "K": {
+            "cells": [
+                49,
+                68,
+                83,
+                16,
+                31,
+                142,
+                105
+            ],
+            "answer": "Hamster",
+            "hint": "Spinning wheel operator?"
+        },
+        "L": {
+            "cells": [
+                18,
+                41,
+                141,
+                114,
+                69
+            ],
+            "answer": "Endow",
+            "hint": "Provide backing for, as a chair"
+        },
+        "M": {
+            "cells": [
+                152,
+                28,
+                102,
+                82,
+                48,
+                128
+            ],
+            "answer": "In situ",
+            "hint": "How the Great Sphinx was carved (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                144,
+                94,
+                64,
+                44,
+                171,
+                123,
+                10
+            ],
+            "answer": "\u201cTonight\u201d",
+            "hint": "\u201cWest Side Story\u201d duet for Tony and Maria"
+        },
+        "O": {
+            "cells": [
+                27,
+                109,
+                50,
+                71,
+                149,
+                6,
+                134
+            ],
+            "answer": "Abreast",
+            "hint": "Aware (of); side by side"
+        },
+        "P": {
+            "cells": [
+                150,
+                5,
+                45,
+                104,
+                131,
+                67
+            ],
+            "answer": "Low-end",
+            "hint": "Entry-level; budget (hyph.)"
+        },
+        "Q": {
+            "cells": [
+                169,
+                74,
+                98,
+                46,
+                26,
+                126
+            ],
+            "answer": "Infamy",
+            "hint": "Extreme disrepute"
+        },
+        "R": {
+            "cells": [
+                129,
+                14,
+                111,
+                66,
+                161,
+                30
+            ],
+            "answer": "Chitin",
+            "hint": "Main component of an octopus\u2019s beak"
+        },
+        "S": {
+            "cells": [
+                47,
+                160,
+                75,
+                33,
+                113,
+                91
+            ],
+            "answer": "Samosa",
+            "hint": "Triangle often served with chutney"
+        },
+        "T": {
+            "cells": [
+                55,
+                96,
+                135,
+                79,
+                120,
+                154
+            ],
+            "answer": "Albany",
+            "hint": "Terminus for a steamboat line started in 1807"
+        },
+        "U": {
+            "cells": [
+                25,
+                108,
+                168,
+                72,
+                127,
+                4,
+                147
+            ],
+            "answer": "Ragdoll",
+            "hint": "Cat breed known for going limp when picked up"
+        },
+        "V": {
+            "cells": [
+                116,
+                93,
+                157,
+                34,
+                53,
+                12
+            ],
+            "answer": "Eponym",
+            "hint": "Atlas or Calliope of Greek myth"
+        },
+        "W": {
+            "cells": [
+                21,
+                130,
+                8,
+                65,
+                107,
+                89,
+                39,
+                159
+            ],
+            "answer": "Manifest",
+            "hint": "Tally of cargo and passengers"
+        },
+        "X": {
+            "cells": [
+                85,
+                35,
+                51,
+                158,
+                124,
+                9
+            ],
+            "answer": "Ice bag",
+            "hint": "Application for minimizing a mouse (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                38,
+                76,
+                61,
+                115,
+                140,
+                162
+            ],
+            "answer": "Newman",
+            "hint": "Seinfeld\u2019s \u201cpure evil\u201d neighbor"
+        },
+        "Z": {
+            "cells": [
+                24,
+                137,
+                52,
+                151,
+                97,
+                167,
+                118,
+                81
+            ],
+            "answer": "Eyesight",
+            "hint": "Faculty assessed by means of a Snellen chart"
+        }
+    }
+}

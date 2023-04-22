@@ -1,0 +1,339 @@
+{
+    "answer": "[Kafka\u2018s] writing is that of someone whose... life was spent in apartments, with lifts, stairwells, muffled voices behind closed doors, and sounds through walls. Put him in a... detached villa and he\u2019d never have written a word.",
+    "author": "Alan Bennett,",
+    "authorCell": [
+        48,
+        125,
+        39,
+        12,
+        90,
+        33,
+        108,
+        135,
+        91,
+        52,
+        56,
+        165,
+        71,
+        86,
+        168,
+        93,
+        94,
+        121,
+        61,
+        98,
+        53,
+        88
+    ],
+    "source": "Writing Home",
+    "clues": {
+        "A": {
+            "cells": [
+                48,
+                79,
+                3,
+                63,
+                118,
+                24,
+                159,
+                101
+            ],
+            "answer": "Affirmed",
+            "hint": "Triple Crown winner of 1978"
+        },
+        "B": {
+            "cells": [
+                125,
+                85,
+                102,
+                37,
+                67,
+                16,
+                149,
+                166
+            ],
+            "answer": "Lodestar",
+            "hint": "Polaris, to navigators"
+        },
+        "C": {
+            "cells": [
+                39,
+                72,
+                89,
+                153,
+                129,
+                96,
+                4,
+                115
+            ],
+            "answer": "Aw-shucks",
+            "hint": "Affecting a down-home sort of modesty (hyph.)"
+        },
+        "D": {
+            "cells": [
+                12,
+                107,
+                132,
+                148,
+                83,
+                174,
+                29,
+                156
+            ],
+            "answer": "Nail down",
+            "hint": "Get a firm grip on; finalize (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                90,
+                172,
+                44,
+                32,
+                122,
+                138,
+                154,
+                66
+            ],
+            "answer": "Banshees",
+            "hint": "Noisy and portentous Irish apparitions"
+        },
+        "F": {
+            "cells": [
+                33,
+                95,
+                77,
+                120,
+                171,
+                155,
+                134,
+                14
+            ],
+            "answer": "Edmund II",
+            "hint": "King of England known as \u201cIronside\u201d (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                108,
+                157,
+                38,
+                15,
+                87,
+                136,
+                6,
+                60
+            ],
+            "answer": "Newscast",
+            "hint": "Where an anchor may be seen"
+        },
+        "H": {
+            "cells": [
+                135,
+                18,
+                116,
+                78,
+                51,
+                150,
+                62,
+                40
+            ],
+            "answer": "Naturals",
+            "hint": "Seven and eleven, in craps"
+        },
+        "I": {
+            "cells": [
+                91,
+                163,
+                9,
+                34,
+                20,
+                133,
+                73,
+                47
+            ],
+            "answer": "Evil omen",
+            "hint": "A black cat or a broken mirror, e.g. (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                52,
+                11,
+                68,
+                167,
+                84,
+                140,
+                130,
+                25
+            ],
+            "answer": "Titivate",
+            "hint": "Spiff up, make dapper"
+        },
+        "K": {
+            "cells": [
+                56,
+                7,
+                143,
+                81,
+                64,
+                169,
+                117,
+                22
+            ],
+            "answer": "Twelfths",
+            "hint": "Divisions on an analog clock"
+        },
+        "L": {
+            "cells": [
+                165,
+                46,
+                139,
+                17,
+                152,
+                105,
+                69,
+                123
+            ],
+            "answer": "Withdraw",
+            "hint": "Retract; disengage"
+        },
+        "M": {
+            "cells": [
+                71,
+                54,
+                137,
+                106,
+                92,
+                124,
+                27,
+                1
+            ],
+            "answer": "Redshank",
+            "hint": "Old World shorebird with colored legs"
+        },
+        "N": {
+            "cells": [
+                86,
+                144,
+                74,
+                164,
+                55,
+                28,
+                127,
+                41
+            ],
+            "answer": "Idleness",
+            "hint": "\u201c___ is the heaviest of all oppressions\u201d (Victor Hugo)"
+        },
+        "O": {
+            "cells": [
+                168,
+                142,
+                8,
+                119,
+                58,
+                103,
+                80,
+                36
+            ],
+            "answer": "Throw off",
+            "hint": "Mislead; emit (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                93,
+                151,
+                21,
+                75,
+                50,
+                10,
+                170,
+                114
+            ],
+            "answer": "Inflated",
+            "hint": "Unreasonably high; pompous"
+        },
+        "Q": {
+            "cells": [
+                94,
+                111,
+                160,
+                65,
+                30,
+                49,
+                5,
+                173
+            ],
+            "answer": "Northpaw",
+            "hint": "Right-handed pitcher, jocularly"
+        },
+        "R": {
+            "cells": [
+                121,
+                26,
+                42,
+                97,
+                2,
+                141,
+                82,
+                57
+            ],
+            "answer": "Go places",
+            "hint": "Be successful in life (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                61,
+                146,
+                13,
+                131,
+                109,
+                35,
+                158,
+                100
+            ],
+            "answer": "High dive",
+            "hint": "Tower with a board attached (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                98,
+                126,
+                176,
+                76,
+                23,
+                112,
+                45,
+                161
+            ],
+            "answer": "Old South",
+            "hint": "Dixie, before the Civil War (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                53,
+                104,
+                113,
+                175,
+                31,
+                145,
+                70,
+                162
+            ],
+            "answer": "Monrovia",
+            "hint": "African capital named for a U.S. president"
+        },
+        "V": {
+            "cells": [
+                88,
+                128,
+                59,
+                99,
+                19,
+                147,
+                43,
+                110
+            ],
+            "answer": "Epistles",
+            "hint": "Certain New Testament writings"
+        }
+    }
+}

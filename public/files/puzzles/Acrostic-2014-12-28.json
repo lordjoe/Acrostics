@@ -1,0 +1,321 @@
+{
+    "answer": "[N]eologisms are often just... fun. What\u2019s not to like about a word such as zitcom, a television sitcom aimed at or featuring teenagers? Or consider the torpedo, an inept employee who quits to go work for a rival company.",
+    "author": "Paul McFedries,",
+    "authorCell": [
+        131,
+        164,
+        20,
+        65,
+        168,
+        52,
+        23,
+        133,
+        113,
+        161,
+        80,
+        39,
+        105,
+        141,
+        137,
+        12,
+        83,
+        50,
+        169,
+        138
+    ],
+    "source": "Word Spy",
+    "clues": {
+        "A": {
+            "cells": [
+                131,
+                48,
+                150,
+                90,
+                76,
+                33,
+                112,
+                163,
+                13
+            ],
+            "answer": "Proactive",
+            "hint": "On the case ahead of time"
+        },
+        "B": {
+            "cells": [
+                164,
+                91,
+                26,
+                57,
+                75,
+                44,
+                139,
+                107
+            ],
+            "answer": "Atwitter",
+            "hint": "Buzzing, as social media?"
+        },
+        "C": {
+            "cells": [
+                20,
+                72,
+                7,
+                144,
+                43,
+                103,
+                55,
+                116
+            ],
+            "answer": "Uniquest",
+            "hint": "Most unusual (a word actually in the Scrabble dictionary)"
+        },
+        "D": {
+            "cells": [
+                65,
+                146,
+                6,
+                117,
+                22,
+                88,
+                167,
+                47,
+                34
+            ],
+            "answer": "Light-foot",
+            "hint": "Nanosecond\u2019s rough equivalent (hyph.)"
+        },
+        "E": {
+            "cells": [
+                168,
+                120,
+                77,
+                95,
+                153,
+                11,
+                136,
+                38
+            ],
+            "answer": "Moonwalk",
+            "hint": "1988 Michael Jackson autobiography"
+        },
+        "F": {
+            "cells": [
+                52,
+                152,
+                9,
+                99,
+                84,
+                165,
+                128,
+                67,
+                114
+            ],
+            "answer": "Come alive",
+            "hint": "Get animated (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                23,
+                155,
+                68,
+                123,
+                171,
+                49,
+                36,
+                94,
+                140,
+                111
+            ],
+            "answer": "Friendlies",
+            "hint": "Comrades in arms; exhibition soccer matches"
+        },
+        "H": {
+            "cells": [
+                133,
+                10,
+                162,
+                151,
+                25,
+                79,
+                97,
+                51,
+                115,
+                66
+            ],
+            "answer": "E-signature",
+            "hint": "Endorsement for a paperless office (hyph.)"
+        },
+        "I": {
+            "cells": [
+                113,
+                93,
+                160,
+                15,
+                63,
+                148,
+                81,
+                40,
+                129
+            ],
+            "answer": "Draftsman",
+            "hint": "Guy trained in the use of T-squares and compasses"
+        },
+        "J": {
+            "cells": [
+                161,
+                17,
+                134,
+                71,
+                29,
+                98
+            ],
+            "answer": "Remote",
+            "hint": "Zapper for a couch potato"
+        },
+        "K": {
+            "cells": [
+                80,
+                18,
+                172,
+                32,
+                145,
+                104,
+                157,
+                45,
+                59,
+                130
+            ],
+            "answer": "In-your-face",
+            "hint": "Confrontational, provocative (hyph.)"
+        },
+        "L": {
+            "cells": [
+                39,
+                166,
+                106,
+                132,
+                154,
+                24,
+                87,
+                74,
+                8,
+                61
+            ],
+            "answer": "Ecotourism",
+            "hint": "Major source of income for Nepal and Ecuador"
+        },
+        "M": {
+            "cells": [
+                105,
+                1,
+                54,
+                135,
+                69,
+                27,
+                42,
+                119
+            ],
+            "answer": "Snapshot",
+            "hint": "Item that may be Photoshopped"
+        },
+        "N": {
+            "cells": [
+                141,
+                126,
+                70,
+                58,
+                159,
+                14,
+                110
+            ],
+            "answer": "Waitron",
+            "hint": "Gender-neutral server"
+        },
+        "O": {
+            "cells": [
+                137,
+                122,
+                64,
+                100,
+                41,
+                5,
+                86,
+                156
+            ],
+            "answer": "Open book",
+            "hint": "Person who\u2019s easy to grok (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                12,
+                101,
+                124,
+                46,
+                62,
+                30,
+                147,
+                82
+            ],
+            "answer": "Radwaste",
+            "hint": "Spent nuke materials"
+        },
+        "Q": {
+            "cells": [
+                83,
+                35,
+                96,
+                16,
+                125,
+                109,
+                149,
+                53
+            ],
+            "answer": "Dogtooth",
+            "hint": "Prominent part of a vampire"
+        },
+        "R": {
+            "cells": [
+                50,
+                143,
+                19,
+                3,
+                92,
+                121,
+                31
+            ],
+            "answer": "Sojourn",
+            "hint": "Decide against a staycation, say"
+        },
+        "S": {
+            "cells": [
+                169,
+                158,
+                127,
+                56,
+                37,
+                21,
+                108,
+                142,
+                89,
+                78,
+                2
+            ],
+            "answer": "Ponzi scheme",
+            "hint": "Certain white-collar crime (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                138,
+                60,
+                102,
+                28,
+                4,
+                170,
+                85,
+                118,
+                73
+            ],
+            "answer": "Yogalates",
+            "hint": "Hybrid mind/body fitness regimen"
+        }
+    }
+}

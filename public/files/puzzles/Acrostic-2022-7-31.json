@@ -1,0 +1,341 @@
+{
+    "answer": "Laughter is one of the greatest helps to digestion with which I am acquainted, and the custom prevalent among our forefathers of exciting it at table by jesters and buffoons was founded upon true medical principles.",
+    "author": "(Christoph Wilhelm) Hufeland,",
+    "authorCell": [
+        17,
+        160,
+        106,
+        7,
+        176,
+        59,
+        12,
+        67,
+        77,
+        159,
+        75,
+        122,
+        88,
+        142,
+        4,
+        9,
+        84,
+        114,
+        168,
+        171,
+        139,
+        161
+    ],
+    "source": "(The Art of) Prolonging Life",
+    "clues": {
+        "A": {
+            "cells": [
+                17,
+                133,
+                93,
+                1,
+                37,
+                57,
+                154,
+                110,
+                172
+            ],
+            "answer": "Harlequin",
+            "hint": "Stock figure in commedia dell\u2019arte"
+        },
+        "B": {
+            "cells": [
+                160,
+                30,
+                136,
+                70,
+                86,
+                111
+            ],
+            "answer": "Upbeat",
+            "hint": "Positive, cheery, hopeful"
+        },
+        "C": {
+            "cells": [
+                106,
+                21,
+                167,
+                146,
+                85
+            ],
+            "answer": "Feast",
+            "hint": "Thanksgiving centerpiece"
+        },
+        "D": {
+            "cells": [
+                7,
+                157,
+                74,
+                101,
+                137,
+                178,
+                40,
+                117,
+                25,
+                54
+            ],
+            "answer": "Enthusiasm",
+            "hint": "Hearty support, gusto, zest"
+        },
+        "E": {
+            "cells": [
+                176,
+                63,
+                94,
+                116,
+                41,
+                80,
+                24,
+                8,
+                143
+            ],
+            "answer": "Leftovers",
+            "hint": "Repast redux?"
+        },
+        "F": {
+            "cells": [
+                59,
+                89,
+                129,
+                22,
+                109,
+                174,
+                153
+            ],
+            "answer": "Antacid",
+            "hint": "Stomach-calming preparation"
+        },
+        "G": {
+            "cells": [
+                12,
+                95,
+                118,
+                132,
+                148,
+                76,
+                58,
+                166,
+                46
+            ],
+            "answer": "Not so much",
+            "hint": "Hardly, to the contrary (3 wds.)"
+        },
+        "H": {
+            "cells": [
+                67,
+                83,
+                162,
+                44,
+                126,
+                14,
+                27,
+                113
+            ],
+            "answer": "Demijohn",
+            "hint": "Large vessel for wine or cider"
+        },
+        "I": {
+            "cells": [
+                77,
+                156,
+                32,
+                100,
+                177,
+                131
+            ],
+            "answer": "Potter",
+            "hint": "Ginny Weasley\u2019s married name"
+        },
+        "J": {
+            "cells": [
+                159,
+                52,
+                19,
+                105,
+                82,
+                123,
+                39,
+                6,
+                141
+            ],
+            "answer": "Rigoletto",
+            "hint": "Titular fool in a Verdi opera"
+        },
+        "K": {
+            "cells": [
+                75,
+                138,
+                98,
+                38,
+                56,
+                20,
+                112,
+                175,
+                158
+            ],
+            "answer": "Off-script",
+            "hint": "Ad-libbed, onstage (hyph.)"
+        },
+        "L": {
+            "cells": [
+                122,
+                145,
+                103,
+                64,
+                28,
+                78
+            ],
+            "answer": "Larder",
+            "hint": "Old-fashioned pantry"
+        },
+        "M": {
+            "cells": [
+                88,
+                149,
+                119,
+                43,
+                165,
+                68,
+                31
+            ],
+            "answer": "Outwits",
+            "hint": "Bests à la Till Eulenspiegel of German folklore"
+        },
+        "N": {
+            "cells": [
+                142,
+                115,
+                36,
+                51,
+                16,
+                71,
+                99,
+                169
+            ],
+            "answer": "Nightcap",
+            "hint": "Libation meant to be soporific"
+        },
+        "O": {
+            "cells": [
+                4,
+                170,
+                79,
+                130,
+                61,
+                155,
+                33,
+                47,
+                18,
+                96
+            ],
+            "answer": "Green power",
+            "hint": "Sustainable energy (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                9,
+                42,
+                147,
+                107,
+                173,
+                23,
+                60,
+                91,
+                72,
+                128
+            ],
+            "answer": "Infectious",
+            "hint": "What yawning is said to be"
+        },
+        "Q": {
+            "cells": [
+                84,
+                152,
+                11,
+                34,
+                120,
+                135,
+                55
+            ],
+            "answer": "Neo-Dada",
+            "hint": "Art movement associated with John Cage and Yoko Ono (hyph.)"
+        },
+        "R": {
+            "cells": [
+                114,
+                3,
+                62,
+                15,
+                163,
+                127,
+                29,
+                49,
+                150,
+                90
+            ],
+            "answer": "Gut feeling",
+            "hint": "Intuition, hunch (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                168,
+                92,
+                66,
+                50,
+                5,
+                124,
+                140,
+                108
+            ],
+            "answer": "Lunch box",
+            "hint": "\u201cPaileontology\u201d collectible"
+        },
+        "T": {
+            "cells": [
+                171,
+                134,
+                121,
+                65,
+                151,
+                26,
+                81,
+                104,
+                45,
+                13
+            ],
+            "answer": "In bad taste",
+            "hint": "Vulgar or kitschy (3 wds.)"
+        },
+        "U": {
+            "cells": [
+                139,
+                53,
+                87,
+                35,
+                10,
+                69,
+                102,
+                164
+            ],
+            "answer": "Famished",
+            "hint": "Ready to dig in, and then some"
+        },
+        "V": {
+            "cells": [
+                161,
+                125,
+                97,
+                144,
+                2,
+                73,
+                48
+            ],
+            "answer": "Eyewash",
+            "hint": "Piffle, malarkey, flapdoodle"
+        }
+    }
+}

@@ -1,0 +1,362 @@
+{
+    "answer": "Opium was sold in a solution called laudanum, which cost about the same as a pint of beer. [G]allons of Godfrey\u2019s Cordial, a blend of opium, treacle and spices, were poured down infants\u2019 throats during the nineteenth century.",
+    "author": "Sandra Hempel,",
+    "authorCell": [
+        171,
+        128,
+        57,
+        120,
+        69,
+        18,
+        175,
+        39,
+        167,
+        93,
+        64,
+        147,
+        86,
+        148,
+        163,
+        65,
+        104,
+        110,
+        119,
+        62,
+        17,
+        137,
+        153,
+        126,
+        71
+    ],
+    "source": "The Inheritor's Powder",
+    "clues": {
+        "A": {
+            "cells": [
+                171,
+                22,
+                98,
+                134,
+                80,
+                61,
+                8,
+                151
+            ],
+            "answer": "Holdfast",
+            "hint": "Aquatic plant\u2019s anchoring part"
+        },
+        "B": {
+            "cells": [
+                128,
+                26,
+                112,
+                166,
+                63,
+                79,
+                143
+            ],
+            "answer": "Elation",
+            "hint": "Bliss, euphoria, joy"
+        },
+        "C": {
+            "cells": [
+                57,
+                142,
+                92,
+                23,
+                161,
+                78,
+                124
+            ],
+            "answer": "Madness",
+            "hint": "Insanity"
+        },
+        "D": {
+            "cells": [
+                120,
+                30,
+                90,
+                51,
+                146,
+                13,
+                169,
+                72
+            ],
+            "answer": "Plotting",
+            "hint": "Activity for a cabalist or a navigator"
+        },
+        "E": {
+            "cells": [
+                69,
+                11,
+                36,
+                83,
+                123
+            ],
+            "answer": "Elude",
+            "hint": "Dodge or duck; baffle"
+        },
+        "F": {
+            "cells": [
+                18,
+                111,
+                94,
+                135,
+                2,
+                58,
+                174,
+                43,
+                156,
+                74
+            ],
+            "answer": "Lead pencil",
+            "hint": "No. 2, for example (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                175,
+                59,
+                113,
+                46,
+                84,
+                154,
+                27
+            ],
+            "answer": "Tactful",
+            "hint": "Not apt to ruffle feathers"
+        },
+        "H": {
+            "cells": [
+                39,
+                54,
+                95,
+                139,
+                122,
+                76,
+                162
+            ],
+            "answer": "Helicon",
+            "hint": "Large brass instrument resting on the shoulder"
+        },
+        "I": {
+            "cells": [
+                167,
+                9,
+                129,
+                75,
+                150,
+                100,
+                47,
+                29,
+                115
+            ],
+            "answer": "Esplanade",
+            "hint": "Public walk along a shore"
+        },
+        "J": {
+            "cells": [
+                93,
+                77,
+                24,
+                131,
+                152
+            ],
+            "answer": "Incus",
+            "hint": "Anvil in the middle ear"
+        },
+        "K": {
+            "cells": [
+                64,
+                49,
+                155,
+                108,
+                15,
+                35
+            ],
+            "answer": "Norman",
+            "hint": "Like the invasion of 1066"
+        },
+        "L": {
+            "cells": [
+                147,
+                176,
+                97,
+                127,
+                21,
+                45
+            ],
+            "answer": "Hubris",
+            "hint": "Fatal flaw of many Greek heroes"
+        },
+        "M": {
+            "cells": [
+                86,
+                25,
+                60,
+                165,
+                1,
+                103,
+                141
+            ],
+            "answer": "Ease off",
+            "hint": "Get less intense, let up (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                148,
+                99,
+                118,
+                10,
+                32,
+                68,
+                170
+            ],
+            "answer": "Redoubt",
+            "hint": "Stronghold from which to repel an attack"
+        },
+        "O": {
+            "cells": [
+                163,
+                140,
+                117,
+                102,
+                41,
+                19,
+                82,
+                4,
+                55
+            ],
+            "answer": "Innocuous",
+            "hint": "Safe, harmless, not to be feared"
+        },
+        "P": {
+            "cells": [
+                65,
+                106,
+                81,
+                160,
+                144,
+                125,
+                7,
+                33
+            ],
+            "answer": "Tightwad",
+            "hint": "Frugal sort, unflatteringly"
+        },
+        "Q": {
+            "cells": [
+                104,
+                164,
+                12,
+                40,
+                52
+            ],
+            "answer": "On dit",
+            "hint": "Bit of gossip (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                110,
+                50,
+                138,
+                96,
+                6,
+                31,
+                178
+            ],
+            "answer": "Runaway",
+            "hint": "Out of control; on the lam"
+        },
+        "S": {
+            "cells": [
+                119,
+                89,
+                42,
+                173,
+                5,
+                70,
+                145
+            ],
+            "answer": "Schemes",
+            "hint": "Has some intriguing ideas?"
+        },
+        "T": {
+            "cells": [
+                62,
+                91,
+                149,
+                172,
+                107,
+                132,
+                28
+            ],
+            "answer": "Procure",
+            "hint": "Acquire, pick up, manage to get"
+        },
+        "U": {
+            "cells": [
+                17,
+                130,
+                114,
+                66,
+                158,
+                87
+            ],
+            "answer": "Oology",
+            "hint": "Study of birds\u2019 eggs"
+        },
+        "V": {
+            "cells": [
+                137,
+                3,
+                20,
+                53,
+                101,
+                177,
+                73,
+                38,
+                157
+            ],
+            "answer": "Withdrawn",
+            "hint": "Detached, reserved, shy"
+        },
+        "W": {
+            "cells": [
+                153,
+                121,
+                16,
+                105,
+                85,
+                44,
+                136,
+                67
+            ],
+            "answer": "Disproof",
+            "hint": "Evidence against an assertion"
+        },
+        "X": {
+            "cells": [
+                126,
+                56,
+                109,
+                37,
+                168
+            ],
+            "answer": "Eat me",
+            "hint": "Words on a Wonderland cake (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                71,
+                116,
+                159,
+                88,
+                48,
+                34,
+                14,
+                133
+            ],
+            "answer": "Ratsbane",
+            "hint": "Poison also known as white arsenic"
+        }
+    }
+}

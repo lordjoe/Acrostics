@@ -27,7 +27,8 @@ export class GameState {
 
     theActiveClue: Clue | undefined  = undefined;
 
-    theTimeDisplay: typeof TimerDisplay | undefined = undefined;
+
+    durationSeconds = 0;
 
     private changeListeners: Map<number, Set<RedrawCallback>> = new Map();
 

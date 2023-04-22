@@ -1,0 +1,345 @@
+{
+    "answer": "Mood rings supposedly reflected the wearer\u2019s mood. Blue meant tranquillity; red meant crabbiness; black meant doom. Since the ring actually responded to temperature, no one achieved the ideal \u201cbliss\u201d purple without... a fever.",
+    "author": "Connie Willis,",
+    "authorCell": [
+        85,
+        40,
+        78,
+        50,
+        58,
+        142,
+        170,
+        171,
+        168,
+        114,
+        161,
+        80,
+        75,
+        128,
+        160,
+        83,
+        32,
+        33,
+        62,
+        152,
+        103,
+        166
+    ],
+    "source": "Bellwether",
+    "clues": {
+        "A": {
+            "cells": [
+                85,
+                5,
+                41,
+                56,
+                135,
+                24,
+                110,
+                176,
+                147,
+                163
+            ],
+            "answer": "Croquettes",
+            "hint": "Small, round deep-fried cakes"
+        },
+        "B": {
+            "cells": [
+                40,
+                76,
+                181,
+                61,
+                162,
+                112,
+                138,
+                25,
+                100
+            ],
+            "answer": "Obeisance",
+            "hint": "Gesture of respect, as a bow or curtsy"
+        },
+        "C": {
+            "cells": [
+                78,
+                131,
+                123,
+                4,
+                59,
+                21,
+                109,
+                37,
+                143,
+                178,
+                91
+            ],
+            "answer": "Needlecraft",
+            "hint": "Hobby that has its points"
+        },
+        "D": {
+            "cells": [
+                50,
+                179,
+                150,
+                20,
+                93,
+                116,
+                65,
+                1
+            ],
+            "answer": "Ned Rorem",
+            "hint": "American composer of \u201cAir Music,\u201d 1975 (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                58,
+                95,
+                167,
+                36,
+                125,
+                45,
+                10
+            ],
+            "answer": "Impetus",
+            "hint": "Moving force"
+        },
+        "F": {
+            "cells": [
+                142,
+                106,
+                155,
+                12,
+                74,
+                119,
+                46,
+                53
+            ],
+            "answer": "End paper",
+            "hint": "Folded sheet that gets a pasting (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                170,
+                136,
+                156,
+                81,
+                26,
+                60,
+                146,
+                70,
+                107
+            ],
+            "answer": "Wrestling",
+            "hint": "Ancient pentathlon event"
+        },
+        "H": {
+            "cells": [
+                171,
+                96,
+                23,
+                34,
+                129,
+                157,
+                82,
+                69,
+                122
+            ],
+            "answer": "Islamabad",
+            "hint": "Capital after Karachi"
+        },
+        "I": {
+            "cells": [
+                168,
+                49,
+                17,
+                63,
+                158,
+                111,
+                144,
+                86
+            ],
+            "answer": "Lady Luck",
+            "hint": "Fortune personified (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                114,
+                77,
+                151,
+                30,
+                6,
+                165,
+                39
+            ],
+            "answer": "Lithium",
+            "hint": "Element used to add a red color to fireworks"
+        },
+        "K": {
+            "cells": [
+                161,
+                148,
+                19,
+                44,
+                137,
+                108,
+                8,
+                175,
+                79
+            ],
+            "answer": "Ivy League",
+            "hint": "Brown is one of its elements (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                80,
+                133,
+                121,
+                28,
+                38,
+                52,
+                3,
+                98,
+                169
+            ],
+            "answer": "Sandstone",
+            "hint": "Sedimentary rock"
+        },
+        "M": {
+            "cells": [
+                75,
+                27,
+                88,
+                64
+            ],
+            "answer": "Beer",
+            "hint": "Together with ginger ale, one of two ingredients in a shandygaff"
+        },
+        "N": {
+            "cells": [
+                128,
+                47,
+                67,
+                16,
+                55,
+                101,
+                173,
+                84,
+                113,
+                149,
+                35
+            ],
+            "answer": "Emmenthaler",
+            "hint": "Cheese named for a Swiss valley"
+        },
+        "O": {
+            "cells": [
+                160,
+                14,
+                180,
+                48,
+                90,
+                68,
+                118,
+                134
+            ],
+            "answer": "Love nest",
+            "hint": "Center of affection? (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                83,
+                97,
+                159,
+                105,
+                42,
+                139
+            ],
+            "answer": "Libido",
+            "hint": "Basic form of psychic energy"
+        },
+        "Q": {
+            "cells": [
+                32,
+                177,
+                92,
+                66,
+                18,
+                153
+            ],
+            "answer": "Waddle",
+            "hint": "Not-very-graceful mode of locomotion"
+        },
+        "R": {
+            "cells": [
+                33,
+                127,
+                71,
+                57,
+                43,
+                104,
+                11,
+                172,
+                117
+            ],
+            "answer": "\u201cEt tu Brute\"",
+            "hint": "Famous last words (3 wds.)"
+        },
+        "S": {
+            "cells": [
+                62,
+                145,
+                132,
+                154,
+                22,
+                51,
+                9,
+                102,
+                120,
+                164
+            ],
+            "answer": "Thrift shop",
+            "hint": "Potential source of deals (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                152,
+                174,
+                2,
+                130,
+                124,
+                73,
+                31,
+                54,
+                87,
+                15
+            ],
+            "answer": "\"Hoop Dreams\u201d",
+            "hint": "1994 documentary about youthful athletic aspirations (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                103,
+                141,
+                29,
+                182,
+                94,
+                13,
+                115
+            ],
+            "answer": "Entropy",
+            "hint": "Measure of the information lost in a transmitted message"
+        },
+        "V": {
+            "cells": [
+                166,
+                89,
+                72,
+                99,
+                140,
+                126,
+                7
+            ],
+            "answer": "Raccoon",
+            "hint": "Cousin of the kinkajou, coati and cacomistle"
+        }
+    }
+}

@@ -1,0 +1,365 @@
+{
+    "answer": "As air moves away from the equator it cools and sinks, creating... dry bands around the globe at the subtropics... in two belts, one above and one below the equator. I like to think of the subtropics as Mother Earth\u2019s bikini.",
+    "author": "Cynthia Barnett,",
+    "authorCell": [
+        31,
+        14,
+        173,
+        76,
+        136,
+        152,
+        1,
+        94,
+        164,
+        53,
+        108,
+        95,
+        30,
+        125,
+        28,
+        3,
+        86,
+        57,
+        102,
+        160,
+        128,
+        2,
+        118,
+        62,
+        5,
+        54
+    ],
+    "source": "Rain: A (Natural and Cultural) History",
+    "clues": {
+        "A": {
+            "cells": [
+                31,
+                67,
+                172,
+                50,
+                93,
+                7,
+                131
+            ],
+            "answer": "Chinook",
+            "hint": "Warm wind of the Pacific Northwest"
+        },
+        "B": {
+            "cells": [
+                14,
+                114,
+                162,
+                139,
+                46,
+                79
+            ],
+            "answer": "Yerkes",
+            "hint": "Observatory long associated with the University of Chicago"
+        },
+        "C": {
+            "cells": [
+                173,
+                126,
+                55,
+                34,
+                112,
+                69,
+                155,
+                98
+            ],
+            "answer": "Noble gas",
+            "hint": "Item very rarely combined with others on the table? (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                76,
+                61,
+                40,
+                166,
+                17,
+                100,
+                145
+            ],
+            "answer": "Tritons",
+            "hint": "Mermen of myth"
+        },
+        "E": {
+            "cells": [
+                136,
+                150,
+                70,
+                109,
+                92,
+                11,
+                26,
+                163,
+                45
+            ],
+            "answer": "Hold water",
+            "hint": "Stand up to scrutiny; something sieves can\u2019t do (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                152,
+                10,
+                32,
+                103,
+                47,
+                165
+            ],
+            "answer": "Isobar",
+            "hint": "Line connecting pressure points"
+        },
+        "G": {
+            "cells": [
+                1,
+                23,
+                63,
+                106,
+                38,
+                123,
+                87,
+                142
+            ],
+            "answer": "Aqueduct",
+            "hint": "Infrastructural fluid conduit"
+        },
+        "H": {
+            "cells": [
+                94,
+                149,
+                124,
+                64,
+                44,
+                20
+            ],
+            "answer": "Branch",
+            "hint": "Tributary"
+        },
+        "I": {
+            "cells": [
+                164,
+                73,
+                110,
+                129,
+                49,
+                13,
+                90
+            ],
+            "answer": "Aeolian",
+            "hint": "____ harp (musical instrument played by the wind)"
+        },
+        "J": {
+            "cells": [
+                53,
+                116,
+                153,
+                171,
+                72,
+                33,
+                19,
+                135,
+                99,
+                6
+            ],
+            "answer": "Rock bottom",
+            "hint": "The deepest depth (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                108,
+                161,
+                51,
+                68,
+                8
+            ],
+            "answer": "Negev",
+            "hint": "Desert home to the Arabian oryx"
+        },
+        "L": {
+            "cells": [
+                95,
+                113,
+                169,
+                82,
+                29,
+                52,
+                132
+            ],
+            "answer": "Ebb tide",
+            "hint": "Period of decline (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                30,
+                119,
+                4,
+                83,
+                156,
+                97
+            ],
+            "answer": "Thirst",
+            "hint": "Signal to get a drink"
+        },
+        "N": {
+            "cells": [
+                125,
+                158,
+                84,
+                42,
+                71,
+                141,
+                15
+            ],
+            "answer": "Took off",
+            "hint": "Left on a plane; skipped work (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                28,
+                167,
+                130,
+                111,
+                78
+            ],
+            "answer": "Rhine",
+            "hint": "Feeder of the North Sea"
+        },
+        "P": {
+            "cells": [
+                3,
+                138,
+                48,
+                170,
+                151,
+                104,
+                65,
+                121,
+                88
+            ],
+            "answer": "Antipodes",
+            "hint": "Rio de Janeiro and Tokyo, e.g., approximately"
+        },
+        "Q": {
+            "cells": [
+                86,
+                37,
+                154,
+                22,
+                133
+            ],
+            "answer": "Inset",
+            "hint": "Cartographic detail"
+        },
+        "R": {
+            "cells": [
+                57,
+                134,
+                41,
+                168,
+                148,
+                27,
+                85
+            ],
+            "answer": "Nonstop",
+            "hint": "Having only one leg?"
+        },
+        "S": {
+            "cells": [
+                102,
+                117,
+                56,
+                35,
+                77
+            ],
+            "answer": "Awash",
+            "hint": "Overrun, swamped"
+        },
+        "T": {
+            "cells": [
+                160,
+                144,
+                60,
+                91,
+                12,
+                36,
+                105,
+                120
+            ],
+            "answer": "\"Heat Wave\"",
+            "hint": "Martha & the Vandellas top 10 hit of 1963 (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                128,
+                59,
+                75,
+                143,
+                157,
+                24,
+                39
+            ],
+            "answer": "Isthmus",
+            "hint": "Common site for a canal"
+        },
+        "V": {
+            "cells": [
+                2,
+                140,
+                89,
+                115,
+                159,
+                21,
+                43,
+                66
+            ],
+            "answer": "Soil test",
+            "hint": "Exercise for analytical gardeners (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                118,
+                137,
+                81,
+                101,
+                16
+            ],
+            "answer": "Tiber",
+            "hint": "River through Umbria and Rome"
+        },
+        "X": {
+            "cells": [
+                62,
+                147,
+                96,
+                174,
+                122,
+                80,
+                9
+            ],
+            "answer": "Oblique",
+            "hint": "On a slant; abdominal muscle"
+        },
+        "Y": {
+            "cells": [
+                5,
+                25,
+                58,
+                107,
+                127
+            ],
+            "answer": "Radar",
+            "hint": "Device used to track storms"
+        },
+        "Z": {
+            "cells": [
+                54,
+                146,
+                18,
+                74
+            ],
+            "answer": "Yuma",
+            "hint": "Arizona city with the lowest annual precipitation in the contiguous United States"
+        }
+    }
+}

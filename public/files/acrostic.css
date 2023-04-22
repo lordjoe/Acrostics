@@ -368,7 +368,7 @@
     font-size: .55em
 }
 
-.numbers-on .ax-grid__number, .numbers-on .ax-grid__clue-letter {
+.numbers-on .ax-grid__number, .numbers-on .ax-grid__clue-letterX {
     display: block
 }
 
@@ -376,13 +376,14 @@
     left: 4%
 }
 
-.ax-grid__clue-letter {
+.ax-grid__clue-letterX {
     right: 4%
 }
 
-.checked .ax-grid__clue-letter, .revealed .ax-grid__clue-letter, .modified .ax-grid__clue-letter, .ax-clue-bar .ax-grid__clue-letter {
+.checked .ax-grid__clue-letter, .revealed .ax-grid__clue-letter, .modified .ax-grid__clue-letter, .ax-clue-bar .ax-grid__clue-letterX {
     display: none
 }
+
 
 .ax-grid__cheat-flag {
     position: absolute;
@@ -429,7 +430,7 @@
 }
 
 .clue-list .ax-grid {
-    margin-top: 5px
+    margin-top:  5px
 }
 
 .clue-list .ax-grid__row {
@@ -518,7 +519,7 @@
 .clue-list .clue {
     color: #000;
     display: inline-block;
-    padding-bottom: 25px;
+    padding-bottom: 1px;
     width: 100%
 }
 

@@ -1,0 +1,341 @@
+{
+    "answer": "I found the roads in the same state of perfection in almost all the Eastern ports at which I stopped. I could not decide... whether the smoothness of the road was due to the absence of... New York street commissioners.",
+    "author": "Nellie Bly,",
+    "authorCell": [
+        168,
+        59,
+        86,
+        44,
+        1,
+        9,
+        138,
+        50,
+        149,
+        67,
+        64,
+        123,
+        4,
+        88,
+        87,
+        154,
+        53,
+        147,
+        97,
+        150,
+        155,
+        51,
+        6
+    ],
+    "source": "Around The World (In Seventy-two Day)",
+    "clues": {
+        "A": {
+            "cells": [
+                168,
+                137,
+                125,
+                82,
+                5,
+                28
+            ],
+            "answer": "Nadine",
+            "hint": "Chuck Berry song that repeatedly asks \u201cHoney, is that you?\u201d"
+        },
+        "B": {
+            "cells": [
+                59,
+                48,
+                83,
+                98,
+                21,
+                115,
+                152,
+                32,
+                132,
+                72,
+                8
+            ],
+            "answer": "Etch A Sketch",
+            "hint": "Image maker cited in 2012 politics (3 wds.)"
+        },
+        "C": {
+            "cells": [
+                86,
+                166,
+                141,
+                102,
+                12,
+                33
+            ],
+            "answer": "Linear",
+            "hint": "Logical in a straightforward way"
+        },
+        "D": {
+            "cells": [
+                44,
+                157,
+                84,
+                113,
+                71,
+                129,
+                20
+            ],
+            "answer": "Leonids",
+            "hint": "Nocturnal display each autumn"
+        },
+        "E": {
+            "cells": [
+                1,
+                162,
+                22,
+                109,
+                95,
+                143,
+                57,
+                37
+            ],
+            "answer": "Immodest",
+            "hint": "Forward, as an exhibitionist"
+        },
+        "F": {
+            "cells": [
+                9,
+                108,
+                62,
+                90,
+                74,
+                40,
+                140,
+                153,
+                24
+            ],
+            "answer": "Emptiness",
+            "hint": "Repletion\u2019s opposite"
+        },
+        "G": {
+            "cells": [
+                138,
+                55,
+                96,
+                30,
+                121,
+                43,
+                68,
+                156,
+                10
+            ],
+            "answer": "Beefeater",
+            "hint": "Member of London\u2019s Yeomen Warders"
+        },
+        "H": {
+            "cells": [
+                50,
+                63,
+                110,
+                139,
+                35,
+                80,
+                16,
+                91,
+                171
+            ],
+            "answer": "Loose ends",
+            "hint": "Some unfinished business (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                149,
+                29,
+                130,
+                2,
+                94,
+                60,
+                164,
+                76
+            ],
+            "answer": "You first",
+            "hint": "Comment from one who\u2019s wary ... or polite (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                67,
+                118,
+                34,
+                99,
+                142,
+                52,
+                169,
+                13
+            ],
+            "answer": "Affected",
+            "hint": "Like drinking tea with your pinkie extended, maybe"
+        },
+        "K": {
+            "cells": [
+                64,
+                106,
+                45,
+                160,
+                134,
+                23
+            ],
+            "answer": "Remote",
+            "hint": "Item common on coffee tables"
+        },
+        "L": {
+            "cells": [
+                123,
+                79,
+                100,
+                15,
+                161,
+                49
+            ],
+            "answer": "Optima",
+            "hint": "Kia\u2019s counterpart to Hyundai\u2019s Sonata"
+        },
+        "M": {
+            "cells": [
+                4,
+                146,
+                36,
+                133,
+                85,
+                119,
+                105
+            ],
+            "answer": "Uncouth",
+            "hint": "Lacking social polish"
+        },
+        "N": {
+            "cells": [
+                88,
+                26,
+                122,
+                151,
+                167,
+                69
+            ],
+            "answer": "Narrow",
+            "hint": "Cramped; prejudiced"
+        },
+        "O": {
+            "cells": [
+                87,
+                103,
+                3,
+                31,
+                47,
+                120,
+                144,
+                158
+            ],
+            "answer": "Drop shot",
+            "hint": "Stroke that\u2019s facilitated by \u201csoft hands\u201d (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                154,
+                126,
+                54,
+                114,
+                7,
+                75
+            ],
+            "answer": "Tweets",
+            "hint": "Bulletins of the last decade"
+        },
+        "Q": {
+            "cells": [
+                53,
+                77,
+                27,
+                145,
+                11,
+                89,
+                111
+            ],
+            "answer": "Hotfoot",
+            "hint": "Practical joke that can leave one hopping mad?"
+        },
+        "R": {
+            "cells": [
+                147,
+                104,
+                73,
+                56,
+                42,
+                131
+            ],
+            "answer": "Ethane",
+            "hint": "Gaseous hydrocarbon"
+        },
+        "S": {
+            "cells": [
+                97,
+                70,
+                117,
+                165,
+                148,
+                135,
+                39
+            ],
+            "answer": "Who\u2019s who",
+            "hint": "Group of prominent people (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                150,
+                61,
+                92,
+                18,
+                46,
+                170,
+                116,
+                136
+            ],
+            "answer": "One-horse",
+            "hint": "Descriptive of a small town (hyph.)"
+        },
+        "U": {
+            "cells": [
+                155,
+                19,
+                128,
+                38,
+                107,
+                58
+            ],
+            "answer": "Resist",
+            "hint": "Don\u2019t take lying down"
+        },
+        "V": {
+            "cells": [
+                51,
+                127,
+                14,
+                65,
+                81,
+                163,
+                25,
+                93,
+                112
+            ],
+            "answer": "Last-ditch",
+            "hint": "Extremely desperate (hyph.)"
+        },
+        "W": {
+            "cells": [
+                6,
+                41,
+                66,
+                78,
+                124,
+                17,
+                159,
+                101
+            ],
+            "answer": "Dispatch",
+            "hint": "Speed; off"
+        }
+    }
+}

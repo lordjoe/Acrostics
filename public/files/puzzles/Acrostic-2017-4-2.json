@@ -1,0 +1,355 @@
+{
+    "answer": "Like Doctor Frankenstein, [Zamenhof] took the \u201cdismembered\u201d parts of other languages and created a new being entirely. It must have been a lonely venture, being the sole speaker of a language yet to be put before the world.",
+    "author": "Esther Schor,",
+    "authorCell": [
+        26,
+        53,
+        91,
+        172,
+        161,
+        51,
+        133,
+        73,
+        58,
+        144,
+        74,
+        44,
+        93,
+        97,
+        178,
+        88,
+        82,
+        6,
+        55,
+        83,
+        33,
+        169,
+        79,
+        18
+    ],
+    "source": "Bridge of Words",
+    "clues": {
+        "A": {
+            "cells": [
+                26,
+                69,
+                162,
+                126,
+                143,
+                111,
+                90,
+                52,
+                9
+            ],
+            "answer": "Esperanto",
+            "hint": "Invention described in the 1887 book \u201cUnua Libro\u201d (and the subject of this puzzle\u2019s quotation)"
+        },
+        "B": {
+            "cells": [
+                53,
+                65,
+                110,
+                84,
+                32,
+                149,
+                128,
+                16,
+                164
+            ],
+            "answer": "Sunbonnet",
+            "hint": "Quaint headwear with a large brim"
+        },
+        "C": {
+            "cells": [
+                91,
+                122,
+                150,
+                165,
+                56,
+                104,
+                31
+            ],
+            "answer": "Tugboat",
+            "hint": "Harbor vessel"
+        },
+        "D": {
+            "cells": [
+                172,
+                66,
+                155,
+                41,
+                140,
+                15,
+                85,
+                123
+            ],
+            "answer": "Haymaker",
+            "hint": "Going-for-a-knockout blow"
+        },
+        "E": {
+            "cells": [
+                161,
+                23,
+                68,
+                141,
+                92,
+                47,
+                177
+            ],
+            "answer": "Ezekiel",
+            "hint": "Prophet\u2019s book of seven visions"
+        },
+        "F": {
+            "cells": [
+                51,
+                175,
+                100,
+                67,
+                28,
+                135,
+                117
+            ],
+            "answer": "Roughly",
+            "hint": "As a ballpark figure"
+        },
+        "G": {
+            "cells": [
+                133,
+                24,
+                145,
+                109,
+                158,
+                96,
+                81,
+                42,
+                8
+            ],
+            "answer": "Safety net",
+            "hint": "Guard against disaster (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                73,
+                103,
+                4,
+                136,
+                34,
+                160,
+                54,
+                87,
+                119
+            ],
+            "answer": "Cheekbone",
+            "hint": "Where to find your zygoma"
+        },
+        "I": {
+            "cells": [
+                58,
+                134,
+                40,
+                80,
+                22,
+                120,
+                152
+            ],
+            "answer": "Hosanna",
+            "hint": "Cry of adoration or acclamation"
+        },
+        "J": {
+            "cells": [
+                144,
+                2,
+                17,
+                121,
+                43,
+                94,
+                63,
+                77
+            ],
+            "answer": "Ointment",
+            "hint": "Bad place for a fly, it\u2019s said"
+        },
+        "K": {
+            "cells": [
+                74,
+                89,
+                48,
+                157,
+                13,
+                138,
+                108
+            ],
+            "answer": "Red tape",
+            "hint": "Hoops to jump through before action is taken (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                44,
+                70,
+                12,
+                102,
+                154,
+                176
+            ],
+            "answer": "Barter",
+            "hint": "Negotiate a trade agreement?"
+        },
+        "M": {
+            "cells": [
+                93,
+                39,
+                125,
+                7,
+                76,
+                153,
+                173
+            ],
+            "answer": "Rib cage",
+            "hint": "Chest protector (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                97,
+                114,
+                167,
+                61,
+                148,
+                25,
+                132,
+                38
+            ],
+            "answer": "Inflamed",
+            "hint": "Made more angry or intense"
+        },
+        "O": {
+            "cells": [
+                178,
+                159,
+                19,
+                131,
+                46,
+                146,
+                3,
+                86
+            ],
+            "answer": "Dothraki",
+            "hint": "People and lingo of \u201cGame of Thrones\u201d"
+        },
+        "P": {
+            "cells": [
+                88,
+                29,
+                107,
+                45,
+                57,
+                174,
+                156,
+                124,
+                71
+            ],
+            "answer": "Go-between",
+            "hint": "Intermediary agent (hyph.)"
+        },
+        "Q": {
+            "cells": [
+                82,
+                1,
+                105,
+                21,
+                137,
+                36
+            ],
+            "answer": "Elvish",
+            "hint": "Tongue of Galadriel in Middle-earth"
+        },
+        "R": {
+            "cells": [
+                6,
+                163,
+                98,
+                30,
+                127,
+                142,
+                112,
+                72
+            ],
+            "answer": "Outfield",
+            "hint": "Where four Alous played"
+        },
+        "S": {
+            "cells": [
+                55,
+                168,
+                10,
+                75,
+                101,
+                35
+            ],
+            "answer": "Forest",
+            "hint": "Boreal ecosystem"
+        },
+        "T": {
+            "cells": [
+                83,
+                113,
+                60,
+                11
+            ],
+            "answer": "Worf",
+            "hint": "Crewman fluent in Klingon"
+        },
+        "U": {
+            "cells": [
+                33,
+                49,
+                151,
+                116,
+                170,
+                14,
+                130
+            ],
+            "answer": "Opulent",
+            "hint": "Wealth-flaunting"
+        },
+        "V": {
+            "cells": [
+                169,
+                20,
+                64,
+                129,
+                50,
+                106
+            ],
+            "answer": "Reggae",
+            "hint": "Genre named in a song by Toots and the Maytals"
+        },
+        "W": {
+            "cells": [
+                79,
+                59,
+                99,
+                115,
+                27,
+                171,
+                139,
+                5
+            ],
+            "answer": "Demented",
+            "hint": "Out of one\u2019s mind, unbalanced"
+        },
+        "X": {
+            "cells": [
+                18,
+                37,
+                62,
+                95,
+                78,
+                118,
+                166,
+                147
+            ],
+            "answer": "Sea level",
+            "hint": "What Death Valley sits below (2 wds.)"
+        }
+    }
+}

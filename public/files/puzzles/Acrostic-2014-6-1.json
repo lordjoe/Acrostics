@@ -1,0 +1,364 @@
+{
+    "answer": "I was never able to convince the mathematics teacher that many of my answers were meant ironically. Also, I had trouble with ... \u201cpi r squared.\u201d ... Years ago, ... Texas ... passed a resolution to change pi to an even three. ... I was for it.",
+    "author": "Calvin Trillin,",
+    "authorCell": [
+        106,
+        94,
+        165,
+        91,
+        121,
+        39,
+        58,
+        119,
+        107,
+        118,
+        30,
+        75,
+        54,
+        22,
+        28,
+        136,
+        157,
+        151,
+        18,
+        173,
+        9,
+        73,
+        12,
+        81,
+        103,
+        5
+    ],
+    "source": "Quite Enough Of Calvin Trillin",
+    "clues": {
+        "A": {
+            "cells": [
+                106,
+                83,
+                155,
+                38,
+                57,
+                168
+            ],
+            "answer": "Qantas",
+            "hint": "Flag carrier of Australia"
+        },
+        "B": {
+            "cells": [
+                94,
+                49,
+                11,
+                110,
+                66,
+                29,
+                153
+            ],
+            "answer": "Umberto",
+            "hint": "Italian man\u2019s name meaning \u201ccolor of the earth\u201d"
+        },
+        "C": {
+            "cells": [
+                165,
+                27,
+                102,
+                80,
+                140,
+                62,
+                6
+            ],
+            "answer": "Implore",
+            "hint": "Appeal to, beg"
+        },
+        "D": {
+            "cells": [
+                91,
+                133,
+                40,
+                4,
+                113,
+                74
+            ],
+            "answer": "Teaser",
+            "hint": "Ad or vignette to pique interest"
+        },
+        "E": {
+            "cells": [
+                121,
+                20,
+                148,
+                161,
+                72,
+                46
+            ],
+            "answer": "Eighth",
+            "hint": "Like the power to which a zenzizenzizenzic is raised"
+        },
+        "F": {
+            "cells": [
+                39,
+                3,
+                127,
+                82,
+                55,
+                93,
+                141,
+                156,
+                112
+            ],
+            "answer": "Easy money",
+            "hint": "A ride on the gravy train (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                58,
+                89,
+                120,
+                139,
+                19,
+                158
+            ],
+            "answer": "Native",
+            "hint": "Produced or grown locally"
+        },
+        "H": {
+            "cells": [
+                119,
+                41,
+                138,
+                15,
+                95,
+                65,
+                171
+            ],
+            "answer": "October",
+            "hint": "When National Nut Day occurs"
+        },
+        "I": {
+            "cells": [
+                107,
+                125,
+                37,
+                16,
+                146,
+                84,
+                163
+            ],
+            "answer": "Upscale",
+            "hint": "Intended for high-end buyers"
+        },
+        "J": {
+            "cells": [
+                118,
+                25,
+                53,
+                85,
+                160,
+                134
+            ],
+            "answer": "Ghosts",
+            "hint": "Study of a spectrologist"
+        },
+        "K": {
+            "cells": [
+                30,
+                149,
+                8,
+                88,
+                126,
+                60
+            ],
+            "answer": "\u201cHee Haw\u201d",
+            "hint": "What Kornfield Kounty residents were on (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                75,
+                137,
+                152,
+                90,
+                44,
+                117,
+                2
+            ],
+            "answer": "Outdraw",
+            "hint": "Best in a Wild West setting"
+        },
+        "M": {
+            "cells": [
+                54,
+                92,
+                13,
+                69,
+                128,
+                35,
+                108
+            ],
+            "answer": "Freesia",
+            "hint": "Fragrant funnel-shaped flower"
+        },
+        "N": {
+            "cells": [
+                22,
+                114,
+                59,
+                42,
+                78,
+                135,
+                98
+            ],
+            "answer": "Cash cow",
+            "hint": "Reliable source of income (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                28,
+                115,
+                142,
+                169,
+                1,
+                96,
+                68
+            ],
+            "answer": "Art film",
+            "hint": "What an indie might be (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                136,
+                17,
+                64,
+                111,
+                86,
+                166,
+                147
+            ],
+            "answer": "Lowdown",
+            "hint": "Skinny"
+        },
+        "Q": {
+            "cells": [
+                157,
+                172,
+                14,
+                123,
+                32,
+                77,
+                51,
+                105
+            ],
+            "answer": "Vitamins",
+            "hint": "A, C, D, and E, among others"
+        },
+        "R": {
+            "cells": [
+                151,
+                21,
+                164,
+                122,
+                70,
+                36,
+                100
+            ],
+            "answer": "Inexact",
+            "hint": "Ballpark, figure-wise"
+        },
+        "S": {
+            "cells": [
+                18,
+                87,
+                144,
+                101,
+                43,
+                63
+            ],
+            "answer": "Niches",
+            "hint": "Specially targeted markets"
+        },
+        "T": {
+            "cells": [
+                173,
+                61,
+                104,
+                23,
+                124,
+                47
+            ],
+            "answer": "Teresa",
+            "hint": "Nobelist born Anjezë Gonxhe Bojaxhiu"
+        },
+        "U": {
+            "cells": [
+                9,
+                97,
+                130,
+                154,
+                71,
+                48
+            ],
+            "answer": "Red ant",
+            "hint": "Crawler in Escher\u2019s \u201cMöbius Strip II\u201d (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                73,
+                116,
+                50,
+                99,
+                33,
+                145
+            ],
+            "answer": "Isaiah",
+            "hint": "Source of the line \u201cThey shall beat their swords into plowshares\u201d"
+        },
+        "W": {
+            "cells": [
+                12,
+                129,
+                79,
+                159,
+                34,
+                143
+            ],
+            "answer": "Lean-to",
+            "hint": "One having a single pitch (hyph.)"
+        },
+        "X": {
+            "cells": [
+                81,
+                31,
+                167,
+                150,
+                56,
+                67,
+                10,
+                132
+            ],
+            "answer": "Leap year",
+            "hint": "Quadrennial compensation (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                103,
+                76,
+                7,
+                26,
+                162,
+                45
+            ],
+            "answer": "Invert",
+            "hint": "Flip"
+        },
+        "Z": {
+            "cells": [
+                5,
+                170,
+                24,
+                131,
+                109,
+                52
+            ],
+            "answer": "Notary",
+            "hint": "Worker with a seal"
+        }
+    }
+}

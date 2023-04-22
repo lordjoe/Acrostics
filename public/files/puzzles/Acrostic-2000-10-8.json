@@ -1,0 +1,349 @@
+{
+    "answer": "Humbling... are the hordes of organisms casually performing feats we can only dream about.... How do dragonflies outmaneuver our best helicopters?... How do ants carry the equivalent of hundreds of pounds... through the jungle?",
+    "author": "Janine M. Benyus,",
+    "authorCell": [
+        174,
+        69,
+        161,
+        111,
+        59,
+        99,
+        30,
+        70,
+        19,
+        84,
+        39,
+        160,
+        89,
+        104,
+        139,
+        156,
+        93,
+        47,
+        46,
+        87,
+        57,
+        117,
+        63
+    ],
+    "source": "Biomimicry",
+    "clues": {
+        "A": {
+            "cells": [
+                174,
+                91,
+                82,
+                49,
+                109,
+                24,
+                144,
+                33,
+                149,
+                164
+            ],
+            "answer": "Juggernaut",
+            "hint": "Idol of Krishna pulled on an enormous cart"
+        },
+        "B": {
+            "cells": [
+                69,
+                147,
+                177,
+                134,
+                58,
+                61
+            ],
+            "answer": "Afghan",
+            "hint": "Throw with colorful designs"
+        },
+        "C": {
+            "cells": [
+                161,
+                105,
+                114,
+                171,
+                72,
+                125,
+                11
+            ],
+            "answer": "Neptune",
+            "hint": "New Jersey birthplace of Jack Nicholson"
+        },
+        "D": {
+            "cells": [
+                111,
+                25,
+                83,
+                92,
+                42,
+                1,
+                132,
+                145,
+                165,
+                68
+            ],
+            "answer": "\u201cI Got Rhythm\"",
+            "hint": "Show-stopper for Ethel Merman in 1930\u2019s \u201cGirl Crazy\u201d (3 wds.)"
+        },
+        "E": {
+            "cells": [
+                59,
+                135,
+                103,
+                2,
+                64,
+                9
+            ],
+            "answer": "Neruda",
+            "hint": "Poet portrayed in \u201cIl Postino\u201d as the postman\u2019s mentor"
+        },
+        "F": {
+            "cells": [
+                99,
+                38,
+                162,
+                75,
+                80,
+                129,
+                18,
+                123
+            ],
+            "answer": "El Dorado",
+            "hint": "Objective for Sir Walter Raleigh and others (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                30,
+                6,
+                157,
+                22,
+                56,
+                77
+            ],
+            "answer": "Miffed",
+            "hint": "Put out, resentful"
+        },
+        "H": {
+            "cells": [
+                70,
+                130,
+                21,
+                121,
+                150,
+                28,
+                143,
+                54
+            ],
+            "answer": "Brownies",
+            "hint": "Benevolent sprites or lunchbox treats"
+        },
+        "I": {
+            "cells": [
+                19,
+                12,
+                108,
+                51,
+                5,
+                131,
+                66,
+                122
+            ],
+            "answer": "Ethelred",
+            "hint": "English king who fled to Normandy, 1013"
+        },
+        "J": {
+            "cells": [
+                84,
+                90,
+                118,
+                136,
+                43,
+                37,
+                102,
+                53,
+                153
+            ],
+            "answer": "Nose flute",
+            "hint": "Instrument also known as a Humanatone (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                39,
+                81,
+                100,
+                4,
+                113,
+                45,
+                23,
+                138,
+                169,
+                148
+            ],
+            "answer": "Yarborough",
+            "hint": "Hand in whist with no card higher than a nine"
+        },
+        "L": {
+            "cells": [
+                160,
+                40,
+                85,
+                65,
+                146,
+                176,
+                133
+            ],
+            "answer": "Up-front",
+            "hint": "Forthcoming, honest (hyph.)"
+        },
+        "M": {
+            "cells": [
+                89,
+                95,
+                141,
+                158,
+                31,
+                170,
+                44,
+                73,
+                127
+            ],
+            "answer": "Snapshots",
+            "hint": "Quick, informal profiles"
+        },
+        "N": {
+            "cells": [
+                104,
+                62,
+                173,
+                26,
+                128,
+                13
+            ],
+            "answer": "Bleach",
+            "hint": "Expose to ozone or chlorine"
+        },
+        "O": {
+            "cells": [
+                139,
+                71,
+                110,
+                94,
+                48,
+                126,
+                15,
+                179
+            ],
+            "answer": "\"Iolanthe\u201d",
+            "hint": "Show opening at London\u2019s Savoy Theatre in 1882"
+        },
+        "P": {
+            "cells": [
+                156,
+                119,
+                3,
+                106,
+                178,
+                52,
+                76
+            ],
+            "answer": "Ohm\u2019s Law",
+            "hint": "Formula relating current, voltage and resistance (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                93,
+                35,
+                79,
+                8,
+                168,
+                67,
+                17,
+                151
+            ],
+            "answer": "Mudguard",
+            "hint": "Bicycle fender"
+        },
+        "R": {
+            "cells": [
+                47,
+                27,
+                32,
+                86,
+                60,
+                98,
+                116,
+                166
+            ],
+            "answer": "In clover",
+            "hint": "Living the life of Riley (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                46,
+                36,
+                20,
+                115,
+                101,
+                154,
+                120,
+                7
+            ],
+            "answer": "Mastodon",
+            "hint": "Potential quarry for Clovis hunters"
+        },
+        "T": {
+            "cells": [
+                87,
+                29,
+                167,
+                34,
+                112,
+                96,
+                142,
+                41,
+                155
+            ],
+            "answer": "Isosceles",
+            "hint": "Having two equal sides, as a triangle"
+        },
+        "U": {
+            "cells": [
+                57,
+                78,
+                10,
+                140,
+                175,
+                163
+            ],
+            "answer": "Corvus",
+            "hint": "The raven\u2019s genus"
+        },
+        "V": {
+            "cells": [
+                117,
+                159,
+                137,
+                97,
+                88,
+                50,
+                16,
+                152,
+                107
+            ],
+            "answer": "Roquefort",
+            "hint": "Sort of cheese that is ripened in caves"
+        },
+        "W": {
+            "cells": [
+                63,
+                124,
+                172,
+                55,
+                14,
+                74
+            ],
+            "answer": "Yahweh",
+            "hint": "Transliteration of the Tetragrammaton"
+        }
+    }
+}

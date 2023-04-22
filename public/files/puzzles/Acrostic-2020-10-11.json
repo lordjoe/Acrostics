@@ -1,0 +1,351 @@
+{
+    "answer": "[T]he Olmec... lived in cities and towns centered on temple mounds. ... They invented... systems of writing, established... trade networks, tracked the orbits of the planets,... and recorded their histories in... \u201cbooks\u201d of fig tree bark paper.",
+    "author": "C(harles) C. Mann,",
+    "authorCell": [
+        30,
+        107,
+        6,
+        132,
+        78,
+        32,
+        72,
+        138,
+        48,
+        105,
+        143,
+        180,
+        136,
+        133,
+        49,
+        146,
+        96,
+        124,
+        169,
+        65,
+        100,
+        128,
+        20
+    ],
+    "source": "Fourteen Ninety-One",
+    "clues": {
+        "A": {
+            "cells": [
+                30,
+                174,
+                9,
+                129,
+                57,
+                90,
+                106,
+                147
+            ],
+            "answer": "Calendar",
+            "hint": "Tool whose Mayan version starts with Pop"
+        },
+        "B": {
+            "cells": [
+                107,
+                47,
+                126,
+                164,
+                28,
+                10,
+                150,
+                82,
+                64
+            ],
+            "answer": "Colonists",
+            "hint": "Participants in an alien invasion, you might say"
+        },
+        "C": {
+            "cells": [
+                6,
+                89,
+                110,
+                56,
+                22,
+                158
+            ],
+            "answer": "Median",
+            "hint": "Brit\u2019s \u201ccentral reservation,\u201d to American drivers"
+        },
+        "D": {
+            "cells": [
+                132,
+                24,
+                167,
+                181,
+                152,
+                39,
+                63,
+                83,
+                8,
+                108
+            ],
+            "answer": "Adirondack",
+            "hint": "Train between New York and Montreal"
+        },
+        "E": {
+            "cells": [
+                78,
+                62,
+                27,
+                99,
+                120,
+                170,
+                44,
+                140
+            ],
+            "answer": "New World",
+            "hint": "1503 Amerigo Vespucci coinage, in English (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                32,
+                145,
+                16,
+                172,
+                131,
+                103,
+                75,
+                118,
+                55
+            ],
+            "answer": "Necessity",
+            "hint": "Fort ____, where Colonel George Washington led (and lost) his first battle"
+        },
+        "G": {
+            "cells": [
+                72,
+                38,
+                5,
+                162,
+                94,
+                178,
+                23,
+                137,
+                113
+            ],
+            "answer": "Folk dance",
+            "hint": "Steps taken in tune with tradition (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                138,
+                121,
+                166,
+                79,
+                101,
+                19,
+                37
+            ],
+            "answer": "Off-grid",
+            "hint": "Self-sufficient, energywise (hyph.)"
+        },
+        "I": {
+            "cells": [
+                48,
+                177,
+                87,
+                67,
+                127,
+                153,
+                104
+            ],
+            "answer": "Upstart",
+            "hint": "Johnny-come-lately, arriviste"
+        },
+        "J": {
+            "cells": [
+                105,
+                12,
+                173,
+                77,
+                35,
+                52,
+                144
+            ],
+            "answer": "Rebirth",
+            "hint": "Part of a karmic cycle"
+        },
+        "K": {
+            "cells": [
+                143,
+                34,
+                125,
+                3,
+                95,
+                66
+            ],
+            "answer": "Tepees",
+            "hint": "Portable camp shelters"
+        },
+        "L": {
+            "cells": [
+                180,
+                149,
+                29,
+                76,
+                97,
+                13,
+                134,
+                165,
+                114,
+                50
+            ],
+            "answer": "Eisteddfod",
+            "hint": "Competitive festival of Welsh music and poetry"
+        },
+        "M": {
+            "cells": [
+                136,
+                84,
+                159,
+                68,
+                98,
+                51
+            ],
+            "answer": "Ebbets",
+            "hint": "Field where Jackie Robinson played at home"
+        },
+        "N": {
+            "cells": [
+                133,
+                117,
+                168,
+                148,
+                1,
+                70,
+                43,
+                26,
+                91
+            ],
+            "answer": "Nightspot",
+            "hint": "The Cotton Club, the Copacabana or CBGB"
+        },
+        "O": {
+            "cells": [
+                49,
+                109,
+                25,
+                122,
+                85,
+                155
+            ],
+            "answer": "Nettle",
+            "hint": "Stinging plant"
+        },
+        "P": {
+            "cells": [
+                146,
+                74,
+                102,
+                119,
+                161,
+                42,
+                59
+            ],
+            "answer": "Irksome",
+            "hint": "Tending to raise one\u2019s blood pressure"
+        },
+        "Q": {
+            "cells": [
+                96,
+                160,
+                175,
+                40,
+                123,
+                73,
+                14,
+                60,
+                142
+            ],
+            "answer": "North wind",
+            "hint": "What Boreas represented to ancient Greeks (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                124,
+                58,
+                171,
+                92,
+                45,
+                151,
+                18
+            ],
+            "answer": "Everett",
+            "hint": "Washington port on Puget Sound"
+        },
+        "S": {
+            "cells": [
+                169,
+                88,
+                17,
+                115,
+                61,
+                154,
+                41,
+                130,
+                2
+            ],
+            "answer": "Thirtieth",
+            "hint": "Wisconsin\u2019s position in order of statehood"
+        },
+        "T": {
+            "cells": [
+                65,
+                4,
+                21,
+                80,
+                46,
+                157,
+                33,
+                141
+            ],
+            "answer": "Yosemite",
+            "hint": "Place called \u201cAhwahnee\u201d by its Miwok inhabitants"
+        },
+        "U": {
+            "cells": [
+                100,
+                116,
+                81,
+                54,
+                135,
+                11,
+                31
+            ],
+            "answer": "Observe",
+            "hint": "Watch, regard; commemorate"
+        },
+        "V": {
+            "cells": [
+                128,
+                71,
+                111,
+                53,
+                93,
+                15,
+                176,
+                156
+            ],
+            "answer": "No thanks",
+            "hint": "Polite turndown (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                20,
+                179,
+                112,
+                36,
+                69,
+                7,
+                139,
+                86,
+                163
+            ],
+            "answer": "Ephemeris",
+            "hint": "Table of astronomical data"
+        }
+    }
+}

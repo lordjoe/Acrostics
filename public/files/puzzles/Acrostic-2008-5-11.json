@@ -1,0 +1,361 @@
+{
+    "answer": "Preparing a bed for roses is... like getting the house ready for the arrival of a difficult old lady, some biddy with aristocratic pretensions and persnickety tastes. You want as little cause for complaint as possible.",
+    "author": "Michael Pollan,",
+    "authorCell": [
+        161,
+        65,
+        99,
+        52,
+        131,
+        44,
+        149,
+        4,
+        73,
+        71,
+        60,
+        59,
+        166,
+        23,
+        53,
+        104,
+        113,
+        8,
+        86,
+        114,
+        168,
+        133,
+        70,
+        106,
+        107
+    ],
+    "source": "Second Nature",
+    "clues": {
+        "A": {
+            "cells": [
+                161,
+                146,
+                82,
+                39,
+                132,
+                10
+            ],
+            "answer": "Mimosa",
+            "hint": "Drink served in a Champagne flute"
+        },
+        "B": {
+            "cells": [
+                65,
+                126,
+                12,
+                175,
+                93,
+                33,
+                45
+            ],
+            "answer": "Ikebana",
+            "hint": "Decorative art brought to Japan with Buddhism"
+        },
+        "C": {
+            "cells": [
+                99,
+                158,
+                68,
+                125,
+                26,
+                177,
+                51,
+                144
+            ],
+            "answer": "Crickets",
+            "hint": "\u201cThe ___ sang/And set the Sun/And Workmen finished one by one\u201d (Emily Dickinson)"
+        },
+        "D": {
+            "cells": [
+                52,
+                85,
+                162,
+                1,
+                25,
+                37,
+                135
+            ],
+            "answer": "Hippies",
+            "hint": "Advocates of floral potency?"
+        },
+        "E": {
+            "cells": [
+                131,
+                16,
+                174,
+                75,
+                57,
+                102,
+                88
+            ],
+            "answer": "Aridity",
+            "hint": "Condition in xeric climes"
+        },
+        "F": {
+            "cells": [
+                44,
+                63,
+                121,
+                108,
+                92,
+                78,
+                164,
+                136
+            ],
+            "answer": "Earth Day",
+            "hint": "The 22nd of April (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                149,
+                81,
+                170,
+                98,
+                67,
+                48
+            ],
+            "answer": "Lop off",
+            "hint": "Remove, as the tops of shrubbery (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                4,
+                103,
+                169,
+                35,
+                22,
+                74
+            ],
+            "answer": "Pistil",
+            "hint": "Ovary + style + stigma"
+        },
+        "I": {
+            "cells": [
+                73,
+                58,
+                155,
+                94,
+                30,
+                138,
+                2,
+                117
+            ],
+            "answer": "Overturn",
+            "hint": "Reverse, nullify"
+        },
+        "J": {
+            "cells": [
+                71,
+                157,
+                27,
+                96,
+                115,
+                134,
+                6
+            ],
+            "answer": "Loesser",
+            "hint": "\u201cSpring Will Be a Little Late This Year\u201d songwriter"
+        },
+        "K": {
+            "cells": [
+                60,
+                77,
+                91,
+                31,
+                112,
+                159,
+                20
+            ],
+            "answer": "Lattice",
+            "hint": "Feature of a pergola"
+        },
+        "L": {
+            "cells": [
+                59,
+                111,
+                38,
+                147,
+                17,
+                3,
+                127
+            ],
+            "answer": "Ash tree",
+            "hint": "Source of wood for baseball bats (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                166,
+                18,
+                122,
+                150,
+                34,
+                54,
+                79
+            ],
+            "answer": "Nosegay",
+            "hint": "Tussie-mussie"
+        },
+        "N": {
+            "cells": [
+                23,
+                128,
+                61,
+                110,
+                83
+            ],
+            "answer": "Stone",
+            "hint": "End result of petrification"
+        },
+        "O": {
+            "cells": [
+                53,
+                9,
+                28,
+                105,
+                163,
+                140,
+                123,
+                72
+            ],
+            "answer": "Eggplant",
+            "hint": "What Brits mean by \u201caubergine\u201d"
+        },
+        "P": {
+            "cells": [
+                104,
+                40,
+                167,
+                118,
+                15,
+                89,
+                141
+            ],
+            "answer": "Cut down",
+            "hint": "Fell (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                113,
+                55,
+                151,
+                36,
+                95,
+                13,
+                172
+            ],
+            "answer": "Orchids",
+            "hint": "Vanilla plants are one variety of these"
+        },
+        "R": {
+            "cells": [
+                8,
+                153,
+                56,
+                19,
+                109,
+                43,
+                129
+            ],
+            "answer": "Nursery",
+            "hint": "Business patronized by gardeners"
+        },
+        "S": {
+            "cells": [
+                86,
+                101,
+                14,
+                66,
+                137,
+                46,
+                124,
+                176,
+                154
+            ],
+            "answer": "Daffodils",
+            "hint": "\u201c... I saw a crowd,/A host, of golden ___\u201d (Wordsworth)"
+        },
+        "T": {
+            "cells": [
+                114,
+                90,
+                148,
+                50,
+                32,
+                69
+            ],
+            "answer": "Nitric",
+            "hint": "Containing element #7"
+        },
+        "U": {
+            "cells": [
+                168,
+                145,
+                156,
+                5,
+                24,
+                62,
+                116
+            ],
+            "answer": "Alfalfa",
+            "hint": "Cowlick-sporting, off-key crooner in \u201cOur Gang\u201d shorts"
+        },
+        "V": {
+            "cells": [
+                133,
+                171,
+                152,
+                80,
+                97,
+                47
+            ],
+            "answer": "Toasty",
+            "hint": "Beside a roaring fireplace, say"
+        },
+        "W": {
+            "cells": [
+                70,
+                119,
+                100,
+                160,
+                49,
+                142,
+                29,
+                87
+            ],
+            "answer": "Uprooted",
+            "hint": "Deracinated"
+        },
+        "X": {
+            "cells": [
+                106,
+                143,
+                84,
+                11,
+                165,
+                130,
+                41
+            ],
+            "answer": "Rabbits",
+            "hint": "Natural hip-hop artists?"
+        },
+        "Y": {
+            "cells": [
+                107,
+                64,
+                120,
+                76,
+                139,
+                42,
+                7,
+                173,
+                21
+            ],
+            "answer": "Edelweiss",
+            "hint": "Flower protected by law in Switzerland"
+        }
+    }
+}

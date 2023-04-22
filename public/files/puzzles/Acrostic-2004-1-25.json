@@ -1,0 +1,340 @@
+{
+    "answer": "The... distinction between the schlemiel and the schlimazl... [is]... that... the former spills the soup, [and] the latter is the one into whose lap it falls.... The schlemiel is the... disseminator of bad luck, and the schlimazl its... victim.",
+    "author": "Ruth R. Wisse,",
+    "authorCell": [
+        144,
+        151,
+        142,
+        117,
+        60,
+        18,
+        12,
+        73,
+        25,
+        82,
+        37,
+        121,
+        29,
+        136,
+        41,
+        52,
+        114,
+        16,
+        138,
+        97,
+        126,
+        127
+    ],
+    "source": "The Schlemiel (As Modern Hero)",
+    "clues": {
+        "A": {
+            "cells": [
+                144,
+                125,
+                174,
+                23,
+                45,
+                59,
+                9,
+                156
+            ],
+            "answer": "Richmond",
+            "hint": "Confederate capital in the Civil War"
+        },
+        "B": {
+            "cells": [
+                151,
+                21,
+                69,
+                120,
+                107,
+                1,
+                131,
+                87,
+                36
+            ],
+            "answer": "Unscathed",
+            "hint": "Not the least bit hurt"
+        },
+        "C": {
+            "cells": [
+                142,
+                34,
+                171,
+                51,
+                72,
+                11,
+                105,
+                119,
+                91
+            ],
+            "answer": "Taste test",
+            "hint": "Consumer\u2019s evaluation (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                117,
+                137,
+                65,
+                7,
+                46,
+                175,
+                158,
+                28,
+                94,
+                78
+            ],
+            "answer": "Heptathlon",
+            "hint": "Olympic event just for women"
+        },
+        "E": {
+            "cells": [
+                60,
+                112,
+                153,
+                132,
+                71,
+                32,
+                168,
+                83
+            ],
+            "answer": "Rakehell",
+            "hint": "Dissolute, profligate sort"
+        },
+        "F": {
+            "cells": [
+                18,
+                134,
+                85,
+                26,
+                102,
+                38,
+                154,
+                167,
+                118,
+                67
+            ],
+            "answer": "Witch hazel",
+            "hint": "Shrub whose twigs are used for dowsing (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                12,
+                161,
+                116,
+                31,
+                98,
+                75,
+                135
+            ],
+            "answer": "Ictinus",
+            "hint": "Architect of the Parthenon"
+        },
+        "H": {
+            "cells": [
+                73,
+                62,
+                122,
+                157,
+                47,
+                20,
+                88
+            ],
+            "answer": "Seltzer",
+            "hint": "Tom Collins ingredient"
+        },
+        "I": {
+            "cells": [
+                25,
+                100,
+                77,
+                155,
+                4,
+                40,
+                143
+            ],
+            "answer": "So-and-so",
+            "hint": "This or that person (hyph.)"
+        },
+        "J": {
+            "cells": [
+                82,
+                68,
+                172,
+                128,
+                6,
+                42
+            ],
+            "answer": "Elvish",
+            "hint": "Tongue used by Galadriel and Legolas"
+        },
+        "K": {
+            "cells": [
+                37,
+                164,
+                14,
+                27,
+                145,
+                63,
+                95
+            ],
+            "answer": "Tinhorn",
+            "hint": "Insignificant but self-important"
+        },
+        "L": {
+            "cells": [
+                121,
+                44,
+                80,
+                176,
+                110,
+                13,
+                58,
+                146
+            ],
+            "answer": "Hit it off",
+            "hint": "Click (3 wds.)"
+        },
+        "M": {
+            "cells": [
+                29,
+                76,
+                2,
+                96,
+                160,
+                109,
+                84,
+                140,
+                129
+            ],
+            "answer": "Ephesians",
+            "hint": "Letter attributed to St. Paul"
+        },
+        "N": {
+            "cells": [
+                136,
+                177,
+                53,
+                150,
+                43,
+                70,
+                89,
+                30,
+                19
+            ],
+            "answer": "Small-time",
+            "hint": "Rinky-dink (hyph.)"
+        },
+        "O": {
+            "cells": [
+                41,
+                103,
+                148,
+                90,
+                55,
+                24,
+                79
+            ],
+            "answer": "Coasted",
+            "hint": "Made easy progress"
+        },
+        "P": {
+            "cells": [
+                52,
+                141,
+                33,
+                111,
+                81,
+                8,
+                99,
+                152,
+                162
+            ],
+            "answer": "Half hitch",
+            "hint": "Knot used to tie a lariat to a saddle horn (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                114,
+                74,
+                101,
+                165,
+                49,
+                35,
+                133,
+                93,
+                149
+            ],
+            "answer": "Low-minded",
+            "hint": "Base and vulgar (hyph.)"
+        },
+        "R": {
+            "cells": [
+                16,
+                124,
+                147,
+                106,
+                159,
+                61
+            ],
+            "answer": "Emblem",
+            "hint": "Daffodil vis-a-vis Wales"
+        },
+        "S": {
+            "cells": [
+                138,
+                123,
+                54,
+                166,
+                17,
+                92,
+                3,
+                115,
+                173,
+                64
+            ],
+            "answer": "Metathesis",
+            "hint": "\u201cNucular\u201d for \u201cnuclear,\u201d e.g., or \u201caxe\u201d for \u201cask\u201d"
+        },
+        "T": {
+            "cells": [
+                97,
+                113,
+                48,
+                15,
+                169,
+                130,
+                57
+            ],
+            "answer": "\u201cI\u2019ll bite\u201d",
+            "hint": "Skeptical response to a tricky question (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                126,
+                170,
+                56,
+                139,
+                10,
+                66,
+                104,
+                22
+            ],
+            "answer": "Ethicist",
+            "hint": "Authority in resolving disputes"
+        },
+        "V": {
+            "cells": [
+                127,
+                39,
+                86,
+                50,
+                163,
+                5,
+                108
+            ],
+            "answer": "Let slip",
+            "hint": "Inadvertently reveal (2 wds.)"
+        }
+    }
+}

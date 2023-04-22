@@ -1,0 +1,367 @@
+{
+    "answer": "\u201cPlants suffered greatly on sea voyages. Often the boxes and barrels with trees and shrubs were put on the open deck, exposed to... salt water... . [T]hey were... the first freight to be jettisoned during storms or pirate attacks.\u201d",
+    "author": "Andrea Wulf,",
+    "authorCell": [
+        109,
+        147,
+        14,
+        53,
+        45,
+        18,
+        57,
+        72,
+        20,
+        9,
+        50,
+        119,
+        87,
+        36,
+        60,
+        139,
+        152,
+        155,
+        51,
+        71,
+        150,
+        95,
+        90,
+        32,
+        12,
+        74
+    ],
+    "source": "(The) Brother Gardeners",
+    "clues": {
+        "A": {
+            "cells": [
+                109,
+                176,
+                79,
+                37,
+                52,
+                125,
+                157,
+                21
+            ],
+            "answer": "Asperity",
+            "hint": "Hardship, rigor, tribulation"
+        },
+        "B": {
+            "cells": [
+                147,
+                131,
+                61,
+                108,
+                43,
+                77,
+                94
+            ],
+            "answer": "Network",
+            "hint": "Foster business connections"
+        },
+        "C": {
+            "cells": [
+                14,
+                167,
+                27,
+                116,
+                140,
+                98,
+                83,
+                63,
+                46
+            ],
+            "answer": "Davy Jones",
+            "hint": "Foe of Jack Sparrow, in film (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                53,
+                92,
+                143,
+                34,
+                163,
+                110
+            ],
+            "answer": "Retort",
+            "hint": "Answer, comeback"
+        },
+        "E": {
+            "cells": [
+                45,
+                172,
+                122,
+                78,
+                2,
+                62,
+                148,
+                101
+            ],
+            "answer": "Ethelred",
+            "hint": "English king before and after Sweyn Forkbeard"
+        },
+        "F": {
+            "cells": [
+                18,
+                56,
+                135,
+                86,
+                159
+            ],
+            "answer": "Aster",
+            "hint": "Michaelmas daisy"
+        },
+        "G": {
+            "cells": [
+                57,
+                26,
+                104,
+                85,
+                171,
+                8,
+                138
+            ],
+            "answer": "Washtub",
+            "hint": "Typical base of a jug band\u2019s bass"
+        },
+        "H": {
+            "cells": [
+                72,
+                33,
+                151,
+                16,
+                164
+            ],
+            "answer": "Usurp",
+            "hint": "Seize, as through a coup"
+        },
+        "I": {
+            "cells": [
+                20,
+                80,
+                59,
+                100,
+                35,
+                153,
+                127,
+                175
+            ],
+            "answer": "Lutefisk",
+            "hint": "Gelatinous dish eaten by Scandinavians"
+        },
+        "J": {
+            "cells": [
+                9,
+                166,
+                58,
+                133,
+                30,
+                84,
+                120
+            ],
+            "answer": "Frigate",
+            "hint": "Ship like the Constitution"
+        },
+        "K": {
+            "cells": [
+                50,
+                13,
+                154,
+                136,
+                114,
+                28,
+                99
+            ],
+            "answer": "Benthos",
+            "hint": "Flora and fauna at the bottom of the ocean"
+        },
+        "L": {
+            "cells": [
+                119,
+                11,
+                149,
+                24,
+                82,
+                44
+            ],
+            "answer": "Red Sox",
+            "hint": "Squad with a \u201cGreen Monster\u201d at home (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                87,
+                42,
+                146,
+                165,
+                7,
+                121
+            ],
+            "answer": "Oboist",
+            "hint": "Member of a typical woodwind quartet"
+        },
+        "N": {
+            "cells": [
+                36,
+                17,
+                66,
+                174,
+                134
+            ],
+            "answer": "Teach",
+            "hint": "Blackbeard\u2019s real surname"
+        },
+        "O": {
+            "cells": [
+                60,
+                162,
+                1,
+                25,
+                93,
+                40,
+                76,
+                145,
+                113
+            ],
+            "answer": "Hope chest",
+            "hint": "Container for a trousseau (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                139,
+                69,
+                156,
+                123,
+                96
+            ],
+            "answer": "Essex",
+            "hint": "Cape Ann\u2019s county in Massachusetts"
+        },
+        "Q": {
+            "cells": [
+                152,
+                47,
+                132,
+                23,
+                65,
+                117,
+                169,
+                97,
+                5
+            ],
+            "answer": "Rainswept",
+            "hint": "Beset by cats and dogs?"
+        },
+        "R": {
+            "cells": [
+                155,
+                3,
+                126,
+                31,
+                106,
+                89,
+                68
+            ],
+            "answer": "Gargled",
+            "hint": "Treated a sore throat, in a way"
+        },
+        "S": {
+            "cells": [
+                51,
+                73,
+                105,
+                129,
+                19
+            ],
+            "answer": "Abaft",
+            "hint": "Toward the stern of the ship"
+        },
+        "T": {
+            "cells": [
+                71,
+                22,
+                6,
+                118,
+                142,
+                102,
+                41
+            ],
+            "answer": "Rosette",
+            "hint": "Flower-shaped nebula in Monoceros"
+        },
+        "U": {
+            "cells": [
+                150,
+                137,
+                75,
+                48,
+                88,
+                173,
+                107
+            ],
+            "answer": "Down pat",
+            "hint": "Firmly embedded in the brain (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                95,
+                161,
+                39,
+                70,
+                54,
+                112
+            ],
+            "answer": "Esther",
+            "hint": "1961\u2019s fifth named hurricane, the first ever to be discovered by satellite imagery"
+        },
+        "W": {
+            "cells": [
+                90,
+                103,
+                130,
+                160,
+                170,
+                4,
+                49,
+                29
+            ],
+            "answer": "Normandy",
+            "hint": "Duchy ruled by the Viking Rollo"
+        },
+        "X": {
+            "cells": [
+                32,
+                124,
+                10,
+                141,
+                81,
+                64
+            ],
+            "answer": "Effete",
+            "hint": "Weak; decadent; no longer fertile"
+        },
+        "Y": {
+            "cells": [
+                12,
+                158,
+                91,
+                111,
+                67,
+                128
+            ],
+            "answer": "Rodent",
+            "hint": "Squirrel, guinea pig or capybara"
+        },
+        "Z": {
+            "cells": [
+                74,
+                144,
+                38,
+                15,
+                55,
+                115,
+                168
+            ],
+            "answer": "Singlet",
+            "hint": "Undershirt, in British parlance"
+        }
+    }
+}

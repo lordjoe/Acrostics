@@ -1,0 +1,368 @@
+{
+    "answer": "Humility is not my forte... whenever I dwell for any length of time on my own shortcomings, they... begin to seem mild, harmless, rather engaging little things, not at all like the staring defects in other people\u2019s characters.",
+    "author": "(Margaret) Halsey,",
+    "authorCell": [
+        169,
+        100,
+        89,
+        153,
+        23,
+        56,
+        21,
+        4,
+        101,
+        102,
+        94,
+        130,
+        5,
+        134,
+        65,
+        85,
+        64,
+        53,
+        58,
+        172,
+        176,
+        90,
+        71,
+        126,
+        67,
+        105
+    ],
+    "source": "With Malice Toward Some",
+    "clues": {
+        "A": {
+            "cells": [
+                169,
+                84,
+                28,
+                60,
+                138,
+                103,
+                40
+            ],
+            "answer": "Hershey",
+            "hint": "Town whose main street is Chocolate Avenue"
+        },
+        "B": {
+            "cells": [
+                100,
+                133,
+                50,
+                78,
+                158,
+                19
+            ],
+            "answer": "Alight",
+            "hint": "Settle down; burning"
+        },
+        "C": {
+            "cells": [
+                89,
+                27,
+                109,
+                165,
+                68,
+                48,
+                137,
+                10
+            ],
+            "answer": "Leg lifts",
+            "hint": "Exercises for developing six-pack abs (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                153,
+                108,
+                14,
+                83,
+                66,
+                39
+            ],
+            "answer": "Samson",
+            "hint": "Biblical riddler and lion slayer"
+        },
+        "E": {
+            "cells": [
+                23,
+                59,
+                95,
+                114,
+                177,
+                152
+            ],
+            "answer": "Enlist",
+            "hint": "Secure for some cause"
+        },
+        "F": {
+            "cells": [
+                56,
+                74,
+                3,
+                96,
+                145
+            ],
+            "answer": "Yemen",
+            "hint": "Country on the Red Sea"
+        },
+        "G": {
+            "cells": [
+                21,
+                61,
+                42,
+                81,
+                97,
+                7,
+                163,
+                122,
+                148
+            ],
+            "answer": "Whetstone",
+            "hint": "Accessory for slicers and dicers"
+        },
+        "H": {
+            "cells": [
+                4,
+                106,
+                132,
+                62,
+                26,
+                162
+            ],
+            "answer": "In love",
+            "hint": "Head over heels, maybe (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                101,
+                120,
+                32,
+                63,
+                51,
+                156,
+                140
+            ],
+            "answer": "Thermos",
+            "hint": "Dewar flask for domestic use"
+        },
+        "J": {
+            "cells": [
+                102,
+                29,
+                174,
+                151,
+                1
+            ],
+            "answer": "Hitch",
+            "hint": "Thumb; term of service"
+        },
+        "K": {
+            "cells": [
+                94,
+                77,
+                160,
+                121,
+                11,
+                57
+            ],
+            "answer": "Merino",
+            "hint": "Breed of sheep yielding fine wool"
+        },
+        "L": {
+            "cells": [
+                130,
+                30,
+                170,
+                146,
+                110,
+                12
+            ],
+            "answer": "Adagio",
+            "hint": "Slow section of a pas de deux"
+        },
+        "M": {
+            "cells": [
+                5,
+                82,
+                37,
+                107,
+                54,
+                20,
+                157,
+                127,
+                139
+            ],
+            "answer": "Lorgnette",
+            "hint": "Handled glasses"
+        },
+        "N": {
+            "cells": [
+                134,
+                104,
+                72,
+                8,
+                167,
+                46
+            ],
+            "answer": "Irtysh",
+            "hint": "Chief tributary of Siberia\u2019s Ob River"
+        },
+        "O": {
+            "cells": [
+                65,
+                142,
+                113,
+                15,
+                161,
+                98,
+                36
+            ],
+            "answer": "Calypso",
+            "hint": "Jacques Cousteau\u2019s research vessel"
+        },
+        "P": {
+            "cells": [
+                85,
+                99,
+                154,
+                173,
+                135,
+                24,
+                9,
+                44,
+                73,
+                119
+            ],
+            "answer": "Eric Knight",
+            "hint": "Author who created Lassie (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                64,
+                31,
+                166,
+                117,
+                149,
+                13,
+                91
+            ],
+            "answer": "Twelfth",
+            "hint": "Final grade"
+        },
+        "R": {
+            "cells": [
+                53,
+                93,
+                17,
+                123,
+                175,
+                155,
+                75
+            ],
+            "answer": "Orogeny",
+            "hint": "Process of building mountains"
+        },
+        "S": {
+            "cells": [
+                58,
+                47,
+                143,
+                124,
+                22,
+                79,
+                164
+            ],
+            "answer": "Worship",
+            "hint": "Idolize, put on a pedestal"
+        },
+        "T": {
+            "cells": [
+                172,
+                87,
+                76,
+                33,
+                144,
+                125,
+                112
+            ],
+            "answer": "Ambling",
+            "hint": "At a leisurely gait, on a stroll"
+        },
+        "U": {
+            "cells": [
+                176,
+                150,
+                70,
+                6,
+                86,
+                136,
+                43,
+                116
+            ],
+            "answer": "Regiment",
+            "hint": "Group under a colonel\u2019s command"
+        },
+        "V": {
+            "cells": [
+                90,
+                2,
+                34,
+                168,
+                52,
+                115
+            ],
+            "answer": "Dulcet",
+            "hint": "Mellifluous, euphonious"
+        },
+        "W": {
+            "cells": [
+                71,
+                45,
+                88,
+                16,
+                131,
+                118
+            ],
+            "answer": "Stifle",
+            "hint": "Put a lid on; choke"
+        },
+        "X": {
+            "cells": [
+                126,
+                69,
+                147,
+                18,
+                92,
+                35,
+                49
+            ],
+            "answer": "On draft",
+            "hint": "Served from a keg (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                67,
+                128,
+                111,
+                141,
+                171,
+                38
+            ],
+            "answer": "Mantra",
+            "hint": "\u201cOm mani padme hum,\u201d for one"
+        },
+        "Z": {
+            "cells": [
+                105,
+                41,
+                25,
+                55,
+                159,
+                80,
+                129
+            ],
+            "answer": "Element",
+            "hint": "Honda crossover S.U.V."
+        }
+    }
+}

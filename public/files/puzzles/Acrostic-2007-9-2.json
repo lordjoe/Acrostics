@@ -1,0 +1,354 @@
+{
+    "answer": "I got so I could dress chickens like an expert, but... wondered how this ability to defeather a chicken in about two minutes... could ever be mentioned socially... or gracefully demonstrated as with violin and piano playing.",
+    "author": "Betty Macdonald,",
+    "authorCell": [
+        38,
+        117,
+        155,
+        148,
+        62,
+        110,
+        74,
+        132,
+        12,
+        64,
+        24,
+        163,
+        59,
+        150,
+        52,
+        76,
+        149,
+        97,
+        2,
+        177,
+        151,
+        83,
+        65,
+        158
+    ],
+    "source": "The Egg And I",
+    "clues": {
+        "A": {
+            "cells": [
+                38,
+                130,
+                115,
+                100,
+                165,
+                23,
+                146
+            ],
+            "answer": "Brooder",
+            "hint": "Heated enclosure for raising fowl"
+        },
+        "B": {
+            "cells": [
+                117,
+                33,
+                137,
+                58,
+                85,
+                73,
+                7,
+                98
+            ],
+            "answer": "Ex libris",
+            "hint": "Bookplate (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                155,
+                53,
+                27,
+                94,
+                79,
+                10,
+                166
+            ],
+            "answer": "Think up",
+            "hint": "Concoct, devise, invent (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                148,
+                101,
+                77,
+                63,
+                114,
+                6,
+                162
+            ],
+            "answer": "Tuition",
+            "hint": "Charge for brain enhancement"
+        },
+        "E": {
+            "cells": [
+                62,
+                127,
+                102,
+                22,
+                144,
+                168,
+                8
+            ],
+            "answer": "Yolk sac",
+            "hint": "Yellow wrappe (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                110,
+                54,
+                70,
+                88,
+                35,
+                169,
+                5
+            ],
+            "answer": "Mittens",
+            "hint": "Grasp-inhibiting wear"
+        },
+        "G": {
+            "cells": [
+                74,
+                125,
+                108,
+                39,
+                92,
+                15,
+                164
+            ],
+            "answer": "Albumen",
+            "hint": "White that\u2019s clear, naturally"
+        },
+        "H": {
+            "cells": [
+                132,
+                3,
+                107,
+                31,
+                122,
+                17,
+                49
+            ],
+            "answer": "Cornish",
+            "hint": "Breed of hen from an English county"
+        },
+        "I": {
+            "cells": [
+                12,
+                106,
+                81,
+                157,
+                29,
+                128
+            ],
+            "answer": "Denver",
+            "hint": "With Word J., a hammy breakfast"
+        },
+        "J": {
+            "cells": [
+                64,
+                141,
+                45,
+                26,
+                109,
+                4
+            ],
+            "answer": "Omelet",
+            "hint": "See I."
+        },
+        "K": {
+            "cells": [
+                24,
+                147,
+                37,
+                161,
+                105,
+                72,
+                55
+            ],
+            "answer": "Natives",
+            "hint": "The Creek, e.g., to the Southeastern U.S."
+        },
+        "L": {
+            "cells": [
+                163,
+                121,
+                91,
+                135,
+                25,
+                61,
+                175,
+                78
+            ],
+            "answer": "Acoustic",
+            "hint": "Involved with the science of sound"
+        },
+        "M": {
+            "cells": [
+                59,
+                104,
+                129,
+                19,
+                159,
+                46,
+                176
+            ],
+            "answer": "Leghorn",
+            "hint": "Productive layer from Italy"
+        },
+        "N": {
+            "cells": [
+                150,
+                133,
+                69,
+                118,
+                41,
+                170,
+                9,
+                103
+            ],
+            "answer": "Deadwood",
+            "hint": "Extra baggage; unneeded verbiage; discarded cards in poker"
+        },
+        "O": {
+            "cells": [
+                52,
+                111,
+                131,
+                96,
+                42,
+                153,
+                66,
+                11
+            ],
+            "answer": "Tea towel",
+            "hint": "Cloth for drying dishes, cutlery, etc. (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                76,
+                123,
+                89,
+                21,
+                156,
+                47,
+                139
+            ],
+            "answer": "Hatched",
+            "hint": "Came out of one\u2019s shell"
+        },
+        "Q": {
+            "cells": [
+                149,
+                112,
+                99,
+                71,
+                60,
+                172,
+                30,
+                44,
+                84
+            ],
+            "answer": "Enchilada",
+            "hint": "Spicy tortilla dish filled with meat"
+        },
+        "R": {
+            "cells": [
+                97,
+                136,
+                124,
+                1,
+                171,
+                40,
+                20,
+                75,
+                56,
+                160
+            ],
+            "answer": "Elliptical",
+            "hint": "Shaped ovately"
+        },
+        "S": {
+            "cells": [
+                2,
+                86,
+                119,
+                152,
+                167,
+                34,
+                138
+            ],
+            "answer": "Gossipy",
+            "hint": "Spreading dirt around?"
+        },
+        "T": {
+            "cells": [
+                177,
+                36,
+                120,
+                87,
+                16,
+                140,
+                48
+            ],
+            "answer": "Groused",
+            "hint": "Complained in a fowl way?"
+        },
+        "U": {
+            "cells": [
+                151,
+                134,
+                67,
+                82,
+                43,
+                93,
+                113,
+                174
+            ],
+            "answer": "Affinity",
+            "hint": "Sense of natural kinship"
+        },
+        "V": {
+            "cells": [
+                83,
+                68,
+                51,
+                126,
+                142,
+                14,
+                28
+            ],
+            "answer": "New York",
+            "hint": "City where Teddy Roosevelt was born (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                65,
+                154,
+                32,
+                13,
+                50,
+                90,
+                143
+            ],
+            "answer": "Die down",
+            "hint": "Abate, as noise (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                158,
+                116,
+                18,
+                95,
+                57,
+                173,
+                145,
+                80
+            ],
+            "answer": "Incubate",
+            "hint": "Sit on in the way some mothers would"
+        }
+    }
+}

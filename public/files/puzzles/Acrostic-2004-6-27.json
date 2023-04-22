@@ -1,0 +1,330 @@
+{
+    "answer": "Bees are easier to keep than a dog or a cat. They are more interesting than gerbils... A well-known New York City publisher keeps bees on the terrace of his... penthouse where they happily work the flowers in Central Park.",
+    "author": "Sue Hubbell,",
+    "authorCell": [
+        51,
+        89,
+        44,
+        109,
+        129,
+        1,
+        63,
+        154,
+        146,
+        70,
+        115,
+        90,
+        149,
+        128,
+        83,
+        81,
+        119,
+        102,
+        78,
+        136,
+        101
+    ],
+    "source": "A Book Of Bees",
+    "clues": {
+        "A": {
+            "cells": [
+                51,
+                164,
+                96,
+                110,
+                17,
+                31,
+                141,
+                157,
+                132,
+                65
+            ],
+            "answer": "Screech owl",
+            "hint": "Whistling bird with hornlike ear tufts (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                89,
+                114,
+                53,
+                169,
+                133,
+                153,
+                18,
+                103,
+                144
+            ],
+            "answer": "Uriah Heep",
+            "hint": "Wicked clerk in \u201cDavid Copperfield\u201d (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                44,
+                140,
+                104,
+                71,
+                172,
+                161,
+                127,
+                2,
+                93
+            ],
+            "answer": "Eyelashes",
+            "hint": "Items sometimes batted"
+        },
+        "D": {
+            "cells": [
+                109,
+                92,
+                167,
+                126,
+                35,
+                139,
+                57,
+                22,
+                80
+            ],
+            "answer": "Hit the hay",
+            "hint": "Call it a day (3 wds.)"
+        },
+        "E": {
+            "cells": [
+                129,
+                171,
+                13,
+                85,
+                27,
+                138,
+                52,
+                105
+            ],
+            "answer": "Uprights",
+            "hint": "What a kicked pigskin may split"
+        },
+        "F": {
+            "cells": [
+                1,
+                49,
+                99,
+                148,
+                69,
+                82,
+                37
+            ],
+            "answer": "Brewery",
+            "hint": "Establishment that turns out suds"
+        },
+        "G": {
+            "cells": [
+                63,
+                135,
+                42,
+                86,
+                120,
+                98,
+                150,
+                10
+            ],
+            "answer": "Brothers",
+            "hint": "Jakob and Wilhelm Grimm, e.g."
+        },
+        "H": {
+            "cells": [
+                154,
+                62,
+                55,
+                106,
+                23,
+                118,
+                41,
+                11,
+                84
+            ],
+            "answer": "Ergonomic",
+            "hint": "Designed to minimize worker fatigue"
+        },
+        "I": {
+            "cells": [
+                146,
+                28,
+                107,
+                60,
+                75,
+                9,
+                156,
+                174
+            ],
+            "answer": "Long walk",
+            "hint": "Activity of a trail \u201cthrough hiker\u201d (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                70,
+                45,
+                116,
+                16,
+                124,
+                33,
+                147,
+                4,
+                100,
+                170,
+                64,
+                137
+            ],
+            "answer": "Lickety-split",
+            "hint": "Quick as lightning (hyph.)"
+        },
+        "K": {
+            "cells": [
+                115,
+                88,
+                12,
+                46,
+                76,
+                145,
+                163,
+                36,
+                130
+            ],
+            "answer": "Apennines",
+            "hint": "Chain whose highest peak is Monte Corno"
+        },
+        "L": {
+            "cells": [
+                90,
+                113,
+                3,
+                32,
+                151,
+                25,
+                15,
+                68,
+                54
+            ],
+            "answer": "Breakdown",
+            "hint": "Noisy, energetic country dance often performed competitively in pairs or groups"
+        },
+        "M": {
+            "cells": [
+                149,
+                72,
+                48,
+                155,
+                7,
+                125,
+                26,
+                97,
+                112,
+                165
+            ],
+            "answer": "Okefenokee",
+            "hint": "Wild area whose name means \u201ctrembling earth\u201d in Seminole"
+        },
+        "N": {
+            "cells": [
+                128,
+                43,
+                111,
+                94,
+                74,
+                143,
+                20,
+                159,
+                168,
+                30,
+                59
+            ],
+            "answer": "Orthopteran",
+            "hint": "Locust, cricket, cockroach or grasshopper"
+        },
+        "O": {
+            "cells": [
+                83,
+                39,
+                67,
+                162,
+                56
+            ],
+            "answer": "Krait",
+            "hint": "Bright-banded, venomous snake of southeast Asia"
+        },
+        "P": {
+            "cells": [
+                81,
+                123,
+                50,
+                73,
+                91,
+                117,
+                34,
+                14,
+                61,
+                160
+            ],
+            "answer": "Open letter",
+            "hint": "Epistle meant for the eyes of the public (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                119,
+                173,
+                40,
+                134,
+                158,
+                58,
+                87
+            ],
+            "answer": "Freeway",
+            "hint": "Multilane road sustaining high-speed traffic"
+        },
+        "R": {
+            "cells": [
+                102,
+                38,
+                152,
+                5,
+                24,
+                166
+            ],
+            "answer": "Bataan",
+            "hint": "Philippine peninsula lost and rewon by the U.S. in W.W. II"
+        },
+        "S": {
+            "cells": [
+                78,
+                142,
+                122,
+                47,
+                8,
+                29
+            ],
+            "answer": "Easter",
+            "hint": "\u201cDidst thou not fall out with a tailor for wearing his new doublet before ___?\u201d"
+        },
+        "T": {
+            "cells": [
+                136,
+                19,
+                66,
+                108,
+                95,
+                121,
+                77
+            ],
+            "answer": "Epstein",
+            "hint": "Brian ___, who managed the Beatles in the 1960\u2019s"
+        },
+        "U": {
+            "cells": [
+                101,
+                21,
+                6,
+                131,
+                79
+            ],
+            "answer": "Shrew",
+            "hint": "Pointy-snouted animal with velvety fur"
+        }
+    }
+}

@@ -1,0 +1,362 @@
+{
+    "answer": "Oliver Sacks was... a connoisseur of eggcorns, including his own. As his hearing declined..., he recorded actual words... and the way he\u2019d misheard them... such as choir practice (for chiropractor)... and \u201cKiss my feet!\u201d (for Christmas Eve).",
+    "author": "(Ralph) Keyes,",
+    "authorCell": [
+        154,
+        75,
+        101,
+        103,
+        14,
+        97,
+        43,
+        107,
+        163,
+        137,
+        150,
+        159,
+        89,
+        164,
+        147,
+        143,
+        106,
+        152,
+        98,
+        153,
+        50,
+        20,
+        145,
+        112,
+        157
+    ],
+    "source": "(The Hidden) History of Coined Words",
+    "clues": {
+        "A": {
+            "cells": [
+                154,
+                13,
+                118,
+                136,
+                173,
+                59,
+                35
+            ],
+            "answer": "Kaufman",
+            "hint": "[Note: The starred clues all contain examples of this Acrostic\u2019s theme.] *Philip ____, director of 1983\u2019s nerve-wrecking \u201cThe Right Stuff\u201d"
+        },
+        "B": {
+            "cells": [
+                75,
+                175,
+                144,
+                34,
+                5,
+                92,
+                56,
+                125
+            ],
+            "answer": "Espresso",
+            "hint": "Drink whose name is often mispronounced"
+        },
+        "C": {
+            "cells": [
+                101,
+                146,
+                169,
+                81,
+                122,
+                3,
+                63,
+                44
+            ],
+            "answer": "Yard sign",
+            "hint": "Show of grass-roots support for a politician? (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                103,
+                62,
+                9,
+                86,
+                22,
+                135,
+                42
+            ],
+            "answer": "Encased",
+            "hint": "In a box"
+        },
+        "E": {
+            "cells": [
+                14,
+                73,
+                91,
+                133,
+                172,
+                155,
+                33,
+                51
+            ],
+            "answer": "Sedition",
+            "hint": "*Act of a rebel-rousing ex-patriot?"
+        },
+        "F": {
+            "cells": [
+                97,
+                174,
+                60,
+                128,
+                17
+            ],
+            "answer": "Harpo",
+            "hint": "Marx known for sight gags"
+        },
+        "G": {
+            "cells": [
+                43,
+                18,
+                76,
+                57,
+                99,
+                1,
+                138,
+                158
+            ],
+            "answer": "Inchworm",
+            "hint": "Caterpillar with a loopy gait"
+        },
+        "H": {
+            "cells": [
+                107,
+                8,
+                67,
+                141,
+                177,
+                121,
+                84,
+                162
+            ],
+            "answer": "Salivate",
+            "hint": "*Wet one\u2019s appetite?"
+        },
+        "I": {
+            "cells": [
+                163,
+                130,
+                39,
+                113,
+                87,
+                70,
+                53,
+                23
+            ],
+            "answer": "Tactless",
+            "hint": "Lacking in the diplomacy department"
+        },
+        "J": {
+            "cells": [
+                137,
+                156,
+                16,
+                52,
+                111,
+                88,
+                37,
+                2,
+                71,
+                176
+            ],
+            "answer": "Oscar Wilde",
+            "hint": "\u201cThe Picture of Dorian Gray\u201d writer (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                150,
+                58,
+                116,
+                165,
+                95,
+                80,
+                40
+            ],
+            "answer": "Remodel",
+            "hint": "*Work in overhauls?"
+        },
+        "L": {
+            "cells": [
+                159,
+                24,
+                117,
+                140,
+                47,
+                4,
+                100
+            ],
+            "answer": "Yeshiva",
+            "hint": "*Where a rabbi might tell old wise tales?"
+        },
+        "M": {
+            "cells": [
+                89,
+                160,
+                28,
+                126,
+                66,
+                109,
+                142
+            ],
+            "answer": "Officer",
+            "hint": "*A real trooper?"
+        },
+        "N": {
+            "cells": [
+                164,
+                77,
+                129,
+                105,
+                55,
+                32,
+                151
+            ],
+            "answer": "Formica",
+            "hint": "*Counter material rarely taken for granite?"
+        },
+        "O": {
+            "cells": [
+                147,
+                72,
+                29,
+                127
+            ],
+            "answer": "Cher",
+            "hint": "*Pop diva with a pre-Madonna presence"
+        },
+        "P": {
+            "cells": [
+                143,
+                6,
+                83,
+                120,
+                21,
+                104
+            ],
+            "answer": "Orchid",
+            "hint": "Corsage flower"
+        },
+        "Q": {
+            "cells": [
+                106,
+                94,
+                134,
+                54,
+                15,
+                74,
+                30,
+                161
+            ],
+            "answer": "In charge",
+            "hint": "*Having free reign? (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                152,
+                27,
+                166,
+                12,
+                68,
+                131,
+                46
+            ],
+            "answer": "Norwich",
+            "hint": "*Most important city of East Anglia, for all intensive purposes"
+        },
+        "S": {
+            "cells": [
+                98,
+                36,
+                119,
+                49,
+                78,
+                132
+            ],
+            "answer": "Escort",
+            "hint": "Security for a motorcade"
+        },
+        "T": {
+            "cells": [
+                153,
+                93,
+                123,
+                108,
+                7,
+                168,
+                41,
+                19,
+                64
+            ],
+            "answer": "Dachshund",
+            "hint": "*Stubby specimen of a doggy-dog world?"
+        },
+        "U": {
+            "cells": [
+                50,
+                170,
+                31,
+                115,
+                149,
+                69
+            ],
+            "answer": "Wigeon",
+            "hint": "Duck related to the gadwall"
+        },
+        "V": {
+            "cells": [
+                20,
+                139,
+                114,
+                65,
+                90
+            ],
+            "answer": "Ocher",
+            "hint": "*Brownish yellow that might pass mustard as a Tuscan hue?"
+        },
+        "W": {
+            "cells": [
+                145,
+                82,
+                38,
+                96,
+                26,
+                110,
+                167,
+                10
+            ],
+            "answer": "Ran track",
+            "hint": "*Hurdled around an oval, say (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                112,
+                61,
+                11,
+                45,
+                85,
+                171,
+                148
+            ],
+            "answer": "Disgust",
+            "hint": "*Sick sense?"
+        },
+        "Y": {
+            "cells": [
+                157,
+                102,
+                25,
+                48,
+                124,
+                178,
+                79
+            ],
+            "answer": "Shushed",
+            "hint": "*Brought to a mute point?"
+        }
+    }
+}

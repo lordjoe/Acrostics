@@ -1,0 +1,327 @@
+{
+    "answer": "[Y]our spell-checker... doesn\u2019t care whether someone\u2019s a guerrilla or a gorilla, lives in a desert or a dessert, has a sweet tooth or a suite tooth. ... So don\u2019t... hit Replace every time the program tells you to (oar Yule bee sari).",
+    "author": "Patricia O'Conner,",
+    "authorCell": [
+        124,
+        89,
+        156,
+        160,
+        63,
+        13,
+        48,
+        146,
+        56,
+        127,
+        2,
+        117,
+        39,
+        92,
+        46,
+        91,
+        100,
+        32,
+        120,
+        66,
+        67
+    ],
+    "source": "Woe is I",
+    "clues": {
+        "A": {
+            "cells": [
+                124,
+                139,
+                24,
+                152,
+                7,
+                109,
+                44,
+                75
+            ],
+            "answer": "Phase out",
+            "hint": "Eighty-six in stages (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                89,
+                134,
+                111,
+                76,
+                53,
+                21,
+                149,
+                161,
+                34
+            ],
+            "answer": "Attorneys",
+            "hint": "Figures ridiculed in \u201cBleak House\u201d"
+        },
+        "C": {
+            "cells": [
+                156,
+                119,
+                33,
+                15,
+                51,
+                98,
+                80,
+                68
+            ],
+            "answer": "Threaten",
+            "hint": "Shake a stick at"
+        },
+        "D": {
+            "cells": [
+                160,
+                104,
+                30,
+                55,
+                137,
+                4,
+                88
+            ],
+            "answer": "Rutgers",
+            "hint": "Host of the first intercollegiate football game (1869)"
+        },
+        "E": {
+            "cells": [
+                63,
+                79,
+                29,
+                114,
+                151,
+                96,
+                43,
+                162,
+                12
+            ],
+            "answer": "Ideologue",
+            "hint": "One driven by theory more than practicality"
+        },
+        "F": {
+            "cells": [
+                13,
+                28,
+                69,
+                106,
+                170,
+                52,
+                154,
+                136
+            ],
+            "answer": "Chat room",
+            "hint": "Where people seeking relationships might click? (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                48,
+                74,
+                14,
+                113,
+                97,
+                147,
+                164
+            ],
+            "answer": "Irksome",
+            "hint": "Vexing, apt to get under one\u2019s skin"
+        },
+        "H": {
+            "cells": [
+                146,
+                131,
+                168,
+                118,
+                99,
+                73,
+                22,
+                37
+            ],
+            "answer": "Aesthete",
+            "hint": "Lover of the arts"
+        },
+        "I": {
+            "cells": [
+                56,
+                130,
+                71,
+                25,
+                93,
+                169,
+                5,
+                153
+            ],
+            "answer": "Over easy",
+            "hint": "Specification to a breakfast cook (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                127,
+                150,
+                45,
+                84,
+                58,
+                11,
+                107,
+                27
+            ],
+            "answer": "Clerihew",
+            "hint": "Four-line verse poking fun at a famous person"
+        },
+        "K": {
+            "cells": [
+                2,
+                142,
+                23,
+                86,
+                40,
+                72,
+                121,
+                57,
+                102
+            ],
+            "answer": "Orchestra",
+            "hint": "Originally, the circle where a chorus sang and danced"
+        },
+        "L": {
+            "cells": [
+                117,
+                3,
+                36,
+                65,
+                101,
+                159,
+                85,
+                18,
+                132
+            ],
+            "answer": "Numerator",
+            "hint": "Above-the-line figure"
+        },
+        "M": {
+            "cells": [
+                39,
+                54,
+                135,
+                8,
+                112,
+                166,
+                87,
+                70
+            ],
+            "answer": "Nailhead",
+            "hint": "Target of a pounding"
+        },
+        "N": {
+            "cells": [
+                92,
+                41,
+                10,
+                126,
+                60,
+                78,
+                108,
+                158,
+                145
+            ],
+            "answer": "Escalator",
+            "hint": "Common feature of subway stations and multilevel department stores"
+        },
+        "O": {
+            "cells": [
+                46,
+                155,
+                103,
+                82,
+                19,
+                59,
+                125
+            ],
+            "answer": "Russell",
+            "hint": "Philosopher who wrote \u201cWhy I Am Not a Christian\u201d and \u201cIn Praise of Idleness\u201d"
+        },
+        "P": {
+            "cells": [
+                91,
+                61,
+                138,
+                123,
+                77,
+                163,
+                35,
+                110
+            ],
+            "answer": "Waterloo",
+            "hint": "Epitome of a crushing defeat"
+        },
+        "Q": {
+            "cells": [
+                100,
+                47,
+                148,
+                31,
+                116,
+                167,
+                6,
+                133
+            ],
+            "answer": "Orthoepy",
+            "hint": "The study of correct pronunciation"
+        },
+        "R": {
+            "cells": [
+                32,
+                64,
+                171,
+                50,
+                115,
+                143,
+                129,
+                16,
+                90
+            ],
+            "answer": "Evildoers",
+            "hint": "Villains, baddies, agents of perfidy"
+        },
+        "S": {
+            "cells": [
+                120,
+                9,
+                49,
+                26,
+                144,
+                105,
+                165,
+                62,
+                83
+            ],
+            "answer": "Illegible",
+            "hint": "Like a signature finger-written on a screen, often"
+        },
+        "T": {
+            "cells": [
+                66,
+                94,
+                122,
+                42,
+                1,
+                140,
+                17
+            ],
+            "answer": "Strayed",
+            "hint": "Took the road less traveled by"
+        },
+        "U": {
+            "cells": [
+                67,
+                20,
+                157,
+                95,
+                38,
+                141,
+                128,
+                81
+            ],
+            "answer": "Isotopes",
+            "hint": "Relatives of a fundamental sort"
+        }
+    }
+}

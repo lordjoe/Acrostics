@@ -1,0 +1,349 @@
+{
+    "answer": "In... Oz, women rule... . [T]he Emerald City is governed by... the Wizard of Oz, but it presently becomes clear that he is an incompetent phony... . [B]y the end of the second volume,... Oz has a female sovereign,... Ozma... who began life... as a... boy.",
+    "author": "(Alison) Lurie,",
+    "authorCell": [
+        22,
+        54,
+        34,
+        148,
+        68,
+        38,
+        157,
+        66,
+        29,
+        21,
+        35,
+        123,
+        30,
+        56,
+        146,
+        75,
+        73,
+        50,
+        49,
+        59,
+        19,
+        124,
+        97,
+        10
+    ],
+    "source": "Boys and Girls Forever",
+    "clues": {
+        "A": {
+            "cells": [
+                22,
+                161,
+                4,
+                39,
+                53,
+                70,
+                98,
+                119,
+                142
+            ],
+            "answer": "Lazybones",
+            "hint": "Nickname for a loafer or sluggard"
+        },
+        "B": {
+            "cells": [
+                54,
+                96,
+                77,
+                116
+            ],
+            "answer": "Utah",
+            "hint": "State where the climactic scene of \u201cThelma & Louise\u201d was shot"
+        },
+        "C": {
+            "cells": [
+                34,
+                3,
+                127,
+                149,
+                101,
+                48,
+                20,
+                81,
+                165,
+                64
+            ],
+            "answer": "Rough draft",
+            "hint": "Piece of writing before it\u2019s polished (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                148,
+                131,
+                32,
+                72,
+                86,
+                115,
+                44,
+                169
+            ],
+            "answer": "Izvestia",
+            "hint": "Post-czarist newspaper"
+        },
+        "E": {
+            "cells": [
+                68,
+                120,
+                171,
+                90,
+                151,
+                7,
+                27
+            ],
+            "answer": "Economy",
+            "hint": "Term with Greek roots meaning \u201chousehold management\u201d"
+        },
+        "F": {
+            "cells": [
+                38,
+                25,
+                160,
+                91,
+                80,
+                109,
+                62,
+                134,
+                8
+            ],
+            "answer": "Big cheese",
+            "hint": "High muck-a-muck (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                157,
+                121,
+                71,
+                94,
+                15
+            ],
+            "answer": "Oomph",
+            "hint": "Verve, flair, gusto"
+        },
+        "H": {
+            "cells": [
+                66,
+                141,
+                162,
+                107,
+                126
+            ],
+            "answer": "Yentl",
+            "hint": "Gender-bending title role of 1983"
+        },
+        "I": {
+            "cells": [
+                29,
+                58,
+                104,
+                41,
+                6,
+                163,
+                145
+            ],
+            "answer": "Spyhole",
+            "hint": "Means of seeing who\u2019s at the door"
+        },
+        "J": {
+            "cells": [
+                21,
+                128,
+                167,
+                45,
+                143,
+                63
+            ],
+            "answer": "Amazon",
+            "hint": "River named for its 16th-century explorers\u2019 native attackers"
+        },
+        "K": {
+            "cells": [
+                35,
+                51,
+                144,
+                110,
+                12
+            ],
+            "answer": "Novel",
+            "hint": "Work by Anne Rice or Ayn Rand"
+        },
+        "L": {
+            "cells": [
+                123,
+                11,
+                61,
+                79,
+                105,
+                31,
+                155,
+                140
+            ],
+            "answer": "Dust bowl",
+            "hint": "Setting for many Dorothea Lange photos, done for the 1937-46 Farm Security Administration (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                30,
+                129,
+                102,
+                153,
+                84,
+                14,
+                47,
+                1,
+                69
+            ],
+            "answer": "Geometric",
+            "hint": "Like the abstract art of Sophie Taeuber-Arp"
+        },
+        "N": {
+            "cells": [
+                56,
+                108,
+                133,
+                26,
+                13,
+                93,
+                76,
+                150
+            ],
+            "answer": "\"I Hate Men\"",
+            "hint": "Song sung by Kate in \u201cKiss Me, Kate\u201d (3 wds.)"
+        },
+        "O": {
+            "cells": [
+                146,
+                33,
+                158,
+                125,
+                52,
+                92
+            ],
+            "answer": "Rebozo",
+            "hint": "Scarf of a type worn by Frida Kahlo"
+        },
+        "P": {
+            "cells": [
+                75,
+                36,
+                136,
+                57,
+                170,
+                16,
+                156,
+                89,
+                2,
+                112
+            ],
+            "answer": "Left behind",
+            "hint": "Abandoned, ditched (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                73,
+                46,
+                138,
+                85,
+                168,
+                17,
+                111
+            ],
+            "answer": "Samisen",
+            "hint": "Instrument played by some geishas"
+        },
+        "R": {
+            "cells": [
+                50,
+                28,
+                114,
+                99,
+                132,
+                5,
+                83,
+                166,
+                147,
+                65
+            ],
+            "answer": "Fifth wheel",
+            "hint": "Social superfluity (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                49,
+                152,
+                130,
+                103,
+                117
+            ],
+            "answer": "Ozone",
+            "hint": "Gas monitored using balloons"
+        },
+        "T": {
+            "cells": [
+                59,
+                159,
+                118,
+                100,
+                42,
+                24,
+                82
+            ],
+            "answer": "Respect",
+            "hint": "1967 #1 hit that starts \u201cWhat you want / Baby, I got it\u201d"
+        },
+        "U": {
+            "cells": [
+                19,
+                172,
+                137,
+                74,
+                87,
+                122,
+                37,
+                106
+            ],
+            "answer": "Eye candy",
+            "hint": "Beguiling visuals (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                124,
+                95,
+                78,
+                23,
+                154,
+                9,
+                55
+            ],
+            "answer": "Verdant",
+            "hint": "Lushly green"
+        },
+        "W": {
+            "cells": [
+                97,
+                139,
+                40,
+                18,
+                60
+            ],
+            "answer": "Eat me",
+            "hint": "Directive in literature that leads to rapid growth (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                10,
+                135,
+                164,
+                88,
+                67,
+                113,
+                43
+            ],
+            "answer": "Rainbow",
+            "hint": "Design on a gay pride flag"
+        }
+    }
+}

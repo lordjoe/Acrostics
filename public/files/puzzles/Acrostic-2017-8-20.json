@@ -1,0 +1,359 @@
+{
+    "answer": "If a sufferer of VBP ever tells you they\u2019re \u2019fine\u2019, back slowly out of the room. We\u2019re walking sacks of volatile madness, concealed behind stiff upper lips; ready to burst open in rage if, heaven forbid, we ever run out of tea.",
+    "author": "Rob Temple,",
+    "authorCell": [
+        21,
+        161,
+        60,
+        115,
+        23,
+        62,
+        162,
+        34,
+        141,
+        26,
+        156,
+        63,
+        111,
+        83,
+        36,
+        109,
+        105,
+        121,
+        164,
+        49,
+        130,
+        44,
+        163,
+        87,
+        76
+    ],
+    "source": "Very British Problems",
+    "clues": {
+        "A": {
+            "cells": [
+                21,
+                59,
+                146,
+                112,
+                124,
+                8,
+                93
+            ],
+            "answer": "Toffees",
+            "hint": "Sweets enjoyed at Hogwarts"
+        },
+        "B": {
+            "cells": [
+                161,
+                81,
+                103,
+                27,
+                46,
+                64,
+                126
+            ],
+            "answer": "Elbowed",
+            "hint": "Took aggressive joint action?"
+        },
+        "C": {
+            "cells": [
+                60,
+                129,
+                90,
+                173,
+                147,
+                47,
+                32
+            ],
+            "answer": "Monthly",
+            "hint": "Like Tatler, but not The Economist"
+        },
+        "D": {
+            "cells": [
+                115,
+                151,
+                134,
+                92,
+                55,
+                168,
+                16
+            ],
+            "answer": "Pet shop",
+            "hint": "Setting for Monty Python\u2019s \u201cDead Parrot\u201d sketch (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                23,
+                157,
+                113,
+                128,
+                171,
+                2,
+                78
+            ],
+            "answer": "Lift off",
+            "hint": "Depart from Cape Canaveral (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                62,
+                136,
+                120,
+                94,
+                5,
+                33,
+                19
+            ],
+            "answer": "Epicure",
+            "hint": "Discriminating diner"
+        },
+        "G": {
+            "cells": [
+                162,
+                3,
+                140,
+                102,
+                127,
+                75,
+                31
+            ],
+            "answer": "Vandyke",
+            "hint": "Feature of William Shakespeare or King Charles I"
+        },
+        "H": {
+            "cells": [
+                34,
+                150,
+                117,
+                165,
+                98,
+                133,
+                54
+            ],
+            "answer": "Everest",
+            "hint": "Chomolungma by another name"
+        },
+        "I": {
+            "cells": [
+                141,
+                166,
+                53,
+                7,
+                69,
+                88,
+                37
+            ],
+            "answer": "Ruffian",
+            "hint": "Lout, hooligan, hoodlum"
+        },
+        "J": {
+            "cells": [
+                26,
+                99,
+                152,
+                68,
+                10,
+                174,
+                43
+            ],
+            "answer": "Yankees",
+            "hint": "Ones living on the left side of the pond"
+        },
+        "K": {
+            "cells": [
+                156,
+                77,
+                96,
+                35,
+                139,
+                11,
+                56
+            ],
+            "answer": "Bonfire",
+            "hint": "Guy Fawkes Night tradition"
+        },
+        "L": {
+            "cells": [
+                63,
+                45,
+                154,
+                6,
+                29,
+                80,
+                116
+            ],
+            "answer": "Rooftop",
+            "hint": "What the Beatles were on for their last live concert"
+        },
+        "M": {
+            "cells": [
+                111,
+                70,
+                14,
+                40,
+                89,
+                137,
+                155
+            ],
+            "answer": "Invader",
+            "hint": "Norman, notably, in 1066"
+        },
+        "N": {
+            "cells": [
+                83,
+                1,
+                108,
+                17,
+                61,
+                149,
+                48
+            ],
+            "answer": "Tideway",
+            "hint": "Stretch of the Thames popular with rowers"
+        },
+        "O": {
+            "cells": [
+                36,
+                167,
+                97,
+                50,
+                15,
+                114,
+                72
+            ],
+            "answer": "\"Incubus\"",
+            "hint": "1966 horror film in Esperanto starring William Shatner"
+        },
+        "P": {
+            "cells": [
+                109,
+                66,
+                84,
+                24,
+                52,
+                132,
+                4
+            ],
+            "answer": "Sailors",
+            "hint": "Jack-tars"
+        },
+        "Q": {
+            "cells": [
+                105,
+                12,
+                143,
+                82,
+                123,
+                170,
+                30
+            ],
+            "answer": "Hogarth",
+            "hint": "Painter of \u201cA Rake\u2019s Progress\u201d"
+        },
+        "R": {
+            "cells": [
+                121,
+                169,
+                107,
+                71,
+                86,
+                138,
+                51
+            ],
+            "answer": "Pungent",
+            "hint": "Like Stilton or Stinking Bishop cheese"
+        },
+        "S": {
+            "cells": [
+                164,
+                38,
+                122,
+                135,
+                67,
+                18,
+                101
+            ],
+            "answer": "Resolve",
+            "hint": "Settle, as an issue; willpower"
+        },
+        "T": {
+            "cells": [
+                49,
+                79,
+                104,
+                9,
+                125,
+                159,
+                22
+            ],
+            "answer": "Overawe",
+            "hint": "Blow away, dazzle"
+        },
+        "U": {
+            "cells": [
+                130,
+                142,
+                85,
+                158,
+                57,
+                106,
+                41
+            ],
+            "answer": "Baldric",
+            "hint": "Belt worn over the shoulder used to carry a sword"
+        },
+        "V": {
+            "cells": [
+                44,
+                131,
+                74,
+                145,
+                13,
+                91,
+                118
+            ],
+            "answer": "Lucifer",
+            "hint": "Chief of the fallen angels in \u201cParadise Lost\u201d"
+        },
+        "W": {
+            "cells": [
+                163,
+                73,
+                20,
+                100,
+                58,
+                39,
+                148
+            ],
+            "answer": "Earlobe",
+            "hint": "Site of a piercing"
+        },
+        "X": {
+            "cells": [
+                87,
+                175,
+                144,
+                65,
+                160,
+                25,
+                110
+            ],
+            "answer": "Mae West",
+            "hint": "\u201cSex\u201d playwright who served time for obscenity in 1927 (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                76,
+                28,
+                153,
+                172,
+                95,
+                119,
+                42
+            ],
+            "answer": "Suffolk",
+            "hint": "County bordering Cambridgeshire and Essex"
+        }
+    }
+}

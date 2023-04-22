@@ -1,0 +1,354 @@
+{
+    "answer": "I learned from Dave Barry one principle that I stole from him shamelessly. When asked whether there are any good rules for writing humor, I say \u201cAlways try to put the funniest word at the end of your sentence underpants.\u201d",
+    "author": "Gene Weingarten,",
+    "authorCell": [
+        107,
+        82,
+        137,
+        76,
+        62,
+        85,
+        103,
+        169,
+        89,
+        36,
+        172,
+        163,
+        7,
+        175,
+        40,
+        132,
+        96,
+        44,
+        105,
+        153,
+        170,
+        56,
+        73,
+        81
+    ],
+    "source": "The Fiddler (In the Subway)",
+    "clues": {
+        "A": {
+            "cells": [
+                107,
+                124,
+                22,
+                146,
+                165,
+                55,
+                84
+            ],
+            "answer": "Groaner",
+            "hint": "Belabored bit of questionable wit"
+        },
+        "B": {
+            "cells": [
+                82,
+                116,
+                164,
+                60,
+                138,
+                13
+            ],
+            "answer": "Eyelid",
+            "hint": "Ball protector used for batting"
+        },
+        "C": {
+            "cells": [
+                137,
+                46,
+                93,
+                176,
+                111,
+                28
+            ],
+            "answer": "Norton",
+            "hint": "Kramden\u2019s sidekick on \u201cThe Honeymooners\u201d"
+        },
+        "D": {
+            "cells": [
+                76,
+                174,
+                19,
+                130,
+                35,
+                142,
+                91,
+                5,
+                110,
+                58
+            ],
+            "answer": "Earthworms",
+            "hint": "Swarthmore men\u2019s Ultimate Frisbee team, chosen for its anagram"
+        },
+        "E": {
+            "cells": [
+                62,
+                117,
+                159,
+                144,
+                83,
+                6,
+                37
+            ],
+            "answer": "Warrant",
+            "hint": "Justify, call for, validate"
+        },
+        "F": {
+            "cells": [
+                85,
+                8,
+                115,
+                160,
+                65,
+                33,
+                100
+            ],
+            "answer": "Ed Asner",
+            "hint": "Emmy-winning player of a crusty newspaper editor (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                103,
+                148,
+                166,
+                52,
+                21
+            ],
+            "answer": "Itchy",
+            "hint": "Rarin\u2019 to go"
+        },
+        "H": {
+            "cells": [
+                169,
+                99,
+                39,
+                151,
+                70,
+                113,
+                15,
+                133
+            ],
+            "answer": "Nosedive",
+            "hint": "Take a sharp turn for the worse"
+        },
+        "I": {
+            "cells": [
+                89,
+                66,
+                112,
+                9,
+                49,
+                161,
+                32,
+                145
+            ],
+            "answer": "Garfield",
+            "hint": "Tormentor of Odie in the comics"
+        },
+        "J": {
+            "cells": [
+                36,
+                162,
+                147,
+                79,
+                64,
+                20
+            ],
+            "answer": "Anther",
+            "hint": "What not to do if called by a panther, per Ogden Nash"
+        },
+        "K": {
+            "cells": [
+                172,
+                154,
+                86,
+                29,
+                72,
+                54,
+                127,
+                104,
+                139,
+                2
+            ],
+            "answer": "Roach Motel",
+            "hint": "\u201cLodging\u201d whose intended guests may never leave (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                163,
+                75,
+                16,
+                59,
+                31,
+                1,
+                120,
+                106,
+                140
+            ],
+            "answer": "Thespians",
+            "hint": "Real troupers?"
+        },
+        "M": {
+            "cells": [
+                7,
+                126,
+                63,
+                167,
+                42,
+                26,
+                80,
+                92
+            ],
+            "answer": "Ethelred",
+            "hint": "English king at the turn of the first millennium"
+        },
+        "N": {
+            "cells": [
+                175,
+                143,
+                78,
+                10,
+                129,
+                50,
+                25
+            ],
+            "answer": "No trump",
+            "hint": "Declaration of unsuitedness? (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                40,
+                158,
+                102,
+                68,
+                24,
+                125
+            ],
+            "answer": "Turkey",
+            "hint": "Three strikes in a row, in bowling"
+        },
+        "P": {
+            "cells": [
+                132,
+                14,
+                156,
+                101,
+                30,
+                45,
+                69
+            ],
+            "answer": "Haywire",
+            "hint": "Out of control, topsy-turvy"
+        },
+        "Q": {
+            "cells": [
+                96,
+                53,
+                77,
+                12,
+                109,
+                155,
+                134,
+                177
+            ],
+            "answer": "Earmuffs",
+            "hint": "Item of wear usually covered in fuzz"
+        },
+        "R": {
+            "cells": [
+                44,
+                3,
+                122,
+                141,
+                157,
+                90,
+                23
+            ],
+            "answer": "Festoon",
+            "hint": "Adorn, decorate"
+        },
+        "S": {
+            "cells": [
+                105,
+                152,
+                34,
+                48,
+                171,
+                67,
+                135,
+                17,
+                119,
+                4,
+                88
+            ],
+            "answer": "\"In the Subway\"",
+            "hint": "Conclusion of the title of this puzzle\u2019s source; where buskers often busk (3 wds.)"
+        },
+        "T": {
+            "cells": [
+                153,
+                27,
+                97,
+                136,
+                43,
+                61
+            ],
+            "answer": "Disney",
+            "hint": "Goofy inventor"
+        },
+        "U": {
+            "cells": [
+                170,
+                38,
+                51,
+                108,
+                123,
+                11,
+                71,
+                150,
+                95
+            ],
+            "answer": "Dishtowel",
+            "hint": "Nonelectric dryer (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                56,
+                41,
+                98,
+                74,
+                121
+            ],
+            "answer": "Lofty",
+            "hint": "Highfalutin, supercilious"
+        },
+        "W": {
+            "cells": [
+                73,
+                118,
+                57,
+                173,
+                149,
+                18,
+                87,
+                131
+            ],
+            "answer": "Elephant",
+            "hint": "Political symbol since 1874"
+        },
+        "X": {
+            "cells": [
+                81,
+                168,
+                47,
+                128,
+                94,
+                114
+            ],
+            "answer": "Rumpus",
+            "hint": "Fracas, kerfuffle, hullabaloo"
+        }
+    }
+}

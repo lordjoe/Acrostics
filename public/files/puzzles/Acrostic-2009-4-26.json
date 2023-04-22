@@ -1,0 +1,357 @@
+{
+    "answer": "At certain times of year you\u2018ll find hundreds of... cuckoos, kinglets, and grosbeaks.... You\u2019ll find raccoons wandering and... bullfrogs croaking. And if you\u2019re lucky you might come upon a silver-haired bat dozing in the leaf litter.",
+    "author": "(Marie) Winn,",
+    "authorCell": [
+        84,
+        73,
+        86,
+        94,
+        40,
+        149,
+        167,
+        135,
+        20,
+        152,
+        171,
+        141,
+        144,
+        59,
+        126,
+        146,
+        82,
+        168,
+        151,
+        13,
+        156,
+        173,
+        34,
+        65
+    ],
+    "source": "Central Park In The Dark",
+    "clues": {
+        "A": {
+            "cells": [
+                84,
+                60,
+                44,
+                29,
+                3,
+                137,
+                125,
+                109
+            ],
+            "answer": "Woodcock",
+            "hint": "Bird whose courting flight spirals up, then nosedives"
+        },
+        "B": {
+            "cells": [
+                73,
+                164,
+                148,
+                4,
+                91,
+                177,
+                45,
+                106
+            ],
+            "answer": "Inventor",
+            "hint": "Any recipient of a Lemelson-M.I.T. Prize"
+        },
+        "C": {
+            "cells": [
+                86,
+                110,
+                12,
+                157,
+                41,
+                61
+            ],
+            "answer": "Nimbus",
+            "hint": "Aura surrounding a glamorous person"
+        },
+        "D": {
+            "cells": [
+                94,
+                22,
+                136,
+                6,
+                124,
+                150,
+                49,
+                77,
+                175
+            ],
+            "answer": "Nocturnal",
+            "hint": "Like moths and grizzly bears, generally"
+        },
+        "E": {
+            "cells": [
+                40,
+                134,
+                55,
+                101,
+                71,
+                170,
+                145
+            ],
+            "answer": "Charles",
+            "hint": "River crossed by the Longfellow Bridge"
+        },
+        "F": {
+            "cells": [
+                149,
+                53,
+                30,
+                81,
+                123,
+                68,
+                165,
+                17
+            ],
+            "answer": "Ethology",
+            "hint": "The study of animal behavior"
+        },
+        "G": {
+            "cells": [
+                167,
+                7,
+                127,
+                37,
+                108,
+                67,
+                52,
+                89
+            ],
+            "answer": "Naysayer",
+            "hint": "Habitual cynic, skeptic or pessimist"
+        },
+        "H": {
+            "cells": [
+                135,
+                5,
+                120,
+                100,
+                72,
+                24,
+                155,
+                46
+            ],
+            "answer": "Truffles",
+            "hint": "Items in haute cuisine whose name comes from Latin for \u201clump\u201d"
+        },
+        "I": {
+            "cells": [
+                20,
+                1,
+                36,
+                166,
+                130,
+                66
+            ],
+            "answer": "Radius",
+            "hint": "Circumference divided by twice pi, for a circle"
+        },
+        "J": {
+            "cells": [
+                152,
+                99,
+                51,
+                16,
+                132,
+                180,
+                35,
+                75
+            ],
+            "answer": "All-fired",
+            "hint": "Blasted, goldarned (hyph.)"
+        },
+        "K": {
+            "cells": [
+                171,
+                93,
+                112,
+                129,
+                15,
+                32
+            ],
+            "answer": "Lagoon",
+            "hint": "Feature of Venice, Italy"
+        },
+        "L": {
+            "cells": [
+                141,
+                154,
+                102,
+                39,
+                172,
+                14,
+                54,
+                119,
+                76
+            ],
+            "answer": "Professor",
+            "hint": "\u201cGilligan\u2019s Island\u201d role, with \u201cthe\u201d"
+        },
+        "M": {
+            "cells": [
+                144,
+                95,
+                169,
+                38,
+                79
+            ],
+            "answer": "Ad hoc",
+            "hint": "With just one thing in mind (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                59,
+                139,
+                78,
+                159,
+                8,
+                117,
+                21
+            ],
+            "answer": "Rectify",
+            "hint": "Make pure in a chemist\u2019s still"
+        },
+        "O": {
+            "cells": [
+                126,
+                153,
+                28,
+                92,
+                43,
+                107,
+                74,
+                58
+            ],
+            "answer": "King Kong",
+            "hint": "Means of transport for Ann Darrow (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                146,
+                160,
+                128,
+                25,
+                70,
+                90,
+                105
+            ],
+            "answer": "Idyllic",
+            "hint": "Like pastoral poems"
+        },
+        "Q": {
+            "cells": [
+                82,
+                116,
+                103,
+                50,
+                147,
+                163,
+                9,
+                133
+            ],
+            "answer": "Niggling",
+            "hint": "Picayune, petty, insignificant"
+        },
+        "R": {
+            "cells": [
+                168,
+                113,
+                47,
+                63,
+                142,
+                23,
+                2
+            ],
+            "answer": "Takeout",
+            "hint": "Sign at many a restaurant"
+        },
+        "S": {
+            "cells": [
+                151,
+                64,
+                162,
+                179,
+                98,
+                114,
+                31,
+                10,
+                83
+            ],
+            "answer": "Hazelnuts",
+            "hint": "Orchard crop that\u2019s mostly Turkish-grown"
+        },
+        "T": {
+            "cells": [
+                13,
+                111,
+                57,
+                88,
+                131,
+                27,
+                42
+            ],
+            "answer": "Endemic",
+            "hint": "Like the kangaroo to Australia"
+        },
+        "U": {
+            "cells": [
+                156,
+                48,
+                26,
+                174,
+                69,
+                104,
+                122
+            ],
+            "answer": "Diffuse",
+            "hint": "Widely spread; long-winded"
+        },
+        "V": {
+            "cells": [
+                173,
+                96,
+                115,
+                80,
+                138,
+                18,
+                56
+            ],
+            "answer": "Abdomen",
+            "hint": "Division of an arthropod"
+        },
+        "W": {
+            "cells": [
+                34,
+                140,
+                62,
+                85,
+                11,
+                118,
+                158,
+                178
+            ],
+            "answer": "Rubaiyat",
+            "hint": "Collection of quatrains of Persian verse"
+        },
+        "X": {
+            "cells": [
+                65,
+                176,
+                87,
+                19,
+                121,
+                161,
+                97,
+                143,
+                33
+            ],
+            "answer": "Kid around",
+            "hint": "Poke fun, not be serious (2 wds.)"
+        }
+    }
+}

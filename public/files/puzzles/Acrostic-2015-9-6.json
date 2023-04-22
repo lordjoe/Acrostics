@@ -1,0 +1,351 @@
+{
+    "answer": "Goodbye, boys; I\u2019m under arrest. I may have to go to jail. Keep up this fight! Don\u2019t surrender! The Federal judge is a scab. While you starve he plays golf. While you serve humanity, he serves injunctions for the money powers.",
+    "author": "Mother Jones,",
+    "authorCell": [
+        133,
+        36,
+        61,
+        131,
+        69,
+        78,
+        39,
+        115,
+        148,
+        140,
+        157,
+        30,
+        132,
+        137,
+        59,
+        8,
+        147,
+        9,
+        35,
+        128,
+        27,
+        169,
+        119,
+        138
+    ],
+    "source": "(The) Autobiography (of Mother Jones)",
+    "clues": {
+        "A": {
+            "cells": [
+                133,
+                150,
+                114,
+                11,
+                72,
+                170,
+                37
+            ],
+            "answer": "Mug shot",
+            "hint": "Rogues\u2019 gallery component (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                36,
+                74,
+                53,
+                136,
+                152,
+                12,
+                91,
+                110
+            ],
+            "answer": "Official",
+            "hint": "Government-sanctioned"
+        },
+        "C": {
+            "cells": [
+                61,
+                22,
+                166,
+                100,
+                143,
+                122
+            ],
+            "answer": "Tenure",
+            "hint": "Job security, for some"
+        },
+        "D": {
+            "cells": [
+                131,
+                40,
+                10,
+                96,
+                155,
+                117,
+                57
+            ],
+            "answer": "Hayloft",
+            "hint": "Baleful story about a farm?"
+        },
+        "E": {
+            "cells": [
+                69,
+                13,
+                48,
+                121,
+                165,
+                98,
+                142,
+                83
+            ],
+            "answer": "Employed",
+            "hint": "Working for pay"
+        },
+        "F": {
+            "cells": [
+                78,
+                134,
+                154,
+                23,
+                97,
+                56,
+                7,
+                116,
+                42
+            ],
+            "answer": "Raise hell",
+            "hint": "Agitate in the style of the author of this puzzle\u2019s quote (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                39,
+                54,
+                84,
+                141,
+                19,
+                118
+            ],
+            "answer": "Jigsaw",
+            "hint": "Tool for a woodworker"
+        },
+        "H": {
+            "cells": [
+                115,
+                171,
+                151,
+                73,
+                18,
+                101,
+                29,
+                86,
+                46
+            ],
+            "answer": "Ownership",
+            "hint": "Fundament of capitalism"
+        },
+        "I": {
+            "cells": [
+                148,
+                2,
+                31,
+                127,
+                164,
+                92,
+                77,
+                104
+            ],
+            "answer": "November",
+            "hint": "When Small Business Saturday takes place each year"
+        },
+        "J": {
+            "cells": [
+                140,
+                26,
+                5,
+                111,
+                160,
+                55,
+                124
+            ],
+            "answer": "Embargo",
+            "hint": "Trade stoppage for political purposes"
+        },
+        "K": {
+            "cells": [
+                157,
+                107,
+                47,
+                71,
+                16,
+                34,
+                93,
+                135
+            ],
+            "answer": "Shutdown",
+            "hint": "Possible strike consequence"
+        },
+        "L": {
+            "cells": [
+                30,
+                158,
+                95,
+                108,
+                80,
+                58
+            ],
+            "answer": "Afield",
+            "hint": "Out in the countryside; away from home"
+        },
+        "M": {
+            "cells": [
+                132,
+                67,
+                51,
+                105,
+                172,
+                20,
+                87,
+                120,
+                153,
+                6
+            ],
+            "answer": "University",
+            "hint": "Where Labor Studies may be taught"
+        },
+        "N": {
+            "cells": [
+                137,
+                66,
+                85,
+                33,
+                50
+            ],
+            "answer": "Teeth",
+            "hint": "Means of law enforcement, so to speak"
+        },
+        "O": {
+            "cells": [
+                59,
+                43,
+                88,
+                123,
+                167,
+                76
+            ],
+            "answer": "Okayed",
+            "hint": "Agreed to, given the go-ahead"
+        },
+        "P": {
+            "cells": [
+                8,
+                106,
+                75,
+                162,
+                25,
+                129,
+                145
+            ],
+            "answer": "Beehive",
+            "hint": "Place for tens of thousands of workers"
+        },
+        "Q": {
+            "cells": [
+                147,
+                15,
+                81,
+                63,
+                173,
+                112
+            ],
+            "answer": "Injury",
+            "hint": "Basis for workers\u2019 comp"
+        },
+        "R": {
+            "cells": [
+                9,
+                144,
+                32,
+                64,
+                113,
+                163,
+                44
+            ],
+            "answer": "Oversee",
+            "hint": "Have a supervisory role in"
+        },
+        "S": {
+            "cells": [
+                35,
+                65,
+                103,
+                174,
+                89,
+                21,
+                3,
+                159,
+                49,
+                126
+            ],
+            "answer": "Grass roots",
+            "hint": "Rank and file in an organization (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                128,
+                79,
+                109,
+                146,
+                94,
+                45,
+                17,
+                161
+            ],
+            "answer": "Rap sheet",
+            "hint": "Criminal record, informally (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                27,
+                68,
+                149,
+                82,
+                52,
+                102,
+                130,
+                4
+            ],
+            "answer": "Adjusted",
+            "hint": "Made to reflect cost-of-living changes, e.g."
+        },
+        "V": {
+            "cells": [
+                169,
+                125,
+                60,
+                90,
+                139,
+                28
+            ],
+            "answer": "Punchy",
+            "hint": "Clear, simple and effective, as a speech"
+        },
+        "W": {
+            "cells": [
+                119,
+                99,
+                14,
+                62,
+                41,
+                156,
+                1
+            ],
+            "answer": "Housing",
+            "hint": "Concern for migrant workers"
+        },
+        "X": {
+            "cells": [
+                138,
+                38,
+                70,
+                24,
+                168
+            ],
+            "answer": "Yorty",
+            "hint": "Los Angeles mayor during the 1965 Watts riots"
+        }
+    }
+}

@@ -1,0 +1,334 @@
+{
+    "answer": "I\u2019m sitting in a Parisian cafe... outside Chinatown (in San Francisco), talking to a Mexican-American... about biculturalism while a Haitian woman stops... to congratulate him on a piece he... delivered on TV on Saint Patrick\u2019s Day.",
+    "author": "Pico Iyer,",
+    "authorCell": [
+        168,
+        165,
+        53,
+        38,
+        76,
+        178,
+        155,
+        47,
+        84,
+        99,
+        153,
+        126,
+        101,
+        118,
+        85,
+        64,
+        94,
+        116,
+        161,
+        88,
+        89
+    ],
+    "source": "The Global Soul",
+    "clues": {
+        "A": {
+            "cells": [
+                168,
+                128,
+                35,
+                138,
+                13,
+                55,
+                68,
+                87,
+                157,
+                110
+            ],
+            "answer": "Panopticon",
+            "hint": "Edifice enabling surveillance of any inmate at any time"
+        },
+        "B": {
+            "cells": [
+                165,
+                79,
+                6,
+                149,
+                92,
+                46,
+                105,
+                18,
+                121,
+                33
+            ],
+            "answer": "Interfaith",
+            "hint": "Ecumenical, as a service involving sundry religions"
+        },
+        "C": {
+            "cells": [
+                53,
+                86,
+                162,
+                21,
+                4,
+                40,
+                71,
+                177,
+                133,
+                106
+            ],
+            "answer": "Cincinnati",
+            "hint": "Midwestern city that\u2019s a setting for \u201cRain Man\u201d"
+        },
+        "D": {
+            "cells": [
+                38,
+                144,
+                77,
+                22,
+                96,
+                172,
+                124,
+                8,
+                109,
+                57
+            ],
+            "answer": "Occasional",
+            "hint": "Happening at spotty intervals"
+        },
+        "E": {
+            "cells": [
+                76,
+                158,
+                5,
+                142,
+                113,
+                93,
+                170,
+                51,
+                25,
+                125
+            ],
+            "answer": "Intimation",
+            "hint": "Hint, remote reference"
+        },
+        "F": {
+            "cells": [
+                178,
+                91,
+                123,
+                50,
+                72,
+                23,
+                150,
+                103,
+                37
+            ],
+            "answer": "Yucca Flat",
+            "hint": "Heavily bomb-cratered basin in the Nevada Test Site (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                155,
+                67,
+                90,
+                108,
+                127,
+                141,
+                44,
+                167,
+                24
+            ],
+            "answer": "Extirpate",
+            "hint": "Get rid of totally, wipe out"
+        },
+        "H": {
+            "cells": [
+                47,
+                14,
+                95,
+                115,
+                156,
+                70,
+                139,
+                173,
+                31
+            ],
+            "answer": "Rain dance",
+            "hint": "Desperate recourse for the drought-stricken (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                84,
+                7,
+                176,
+                19,
+                131,
+                111,
+                36,
+                160,
+                66
+            ],
+            "answer": "Tidal wave",
+            "hint": "Metaphor for an uncontrollable rush (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                99,
+                74,
+                2,
+                56,
+                20,
+                148,
+                135,
+                114,
+                39
+            ],
+            "answer": "Hem and haw",
+            "hint": "Fail to show decisiveness (3 wds.)"
+        },
+        "K": {
+            "cells": [
+                153,
+                137,
+                48,
+                69,
+                10,
+                169,
+                117,
+                102,
+                30
+            ],
+            "answer": "Emaciated",
+            "hint": "A long way from robustly fed"
+        },
+        "L": {
+            "cells": [
+                126,
+                83,
+                147,
+                175,
+                3,
+                98,
+                112,
+                15,
+                58
+            ],
+            "answer": "Guesswork",
+            "hint": "Problem-solving with no plan or clue"
+        },
+        "M": {
+            "cells": [
+                101,
+                122,
+                26,
+                136,
+                43,
+                59,
+                80,
+                166,
+                12
+            ],
+            "answer": "Louisiana",
+            "hint": "828,000-square-mile purchase of 1803"
+        },
+        "N": {
+            "cells": [
+                118,
+                65,
+                49,
+                29,
+                152,
+                82,
+                171,
+                134
+            ],
+            "answer": "Omnivore",
+            "hint": "Opposite of a picky eater"
+        },
+        "O": {
+            "cells": [
+                85,
+                151,
+                9,
+                132,
+                73,
+                41,
+                28,
+                107
+            ],
+            "answer": "Bigamist",
+            "hint": "Member of more than one union"
+        },
+        "P": {
+            "cells": [
+                64,
+                81,
+                52,
+                32,
+                100,
+                120,
+                17,
+                140
+            ],
+            "answer": "Abscissa",
+            "hint": "Horizontal coordinate on a geometric plane"
+        },
+        "Q": {
+            "cells": [
+                94,
+                130,
+                154,
+                174,
+                34,
+                11,
+                61
+            ],
+            "answer": "Lurking",
+            "hint": "Present, but uninvolved"
+        },
+        "R": {
+            "cells": [
+                116,
+                129,
+                54,
+                75,
+                16,
+                143,
+                163
+            ],
+            "answer": "Stories",
+            "hint": "Offerings from tellers?"
+        },
+        "S": {
+            "cells": [
+                161,
+                63,
+                97,
+                119,
+                78,
+                146
+            ],
+            "answer": "Oompah",
+            "hint": "Musical style of Whoopee John Wilfahrt\u2019s band"
+        },
+        "T": {
+            "cells": [
+                88,
+                27,
+                104,
+                164,
+                45,
+                62
+            ],
+            "answer": "U Thant",
+            "hint": "U.N. leader succeeding Dag Hammarskjold in 1961 (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                89,
+                1,
+                60,
+                42,
+                145,
+                159
+            ],
+            "answer": "Linnet",
+            "hint": "Old World finch called \u201cCarduelis cannabina\u201d for its liking of hemp"
+        }
+    }
+}

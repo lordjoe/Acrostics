@@ -1,0 +1,362 @@
+{
+    "answer": "A strong desire is always felt to ascertain whether any human being has previously visited an unfrequented spot. A bit of wood with a nail in it, is picked up and studied as if it were covered with hieroglyphics.",
+    "author": "(Charles) Darwin,",
+    "authorCell": [
+        134,
+        34,
+        32,
+        37,
+        160,
+        78,
+        94,
+        158,
+        86,
+        70,
+        163,
+        166,
+        28,
+        56,
+        136,
+        5,
+        81,
+        74,
+        108,
+        31,
+        52,
+        23,
+        44,
+        7,
+        165,
+        75
+    ],
+    "source": "The Voyage Of The Beagle",
+    "clues": {
+        "A": {
+            "cells": [
+                134,
+                169,
+                67,
+                122,
+                103,
+                150,
+                83,
+                43,
+                20
+            ],
+            "answer": "Discovery",
+            "hint": "One allure of exploration"
+        },
+        "B": {
+            "cells": [
+                34,
+                125,
+                63,
+                161,
+                80,
+                98,
+                48,
+                146,
+                13
+            ],
+            "answer": "Adventure",
+            "hint": "Another allure of exploration"
+        },
+        "C": {
+            "cells": [
+                32,
+                124,
+                155,
+                138,
+                12,
+                104
+            ],
+            "answer": "Reward",
+            "hint": "A perhaps less noble allure of exploration"
+        },
+        "D": {
+            "cells": [
+                37,
+                159,
+                106,
+                88,
+                62,
+                51,
+                121,
+                17,
+                145
+            ],
+            "answer": "White Nile",
+            "hint": "River explored by David Livingstone (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                160,
+                87,
+                33,
+                126,
+                71,
+                3,
+                140,
+                102,
+                55
+            ],
+            "answer": "Intuition",
+            "hint": "Keen sagacity; knowledge not taught"
+        },
+        "F": {
+            "cells": [
+                78,
+                11,
+                30,
+                168,
+                147
+            ],
+            "answer": "Niche",
+            "hint": "Organism\u2019s place in its community"
+        },
+        "G": {
+            "cells": [
+                94,
+                77,
+                57,
+                156,
+                143,
+                14
+            ],
+            "answer": "Tahiti",
+            "hint": "Island reached by captains Cook and Bligh"
+        },
+        "H": {
+            "cells": [
+                158,
+                89,
+                119,
+                60,
+                42,
+                4,
+                133,
+                21
+            ],
+            "answer": "\u201cHesperus\"",
+            "hint": "Ship wrecked on \u201cthe reef of Norman\u2019s Woe\u201d"
+        },
+        "I": {
+            "cells": [
+                86,
+                170,
+                27,
+                15,
+                69,
+                131,
+                107,
+                153,
+                49
+            ],
+            "answer": "Ecosystem",
+            "hint": "Integration of life forms and environment"
+        },
+        "J": {
+            "cells": [
+                70,
+                53,
+                152,
+                36,
+                9
+            ],
+            "answer": "Verne",
+            "hint": "Author of \u201cFrom the Earth to the Moon\u201d"
+        },
+        "K": {
+            "cells": [
+                163,
+                96,
+                72,
+                135,
+                8,
+                114,
+                19,
+                45
+            ],
+            "answer": "Obsidian",
+            "hint": "Dark material formed by the cooling of molten lava"
+        },
+        "L": {
+            "cells": [
+                166,
+                50,
+                101,
+                127
+            ],
+            "answer": "Yawp",
+            "hint": "\u201cI sound my barbaric ___ over the roofs of the world\u201d (Walt Whitman)"
+        },
+        "M": {
+            "cells": [
+                28,
+                90,
+                16,
+                167,
+                132,
+                58,
+                40,
+                73,
+                149,
+                115
+            ],
+            "answer": "Adaptation",
+            "hint": "Course of evolution"
+        },
+        "N": {
+            "cells": [
+                56,
+                113,
+                128,
+                91,
+                29
+            ],
+            "answer": "Glass",
+            "hint": "Philip ___, music composer for the film \u201cKoyaanisqatsi\u201d"
+        },
+        "O": {
+            "cells": [
+                136,
+                76,
+                109,
+                120,
+                38,
+                54,
+                148
+            ],
+            "answer": "Edaphic",
+            "hint": "Of or relating to the soil"
+        },
+        "P": {
+            "cells": [
+                5,
+                79,
+                157,
+                22,
+                142,
+                117
+            ],
+            "answer": "Outfit",
+            "hint": "Equip, as a vessel for a journey"
+        },
+        "Q": {
+            "cells": [
+                81,
+                64,
+                10,
+                41,
+                112,
+                129,
+                164
+            ],
+            "answer": "Fishing",
+            "hint": "Pursuit of a piscator"
+        },
+        "R": {
+            "cells": [
+                74,
+                47,
+                162,
+                118,
+                92,
+                2
+            ],
+            "answer": "Thrips",
+            "hint": "Sap-sucking bug unchanged in the plural"
+        },
+        "S": {
+            "cells": [
+                108,
+                35,
+                171,
+                139
+            ],
+            "answer": "Hiss",
+            "hint": "Sound from a startled tortoise"
+        },
+        "T": {
+            "cells": [
+                31,
+                84,
+                66,
+                97,
+                110,
+                151
+            ],
+            "answer": "Equine",
+            "hint": "Of affairs from ass to zebra?"
+        },
+        "U": {
+            "cells": [
+                52,
+                93,
+                18,
+                144,
+                65,
+                105
+            ],
+            "answer": "Bowwow",
+            "hint": "Dog, in baby talk"
+        },
+        "V": {
+            "cells": [
+                23,
+                85,
+                61,
+                39,
+                123,
+                1
+            ],
+            "answer": "Eureka",
+            "hint": "Cry of one suddenly illuminated"
+        },
+        "W": {
+            "cells": [
+                44,
+                130,
+                82,
+                116,
+                100,
+                25
+            ],
+            "answer": "Adrift",
+            "hint": "Not in control of one\u2019s marine course"
+        },
+        "X": {
+            "cells": [
+                7,
+                95,
+                154,
+                141,
+                68,
+                46
+            ],
+            "answer": "Gadfly",
+            "hint": "Vexer of livestock; persistent critic"
+        },
+        "Y": {
+            "cells": [
+                165,
+                99,
+                59,
+                26
+            ],
+            "answer": "\"Lost\u201d",
+            "hint": "TV drama set on a remote tropical island"
+        },
+        "Z": {
+            "cells": [
+                75,
+                24,
+                111,
+                6,
+                137
+            ],
+            "answer": "Eland",
+            "hint": "Browser with spiral horns"
+        }
+    }
+}

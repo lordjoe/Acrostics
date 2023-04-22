@@ -1,0 +1,361 @@
+{
+    "answer": "There is... beauty in the migration of the birds, the ebb and flow of the tides... . There is something infinitely healing in the repeated refrains of nature \u2014 the assurance that dawn comes after night, and spring after... winter.",
+    "author": "Rachel Carson,",
+    "authorCell": [
+        22,
+        131,
+        143,
+        136,
+        63,
+        90,
+        133,
+        103,
+        152,
+        161,
+        69,
+        15,
+        7,
+        41,
+        174,
+        67,
+        88,
+        26,
+        47,
+        141,
+        144,
+        78,
+        36,
+        84,
+        163
+    ],
+    "source": "(The) Sense of Wonder",
+    "clues": {
+        "A": {
+            "cells": [
+                22,
+                126,
+                70,
+                112,
+                147
+            ],
+            "answer": "Ramis",
+            "hint": "\u201cCaddyshack\u201d director Harold"
+        },
+        "B": {
+            "cells": [
+                131,
+                149,
+                116,
+                164,
+                27,
+                91,
+                53,
+                13
+            ],
+            "answer": "Affinity",
+            "hint": "Kinship, feeling of attraction"
+        },
+        "C": {
+            "cells": [
+                143,
+                158,
+                38,
+                81,
+                118,
+                101
+            ],
+            "answer": "Catnap",
+            "hint": "40 winks"
+        },
+        "D": {
+            "cells": [
+                136,
+                28,
+                64,
+                92,
+                3,
+                106
+            ],
+            "answer": "Horned",
+            "hint": "Like some owls or larks"
+        },
+        "E": {
+            "cells": [
+                63,
+                10,
+                127,
+                30,
+                172,
+                82,
+                113,
+                46
+            ],
+            "answer": "East Wind",
+            "hint": "What brought Mary Poppins to the Banks home (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                90,
+                34,
+                155,
+                17,
+                135,
+                2,
+                49,
+                120,
+                68,
+                176
+            ],
+            "answer": "Lighthouse",
+            "hint": "Spain\u2019s Tower of Hercules, e.g."
+        },
+        "G": {
+            "cells": [
+                133,
+                73,
+                5,
+                99
+            ],
+            "answer": "Cher",
+            "hint": "Singer on the 1965 hit \u201cI Got You Babe\u201d"
+        },
+        "H": {
+            "cells": [
+                103,
+                125,
+                76,
+                59,
+                44,
+                165
+            ],
+            "answer": "Aegean",
+            "hint": "Sea surrounding the Cyclades"
+        },
+        "I": {
+            "cells": [
+                152,
+                134,
+                19,
+                43,
+                110,
+                167,
+                75,
+                58,
+                1
+            ],
+            "answer": "Rembrandt",
+            "hint": "____ Square, center of night life in Amsterdam"
+        },
+        "J": {
+            "cells": [
+                161,
+                48,
+                77,
+                16,
+                97,
+                122,
+                35
+            ],
+            "answer": "Slither",
+            "hint": "Locomote in an ophidian fashion"
+        },
+        "K": {
+            "cells": [
+                69,
+                11,
+                24,
+                37,
+                156,
+                173,
+                142,
+                100
+            ],
+            "answer": "Outshine",
+            "hint": "Surpass in performance"
+        },
+        "L": {
+            "cells": [
+                15,
+                32,
+                162,
+                108,
+                95,
+                138,
+                54,
+                71
+            ],
+            "answer": "Nepenthe",
+            "hint": "Memory-erasing drug in the \u201cOdyssey\u201d"
+        },
+        "M": {
+            "cells": [
+                7,
+                31,
+                74,
+                111,
+                150,
+                60,
+                129
+            ],
+            "answer": "Shiatsu",
+            "hint": "Bodywork using finger pressure"
+        },
+        "N": {
+            "cells": [
+                41,
+                12,
+                151,
+                177,
+                132,
+                57,
+                104,
+                86
+            ],
+            "answer": "Eternity",
+            "hint": "Timelessness"
+        },
+        "O": {
+            "cells": [
+                174,
+                55,
+                128,
+                96,
+                80,
+                159,
+                21
+            ],
+            "answer": "Nesting",
+            "hint": "Arranged like Russian dolls"
+        },
+        "P": {
+            "cells": [
+                67,
+                87,
+                137,
+                160,
+                115,
+                50
+            ],
+            "answer": "Shadow",
+            "hint": "Phantom, apparition"
+        },
+        "Q": {
+            "cells": [
+                88,
+                145,
+                18,
+                130,
+                166,
+                102,
+                45,
+                61
+            ],
+            "answer": "Emergent",
+            "hint": "On the way out?"
+        },
+        "R": {
+            "cells": [
+                26,
+                79,
+                109,
+                42,
+                65,
+                148,
+                169
+            ],
+            "answer": "Offbeat",
+            "hint": "Unorthodox, quirky, peculiar"
+        },
+        "S": {
+            "cells": [
+                47,
+                14,
+                114,
+                62,
+                175,
+                140,
+                154,
+                85
+            ],
+            "answer": "Fishtail",
+            "hint": "Slide back and forth wildly at the rear"
+        },
+        "T": {
+            "cells": [
+                141,
+                105,
+                89,
+                157,
+                39,
+                9,
+                121
+            ],
+            "answer": "Weather",
+            "hint": "Get worn down; get through safely"
+        },
+        "U": {
+            "cells": [
+                144,
+                171,
+                8,
+                25,
+                83
+            ],
+            "answer": "Orbit",
+            "hint": "Go around again and again"
+        },
+        "V": {
+            "cells": [
+                78,
+                23,
+                153,
+                98,
+                56,
+                119,
+                40
+            ],
+            "answer": "\"Nanette\"",
+            "hint": "Netflix stand-up special in which Hannah Gadsby swears off comedy"
+        },
+        "W": {
+            "cells": [
+                36,
+                66,
+                93,
+                117,
+                20,
+                52,
+                6,
+                170,
+                139
+            ],
+            "answer": "Dignified",
+            "hint": "Evincing gravitas"
+        },
+        "X": {
+            "cells": [
+                84,
+                29,
+                168,
+                51,
+                4,
+                123
+            ],
+            "answer": "Effort",
+            "hint": "Labor, work, strain"
+        },
+        "Y": {
+            "cells": [
+                163,
+                146,
+                33,
+                94,
+                107,
+                72,
+                124
+            ],
+            "answer": "Rebirth",
+            "hint": "New beginning"
+        }
+    }
+}

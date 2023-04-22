@@ -1,0 +1,359 @@
+{
+    "answer": "The most significant event of the nineteenth century will be judged as Maxwell\u2019s discovery of the laws of electrodynamics. The American Civil War will pale into provincial insignificance in comparison with this ... event.",
+    "author": "(Richard) Feynman,",
+    "authorCell": [
+        25,
+        88,
+        96,
+        97,
+        4,
+        61,
+        139,
+        89,
+        90,
+        101,
+        103,
+        53,
+        165,
+        56,
+        177,
+        136,
+        131,
+        163,
+        80,
+        76,
+        146,
+        144,
+        111,
+        102
+    ],
+    "source": "Lectures on Physics",
+    "clues": {
+        "A": {
+            "cells": [
+                25,
+                64,
+                93,
+                107,
+                142,
+                1
+            ],
+            "answer": "Fermat",
+            "hint": "Writer in the margin of Diophantus\u2019 \u201cArithmetica\u201d"
+        },
+        "B": {
+            "cells": [
+                88,
+                11,
+                71,
+                158,
+                109,
+                140,
+                128,
+                28
+            ],
+            "answer": "Encircle",
+            "hint": "Surround, ring"
+        },
+        "C": {
+            "cells": [
+                96,
+                178,
+                143,
+                124,
+                161,
+                46,
+                15,
+                112,
+                75,
+                57
+            ],
+            "answer": "Yellow card",
+            "hint": "Serious warning in sports (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                97,
+                180,
+                62,
+                18,
+                138,
+                169,
+                125,
+                47,
+                31,
+                108
+            ],
+            "answer": "Next in line",
+            "hint": "About to be served (3 wds.)"
+        },
+        "E": {
+            "cells": [
+                4,
+                164,
+                87,
+                147,
+                58
+            ],
+            "answer": "Mafia",
+            "hint": "Don\u2019s body"
+        },
+        "F": {
+            "cells": [
+                61,
+                22,
+                153,
+                104,
+                86,
+                44
+            ],
+            "answer": "Anchor",
+            "hint": "Classic sailor\u2019s tattoo"
+        },
+        "G": {
+            "cells": [
+                139,
+                30,
+                159,
+                120
+            ],
+            "answer": "Niña",
+            "hint": "Historical trio member having a tilde"
+        },
+        "H": {
+            "cells": [
+                89,
+                72,
+                17,
+                55,
+                179,
+                152,
+                105,
+                119
+            ],
+            "answer": "Long view",
+            "hint": "Farsighted perspective (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                90,
+                73,
+                168,
+                49,
+                137,
+                115,
+                36,
+                10
+            ],
+            "answer": "Evolving",
+            "hint": "Not fixed, as a set of beliefs"
+        },
+        "J": {
+            "cells": [
+                101,
+                82,
+                117,
+                126,
+                52,
+                5,
+                150,
+                29,
+                42
+            ],
+            "answer": "Clip joint",
+            "hint": "Business that overcharges customers (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                103,
+                130,
+                23,
+                171,
+                83,
+                41
+            ],
+            "answer": "Titian",
+            "hint": "Painter of \u201cAssumption of the Virgin,\u201d 1516-18"
+        },
+        "L": {
+            "cells": [
+                53,
+                181,
+                133,
+                151,
+                78,
+                166,
+                91,
+                9,
+                106,
+                65
+            ],
+            "answer": "Unofficial",
+            "hint": "Cited but not verified"
+        },
+        "M": {
+            "cells": [
+                165,
+                127,
+                20,
+                34,
+                149
+            ],
+            "answer": "Raven",
+            "hint": "Glossy black"
+        },
+        "N": {
+            "cells": [
+                56,
+                92,
+                175,
+                74,
+                121,
+                155,
+                40,
+                132
+            ],
+            "answer": "Ethernet",
+            "hint": "Way of getting connected since the 1970s"
+        },
+        "O": {
+            "cells": [
+                177,
+                69,
+                7,
+                156,
+                24,
+                99
+            ],
+            "answer": "Sitcom",
+            "hint": "1964 Life magazine coinage regarding \u201cThe Bing Crosby Show\u201d"
+        },
+        "P": {
+            "cells": [
+                136,
+                50,
+                8,
+                35,
+                85,
+                67
+            ],
+            "answer": "Obsess",
+            "hint": "Be unwilling to let go"
+        },
+        "Q": {
+            "cells": [
+                131,
+                157,
+                84,
+                118,
+                45,
+                170,
+                21,
+                68,
+                6
+            ],
+            "answer": "Newlyweds",
+            "hint": "Participants in a TV game show originally hosted by Bob Eubanks"
+        },
+        "R": {
+            "cells": [
+                163,
+                51,
+                98,
+                114,
+                38,
+                134,
+                14,
+                182,
+                70
+            ],
+            "answer": "Peach pits",
+            "hint": "Stones in a Georgia orchard (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                80,
+                100,
+                148,
+                2,
+                37,
+                19,
+                59,
+                172
+            ],
+            "answer": "High test",
+            "hint": "Strong coffee, not the wimpy stuff (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                76,
+                94,
+                43,
+                167,
+                16,
+                141,
+                54,
+                110,
+                26
+            ],
+            "answer": "You said it",
+            "hint": "\u201cTruer words were never spoken!\u201d (3 wds.)"
+        },
+        "U": {
+            "cells": [
+                146,
+                122,
+                12,
+                60,
+                162,
+                81,
+                32,
+                174
+            ],
+            "answer": "Swim meet",
+            "hint": "Chance to make a competitive splash (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                144,
+                113,
+                13,
+                66,
+                123,
+                39,
+                79
+            ],
+            "answer": "Inflict",
+            "hint": "Administer in an unwelcome way"
+        },
+        "W": {
+            "cells": [
+                111,
+                48,
+                176,
+                145,
+                160,
+                27,
+                129,
+                95
+            ],
+            "answer": "Clinched",
+            "hint": "In the bag"
+        },
+        "X": {
+            "cells": [
+                102,
+                173,
+                77,
+                135,
+                33,
+                63,
+                154,
+                116,
+                3
+            ],
+            "answer": "Short-wave",
+            "hint": "Radio descriptor (hyph.)"
+        }
+    }
+}

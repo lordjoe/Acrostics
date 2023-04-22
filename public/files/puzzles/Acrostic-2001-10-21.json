@@ -1,0 +1,349 @@
+{
+    "answer": "I saw myself as a man might expect, except that my skin was very white,... my eyes had been transformed from... blue to a mingling of violet and cobalt.... My hair had a high luminous sheen, and I felt a... new and strange vitality.",
+    "author": "Anne Rice,",
+    "authorCell": [
+        107,
+        72,
+        16,
+        78,
+        81,
+        1,
+        30,
+        60,
+        115,
+        62,
+        67,
+        165,
+        155,
+        77,
+        24,
+        96,
+        76,
+        105,
+        149,
+        66,
+        46,
+        34,
+        36,
+        69
+    ],
+    "source": "The Vampire Lestat",
+    "clues": {
+        "A": {
+            "cells": [
+                107,
+                117,
+                41,
+                70,
+                82,
+                172,
+                157
+            ],
+            "answer": "Aykroyd",
+            "hint": "Player of Dr. Stantz in \u201cGhostbusters\u201d"
+        },
+        "B": {
+            "cells": [
+                72,
+                146,
+                163,
+                129,
+                54,
+                5,
+                151,
+                121,
+                102,
+                40,
+                20
+            ],
+            "answer": "Nightmarish",
+            "hint": "Grotesquely horrifying"
+        },
+        "C": {
+            "cells": [
+                16,
+                164,
+                137,
+                88
+            ],
+            "answer": "Nest",
+            "hint": "Iniquitous haunt; brood"
+        },
+        "D": {
+            "cells": [
+                78,
+                91,
+                112,
+                161,
+                104,
+                17,
+                31,
+                124
+            ],
+            "answer": "Embalmed",
+            "hint": "Prepared for a long rest"
+        },
+        "E": {
+            "cells": [
+                81,
+                99,
+                116,
+                63,
+                152,
+                39
+            ],
+            "answer": "Romany",
+            "hint": "Indic language of Gypsies"
+        },
+        "F": {
+            "cells": [
+                1,
+                144,
+                110,
+                127,
+                73,
+                89,
+                160
+            ],
+            "answer": "Incisor",
+            "hint": "Companion of a canine"
+        },
+        "G": {
+            "cells": [
+                30,
+                114,
+                168,
+                83,
+                14,
+                57
+            ],
+            "answer": "Clammy",
+            "hint": "Like a Gothic dungeon, perhaps"
+        },
+        "H": {
+            "cells": [
+                60,
+                9,
+                100,
+                38,
+                123,
+                156
+            ],
+            "answer": "Elfman",
+            "hint": "Danny ___, composer of the score for 1999\u2019s \u201cSleepy Hollow\u201d"
+        },
+        "I": {
+            "cells": [
+                115,
+                122,
+                143,
+                134,
+                45,
+                27,
+                103,
+                61
+            ],
+            "answer": "Thanatos",
+            "hint": "Death personified"
+        },
+        "J": {
+            "cells": [
+                62,
+                119,
+                130,
+                169,
+                75,
+                4,
+                55,
+                22,
+                97
+            ],
+            "answer": "Halloween",
+            "hint": "Occasion of macabre visions"
+        },
+        "K": {
+            "cells": [
+                67,
+                47,
+                133,
+                95
+            ],
+            "answer": "Evil",
+            "hint": "\u201cThe snake stood up for ___ in the Garden\u201d (Robert Frost)"
+        },
+        "L": {
+            "cells": [
+                165,
+                71,
+                43,
+                52,
+                153,
+                85,
+                7,
+                18,
+                142,
+                94
+            ],
+            "answer": "Van Helsing",
+            "hint": "Doctor in Bram Stoker\u2019s \u201cDracula\u201d (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                155,
+                68,
+                29,
+                170,
+                8,
+                106,
+                50
+            ],
+            "answer": "Anxiety",
+            "hint": "Abnormal state of psychic tension"
+        },
+        "N": {
+            "cells": [
+                77,
+                125,
+                23,
+                101,
+                135,
+                93,
+                158,
+                6,
+                64,
+                111,
+                51
+            ],
+            "answer": "Max von Sydow",
+            "hint": "Player of the exorcist in \u201cThe Exorcist\u201d (3 wds.)"
+        },
+        "O": {
+            "cells": [
+                24,
+                13,
+                42,
+                136,
+                171,
+                148
+            ],
+            "answer": "Paiute",
+            "hint": "People known for the Ghost Dance"
+        },
+        "P": {
+            "cells": [
+                96,
+                162,
+                26,
+                131,
+                65,
+                86,
+                12
+            ],
+            "answer": "Incubus",
+            "hint": "Nocturnal demon of legend"
+        },
+        "Q": {
+            "cells": [
+                76,
+                113,
+                33,
+                84,
+                53,
+                159,
+                140
+            ],
+            "answer": "Ratbite",
+            "hint": "Kind of fever caused by vermin"
+        },
+        "R": {
+            "cells": [
+                105,
+                147,
+                80,
+                48,
+                37,
+                58
+            ],
+            "answer": "Effete",
+            "hint": "Drained of life; decadent"
+        },
+        "S": {
+            "cells": [
+                149,
+                15,
+                56,
+                120,
+                90
+            ],
+            "answer": "Lamia",
+            "hint": "Half-woman, half-serpent of folklore"
+        },
+        "T": {
+            "cells": [
+                66,
+                145,
+                128,
+                28,
+                109
+            ],
+            "answer": "Edged",
+            "hint": "Having a sharp and piercing quality"
+        },
+        "U": {
+            "cells": [
+                46,
+                154,
+                3,
+                132,
+                32,
+                167,
+                118,
+                92,
+                108,
+                19
+            ],
+            "answer": "Swamp Thing",
+            "hint": "Comic book monster who declares, \u201cI was once a man. I know the evil men do\u201d (2 wds.) (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                34,
+                126,
+                11,
+                44,
+                141,
+                79
+            ],
+            "answer": "Thawed",
+            "hint": "What the alien did in John W. Campbell\u2019s \u201cWho Goes There?\u201d"
+        },
+        "W": {
+            "cells": [
+                36,
+                74,
+                10,
+                49,
+                166,
+                98,
+                139,
+                21
+            ],
+            "answer": "Affright",
+            "hint": "Scare the willies out of"
+        },
+        "X": {
+            "cells": [
+                69,
+                35,
+                59,
+                25,
+                2,
+                150,
+                87,
+                138
+            ],
+            "answer": "Thyestes",
+            "hint": "Unknowing cannibal in a Greek myth"
+        }
+    }
+}

@@ -1,0 +1,337 @@
+{
+    "answer": "Chaucer could not hold a conversation with a modern Englishman, even though they are linked to each other by an unbroken chain of... Englishmen. Language evolves... at a rate... orders of magnitude faster than genetic evolution.",
+    "author": "(Richard) Dawkins,",
+    "authorCell": [
+        12,
+        132,
+        33,
+        74,
+        111,
+        99,
+        49,
+        133,
+        59,
+        98,
+        27,
+        115,
+        110,
+        106,
+        34,
+        131,
+        82,
+        62,
+        167,
+        93,
+        54
+    ],
+    "source": "The Selfish Gene",
+    "clues": {
+        "A": {
+            "cells": [
+                12,
+                83,
+                166,
+                25,
+                102,
+                64,
+                40,
+                127,
+                149
+            ],
+            "answer": "Dog-eat-dog",
+            "hint": "Giving no quarter (hyph.)"
+        },
+        "B": {
+            "cells": [
+                132,
+                4,
+                23,
+                118,
+                84,
+                61,
+                42,
+                160,
+                71
+            ],
+            "answer": "Au naturel",
+            "hint": "Lacking any sort of modest covering (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                33,
+                79,
+                164,
+                143
+            ],
+            "answer": "Wear",
+            "hint": "Sport"
+        },
+        "D": {
+            "cells": [
+                74,
+                173,
+                87,
+                8,
+                36,
+                103,
+                56,
+                146
+            ],
+            "answer": "Kerchief",
+            "hint": "Article of apparel in \u201cA Visit From St. Nicholas\u201d"
+        },
+        "E": {
+            "cells": [
+                111,
+                43,
+                85,
+                6,
+                26,
+                72,
+                162,
+                125,
+                141
+            ],
+            "answer": "Inherited",
+            "hint": "Received according to a certain code"
+        },
+        "F": {
+            "cells": [
+                99,
+                148,
+                15,
+                113,
+                80,
+                45,
+                63,
+                28,
+                128,
+                169
+            ],
+            "answer": "Nathan Hale",
+            "hint": "Spy who posed as a Dutch schoolteacher in 1776 (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                49,
+                60,
+                156,
+                137,
+                170,
+                96,
+                121,
+                21,
+                2
+            ],
+            "answer": "Soft touch",
+            "hint": "Easy mark for a sponge or a con artist (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                133,
+                107,
+                57,
+                119,
+                89,
+                158,
+                175,
+                13
+            ],
+            "answer": "Tennyson",
+            "hint": "Poet who wrote \u201cHalf a league, half a league, / Half a league onward\u201d"
+        },
+        "I": {
+            "cells": [
+                59,
+                41,
+                100,
+                134,
+                152,
+                70
+            ],
+            "answer": "Hecate",
+            "hint": "Greek goddess associated with magic and the underworld"
+        },
+        "J": {
+            "cells": [
+                98,
+                47,
+                112,
+                37,
+                176,
+                126,
+                136,
+                19,
+                78,
+                161
+            ],
+            "answer": "El Salvador",
+            "hint": "Continental America\u2019s smallest country (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                27,
+                81,
+                68,
+                95,
+                157,
+                114,
+                145,
+                10,
+                172,
+                50,
+                130
+            ],
+            "answer": "Scaramouche",
+            "hint": "Cowardly braggart of commedia dell\u2019arte"
+        },
+        "L": {
+            "cells": [
+                115,
+                51,
+                94,
+                135,
+                67,
+                180,
+                165,
+                151,
+                5
+            ],
+            "answer": "Embryonic",
+            "hint": "At an early stage"
+        },
+        "M": {
+            "cells": [
+                110,
+                14,
+                55,
+                138,
+                163,
+                122,
+                29,
+                75
+            ],
+            "answer": "Love-hate",
+            "hint": "Conflicted in an oxymoronic way (hyph.)"
+        },
+        "N": {
+            "cells": [
+                106,
+                18,
+                90,
+                178,
+                153,
+                117,
+                44,
+                32,
+                58
+            ],
+            "answer": "Flatulent",
+            "hint": "Windy, in a way"
+        },
+        "O": {
+            "cells": [
+                34,
+                181,
+                1,
+                101,
+                17,
+                150
+            ],
+            "answer": "Inchon",
+            "hint": "Site of a tide-turning battle in the Korean War"
+        },
+        "P": {
+            "cells": [
+                131,
+                92,
+                46,
+                109,
+                155,
+                144,
+                35,
+                171,
+                24,
+                66
+            ],
+            "answer": "Suggestive",
+            "hint": "Slightly blue"
+        },
+        "Q": {
+            "cells": [
+                82,
+                52,
+                116,
+                97,
+                3,
+                20,
+                140,
+                31,
+                168
+            ],
+            "answer": "Hank Aaron",
+            "hint": "Baseball\u2019s all-time leader in total bases (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                62,
+                9,
+                22,
+                76,
+                147,
+                105,
+                129,
+                86
+            ],
+            "answer": "Good move",
+            "hint": "Nice play; smart plan (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                167,
+                154,
+                48,
+                104,
+                88,
+                177,
+                69,
+                123,
+                16
+            ],
+            "answer": "Edinburgh",
+            "hint": "City founded, per legend, by Malcolm III"
+        },
+        "T": {
+            "cells": [
+                93,
+                142,
+                39,
+                53,
+                11,
+                179,
+                120,
+                65,
+                77
+            ],
+            "answer": "Neon light",
+            "hint": "\u201cBright\u201d invention first displayed by Nikola Tesla at the 1893 World\u2019s Fair (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                54,
+                108,
+                174,
+                30,
+                7,
+                139,
+                91,
+                38,
+                124,
+                73,
+                159
+            ],
+            "answer": "Environment",
+            "hint": "External forces collectively affecting an organism"
+        }
+    }
+}

@@ -1,0 +1,359 @@
+{
+    "answer": "Goshawks resemble sparrowhawks the way leopards resemble housecats. Bigger, yes. But bulkier, bloodier, deadlier, scarier, and much, much harder to see. Birds of deep woodland, not gardens, they\u2019re the birdwatchers\u2019 dark grail.",
+    "author": "Helen Macdonald,",
+    "authorCell": [
+        24,
+        12,
+        15,
+        10,
+        143,
+        13,
+        19,
+        96,
+        131,
+        2,
+        151,
+        140,
+        91,
+        116,
+        113,
+        92,
+        3,
+        130,
+        81,
+        176,
+        154,
+        102,
+        135,
+        27
+    ],
+    "source": "H is for Hawk",
+    "clues": {
+        "A": {
+            "cells": [
+                24,
+                120,
+                53,
+                86,
+                178,
+                139,
+                167,
+                8,
+                42
+            ],
+            "answer": "Hourglass",
+            "hint": "Item destroyed by the Wicked Witch of the West"
+        },
+        "B": {
+            "cells": [
+                12,
+                40,
+                148,
+                175,
+                58,
+                73,
+                105
+            ],
+            "answer": "Erratum",
+            "hint": "Admission in print of human fallibility"
+        },
+        "C": {
+            "cells": [
+                15,
+                61,
+                29,
+                153,
+                171,
+                115
+            ],
+            "answer": "Litter",
+            "hint": "A blight on the landscape"
+        },
+        "D": {
+            "cells": [
+                10,
+                74,
+                128,
+                150,
+                166,
+                30,
+                50,
+                101,
+                117
+            ],
+            "answer": "Elsewhere",
+            "hint": "Destination of an unhappy patron?"
+        },
+        "E": {
+            "cells": [
+                143,
+                161,
+                124,
+                78,
+                97,
+                54,
+                177,
+                25
+            ],
+            "answer": "Nebraska",
+            "hint": "2013 film with a Billings-to-Lincoln road trip"
+        },
+        "F": {
+            "cells": [
+                13,
+                110,
+                90,
+                149,
+                49,
+                31,
+                165
+            ],
+            "answer": "Muddled",
+            "hint": "In a state of confusion"
+        },
+        "G": {
+            "cells": [
+                19,
+                79,
+                179,
+                106,
+                134,
+                159,
+                35,
+                66
+            ],
+            "answer": "Abruptly",
+            "hint": "All of a sudden"
+        },
+        "H": {
+            "cells": [
+                96,
+                172,
+                144,
+                68,
+                11,
+                44,
+                127
+            ],
+            "answer": "Crossed",
+            "hint": "Like fingers before some important announcements"
+        },
+        "I": {
+            "cells": [
+                131,
+                70,
+                56,
+                7,
+                32,
+                158,
+                88,
+                104
+            ],
+            "answer": "Duckweed",
+            "hint": "Plant that floats in still ponds"
+        },
+        "J": {
+            "cells": [
+                2,
+                138,
+                22,
+                47,
+                93,
+                119,
+                77,
+                164
+            ],
+            "answer": "Odometer",
+            "hint": "Standard dashboard feature"
+        },
+        "K": {
+            "cells": [
+                151,
+                114,
+                65,
+                21,
+                37,
+                6,
+                133,
+                87
+            ],
+            "answer": "Narrowed",
+            "hint": "Lost breadth"
+        },
+        "L": {
+            "cells": [
+                140,
+                72,
+                157,
+                180,
+                4,
+                89,
+                109
+            ],
+            "answer": "Abraham",
+            "hint": "First name associated with a five"
+        },
+        "M": {
+            "cells": [
+                91,
+                39,
+                162,
+                136,
+                20,
+                59
+            ],
+            "answer": "Labors",
+            "hint": "Plods, grinds, drudges, strains"
+        },
+        "N": {
+            "cells": [
+                116,
+                137,
+                1,
+                182,
+                100,
+                63,
+                45
+            ],
+            "answer": "Doglegs",
+            "hint": "Atypical par 3\u2019s"
+        },
+        "O": {
+            "cells": [
+                113,
+                99,
+                146,
+                160,
+                43,
+                84,
+                17,
+                67
+            ],
+            "answer": "High rise",
+            "hint": "What Brits call a \u201ctower block\u201d (hyph.)"
+        },
+        "P": {
+            "cells": [
+                92,
+                169,
+                36,
+                23,
+                5,
+                145,
+                64,
+                126
+            ],
+            "answer": "Ice water",
+            "hint": "What the unflappable have in their veins (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                3,
+                51,
+                94,
+                132,
+                26,
+                76,
+                173,
+                112
+            ],
+            "answer": "Shrewish",
+            "hint": "Constantly nagging, in prefeminist days"
+        },
+        "R": {
+            "cells": [
+                130,
+                155,
+                46,
+                174,
+                14,
+                33,
+                107,
+                75
+            ],
+            "answer": "Feedback",
+            "hint": "Effect at the start of the Beatles\u2019 \u201cI Feel Fine\u201d"
+        },
+        "S": {
+            "cells": [
+                81,
+                18,
+                122,
+                141,
+                95,
+                108,
+                52,
+                38
+            ],
+            "answer": "Open shop",
+            "hint": "Workplace that disregards union membership (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                176,
+                82,
+                69,
+                48,
+                16,
+                118,
+                156
+            ],
+            "answer": "Robbery",
+            "hint": "Inappropriate appropriating"
+        },
+        "U": {
+            "cells": [
+                154,
+                57,
+                98,
+                181,
+                111,
+                129,
+                71,
+                28
+            ],
+            "answer": "Haricots",
+            "hint": "Navy beans"
+        },
+        "V": {
+            "cells": [
+                102,
+                60,
+                147,
+                121,
+                170,
+                85,
+                41
+            ],
+            "answer": "Abashed",
+            "hint": "Wearing a hangdog look, perhaps"
+        },
+        "W": {
+            "cells": [
+                135,
+                123,
+                152,
+                168,
+                55,
+                9,
+                80,
+                34
+            ],
+            "answer": "Westerly",
+            "hint": "Like winds in the middle latitudes"
+        },
+        "X": {
+            "cells": [
+                27,
+                125,
+                142,
+                83,
+                163,
+                103,
+                62
+            ],
+            "answer": "Kidding",
+            "hint": "Not in earnest"
+        }
+    }
+}

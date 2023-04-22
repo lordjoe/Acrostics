@@ -1,0 +1,317 @@
+{
+    "answer": "Diddy-Wah-Diddy ... is a place of no work and no worry.... The road to it is so crooked that a mule pulling a load of fodder can eat off the... wagon as he plods along. All curbstones are chairs, and all food is already cooked.",
+    "author": "WPA,",
+    "authorCell": [
+        62,
+        63,
+        60,
+        6,
+        17,
+        156,
+        77,
+        126,
+        14,
+        9,
+        111,
+        130,
+        97,
+        23,
+        148,
+        54,
+        90,
+        2,
+        153,
+        160
+    ],
+    "source": "The WPA Guide to Florida",
+    "clues": {
+        "A": {
+            "cells": [
+                62,
+                165,
+                5,
+                128,
+                34,
+                108,
+                50
+            ],
+            "answer": "Toy boat",
+            "hint": "Plaything whose name is famously hard to say five times fast (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                63,
+                135,
+                20,
+                10,
+                102,
+                31,
+                168,
+                117
+            ],
+            "answer": "Hacienda",
+            "hint": "Southwestern spread"
+        },
+        "C": {
+            "cells": [
+                60,
+                12,
+                46,
+                162,
+                140,
+                127,
+                76,
+                106,
+                118,
+                32
+            ],
+            "answer": "Eddy Arnold",
+            "hint": "Country crooner called the Tennessee Plowboy (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                6,
+                147,
+                96,
+                167,
+                56,
+                79,
+                131,
+                22
+            ],
+            "answer": "Waterloo",
+            "hint": "Major London Underground station"
+        },
+        "E": {
+            "cells": [
+                17,
+                149,
+                78,
+                91,
+                51,
+                1
+            ],
+            "answer": "Placid",
+            "hint": "Tranquil, undisturbed"
+        },
+        "F": {
+            "cells": [
+                156,
+                123,
+                92,
+                24,
+                69,
+                45,
+                82,
+                146
+            ],
+            "answer": "Alan Ladd",
+            "hint": "Actor with the title role in \u201cShane\u201d (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                77,
+                57,
+                164,
+                15,
+                49,
+                33,
+                121
+            ],
+            "answer": "Goosing",
+            "hint": "Action that may stimulate or startle"
+        },
+        "H": {
+            "cells": [
+                126,
+                18,
+                40,
+                158,
+                95,
+                109,
+                58,
+                68,
+                145,
+                3
+            ],
+            "answer": "Ultrasound",
+            "hint": "Medium used for scanning organs"
+        },
+        "I": {
+            "cells": [
+                14,
+                112,
+                134,
+                36,
+                99,
+                66,
+                163,
+                47,
+                151
+            ],
+            "answer": "Ipso facto",
+            "hint": "By its very nature (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                9,
+                152,
+                27,
+                67,
+                53,
+                87,
+                104,
+                39
+            ],
+            "answer": "Doomsday",
+            "hint": "Apocalyptic event prophesied by Nostradamus and others"
+        },
+        "K": {
+            "cells": [
+                111,
+                19,
+                136,
+                84,
+                72,
+                124
+            ],
+            "answer": "Earful",
+            "hint": "A dressing down or bawling out"
+        },
+        "L": {
+            "cells": [
+                130,
+                159,
+                7,
+                55,
+                139,
+                89,
+                43,
+                116,
+                71,
+                21,
+                100
+            ],
+            "answer": "Teacher\u2019s pet",
+            "hint": "Apple polisher (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                97,
+                157,
+                115,
+                41,
+                75,
+                138,
+                59,
+                83,
+                28,
+                13
+            ],
+            "answer": "Old Hickory",
+            "hint": "Sobriquet of President Andrew Jackson (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                23,
+                64,
+                129,
+                8,
+                154,
+                44,
+                93
+            ],
+            "answer": "Fashion",
+            "hint": "\u201cA ___ is nothing but an induced epidemic\u201d (G. B. Shaw)"
+        },
+        "O": {
+            "cells": [
+                148,
+                48,
+                16,
+                120,
+                26,
+                80,
+                38,
+                88
+            ],
+            "answer": "Loanword",
+            "hint": "Samurai or chauffeur, e.g."
+        },
+        "P": {
+            "cells": [
+                54,
+                11,
+                161,
+                85,
+                133,
+                73,
+                113,
+                25,
+                103,
+                143
+            ],
+            "answer": "Odd Fellows",
+            "hint": "Members of the Three Link Fraternity (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                90,
+                30,
+                4,
+                125,
+                74,
+                141,
+                150,
+                98,
+                42
+            ],
+            "answer": "Radcliffe",
+            "hint": "College named after the woman who established the first scholarship at Harvard"
+        },
+        "R": {
+            "cells": [
+                2,
+                155,
+                101,
+                70,
+                142,
+                35,
+                86,
+                114,
+                61
+            ],
+            "answer": "Isherwood",
+            "hint": "Auden\u2019s collaborator on \u201cThe Ascent of F6\u201d"
+        },
+        "S": {
+            "cells": [
+                153,
+                81,
+                37,
+                166,
+                122,
+                105,
+                137,
+                52
+            ],
+            "answer": "Dark Ages",
+            "hint": "Period following the sack of Rome (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                160,
+                29,
+                110,
+                94,
+                132,
+                144,
+                65,
+                119,
+                107
+            ],
+            "answer": "Akhenaton",
+            "hint": "Pharaoh whose wife was Nefertiti"
+        }
+    }
+}

@@ -1,0 +1,365 @@
+{
+    "answer": "I started going to jazz clubs in New York when I was twelve or thirteen... . I remember seeing... Count Basie at... Birdland... . When the whole band pumped out one of those thirteenth chords, you could feel the breeze on your face.",
+    "author": "Donald Fagen,",
+    "authorCell": [
+        8,
+        102,
+        166,
+        83,
+        103,
+        114,
+        122,
+        106,
+        72,
+        62,
+        12,
+        161,
+        61,
+        11,
+        135,
+        69,
+        91,
+        132,
+        137,
+        130,
+        109,
+        143,
+        97,
+        164,
+        53,
+        126
+    ],
+    "source": "Eminent Hipsters",
+    "clues": {
+        "A": {
+            "cells": [
+                8,
+                140,
+                115,
+                159,
+                70,
+                28
+            ],
+            "answer": "Doobie",
+            "hint": "Slang for a marijuana cigarette"
+        },
+        "B": {
+            "cells": [
+                102,
+                73,
+                128,
+                7,
+                42
+            ],
+            "answer": "Octet",
+            "hint": "Orchestra rather downsized"
+        },
+        "C": {
+            "cells": [
+                166,
+                90,
+                6,
+                110,
+                32,
+                127
+            ],
+            "answer": "\"Nature\"",
+            "hint": "Essay in which Ralph Waldo Emerson stated his creed"
+        },
+        "D": {
+            "cells": [
+                83,
+                146,
+                14,
+                101,
+                48,
+                131
+            ],
+            "answer": "Author",
+            "hint": "One credited with an act of creation"
+        },
+        "E": {
+            "cells": [
+                103,
+                153,
+                1,
+                41,
+                169,
+                59,
+                134
+            ],
+            "answer": "Leisure",
+            "hint": "Kind of suit for a lounge lizard"
+        },
+        "F": {
+            "cells": [
+                114,
+                39,
+                158,
+                65,
+                85
+            ],
+            "answer": "Dweeb",
+            "hint": "Misfit with no cool"
+        },
+        "G": {
+            "cells": [
+                122,
+                95,
+                3,
+                52,
+                67,
+                139
+            ],
+            "answer": "Fetish",
+            "hint": "Object of obsessive devotion"
+        },
+        "H": {
+            "cells": [
+                106,
+                49,
+                136,
+                30
+            ],
+            "answer": "Arty",
+            "hint": "Bohemian"
+        },
+        "I": {
+            "cells": [
+                72,
+                17,
+                116,
+                138,
+                35,
+                165
+            ],
+            "answer": "Gaucho",
+            "hint": "Cowboy on the pampas of Argentina"
+        },
+        "J": {
+            "cells": [
+                62,
+                92,
+                43,
+                79,
+                170,
+                108
+            ],
+            "answer": "Edward",
+            "hint": "Duke Ellington\u2019s first name"
+        },
+        "K": {
+            "cells": [
+                12,
+                86,
+                26,
+                156,
+                129
+            ],
+            "answer": "Ninth",
+            "hint": "Musical interval of an octave and a second"
+        },
+        "L": {
+            "cells": [
+                161,
+                46,
+                174,
+                66,
+                144,
+                117,
+                98,
+                81,
+                27,
+                13
+            ],
+            "answer": "Everything",
+            "hint": "What passes, perishes and palls, in an old saying"
+        },
+        "M": {
+            "cells": [
+                61,
+                160,
+                16,
+                145,
+                37,
+                82,
+                2
+            ],
+            "answer": "Mr. Jones",
+            "hint": "Who doesn\u2019t know what\u2019s happening, in a Dylan song (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                11,
+                173,
+                55,
+                105,
+                118,
+                149,
+                71,
+                88
+            ],
+            "answer": "Icebound",
+            "hint": "Like Ernest Shackleton\u2019s ship before it sank"
+        },
+        "O": {
+            "cells": [
+                135,
+                120,
+                84,
+                157,
+                99,
+                5
+            ],
+            "answer": "Nether",
+            "hint": "Situated below the surface"
+        },
+        "P": {
+            "cells": [
+                69,
+                147,
+                94,
+                168,
+                24,
+                54,
+                125,
+                112
+            ],
+            "answer": "Echo stop",
+            "hint": "Organist\u2019s tool for creating an atmospheric effect (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                91,
+                172,
+                33,
+                47,
+                142,
+                155,
+                75,
+                107,
+                20,
+                124
+            ],
+            "answer": "\"Naked Lunch\"",
+            "hint": "William S. Burroughs novel once banned in Boston (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                132,
+                25,
+                111,
+                64,
+                87,
+                162
+            ],
+            "answer": "Timbre",
+            "hint": "Quality of sound"
+        },
+        "S": {
+            "cells": [
+                137,
+                10,
+                93,
+                150,
+                58,
+                119,
+                29,
+                74,
+                45,
+                171
+            ],
+            "answer": "Howlin' Wolf",
+            "hint": "Chicago blues singer of \u201cSpoonful\u201d (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                130,
+                78,
+                40,
+                96,
+                60,
+                19
+            ],
+            "answer": "Ibanez",
+            "hint": "Guitar brand of Japan"
+        },
+        "U": {
+            "cells": [
+                109,
+                141,
+                154,
+                123,
+                18,
+                56,
+                89
+            ],
+            "answer": "Pretzel",
+            "hint": "Symbol of a knotty situation"
+        },
+        "V": {
+            "cells": [
+                143,
+                51,
+                121,
+                100,
+                23,
+                38,
+                163
+            ],
+            "answer": "Show biz",
+            "hint": "TV, Hollywood, music gigs, etc."
+        },
+        "W": {
+            "cells": [
+                97,
+                34,
+                148,
+                80,
+                15,
+                63,
+                133
+            ],
+            "answer": "Twosome",
+            "hint": "Small matchup in golf"
+        },
+        "X": {
+            "cells": [
+                164,
+                50,
+                31,
+                76
+            ],
+            "answer": "Eton",
+            "hint": "Where Captain Hook was educated"
+        },
+        "Y": {
+            "cells": [
+                53,
+                68,
+                152,
+                22,
+                9,
+                113,
+                36
+            ],
+            "answer": "Refugee",
+            "hint": "One asking to be taken in"
+        },
+        "Z": {
+            "cells": [
+                126,
+                77,
+                104,
+                44,
+                21,
+                167,
+                151,
+                4,
+                57
+            ],
+            "answer": "Steely Dan",
+            "hint": "Group co-founded by the writer of this puzzle\u2019s quote (2 wds.)"
+        }
+    }
+}

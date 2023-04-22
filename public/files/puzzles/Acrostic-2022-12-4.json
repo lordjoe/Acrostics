@@ -1,0 +1,368 @@
+{
+    "answer": "By Homer\u2019s time... bronze was... melted down and used again and again over generations. A dagger... might become beads or a bangle, then be sold and recycled into a cooking pot..., then reincarnated as a chariot wheel... or a spearhead.",
+    "author": "(Jo) Marchant,",
+    "authorCell": [
+        11,
+        61,
+        91,
+        154,
+        174,
+        172,
+        138,
+        134,
+        88,
+        137,
+        125,
+        166,
+        46,
+        120,
+        65,
+        76,
+        135,
+        3,
+        163,
+        100,
+        140,
+        44,
+        53,
+        54,
+        102,
+        89
+    ],
+    "source": "Decoding the Heavens",
+    "clues": {
+        "A": {
+            "cells": [
+                11,
+                98,
+                116,
+                155,
+                47,
+                31,
+                141,
+                169,
+                83
+            ],
+            "answer": "Mechanism",
+            "hint": "Device with moving parts; means to an end"
+        },
+        "B": {
+            "cells": [
+                61,
+                43,
+                99,
+                75,
+                128,
+                115,
+                148,
+                162,
+                26,
+                7,
+                176
+            ],
+            "answer": "Antikythera",
+            "hint": "Greek island, site of a wrecked ship carrying an ancient orrery"
+        },
+        "C": {
+            "cells": [
+                91,
+                18,
+                1,
+                127,
+                35,
+                142,
+                111,
+                66
+            ],
+            "answer": "Rebounds",
+            "hint": "Utilizes good hops in hoops"
+        },
+        "D": {
+            "cells": [
+                154,
+                112,
+                126,
+                30,
+                13,
+                94,
+                55
+            ],
+            "answer": "Crowbar",
+            "hint": "Tool for forcing an opening"
+        },
+        "E": {
+            "cells": [
+                174,
+                49,
+                130,
+                70,
+                5,
+                92,
+                146
+            ],
+            "answer": "Hangman",
+            "hint": "Guessing game with a stick figure"
+        },
+        "F": {
+            "cells": [
+                172,
+                97,
+                117,
+                82,
+                2,
+                37,
+                150
+            ],
+            "answer": "Alloyed",
+            "hint": "Mixed, as the articles in this puzzle\u2019s quote"
+        },
+        "G": {
+            "cells": [
+                138,
+                101,
+                161,
+                85,
+                50,
+                6,
+                36
+            ],
+            "answer": "Newbies",
+            "hint": "Tyros, novices, greenhorns"
+        },
+        "H": {
+            "cells": [
+                134,
+                59,
+                32,
+                167,
+                105
+            ],
+            "answer": "Tears",
+            "hint": "Salty things you may break into"
+        },
+        "I": {
+            "cells": [
+                88,
+                175,
+                151,
+                34,
+                132,
+                109,
+                16
+            ],
+            "answer": "Deadpan",
+            "hint": "What a comedy duo\u2019s foil should be"
+        },
+        "J": {
+            "cells": [
+                137,
+                24,
+                114,
+                158,
+                68
+            ],
+            "answer": "El Cid",
+            "hint": "Epithet of Rodrigo Díaz de Vivar (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                125,
+                29,
+                145,
+                58,
+                77,
+                90,
+                165,
+                12
+            ],
+            "answer": "Cornhole",
+            "hint": "Lawn game for lobbers"
+        },
+        "L": {
+            "cells": [
+                166,
+                139,
+                96,
+                124,
+                51,
+                17,
+                67
+            ],
+            "answer": "Organza",
+            "hint": "Sheer fabric for an evening gown"
+        },
+        "M": {
+            "cells": [
+                46,
+                19,
+                149,
+                86,
+                103
+            ],
+            "answer": "Dweeb",
+            "hint": "Nerd, wimp, dork, poindexter"
+        },
+        "N": {
+            "cells": [
+                120,
+                14,
+                64,
+                95,
+                147,
+                48,
+                171
+            ],
+            "answer": "Iron Age",
+            "hint": "Heyday for some forgers? (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                65,
+                168,
+                22,
+                41,
+                152,
+                122,
+                84
+            ],
+            "answer": "Namaste",
+            "hint": "Indian greeting said with a bow and hands pressed together"
+        },
+        "P": {
+            "cells": [
+                76,
+                20,
+                119,
+                40,
+                104,
+                62
+            ],
+            "answer": "Gadget",
+            "hint": "Inspector with a dog named Brain"
+        },
+        "Q": {
+            "cells": [
+                135,
+                39,
+                157,
+                170,
+                10,
+                78
+            ],
+            "answer": "Tar pit",
+            "hint": "Spot good for a paleontologist, not so much for a mastodon (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                3,
+                23,
+                93,
+                177,
+                52,
+                74,
+                144,
+                108
+            ],
+            "answer": "Hebdomad",
+            "hint": "Days of the week or Disney dwarfs"
+        },
+        "S": {
+            "cells": [
+                163,
+                56,
+                131,
+                72,
+                38,
+                15,
+                110
+            ],
+            "answer": "Egged on",
+            "hint": "Urged, prodded, spurred, goaded (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                100,
+                123,
+                159,
+                27,
+                42,
+                80
+            ],
+            "answer": "Hoodie",
+            "hint": "Nice sweatshirt for a drizzly day"
+        },
+        "U": {
+            "cells": [
+                140,
+                156,
+                73,
+                121,
+                57,
+                8,
+                25
+            ],
+            "answer": "Earnest",
+            "hint": "Not kidding around, serious"
+        },
+        "V": {
+            "cells": [
+                44,
+                160,
+                136,
+                60,
+                106,
+                79
+            ],
+            "answer": "Athrob",
+            "hint": "Beating like a smitten lover\u2019s heart"
+        },
+        "W": {
+            "cells": [
+                53,
+                69,
+                173,
+                129,
+                87,
+                33,
+                9
+            ],
+            "answer": "Variant",
+            "hint": "Alternative spelling; mutation"
+        },
+        "X": {
+            "cells": [
+                54,
+                143,
+                81,
+                107,
+                164,
+                21
+            ],
+            "answer": "Eccles",
+            "hint": "Kind of cake named for an English town"
+        },
+        "Y": {
+            "cells": [
+                102,
+                4,
+                133,
+                28,
+                71,
+                118
+            ],
+            "answer": "Noodge",
+            "hint": "Faultfinder who gets on your nerves"
+        },
+        "Z": {
+            "cells": [
+                89,
+                63,
+                113,
+                45,
+                153
+            ],
+            "answer": "Siena",
+            "hint": "Tuscan province or its capital"
+        }
+    }
+}

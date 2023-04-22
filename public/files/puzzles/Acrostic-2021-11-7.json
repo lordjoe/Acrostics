@@ -1,0 +1,346 @@
+{
+    "answer": "Perhaps you\u2019ve heard of the reminiscence bump, a term psychologists use to describe the way... episodes... that occur between... ten and thirty tend to be recalled more vividly than those that occur earlier or later in life.",
+    "author": "Melissa Dahl,",
+    "authorCell": [
+        25,
+        97,
+        124,
+        108,
+        45,
+        29,
+        39,
+        81,
+        5,
+        85,
+        166,
+        153,
+        165,
+        28,
+        102,
+        52,
+        126,
+        96,
+        51,
+        130,
+        100,
+        48,
+        111
+    ],
+    "source": "Cringeworthy",
+    "clues": {
+        "A": {
+            "cells": [
+                25,
+                164,
+                134,
+                69,
+                43,
+                2,
+                114,
+                148,
+                83
+            ],
+            "answer": "Movements",
+            "hint": "Parts of orchestral works; army actions"
+        },
+        "B": {
+            "cells": [
+                97,
+                44,
+                67,
+                154,
+                19,
+                123,
+                135,
+                173
+            ],
+            "answer": "Epic fail",
+            "hint": "Total fiasco, in modern lingo (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                124,
+                86,
+                27,
+                139,
+                12,
+                66,
+                172
+            ],
+            "answer": "Lantern",
+            "hint": "Signaler from Old North Church in \u201cThe Midnight Ride of Paul Revere\u201d"
+        },
+        "D": {
+            "cells": [
+                108,
+                122,
+                22,
+                89,
+                155,
+                35,
+                169,
+                54
+            ],
+            "answer": "Ice cubes",
+            "hint": "Cold items from a tray (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                45,
+                129,
+                175,
+                112,
+                143,
+                88,
+                10,
+                30,
+                71
+            ],
+            "answer": "Soft touch",
+            "hint": "Easy mark, pushover, patsy (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                29,
+                80,
+                93,
+                159,
+                133,
+                119,
+                55,
+                8
+            ],
+            "answer": "Sobriety",
+            "hint": "Ideal condition for motorists to be in"
+        },
+        "G": {
+            "cells": [
+                39,
+                62,
+                115,
+                14,
+                92,
+                160,
+                76,
+                138
+            ],
+            "answer": "Adderley",
+            "hint": "Cannonball recorded for listeners"
+        },
+        "H": {
+            "cells": [
+                81,
+                41,
+                23,
+                132,
+                171,
+                146,
+                107
+            ],
+            "answer": "Dervish",
+            "hint": "Sufi counterpart of an ecstatic Shaker"
+        },
+        "I": {
+            "cells": [
+                5,
+                20,
+                60,
+                167,
+                47,
+                140,
+                94
+            ],
+            "answer": "Attache",
+            "hint": "Diplomat with an accent"
+        },
+        "J": {
+            "cells": [
+                85,
+                161,
+                106,
+                33,
+                4,
+                147,
+                17
+            ],
+            "answer": "Hitched",
+            "hint": "Was taken for a ride?"
+        },
+        "K": {
+            "cells": [
+                166,
+                72,
+                151,
+                13,
+                103,
+                50
+            ],
+            "answer": "Lethal",
+            "hint": "Like the bite of a king cobra"
+        },
+        "L": {
+            "cells": [
+                153,
+                170,
+                91,
+                128,
+                77,
+                31,
+                110,
+                58
+            ],
+            "answer": "Crumpets",
+            "hint": "Cakes cooked in rings on a griddle"
+        },
+        "M": {
+            "cells": [
+                165,
+                59,
+                125,
+                150,
+                40,
+                26,
+                11,
+                98
+            ],
+            "answer": "Relative",
+            "hint": "Not absolute; dependent on a comparison"
+        },
+        "N": {
+            "cells": [
+                28,
+                95,
+                174,
+                142,
+                121,
+                42,
+                158,
+                109,
+                75
+            ],
+            "answer": "Itinerary",
+            "hint": "Plan of a journey"
+        },
+        "O": {
+            "cells": [
+                102,
+                176,
+                65,
+                116,
+                141,
+                156,
+                53,
+                32,
+                82
+            ],
+            "answer": "Nectarine",
+            "hint": "Peachy source of antioxidants"
+        },
+        "P": {
+            "cells": [
+                52,
+                120,
+                63,
+                37,
+                137,
+                78,
+                104,
+                7
+            ],
+            "answer": "Gremlins",
+            "hint": "Ones blamed for malfunctions and lost items"
+        },
+        "Q": {
+            "cells": [
+                126,
+                90,
+                57,
+                74,
+                105,
+                145,
+                16
+            ],
+            "answer": "Ecuador",
+            "hint": "Country granting political asylum to WikiLeaks founder Julian Assange"
+        },
+        "R": {
+            "cells": [
+                96,
+                21,
+                46,
+                118,
+                61,
+                84,
+                144,
+                157,
+                3
+            ],
+            "answer": "\"Why bother?\"",
+            "hint": "\u201cOh, what\u2019s the point of trying?\u201d (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                51,
+                6,
+                70,
+                101,
+                136,
+                152,
+                36,
+                87
+            ],
+            "answer": "Opted out",
+            "hint": "Chose not to be involved (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                130,
+                162,
+                79,
+                38,
+                18,
+                99,
+                56,
+                113
+            ],
+            "answer": "Response",
+            "hint": "Answer, acknowledgment"
+        },
+        "U": {
+            "cells": [
+                100,
+                163,
+                49,
+                117,
+                1,
+                64
+            ],
+            "answer": "Troops",
+            "hint": "Units in Scouting"
+        },
+        "V": {
+            "cells": [
+                48,
+                9,
+                168,
+                68,
+                24,
+                127
+            ],
+            "answer": "Hotbed",
+            "hint": "Breeding ground"
+        },
+        "W": {
+            "cells": [
+                111,
+                34,
+                131,
+                149,
+                15,
+                73
+            ],
+            "answer": "Yeehaw",
+            "hint": "Stereotypical Wild West whoop (hyph.)"
+        }
+    }
+}

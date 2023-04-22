@@ -1,0 +1,346 @@
+{
+    "answer": "Bluebeards, ogres and child-snatchers are close cousins to other... spirits that nurses... have invoked to scare... children into obedience.... The most notorious of night visitors, the Sandman,... throws sand in wakeful children\u2019s eyes.",
+    "author": "M(arina) Warner,",
+    "authorCell": [
+        149,
+        156,
+        7,
+        31,
+        25,
+        182,
+        88,
+        17,
+        84,
+        12,
+        121,
+        111,
+        132,
+        30,
+        5,
+        124,
+        131,
+        40,
+        181,
+        114,
+        26,
+        129
+    ],
+    "source": "No Go the Bogeyman",
+    "clues": {
+        "A": {
+            "cells": [
+                149,
+                101,
+                46,
+                61,
+                27,
+                81,
+                176,
+                69
+            ],
+            "answer": "Monsters",
+            "hint": "Teratophobe\u2019s fear"
+        },
+        "B": {
+            "cells": [
+                156,
+                21,
+                100,
+                90,
+                52,
+                63,
+                125,
+                178,
+                117
+            ],
+            "answer": "Witch hunt",
+            "hint": "Activity for which the 15th-century \u201cMalleus Maleficarum\u201d served as a handbook(2wds.)"
+        },
+        "C": {
+            "cells": [
+                7,
+                39,
+                83,
+                127,
+                67,
+                99,
+                148
+            ],
+            "answer": "Astound",
+            "hint": "Shock with amazement"
+        },
+        "D": {
+            "cells": [
+                31,
+                16,
+                103,
+                1,
+                123,
+                138,
+                179,
+                168,
+                42,
+                79,
+                60
+            ],
+            "answer": "Rabbit\u2019s foot",
+            "hint": "Lucky talisman (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                25,
+                6,
+                109,
+                122,
+                139,
+                56,
+                155,
+                37,
+                173,
+                145
+            ],
+            "answer": "Necropolis",
+            "hint": "Place inhabited by mummies and ghouls"
+        },
+        "F": {
+            "cells": [
+                182,
+                170,
+                23,
+                13,
+                137,
+                48,
+                86,
+                112
+            ],
+            "answer": "Eldritch",
+            "hint": "Spooky, unearthly"
+        },
+        "G": {
+            "cells": [
+                88,
+                76,
+                105,
+                18,
+                35,
+                163
+            ],
+            "answer": "Ridden",
+            "hint": "Possessed (by), as terror"
+        },
+        "H": {
+            "cells": [
+                17,
+                4,
+                34,
+                113,
+                59,
+                175,
+                85
+            ],
+            "answer": "Nereids",
+            "hint": "Nymphs of the deep"
+        },
+        "I": {
+            "cells": [
+                84,
+                116,
+                98,
+                54,
+                162,
+                183
+            ],
+            "answer": "Osiris",
+            "hint": "Egyptian king of the netherworld"
+        },
+        "J": {
+            "cells": [
+                12,
+                102,
+                119,
+                24,
+                75,
+                128,
+                174,
+                96,
+                136,
+                153
+            ],
+            "answer": "Goose flesh",
+            "hint": "Horripilation (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                121,
+                3,
+                65,
+                93,
+                146,
+                108,
+                82,
+                135,
+                44,
+                20
+            ],
+            "answer": "Outlandish",
+            "hint": "Conspicuously bizarre"
+        },
+        "L": {
+            "cells": [
+                111,
+                72,
+                70,
+                58,
+                33,
+                134,
+                14,
+                151
+            ],
+            "answer": "\u201cThe Raven\u201d",
+            "hint": "1845 poem about a student\u2019s macabre tormentor (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                132,
+                150,
+                164,
+                120,
+                172,
+                49,
+                8,
+                97,
+                104
+            ],
+            "answer": "Hawthorne",
+            "hint": "Salem-born author of the story \u201cThe Haunted Mind\u201d"
+        },
+        "N": {
+            "cells": [
+                30,
+                118,
+                171,
+                91,
+                73,
+                147,
+                152,
+                107,
+                9
+            ],
+            "answer": "Enchanted",
+            "hint": "Under a spell"
+        },
+        "O": {
+            "cells": [
+                5,
+                22,
+                87,
+                41,
+                166,
+                64,
+                154,
+                133,
+                126
+            ],
+            "answer": "Black arts",
+            "hint": "Diabolical practices of evil sorcerers (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                124,
+                32,
+                55,
+                169,
+                159,
+                140,
+                106,
+                177,
+                47
+            ],
+            "answer": "Ossuaries",
+            "hint": "Vaults filled with bones"
+        },
+        "Q": {
+            "cells": [
+                131,
+                29,
+                38,
+                141,
+                51,
+                2,
+                92,
+                80,
+                110
+            ],
+            "answer": "Ghostlike",
+            "hint": "Having the appearance of a wraith"
+        },
+        "R": {
+            "cells": [
+                40,
+                78,
+                165,
+                66,
+                53,
+                10,
+                19,
+                89
+            ],
+            "answer": "Evanesce",
+            "hint": "Fade away into nothing"
+        },
+        "S": {
+            "cells": [
+                181,
+                45,
+                161,
+                94,
+                57,
+                71,
+                143
+            ],
+            "answer": "Yiddish",
+            "hint": "Linguistic source for the demon known as \u201cdybbuk\u201d"
+        },
+        "T": {
+            "cells": [
+                114,
+                11,
+                74,
+                130,
+                144,
+                158
+            ],
+            "answer": "Movies",
+            "hint": "Medium for many a spine-chiller"
+        },
+        "U": {
+            "cells": [
+                26,
+                77,
+                36,
+                167,
+                15,
+                62,
+                50,
+                95,
+                157
+            ],
+            "answer": "Ancestors",
+            "hint": "Souls revered in some tribal societies"
+        },
+        "V": {
+            "cells": [
+                129,
+                115,
+                28,
+                142,
+                43,
+                68,
+                160,
+                180
+            ],
+            "answer": "Nocturne",
+            "hint": "Dreamy composition evoking darkness"
+        }
+    }
+}

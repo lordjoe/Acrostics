@@ -1,0 +1,328 @@
+{
+    "answer": "Although New York often imparts a feeling of great forlornness or forsakenness,... you always feel that... by shifting your location ten blocks or by reducing your fortune by five dollars you can experience rejuvenation.",
+    "author": "E.B. White,",
+    "authorCell": [
+        31,
+        110,
+        11,
+        82,
+        89,
+        107,
+        10,
+        8,
+        79,
+        162,
+        173,
+        177,
+        66,
+        179,
+        169,
+        73,
+        152,
+        16,
+        117,
+        114
+    ],
+    "source": "Here Is New York",
+    "clues": {
+        "A": {
+            "cells": [
+                31,
+                172,
+                102,
+                64,
+                51,
+                115,
+                155,
+                19,
+                126,
+                91
+            ],
+            "answer": "Evanescent",
+            "hint": "Here today, gone tomorrow"
+        },
+        "B": {
+            "cells": [
+                110,
+                96,
+                85,
+                146,
+                2,
+                21,
+                165,
+                61
+            ],
+            "answer": "Bobolink",
+            "hint": "Avian \u201cRowdy of the Meadow,\u201d in an Emily Dickinson poem"
+        },
+        "C": {
+            "cells": [
+                11,
+                71,
+                56,
+                43,
+                32,
+                167,
+                125,
+                150,
+                105,
+                137
+            ],
+            "answer": "Waffle iron",
+            "hint": "Appliance for cooking some breakfast items (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                82,
+                178,
+                67,
+                135,
+                30,
+                147,
+                14,
+                119
+            ],
+            "answer": "Hostelry",
+            "hint": "Place for a sojourner to pass the night"
+        },
+        "E": {
+            "cells": [
+                89,
+                174,
+                59,
+                101,
+                45,
+                6,
+                81,
+                28,
+                118,
+                72,
+                138
+            ],
+            "answer": "Inscrutable",
+            "hint": "Cryptic, enigmatic, hard to fathom"
+        },
+        "F": {
+            "cells": [
+                107,
+                163,
+                141,
+                37,
+                24,
+                9,
+                68
+            ],
+            "answer": "Tiffany",
+            "hint": "Name on some Art Nouveau hangings"
+        },
+        "G": {
+            "cells": [
+                10,
+                159,
+                144,
+                113,
+                97,
+                84,
+                54,
+                39
+            ],
+            "answer": "Executor",
+            "hint": "Person carrying out the provisions of a will"
+        },
+        "H": {
+            "cells": [
+                8,
+                171,
+                22,
+                153,
+                109,
+                94,
+                36,
+                130,
+                76
+            ],
+            "answer": "Humongous",
+            "hint": "Vast, colossal, Brobdingnagian"
+        },
+        "I": {
+            "cells": [
+                79,
+                1,
+                168,
+                111,
+                38,
+                55,
+                121,
+                140
+            ],
+            "answer": "Earl Grey",
+            "hint": "Tea flavored with bergamot (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                162,
+                129,
+                13,
+                77,
+                176,
+                25,
+                62,
+                40
+            ],
+            "answer": "Rooftree",
+            "hint": "Beam to which rafters attach"
+        },
+        "K": {
+            "cells": [
+                173,
+                132,
+                17,
+                46,
+                70,
+                108,
+                157,
+                3
+            ],
+            "answer": "Effluent",
+            "hint": "Wastewater; stream flowing out of a lake or reservoir"
+        },
+        "L": {
+            "cells": [
+                177,
+                124,
+                57,
+                49,
+                100,
+                35,
+                134,
+                156,
+                23,
+                88,
+                75
+            ],
+            "answer": "Iconography",
+            "hint": "Study and interpretation of images"
+        },
+        "M": {
+            "cells": [
+                66,
+                74,
+                42,
+                123,
+                98,
+                145,
+                175,
+                86
+            ],
+            "answer": "Saturday",
+            "hint": "Start of a normal Saudi workweek"
+        },
+        "N": {
+            "cells": [
+                179,
+                47,
+                26,
+                5,
+                58,
+                104,
+                116,
+                136,
+                151
+            ],
+            "answer": "\u201cNotorious\u201d",
+            "hint": "1946 Hitchcock film set in Brazil"
+        },
+        "O": {
+            "cells": [
+                169,
+                60,
+                52,
+                103,
+                78,
+                120,
+                139,
+                154,
+                93,
+                34,
+                12
+            ],
+            "answer": "Easter Bunny",
+            "hint": "Mammal that deposits its eggs in the spring (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                73,
+                92,
+                106,
+                164,
+                127,
+                148,
+                83,
+                27,
+                53
+            ],
+            "answer": "Wineglass",
+            "hint": "Port container"
+        },
+        "Q": {
+            "cells": [
+                152,
+                161,
+                41,
+                131,
+                80,
+                142,
+                20,
+                7
+            ],
+            "answer": "Yearling",
+            "hint": "1939 Marjorie Kinnan Rawlings Pulitzer-winning novel, with \u201cThe\u201d"
+        },
+        "R": {
+            "cells": [
+                16,
+                143,
+                65,
+                48,
+                170,
+                112,
+                95,
+                158,
+                122
+            ],
+            "answer": "Overjoyed",
+            "hint": "Ecstatic, thrilled to pieces"
+        },
+        "S": {
+            "cells": [
+                117,
+                4,
+                33,
+                63,
+                44,
+                160,
+                99,
+                149,
+                87,
+                18,
+                128
+            ],
+            "answer": "Rhinoplasty",
+            "hint": "Job sought by many an aspiring movie star"
+        },
+        "T": {
+            "cells": [
+                114,
+                50,
+                69,
+                166,
+                15,
+                133,
+                29,
+                90
+            ],
+            "answer": "Knock off",
+            "hint": "Quit working (2 wds.); or, when spelled without a space, a counterfeit"
+        }
+    }
+}

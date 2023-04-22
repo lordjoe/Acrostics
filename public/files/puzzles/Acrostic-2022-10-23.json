@@ -1,0 +1,365 @@
+{
+    "answer": "He was tall, but exceedingly lank, with narrow shoulders, ... hands that dangled a mile out of his sleeves, feet that might have served for shovels. ... [O]ne might have mistaken him for ... some scarecrow eloped from a cornfield.",
+    "author": "(Washington) Irving,",
+    "authorCell": [
+        129,
+        45,
+        103,
+        137,
+        169,
+        59,
+        156,
+        150,
+        21,
+        79,
+        32,
+        50,
+        36,
+        170,
+        109,
+        60,
+        155,
+        17,
+        158,
+        23,
+        88,
+        167,
+        173,
+        8,
+        116,
+        37
+    ],
+    "source": "(The) Legend of Sleepy Hollow",
+    "clues": {
+        "A": {
+            "cells": [
+                129,
+                151,
+                96,
+                57,
+                10,
+                40,
+                174
+            ],
+            "answer": "Ichabod",
+            "hint": "Crane described as oddly angular"
+        },
+        "B": {
+            "cells": [
+                45,
+                145,
+                80,
+                67,
+                162,
+                118
+            ],
+            "answer": "Revere",
+            "hint": "Man of a storied ride"
+        },
+        "C": {
+            "cells": [
+                103,
+                33,
+                52,
+                146
+            ],
+            "answer": "Vats",
+            "hint": "Bubblers in some mad scientists\u2019 labs"
+        },
+        "D": {
+            "cells": [
+                137,
+                117,
+                98,
+                153,
+                27,
+                78
+            ],
+            "answer": "Invoke",
+            "hint": "Call up, as spirits"
+        },
+        "E": {
+            "cells": [
+                169,
+                120,
+                93,
+                1,
+                12,
+                64,
+                132,
+                152,
+                29,
+                76,
+                47
+            ],
+            "answer": "Nightmarish",
+            "hint": "Bloodcurdling and bizarre"
+        },
+        "F": {
+            "cells": [
+                59,
+                157,
+                95,
+                39
+            ],
+            "answer": "Goth",
+            "hint": "Embracing the dark side as a point of fashion"
+        },
+        "G": {
+            "cells": [
+                156,
+                125,
+                144,
+                19,
+                63,
+                82
+            ],
+            "answer": "Lamias",
+            "hint": "Vampires in female form"
+        },
+        "H": {
+            "cells": [
+                150,
+                135,
+                166,
+                110,
+                25,
+                58,
+                90,
+                2,
+                43
+            ],
+            "answer": "Enchanted",
+            "hint": "Affected by a paranormal power"
+        },
+        "I": {
+            "cells": [
+                21,
+                94,
+                111,
+                130,
+                55,
+                75
+            ],
+            "answer": "Ghosts",
+            "hint": "Tenants thought hard to evict"
+        },
+        "J": {
+            "cells": [
+                79,
+                22,
+                112,
+                99,
+                46
+            ],
+            "answer": "Elves",
+            "hint": "Sources of mischief, some believe"
+        },
+        "K": {
+            "cells": [
+                32,
+                97,
+                133,
+                172,
+                18
+            ],
+            "answer": "Naked",
+            "hint": "As Greek satyrs were typically depicted"
+        },
+        "L": {
+            "cells": [
+                50,
+                85,
+                119,
+                68,
+                20,
+                100
+            ],
+            "answer": "Demons",
+            "hint": "Baddies of TV\u2019s \u201cCharmed\u201d"
+        },
+        "M": {
+            "cells": [
+                36,
+                114,
+                56,
+                160,
+                69,
+                87,
+                15,
+                136
+            ],
+            "answer": "Old Dutch",
+            "hint": "Like the church and burying ground in the work cited here (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                170,
+                61,
+                148,
+                35,
+                106,
+                11,
+                77
+            ],
+            "answer": "Fearful",
+            "hint": "Disturbed by dread"
+        },
+        "O": {
+            "cells": [
+                109,
+                4,
+                138,
+                31,
+                165,
+                65,
+                49
+            ],
+            "answer": "Samhain",
+            "hint": "Gaelic festival starting the evening of October 31"
+        },
+        "P": {
+            "cells": [
+                60,
+                163,
+                102,
+                34,
+                16
+            ],
+            "answer": "Lorre",
+            "hint": "Peter often typecast in sinister roles"
+        },
+        "Q": {
+            "cells": [
+                155,
+                14,
+                86,
+                141,
+                48,
+                115
+            ],
+            "answer": "Extras",
+            "hint": "Sundry Egyptians in mummy movies, say"
+        },
+        "R": {
+            "cells": [
+                17,
+                89,
+                149,
+                70,
+                122
+            ],
+            "answer": "Earth",
+            "hint": "Planet in 1968\u2019s \u201cPlanet of the Apes\u201d"
+        },
+        "S": {
+            "cells": [
+                158,
+                143,
+                91,
+                128,
+                113,
+                24
+            ],
+            "answer": "Pommel",
+            "hint": "Raised front of a rider\u2019s saddle"
+        },
+        "T": {
+            "cells": [
+                23,
+                71,
+                41,
+                139,
+                92,
+                168,
+                5,
+                123
+            ],
+            "answer": "You first",
+            "hint": "Words from a companion who\u2019s too timid to proceed (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                88,
+                127,
+                54,
+                105,
+                9,
+                159,
+                142,
+                38
+            ],
+            "answer": "Headless",
+            "hint": "Like a certain Hessian rider"
+        },
+        "V": {
+            "cells": [
+                167,
+                126,
+                84,
+                108,
+                7,
+                154,
+                44,
+                62
+            ],
+            "answer": "Overawed",
+            "hint": "Wowed; cowed"
+        },
+        "W": {
+            "cells": [
+                173,
+                107,
+                26,
+                121,
+                161,
+                81,
+                66,
+                42,
+                140,
+                3
+            ],
+            "answer": "Longfellow",
+            "hint": "Poet who celebrated answer B."
+        },
+        "X": {
+            "cells": [
+                8,
+                134,
+                30,
+                73,
+                101,
+                164
+            ],
+            "answer": "Lethem",
+            "hint": "Jonathan who wrote \u201cThe Feral Detective\u201d"
+        },
+        "Y": {
+            "cells": [
+                116,
+                83,
+                72,
+                28,
+                53,
+                171,
+                131,
+                13
+            ],
+            "answer": "Off-white",
+            "hint": "The color of bleached bones (hyph.)"
+        },
+        "Z": {
+            "cells": [
+                37,
+                74,
+                6,
+                147,
+                124,
+                104,
+                51
+            ],
+            "answer": "Witches",
+            "hint": "Brewers in fairy tales"
+        }
+    }
+}

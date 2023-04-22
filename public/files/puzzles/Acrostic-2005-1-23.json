@@ -1,0 +1,364 @@
+{
+    "answer": "[A] river... through Vermont\u2019s Green Mountains, called les Monts Verts and... pronounced lay moan vair, was anglicized into the Lemon Fair River. This... mystical name... [is] impossible to account for without a bit of fractured French.",
+    "author": "Michael Olmert,",
+    "authorCell": [
+        27,
+        92,
+        36,
+        180,
+        69,
+        111,
+        39,
+        46,
+        85,
+        132,
+        140,
+        172,
+        155,
+        45,
+        129,
+        38,
+        120,
+        134,
+        26,
+        44,
+        163,
+        15,
+        5,
+        159,
+        13
+    ],
+    "source": "Milton\u2018s Teeth (And Ovid\u2019s Umbrella)",
+    "clues": {
+        "A": {
+            "cells": [
+                27,
+                62,
+                8,
+                80,
+                121,
+                167
+            ],
+            "answer": "Mohair",
+            "hint": "Fabric made from the wool of Angora goats"
+        },
+        "B": {
+            "cells": [
+                92,
+                138,
+                1,
+                67,
+                168,
+                19
+            ],
+            "answer": "Ibadan",
+            "hint": "Nigeria\u2019s second-largest city"
+        },
+        "C": {
+            "cells": [
+                36,
+                99,
+                164,
+                75,
+                128,
+                16
+            ],
+            "answer": "Clover",
+            "hint": "Plant whose nectar flavors many a honey"
+        },
+        "D": {
+            "cells": [
+                180,
+                73,
+                117,
+                135,
+                94,
+                6,
+                154,
+                47,
+                22
+            ],
+            "answer": "Hamstring",
+            "hint": "Tendon at the back of the knee"
+        },
+        "E": {
+            "cells": [
+                69,
+                84,
+                34,
+                18,
+                136,
+                53,
+                115,
+                169
+            ],
+            "answer": "Agnostic",
+            "hint": "Term coined by the skeptic Thomas H. Huxley, 1869, to describe himself"
+        },
+        "F": {
+            "cells": [
+                111,
+                30,
+                174,
+                78,
+                11,
+                56
+            ],
+            "answer": "End run",
+            "hint": "Trickily evasive maneuver (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                39,
+                123,
+                17,
+                161,
+                51,
+                148,
+                96
+            ],
+            "answer": "Lambent",
+            "hint": "Softly glowing; brilliantly playful"
+        },
+        "H": {
+            "cells": [
+                46,
+                23,
+                106,
+                125,
+                72,
+                144,
+                95
+            ],
+            "answer": "Orinoco",
+            "hint": "Home to some Venezuelan crocodiles"
+        },
+        "I": {
+            "cells": [
+                85,
+                109,
+                150,
+                40,
+                68,
+                137,
+                54,
+                20
+            ],
+            "answer": "Life list",
+            "hint": "Record kept by an avid bird watcher or naturalist (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                132,
+                151,
+                61,
+                170,
+                82,
+                12,
+                43
+            ],
+            "answer": "Montage",
+            "hint": "Complex film-editing technique"
+        },
+        "K": {
+            "cells": [
+                140,
+                50,
+                105,
+                74,
+                119,
+                31,
+                10,
+                178
+            ],
+            "answer": "Evanston",
+            "hint": "Home of Northwestern University"
+        },
+        "L": {
+            "cells": [
+                172,
+                66,
+                110,
+                14,
+                90,
+                41,
+                158,
+                133
+            ],
+            "answer": "Revved up",
+            "hint": "Boosted, as production (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                155,
+                131,
+                57,
+                98,
+                35
+            ],
+            "answer": "Tides",
+            "hint": "Phenomena affected by syzygy"
+        },
+        "N": {
+            "cells": [
+                45,
+                126,
+                65,
+                156,
+                3,
+                81,
+                101,
+                142
+            ],
+            "answer": "Machismo",
+            "hint": "Extreme expression of testosterone"
+        },
+        "O": {
+            "cells": [
+                129,
+                89,
+                4,
+                173,
+                49,
+                113,
+                33,
+                143
+            ],
+            "answer": "\u201cIzvestia\u201d",
+            "hint": "\u201cNews\u201d in Russian; rival to Pravda"
+        },
+        "P": {
+            "cells": [
+                38,
+                76,
+                153,
+                139,
+                100,
+                116,
+                21
+            ],
+            "answer": "Lawless",
+            "hint": "Criminal; anarchic"
+        },
+        "Q": {
+            "cells": [
+                120,
+                2,
+                63,
+                149,
+                97,
+                165,
+                29,
+                42
+            ],
+            "answer": "Truthful",
+            "hint": "Original meaning of \u201cveritable\u201d"
+        },
+        "R": {
+            "cells": [
+                134,
+                166,
+                104,
+                87,
+                60,
+                124,
+                28,
+                152
+            ],
+            "answer": "Off-color",
+            "hint": "In questionable taste; bawdy (hyph.)"
+        },
+        "S": {
+            "cells": [
+                26,
+                77,
+                127,
+                59,
+                146,
+                91
+            ],
+            "answer": "Nimrod",
+            "hint": "Hunter-king mentioned in Genesis"
+        },
+        "T": {
+            "cells": [
+                44,
+                118,
+                83,
+                145,
+                102,
+                58,
+                24
+            ],
+            "answer": "Syncope",
+            "hint": "Fainting spell; contraction as in \u201cbos\u2019n\u201d"
+        },
+        "U": {
+            "cells": [
+                163,
+                147,
+                112,
+                175,
+                79,
+                55,
+                9
+            ],
+            "answer": "Turf war",
+            "hint": "Power struggle (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                15,
+                171,
+                52,
+                157,
+                122,
+                107,
+                37,
+                141
+            ],
+            "answer": "Eurocrat",
+            "hint": "Administrative official in Brussels"
+        },
+        "W": {
+            "cells": [
+                5,
+                176,
+                71,
+                162,
+                93,
+                25
+            ],
+            "answer": "Ermine",
+            "hint": "Stoat in winter white coat"
+        },
+        "X": {
+            "cells": [
+                159,
+                108,
+                32,
+                86,
+                64,
+                130,
+                177,
+                7
+            ],
+            "answer": "Train set",
+            "hint": "Popular Lionel product (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                13,
+                70,
+                160,
+                179,
+                88,
+                103,
+                48,
+                114
+            ],
+            "answer": "Hyacinth",
+            "hint": "Flower named for a youth loved by Apollo"
+        }
+    }
+}

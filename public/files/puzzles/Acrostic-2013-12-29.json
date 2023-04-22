@@ -1,0 +1,334 @@
+{
+    "answer": "Football is not about violence..., it\u2018s about balance. The line of scrimmage is a fulcrum, not a frontier.... The struggle is not for property, it\u2019s for... freedom.... Of course, I admit most footballers are probably ignorant of all this.",
+    "author": "Robert Coover,",
+    "authorCell": [
+        75,
+        156,
+        31,
+        84,
+        155,
+        82,
+        25,
+        165,
+        120,
+        19,
+        105,
+        67,
+        89,
+        147,
+        170,
+        142,
+        121,
+        161,
+        163,
+        88,
+        111
+    ],
+    "source": "(Whatever Happened To) Gloomy Gus (Of The Chicago Bears?)",
+    "clues": {
+        "A": {
+            "cells": [
+                75,
+                137,
+                5,
+                32,
+                124,
+                96,
+                154
+            ],
+            "answer": "RoboCop",
+            "hint": "Mechanical action film title character"
+        },
+        "B": {
+            "cells": [
+                156,
+                70,
+                108,
+                2,
+                17,
+                87,
+                42,
+                122,
+                59,
+                138
+            ],
+            "answer": "\u201cOn Your Toes\u201d",
+            "hint": "1936 musical involving jazz ballet (3 wds.)"
+        },
+        "C": {
+            "cells": [
+                31,
+                103,
+                8,
+                119,
+                140,
+                172,
+                66,
+                92
+            ],
+            "answer": "Boldface",
+            "hint": "Dark and heavy type"
+        },
+        "D": {
+            "cells": [
+                84,
+                22,
+                117,
+                40,
+                4,
+                141,
+                100,
+                61
+            ],
+            "answer": "Electors",
+            "hint": "College group of 538"
+        },
+        "E": {
+            "cells": [
+                155,
+                16,
+                139,
+                36,
+                97,
+                125,
+                114,
+                52,
+                64,
+                1,
+                74
+            ],
+            "answer": "Rotator cuff",
+            "hint": "Common problem area for drummers and quarterbacks (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                82,
+                113,
+                69,
+                159,
+                128,
+                175,
+                99,
+                47,
+                23
+            ],
+            "answer": "Tombstone",
+            "hint": "Site of a storied showdown in 1881"
+        },
+        "G": {
+            "cells": [
+                25,
+                176,
+                46,
+                164,
+                149,
+                129,
+                94,
+                107
+            ],
+            "answer": "Chin rest",
+            "hint": "Aid for Itzhak Perlman (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                165,
+                68,
+                86,
+                29,
+                56,
+                145,
+                106,
+                13
+            ],
+            "answer": "Outsmart",
+            "hint": "Best a la Br\u2019er Rabbit"
+        },
+        "I": {
+            "cells": [
+                120,
+                102,
+                177,
+                49,
+                77,
+                10,
+                157,
+                26,
+                65,
+                135
+            ],
+            "answer": "Orion\u2019s Belt",
+            "hint": "Star arrangement a k a the Three Kings (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                19,
+                134,
+                37,
+                174,
+                151,
+                58,
+                80
+            ],
+            "answer": "Village",
+            "hint": "Big Apple neighborhood, with \u201cthe\u201d"
+        },
+        "K": {
+            "cells": [
+                105,
+                167,
+                178,
+                28,
+                144,
+                48,
+                127,
+                91,
+                60,
+                11
+            ],
+            "answer": "East Berlin",
+            "hint": "View from Checkpoint Charlie (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                67,
+                126,
+                168,
+                30,
+                112,
+                18,
+                148,
+                53
+            ],
+            "answer": "Run after",
+            "hint": "Pursue, try to catch (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                89,
+                173,
+                21,
+                35,
+                6,
+                160,
+                109,
+                51,
+                136
+            ],
+            "answer": "Globalism",
+            "hint": "Policy of treating the whole world as one\u2019s sphere of political influence"
+        },
+        "N": {
+            "cells": [
+                147,
+                12,
+                110,
+                43,
+                57,
+                166,
+                27,
+                76
+            ],
+            "answer": "Lothario",
+            "hint": "Seducer in Nicholas Rowe\u2019s \u201cThe Fair Penitent\u201d (1703)"
+        },
+        "O": {
+            "cells": [
+                170,
+                98,
+                115,
+                150,
+                79,
+                132,
+                44
+            ],
+            "answer": "Offside",
+            "hint": "Violation costing five yards"
+        },
+        "P": {
+            "cells": [
+                142,
+                101,
+                118,
+                81,
+                158,
+                15,
+                33,
+                63,
+                50
+            ],
+            "answer": "Opera buff",
+            "hint": "One who knows Puccini from Ponchielli, say (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                121,
+                3,
+                24,
+                90,
+                71,
+                146,
+                162,
+                38
+            ],
+            "answer": "Mongolia",
+            "hint": "Where wrestling, horse racing and archery are the \u201cthree manly games\u201d"
+        },
+        "R": {
+            "cells": [
+                161,
+                104,
+                85,
+                54,
+                7,
+                73,
+                39,
+                143,
+                130
+            ],
+            "answer": "Ypsilanti",
+            "hint": "Michigan city that shares its name with a modern Greek war hero"
+        },
+        "S": {
+            "cells": [
+                163,
+                131,
+                72,
+                83,
+                41,
+                116,
+                20,
+                95
+            ],
+            "answer": "Gather in",
+            "hint": "Round up; harvest (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                88,
+                45,
+                169,
+                9,
+                133,
+                62,
+                34,
+                153
+            ],
+            "answer": "Ultimate",
+            "hint": "Sport whose object is to pass into an end zone"
+        },
+        "U": {
+            "cells": [
+                111,
+                78,
+                93,
+                171,
+                123,
+                14,
+                152,
+                55
+            ],
+            "answer": "Stiff-arm",
+            "hint": "Feature of the Heisman Trophy figure\u2019s pose (hyph.)"
+        }
+    }
+}

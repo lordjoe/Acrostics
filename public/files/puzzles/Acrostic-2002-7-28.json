@@ -1,0 +1,357 @@
+{
+    "answer": "[T]he Grand Vizier of Persia,... in order not to part with his collection of... [one hundred seventeen thousand] volumes when travelling, had them carried by a caravan of four hundred camels trained to walk in alphabetical order.",
+    "author": "(Alberto) Manguel,",
+    "authorCell": [
+        112,
+        82,
+        59,
+        4,
+        137,
+        3,
+        102,
+        174,
+        110,
+        117,
+        68,
+        52,
+        176,
+        150,
+        121,
+        56,
+        131,
+        29,
+        50,
+        22,
+        142,
+        103,
+        76,
+        105
+    ],
+    "source": "A History of Reading",
+    "clues": {
+        "A": {
+            "cells": [
+                112,
+                54,
+                77,
+                34,
+                97,
+                25,
+                152,
+                165
+            ],
+            "answer": "Motor oil",
+            "hint": "Engine additive (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                82,
+                9,
+                168,
+                156,
+                36,
+                135
+            ],
+            "answer": "Avatar",
+            "hint": "Embodiment, as of an idea"
+        },
+        "C": {
+            "cells": [
+                59,
+                21,
+                118,
+                41,
+                11,
+                81,
+                173,
+                136,
+                154
+            ],
+            "answer": "Nietzsche",
+            "hint": "Philosopher who wrote \u201cBeyond Good and Evil\u201d"
+        },
+        "D": {
+            "cells": [
+                4,
+                111,
+                24,
+                94,
+                65,
+                159
+            ],
+            "answer": "Genera",
+            "hint": "Family subdivisions"
+        },
+        "E": {
+            "cells": [
+                137,
+                17,
+                84,
+                180,
+                6,
+                57,
+                33
+            ],
+            "answer": "Updraft",
+            "hint": "Start of a tornado, potentially"
+        },
+        "F": {
+            "cells": [
+                3,
+                178,
+                99,
+                114,
+                125,
+                27,
+                89,
+                62,
+                55,
+                143,
+                42
+            ],
+            "answer": "Edvard Munch",
+            "hint": "Painter of \u201cVampire\u201d and \u201cThe Kiss\u201d (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                102,
+                15,
+                44,
+                148,
+                87,
+                126,
+                72,
+                179
+            ],
+            "answer": "Lois Lane",
+            "hint": "TV character portrayed by Noel Neill from 1953 to 1957 (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                174,
+                45,
+                32,
+                116,
+                157,
+                8,
+                86,
+                145,
+                66
+            ],
+            "answer": "Astrodome",
+            "hint": "Venue for baseball\u2019s 1986 All-Star Game"
+        },
+        "I": {
+            "cells": [
+                110,
+                60,
+                28,
+                43,
+                124,
+                92
+            ],
+            "answer": "\u201cHee Haw\"",
+            "hint": "Show hosted by Buck Owens and Roy Clark (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                117,
+                163,
+                51,
+                19,
+                133,
+                39,
+                64
+            ],
+            "answer": "In-crowd",
+            "hint": "Exclusive social set (hyph.)"
+        },
+        "K": {
+            "cells": [
+                68,
+                35,
+                177,
+                53,
+                96,
+                146
+            ],
+            "answer": "Sprite",
+            "hint": "Robin Goodfellow, for one"
+        },
+        "L": {
+            "cells": [
+                52,
+                13,
+                147,
+                128,
+                85,
+                162,
+                70
+            ],
+            "answer": "Tel Aviv",
+            "hint": "City whose center is Dizengoff Square (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                176,
+                91,
+                73,
+                140,
+                107,
+                46,
+                31,
+                129
+            ],
+            "answer": "Ostracon",
+            "hint": "Potsherd used as a ballot, in ancient Greece"
+        },
+        "N": {
+            "cells": [
+                150,
+                58,
+                119,
+                101,
+                164,
+                127,
+                141,
+                37
+            ],
+            "answer": "Rod Laver",
+            "hint": "Two-time Grand Slam winner (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                121,
+                100,
+                175,
+                48,
+                79,
+                158,
+                132,
+                10,
+                63
+            ],
+            "answer": "Yellowfin",
+            "hint": "Fish often used to make sashimi"
+        },
+        "P": {
+            "cells": [
+                56,
+                5,
+                113,
+                78,
+                172,
+                139
+            ],
+            "answer": "Orchid",
+            "hint": "Lady\u2019s-slipper or pearl-twist"
+        },
+        "Q": {
+            "cells": [
+                131,
+                14,
+                71,
+                90,
+                167,
+                98,
+                30,
+                155
+            ],
+            "answer": "Freehand",
+            "hint": "Drawn without mechanical aid"
+        },
+        "R": {
+            "cells": [
+                29,
+                80,
+                120,
+                12,
+                1,
+                40,
+                104
+            ],
+            "answer": "Rub it in",
+            "hint": "Add insult to injury (3 wds.)"
+        },
+        "S": {
+            "cells": [
+                50,
+                95,
+                171,
+                26,
+                69,
+                123,
+                2,
+                151,
+                109
+            ],
+            "answer": "Entrechat",
+            "hint": "Leg-fluttering ballet jump"
+        },
+        "T": {
+            "cells": [
+                22,
+                149,
+                38,
+                106,
+                74,
+                93,
+                130,
+                166
+            ],
+            "answer": "\"At the Hop\u201d",
+            "hint": "1958 #1 hit by Danny & the Juniors (3 wds.)"
+        },
+        "U": {
+            "cells": [
+                142,
+                88,
+                49,
+                160,
+                75,
+                20
+            ],
+            "answer": "Dulles",
+            "hint": "Secretary of state under Eisenhower"
+        },
+        "V": {
+            "cells": [
+                103,
+                138,
+                16,
+                47,
+                169,
+                122,
+                61,
+                153
+            ],
+            "answer": "Infobahn",
+            "hint": "Global communications network"
+        },
+        "W": {
+            "cells": [
+                76,
+                134,
+                108,
+                7,
+                23,
+                161
+            ],
+            "answer": "Nudnik",
+            "hint": "Thoroughly obnoxious pest"
+        },
+        "X": {
+            "cells": [
+                105,
+                115,
+                144,
+                83,
+                67,
+                18,
+                170
+            ],
+            "answer": "Grandee",
+            "hint": "Superior to a hidalgo"
+        }
+    }
+}

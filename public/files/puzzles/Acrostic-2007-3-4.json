@@ -1,0 +1,362 @@
+{
+    "answer": "Scratch a poet and you will find... a word-player, a puzzler, a palindromist, a punster, someone bedazzled by language and addicted to... those occasional felicities that Cyril Connolly called \u201cunbreakable toys for the mind.\u201d",
+    "author": "Alastair Reid,",
+    "authorCell": [
+        46,
+        21,
+        13,
+        109,
+        58,
+        27,
+        99,
+        137,
+        53,
+        36,
+        56,
+        97,
+        1,
+        129,
+        145,
+        102,
+        6,
+        64,
+        174,
+        52,
+        60,
+        45,
+        71,
+        63,
+        11
+    ],
+    "source": "Selected Prose (And Poetry)",
+    "clues": {
+        "A": {
+            "cells": [
+                46,
+                139,
+                32,
+                7,
+                159,
+                74,
+                122,
+                104
+            ],
+            "answer": "Alphabet",
+            "hint": "Set of playthings for a logophile"
+        },
+        "B": {
+            "cells": [
+                21,
+                48,
+                177,
+                103,
+                123,
+                34,
+                153,
+                84
+            ],
+            "answer": "Landlady",
+            "hint": "Letter with a specific gender"
+        },
+        "C": {
+            "cells": [
+                13,
+                83,
+                38,
+                143,
+                98,
+                166,
+                62
+            ],
+            "answer": "Abandon",
+            "hint": "Desert or ditch"
+        },
+        "D": {
+            "cells": [
+                109,
+                148,
+                66,
+                128,
+                9,
+                172
+            ],
+            "answer": "Script",
+            "hint": "Collection of lines and directions"
+        },
+        "E": {
+            "cells": [
+                58,
+                10,
+                25,
+                164,
+                82,
+                44,
+                96,
+                121
+            ],
+            "answer": "Tone deaf",
+            "hint": "Unable to tell A from B, say (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                27,
+                72,
+                178,
+                86,
+                118,
+                134,
+                152
+            ],
+            "answer": "Andante",
+            "hint": "Signal from the scorer not to rush"
+        },
+        "G": {
+            "cells": [
+                99,
+                175,
+                47,
+                65,
+                155,
+                26
+            ],
+            "answer": "Impend",
+            "hint": "Loom"
+        },
+        "H": {
+            "cells": [
+                137,
+                173,
+                117,
+                15,
+                158,
+                67
+            ],
+            "answer": "Rhodes",
+            "hint": "Site of one of the Seven Wonders of the Ancient World"
+        },
+        "I": {
+            "cells": [
+                53,
+                108,
+                8,
+                95,
+                168
+            ],
+            "answer": "Roads",
+            "hint": "Homophone of Answer H"
+        },
+        "J": {
+            "cells": [
+                36,
+                14,
+                79,
+                147,
+                55,
+                110
+            ],
+            "answer": "Enzyme",
+            "hint": "Trypsin or pepsin"
+        },
+        "K": {
+            "cells": [
+                56,
+                151,
+                22,
+                75,
+                91,
+                133,
+                43
+            ],
+            "answer": "Illegal",
+            "hint": "Breaking a code"
+        },
+        "L": {
+            "cells": [
+                97,
+                149,
+                135,
+                165,
+                35,
+                85,
+                115
+            ],
+            "answer": "Dactyls",
+            "hint": "Washington, Jefferson and Kennedy, e.g., but not Lincoln or Bush"
+        },
+        "M": {
+            "cells": [
+                1,
+                107,
+                54,
+                28,
+                156,
+                138,
+                78
+            ],
+            "answer": "Show biz",
+            "hint": "Entertainer\u2019s line of work"
+        },
+        "N": {
+            "cells": [
+                129,
+                161,
+                3,
+                113,
+                77,
+                142,
+                93,
+                49
+            ],
+            "answer": "Ear canal",
+            "hint": "Passage leading to a drum (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                145,
+                50,
+                69,
+                92,
+                37,
+                20,
+                2,
+                160
+            ],
+            "answer": "Limerick",
+            "hint": "Wit and/or bawdry with the pattern aabba"
+        },
+        "P": {
+            "cells": [
+                102,
+                112,
+                125,
+                81,
+                51,
+                12,
+                30,
+                176,
+                140
+            ],
+            "answer": "Eccentric",
+            "hint": "Like an orbit not exactly round"
+        },
+        "Q": {
+            "cells": [
+                6,
+                132,
+                114,
+                157,
+                90,
+                31,
+                73,
+                57
+            ],
+            "answer": "Charades",
+            "hint": "Game on which Pictionary is based"
+        },
+        "R": {
+            "cells": [
+                64,
+                119,
+                33,
+                170,
+                94
+            ],
+            "answer": "Talon",
+            "hint": "Nail on the foot of a kite"
+        },
+        "S": {
+            "cells": [
+                174,
+                80,
+                124,
+                42,
+                59
+            ],
+            "answer": "Eliza",
+            "hint": "With Answer T, Shaw\u2019s learner of \u201cplain\u201d speaking?"
+        },
+        "T": {
+            "cells": [
+                52,
+                17,
+                29,
+                163,
+                116,
+                131,
+                101,
+                146,
+                70
+            ],
+            "answer": "Doolittle",
+            "hint": "See S"
+        },
+        "U": {
+            "cells": [
+                60,
+                89,
+                150,
+                120,
+                18,
+                39
+            ],
+            "answer": "Pullup",
+            "hint": "Bit of exercise, whichever way you look at it (hyph.)"
+        },
+        "V": {
+            "cells": [
+                45,
+                105,
+                19,
+                162,
+                68,
+                4,
+                127
+            ],
+            "answer": "Rowboat",
+            "hint": "Skiff"
+        },
+        "W": {
+            "cells": [
+                71,
+                154,
+                5,
+                111,
+                23,
+                169,
+                141,
+                100,
+                40,
+                130
+            ],
+            "answer": "Out of focus",
+            "hint": "Not sharp (3 wds.)"
+        },
+        "X": {
+            "cells": [
+                63,
+                167,
+                41,
+                16,
+                88,
+                136
+            ],
+            "answer": "Syzygy",
+            "hint": "Alignment of the sun, moon and earth, e.g."
+        },
+        "Y": {
+            "cells": [
+                11,
+                171,
+                61,
+                76,
+                24,
+                106,
+                126,
+                144,
+                87
+            ],
+            "answer": "Erudition",
+            "hint": "What Ambrose Bierce referred to as \u201cDust shaken out of a book into an empty skull\u201d"
+        }
+    }
+}

@@ -1,0 +1,340 @@
+{
+    "answer": "[Utah] is home to a strange herd of goats. Thanks to ... genes borrowed from a spider, each female ... produces milk that\u2019s chock-full of silk proteins ... [I]n the lab, scientists can extract the spider proteins and spin them into silk.",
+    "author": "(Emily) Anthes,",
+    "authorCell": [
+        34,
+        115,
+        32,
+        4,
+        22,
+        145,
+        53,
+        150,
+        29,
+        112,
+        95,
+        149,
+        35,
+        113,
+        154,
+        144,
+        147,
+        157,
+        122,
+        91,
+        120,
+        142
+    ],
+    "source": "Frankenstein\u2019s Cat",
+    "clues": {
+        "A": {
+            "cells": [
+                34,
+                107,
+                139,
+                66,
+                87,
+                160,
+                20
+            ],
+            "answer": "Arachne",
+            "hint": "Subject of a tale by Ovid about metamorphosis"
+        },
+        "B": {
+            "cells": [
+                115,
+                76,
+                97,
+                63,
+                164,
+                131,
+                143,
+                41,
+                24
+            ],
+            "answer": "Nourished",
+            "hint": "Fed; fostered; given sustenance"
+        },
+        "C": {
+            "cells": [
+                32,
+                153,
+                82,
+                174,
+                50,
+                128,
+                101,
+                11
+            ],
+            "answer": "Tom Swift",
+            "hint": "Fictional character whose initials were used in forming the acronym \u201cTaser\u201d (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                4,
+                156,
+                15,
+                140,
+                67,
+                117,
+                103,
+                85,
+                51
+            ],
+            "answer": "Hitchhike",
+            "hint": "Give a thumbs-up signal?"
+        },
+        "E": {
+            "cells": [
+                22,
+                136,
+                151,
+                54,
+                168,
+                6,
+                81
+            ],
+            "answer": "Express",
+            "hint": "Show; quick"
+        },
+        "F": {
+            "cells": [
+                145,
+                167,
+                125,
+                84,
+                109,
+                64,
+                48
+            ],
+            "answer": "Shelter",
+            "hint": "Place providing refuge"
+        },
+        "G": {
+            "cells": [
+                53,
+                39,
+                100,
+                116,
+                74,
+                159,
+                141,
+                7
+            ],
+            "answer": "Footpath",
+            "hint": "Way through a park or garden, nature trail"
+        },
+        "H": {
+            "cells": [
+                150,
+                17,
+                60,
+                134,
+                77,
+                47,
+                93,
+                106,
+                162
+            ],
+            "answer": "Raindrops",
+            "hint": "On roses, one of \u201cMy Favorite Things,\u201d per \u201cThe Sound of Music\u201d"
+        },
+        "I": {
+            "cells": [
+                29,
+                119,
+                146,
+                62,
+                42,
+                14,
+                2,
+                173,
+                79,
+                105
+            ],
+            "answer": "Alpenstock",
+            "hint": "Forerunner of the modern ice ax"
+        },
+        "J": {
+            "cells": [
+                112,
+                46,
+                161,
+                28,
+                96,
+                68
+            ],
+            "answer": "Nod off",
+            "hint": "Enter a state of torpidity (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                95,
+                118,
+                166,
+                132,
+                21,
+                78,
+                59
+            ],
+            "answer": "Ketchup",
+            "hint": "Sauce often used in making meatloaf"
+        },
+        "L": {
+            "cells": [
+                149,
+                98,
+                57,
+                129,
+                30,
+                12,
+                169,
+                43,
+                75
+            ],
+            "answer": "Elastomer",
+            "hint": "Neoprene or natural rubber, chemically"
+        },
+        "M": {
+            "cells": [
+                35,
+                55,
+                121,
+                155,
+                72,
+                170,
+                90,
+                137
+            ],
+            "answer": "Nobelist",
+            "hint": "One of an annual sextet"
+        },
+        "N": {
+            "cells": [
+                113,
+                127,
+                1,
+                148,
+                163,
+                49,
+                36,
+                80,
+                16
+            ],
+            "answer": "Stud poker",
+            "hint": "Card game featured in \u201cThe Cincinnati Kid\u201d (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                154,
+                133,
+                45,
+                104,
+                8,
+                83,
+                61,
+                31
+            ],
+            "answer": "Tabloids",
+            "hint": "England\u2019s Daily Mirror and The Sun, for example"
+        },
+        "P": {
+            "cells": [
+                144,
+                94,
+                130,
+                108,
+                52,
+                10,
+                23,
+                70
+            ],
+            "answer": "Ectoderm",
+            "hint": "Outer layer of cells in early development"
+        },
+        "Q": {
+            "cells": [
+                147,
+                165,
+                102,
+                69,
+                123,
+                86,
+                37
+            ],
+            "answer": "Insects",
+            "hint": "Prey that may be ensnared in webs"
+        },
+        "R": {
+            "cells": [
+                157,
+                124,
+                19,
+                33,
+                89,
+                175,
+                73
+            ],
+            "answer": "Nightie",
+            "hint": "Garment for a woman who\u2019s retiring"
+        },
+        "S": {
+            "cells": [
+                122,
+                110,
+                71,
+                44,
+                18,
+                88,
+                5,
+                176
+            ],
+            "answer": "Sea snail",
+            "hint": "Marine gastropod with a shell (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                91,
+                65,
+                114,
+                152,
+                171,
+                40,
+                25,
+                138,
+                9
+            ],
+            "answer": "Cairngorm",
+            "hint": "Smoky quartz named for a Scottish range"
+        },
+        "U": {
+            "cells": [
+                120,
+                99,
+                56,
+                13,
+                27,
+                135,
+                158,
+                172
+            ],
+            "answer": "Almagest",
+            "hint": "Ptolemaic treatise on astronomy"
+        },
+        "V": {
+            "cells": [
+                142,
+                92,
+                111,
+                126,
+                177,
+                26,
+                3,
+                58,
+                38
+            ],
+            "answer": "Think fast",
+            "hint": "Directive when throwing somebody something unexpectedly (2 wds.)"
+        }
+    }
+}

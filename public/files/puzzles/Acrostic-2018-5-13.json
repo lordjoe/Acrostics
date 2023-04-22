@@ -1,0 +1,365 @@
+{
+    "answer": "Maven, shmaven! Kibbitzers and nudniks is more like it. ... Most of the prescriptive rules of... language mavens... are bits of folklore that originated for screwball reasons... years ago and have perpetuated themselves ever since.",
+    "author": "Steven Pinker,",
+    "authorCell": [
+        155,
+        40,
+        75,
+        13,
+        151,
+        176,
+        48,
+        7,
+        173,
+        129,
+        2,
+        113,
+        111,
+        77,
+        87,
+        143,
+        84,
+        110,
+        146,
+        86,
+        163,
+        60,
+        85,
+        180,
+        104
+    ],
+    "source": "The Language Instinct",
+    "clues": {
+        "A": {
+            "cells": [
+                155,
+                65,
+                181,
+                41,
+                82,
+                16,
+                134,
+                108
+            ],
+            "answer": "Peekaboo",
+            "hint": "Game for the preverbal set"
+        },
+        "B": {
+            "cells": [
+                40,
+                24,
+                62,
+                4,
+                102,
+                150,
+                132,
+                169
+            ],
+            "answer": "Interval",
+            "hint": "Minute, hour or day"
+        },
+        "C": {
+            "cells": [
+                75,
+                171,
+                125,
+                6,
+                147,
+                53,
+                93,
+                31
+            ],
+            "answer": "News desk",
+            "hint": "Place for a reporter or editor to work (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                13,
+                59,
+                156,
+                90,
+                121
+            ],
+            "answer": "Krebs",
+            "hint": "Maynard G. ____, 1960s sitcom role for Bob Denver"
+        },
+        "E": {
+            "cells": [
+                151,
+                10,
+                101,
+                128,
+                174,
+                80
+            ],
+            "answer": "Evolve",
+            "hint": "Adapt to new conditions"
+        },
+        "F": {
+            "cells": [
+                176,
+                11,
+                28,
+                98,
+                63,
+                79,
+                148,
+                44
+            ],
+            "answer": "Red light",
+            "hint": "Something illegal to run (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                48,
+                130,
+                145,
+                12,
+                34,
+                165,
+                61,
+                115
+            ],
+            "answer": "Transept",
+            "hint": "Nave crosser in a cathedral"
+        },
+        "H": {
+            "cells": [
+                7,
+                144,
+                54,
+                124,
+                95,
+                158,
+                39
+            ],
+            "answer": "Hopeful",
+            "hint": "Candidate for an office or title"
+        },
+        "I": {
+            "cells": [
+                173,
+                81,
+                126,
+                149,
+                21,
+                99
+            ],
+            "answer": "Embark",
+            "hint": "Push off, set out"
+        },
+        "J": {
+            "cells": [
+                129,
+                71,
+                29,
+                89,
+                47,
+                107,
+                142,
+                154
+            ],
+            "answer": "\"Lone Star\"",
+            "hint": "1996 John Sayles film set in Texas (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                2,
+                135,
+                76,
+                27,
+                112,
+                57,
+                164
+            ],
+            "answer": "Anguish",
+            "hint": "Brokenhearted state"
+        },
+        "L": {
+            "cells": [
+                113,
+                67,
+                45,
+                15,
+                175,
+                88,
+                141
+            ],
+            "answer": "Numbers",
+            "hint": "Mathematician\u2019s fascination"
+        },
+        "M": {
+            "cells": [
+                111,
+                23,
+                96,
+                50,
+                168
+            ],
+            "answer": "Gaffe",
+            "hint": "Howler, blunder, faux pas"
+        },
+        "N": {
+            "cells": [
+                77,
+                26,
+                3,
+                42,
+                55,
+                136,
+                116,
+                162
+            ],
+            "answer": "Unversed",
+            "hint": "Lacking in experience or knowledge"
+        },
+        "O": {
+            "cells": [
+                87,
+                37,
+                122,
+                106,
+                25,
+                178,
+                159
+            ],
+            "answer": "Arcadia",
+            "hint": "Mountainous region of ancient Greece whose name now means any area of peace and simplicity"
+        },
+        "P": {
+            "cells": [
+                143,
+                161,
+                68,
+                114,
+                18,
+                94
+            ],
+            "answer": "Gelato",
+            "hint": "Italian dessert offering"
+        },
+        "Q": {
+            "cells": [
+                84,
+                35,
+                118,
+                49,
+                140,
+                177,
+                157,
+                20,
+                66
+            ],
+            "answer": "E.M. Forster",
+            "hint": "Author of \u201cHowards End\u201d (3 wds.)"
+        },
+        "R": {
+            "cells": [
+                110,
+                19,
+                170,
+                38,
+                133,
+                51,
+                91,
+                78
+            ],
+            "answer": "Izvestia",
+            "hint": "Soviet paper of record from 1917 to 1991"
+        },
+        "S": {
+            "cells": [
+                146,
+                74,
+                1,
+                131,
+                100,
+                56,
+                32,
+                167
+            ],
+            "answer": "Nameless",
+            "hint": "Anonymous"
+        },
+        "T": {
+            "cells": [
+                86,
+                69,
+                9,
+                172,
+                33,
+                117,
+                138
+            ],
+            "answer": "Seaside",
+            "hint": "Beach, shore"
+        },
+        "U": {
+            "cells": [
+                163,
+                52,
+                109,
+                17,
+                72,
+                92,
+                137
+            ],
+            "answer": "Thrifty",
+            "hint": "Abiding by the ninth part of the Scout Law"
+        },
+        "V": {
+            "cells": [
+                60,
+                8,
+                152,
+                120,
+                97,
+                83
+            ],
+            "answer": "Improv",
+            "hint": "Comedy on the fly"
+        },
+        "W": {
+            "cells": [
+                85,
+                139,
+                160,
+                43,
+                64,
+                103,
+                22,
+                119,
+                179
+            ],
+            "answer": "\"Native Son\"",
+            "hint": "1940 novel about the crimes of Bigger Thomas (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                180,
+                105,
+                123,
+                46,
+                5,
+                30,
+                58,
+                73,
+                153
+            ],
+            "answer": "Chronicle",
+            "hint": "Record of historical events"
+        },
+        "Y": {
+            "cells": [
+                104,
+                127,
+                36,
+                14,
+                70,
+                166
+            ],
+            "answer": "Taoism",
+            "hint": "Chinese practice associated with yin and yang"
+        }
+    }
+}

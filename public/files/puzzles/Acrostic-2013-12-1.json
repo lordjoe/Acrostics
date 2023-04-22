@@ -1,0 +1,358 @@
+{
+    "answer": "\u201cThe Courtship of Miles Standish\"... is full of... hooey, like calling Alden a scholar, even though in real life he was the guy on the \"Mayflower\u201d the Pilgrims hired as their barrel maker. Basically, he was in charge of the beer.",
+    "author": "Sarah Vowell,",
+    "authorCell": [
+        146,
+        102,
+        64,
+        145,
+        85,
+        66,
+        106,
+        87,
+        78,
+        33,
+        32,
+        107,
+        5,
+        174,
+        54,
+        95,
+        157,
+        121,
+        118,
+        113,
+        101,
+        149,
+        90,
+        92,
+        29
+    ],
+    "source": "(The) Wordy Shipmates",
+    "clues": {
+        "A": {
+            "cells": [
+                146,
+                63,
+                49,
+                105,
+                75,
+                23,
+                164
+            ],
+            "answer": "\u201cSailing\u201d",
+            "hint": "1980 #1 hit for Christopher Cross"
+        },
+        "B": {
+            "cells": [
+                102,
+                47,
+                73,
+                28,
+                170,
+                136,
+                89
+            ],
+            "answer": "Algiers",
+            "hint": "Barbary Coast stronghold for Barbarossa"
+        },
+        "C": {
+            "cells": [
+                64,
+                44,
+                125,
+                27,
+                79,
+                11,
+                143
+            ],
+            "answer": "Red hair",
+            "hint": "Trait shared by Elizabeth I and Vladimir Lenin (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                145,
+                58,
+                99,
+                17,
+                162,
+                123
+            ],
+            "answer": "Ashlar",
+            "hint": "Precisely cut masonry"
+        },
+        "E": {
+            "cells": [
+                85,
+                166,
+                6,
+                26,
+                130,
+                104,
+                151,
+                40
+            ],
+            "answer": "Housefly",
+            "hint": "Tidbit to feed a pet gecko"
+        },
+        "F": {
+            "cells": [
+                66,
+                3,
+                135,
+                16,
+                35,
+                103
+            ],
+            "answer": "Verify",
+            "hint": "\u201cTrust, but ___\u201d (Russian proverb)"
+        },
+        "G": {
+            "cells": [
+                106,
+                25,
+                81,
+                160,
+                62,
+                38,
+                128,
+                10
+            ],
+            "answer": "Oilcloth",
+            "hint": "Vintage fabric for a sou\u2019wester"
+        },
+        "H": {
+            "cells": [
+                87,
+                46,
+                120,
+                153,
+                168,
+                31,
+                133
+            ],
+            "answer": "Washtub",
+            "hint": "Container for some suds"
+        },
+        "I": {
+            "cells": [
+                78,
+                139,
+                158,
+                51,
+                117,
+                100
+            ],
+            "answer": "Emigre",
+            "hint": "Settler in another land"
+        },
+        "J": {
+            "cells": [
+                33,
+                55,
+                127,
+                12,
+                88,
+                72,
+                150
+            ],
+            "answer": "Les Paul",
+            "hint": "Pioneer in overdubbing and multitrack recording (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                32,
+                147,
+                97,
+                116,
+                67,
+                132,
+                82,
+                18
+            ],
+            "answer": "Lingerie",
+            "hint": "Petticoat or peignoir, e.g."
+        },
+        "L": {
+            "cells": [
+                107,
+                2,
+                52,
+                138,
+                86,
+                163
+            ],
+            "answer": "Whaler",
+            "hint": "Player on Hartford\u2019s former N.H.L. team"
+        },
+        "M": {
+            "cells": [
+                5,
+                83,
+                167,
+                122,
+                59,
+                108
+            ],
+            "answer": "Office",
+            "hint": "Position of responsibility"
+        },
+        "N": {
+            "cells": [
+                174,
+                13,
+                98,
+                42,
+                76,
+                114
+            ],
+            "answer": "Rotini",
+            "hint": "Helical base for spaghetti sauce"
+        },
+        "O": {
+            "cells": [
+                54,
+                37,
+                159,
+                22,
+                119,
+                173,
+                4,
+                91,
+                142
+            ],
+            "answer": "Don Ameche",
+            "hint": "Host of \u201cInternational Showtime\u201d on 1960s TV (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                95,
+                134,
+                74,
+                155,
+                172,
+                111
+            ],
+            "answer": "Yahweh",
+            "hint": "Name not to be said aloud, to some"
+        },
+        "Q": {
+            "cells": [
+                157,
+                21,
+                140,
+                77,
+                8,
+                115,
+                65
+            ],
+            "answer": "Startle",
+            "hint": "Suddenly horripilate"
+        },
+        "R": {
+            "cells": [
+                121,
+                61,
+                1,
+                144,
+                39,
+                24
+            ],
+            "answer": "Hotbed",
+            "hint": "Environment conducive to hatching plots"
+        },
+        "S": {
+            "cells": [
+                118,
+                68,
+                137,
+                30,
+                14,
+                156,
+                171,
+                48,
+                84
+            ],
+            "answer": "Ineffable",
+            "hint": "Not to be said aloud"
+        },
+        "T": {
+            "cells": [
+                113,
+                53,
+                152,
+                15,
+                34,
+                94,
+                69,
+                169
+            ],
+            "answer": "Plymouth",
+            "hint": "The former Volare, Valiant or Voyager"
+        },
+        "U": {
+            "cells": [
+                101,
+                57,
+                148,
+                43,
+                124,
+                7,
+                165,
+                80
+            ],
+            "answer": "Mackerel",
+            "hint": "Good source of omega-3 fatty acids"
+        },
+        "V": {
+            "cells": [
+                149,
+                41,
+                131,
+                93,
+                60,
+                110
+            ],
+            "answer": "Alight",
+            "hint": "Land, touch down; disembark"
+        },
+        "W": {
+            "cells": [
+                90,
+                36,
+                126,
+                56,
+                141,
+                20
+            ],
+            "answer": "Thanks",
+            "hint": "Something given before many a feast"
+        },
+        "X": {
+            "cells": [
+                92,
+                19,
+                45,
+                70,
+                154,
+                109
+            ],
+            "answer": "Escher",
+            "hint": "Artist with a museum in The Hague"
+        },
+        "Y": {
+            "cells": [
+                29,
+                161,
+                71,
+                9,
+                129,
+                96,
+                50,
+                112
+            ],
+            "answer": "Shoshone",
+            "hint": "Sacagawea\u2019s tribe"
+        }
+    }
+}

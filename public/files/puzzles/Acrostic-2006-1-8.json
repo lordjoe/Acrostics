@@ -1,0 +1,328 @@
+{
+    "answer": "Of all the maladies capable of striking down a traveler in a foreign land... the one I fear... most is being caught with nothing to read. Let the monsoons play havoc with my itinerary, a good book... will always save the day.",
+    "author": "(Lawrence) Millman,",
+    "authorCell": [
+        9,
+        54,
+        156,
+        5,
+        72,
+        171,
+        59,
+        149,
+        51,
+        150,
+        152,
+        106,
+        63,
+        163,
+        26,
+        76,
+        65,
+        21,
+        14,
+        49,
+        30
+    ],
+    "source": "Bookless In Biak",
+    "clues": {
+        "A": {
+            "cells": [
+                9,
+                143,
+                91,
+                62,
+                1,
+                155,
+                73,
+                33,
+                123
+            ],
+            "answer": "Mythology",
+            "hint": "Field of centaurs and unicorns"
+        },
+        "B": {
+            "cells": [
+                54,
+                115,
+                4,
+                43,
+                147,
+                68,
+                159,
+                29,
+                99,
+                87,
+                131
+            ],
+            "answer": "Isle of Wight",
+            "hint": "Home of Queen Victoria\u2019s Osborne House (3 wds.)"
+        },
+        "C": {
+            "cells": [
+                156,
+                10,
+                89,
+                46,
+                69,
+                32,
+                128,
+                107
+            ],
+            "answer": "Lawrence",
+            "hint": "Writer of \u201cTwilight in Italy\u201d (1916); first name of the puzzle quotation\u2019s author"
+        },
+        "D": {
+            "cells": [
+                5,
+                20,
+                64,
+                75,
+                97,
+                160,
+                37
+            ],
+            "answer": "Laotian",
+            "hint": "Asian language written with 33 consonants and 28 vowels"
+        },
+        "E": {
+            "cells": [
+                72,
+                84,
+                168,
+                47,
+                112,
+                18,
+                132,
+                154
+            ],
+            "answer": "Mahi-mahi",
+            "hint": "Fish whose name in Hawaiian means \u201cstrong-strong\u201d (hyph.)"
+        },
+        "F": {
+            "cells": [
+                171,
+                114,
+                100,
+                3,
+                28,
+                17,
+                61,
+                135,
+                83,
+                157
+            ],
+            "answer": "Antarctica",
+            "hint": "Where the Russian admiral Fabian Gottlieb von Bellingshausen explored"
+        },
+        "G": {
+            "cells": [
+                59,
+                146,
+                42,
+                169,
+                11,
+                109,
+                134
+            ],
+            "answer": "Novelty",
+            "hint": "Kitschy trinket or toy often marketed to tourists"
+        },
+        "H": {
+            "cells": [
+                149,
+                137,
+                78,
+                44,
+                67,
+                113,
+                19,
+                96,
+                31,
+                158,
+                53
+            ],
+            "answer": "Bibliophile",
+            "hint": "Collector with a library"
+        },
+        "I": {
+            "cells": [
+                51,
+                25,
+                2,
+                108,
+                92,
+                166,
+                133,
+                38,
+                120
+            ],
+            "answer": "Off the map",
+            "hint": "So remote as to be almost unfindable (3 wds.)"
+        },
+        "J": {
+            "cells": [
+                150,
+                85,
+                167,
+                119,
+                130,
+                105,
+                23,
+                71
+            ],
+            "answer": "Outsider",
+            "hint": "Someone not from around here"
+        },
+        "K": {
+            "cells": [
+                152,
+                12,
+                56,
+                86,
+                122,
+                142,
+                24,
+                35
+            ],
+            "answer": "Kangaroo",
+            "hint": "Equine : horse :: macropodine : ___"
+        },
+        "L": {
+            "cells": [
+                106,
+                116,
+                165,
+                139,
+                57,
+                66,
+                27,
+                95,
+                8,
+                40
+            ],
+            "answer": "Love letter",
+            "hint": "Transmission from a distant flame (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                63,
+                138,
+                13,
+                117,
+                50,
+                74,
+                88,
+                151,
+                102,
+                161
+            ],
+            "answer": "End of story",
+            "hint": "\u201cThat\u2019s all she wrote\u201d (3 wds.)"
+        },
+        "N": {
+            "cells": [
+                163,
+                144,
+                126,
+                58,
+                48,
+                81,
+                104,
+                7
+            ],
+            "answer": "Savannah",
+            "hint": "The Hostess City of the South"
+        },
+        "O": {
+            "cells": [
+                26,
+                6,
+                94,
+                129,
+                141,
+                153,
+                41,
+                172
+            ],
+            "answer": "Stowaway",
+            "hint": "Passenger getting a free ride"
+        },
+        "P": {
+            "cells": [
+                76,
+                148,
+                121,
+                103,
+                36,
+                90,
+                22,
+                170
+            ],
+            "answer": "Idlewild",
+            "hint": "John F. Kennedy airport, before 1963"
+        },
+        "Q": {
+            "cells": [
+                65,
+                101,
+                16,
+                124,
+                79,
+                34
+            ],
+            "answer": "Noshed",
+            "hint": "Had a bagel, say, between meals"
+        },
+        "R": {
+            "cells": [
+                21,
+                125,
+                55,
+                82,
+                164,
+                145,
+                111
+            ],
+            "answer": "Baggage",
+            "hint": "Encumbering old emotions or ideas"
+        },
+        "S": {
+            "cells": [
+                14,
+                118,
+                136,
+                52,
+                70,
+                98,
+                162,
+                80,
+                39
+            ],
+            "answer": "In transit",
+            "hint": "En route; amid passage (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                49,
+                60,
+                15,
+                93
+            ],
+            "answer": "Aden",
+            "hint": "Port ENE of Djibouti"
+        },
+        "U": {
+            "cells": [
+                30,
+                127,
+                77,
+                110,
+                45,
+                140
+            ],
+            "answer": "Kosher",
+            "hint": "Sanctioned for certain diets"
+        }
+    }
+}

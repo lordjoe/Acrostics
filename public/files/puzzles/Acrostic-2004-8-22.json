@@ -1,0 +1,341 @@
+{
+    "answer": "Most tourists... sprint through the [Louvre] to see the three most famous objects: the Mona Lisa, Venus de Milo, and Winged Victory. Art Buchwald... boasted he\u2019d seen all three masterpieces in five minutes and fifty-six seconds.",
+    "author": "Dan Brown,",
+    "authorCell": [
+        89,
+        87,
+        17,
+        114,
+        45,
+        55,
+        90,
+        92,
+        139,
+        20,
+        140,
+        95,
+        71,
+        152,
+        165,
+        156,
+        98,
+        16,
+        145,
+        175,
+        81,
+        42
+    ],
+    "source": "The Da Vinci Code",
+    "clues": {
+        "A": {
+            "cells": [
+                89,
+                38,
+                178,
+                19,
+                151,
+                60,
+                129
+            ],
+            "answer": "De Stijl",
+            "hint": "Dutch art school represented by Piet Mondrian (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                87,
+                13,
+                65,
+                148
+            ],
+            "answer": "Asti",
+            "hint": "Palazzo Alfieri\u2019s town"
+        },
+        "C": {
+            "cells": [
+                17,
+                34,
+                110,
+                50,
+                133,
+                61,
+                122,
+                72
+            ],
+            "answer": "Newsreel",
+            "hint": "Documentary form superseded by TV broadcasting"
+        },
+        "D": {
+            "cells": [
+                114,
+                47,
+                146,
+                35,
+                130,
+                82
+            ],
+            "answer": "Beetle",
+            "hint": "Jut, as a brow; popular car"
+        },
+        "E": {
+            "cells": [
+                45,
+                174,
+                104,
+                31,
+                154,
+                59
+            ],
+            "answer": "R. Crumb",
+            "hint": "Creator of Flakey Foont and Fritz the Cat (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                55,
+                157,
+                4,
+                166,
+                97,
+                28,
+                85,
+                113
+            ],
+            "answer": "Outfield",
+            "hint": "Left, right and center"
+        },
+        "G": {
+            "cells": [
+                90,
+                39,
+                26,
+                3,
+                79,
+                155,
+                131
+            ],
+            "answer": "Wet suit",
+            "hint": "Frogman\u2019s getup (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                92,
+                36,
+                68,
+                137,
+                78,
+                12,
+                112,
+                161,
+                149,
+                123
+            ],
+            "answer": "No man\u2019s land",
+            "hint": "Territory unclaimed or ambiguous (3 wds.)"
+        },
+        "I": {
+            "cells": [
+                139,
+                170,
+                70,
+                5,
+                115,
+                21,
+                126,
+                63,
+                99,
+                49
+            ],
+            "answer": "Tintoretto",
+            "hint": "Venetian master who painted \u201cSt. George and the Dragon\u201d"
+        },
+        "J": {
+            "cells": [
+                20,
+                2,
+                136,
+                69,
+                127,
+                102,
+                83
+            ],
+            "answer": "Homonym",
+            "hint": "Beau\u2019s relation to Bo?"
+        },
+        "K": {
+            "cells": [
+                140,
+                163,
+                96,
+                75,
+                8,
+                177,
+                48,
+                23,
+                88,
+                108,
+                121
+            ],
+            "answer": "Edvard Munch",
+            "hint": "Norwegian who painted \u201cThe Scream\u201d (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                95,
+                67,
+                135,
+                14,
+                120,
+                84,
+                172,
+                41
+            ],
+            "answer": "Deep dish",
+            "hint": "Kind of pizza with a thick crust (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                71,
+                164,
+                118,
+                153,
+                15,
+                54,
+                103,
+                40,
+                132
+            ],
+            "answer": "Aftermath",
+            "hint": "Result of taking a course in algebra?"
+        },
+        "N": {
+            "cells": [
+                152,
+                46,
+                33,
+                22,
+                162,
+                77,
+                138,
+                119
+            ],
+            "answer": "Veronese",
+            "hint": "Renaissance fresco painter born Paolo Caliari"
+        },
+        "O": {
+            "cells": [
+                165,
+                1,
+                142,
+                53,
+                117,
+                105,
+                86
+            ],
+            "answer": "Impasto",
+            "hint": "Technique of applying paint thickly"
+        },
+        "P": {
+            "cells": [
+                156,
+                144,
+                24,
+                111,
+                11,
+                73,
+                32,
+                91,
+                51,
+                168
+            ],
+            "answer": "Negativity",
+            "hint": "Quality of a naysayer"
+        },
+        "Q": {
+            "cells": [
+                98,
+                141,
+                128,
+                160,
+                27,
+                18,
+                173,
+                64,
+                43
+            ],
+            "answer": "Crash test",
+            "hint": "Evaluation involving a dummy (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                16,
+                176,
+                167,
+                109,
+                125,
+                52,
+                29,
+                159,
+                80,
+                66
+            ],
+            "answer": "In the flesh",
+            "hint": "Live and present (3 wds.)"
+        },
+        "S": {
+            "cells": [
+                145,
+                101,
+                6,
+                169,
+                74,
+                25,
+                116,
+                158,
+                62,
+                44
+            ],
+            "answer": "Crosshatch",
+            "hint": "Create shading with multiple intersecting lines"
+        },
+        "T": {
+            "cells": [
+                175,
+                106,
+                147,
+                94,
+                37,
+                57,
+                9,
+                76,
+                134
+            ],
+            "answer": "Obsessive",
+            "hint": "Worrying over stuff more than necessary"
+        },
+        "U": {
+            "cells": [
+                81,
+                30,
+                100,
+                150,
+                56,
+                10
+            ],
+            "answer": "Doofus",
+            "hint": "Incompetent dweeb or dingbat"
+        },
+        "V": {
+            "cells": [
+                42,
+                171,
+                143,
+                93,
+                107,
+                58,
+                7,
+                124
+            ],
+            "answer": "Exiguous",
+            "hint": "Meager, scanty"
+        }
+    }
+}

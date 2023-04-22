@@ -1,0 +1,363 @@
+{
+    "answer": "Galileo did not have the sophisticated experimental devices we have today: he... timed the swinging of a pendulum by counting his heartbeats and... measured the effects of gravity by dropping objects off the... tower of Pisa.",
+    "author": "Melanie Mitchell,",
+    "authorCell": [
+        68,
+        32,
+        90,
+        44,
+        11,
+        28,
+        20,
+        40,
+        153,
+        31,
+        95,
+        106,
+        54,
+        45,
+        5,
+        134,
+        12,
+        119,
+        152,
+        3,
+        120,
+        35,
+        79,
+        114,
+        145
+    ],
+    "source": "Complexity",
+    "clues": {
+        "A": {
+            "cells": [
+                68,
+                113,
+                29,
+                139,
+                94,
+                48,
+                159,
+                173
+            ],
+            "answer": "Macgyver",
+            "hint": "TV secret agent resourceful with a Swiss Army knife"
+        },
+        "B": {
+            "cells": [
+                32,
+                10,
+                126,
+                49,
+                154,
+                81,
+                110,
+                170,
+                98
+            ],
+            "answer": "Eddington",
+            "hint": "Sir Arthur Stanley ___, astrophysicist who explicated general relativity"
+        },
+        "C": {
+            "cells": [
+                90,
+                177,
+                102,
+                167,
+                43,
+                143,
+                117,
+                1
+            ],
+            "answer": "Lighting",
+            "hint": "Responsibility of a gaffer"
+        },
+        "D": {
+            "cells": [
+                44,
+                176,
+                150,
+                136,
+                99,
+                124,
+                163,
+                85,
+                64,
+                17
+            ],
+            "answer": "Apostrophe",
+            "hint": "Figure of speech exemplified by \u201cHello darkness, my old friend\u201d"
+        },
+        "E": {
+            "cells": [
+                11,
+                37,
+                76,
+                155,
+                55
+            ],
+            "answer": "Neigh",
+            "hint": "Cry from Incitatus to Caligula"
+        },
+        "F": {
+            "cells": [
+                28,
+                151,
+                72,
+                60,
+                87,
+                130
+            ],
+            "answer": "IPhone",
+            "hint": "Product with the slogan \u201cThere\u2019s an app for that\u201d"
+        },
+        "G": {
+            "cells": [
+                20,
+                39,
+                115,
+                169,
+                86,
+                148,
+                8,
+                132,
+                96,
+                61
+            ],
+            "answer": "Eisteddfod",
+            "hint": "Welsh festival of poetry and song"
+        },
+        "H": {
+            "cells": [
+                40,
+                91,
+                166,
+                56,
+                18,
+                73
+            ],
+            "answer": "Mutate",
+            "hint": "Do something to promote evolution?"
+        },
+        "I": {
+            "cells": [
+                153,
+                118,
+                15,
+                103,
+                137,
+                62,
+                80
+            ],
+            "answer": "Idahoan",
+            "hint": "Native of Moscow"
+        },
+        "J": {
+            "cells": [
+                31,
+                19,
+                67,
+                105,
+                93,
+                51
+            ],
+            "answer": "Thisbe",
+            "hint": "Ill-fated lover of myth"
+        },
+        "K": {
+            "cells": [
+                95,
+                22,
+                111,
+                75,
+                41,
+                146,
+                162
+            ],
+            "answer": "Cobwebs",
+            "hint": "Signs of neglect or disuse"
+        },
+        "L": {
+            "cells": [
+                106,
+                174,
+                144,
+                52,
+                24,
+                82,
+                161
+            ],
+            "answer": "Hotshot",
+            "hint": "Cocky, flamboyant expert"
+        },
+        "M": {
+            "cells": [
+                54,
+                21,
+                74,
+                108,
+                147,
+                4,
+                122,
+                135
+            ],
+            "answer": "Essayist",
+            "hint": "Lamb given to ruminating, say"
+        },
+        "N": {
+            "cells": [
+                45,
+                9,
+                101,
+                112,
+                158,
+                123,
+                88,
+                78,
+                65
+            ],
+            "answer": "Line judge",
+            "hint": "Court official who may call out (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                5,
+                116,
+                23,
+                178,
+                133
+            ],
+            "answer": "Lapse",
+            "hint": "Memory bank malfunction"
+        },
+        "P": {
+            "cells": [
+                134,
+                7,
+                25,
+                164,
+                175,
+                107,
+                46
+            ],
+            "answer": "Coiffed",
+            "hint": "Wearing a hoodlike cap"
+        },
+        "Q": {
+            "cells": [
+                12,
+                38,
+                84,
+                59,
+                125
+            ],
+            "answer": "Orate",
+            "hint": "Elocute, spout"
+        },
+        "R": {
+            "cells": [
+                119,
+                30,
+                50,
+                70,
+                89,
+                131,
+                165
+            ],
+            "answer": "Macduff",
+            "hint": "Shakespearean character who was \u201cfrom his mother\u2019s womb untimely ripp\u2019d\u201d"
+        },
+        "S": {
+            "cells": [
+                152,
+                34,
+                171,
+                66,
+                58,
+                140
+            ],
+            "answer": "Pewter",
+            "hint": "Utensils of a tinny sort"
+        },
+        "T": {
+            "cells": [
+                3,
+                97,
+                138,
+                83,
+                69,
+                33
+            ],
+            "answer": "Luffed",
+            "hint": "Turned the bow toward the wind"
+        },
+        "U": {
+            "cells": [
+                120,
+                57,
+                6,
+                149,
+                168,
+                26,
+                71
+            ],
+            "answer": "Everest",
+            "hint": "Peak known to locals as Chomolungma"
+        },
+        "V": {
+            "cells": [
+                35,
+                141,
+                77,
+                127,
+                14,
+                104,
+                160
+            ],
+            "answer": "Xanthic",
+            "hint": "Yellowish in hue"
+        },
+        "W": {
+            "cells": [
+                79,
+                16,
+                63,
+                142,
+                100,
+                42,
+                129
+            ],
+            "answer": "Ivy vine",
+            "hint": "Wall climber (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                114,
+                156,
+                53,
+                36,
+                179,
+                13,
+                128
+            ],
+            "answer": "Towpath",
+            "hint": "Where oxen walk along a canal"
+        },
+        "Y": {
+            "cells": [
+                145,
+                47,
+                109,
+                157,
+                121,
+                92,
+                2,
+                27,
+                172
+            ],
+            "answer": "Yerba mate",
+            "hint": "South American shrub whose leaves are brewed for a hot beverage drunk from a gourd (2 wds.)"
+        }
+    }
+}

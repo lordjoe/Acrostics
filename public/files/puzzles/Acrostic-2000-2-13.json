@@ -1,0 +1,364 @@
+{
+    "answer": "It\u2019s impossible to duplicate... the conditions under which Mozart heard music.... Pitch has gone up a... half tone since his day. If he... were to hear his G Minor Symphony in what to him would be G sharp minor, he would become... ill.",
+    "author": "(Harold C.) Schonberg,",
+    "authorCell": [
+        8,
+        46,
+        108,
+        119,
+        85,
+        145,
+        105,
+        104,
+        147,
+        33,
+        54,
+        91,
+        115,
+        52,
+        101,
+        110,
+        2,
+        90,
+        29,
+        139,
+        77,
+        168,
+        37,
+        13,
+        57,
+        3
+    ],
+    "source": "(The Lives of) The Great Composers",
+    "clues": {
+        "A": {
+            "cells": [
+                8,
+                47,
+                20,
+                152,
+                143,
+                56,
+                64
+            ],
+            "answer": "Shiplap",
+            "hint": "Wooden sheathing in which the adjacent boards have overlapping edges"
+        },
+        "B": {
+            "cells": [
+                46,
+                26,
+                98,
+                106,
+                113,
+                74
+            ],
+            "answer": "Chitin",
+            "hint": "Principal material in the covering of insects and crustaceans"
+        },
+        "C": {
+            "cells": [
+                108,
+                133,
+                9,
+                79,
+                62,
+                121,
+                112
+            ],
+            "answer": "Hashish",
+            "hint": "Hemp product"
+        },
+        "D": {
+            "cells": [
+                119,
+                58,
+                40,
+                165,
+                80,
+                12,
+                172
+            ],
+            "answer": "Oddball",
+            "hint": "Eccentric, nonconformist"
+        },
+        "E": {
+            "cells": [
+                85,
+                107,
+                94,
+                100,
+                136,
+                160
+            ],
+            "answer": "No-show",
+            "hint": "Waster of a ticket (hyph.)"
+        },
+        "F": {
+            "cells": [
+                145,
+                171,
+                153,
+                93,
+                130,
+                1
+            ],
+            "answer": "Bimini",
+            "hint": "The Fountain of Youth\u2019s legendary island home"
+        },
+        "G": {
+            "cells": [
+                105,
+                6,
+                34,
+                124,
+                44,
+                51,
+                89,
+                97
+            ],
+            "answer": "Epiphany",
+            "hint": "Flash of insight"
+        },
+        "H": {
+            "cells": [
+                104,
+                86,
+                31,
+                27,
+                55,
+                59
+            ],
+            "answer": "Redeem",
+            "hint": "Pay off or buy back"
+        },
+        "I": {
+            "cells": [
+                147,
+                15,
+                135,
+                92,
+                129,
+                67
+            ],
+            "answer": "Gothic",
+            "hint": "Like Horace Walpole\u2019s \u201cThe Castle of Otranto\u201d"
+        },
+        "J": {
+            "cells": [
+                33,
+                42,
+                4,
+                87,
+                134,
+                103
+            ],
+            "answer": "Triste",
+            "hint": "Melancholy, sad: Fr."
+        },
+        "K": {
+            "cells": [
+                54,
+                162,
+                123,
+                16,
+                151,
+                38,
+                169
+            ],
+            "answer": "Humdrum",
+            "hint": "Monotonous, routine"
+        },
+        "L": {
+            "cells": [
+                91,
+                164,
+                65,
+                114,
+                141,
+                36
+            ],
+            "answer": "Edison",
+            "hint": "1878 patentee for the phonograph"
+        },
+        "M": {
+            "cells": [
+                115,
+                156,
+                24,
+                83,
+                132,
+                109
+            ],
+            "answer": "Goethe",
+            "hint": "Writer of the Sturm und Drang movement"
+        },
+        "N": {
+            "cells": [
+                52,
+                35,
+                17,
+                72,
+                125,
+                167,
+                142,
+                66
+            ],
+            "answer": "Rough cut",
+            "hint": "Preliminary stage of a motion picture (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                101,
+                32,
+                127,
+                148,
+                23,
+                166,
+                117,
+                155
+            ],
+            "answer": "Einstein",
+            "hint": "Genius"
+        },
+        "P": {
+            "cells": [
+                110,
+                28,
+                170,
+                157,
+                11,
+                45,
+                63
+            ],
+            "answer": "Acerbic",
+            "hint": "Sharp, bitter, harsh"
+        },
+        "Q": {
+            "cells": [
+                2,
+                137,
+                75,
+                25,
+                88,
+                71
+            ],
+            "answer": "Thetis",
+            "hint": "Mother of Achilles"
+        },
+        "R": {
+            "cells": [
+                90,
+                158,
+                78,
+                82,
+                99
+            ],
+            "answer": "Chaff",
+            "hint": "Hay or straw used as fodder"
+        },
+        "S": {
+            "cells": [
+                29,
+                50,
+                122,
+                5,
+                22,
+                118,
+                144,
+                154,
+                150,
+                61
+            ],
+            "answer": "Ozymandias",
+            "hint": "\u201cMy name is ___, king of kings\u201d (Shelley)"
+        },
+        "T": {
+            "cells": [
+                139,
+                146,
+                14,
+                159,
+                111
+            ],
+            "answer": "Meter",
+            "hint": "Prosodic concern"
+        },
+        "U": {
+            "cells": [
+                77,
+                161,
+                43,
+                102,
+                7,
+                131
+            ],
+            "answer": "Powwow",
+            "hint": "Conference, gathering"
+        },
+        "V": {
+            "cells": [
+                168,
+                10,
+                19,
+                140,
+                41,
+                163,
+                81
+            ],
+            "answer": "Oil well",
+            "hint": "Source of income for the Osage (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                37,
+                69,
+                96,
+                173,
+                84,
+                48
+            ],
+            "answer": "Shalom",
+            "hint": "Word of greeting or farewell"
+        },
+        "X": {
+            "cells": [
+                13,
+                60,
+                18,
+                68,
+                49,
+                30,
+                128
+            ],
+            "answer": "Euphony",
+            "hint": "Pleasant sound, in speech"
+        },
+        "Y": {
+            "cells": [
+                57,
+                70,
+                95,
+                138,
+                76,
+                116
+            ],
+            "answer": "Radium",
+            "hint": "Element first found in pitchblende"
+        },
+        "Z": {
+            "cells": [
+                3,
+                149,
+                73,
+                120,
+                53,
+                21,
+                126,
+                39
+            ],
+            "answer": "Short con",
+            "hint": "Small-time grifter\u2019s game (2 wds.)"
+        }
+    }
+}

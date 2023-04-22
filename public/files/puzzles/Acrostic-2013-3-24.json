@@ -1,0 +1,357 @@
+{
+    "answer": "The first canto of Pale Fire contains, within its... compass, the words torquated, stillicide, shagbark, vermiculated, preterist, iridule, and lemniscate. Nabokov collected rare words, just as he collected rare butterflies.",
+    "author": "(Anne) Fadiman,",
+    "authorCell": [
+        15,
+        61,
+        139,
+        29,
+        86,
+        141,
+        117,
+        91,
+        122,
+        68,
+        10,
+        142,
+        78,
+        143,
+        121,
+        124,
+        107,
+        17,
+        12,
+        31,
+        43,
+        167,
+        109,
+        160
+    ],
+    "source": "At Large And At Small",
+    "clues": {
+        "A": {
+            "cells": [
+                15,
+                57,
+                81,
+                137,
+                99
+            ],
+            "answer": "Forte",
+            "hint": "Vocabulary, to a walking dictionary"
+        },
+        "B": {
+            "cells": [
+                61,
+                151,
+                98,
+                3,
+                166,
+                118,
+                47,
+                82
+            ],
+            "answer": "Asterisk",
+            "hint": "Nonnumerical key on a phone"
+        },
+        "C": {
+            "cells": [
+                139,
+                106,
+                20,
+                4,
+                38,
+                157,
+                60,
+                90,
+                172
+            ],
+            "answer": "Difficult",
+            "hint": "Refractory, as a child"
+        },
+        "D": {
+            "cells": [
+                29,
+                116,
+                44,
+                177,
+                67,
+                136,
+                101,
+                163
+            ],
+            "answer": "Implicit",
+            "hint": "Unstated"
+        },
+        "E": {
+            "cells": [
+                86,
+                110,
+                64,
+                33,
+                129,
+                162,
+                6,
+                179
+            ],
+            "answer": "Mediocre",
+            "hint": "Neither terrific nor terrible"
+        },
+        "F": {
+            "cells": [
+                141,
+                85,
+                66,
+                49,
+                175,
+                127,
+                16,
+                158,
+                113
+            ],
+            "answer": "Arthropod",
+            "hint": "\u201cOne with jointed feet\u201d"
+        },
+        "G": {
+            "cells": [
+                117,
+                104,
+                37,
+                161,
+                8,
+                132,
+                176,
+                21,
+                83,
+                50
+            ],
+            "answer": "Nine-to-five",
+            "hint": "Like a typical workday (hyph.)"
+        },
+        "H": {
+            "cells": [
+                91,
+                114,
+                149,
+                25,
+                69,
+                40,
+                52,
+                11
+            ],
+            "answer": "Al Jolson",
+            "hint": "Star of 1927\u2019s \u201cThe Jazz Singer\u201d (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                122,
+                155,
+                58,
+                36,
+                18,
+                134,
+                174,
+                105
+            ],
+            "answer": "\u201cThriller\u201d",
+            "hint": "Monster hit with a Vincent Price sprechgesang"
+        },
+        "J": {
+            "cells": [
+                68,
+                84,
+                130,
+                5,
+                27,
+                173,
+                42,
+                144,
+                112
+            ],
+            "answer": "Levittown",
+            "hint": "Cookie-cutter suburb started in 1947"
+        },
+        "K": {
+            "cells": [
+                10,
+                88,
+                24,
+                53,
+                138,
+                152,
+                74,
+                165
+            ],
+            "answer": "Accreted",
+            "hint": "Got enlarged by a gradual buildup"
+        },
+        "L": {
+            "cells": [
+                142,
+                23,
+                73,
+                7,
+                93,
+                45
+            ],
+            "answer": "Red Sea",
+            "hint": "Site of an unusual passage (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                78,
+                100,
+                14,
+                32,
+                159,
+                63,
+                146
+            ],
+            "answer": "Growler",
+            "hint": "Beer holder; angry cur, e.g."
+        },
+        "N": {
+            "cells": [
+                143,
+                80,
+                96,
+                1,
+                35,
+                59,
+                171,
+                111,
+                128,
+                156
+            ],
+            "answer": "Earthquake",
+            "hint": "Disrupter of the 1989 World Series"
+        },
+        "O": {
+            "cells": [
+                121,
+                170,
+                140,
+                13,
+                28,
+                94
+            ],
+            "answer": "Abroad",
+            "hint": "Off in foreign climes"
+        },
+        "P": {
+            "cells": [
+                124,
+                145,
+                30,
+                164,
+                180,
+                108,
+                9,
+                76
+            ],
+            "answer": "Nonesuch",
+            "hint": "Unrivaled person or thing"
+        },
+        "Q": {
+            "cells": [
+                107,
+                72,
+                46,
+                131,
+                89,
+                154
+            ],
+            "answer": "Discus",
+            "hint": "Lenticular object of Summer Games"
+        },
+        "R": {
+            "cells": [
+                17,
+                79,
+                102,
+                150,
+                168,
+                54
+            ],
+            "answer": "Absurd",
+            "hint": "Having no rational basis"
+        },
+        "S": {
+            "cells": [
+                12,
+                125,
+                71,
+                103,
+                178,
+                41,
+                55
+            ],
+            "answer": "Tactics",
+            "hint": "Science of maneuvering military forces"
+        },
+        "T": {
+            "cells": [
+                31,
+                51,
+                70,
+                92,
+                120,
+                2,
+                135,
+                147
+            ],
+            "answer": "Switched",
+            "hint": "Like a couple of babies in \u201cH.M.S. Pinafore\u201d"
+        },
+        "U": {
+            "cells": [
+                43,
+                153,
+                26,
+                56,
+                87,
+                119
+            ],
+            "answer": "Mantis",
+            "hint": "Tyrannosaur of the insect world"
+        },
+        "V": {
+            "cells": [
+                167,
+                65,
+                133,
+                115,
+                19,
+                95
+            ],
+            "answer": "Asleep",
+            "hint": "Out"
+        },
+        "W": {
+            "cells": [
+                109,
+                77,
+                126,
+                39,
+                169,
+                148,
+                62
+            ],
+            "answer": "Lab test",
+            "hint": "Diagnostic procedure (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                160,
+                123,
+                48,
+                34,
+                97,
+                22,
+                75
+            ],
+            "answer": "Letters",
+            "hint": "\u201cWheel of Fortune\u201d elements; prose and poetry"
+        }
+    }
+}

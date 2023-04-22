@@ -1,0 +1,360 @@
+{
+    "answer": "The Lord\u2019s Prayer was incomprehensible until I broke it down into... images. The power and the glory were represented by a... rainbow and an electrical tower. ... When I think about [will], I imagine God throwing a lightning bolt.",
+    "author": "(Temple) Grandin,",
+    "authorCell": [
+        152,
+        84,
+        147,
+        109,
+        7,
+        45,
+        128,
+        46,
+        126,
+        30,
+        19,
+        134,
+        160,
+        91,
+        58,
+        149,
+        161,
+        86,
+        144,
+        20,
+        72,
+        138,
+        10,
+        13,
+        8
+    ],
+    "source": "Thinking In Pictures",
+    "clues": {
+        "A": {
+            "cells": [
+                152,
+                111,
+                39,
+                17,
+                139,
+                85,
+                169
+            ],
+            "answer": "Glisten",
+            "hint": "Sparkle like snow in the sun"
+        },
+        "B": {
+            "cells": [
+                84,
+                118,
+                150,
+                71,
+                42,
+                4,
+                23,
+                167
+            ],
+            "answer": "Randolph",
+            "hint": "Lady ___, Winston Churchill\u2019s mother"
+        },
+        "C": {
+            "cells": [
+                147,
+                131,
+                77,
+                96,
+                176,
+                2,
+                27,
+                41,
+                110
+            ],
+            "answer": "Ahoy there",
+            "hint": "Greeting on Talk Like a Pirate Day (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                109,
+                90,
+                173,
+                34,
+                143,
+                69
+            ],
+            "answer": "Nebula",
+            "hint": "Supernova remnant, maybe"
+        },
+        "E": {
+            "cells": [
+                7,
+                68,
+                135,
+                80,
+                116,
+                35,
+                162
+            ],
+            "answer": "Drawing",
+            "hint": "Etch A Sketch output"
+        },
+        "F": {
+            "cells": [
+                45,
+                106,
+                60,
+                93,
+                32,
+                136,
+                3,
+                124,
+                172
+            ],
+            "answer": "Inselberg",
+            "hint": "Isolated rock hill or mountain rising abruptly from the surrounding terrain"
+        },
+        "G": {
+            "cells": [
+                128,
+                21,
+                102,
+                54,
+                154,
+                79
+            ],
+            "answer": "Nobody",
+            "hint": "\u201cI\u2019m ___! Who are you?\u201d (poem by Emily Dickinson)"
+        },
+        "H": {
+            "cells": [
+                46,
+                165,
+                148,
+                26,
+                130,
+                98,
+                5,
+                64,
+                112
+            ],
+            "answer": "Tightrope",
+            "hint": "Metaphorical place for a person in a difficult position"
+        },
+        "I": {
+            "cells": [
+                126,
+                33,
+                108,
+                92,
+                73,
+                14,
+                48,
+                159
+            ],
+            "answer": "Heathrow",
+            "hint": "Where Piccadilly Line passengers may be going"
+        },
+        "J": {
+            "cells": [
+                30,
+                56,
+                9,
+                137,
+                82,
+                120
+            ],
+            "answer": "Import",
+            "hint": "Significance, gravity, weight"
+        },
+        "K": {
+            "cells": [
+                19,
+                141,
+                61,
+                104,
+                129,
+                155
+            ],
+            "answer": "Nitwit",
+            "hint": "Nincompoop, bonehead, sap"
+        },
+        "L": {
+            "cells": [
+                134,
+                67,
+                50,
+                174,
+                89,
+                156,
+                16
+            ],
+            "answer": "Kenosha",
+            "hint": "Wisconsin birthplace of Orson Welles"
+        },
+        "M": {
+            "cells": [
+                160,
+                113,
+                59,
+                87,
+                18,
+                133,
+                43
+            ],
+            "answer": "Ice rink",
+            "hint": "Place to practice curling (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                91,
+                105,
+                166,
+                122,
+                57,
+                6,
+                25
+            ],
+            "answer": "Nagware",
+            "hint": "App that\u2019s free to try, but with prompts to pay"
+        },
+        "O": {
+            "cells": [
+                58,
+                99,
+                115,
+                146,
+                83,
+                171,
+                36
+            ],
+            "answer": "Garment",
+            "hint": "Part of an ensemble"
+        },
+        "P": {
+            "cells": [
+                149,
+                78,
+                49,
+                100,
+                28
+            ],
+            "answer": "Irwin",
+            "hint": "Bill ___, clown who played Mr. Noodle on \u201cSesame Street\u201d"
+        },
+        "Q": {
+            "cells": [
+                161,
+                127,
+                140,
+                175,
+                12,
+                66,
+                44,
+                94
+            ],
+            "answer": "Newlywed",
+            "hint": "Guest on a game show hosted by Bob Eubanks"
+        },
+        "R": {
+            "cells": [
+                86,
+                132,
+                163,
+                101,
+                51,
+                29,
+                1
+            ],
+            "answer": "Pianist",
+            "hint": "Key figure in boogie-woogie music"
+        },
+        "S": {
+            "cells": [
+                144,
+                70,
+                164,
+                55,
+                22,
+                95,
+                121
+            ],
+            "answer": "In limbo",
+            "hint": "Neither here nor there (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                20,
+                123,
+                145,
+                76,
+                170,
+                47,
+                62
+            ],
+            "answer": "Ceilidh",
+            "hint": "Gaelic dance party"
+        },
+        "U": {
+            "cells": [
+                72,
+                11,
+                31,
+                119,
+                151,
+                168
+            ],
+            "answer": "Tablet",
+            "hint": "Apple iPad or Kindle Fire"
+        },
+        "V": {
+            "cells": [
+                138,
+                52,
+                15,
+                37,
+                157,
+                74,
+                107
+            ],
+            "answer": "Unwired",
+            "hint": "Like acoustic instruments or Luddites"
+        },
+        "W": {
+            "cells": [
+                10,
+                158,
+                40,
+                142,
+                65,
+                125,
+                88
+            ],
+            "answer": "Rob Lowe",
+            "hint": "Sam Seaborn portrayer on \u201cThe West Wing\u201d (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                13,
+                97,
+                75,
+                38,
+                63,
+                114
+            ],
+            "answer": "Eaglet",
+            "hint": "Nestling prone to fratricide"
+        },
+        "Y": {
+            "cells": [
+                8,
+                117,
+                103,
+                153,
+                53,
+                81,
+                24
+            ],
+            "answer": "Scooter",
+            "hint": "Honda Ruckus or Yamaha Zuma"
+        }
+    }
+}

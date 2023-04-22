@@ -1,0 +1,363 @@
+{
+    "answer": "[S]talled traffic has... given us a new... entrepreneur. On the Cross Bronx Expressway,... peddlers cruise from lane to lane hustling mobile phones to the immobilized.... In Boston vendors sell coffee... at jam-packed Callahan Tunnel....",
+    "author": "Jane Holtz Kay,",
+    "authorCell": [
+        157,
+        155,
+        92,
+        93,
+        44,
+        115,
+        106,
+        97,
+        127,
+        163,
+        64,
+        65,
+        85,
+        113,
+        108,
+        15,
+        16,
+        70,
+        135,
+        177,
+        25,
+        114,
+        99,
+        110,
+        30
+    ],
+    "source": "Asphalt Nation",
+    "clues": {
+        "A": {
+            "cells": [
+                157,
+                87,
+                11,
+                151,
+                56,
+                72,
+                96,
+                122,
+                173
+            ],
+            "answer": "Jefferson",
+            "hint": "President whose vice president was named Clinton"
+        },
+        "B": {
+            "cells": [
+                155,
+                74,
+                46,
+                9,
+                167
+            ],
+            "answer": "Accra",
+            "hint": "City on the Bight of Benin"
+        },
+        "C": {
+            "cells": [
+                92,
+                29,
+                63,
+                156,
+                53,
+                131
+            ],
+            "answer": "Newton",
+            "hint": "\u201cGod said \u2018Let ___ be!\u2019 and all was light\u201d (Pope)"
+        },
+        "D": {
+            "cells": [
+                93,
+                57,
+                82,
+                69,
+                23,
+                1
+            ],
+            "answer": "Exodus",
+            "hint": "Part of the Pentateuch"
+        },
+        "E": {
+            "cells": [
+                44,
+                118,
+                166,
+                91,
+                2,
+                27
+            ],
+            "answer": "Hecate",
+            "hint": "Goddess worshiped by magicians and witches"
+        },
+        "F": {
+            "cells": [
+                115,
+                26,
+                45,
+                130,
+                147,
+                168
+            ],
+            "answer": "O\u2019Neill",
+            "hint": "Winner of the 1936 Nobel for Literature"
+        },
+        "G": {
+            "cells": [
+                106,
+                41,
+                14,
+                158,
+                90,
+                24
+            ],
+            "answer": "Locals",
+            "hint": "People of a community"
+        },
+        "H": {
+            "cells": [
+                97,
+                138,
+                68,
+                119,
+                86,
+                176,
+                21,
+                75
+            ],
+            "answer": "TV dinner",
+            "hint": "Swanson product introduced in 1953 (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                127,
+                77,
+                47,
+                149,
+                89,
+                37
+            ],
+            "answer": "Zircon",
+            "hint": "Mineral whose transparent form is used as a gem"
+        },
+        "J": {
+            "cells": [
+                163,
+                32,
+                107,
+                83,
+                4,
+                124,
+                137
+            ],
+            "answer": "Kremlin",
+            "hint": "Burial site of American journalist John Reed"
+        },
+        "K": {
+            "cells": [
+                64,
+                125,
+                101,
+                33,
+                81,
+                171,
+                19,
+                50,
+                144
+            ],
+            "answer": "Alger Hiss",
+            "hint": "State Department official accused in 1948 of spying (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                65,
+                153,
+                35,
+                178,
+                20,
+                161,
+                54
+            ],
+            "answer": "Yerevan",
+            "hint": "Armenia\u2019s capital and largest city"
+        },
+        "M": {
+            "cells": [
+                85,
+                34,
+                160,
+                67,
+                100,
+                129,
+                13,
+                55
+            ],
+            "answer": "Appendix",
+            "hint": "Codicil or supplement"
+        },
+        "N": {
+            "cells": [
+                113,
+                98,
+                39,
+                18,
+                12,
+                60,
+                134,
+                88
+            ],
+            "answer": "Slugfest",
+            "hint": "High-scoring affair"
+        },
+        "O": {
+            "cells": [
+                108,
+                3,
+                148,
+                170,
+                43,
+                79
+            ],
+            "answer": "Palate",
+            "hint": "Quality possessed by an epicure"
+        },
+        "P": {
+            "cells": [
+                15,
+                150,
+                132,
+                51,
+                71,
+                145
+            ],
+            "answer": "Hobbes",
+            "hint": "Philosopher who wrote \u201cLeviathan\u201d"
+        },
+        "Q": {
+            "cells": [
+                16,
+                169,
+                5,
+                31,
+                94,
+                175,
+                120,
+                104,
+                62
+            ],
+            "answer": "All thumbs",
+            "hint": "Maladroit, bungling (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                70,
+                172,
+                40,
+                10,
+                102,
+                126,
+                154
+            ],
+            "answer": "Laramie",
+            "hint": "Historic fort on the Oregon Trail"
+        },
+        "S": {
+            "cells": [
+                135,
+                142,
+                121,
+                78,
+                28,
+                105,
+                152,
+                8
+            ],
+            "answer": "Tom Swift",
+            "hint": "Edward L. Stratemeyer\u2019s boy wonder (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                177,
+                136,
+                17,
+                116,
+                52,
+                95,
+                159
+            ],
+            "answer": "Nostrum",
+            "hint": "Mrs. Lydia E. Pinkham\u2019s Vegetable Compound, e.g."
+        },
+        "U": {
+            "cells": [
+                25,
+                123,
+                36,
+                59,
+                165,
+                6,
+                139,
+                111
+            ],
+            "answer": "Aberdeen",
+            "hint": "Scotland\u2019s \u201cGranite City\u201d"
+        },
+        "V": {
+            "cells": [
+                114,
+                146,
+                80,
+                179,
+                48,
+                22
+            ],
+            "answer": "Teflon",
+            "hint": "Trademark for polytetrafluoroethylene"
+        },
+        "W": {
+            "cells": [
+                99,
+                42,
+                141,
+                76,
+                174,
+                162,
+                109
+            ],
+            "answer": "In Dutch",
+            "hint": "Out of favor, disgraced (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                110,
+                58,
+                38,
+                140,
+                49,
+                117,
+                133,
+                66
+            ],
+            "answer": "Open shop",
+            "hint": "Business that\u2019s not entirely unionized (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                30,
+                128,
+                61,
+                73,
+                164,
+                84,
+                143,
+                103,
+                7,
+                112
+            ],
+            "answer": "Nesselrode",
+            "hint": "Fruity concoction used in puddings"
+        }
+    }
+}

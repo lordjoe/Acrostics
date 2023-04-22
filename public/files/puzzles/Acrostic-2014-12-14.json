@@ -1,0 +1,356 @@
+{
+    "answer": "Although... methodical... [he] keeps his cigars in the coal-scuttle, his tobacco in the toe end of a Persian slipper, and his unanswered correspondence transfixed by a jack-knife into the very center of his wooden mantelpiece.",
+    "author": "Arthur Conan Doyle,",
+    "authorCell": [
+        97,
+        29,
+        104,
+        5,
+        151,
+        2,
+        76,
+        3,
+        12,
+        127,
+        169,
+        46,
+        25,
+        31,
+        88,
+        1,
+        148,
+        10,
+        33,
+        27,
+        54,
+        6,
+        17,
+        174
+    ],
+    "source": "The Adventure of the Musgrave Ritual",
+    "clues": {
+        "A": {
+            "cells": [
+                97,
+                120,
+                59,
+                26,
+                139,
+                41,
+                173
+            ],
+            "answer": "Archfoe",
+            "hint": "First and worst among adversaries"
+        },
+        "B": {
+            "cells": [
+                29,
+                144,
+                126,
+                44,
+                163,
+                57,
+                79,
+                96
+            ],
+            "answer": "Coxswain",
+            "hint": "Director of a crew"
+        },
+        "C": {
+            "cells": [
+                104,
+                80,
+                162,
+                38,
+                125,
+                143
+            ],
+            "answer": "Dash it",
+            "hint": "British form of \u201cPhooey!\u201d (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                5,
+                56,
+                159,
+                95,
+                123,
+                134,
+                42,
+                172,
+                22
+            ],
+            "answer": "Obfuscate",
+            "hint": "Cloud, fog, muddy, perplex"
+        },
+        "E": {
+            "cells": [
+                151,
+                164,
+                52,
+                105,
+                21,
+                82
+            ],
+            "answer": "Yoicks",
+            "hint": "Encouraging cry to foxhounds"
+        },
+        "F": {
+            "cells": [
+                2,
+                72,
+                60,
+                110,
+                23,
+                36
+            ],
+            "answer": "Loosen",
+            "hint": "Relax"
+        },
+        "G": {
+            "cells": [
+                76,
+                113,
+                19,
+                170,
+                154,
+                58,
+                39,
+                91
+            ],
+            "answer": "Enhanced",
+            "hint": "Given some improvement or magnification"
+        },
+        "H": {
+            "cells": [
+                3,
+                179,
+                37,
+                107,
+                93,
+                53
+            ],
+            "answer": "Tetris",
+            "hint": "Onetime game craze with falling figures"
+        },
+        "I": {
+            "cells": [
+                12,
+                67,
+                24,
+                160,
+                147,
+                89,
+                114
+            ],
+            "answer": "Hophead",
+            "hint": "Jazz Age term for a drug addict"
+        },
+        "J": {
+            "cells": [
+                127,
+                9,
+                86,
+                48,
+                30,
+                177,
+                99
+            ],
+            "answer": "Empties",
+            "hint": "Items on which deposit may be paid"
+        },
+        "K": {
+            "cells": [
+                169,
+                74,
+                132,
+                118,
+                34,
+                47,
+                61,
+                16
+            ],
+            "answer": "Majestic",
+            "hint": "Impressively grand"
+        },
+        "L": {
+            "cells": [
+                46,
+                70,
+                4,
+                112,
+                150,
+                28,
+                87,
+                166
+            ],
+            "answer": "Unhorsed",
+            "hint": "Like the loser of a medieval contest"
+        },
+        "M": {
+            "cells": [
+                25,
+                8,
+                149,
+                108,
+                83,
+                165,
+                40,
+                136
+            ],
+            "answer": "Sherlock",
+            "hint": "Detective whose name literally means \u201cfair-haired\u201d"
+        },
+        "N": {
+            "cells": [
+                31,
+                101,
+                119,
+                146,
+                50,
+                18,
+                75
+            ],
+            "answer": "Get help",
+            "hint": "Go see a therapist, say (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                88,
+                32,
+                155,
+                64,
+                129,
+                13,
+                168,
+                115
+            ],
+            "answer": "Rathbone",
+            "hint": "Notable player of the quote\u2019s subject"
+        },
+        "P": {
+            "cells": [
+                1,
+                111,
+                131,
+                152,
+                51,
+                69
+            ],
+            "answer": "Apache",
+            "hint": "Chopper named for a tribe"
+        },
+        "Q": {
+            "cells": [
+                148,
+                176,
+                49,
+                35,
+                73,
+                15,
+                109,
+                128
+            ],
+            "answer": "Vilified",
+            "hint": "Made to seem the bad guy"
+        },
+        "R": {
+            "cells": [
+                10,
+                117,
+                178,
+                153,
+                90,
+                63,
+                77,
+                138,
+                45
+            ],
+            "answer": "Eccentric",
+            "hint": "Whimsical or odd sort"
+        },
+        "S": {
+            "cells": [
+                33,
+                65,
+                122,
+                140,
+                100,
+                167,
+                14
+            ],
+            "answer": "Renewed",
+            "hint": "Kept a sub going?"
+        },
+        "T": {
+            "cells": [
+                27,
+                62,
+                135,
+                43,
+                161,
+                116,
+                7,
+                94
+            ],
+            "answer": "Inklings",
+            "hint": "First small suggestions of comprehension"
+        },
+        "U": {
+            "cells": [
+                54,
+                68,
+                142,
+                171,
+                130,
+                78,
+                158,
+                98
+            ],
+            "answer": "Tennyson",
+            "hint": "\u201cCharge of the Light Brigade\u201d poet"
+        },
+        "V": {
+            "cells": [
+                6,
+                81,
+                71,
+                20,
+                157,
+                106,
+                133,
+                145,
+                92
+            ],
+            "answer": "Under oath",
+            "hint": "In no position to lie (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                17,
+                175,
+                156,
+                102,
+                84,
+                66,
+                141,
+                124
+            ],
+            "answer": "Aperitif",
+            "hint": "A little something preprandial"
+        },
+        "X": {
+            "cells": [
+                174,
+                103,
+                85,
+                121,
+                137,
+                11,
+                55
+            ],
+            "answer": "Lepanto",
+            "hint": "Battle of ___, 1571 naval engagement that was a setback for Ottoman Turks"
+        }
+    }
+}

@@ -1,0 +1,334 @@
+{
+    "answer": "Few questions have so vexed drinkers as whether to shake or stir a Martini. Shaking creates a colder drink, but risks diluting the ingredients. James Bond added insult to uncertainty by eschewing gin in favor of vodka.",
+    "author": "Ben Schott,",
+    "authorCell": [
+        88,
+        111,
+        164,
+        31,
+        142,
+        156,
+        124,
+        41,
+        149,
+        1,
+        139,
+        78,
+        129,
+        178,
+        27,
+        80,
+        24,
+        84,
+        165,
+        148,
+        65
+    ],
+    "source": "Food And Drink",
+    "clues": {
+        "A": {
+            "cells": [
+                88,
+                42,
+                99,
+                110,
+                161,
+                143,
+                18,
+                59,
+                75
+            ],
+            "answer": "Bourgeois",
+            "hint": "Conventionally middle-class"
+        },
+        "B": {
+            "cells": [
+                111,
+                21,
+                159,
+                73,
+                174,
+                85,
+                43,
+                127
+            ],
+            "answer": "Exit visa",
+            "hint": "Leave to leave (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                164,
+                175,
+                115,
+                17,
+                90,
+                147,
+                69,
+                46
+            ],
+            "answer": "Nonstick",
+            "hint": "Teflon-coated"
+        },
+        "D": {
+            "cells": [
+                31,
+                105,
+                121,
+                8,
+                136,
+                45,
+                60,
+                176
+            ],
+            "answer": "Shetland",
+            "hint": "Archipelago whose islands include Yell and Muckle Roe"
+        },
+        "E": {
+            "cells": [
+                142,
+                13,
+                130,
+                155,
+                87,
+                55,
+                32,
+                100,
+                114
+            ],
+            "answer": "Checkmate",
+            "hint": "Bad situation for a king to be in"
+        },
+        "F": {
+            "cells": [
+                156,
+                92,
+                109,
+                44,
+                3,
+                26,
+                171,
+                16,
+                56,
+                77,
+                145
+            ],
+            "answer": "High-wire act",
+            "hint": "Performance by a funambulist (2 wds., hyph.)"
+        },
+        "G": {
+            "cells": [
+                124,
+                19,
+                36,
+                144,
+                54,
+                158,
+                74,
+                83
+            ],
+            "answer": "Overawed",
+            "hint": "Intimidated, cowed, unnerved"
+        },
+        "H": {
+            "cells": [
+                41,
+                135,
+                91,
+                58,
+                79,
+                157,
+                112,
+                170,
+                15,
+                29
+            ],
+            "answer": "Turtledove",
+            "hint": "One of a pair given on 11 straight days, in song"
+        },
+        "I": {
+            "cells": [
+                149,
+                25,
+                81,
+                67,
+                137,
+                10,
+                108
+            ],
+            "answer": "Trenton",
+            "hint": "Where Washington fought after crossing the Delaware"
+        },
+        "J": {
+            "cells": [
+                1,
+                72,
+                98,
+                33,
+                113,
+                167,
+                152
+            ],
+            "answer": "Falsify",
+            "hint": "Doctor or cook"
+        },
+        "K": {
+            "cells": [
+                139,
+                14,
+                28,
+                49,
+                97,
+                126,
+                68,
+                153
+            ],
+            "answer": "Oak Ridge",
+            "hint": "Tennessee locale nicknamed the Atomic City (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                78,
+                117,
+                93,
+                132,
+                173,
+                53,
+                64,
+                162,
+                6
+            ],
+            "answer": "Ossifrage",
+            "hint": "Vulture that feeds mostly on bone marrow"
+        },
+        "M": {
+            "cells": [
+                129,
+                70,
+                146,
+                34,
+                102,
+                172,
+                5,
+                116
+            ],
+            "answer": "Drawn out",
+            "hint": "Protracted; talked into talking (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                178,
+                123,
+                154,
+                66,
+                86,
+                138,
+                38,
+                106
+            ],
+            "answer": "Absinthe",
+            "hint": "Liquor banned in the United States since 1912"
+        },
+        "O": {
+            "cells": [
+                27,
+                47,
+                169,
+                71,
+                57,
+                120,
+                9,
+                133,
+                96
+            ],
+            "answer": "Never mind",
+            "hint": "\u201cForget about it\u201d (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                80,
+                119,
+                30,
+                177,
+                160,
+                2,
+                95,
+                62
+            ],
+            "answer": "Darkness",
+            "hint": "What Erebus personified, in Greek myth"
+        },
+        "Q": {
+            "cells": [
+                24,
+                40,
+                150,
+                76,
+                7,
+                128,
+                89,
+                50,
+                104
+            ],
+            "answer": "Dry as dust",
+            "hint": "Exceedingly boring, as writing (3 wds.)"
+        },
+        "R": {
+            "cells": [
+                84,
+                22,
+                35,
+                166,
+                4,
+                140,
+                101,
+                122,
+                51
+            ],
+            "answer": "Rehnquist",
+            "hint": "Burger replacement"
+        },
+        "S": {
+            "cells": [
+                165,
+                11,
+                134,
+                61,
+                23,
+                39,
+                118,
+                48,
+                151
+            ],
+            "answer": "Inside job",
+            "hint": "Work of a mole, perhaps (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                148,
+                20,
+                168,
+                82,
+                37,
+                63,
+                52,
+                125,
+                103
+            ],
+            "answer": "Near thing",
+            "hint": "Narrow escape, close call (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                65,
+                107,
+                131,
+                12,
+                94,
+                163,
+                141
+            ],
+            "answer": "Kidskin",
+            "hint": "Material used in making vellum"
+        }
+    }
+}

@@ -1,0 +1,345 @@
+{
+    "answer": "When scientists looked through their microscopes at brain tissue, they saw a tangled mess that seemed to have no beginning and no end. For this reason,... [t]hey weren\u2019t sure there was such a thing as a discrete nerve cell.",
+    "author": "(Eric) Kandel,",
+    "authorCell": [
+        18,
+        62,
+        99,
+        159,
+        164,
+        69,
+        28,
+        115,
+        142,
+        105,
+        97,
+        80,
+        40,
+        118,
+        85,
+        59,
+        169,
+        91,
+        20,
+        83,
+        116,
+        154,
+        71
+    ],
+    "source": "The Disordered Mind",
+    "clues": {
+        "A": {
+            "cells": [
+                18,
+                100,
+                123,
+                155,
+                111,
+                34,
+                61,
+                2,
+                171,
+                136
+            ],
+            "answer": "Kingfisher",
+            "hint": "Kookaburra or a related bird"
+        },
+        "B": {
+            "cells": [
+                62,
+                102,
+                150,
+                79,
+                173
+            ],
+            "answer": "Agate",
+            "hint": "Font size apt for box scores or fine print"
+        },
+        "C": {
+            "cells": [
+                99,
+                82,
+                172,
+                13,
+                64,
+                32
+            ],
+            "answer": "Nectar",
+            "hint": "Collectible for Apis members"
+        },
+        "D": {
+            "cells": [
+                159,
+                66,
+                21,
+                42,
+                117
+            ],
+            "answer": "Dates",
+            "hint": "The fruits of consulting eHarmony?"
+        },
+        "E": {
+            "cells": [
+                164,
+                133,
+                120,
+                86,
+                43,
+                147,
+                104,
+                7,
+                75
+            ],
+            "answer": "Etats-Unis",
+            "hint": "Land \u201cau sud de Québec\u201d (hyph.)"
+        },
+        "F": {
+            "cells": [
+                69,
+                112,
+                148,
+                29,
+                98,
+                129,
+                54,
+                14
+            ],
+            "answer": "Loch Ness",
+            "hint": "Wet body much scrutinized (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                28,
+                126,
+                65,
+                8,
+                48,
+                138,
+                166,
+                114,
+                84
+            ],
+            "answer": "Tete-a-tete",
+            "hint": "Private chat, or a sofa to facilitate it (hyph.)"
+        },
+        "H": {
+            "cells": [
+                115,
+                24,
+                5,
+                51,
+                73,
+                146,
+                161
+            ],
+            "answer": "Hostess",
+            "hint": "Entertaining woman"
+        },
+        "I": {
+            "cells": [
+                142,
+                92,
+                174,
+                31,
+                68,
+                125,
+                10,
+                108,
+                50
+            ],
+            "answer": "Enlighten",
+            "hint": "Take from ignorance to knowledge"
+        },
+        "J": {
+            "cells": [
+                105,
+                52,
+                74,
+                152,
+                165,
+                37,
+                1,
+                137,
+                15,
+                121
+            ],
+            "answer": "Dish towels",
+            "hint": "Handy kitchen items (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                97,
+                109,
+                35,
+                139,
+                46,
+                127,
+                153,
+                167,
+                6,
+                77
+            ],
+            "answer": "Inch by inch",
+            "hint": "In small increments, as progress might be achieved (3 wds.)"
+        },
+        "L": {
+            "cells": [
+                80,
+                44,
+                60,
+                162,
+                27,
+                119,
+                95,
+                12,
+                140
+            ],
+            "answer": "Say cheese",
+            "hint": "Order from a friendly shooter (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                40,
+                90,
+                131,
+                113,
+                170,
+                11,
+                56,
+                143
+            ],
+            "answer": "Overview",
+            "hint": "Summary or general survey"
+        },
+        "N": {
+            "cells": [
+                118,
+                103,
+                88,
+                36,
+                156,
+                22
+            ],
+            "answer": "Rah-rah",
+            "hint": "Showing team spirit; gung-ho (hyph.)"
+        },
+        "O": {
+            "cells": [
+                85,
+                49,
+                72,
+                157,
+                135,
+                33
+            ],
+            "answer": "Dim sum",
+            "hint": "Chinese dish for a small plate (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                59,
+                39,
+                149,
+                19,
+                175,
+                87,
+                101
+            ],
+            "answer": "Echelon",
+            "hint": "Level of rank in an organization"
+        },
+        "Q": {
+            "cells": [
+                169,
+                25,
+                96,
+                47,
+                78,
+                124,
+                145
+            ],
+            "answer": "\"Rugrats\"",
+            "hint": "Nickelodeon show about ankle-biters"
+        },
+        "R": {
+            "cells": [
+                91,
+                160,
+                26,
+                58,
+                76
+            ],
+            "answer": "Eight",
+            "hint": "Gale\u2019s place on the Beaufort scale"
+        },
+        "S": {
+            "cells": [
+                20,
+                107,
+                128,
+                4,
+                151,
+                93,
+                67
+            ],
+            "answer": "Downton",
+            "hint": "\u201cAbbey\u201d home of the fictional Crawley family"
+        },
+        "T": {
+            "cells": [
+                83,
+                16,
+                141,
+                158,
+                53,
+                38
+            ],
+            "answer": "Morass",
+            "hint": "Swamp; confusing situation"
+        },
+        "U": {
+            "cells": [
+                116,
+                132,
+                94,
+                81,
+                45,
+                63,
+                168,
+                30,
+                9
+            ],
+            "answer": "In between",
+            "hint": "At neither extreme (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                154,
+                70,
+                55,
+                23,
+                122,
+                106,
+                134
+            ],
+            "answer": "Neurons",
+            "hint": "Electrically excitable bodies"
+        },
+        "W": {
+            "cells": [
+                71,
+                3,
+                89,
+                110,
+                41,
+                144,
+                130,
+                163,
+                17,
+                57
+            ],
+            "answer": "Dead parrot",
+            "hint": "Topic of a classic Monty Python sketch set in a pet shop (2 wds.)"
+        }
+    }
+}

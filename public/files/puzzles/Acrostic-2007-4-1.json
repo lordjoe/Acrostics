@@ -1,0 +1,356 @@
+{
+    "answer": "Cryptography has... come a long way since the first century B.C., when Julius Caesar reportedly used a... simple substitution cipher... . Caesar\u2019s confidants would have understood him had he said \u201cHw wx, Euxwh!\" instead of \"Et tu, Brute!\u201d",
+    "author": "(Paul) Hoffman,",
+    "authorCell": [
+        141,
+        139,
+        36,
+        115,
+        143,
+        118,
+        23,
+        109,
+        104,
+        1,
+        144,
+        96,
+        83,
+        78,
+        133,
+        72,
+        87,
+        135,
+        157,
+        129,
+        107,
+        119,
+        7,
+        130
+    ],
+    "source": "Archimedes\u2019 Revenge",
+    "clues": {
+        "A": {
+            "cells": [
+                141,
+                61,
+                95,
+                49,
+                11,
+                35,
+                120
+            ],
+            "answer": "Hatchet",
+            "hint": "What Carry Nation carried into saloons"
+        },
+        "B": {
+            "cells": [
+                139,
+                50,
+                163,
+                32,
+                152,
+                124,
+                84
+            ],
+            "answer": "Owned up",
+            "hint": "Admitted (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                36,
+                169,
+                108,
+                15,
+                82,
+                125
+            ],
+            "answer": "Fossil",
+            "hint": "Impression of very great age"
+        },
+        "D": {
+            "cells": [
+                115,
+                150,
+                33,
+                16,
+                64,
+                93
+            ],
+            "answer": "Fat cat",
+            "hint": "Overprivileged, rich sort (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                143,
+                171,
+                9,
+                30,
+                126,
+                103,
+                65
+            ],
+            "answer": "Meander",
+            "hint": "Take the scenic route, perhaps"
+        },
+        "F": {
+            "cells": [
+                118,
+                101,
+                5,
+                142,
+                172,
+                158,
+                73,
+                86
+            ],
+            "answer": "Aptitude",
+            "hint": "Determination of some scholastic tests"
+        },
+        "G": {
+            "cells": [
+                23,
+                128,
+                110,
+                40,
+                51,
+                67,
+                156
+            ],
+            "answer": "Narthex",
+            "hint": "Vestibule at the west end of a basilica"
+        },
+        "H": {
+            "cells": [
+                109,
+                89,
+                54,
+                19,
+                31,
+                137
+            ],
+            "answer": "Abject",
+            "hint": "Miserable, wretched"
+        },
+        "I": {
+            "cells": [
+                104,
+                42,
+                140,
+                85,
+                116,
+                24,
+                161,
+                173
+            ],
+            "answer": "Red light",
+            "hint": "Sign that a goal has been scored in hockey (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                1,
+                88,
+                114,
+                134,
+                151,
+                170,
+                69,
+                46,
+                18
+            ],
+            "answer": "Cuneiform",
+            "hint": "Script employed by Sumerian scribes"
+        },
+        "K": {
+            "cells": [
+                144,
+                29,
+                111,
+                165,
+                97,
+                70,
+                3
+            ],
+            "answer": "History",
+            "hint": "\u201cMore or less bunk,\u201d to Henry Ford"
+        },
+        "L": {
+            "cells": [
+                96,
+                112,
+                74,
+                14,
+                131,
+                168,
+                37,
+                177,
+                59
+            ],
+            "answer": "\u201cI, Claudius\u201d",
+            "hint": "Robert Graves novel adapted as a miniseries (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                83,
+                57,
+                149,
+                26,
+                132,
+                71,
+                102,
+                176,
+                123,
+                10,
+                47
+            ],
+            "answer": "Misanthropy",
+            "hint": "Trait ascribed to Shakespeare\u2019s Iago and Moliere\u2019s Alceste"
+        },
+        "N": {
+            "cells": [
+                78,
+                98,
+                164,
+                34,
+                8,
+                113,
+                55,
+                146
+            ],
+            "answer": "Enshroud",
+            "hint": "Cloak or veil"
+        },
+        "O": {
+            "cells": [
+                133,
+                76,
+                39,
+                91,
+                175,
+                6,
+                154,
+                21
+            ],
+            "answer": "Dust bowl",
+            "hint": "Result of unsustainable agriculture in the 1930\u2019s (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                72,
+                159,
+                105,
+                58,
+                2,
+                90,
+                45,
+                136
+            ],
+            "answer": "Excursus",
+            "hint": "Lengthy digression"
+        },
+        "Q": {
+            "cells": [
+                87,
+                160,
+                17,
+                38,
+                117,
+                68,
+                56,
+                145,
+                27
+            ],
+            "answer": "Swordplay",
+            "hint": "Fighting in a \u201cStar Wars\u201d movie, e.g."
+        },
+        "R": {
+            "cells": [
+                135,
+                94,
+                121,
+                13,
+                62,
+                79
+            ],
+            "answer": "Rushed",
+            "hint": "Ran with the football; hasty"
+        },
+        "S": {
+            "cells": [
+                157,
+                28,
+                99,
+                127,
+                179,
+                80,
+                44
+            ],
+            "answer": "Escheat",
+            "hint": "Reversion of property to the state"
+        },
+        "T": {
+            "cells": [
+                129,
+                100,
+                77,
+                153,
+                53,
+                174
+            ],
+            "answer": "Vishnu",
+            "hint": "Blue Hindu god with four arms"
+        },
+        "U": {
+            "cells": [
+                107,
+                12,
+                166,
+                48,
+                66,
+                138,
+                122,
+                81
+            ],
+            "answer": "Eyebrows",
+            "hint": "Supercilia, in anatomy"
+        },
+        "V": {
+            "cells": [
+                119,
+                148,
+                25,
+                63,
+                4,
+                167,
+                92,
+                43
+            ],
+            "answer": "New Spain",
+            "hint": "Viceroyalty from 1535 to 1821 (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                7,
+                52,
+                178,
+                106,
+                155,
+                20,
+                75
+            ],
+            "answer": "Getaway",
+            "hint": "Escape; vacation place"
+        },
+        "X": {
+            "cells": [
+                130,
+                60,
+                147,
+                22,
+                162,
+                41
+            ],
+            "answer": "Echoic",
+            "hint": "Imitative of natural sounds"
+        }
+    }
+}

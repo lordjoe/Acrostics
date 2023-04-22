@@ -1,0 +1,342 @@
+{
+    "answer": "B... has a relationship with M... . While the two... sound different, they use much the same speech mechanism... . To discover the connection, pinch your nostrils and say, \u201cMy mommy meets me.\u201d It comes out a bit like, \u201cBy bobby beets be.\u201d",
+    "author": "David Sacks,",
+    "authorCell": [
+        39,
+        3,
+        88,
+        78,
+        38,
+        124,
+        9,
+        70,
+        157,
+        53,
+        155,
+        69,
+        10,
+        150,
+        7,
+        112,
+        104,
+        140,
+        117,
+        41,
+        158,
+        143,
+        59
+    ],
+    "source": "Letter Perfect",
+    "clues": {
+        "A": {
+            "cells": [
+                39,
+                89,
+                163,
+                56,
+                14,
+                147,
+                128
+            ],
+            "answer": "Debussy",
+            "hint": "Composer who influenced Ravel and Boulez"
+        },
+        "B": {
+            "cells": [
+                3,
+                22,
+                164,
+                149,
+                85,
+                108
+            ],
+            "answer": "Ambush",
+            "hint": "Predatory strategy for cats"
+        },
+        "C": {
+            "cells": [
+                88,
+                156,
+                65,
+                31,
+                131,
+                16,
+                113,
+                49
+            ],
+            "answer": "Vietminh",
+            "hint": "Old Indochinese Communists"
+        },
+        "D": {
+            "cells": [
+                78,
+                145,
+                132,
+                61,
+                97,
+                115,
+                43
+            ],
+            "answer": "Immense",
+            "hint": "Massive, titanic, mammoth"
+        },
+        "E": {
+            "cells": [
+                38,
+                52,
+                66,
+                142,
+                1,
+                87,
+                18,
+                119
+            ],
+            "answer": "Dust Bowl",
+            "hint": "Dry subject of a 2012 Ken Burns film (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                124,
+                167,
+                44,
+                151,
+                67,
+                21,
+                84,
+                107
+            ],
+            "answer": "Seraphic",
+            "hint": "___ Doctor (epithet for St. Bonaventure)"
+        },
+        "G": {
+            "cells": [
+                9,
+                37,
+                109,
+                60,
+                82,
+                23
+            ],
+            "answer": "Anyhow",
+            "hint": "\u201cBe that as it may ...\u201d"
+        },
+        "H": {
+            "cells": [
+                70,
+                26,
+                148,
+                105,
+                170,
+                48,
+                135,
+                90
+            ],
+            "answer": "Cloister",
+            "hint": "Home for some cenobites"
+        },
+        "I": {
+            "cells": [
+                157,
+                11,
+                171,
+                110,
+                138,
+                29
+            ],
+            "answer": "Kibosh",
+            "hint": "Stifling thing to put on something"
+        },
+        "J": {
+            "cells": [
+                53,
+                35,
+                111,
+                8,
+                72,
+                125,
+                91,
+                146
+            ],
+            "answer": "Soul mate",
+            "hint": "One\u2019s one and only (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                155,
+                12,
+                32,
+                137,
+                54,
+                74,
+                92
+            ],
+            "answer": "Low-tech",
+            "hint": "Appealing to Luddites (hyph.)"
+        },
+        "L": {
+            "cells": [
+                69,
+                103,
+                116,
+                45,
+                152,
+                166,
+                136
+            ],
+            "answer": "Entebbe",
+            "hint": "Ugandan hub on Lake Victoria"
+        },
+        "M": {
+            "cells": [
+                10,
+                101,
+                64,
+                162,
+                81,
+                24,
+                133
+            ],
+            "answer": "Timothy",
+            "hint": "Hay material also known as herd\u2019s-grass"
+        },
+        "N": {
+            "cells": [
+                150,
+                30,
+                79,
+                47,
+                134,
+                121,
+                169,
+                94,
+                15
+            ],
+            "answer": "Test match",
+            "hint": "Multiday cricket affair with lunch and tea breaks (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                7,
+                160,
+                50,
+                100,
+                144,
+                130,
+                28,
+                71
+            ],
+            "answer": "Eyetooth",
+            "hint": "Canine on the edge of the roof?"
+        },
+        "P": {
+            "cells": [
+                112,
+                2,
+                93,
+                19,
+                127,
+                62
+            ],
+            "answer": "Rheims",
+            "hint": "Douay-___ Bible"
+        },
+        "Q": {
+            "cells": [
+                104,
+                68,
+                6,
+                42,
+                25,
+                83,
+                126
+            ],
+            "answer": "Perfidy",
+            "hint": "\u201cLies and ___ are the refuge of fools and cowards\u201d (Lord Chesterfield)"
+        },
+        "R": {
+            "cells": [
+                140,
+                99,
+                36,
+                55,
+                168,
+                122,
+                153,
+                4,
+                80
+            ],
+            "answer": "Ecumenism",
+            "hint": "United Christendom movement"
+        },
+        "S": {
+            "cells": [
+                117,
+                33,
+                139,
+                76,
+                96,
+                154,
+                51,
+                17,
+                172
+            ],
+            "answer": "Roman type",
+            "hint": "Baskerville or Bodoni, e.g. (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                41,
+                141,
+                120,
+                58,
+                161,
+                102,
+                13,
+                73
+            ],
+            "answer": "Fishbone",
+            "hint": "Choking danger at a seafood restaurant (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                158,
+                129,
+                114,
+                20,
+                40,
+                57,
+                95,
+                77
+            ],
+            "answer": "Emoticon",
+            "hint": "Expressive set of punctuation marks"
+        },
+        "V": {
+            "cells": [
+                143,
+                5,
+                46,
+                123,
+                165,
+                86,
+                63,
+                106,
+                27
+            ],
+            "answer": "Candy cane",
+            "hint": "Christmas tree decoration (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                59,
+                75,
+                118,
+                34,
+                159,
+                98
+            ],
+            "answer": "Thisbe",
+            "hint": "Mythological character on whom Shakespeare\u2019s Juliet is based"
+        }
+    }
+}

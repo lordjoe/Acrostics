@@ -1,0 +1,350 @@
+{
+    "answer": "SPANGLED KITSCH-[C]amp mocks bad taste; kitsch exploits it. ... Mae West, whose... provocative delivery, eye-rolling, lip-pursing, and pelvic tics parody the conventional invitation to dalliance, is never out of control and is camp, pure and simple.",
+    "author": "(Curtis F.) Brown,",
+    "authorCell": [
+        10,
+        100,
+        127,
+        41,
+        116,
+        9,
+        113,
+        35,
+        146,
+        97,
+        167,
+        117,
+        109,
+        84,
+        118,
+        62,
+        161,
+        18,
+        95,
+        94,
+        31,
+        164,
+        105
+    ],
+    "source": "Star",
+    "clues": {
+        "A": {
+            "cells": [
+                10,
+                119,
+                74,
+                175,
+                23,
+                157,
+                104
+            ],
+            "answer": "Big shot",
+            "hint": "High-muck-a-muck (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                100,
+                145,
+                81,
+                13,
+                60,
+                121,
+                45
+            ],
+            "answer": "Restive",
+            "hint": "Short on patience; stubborn"
+        },
+        "C": {
+            "cells": [
+                127,
+                4,
+                140,
+                169,
+                177,
+                77,
+                43,
+                26,
+                88,
+                64
+            ],
+            "answer": "Opium poppy",
+            "hint": "Plant that caused a war in China, 1839-42 (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                41,
+                85,
+                122,
+                144,
+                58,
+                170
+            ],
+            "answer": "Waiver",
+            "hint": "Document surrendering a legal right"
+        },
+        "E": {
+            "cells": [
+                116,
+                48,
+                96,
+                6,
+                137,
+                155,
+                67,
+                21,
+                40
+            ],
+            "answer": "No contest",
+            "hint": "Possible outcome of a boxing match (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                9,
+                22,
+                36,
+                128,
+                165,
+                156,
+                54,
+                101
+            ],
+            "answer": "Scenario",
+            "hint": "Outline describing how things may unfold"
+        },
+        "G": {
+            "cells": [
+                113,
+                162,
+                5,
+                139,
+                20,
+                47,
+                72,
+                99,
+                179
+            ],
+            "answer": "Time trial",
+            "hint": "\u201cThe race of truth,\u201d in cycling circles (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                35,
+                25,
+                108,
+                75,
+                130,
+                149,
+                90
+            ],
+            "answer": "Axolotl",
+            "hint": "Aquatic Mexican salamander"
+        },
+        "I": {
+            "cells": [
+                146,
+                111,
+                2,
+                71,
+                166,
+                51,
+                152,
+                28,
+                103
+            ],
+            "answer": "Real McCoy",
+            "hint": "Fraud\u2019s antithesis (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                97,
+                115,
+                151,
+                53,
+                178,
+                65,
+                87,
+                11,
+                27
+            ],
+            "answer": "Soft-pedal",
+            "hint": "Minimize the importance of, downplay (hyph.)"
+        },
+        "K": {
+            "cells": [
+                167,
+                70,
+                153,
+                91,
+                102,
+                135,
+                49
+            ],
+            "answer": "Plovdiv",
+            "hint": "Bulgarian city known as Philippopolis under Macedonian rule"
+        },
+        "L": {
+            "cells": [
+                117,
+                133,
+                59,
+                44,
+                78,
+                176,
+                7,
+                89
+            ],
+            "answer": "Allspice",
+            "hint": "Flavoring for beef jerky, also called pimento"
+        },
+        "M": {
+            "cells": [
+                109,
+                56,
+                158,
+                39,
+                147,
+                173,
+                24,
+                131,
+                12,
+                66
+            ],
+            "answer": "Nelson Eddy",
+            "hint": "Half of America\u2019s Singing Sweethearts (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                84,
+                63,
+                136,
+                112,
+                29,
+                16,
+                171
+            ],
+            "answer": "Granite",
+            "hint": "Composition of Yosemite\u2019s Half Dome"
+        },
+        "O": {
+            "cells": [
+                118,
+                159,
+                15,
+                129,
+                57,
+                76,
+                30,
+                93,
+                42
+            ],
+            "answer": "Last-ditch",
+            "hint": "Done out of desperation (hyph.)"
+        },
+        "P": {
+            "cells": [
+                62,
+                168,
+                126,
+                1,
+                143,
+                83,
+                17
+            ],
+            "answer": "Epicene",
+            "hint": "Gender-neutral, in language"
+        },
+        "Q": {
+            "cells": [
+                161,
+                114,
+                98,
+                134,
+                50,
+                3,
+                14,
+                33
+            ],
+            "answer": "Diplomat",
+            "hint": "Person possessing a certain form of immunity"
+        },
+        "R": {
+            "cells": [
+                18,
+                86,
+                52,
+                138,
+                8,
+                37,
+                148,
+                68,
+                163,
+                123
+            ],
+            "answer": "Knackwurst",
+            "hint": "Bavarian fare often served with sauerkraut"
+        },
+        "S": {
+            "cells": [
+                95,
+                160,
+                61,
+                82,
+                110,
+                150
+            ],
+            "answer": "In vivo",
+            "hint": "How biological processes normally occur (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                94,
+                141,
+                79,
+                154,
+                124,
+                34,
+                19
+            ],
+            "answer": "Tsunami",
+            "hint": "Natural disaster resulting from Krakatoa\u2019s eruption in 1883"
+        },
+        "U": {
+            "cells": [
+                31,
+                106,
+                120,
+                174,
+                92,
+                73
+            ],
+            "answer": "Send in",
+            "hint": "Submit by mail (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                164,
+                132,
+                46,
+                80,
+                32,
+                107,
+                180
+            ],
+            "answer": "Caprice",
+            "hint": "Flight of fancy, whim"
+        },
+        "W": {
+            "cells": [
+                105,
+                172,
+                55,
+                38,
+                142,
+                69,
+                125
+            ],
+            "answer": "Have-not",
+            "hint": "One with meager possessions (hyph.)"
+        }
+    }
+}

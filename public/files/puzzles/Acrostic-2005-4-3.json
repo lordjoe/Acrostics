@@ -1,0 +1,359 @@
+{
+    "answer": "Seen from the middle arch of the [Brooklyn] bridge at twilight, New York with its girdle of shifting waters and its drift of purple cloud and its quick pulsations of unstable light is a miracle of splendor and beauty.",
+    "author": "(Don) Marquis,",
+    "authorCell": [
+        150,
+        138,
+        19,
+        117,
+        109,
+        128,
+        148,
+        87,
+        155,
+        12,
+        165,
+        116,
+        63,
+        103,
+        162,
+        56,
+        158,
+        105,
+        106,
+        115,
+        159,
+        83,
+        18,
+        127,
+        70
+    ],
+    "source": "(The) Almost Perfect State",
+    "clues": {
+        "A": {
+            "cells": [
+                150,
+                62,
+                166,
+                28,
+                129,
+                102,
+                86
+            ],
+            "answer": "Mirrors",
+            "hint": "Explanation for a magician\u2019s trick, maybe"
+        },
+        "B": {
+            "cells": [
+                138,
+                46,
+                5,
+                153,
+                104,
+                72,
+                172
+            ],
+            "answer": "Alfalfa",
+            "hint": "Kid played by Carl Switzer in the \u201cOur Gang\u201d series"
+        },
+        "C": {
+            "cells": [
+                19,
+                3,
+                113,
+                92,
+                60,
+                167,
+                36
+            ],
+            "answer": "Red star",
+            "hint": "Sun with a low surface temperature (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                117,
+                101,
+                151,
+                168,
+                9,
+                26,
+                43
+            ],
+            "answer": "Quintet",
+            "hint": "Certain Benny Goodman ensemble"
+        },
+        "E": {
+            "cells": [
+                109,
+                4,
+                59,
+                96,
+                75,
+                40,
+                169
+            ],
+            "answer": "Unified",
+            "hint": "What field theories strive to be"
+        },
+        "F": {
+            "cells": [
+                128,
+                174,
+                20,
+                61,
+                90,
+                112,
+                39
+            ],
+            "answer": "Itching",
+            "hint": "Symptom of prurigo"
+        },
+        "G": {
+            "cells": [
+                148,
+                130,
+                71,
+                58,
+                89,
+                41,
+                175
+            ],
+            "answer": "Snow day",
+            "hint": "Occasion for missing school (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                87,
+                99,
+                65,
+                10,
+                149,
+                51,
+                119
+            ],
+            "answer": "Afghani",
+            "hint": "President Hamid Karzai, for one"
+        },
+        "I": {
+            "cells": [
+                155,
+                52,
+                144,
+                25,
+                98,
+                6,
+                88
+            ],
+            "answer": "Leghorn",
+            "hint": "Fowl whose name derives from an Italian city"
+        },
+        "J": {
+            "cells": [
+                12,
+                108,
+                44,
+                164,
+                29,
+                81,
+                135
+            ],
+            "answer": "Mow down",
+            "hint": "Level, as adversaries (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                165,
+                142,
+                14,
+                34,
+                45,
+                154,
+                121
+            ],
+            "answer": "Old Nick",
+            "hint": "Another name for Beelzebub (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                116,
+                31,
+                141,
+                161,
+                97,
+                55,
+                79
+            ],
+            "answer": "Skelton",
+            "hint": "Comic who played Freddie the Freeloader"
+        },
+        "M": {
+            "cells": [
+                63,
+                85,
+                13,
+                163,
+                114,
+                137,
+                33
+            ],
+            "answer": "Trinity",
+            "hint": "Fundamental doctrine of Christianity"
+        },
+        "N": {
+            "cells": [
+                103,
+                134,
+                1,
+                49,
+                118,
+                160,
+                73
+            ],
+            "answer": "Pushups",
+            "hint": "Triceps-firming activity"
+        },
+        "O": {
+            "cells": [
+                162,
+                140,
+                8,
+                78,
+                125,
+                50,
+                95
+            ],
+            "answer": "El Misti",
+            "hint": "Dormant volcano near Arequipa, Peru"
+        },
+        "P": {
+            "cells": [
+                56,
+                156,
+                15,
+                76,
+                30,
+                67,
+                110
+            ],
+            "answer": "Redford",
+            "hint": "Launcher of the Sundance Film Festival"
+        },
+        "Q": {
+            "cells": [
+                158,
+                7,
+                122,
+                100,
+                47,
+                136,
+                74
+            ],
+            "answer": "Foppish",
+            "hint": "A bit like a popinjay"
+        },
+        "R": {
+            "cells": [
+                105,
+                48,
+                80,
+                152,
+                132,
+                32,
+                16
+            ],
+            "answer": "Egg roll",
+            "hint": "Order in a Thai restaurant (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                106,
+                145,
+                17,
+                38,
+                68,
+                126,
+                94
+            ],
+            "answer": "Cheddar",
+            "hint": "Cheese-producing town of Somerset, England"
+        },
+        "T": {
+            "cells": [
+                115,
+                82,
+                57,
+                171,
+                157,
+                23,
+                133
+            ],
+            "answer": "Take off",
+            "hint": "Leave; deduct (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                159,
+                42,
+                123,
+                139,
+                27,
+                107,
+                11
+            ],
+            "answer": "Stubble",
+            "hint": "Five o\u2019clock shadow"
+        },
+        "V": {
+            "cells": [
+                83,
+                21,
+                37,
+                131,
+                146,
+                69,
+                2
+            ],
+            "answer": "Thistle",
+            "hint": "Spiky flower resembling an artichoke"
+        },
+        "W": {
+            "cells": [
+                18,
+                170,
+                66,
+                124,
+                147,
+                91,
+                54
+            ],
+            "answer": "Ability",
+            "hint": "\u201cWe do not lay on any soul a burden except to the extent of its ___\u201d (The Koran)"
+        },
+        "X": {
+            "cells": [
+                127,
+                53,
+                22,
+                35,
+                143,
+                77,
+                64
+            ],
+            "answer": "Two bits",
+            "hint": "Amount of money starting a cheerleader\u2019s cheer (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                70,
+                93,
+                173,
+                120,
+                111,
+                24,
+                84
+            ],
+            "answer": "Educate",
+            "hint": "School"
+        }
+    }
+}

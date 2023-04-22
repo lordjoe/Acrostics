@@ -1,0 +1,328 @@
+{
+    "answer": "For months they have lain in wait,... lurking in... forgotten corners... [N]ow they are upon us, sodden with alcohol, their massive bodies bulging with strange green protuberances... -there is no escape, it is the hour of the fruitcake.",
+    "author": "Deborah Papier,",
+    "authorCell": [
+        72,
+        17,
+        98,
+        65,
+        90,
+        19,
+        114,
+        153,
+        60,
+        127,
+        20,
+        125,
+        134,
+        155,
+        147,
+        139,
+        101,
+        34,
+        160,
+        130
+    ],
+    "source": "Insight",
+    "clues": {
+        "A": {
+            "cells": [
+                72,
+                131,
+                4,
+                104,
+                24,
+                177,
+                145,
+                159,
+                88,
+                48
+            ],
+            "answer": "Dumbwaiter",
+            "hint": "Food-raising device"
+        },
+        "B": {
+            "cells": [
+                17,
+                96,
+                73,
+                143,
+                59,
+                112,
+                126,
+                151,
+                83
+            ],
+            "answer": "Every inch",
+            "hint": "Top-to-bottom, altogether (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                98,
+                133,
+                85,
+                18,
+                169,
+                41,
+                64
+            ],
+            "answer": "Bellhop",
+            "hint": "Factotum at a resort hotel"
+        },
+        "D": {
+            "cells": [
+                65,
+                37,
+                171,
+                103,
+                11,
+                54,
+                82,
+                156
+            ],
+            "answer": "Offshoot",
+            "hint": "Child; runner"
+        },
+        "E": {
+            "cells": [
+                90,
+                102,
+                74,
+                135,
+                150,
+                46,
+                62,
+                36,
+                10
+            ],
+            "answer": "Renascent",
+            "hint": "Springing back with fresh vigor"
+        },
+        "F": {
+            "cells": [
+                19,
+                164,
+                122,
+                63,
+                94,
+                77,
+                32,
+                53,
+                142
+            ],
+            "answer": "Augustine",
+            "hint": "Saint ___, the first archbishop of Canterbury"
+        },
+        "G": {
+            "cells": [
+                114,
+                22,
+                40,
+                8,
+                84,
+                137,
+                56,
+                92,
+                66,
+                179
+            ],
+            "answer": "High-octane",
+            "hint": "Supercharged, full of energy (hyph.)"
+        },
+        "H": {
+            "cells": [
+                153,
+                3,
+                108,
+                68,
+                42,
+                89,
+                23,
+                121
+            ],
+            "answer": "Pristine",
+            "hint": "Immaculate, untouched"
+        },
+        "I": {
+            "cells": [
+                60,
+                16,
+                170,
+                91,
+                25,
+                128,
+                35,
+                152
+            ],
+            "answer": "\u201cAve Maria\"",
+            "hint": "Religious piece by Charles Gounod (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                127,
+                165,
+                44,
+                146,
+                81,
+                99,
+                27,
+                116
+            ],
+            "answer": "Prescott",
+            "hint": "Arizona town hosting an annual Cowboy Poets Gathering"
+        },
+        "K": {
+            "cells": [
+                20,
+                61,
+                157,
+                115,
+                78,
+                52,
+                138,
+                7,
+                168,
+                97,
+                30
+            ],
+            "answer": "Irish setter",
+            "hint": "Sporting dog called a Modder Rhu in Gaelic (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                125,
+                15,
+                51,
+                140,
+                162,
+                28,
+                95,
+                6,
+                110
+            ],
+            "answer": "Earthling",
+            "hint": "Tellurian"
+        },
+        "M": {
+            "cells": [
+                134,
+                163,
+                173,
+                109,
+                71,
+                14,
+                47,
+                29,
+                93,
+                149
+            ],
+            "answer": "Roundhouse",
+            "hint": "Boxing punch delivered to the side of the head with an exaggerated swing"
+        },
+        "N": {
+            "cells": [
+                155,
+                21,
+                86,
+                141,
+                50,
+                111,
+                166,
+                123,
+                31,
+                69
+            ],
+            "answer": "In the works",
+            "hint": "Actively being developed (3 wds.)"
+        },
+        "O": {
+            "cells": [
+                147,
+                70,
+                113,
+                58,
+                132,
+                38,
+                2,
+                178
+            ],
+            "answer": "Notebook",
+            "hint": "Something bound to be used by students"
+        },
+        "P": {
+            "cells": [
+                139,
+                105,
+                33,
+                167,
+                80,
+                5,
+                55,
+                154,
+                117
+            ],
+            "answer": "Sunflower",
+            "hint": "Heliotropic bloomer revered in the Inca Empire"
+        },
+        "Q": {
+            "cells": [
+                101,
+                176,
+                144,
+                158,
+                87,
+                12,
+                124,
+                43
+            ],
+            "answer": "Ice sheet",
+            "hint": "Glacial mass over Greenland and Antarctica (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                34,
+                67,
+                49,
+                120,
+                79,
+                100,
+                174,
+                136
+            ],
+            "answer": "\"Gunga Din\u201d",
+            "hint": "1939 film vaguely based on a Kipling poem (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                160,
+                129,
+                172,
+                39,
+                76,
+                1,
+                13,
+                26,
+                119,
+                107
+            ],
+            "answer": "Horrifying",
+            "hint": "Like Grand Guignol drama"
+        },
+        "T": {
+            "cells": [
+                130,
+                118,
+                106,
+                161,
+                45,
+                175,
+                9,
+                57,
+                148,
+                75
+            ],
+            "answer": "Talent show",
+            "hint": "\u201cStar Search\u201d or \u201cAmerican Idol,\u201d e.g. (2 wds.)"
+        }
+    }
+}

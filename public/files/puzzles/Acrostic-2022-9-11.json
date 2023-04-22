@@ -1,0 +1,356 @@
+{
+    "answer": "I dug Taxi, I loved M*A*S*H. ... I memorized Monty Python sketches... . But I also regarded TV the way that Americans had been taught to... . Television was junk. It wasn\u2019t worthy of deep thought, the way that books or movies might be.",
+    "author": "Emily Nussbaum,",
+    "authorCell": [
+        89,
+        15,
+        105,
+        53,
+        148,
+        31,
+        49,
+        17,
+        121,
+        171,
+        147,
+        139,
+        20,
+        163,
+        102,
+        51,
+        116,
+        133,
+        170,
+        130,
+        119,
+        151,
+        100,
+        44,
+        67
+    ],
+    "source": "I Like to Watch",
+    "clues": {
+        "A": {
+            "cells": [
+                89,
+                75,
+                45,
+                103,
+                10,
+                166,
+                62,
+                126,
+                149,
+                26
+            ],
+            "answer": "Ethel Mertz",
+            "hint": "Lucy and Ricky\u2019s landlady on a 1950s sitcom (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                15,
+                70,
+                35,
+                141,
+                90,
+                160
+            ],
+            "answer": "Mayhem",
+            "hint": "Typical state in a Stooges scene"
+        },
+        "C": {
+            "cells": [
+                105,
+                61,
+                117,
+                38,
+                142,
+                88,
+                158,
+                7
+            ],
+            "answer": "Idiot box",
+            "hint": "Boob tube (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                53,
+                23,
+                131,
+                118,
+                71
+            ],
+            "answer": "Lofty",
+            "hint": "Appealing to an elevated aesthetic"
+        },
+        "E": {
+            "cells": [
+                148,
+                11,
+                63,
+                111
+            ],
+            "answer": "Yoda",
+            "hint": "Non-Muppet role for Frank Oz"
+        },
+        "F": {
+            "cells": [
+                31,
+                161,
+                146,
+                64,
+                85,
+                8,
+                112
+            ],
+            "answer": "Now this",
+            "hint": "Anchor\u2019s phrase in an abrupt segue (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                49,
+                109,
+                77,
+                154,
+                65,
+                21,
+                132
+            ],
+            "answer": "Unmoved",
+            "hint": "Not buying into the drama, say"
+        },
+        "H": {
+            "cells": [
+                17,
+                155,
+                39,
+                97,
+                120,
+                58
+            ],
+            "answer": "Sontag",
+            "hint": "Susan who wrote the 1964 essay \u201cNotes on \u2019Camp\u2019\u201d"
+        },
+        "I": {
+            "cells": [
+                121,
+                98,
+                6,
+                168,
+                134,
+                40
+            ],
+            "answer": "Stages",
+            "hint": "Puts on"
+        },
+        "J": {
+            "cells": [
+                171,
+                42,
+                110,
+                19,
+                136,
+                81,
+                96,
+                57,
+                2
+            ],
+            "answer": "\"Bewitched\"",
+            "hint": "2005 film based on a 1960s sitcom"
+        },
+        "K": {
+            "cells": [
+                147,
+                9,
+                24,
+                124,
+                76,
+                162,
+                46,
+                106
+            ],
+            "answer": "Airwaves",
+            "hint": "Carriers of broadcasts"
+        },
+        "L": {
+            "cells": [
+                139,
+                122,
+                29,
+                59,
+                84,
+                156,
+                172,
+                14
+            ],
+            "answer": "Unmasked",
+            "hint": "With one\u2019s true identity revealed"
+        },
+        "M": {
+            "cells": [
+                20,
+                108,
+                43,
+                144,
+                78,
+                60
+            ],
+            "answer": "Mother",
+            "hint": "Marion Cunningham on \u201cHappy Days\u201d or Moira Rose on \u201cSchitt\u2019s Creek\u201d"
+        },
+        "N": {
+            "cells": [
+                163,
+                115,
+                28,
+                94,
+                54,
+                5,
+                79,
+                129
+            ],
+            "answer": "Industry",
+            "hint": "Sector involved in production"
+        },
+        "O": {
+            "cells": [
+                102,
+                82,
+                3,
+                140,
+                169,
+                123,
+                27,
+                56
+            ],
+            "answer": "Laughter",
+            "hint": "Canned commodity?"
+        },
+        "P": {
+            "cells": [
+                51,
+                91,
+                4,
+                164
+            ],
+            "answer": "Inge",
+            "hint": "William known as the \u201cPlaywright of the Midwest\u201d"
+        },
+        "Q": {
+            "cells": [
+                116,
+                74,
+                48,
+                138,
+                99,
+                22
+            ],
+            "answer": "Kaboom",
+            "hint": "Blowup of a comic?"
+        },
+        "R": {
+            "cells": [
+                133,
+                34,
+                107,
+                92,
+                150,
+                13,
+                72
+            ],
+            "answer": "Epithet",
+            "hint": "\u201cPlaywright of the Midwest,\u201d e.g."
+        },
+        "S": {
+            "cells": [
+                170,
+                69,
+                55,
+                157,
+                18,
+                125,
+                36
+            ],
+            "answer": "Two shot",
+            "hint": "Cinematic take framing a pair of people (hyph.)"
+        },
+        "T": {
+            "cells": [
+                130,
+                153,
+                12,
+                167,
+                30,
+                114,
+                47
+            ],
+            "answer": "Obvious",
+            "hint": "Sarcastic surname of a \u201cCaptain\u201d"
+        },
+        "U": {
+            "cells": [
+                119,
+                37,
+                80,
+                66,
+                101,
+                137,
+                16,
+                152
+            ],
+            "answer": "White hat",
+            "hint": "Cinematic symbol of virtue (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                151,
+                135,
+                93,
+                50,
+                73,
+                33
+            ],
+            "answer": "Apathy",
+            "hint": "What \u201cwhatever\u201d may indicate"
+        },
+        "W": {
+            "cells": [
+                100,
+                68,
+                143,
+                159,
+                52,
+                87
+            ],
+            "answer": "Tetrad",
+            "hint": "The Teenage Mutant Ninja Turtles, for one"
+        },
+        "X": {
+            "cells": [
+                44,
+                86,
+                104,
+                145,
+                127,
+                32
+            ],
+            "answer": "Cavett",
+            "hint": "Talk show host who wrote the essay collection \u201cTalk Show\u201d"
+        },
+        "Y": {
+            "cells": [
+                67,
+                1,
+                95,
+                128,
+                113,
+                25,
+                83,
+                41,
+                165
+            ],
+            "answer": "High jinks",
+            "hint": "Monkeyshines, shenanigans, slapstick foolery (2 wds.)"
+        }
+    }
+}

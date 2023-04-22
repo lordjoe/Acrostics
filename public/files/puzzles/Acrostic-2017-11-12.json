@@ -1,0 +1,347 @@
+{
+    "answer": "Sinatra and... Crosby... adjusted their vocal dynamics in ways that would have been unheard of earlier. It might not seem... radical now, but crooning was a new kind of singing... then. It wouldn\u2019t have worked without a microphone.",
+    "author": "David Byrne,",
+    "authorCell": [
+        159,
+        38,
+        60,
+        169,
+        147,
+        15,
+        47,
+        29,
+        135,
+        80,
+        150,
+        90,
+        143,
+        84,
+        55,
+        14,
+        161,
+        41,
+        105,
+        13,
+        12,
+        157,
+        130
+    ],
+    "source": "How Music Works",
+    "clues": {
+        "A": {
+            "cells": [
+                159,
+                61,
+                95,
+                131,
+                19,
+                112,
+                174,
+                3
+            ],
+            "answer": "Demijohn",
+            "hint": "Vessel also called a carboy"
+        },
+        "B": {
+            "cells": [
+                38,
+                71,
+                149,
+                134,
+                177,
+                21,
+                87,
+                118,
+                53
+            ],
+            "answer": "Artie Shaw",
+            "hint": "Bandleader with the theme song \u201cNightmare\u201d (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                60,
+                111,
+                34,
+                76,
+                96,
+                158
+            ],
+            "answer": "Volare",
+            "hint": "Plymouth model named Motor Trend\u2019s Car of the Year for 1976"
+        },
+        "D": {
+            "cells": [
+                169,
+                148,
+                11,
+                73,
+                133,
+                103,
+                40,
+                88,
+                54
+            ],
+            "answer": "Incognito",
+            "hint": "Using a fake name or wearing a disguise"
+        },
+        "E": {
+            "cells": [
+                147,
+                31,
+                45,
+                9,
+                106,
+                122,
+                70,
+                91
+            ],
+            "answer": "Downbeat",
+            "hint": "Pessimistic, like a gloomy Gus"
+        },
+        "F": {
+            "cells": [
+                15,
+                164,
+                121,
+                37,
+                79,
+                139
+            ],
+            "answer": "Bonnie",
+            "hint": "Half a 1930s crime duo"
+        },
+        "G": {
+            "cells": [
+                47,
+                151,
+                176,
+                115,
+                28
+            ],
+            "answer": "Yanni",
+            "hint": "Performer at eight World Heritage Sites"
+        },
+        "H": {
+            "cells": [
+                29,
+                155,
+                168,
+                59,
+                44,
+                83,
+                125,
+                100
+            ],
+            "answer": "Romantic",
+            "hint": "Appealing to the heart; dreamy or impractical"
+        },
+        "I": {
+            "cells": [
+                135,
+                165,
+                39,
+                64,
+                81,
+                97,
+                109,
+                16
+            ],
+            "answer": "Numeracy",
+            "hint": "Basic skill in math"
+        },
+        "J": {
+            "cells": [
+                80,
+                152,
+                2,
+                24,
+                63,
+                126,
+                49
+            ],
+            "answer": "Evident",
+            "hint": "Clearly visible, not hard to see"
+        },
+        "K": {
+            "cells": [
+                150,
+                114,
+                136,
+                68,
+                89,
+                175,
+                52,
+                27
+            ],
+            "answer": "High note",
+            "hint": "\u201cFree,\u201d in \u201cThe Star-Spangled Banner\u201d (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                90,
+                140,
+                62,
+                110,
+                172,
+                17,
+                127,
+                154,
+                4,
+                36
+            ],
+            "answer": "On Broadway",
+            "hint": "Playing at the Palace or Music Box (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                143,
+                58,
+                43,
+                108,
+                75,
+                123,
+                167,
+                1,
+                26
+            ],
+            "answer": "Whitewash",
+            "hint": "Gloss over, sugarcoat"
+        },
+        "N": {
+            "cells": [
+                84,
+                104,
+                20,
+                162,
+                50,
+                129,
+                66,
+                146
+            ],
+            "answer": "Mouthful",
+            "hint": "Impressive verbalization, something hard to say"
+        },
+        "O": {
+            "cells": [
+                55,
+                132,
+                74,
+                102,
+                8,
+                117,
+                153,
+                35
+            ],
+            "answer": "Unflawed",
+            "hint": "Spotless, perfect, impeccable"
+        },
+        "P": {
+            "cells": [
+                14,
+                166,
+                51,
+                30,
+                93,
+                119
+            ],
+            "answer": "Staves",
+            "hint": "Thin strips of wood on the side of a barrel"
+        },
+        "Q": {
+            "cells": [
+                161,
+                67,
+                18,
+                85,
+                116,
+                144
+            ],
+            "answer": "Indigo",
+            "hint": "Ancient plant-based dye"
+        },
+        "R": {
+            "cells": [
+                41,
+                120,
+                142,
+                94,
+                77,
+                160,
+                7,
+                107,
+                56
+            ],
+            "answer": "Caterwaul",
+            "hint": "Make a beastly racket"
+        },
+        "S": {
+            "cells": [
+                105,
+                138,
+                82,
+                42,
+                173,
+                23,
+                6
+            ],
+            "answer": "Whisper",
+            "hint": "Play the telephone game, e.g."
+        },
+        "T": {
+            "cells": [
+                13,
+                78,
+                98,
+                163,
+                33,
+                137
+            ],
+            "answer": "Old-hat",
+            "hint": "Antiquated, dated, stale (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                12,
+                69,
+                32,
+                128,
+                156,
+                57,
+                99,
+                113,
+                86
+            ],
+            "answer": "Recording",
+            "hint": "The world\u2019s first practical one was made by Thomas Edison in 1877"
+        },
+        "V": {
+            "cells": [
+                157,
+                141,
+                170,
+                124,
+                92,
+                25,
+                46,
+                65,
+                10
+            ],
+            "answer": "Kickstand",
+            "hint": "Prop for a biker"
+        },
+        "W": {
+            "cells": [
+                130,
+                5,
+                101,
+                171,
+                72,
+                145,
+                48,
+                22
+            ],
+            "answer": "Stardust",
+            "hint": "Granular component of meteorites"
+        }
+    }
+}

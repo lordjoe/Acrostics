@@ -1,0 +1,361 @@
+{
+    "answer": "The average citizen, who has no idea how... a refrigerator works, still feels that scientists, if they worked hard enough, could cure... the common cold, or get... power out of turnip juice, or send a satellite zooming off to Pluto.",
+    "author": "(Lawrence M.) Friedman,",
+    "authorCell": [
+        36,
+        41,
+        138,
+        160,
+        118,
+        112,
+        88,
+        149,
+        62,
+        47,
+        34,
+        67,
+        161,
+        145,
+        166,
+        159,
+        42,
+        157,
+        74,
+        168,
+        115,
+        158,
+        35,
+        73,
+        80
+    ],
+    "source": "(The) Horizontal Society",
+    "clues": {
+        "A": {
+            "cells": [
+                36,
+                172,
+                59,
+                12,
+                132
+            ],
+            "answer": "Folio",
+            "hint": "Leaf of a sort used by Leonardo for drawing inventions"
+        },
+        "B": {
+            "cells": [
+                41,
+                148,
+                86,
+                27,
+                126,
+                63,
+                104,
+                170
+            ],
+            "answer": "Red dwarf",
+            "hint": "Star like Proxima Centauri (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                138,
+                51,
+                116,
+                154,
+                20,
+                173,
+                85
+            ],
+            "answer": "Isotope",
+            "hint": "Deuterium, to hydrogen, e.g."
+        },
+        "D": {
+            "cells": [
+                160,
+                19,
+                83,
+                55,
+                142,
+                66,
+                2
+            ],
+            "answer": "Ehrlich",
+            "hint": "Paul ___, Nobel-winning chemist who pioneered in chemotherapy"
+        },
+        "E": {
+            "cells": [
+                118,
+                163,
+                135,
+                39,
+                107,
+                17,
+                94,
+                61
+            ],
+            "answer": "Doughnut",
+            "hint": "Shape of a torus"
+        },
+        "F": {
+            "cells": [
+                112,
+                33,
+                50,
+                155,
+                136
+            ],
+            "answer": "Maser",
+            "hint": "Device sometimes used as an atomic clock"
+        },
+        "G": {
+            "cells": [
+                88,
+                102,
+                165,
+                150,
+                13,
+                28,
+                65,
+                52
+            ],
+            "answer": "Acid test",
+            "hint": "Critical appraisal, originally of gold (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                149,
+                22,
+                43,
+                130,
+                89,
+                3
+            ],
+            "answer": "Nature",
+            "hint": "Venerable British weekly with a biological slant"
+        },
+        "I": {
+            "cells": [
+                62,
+                151,
+                32,
+                84,
+                53,
+                137,
+                9
+            ],
+            "answer": "Hawking",
+            "hint": "\u201cThe Universe in a Nutshell\u201d author"
+        },
+        "J": {
+            "cells": [
+                47,
+                97,
+                106,
+                31,
+                139,
+                175,
+                72
+            ],
+            "answer": "Octopus",
+            "hint": "Highly intelligent cephalopod"
+        },
+        "K": {
+            "cells": [
+                34,
+                71,
+                167,
+                82,
+                7,
+                129,
+                141,
+                23
+            ],
+            "answer": "Rigorous",
+            "hint": "Exacting; thorough, as a proof"
+        },
+        "L": {
+            "cells": [
+                67,
+                92,
+                147,
+                123,
+                26,
+                134,
+                103,
+                176,
+                40
+            ],
+            "answer": "Institute",
+            "hint": "Center for learning and research"
+        },
+        "M": {
+            "cells": [
+                161,
+                79,
+                146,
+                98
+            ],
+            "answer": "Zero",
+            "hint": "One of 100 in a googol"
+        },
+        "N": {
+            "cells": [
+                145,
+                15,
+                162,
+                69,
+                122,
+                78,
+                110,
+                100,
+                57
+            ],
+            "answer": "Ozone hole",
+            "hint": "Phenomenon prompting 1987\u2019s Montreal Protocol (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                166,
+                91,
+                46,
+                64,
+                119,
+                24
+            ],
+            "answer": "Newton",
+            "hint": "Physics unit named for a noted mathematician"
+        },
+        "P": {
+            "cells": [
+                159,
+                37,
+                75,
+                8,
+                114,
+                95,
+                174,
+                58
+            ],
+            "answer": "Triangle",
+            "hint": "Possibly obtuse figure"
+        },
+        "Q": {
+            "cells": [
+                42,
+                99,
+                70,
+                177,
+                109,
+                156,
+                29,
+                5,
+                127
+            ],
+            "answer": "Autoclave",
+            "hint": "Heating apparatus in a laboratory"
+        },
+        "R": {
+            "cells": [
+                157,
+                125,
+                81,
+                105,
+                45,
+                140,
+                4,
+                18
+            ],
+            "answer": "Lower jaw",
+            "hint": "1.8 million-year-old Homo habilis specimen found in 1960 in Tanzania (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                74,
+                14,
+                121,
+                30,
+                171
+            ],
+            "answer": "Sight",
+            "hint": "What orthoptic exercises improve"
+        },
+        "T": {
+            "cells": [
+                168,
+                16,
+                48,
+                60,
+                77,
+                144,
+                101
+            ],
+            "answer": "Oersted",
+            "hint": "Danish physicist who discovered electromagnetism"
+        },
+        "U": {
+            "cells": [
+                115,
+                96,
+                38,
+                56,
+                169,
+                11,
+                21,
+                153,
+                133,
+                76
+            ],
+            "answer": "Chiffchaff",
+            "hint": "Old World avian harbinger of spring"
+        },
+        "V": {
+            "cells": [
+                158,
+                111,
+                124,
+                54,
+                25,
+                90,
+                6
+            ],
+            "answer": "Implode",
+            "hint": "Succumb to external pressure"
+        },
+        "W": {
+            "cells": [
+                35,
+                143,
+                131,
+                113,
+                1,
+                87,
+                68,
+                120,
+                164
+            ],
+            "answer": "Ectotherm",
+            "hint": "Animal whose body heat comes from without"
+        },
+        "X": {
+            "cells": [
+                73,
+                44,
+                93,
+                117
+            ],
+            "answer": "Tool",
+            "hint": "Paleolith, for example"
+        },
+        "Y": {
+            "cells": [
+                80,
+                10,
+                128,
+                49,
+                108,
+                152
+            ],
+            "answer": "Yerkes",
+            "hint": "Observatory with the world\u2019s largest refracting telescope"
+        }
+    }
+}

@@ -1,0 +1,342 @@
+{
+    "answer": "I am a member of a... minority group, a kind of urban lost tribe who insist, in the face of all evidence to the contrary, on the sanctity of being on time. ... [U]nfortunately, we never seem to have appointments with each other.",
+    "author": "Ellen Goodman,",
+    "authorCell": [
+        117,
+        70,
+        39,
+        108,
+        38,
+        111,
+        80,
+        50,
+        74,
+        5,
+        68,
+        113,
+        64,
+        129,
+        168,
+        41,
+        132,
+        169,
+        17,
+        144,
+        121,
+        155,
+        83
+    ],
+    "source": "Close To Home",
+    "clues": {
+        "A": {
+            "cells": [
+                117,
+                135,
+                61,
+                172,
+                104,
+                14,
+                148,
+                86
+            ],
+            "answer": "Everyman",
+            "hint": "Joe Blow or John Doe"
+        },
+        "B": {
+            "cells": [
+                70,
+                115,
+                46,
+                88,
+                145,
+                103,
+                164
+            ],
+            "answer": "Librate",
+            "hint": "Wobble back and forth before coming to rest"
+        },
+        "C": {
+            "cells": [
+                39,
+                65,
+                106,
+                79,
+                8,
+                126,
+                153,
+                28
+            ],
+            "answer": "Left Bank",
+            "hint": "Montparnasse setting (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                108,
+                94,
+                171,
+                137,
+                157,
+                73,
+                43,
+                21
+            ],
+            "answer": "Eternity",
+            "hint": "Typical wait duration?"
+        },
+        "E": {
+            "cells": [
+                38,
+                27,
+                99,
+                134,
+                81,
+                114,
+                9
+            ],
+            "answer": "Nanette",
+            "hint": "Title character of a 1925 musical comedy"
+        },
+        "F": {
+            "cells": [
+                111,
+                66,
+                31,
+                124,
+                142,
+                166,
+                82
+            ],
+            "answer": "Go Dutch",
+            "hint": "Split the bill (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                80,
+                119,
+                20,
+                4,
+                44,
+                161,
+                92
+            ],
+            "answer": "Ontario",
+            "hint": "Home province for the Raptors"
+        },
+        "H": {
+            "cells": [
+                50,
+                150,
+                127,
+                1,
+                77,
+                109,
+                13,
+                93
+            ],
+            "answer": "Optician",
+            "hint": "Person whose job can be a grind?"
+        },
+        "I": {
+            "cells": [
+                74,
+                51,
+                12,
+                62,
+                34,
+                138,
+                96
+            ],
+            "answer": "Diffuse",
+            "hint": "Spread out, scattered"
+        },
+        "J": {
+            "cells": [
+                5,
+                63,
+                159,
+                105,
+                133,
+                29,
+                84
+            ],
+            "answer": "Masonic",
+            "hint": "Belonging to a certain secret society"
+        },
+        "K": {
+            "cells": [
+                68,
+                107,
+                47,
+                130,
+                2,
+                58,
+                158
+            ],
+            "answer": "Abeyant",
+            "hint": "Not active at the moment"
+        },
+        "L": {
+            "cells": [
+                113,
+                136,
+                149,
+                85,
+                101,
+                15,
+                53,
+                42
+            ],
+            "answer": "Nepotist",
+            "hint": "One dispensing favors to the family"
+        },
+        "M": {
+            "cells": [
+                64,
+                95,
+                78,
+                131,
+                112,
+                25,
+                162
+            ],
+            "answer": "Chew out",
+            "hint": "Rake over the coals (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                129,
+                151,
+                59,
+                49,
+                165,
+                90,
+                19,
+                32
+            ],
+            "answer": "Lothario",
+            "hint": "Casanova, Don Juan, Romeo"
+        },
+        "O": {
+            "cells": [
+                168,
+                146,
+                45,
+                67,
+                24,
+                122,
+                7
+            ],
+            "answer": "Oviform",
+            "hint": "Shaped like an egg"
+        },
+        "P": {
+            "cells": [
+                41,
+                163,
+                91,
+                54,
+                125,
+                22
+            ],
+            "answer": "Shying",
+            "hint": "Balking"
+        },
+        "Q": {
+            "cells": [
+                132,
+                154,
+                170,
+                89,
+                16,
+                100,
+                40,
+                71,
+                52
+            ],
+            "answer": "Ethan Coen",
+            "hint": "One half of a filmmaking duo (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                169,
+                60,
+                152,
+                116,
+                36,
+                69,
+                139
+            ],
+            "answer": "Thimble",
+            "hint": "Item in a digitabulist\u2019s collection"
+        },
+        "S": {
+            "cells": [
+                17,
+                120,
+                33,
+                140,
+                110,
+                55,
+                156
+            ],
+            "answer": "Offense",
+            "hint": "Scoring strategy or violation, in sports"
+        },
+        "T": {
+            "cells": [
+                144,
+                98,
+                48,
+                123,
+                167,
+                11,
+                23,
+                76
+            ],
+            "answer": "Hawthorn",
+            "hint": "State flower of Missouri"
+        },
+        "U": {
+            "cells": [
+                121,
+                72,
+                147,
+                18,
+                160,
+                35,
+                102,
+                56,
+                6
+            ],
+            "answer": "Overwrite",
+            "hint": "Explain on paper too elaborately; cover with words"
+        },
+        "V": {
+            "cells": [
+                155,
+                143,
+                118,
+                97,
+                75,
+                87,
+                10,
+                37,
+                26
+            ],
+            "answer": "Mousetrap",
+            "hint": "Invention not easily improved upon"
+        },
+        "W": {
+            "cells": [
+                83,
+                141,
+                57,
+                30,
+                128,
+                3
+            ],
+            "answer": "Eminem",
+            "hint": "Rapper with a 2002 Oscar for Best Song"
+        }
+    }
+}

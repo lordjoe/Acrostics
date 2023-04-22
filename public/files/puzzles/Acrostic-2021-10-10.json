@@ -1,0 +1,354 @@
+{
+    "answer": "Native history is... akin to a fossil hunt in which we find a skull in... Idaho, a thigh bone on the Montana plains, a tooth... in Virginia, and... assuming... all... are from the same animal, we guess at the size and shape of the beast.",
+    "author": "(Thomas) King,",
+    "authorCell": [
+        17,
+        150,
+        85,
+        139,
+        60,
+        72,
+        119,
+        62,
+        19,
+        38,
+        66,
+        53,
+        5,
+        68,
+        94,
+        52,
+        138,
+        79,
+        163,
+        84,
+        44,
+        155,
+        14,
+        106,
+        154
+    ],
+    "source": "The Inconvenient Indian",
+    "clues": {
+        "A": {
+            "cells": [
+                17,
+                133,
+                95,
+                168
+            ],
+            "answer": "Kiva",
+            "hint": "Room where Puebloan rites are performed"
+        },
+        "B": {
+            "cells": [
+                150,
+                132,
+                36,
+                59,
+                166,
+                101,
+                20
+            ],
+            "answer": "Inhabit",
+            "hint": "Call home?"
+        },
+        "C": {
+            "cells": [
+                85,
+                21,
+                124,
+                164,
+                2,
+                100,
+                48,
+                142
+            ],
+            "answer": "No thanks",
+            "hint": "Passing remark? (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                139,
+                152,
+                104,
+                37,
+                117,
+                82
+            ],
+            "answer": "Genial",
+            "hint": "Cheerful, easygoing, friendly"
+        },
+        "E": {
+            "cells": [
+                60,
+                147,
+                165,
+                89,
+                12,
+                33,
+                130,
+                47
+            ],
+            "answer": "Theories",
+            "hint": "Tentative explanations"
+        },
+        "F": {
+            "cells": [
+                72,
+                43,
+                87,
+                137,
+                56,
+                3,
+                125,
+                158
+            ],
+            "answer": "Hiawatha",
+            "hint": "Antiwar orator fictionalized in a Longfellow \u201csong\u201d"
+        },
+        "G": {
+            "cells": [
+                119,
+                70,
+                98,
+                51,
+                27,
+                86,
+                7
+            ],
+            "answer": "English",
+            "hint": "Spin delivered on cue?"
+        },
+        "H": {
+            "cells": [
+                62,
+                110,
+                159,
+                78,
+                9,
+                25,
+                126
+            ],
+            "answer": "Impasse",
+            "hint": "Catch-22, stalemate"
+        },
+        "I": {
+            "cells": [
+                19,
+                160,
+                40,
+                143,
+                81,
+                128,
+                96,
+                1
+            ],
+            "answer": "New Spain",
+            "hint": "Colony centered in Mexico City (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                38,
+                22,
+                77,
+                157,
+                141,
+                121
+            ],
+            "answer": "Cather",
+            "hint": "Author Willa who wrote \u201cO Pioneers!\u201d"
+        },
+        "K": {
+            "cells": [
+                66,
+                120,
+                162,
+                93,
+                108,
+                39
+            ],
+            "answer": "Offish",
+            "hint": "Unfriendly, distant, aloof"
+        },
+        "L": {
+            "cells": [
+                53,
+                111,
+                67,
+                135
+            ],
+            "answer": "Nina",
+            "hint": "Smallest member of a famous trio"
+        },
+        "M": {
+            "cells": [
+                5,
+                114,
+                149,
+                26,
+                131,
+                50,
+                83,
+                63,
+                167
+            ],
+            "answer": "Vassalage",
+            "hint": "Feudal fealty; subordinate state"
+        },
+        "N": {
+            "cells": [
+                68,
+                45,
+                103,
+                123,
+                148,
+                15
+            ],
+            "answer": "Ed Ames",
+            "hint": "Singer/actor who played Mingo on 1960s TV (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                94,
+                153,
+                29,
+                140,
+                46,
+                71,
+                115
+            ],
+            "answer": "Nahuatl",
+            "hint": "Linguistic source for \u201cchocolate\u201d and \u201ctomato\u201d"
+        },
+        "P": {
+            "cells": [
+                52,
+                11,
+                35,
+                102
+            ],
+            "answer": "Iowa",
+            "hint": "State named for people driven out of it"
+        },
+        "Q": {
+            "cells": [
+                138,
+                116,
+                4,
+                151,
+                80,
+                65,
+                41,
+                170,
+                92
+            ],
+            "answer": "Elizabeth",
+            "hint": "Monarch who awarded Walter Raleigh a royal charter for exploration (1584)"
+        },
+        "R": {
+            "cells": [
+                79,
+                6,
+                122,
+                28,
+                99,
+                146,
+                61
+            ],
+            "answer": "Neolith",
+            "hint": "Pre-Columbian ax, adz or arrowhead, e.g."
+        },
+        "S": {
+            "cells": [
+                163,
+                8,
+                31,
+                113,
+                69,
+                55
+            ],
+            "answer": "Tin god",
+            "hint": "Pompous, petty tyrant (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                84,
+                112,
+                49,
+                18,
+                145
+            ],
+            "answer": "Inuit",
+            "hint": "Like most residents of Nunavut"
+        },
+        "U": {
+            "cells": [
+                44,
+                75,
+                156,
+                10,
+                97,
+                58,
+                134,
+                24
+            ],
+            "answer": "\"Nostromo\"",
+            "hint": "Joseph Conrad novel about an Italian seaman in South America"
+        },
+        "V": {
+            "cells": [
+                155,
+                54,
+                42,
+                23,
+                109,
+                127,
+                73
+            ],
+            "answer": "Diffuse",
+            "hint": "Scattered over a large area"
+        },
+        "W": {
+            "cells": [
+                14,
+                169,
+                88,
+                64,
+                129,
+                30,
+                107
+            ],
+            "answer": "Isthmus",
+            "hint": "Locale for Panama or Seattle"
+        },
+        "X": {
+            "cells": [
+                106,
+                34,
+                144,
+                91,
+                161,
+                74,
+                13
+            ],
+            "answer": "Anatomy",
+            "hint": "Study of a body\u2019s construction"
+        },
+        "Y": {
+            "cells": [
+                154,
+                90,
+                118,
+                32,
+                57,
+                136,
+                16,
+                76,
+                105
+            ],
+            "answer": "Northland",
+            "hint": "Upper part of a region"
+        }
+    }
+}

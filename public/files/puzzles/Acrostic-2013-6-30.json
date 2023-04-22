@@ -1,0 +1,365 @@
+{
+    "answer": "[T]he edge of the gardens formed a ha-ha... bordered by a knee-high... hedge... . [C]hildren... used to take running jumps off the apparent precipice, terrifying visitors..., only to emerge laughing hilariously, covered with dandelion fluff... .",
+    "author": "Sadie Jones,",
+    "authorCell": [
+        154,
+        94,
+        168,
+        143,
+        12,
+        80,
+        158,
+        144,
+        132,
+        125,
+        179,
+        176,
+        112,
+        170,
+        159,
+        47,
+        108,
+        101,
+        38,
+        141,
+        140,
+        61,
+        19,
+        67,
+        120
+    ],
+    "source": "(The) Uninvited Guests",
+    "clues": {
+        "A": {
+            "cells": [
+                154,
+                178,
+                72,
+                115,
+                48,
+                11,
+                88
+            ],
+            "answer": "Sleight",
+            "hint": "Clever bit of trickery"
+        },
+        "B": {
+            "cells": [
+                94,
+                25,
+                133,
+                8,
+                78,
+                165,
+                64,
+                49
+            ],
+            "answer": "Admonish",
+            "hint": "Give unsolicited solicitous advice"
+        },
+        "C": {
+            "cells": [
+                168,
+                153,
+                33,
+                14,
+                75,
+                117,
+                131
+            ],
+            "answer": "Durango",
+            "hint": "Full-size Dodge S.U.V."
+        },
+        "D": {
+            "cells": [
+                143,
+                23,
+                86,
+                58,
+                40,
+                174,
+                116,
+                6
+            ],
+            "answer": "\u201cI\u2019m Flying\"",
+            "hint": "\u201cPeter Pan\u201d song sung by Peter Pan (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                12,
+                74,
+                106,
+                46,
+                135,
+                160
+            ],
+            "answer": "Euchre",
+            "hint": "Game that introduced jokers as cards"
+        },
+        "F": {
+            "cells": [
+                80,
+                21,
+                181,
+                9,
+                161,
+                54,
+                114
+            ],
+            "answer": "Joffrey",
+            "hint": "Ballet company based in Chicago"
+        },
+        "G": {
+            "cells": [
+                158,
+                52,
+                68,
+                82,
+                37,
+                122,
+                134,
+                95
+            ],
+            "answer": "Odometer",
+            "hint": "Gauge of interest in a used car"
+        },
+        "H": {
+            "cells": [
+                144,
+                91,
+                42,
+                24,
+                66
+            ],
+            "answer": "\"Naked\u201d",
+            "hint": "\u201cA woman is closest to being ___ when she is well dressed\u201d (Coco Chanel)"
+        },
+        "I": {
+            "cells": [
+                132,
+                118,
+                172,
+                36,
+                156,
+                98,
+                2,
+                77,
+                18,
+                53
+            ],
+            "answer": "Everything",
+            "hint": "What a certain theory in physics seeks to explain"
+        },
+        "J": {
+            "cells": [
+                125,
+                167,
+                45,
+                107,
+                142,
+                26,
+                62
+            ],
+            "answer": "Sheehan",
+            "hint": "Patty in the World Golf Hall of Fame"
+        },
+        "K": {
+            "cells": [
+                179,
+                99,
+                79,
+                124,
+                41,
+                163,
+                137
+            ],
+            "answer": "Upgrade",
+            "hint": "Change to a new software version"
+        },
+        "L": {
+            "cells": [
+                176,
+                90,
+                104,
+                27,
+                60,
+                151,
+                130,
+                44
+            ],
+            "answer": "Nephrite",
+            "hint": "Commoner variety of jade"
+        },
+        "M": {
+            "cells": [
+                112,
+                34,
+                149,
+                50,
+                85
+            ],
+            "answer": "Idaho",
+            "hint": "\u201cNapoleon Dynamite\u201d setting"
+        },
+        "N": {
+            "cells": [
+                170,
+                147,
+                13,
+                56,
+                1,
+                102,
+                128,
+                81,
+                39
+            ],
+            "answer": "Nightclub",
+            "hint": "Copacabana or Studio 54, e.g."
+        },
+        "O": {
+            "cells": [
+                159,
+                139,
+                43,
+                5,
+                129,
+                71,
+                109
+            ],
+            "answer": "Vandyke",
+            "hint": "Vladimir Lenin wore one"
+        },
+        "P": {
+            "cells": [
+                47,
+                157,
+                7,
+                31,
+                65,
+                110,
+                136
+            ],
+            "answer": "Iceberg",
+            "hint": "Chip off the old block?"
+        },
+        "Q": {
+            "cells": [
+                108,
+                126,
+                152,
+                69,
+                29,
+                169,
+                55,
+                89,
+                4
+            ],
+            "answer": "Toothache",
+            "hint": "Precursor to some drilling"
+        },
+        "R": {
+            "cells": [
+                101,
+                28,
+                73,
+                164,
+                119,
+                145
+            ],
+            "answer": "Earwig",
+            "hint": "Insect with pincerlike rear appendages"
+        },
+        "S": {
+            "cells": [
+                38,
+                15,
+                123,
+                92,
+                155,
+                51,
+                70,
+                177
+            ],
+            "answer": "Drop leaf",
+            "hint": "Hinged extender (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                141,
+                105,
+                87,
+                166,
+                17,
+                59
+            ],
+            "answer": "Gifted",
+            "hint": "Well above average in talent"
+        },
+        "U": {
+            "cells": [
+                140,
+                97,
+                20,
+                63,
+                111,
+                173
+            ],
+            "answer": "Unfurl",
+            "hint": "Open to the breeze"
+        },
+        "V": {
+            "cells": [
+                61,
+                83,
+                146,
+                35,
+                171,
+                22,
+                103,
+                127,
+                3
+            ],
+            "answer": "Ephedrine",
+            "hint": "Drug that treats asthma and allergies"
+        },
+        "W": {
+            "cells": [
+                19,
+                93,
+                148,
+                57,
+                180,
+                113
+            ],
+            "answer": "Spliff",
+            "hint": "Weed that\u2019s been wrapped in paper"
+        },
+        "X": {
+            "cells": [
+                67,
+                32,
+                150,
+                10,
+                175,
+                121,
+                84,
+                96
+            ],
+            "answer": "Tortoise",
+            "hint": "Animal clocked at 5 m.p.h., tops"
+        },
+        "Y": {
+            "cells": [
+                120,
+                138,
+                30,
+                76,
+                16,
+                162,
+                100
+            ],
+            "answer": "Slander",
+            "hint": "Engage in a smear campaign"
+        }
+    }
+}

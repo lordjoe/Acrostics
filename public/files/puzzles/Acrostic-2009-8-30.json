@@ -1,0 +1,354 @@
+{
+    "answer": "[T]he land is defended from... the river by a... levee; without which the dwellings would speedily disappear... . I could not help fancying [Nature] would some day take the matter into her own hands..., and if so, farewell to New Orleans.",
+    "author": "F(anny) Trollope,",
+    "authorCell": [
+        18,
+        1,
+        25,
+        63,
+        165,
+        95,
+        20,
+        80,
+        55,
+        71,
+        112,
+        130,
+        70,
+        116,
+        22,
+        154,
+        100,
+        21,
+        151,
+        137,
+        152,
+        169,
+        135,
+        177
+    ],
+    "source": "Domestic Manners (Of The Americans)",
+    "clues": {
+        "A": {
+            "cells": [
+                18,
+                58,
+                158,
+                40,
+                146,
+                111,
+                2,
+                81,
+                134,
+                173
+            ],
+            "answer": "Fifth wheel",
+            "hint": "Exemplar of superfluity (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                1,
+                26,
+                60,
+                93,
+                138,
+                170,
+                121,
+                75
+            ],
+            "answer": "Tightwad",
+            "hint": "One unlikely to foot the bill"
+        },
+        "C": {
+            "cells": [
+                25,
+                157,
+                61,
+                3,
+                38,
+                78,
+                107,
+                174,
+                142
+            ],
+            "answer": "Rose water",
+            "hint": "Flavoring for Turkish delight (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                63,
+                30,
+                119,
+                149,
+                47,
+                163,
+                90,
+                133
+            ],
+            "answer": "Obedient",
+            "hint": "Tending to stay in line"
+        },
+        "E": {
+            "cells": [
+                165,
+                69,
+                97,
+                132,
+                86,
+                35,
+                52,
+                19
+            ],
+            "answer": "Leftover",
+            "hint": "Target of a late-night raid?"
+        },
+        "F": {
+            "cells": [
+                95,
+                82,
+                54,
+                6,
+                115,
+                32,
+                172,
+                127,
+                150
+            ],
+            "answer": "Lawn darts",
+            "hint": "Game banned in the U.S. in 1988 (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                20,
+                176,
+                144,
+                98,
+                83,
+                53
+            ],
+            "answer": "Onward",
+            "hint": "Farther along in time or place"
+        },
+        "H": {
+            "cells": [
+                80,
+                124,
+                29,
+                106,
+                9,
+                167,
+                57
+            ],
+            "answer": "Parasol",
+            "hint": "Protection from some harmful rays"
+        },
+        "I": {
+            "cells": [
+                55,
+                27,
+                126,
+                88,
+                101,
+                168
+            ],
+            "answer": "Evelyn",
+            "hint": "One of the Waughs, or his first wife"
+        },
+        "J": {
+            "cells": [
+                71,
+                160,
+                31,
+                89,
+                11,
+                145
+            ],
+            "answer": "Dryden",
+            "hint": "\u201cAnnus Mirabilis\u201d poet"
+        },
+        "K": {
+            "cells": [
+                112,
+                162,
+                59,
+                129,
+                15,
+                43,
+                79
+            ],
+            "answer": "Owned up",
+            "hint": "Confessed, admitted (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                130,
+                24,
+                104,
+                147,
+                4,
+                72,
+                166,
+                49
+            ],
+            "answer": "Megalith",
+            "hint": "Stonehenge constituent"
+        },
+        "M": {
+            "cells": [
+                70,
+                122,
+                13,
+                155,
+                108,
+                33
+            ],
+            "answer": "Eyeful",
+            "hint": "Knockout, looker, hunk, babe"
+        },
+        "N": {
+            "cells": [
+                116,
+                50,
+                136,
+                68,
+                36,
+                103,
+                153
+            ],
+            "answer": "Stipend",
+            "hint": "Grant recipient\u2019s regular allotment"
+        },
+        "O": {
+            "cells": [
+                22,
+                46,
+                110,
+                62,
+                140,
+                91
+            ],
+            "answer": "The Who",
+            "hint": "Rock opera pioneers (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                154,
+                105,
+                12,
+                65,
+                141,
+                85,
+                44,
+                28,
+                120
+            ],
+            "answer": "Inflected",
+            "hint": "Spoken with varying pitch"
+        },
+        "Q": {
+            "cells": [
+                100,
+                51,
+                87,
+                123,
+                14,
+                34,
+                74
+            ],
+            "answer": "Chutney",
+            "hint": "Topper for satay or samosas"
+        },
+        "R": {
+            "cells": [
+                21,
+                113,
+                56,
+                164,
+                5,
+                41
+            ],
+            "answer": "Mullah",
+            "hint": "Figure you might see in a mosque"
+        },
+        "S": {
+            "cells": [
+                151,
+                17,
+                118,
+                171,
+                99,
+                39,
+                77,
+                128
+            ],
+            "answer": "Admonish",
+            "hint": "Offer a friendly word of advice"
+        },
+        "T": {
+            "cells": [
+                137,
+                161,
+                48,
+                125,
+                92,
+                76,
+                16
+            ],
+            "answer": "Necktie",
+            "hint": "Erstwhile requirement at New York\u2019s \u201c21\u201d Club"
+        },
+        "U": {
+            "cells": [
+                152,
+                139,
+                42,
+                10,
+                73,
+                94
+            ],
+            "answer": "Noodle",
+            "hint": "Improvise in a casual way"
+        },
+        "V": {
+            "cells": [
+                169,
+                114,
+                131,
+                96,
+                8,
+                66
+            ],
+            "answer": "Elapid",
+            "hint": "Fanged snake like a cobra or krait"
+        },
+        "W": {
+            "cells": [
+                135,
+                159,
+                102,
+                148,
+                67,
+                23,
+                175,
+                7,
+                117,
+                45
+            ],
+            "answer": "Rain shadow",
+            "hint": "Region of reduced precipitation to the lee of high mountains (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                177,
+                37,
+                109,
+                84,
+                143,
+                64,
+                156
+            ],
+            "answer": "Serious",
+            "hint": "John McEnroe memoir \u201cYou Cannot Be ___\u201d"
+        }
+    }
+}

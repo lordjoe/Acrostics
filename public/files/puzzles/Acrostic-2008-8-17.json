@@ -1,0 +1,354 @@
+{
+    "answer": "They can stretch out their necks like a giraffe, or loom underwater like an apocryphal hippo... They have a penguin\u2019s alertness combined with a build like a brontosaurus.... They hunch and ponderously lunge like a grizzly.",
+    "author": "(Edward) Hoagland,",
+    "authorCell": [
+        69,
+        151,
+        115,
+        89,
+        119,
+        70,
+        23,
+        149,
+        65,
+        76,
+        134,
+        135,
+        94,
+        33,
+        39,
+        40,
+        38,
+        113,
+        143,
+        172,
+        77,
+        42,
+        49,
+        158
+    ],
+    "source": "(The) Courage Of Turtles",
+    "clues": {
+        "A": {
+            "cells": [
+                69,
+                6,
+                51,
+                26,
+                137,
+                116,
+                173,
+                95,
+                159
+            ],
+            "answer": "Hawksbill",
+            "hint": "Endangered sea creature that is the primary source for tortoiseshell"
+        },
+        "B": {
+            "cells": [
+                151,
+                83,
+                54,
+                97,
+                123,
+                167,
+                28,
+                71
+            ],
+            "answer": "Overkill",
+            "hint": "Hitting a gnat with a sledgehammer, say"
+        },
+        "C": {
+            "cells": [
+                115,
+                99,
+                170,
+                41,
+                25,
+                142,
+                80
+            ],
+            "answer": "Anarchy",
+            "hint": "State often induced on-screen by the Marx Brothers"
+        },
+        "D": {
+            "cells": [
+                89,
+                20,
+                44,
+                110,
+                136,
+                5,
+                168
+            ],
+            "answer": "Geoduck",
+            "hint": "World\u2019s largest burrowing clam"
+        },
+        "E": {
+            "cells": [
+                119,
+                21,
+                175,
+                147,
+                35,
+                48
+            ],
+            "answer": "Lizard",
+            "hint": "Skink, gecko or Komodo dragon"
+        },
+        "F": {
+            "cells": [
+                70,
+                13,
+                146,
+                34,
+                176,
+                56,
+                100,
+                132
+            ],
+            "answer": "Achilles",
+            "hint": "Friend to Patroclus in Homer\u2019s \u201cIliad\u201d"
+        },
+        "G": {
+            "cells": [
+                23,
+                43,
+                9,
+                81,
+                118,
+                148,
+                164
+            ],
+            "answer": "Nothing",
+            "hint": "What Cordelia offers King Lear in Act I"
+        },
+        "H": {
+            "cells": [
+                149,
+                162,
+                130,
+                29,
+                59,
+                101
+            ],
+            "answer": "Duties",
+            "hint": "Specifications of a job or office"
+        },
+        "I": {
+            "cells": [
+                65,
+                78,
+                154,
+                166,
+                131,
+                7,
+                91,
+                52,
+                108
+            ],
+            "answer": "Chelonian",
+            "hint": "Like the animal described in this puzzle\u2019s quote"
+        },
+        "J": {
+            "cells": [
+                76,
+                174,
+                156,
+                47,
+                87,
+                121,
+                36,
+                141,
+                109,
+                10
+            ],
+            "answer": "Ozone layer",
+            "hint": "Location of a hazardous hole (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                134,
+                150,
+                37,
+                64,
+                50,
+                171,
+                22,
+                82,
+                106,
+                8
+            ],
+            "answer": "Up for grabs",
+            "hint": "Available to be seized and claimed (3 wds.)"
+        },
+        "L": {
+            "cells": [
+                135,
+                104,
+                85,
+                153,
+                45,
+                32,
+                63
+            ],
+            "answer": "Road map",
+            "hint": "Plan for where you\u2019re going (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                94,
+                144,
+                53,
+                14,
+                31,
+                127
+            ],
+            "answer": "Anther",
+            "hint": "Structure often borne on a stalk"
+        },
+        "N": {
+            "cells": [
+                33,
+                114,
+                11,
+                155,
+                58,
+                73,
+                129
+            ],
+            "answer": "Gherkin",
+            "hint": "Small pickle"
+        },
+        "O": {
+            "cells": [
+                39,
+                160,
+                84,
+                126,
+                55,
+                15,
+                111
+            ],
+            "answer": "Eyebrow",
+            "hint": "This may be raised upon hearing a lie"
+        },
+        "P": {
+            "cells": [
+                40,
+                61,
+                102,
+                122,
+                138,
+                79
+            ],
+            "answer": "On-site",
+            "hint": "How building inspections take place (hyph.)"
+        },
+        "Q": {
+            "cells": [
+                38,
+                16,
+                145,
+                72,
+                93,
+                112,
+                133
+            ],
+            "answer": "Fuchsia",
+            "hint": "Purplish red flower loved by hummingbirds"
+        },
+        "R": {
+            "cells": [
+                113,
+                157,
+                66,
+                92,
+                30,
+                3,
+                177
+            ],
+            "answer": "Turnkey",
+            "hint": "Keeper of a pen"
+        },
+        "S": {
+            "cells": [
+                143,
+                163,
+                19,
+                60,
+                86,
+                74,
+                4
+            ],
+            "answer": "Unhappy",
+            "hint": "Like a family in the first sentence of \u201cAnna Karenina\u201d"
+        },
+        "T": {
+            "cells": [
+                172,
+                96,
+                75,
+                12,
+                57,
+                161,
+                124
+            ],
+            "answer": "Reptile",
+            "hint": "Kind of beast whose name comes from Latin \u201cto crawl\u201d"
+        },
+        "U": {
+            "cells": [
+                77,
+                107,
+                18,
+                2,
+                165
+            ],
+            "answer": "Tithe",
+            "hint": "Levy leaving you 90%"
+        },
+        "V": {
+            "cells": [
+                42,
+                125,
+                67,
+                140,
+                98,
+                17,
+                169
+            ],
+            "answer": "Layette",
+            "hint": "Outfit for a new arrival"
+        },
+        "W": {
+            "cells": [
+                49,
+                88,
+                139,
+                62,
+                152,
+                103,
+                24,
+                120
+            ],
+            "answer": "Enhanced",
+            "hint": "Raised to a higher degree, magnified"
+        },
+        "X": {
+            "cells": [
+                158,
+                46,
+                105,
+                68,
+                1,
+                90,
+                128,
+                117,
+                27
+            ],
+            "answer": "Sumptuous",
+            "hint": "Far from cheap; far from skimpy"
+        }
+    }
+}

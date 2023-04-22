@@ -1,0 +1,354 @@
+{
+    "answer": "\u201cTalking to animals\u201d... is a matter of... your expression, and above all the tone of your voice. A harsh voice from me can make my cows jump in terror. I shouted at old Queenie once and she... fell down just as if she\u2019d been shot.",
+    "author": "(Barbara) Woodhouse,",
+    "authorCell": [
+        149,
+        148,
+        133,
+        147,
+        141,
+        98,
+        64,
+        159,
+        59,
+        1,
+        89,
+        15,
+        4,
+        39,
+        150,
+        7,
+        170,
+        47,
+        137,
+        138,
+        12,
+        86,
+        14,
+        146,
+        100
+    ],
+    "source": "Talking To Animals",
+    "clues": {
+        "A": {
+            "cells": [
+                149,
+                68,
+                11,
+                38,
+                169,
+                85,
+                108
+            ],
+            "answer": "Winsome",
+            "hint": "Sweetly endearing"
+        },
+        "B": {
+            "cells": [
+                148,
+                33,
+                96,
+                13,
+                60,
+                109,
+                78,
+                130
+            ],
+            "answer": "Oxymoron",
+            "hint": "Working vacation, for example"
+        },
+        "C": {
+            "cells": [
+                133,
+                41,
+                82,
+                17,
+                65,
+                161
+            ],
+            "answer": "On fire",
+            "hint": "Burning up; filled with fervor (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                147,
+                119,
+                69,
+                21,
+                44,
+                136,
+                90,
+                8
+            ],
+            "answer": "Decadent",
+            "hint": "Paul Verlaine or Oscar Wilde, literarily"
+        },
+        "E": {
+            "cells": [
+                141,
+                164,
+                51,
+                95,
+                81,
+                22
+            ],
+            "answer": "Helmet",
+            "hint": "Bean protector"
+        },
+        "F": {
+            "cells": [
+                98,
+                29,
+                125,
+                52,
+                165,
+                140
+            ],
+            "answer": "Oodles",
+            "hint": "A whole heap, a zillion"
+        },
+        "G": {
+            "cells": [
+                64,
+                134,
+                113,
+                88,
+                49,
+                27
+            ],
+            "answer": "UNICEF",
+            "hint": "1965 Nobel Peace Prize winner"
+        },
+        "H": {
+            "cells": [
+                159,
+                104,
+                115,
+                144,
+                83,
+                24
+            ],
+            "answer": "Sphere",
+            "hint": "\u201cHand With Reflecting ___\u201d (M. C. Escher lithograph)"
+        },
+        "I": {
+            "cells": [
+                59,
+                126,
+                102,
+                152,
+                16
+            ],
+            "answer": "Equus",
+            "hint": "\u201cLanguage\u201d of the horse whisperer Monty Roberts"
+        },
+        "J": {
+            "cells": [
+                1,
+                54,
+                35,
+                128,
+                18,
+                72,
+                111,
+                145,
+                162
+            ],
+            "answer": "Threshold",
+            "hint": "Limit, in terms of sensitivity"
+        },
+        "K": {
+            "cells": [
+                89,
+                101,
+                143,
+                67,
+                28,
+                53
+            ],
+            "answer": "A.J. Foyt",
+            "hint": "Four-time Indianapolis 500 champion (3 wds.)"
+        },
+        "L": {
+            "cells": [
+                15,
+                32,
+                97,
+                131,
+                118,
+                76,
+                157,
+                58
+            ],
+            "answer": "Lecithin",
+            "hint": "Emulsifier obtained from egg yolks"
+        },
+        "M": {
+            "cells": [
+                4,
+                121,
+                74,
+                166,
+                42,
+                93
+            ],
+            "answer": "Karnak",
+            "hint": "Great Temple of Amon site"
+        },
+        "N": {
+            "cells": [
+                39,
+                6,
+                135,
+                71,
+                168,
+                116,
+                57,
+                23,
+                156
+            ],
+            "answer": "In cahoots",
+            "hint": "Collaborating on the sly (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                150,
+                70,
+                99,
+                34,
+                9,
+                112,
+                56
+            ],
+            "answer": "Newport",
+            "hint": "Place to race yachts in Rhode Island"
+        },
+        "P": {
+            "cells": [
+                7,
+                40,
+                124,
+                79,
+                19,
+                107,
+                160
+            ],
+            "answer": "Goliath",
+            "hint": "Loser in a parable in I Samuel"
+        },
+        "Q": {
+            "cells": [
+                170,
+                55,
+                154,
+                92,
+                106,
+                127,
+                75
+            ],
+            "answer": "Tetanus",
+            "hint": "Lockjaw"
+        },
+        "R": {
+            "cells": [
+                47,
+                77,
+                94,
+                31,
+                139,
+                117,
+                163
+            ],
+            "answer": "Overdub",
+            "hint": "Layer of sound applied in the studio"
+        },
+        "S": {
+            "cells": [
+                137,
+                120,
+                73,
+                103,
+                37,
+                50,
+                3,
+                87
+            ],
+            "answer": "Adam\u2019s ale",
+            "hint": "Water, jocularly (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                138,
+                2,
+                66,
+                45,
+                151,
+                84
+            ],
+            "answer": "Navajo",
+            "hint": "Tribe known for weaving and sand-painting"
+        },
+        "U": {
+            "cells": [
+                12,
+                155,
+                91,
+                46,
+                30,
+                114
+            ],
+            "answer": "Iambus",
+            "hint": "A foot like \u201cafoot\u201d"
+        },
+        "V": {
+            "cells": [
+                86,
+                105,
+                153,
+                129,
+                25,
+                62
+            ],
+            "answer": "\u201cMisery\u201d",
+            "hint": "1990 film for which Kathy Bates won an Oscar for Best Actress"
+        },
+        "W": {
+            "cells": [
+                14,
+                48,
+                63,
+                80,
+                142,
+                122
+            ],
+            "answer": "Avocet",
+            "hint": "Wading bird with an upcurved bill"
+        },
+        "X": {
+            "cells": [
+                146,
+                5,
+                61,
+                36,
+                158,
+                123,
+                110,
+                20
+            ],
+            "answer": "Life form",
+            "hint": "Astrobiologist\u2019s Holy Grail (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                100,
+                132,
+                10,
+                167,
+                26,
+                43
+            ],
+            "answer": "Season",
+            "hint": "\u201cLove, all alike, no __ knows\u201d (John Donne)(2 wds.)"
+        }
+    }
+}

@@ -1,0 +1,343 @@
+{
+    "answer": "[Dickens] saw oddities and blemishes, gestures and incidents, scars, eyebrows, everything.... [He] made his books blaze up, not by tightening the plot or sharpening the wit, but by throwing another handful of people upon the fire.",
+    "author": "Virginia Woolf,",
+    "authorCell": [
+        65,
+        26,
+        54,
+        31,
+        81,
+        125,
+        16,
+        121,
+        144,
+        143,
+        85,
+        23,
+        159,
+        34,
+        175,
+        92,
+        25,
+        162,
+        76,
+        105,
+        146,
+        137
+    ],
+    "source": "The Moment (And Other Essays)",
+    "clues": {
+        "A": {
+            "cells": [
+                65,
+                39,
+                118,
+                55,
+                14,
+                104,
+                139
+            ],
+            "answer": "Varsity",
+            "hint": "Club for athletically inclined seniors"
+        },
+        "B": {
+            "cells": [
+                26,
+                173,
+                13,
+                145,
+                109,
+                64,
+                48,
+                129
+            ],
+            "answer": "Indigent",
+            "hint": "Down-and-out, like a pauper"
+        },
+        "C": {
+            "cells": [
+                54,
+                166,
+                136,
+                73,
+                111,
+                38,
+                152,
+                84,
+                12
+            ],
+            "answer": "Roughshod",
+            "hint": "Fitted with projecting nails; marked by brutal force"
+        },
+        "D": {
+            "cells": [
+                31,
+                45,
+                135,
+                98,
+                117,
+                160,
+                82
+            ],
+            "answer": "Gibbous",
+            "hint": "Lit more than halfway but less than fully, as the moon"
+        },
+        "E": {
+            "cells": [
+                81,
+                20,
+                47,
+                94,
+                116,
+                149,
+                131,
+                63,
+                7
+            ],
+            "answer": "Ineptness",
+            "hint": "Characteristic of a stumblebum"
+        },
+        "F": {
+            "cells": [
+                125,
+                150,
+                60,
+                17,
+                171,
+                89,
+                99
+            ],
+            "answer": "\u201cNo Reply\u201d",
+            "hint": "Opening tune on \u201cBeatles \u201965\u201d (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                16,
+                78,
+                32,
+                157,
+                134,
+                107,
+                177,
+                57
+            ],
+            "answer": "Identify",
+            "hint": "Feel a certain kinship (with)"
+        },
+        "H": {
+            "cells": [
+                121,
+                46,
+                96,
+                161,
+                180,
+                33,
+                3,
+                66,
+                108,
+                140
+            ],
+            "answer": "Adolescent",
+            "hint": "Unsophisticated, in terms of humor"
+        },
+        "I": {
+            "cells": [
+                144,
+                103,
+                178,
+                69,
+                24,
+                44,
+                130,
+                90,
+                164,
+                5,
+                114
+            ],
+            "answer": "Whitechapel",
+            "hint": "London district prowled by Jack the Ripper"
+        },
+        "J": {
+            "cells": [
+                143,
+                35,
+                100,
+                119,
+                167,
+                61,
+                86,
+                75,
+                6
+            ],
+            "answer": "Outspoken",
+            "hint": "Unafraid of causing verbal offense"
+        },
+        "K": {
+            "cells": [
+                85,
+                22,
+                97,
+                142,
+                170,
+                1,
+                56
+            ],
+            "answer": "Obtrude",
+            "hint": "Impose oneself uninvited, horn in"
+        },
+        "L": {
+            "cells": [
+                23,
+                124,
+                43,
+                102,
+                151,
+                80,
+                68
+            ],
+            "answer": "Lengthy",
+            "hint": "Like a tome or a talkathon"
+        },
+        "M": {
+            "cells": [
+                159,
+                172,
+                122,
+                147,
+                11,
+                37,
+                50
+            ],
+            "answer": "Forgoes",
+            "hint": "Abstains from, gives a pass to"
+        },
+        "N": {
+            "cells": [
+                34,
+                67,
+                19,
+                123,
+                169,
+                91,
+                153
+            ],
+            "answer": "Trapeze",
+            "hint": "Performance equipment for Jules Leotard"
+        },
+        "O": {
+            "cells": [
+                175,
+                77,
+                21,
+                10,
+                115,
+                36,
+                158,
+                51
+            ],
+            "answer": "Had words",
+            "hint": "Locked horns, engaged angrily (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                92,
+                27,
+                110,
+                148,
+                138,
+                168,
+                42,
+                8,
+                70
+            ],
+            "answer": "Establish",
+            "hint": "Found; prove true"
+        },
+        "Q": {
+            "cells": [
+                25,
+                71,
+                52,
+                9,
+                132,
+                83,
+                112,
+                154
+            ],
+            "answer": "Micawber",
+            "hint": "Eternal optimist in \u201cDavid Copperfield\u201d"
+        },
+        "R": {
+            "cells": [
+                162,
+                62,
+                40,
+                29,
+                179,
+                87,
+                141,
+                126,
+                113
+            ],
+            "answer": "Ownership",
+            "hint": "Fundamental right under capitalism"
+        },
+        "S": {
+            "cells": [
+                76,
+                93,
+                127,
+                41,
+                156,
+                106,
+                58
+            ],
+            "answer": "Mundane",
+            "hint": "Quotidian, unremarkable"
+        },
+        "T": {
+            "cells": [
+                105,
+                2,
+                128,
+                28,
+                49,
+                176,
+                79,
+                95,
+                15,
+                155
+            ],
+            "answer": "Eighteenth",
+            "hint": "Amendment ratified in 1919 and repealed in 1933"
+        },
+        "U": {
+            "cells": [
+                146,
+                165,
+                88,
+                59,
+                133,
+                18,
+                74
+            ],
+            "answer": "Nebbish",
+            "hint": "Typical Woody Allen role"
+        },
+        "V": {
+            "cells": [
+                137,
+                120,
+                101,
+                72,
+                4,
+                163,
+                53,
+                30,
+                174
+            ],
+            "answer": "Think fast",
+            "hint": "What an improv artist must be able to do (2 wds.)"
+        }
+    }
+}

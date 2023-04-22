@@ -1,0 +1,347 @@
+{
+    "answer": "The principle of leverage is the same... as in the game of crack-the-whip. By the application of well-known physical laws, a modest movement near the point of origin is translated into a major jolt on the... periphery.",
+    "author": "J.K. Galbraith,",
+    "authorCell": [
+        150,
+        79,
+        128,
+        93,
+        91,
+        57,
+        114,
+        147,
+        55,
+        159,
+        51,
+        156,
+        54,
+        108,
+        21,
+        46,
+        163,
+        90,
+        59,
+        48,
+        126,
+        47,
+        137,
+        26
+    ],
+    "source": "The Great Crash",
+    "clues": {
+        "A": {
+            "cells": [
+                150,
+                32,
+                67,
+                49,
+                162,
+                125,
+                110
+            ],
+            "answer": "Jackpot",
+            "hint": "Result of a big hit"
+        },
+        "B": {
+            "cells": [
+                79,
+                34,
+                15,
+                92,
+                153,
+                119,
+                170
+            ],
+            "answer": "Killjoy",
+            "hint": "Spoiler among fun seekers"
+        },
+        "C": {
+            "cells": [
+                128,
+                152,
+                73,
+                94,
+                1,
+                37
+            ],
+            "answer": "Growth",
+            "hint": "Central issue for economic planners"
+        },
+        "D": {
+            "cells": [
+                93,
+                109,
+                2,
+                23,
+                121,
+                39,
+                149
+            ],
+            "answer": "Anhinga",
+            "hint": "Long-necked fish-eater of the New World also known as a water turkey"
+        },
+        "E": {
+            "cells": [
+                91,
+                61,
+                144,
+                115,
+                43
+            ],
+            "answer": "Lento",
+            "hint": "Slow"
+        },
+        "F": {
+            "cells": [
+                57,
+                13,
+                151,
+                69,
+                45,
+                135,
+                107,
+                84
+            ],
+            "answer": "Boot camp",
+            "hint": "Where a lot of drilling goes on (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                114,
+                131,
+                165,
+                33
+            ],
+            "answer": "Riis",
+            "hint": "Photojournalist who wrote \u201cHow the Other Half Lives,\u201d 1891"
+        },
+        "H": {
+            "cells": [
+                147,
+                130,
+                50,
+                98,
+                111,
+                86,
+                30
+            ],
+            "answer": "Antonym",
+            "hint": "Boom to bust?"
+        },
+        "I": {
+            "cells": [
+                55,
+                72,
+                105,
+                161,
+                87,
+                133,
+                148,
+                12,
+                35,
+                122
+            ],
+            "answer": "Investment",
+            "hint": "Outlay of capital in pursuit of profit"
+        },
+        "J": {
+            "cells": [
+                159,
+                143,
+                118,
+                25,
+                104,
+                42
+            ],
+            "answer": "Tiptoe",
+            "hint": "Proceed with caution or stealth"
+        },
+        "K": {
+            "cells": [
+                51,
+                20,
+                66,
+                164,
+                4,
+                120,
+                83
+            ],
+            "answer": "Hairpin",
+            "hint": "Having a sharp, U-shaped bend"
+        },
+        "L": {
+            "cells": [
+                156,
+                167,
+                112,
+                71,
+                134,
+                16,
+                97,
+                28
+            ],
+            "answer": "Theorems",
+            "hint": "Brainwork from Pythagoras and others"
+        },
+        "M": {
+            "cells": [
+                54,
+                68,
+                41,
+                124,
+                9,
+                24,
+                145,
+                168,
+                99
+            ],
+            "answer": "Ham-fisted",
+            "hint": "Rough and clumsy with one\u2019s hands (hyph.)"
+        },
+        "N": {
+            "cells": [
+                108,
+                155,
+                76,
+                8,
+                140,
+                19,
+                88,
+                44,
+                58
+            ],
+            "answer": "Electrify",
+            "hint": "Fill with juice?"
+        },
+        "O": {
+            "cells": [
+                21,
+                5,
+                70,
+                103,
+                139,
+                89,
+                52
+            ],
+            "answer": "Grimace",
+            "hint": "A kisser\u2019s contortion"
+        },
+        "P": {
+            "cells": [
+                46,
+                106,
+                11,
+                127,
+                31,
+                74
+            ],
+            "answer": "Relief",
+            "hint": "What a baseball \u201cfireman\u201d provides"
+        },
+        "Q": {
+            "cells": [
+                163,
+                136,
+                17,
+                117,
+                65,
+                81,
+                56,
+                100
+            ],
+            "answer": "Envelope",
+            "hint": "It may be pushed by an artist"
+        },
+        "R": {
+            "cells": [
+                90,
+                7,
+                113,
+                64,
+                22,
+                132,
+                36
+            ],
+            "answer": "Anapest",
+            "hint": "Metrical foot of \u201cBada-bing!\u201d"
+        },
+        "S": {
+            "cells": [
+                59,
+                6,
+                78,
+                29,
+                166,
+                129,
+                40
+            ],
+            "answer": "Tilapia",
+            "hint": "Food fish native to African rivers"
+        },
+        "T": {
+            "cells": [
+                48,
+                62,
+                101,
+                160,
+                14,
+                138,
+                123,
+                75
+            ],
+            "answer": "Cash flow",
+            "hint": "Problem for the financially strapped (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                126,
+                27,
+                158,
+                146,
+                53,
+                80
+            ],
+            "answer": "Renown",
+            "hint": "Celebrity"
+        },
+        "V": {
+            "cells": [
+                47,
+                95,
+                63,
+                116,
+                157,
+                142,
+                18,
+                77
+            ],
+            "answer": "Asphodel",
+            "hint": "Flower said to fill the plains of Hades, in Greek myth"
+        },
+        "W": {
+            "cells": [
+                137,
+                102,
+                169,
+                154,
+                10,
+                85,
+                38
+            ],
+            "answer": "Strophe",
+            "hint": "Part of an ode sung while the chorus turns"
+        },
+        "X": {
+            "cells": [
+                26,
+                3,
+                141,
+                60,
+                96,
+                82
+            ],
+            "answer": "Heehaw",
+            "hint": "Unrefined, noisy laugh"
+        }
+    }
+}

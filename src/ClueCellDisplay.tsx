@@ -16,14 +16,8 @@ function ClueCellDisplay(puzzle: Puzzle, clue: Clue, ansX: number ) {
     gs.registerClueCell(ansX,clue);
 
 
-    const focusableDivRef = useRef<HTMLDivElement | null>(null);
 
-    function setFocusOnMe() {
-        if (focusableDivRef.current) {
-            focusableDivRef.current.focus();
-        }
 
-    };
 
     function setActiveCell() {
         let gs: GameState  = PersistentObject.getInstance().getGameState();

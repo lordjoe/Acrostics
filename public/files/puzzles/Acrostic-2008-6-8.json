@@ -1,0 +1,368 @@
+{
+    "answer": "True Darwin Award candidates imagine that they live in a world where tigers don\u2019t bite, sharks are as cuddly as stuffed animals, and people can fly... . In their minds, steering a motorcycle with their feet just makes sense.",
+    "author": "Wendy Northcutt,",
+    "authorCell": [
+        151,
+        44,
+        106,
+        107,
+        88,
+        31,
+        65,
+        7,
+        58,
+        156,
+        114,
+        84,
+        70,
+        92,
+        21,
+        17,
+        145,
+        48,
+        137,
+        18,
+        89,
+        8,
+        98,
+        126,
+        86,
+        132
+    ],
+    "source": "(The) Darwin Awards (4: Intelligent Design)",
+    "clues": {
+        "A": {
+            "cells": [
+                151,
+                34,
+                9,
+                133,
+                175,
+                61,
+                119
+            ],
+            "answer": "Whitney",
+            "hint": "Highest mount in the continental U.S."
+        },
+        "B": {
+            "cells": [
+                44,
+                5,
+                128,
+                160,
+                26,
+                148,
+                55
+            ],
+            "answer": "Edifice",
+            "hint": "Large, imposing structure"
+        },
+        "C": {
+            "cells": [
+                106,
+                134,
+                72,
+                90,
+                120,
+                24
+            ],
+            "answer": "Nessie",
+            "hint": "Nickname for a fabled monster"
+        },
+        "D": {
+            "cells": [
+                107,
+                81,
+                12,
+                64,
+                149,
+                161
+            ],
+            "answer": "Dawdle",
+            "hint": "Practice work avoidance"
+        },
+        "E": {
+            "cells": [
+                88,
+                150,
+                63,
+                127,
+                22,
+                116
+            ],
+            "answer": "Yes man",
+            "hint": "Smithers on \u201cThe Simpsons,\u201d e.g. (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                31,
+                113,
+                68,
+                136,
+                47,
+                91,
+                170,
+                6
+            ],
+            "answer": "Nebraska",
+            "hint": "State-named Springsteen album"
+        },
+        "G": {
+            "cells": [
+                65,
+                79,
+                52,
+                135,
+                13,
+                103
+            ],
+            "answer": "Ordeal",
+            "hint": "Crossing a bridge, to a gephyrophobe"
+        },
+        "H": {
+            "cells": [
+                7,
+                78,
+                172,
+                108,
+                93,
+                155,
+                30,
+                138
+            ],
+            "answer": "Rasputin",
+            "hint": "Faith-healer title role for Alan Rickman"
+        },
+        "I": {
+            "cells": [
+                58,
+                11,
+                166,
+                104,
+                80,
+                118
+            ],
+            "answer": "Tassel",
+            "hint": "Pollen-bearing part of a cornstalk"
+        },
+        "J": {
+            "cells": [
+                156,
+                110,
+                14,
+                129,
+                177,
+                36
+            ],
+            "answer": "Hornet",
+            "hint": "N.B.A. player in the Big Easy"
+        },
+        "K": {
+            "cells": [
+                114,
+                142,
+                10,
+                130,
+                49,
+                75
+            ],
+            "answer": "Condor",
+            "hint": "Four-under-par hole in golf"
+        },
+        "L": {
+            "cells": [
+                84,
+                99,
+                56,
+                124,
+                140,
+                15,
+                40
+            ],
+            "answer": "Unready",
+            "hint": "Epithet for King Ethelred"
+        },
+        "M": {
+            "cells": [
+                70,
+                53,
+                144,
+                1,
+                100,
+                168,
+                42,
+                121,
+                29
+            ],
+            "answer": "Two-timing",
+            "hint": "Duplicitous in love (hyph.)"
+        },
+        "N": {
+            "cells": [
+                92,
+                54,
+                20,
+                146,
+                76,
+                131,
+                171,
+                37
+            ],
+            "answer": "Thickset",
+            "hint": "Stocky, stout; compact"
+        },
+        "O": {
+            "cells": [
+                21,
+                102,
+                66,
+                158,
+                174,
+                87
+            ],
+            "answer": "Daniel",
+            "hint": "Old Testament interpreter of writing on a wall"
+        },
+        "P": {
+            "cells": [
+                17,
+                139,
+                154,
+                105,
+                77,
+                167
+            ],
+            "answer": "Aghast",
+            "hint": "Shocked and appalled"
+        },
+        "Q": {
+            "cells": [
+                145,
+                39,
+                164,
+                71,
+                83,
+                122,
+                57,
+                19
+            ],
+            "answer": "Rejected",
+            "hint": "Like \u201cLolita\u201d or \u201cThe Good Earth,\u201d by Alfred Knopf"
+        },
+        "R": {
+            "cells": [
+                48,
+                125,
+                25,
+                153,
+                95,
+                165,
+                112
+            ],
+            "answer": "Wistful",
+            "hint": "Dreamily melancholy"
+        },
+        "S": {
+            "cells": [
+                137,
+                97,
+                157,
+                115,
+                41,
+                59,
+                82,
+                27
+            ],
+            "answer": "Idealism",
+            "hint": "Noble-minded motivation"
+        },
+        "T": {
+            "cells": [
+                18,
+                45,
+                94,
+                67,
+                147
+            ],
+            "answer": "Nifty",
+            "hint": "Swell, keen, smart"
+        },
+        "U": {
+            "cells": [
+                89,
+                117,
+                143,
+                162,
+                62,
+                176,
+                73,
+                28,
+                43,
+                4
+            ],
+            "answer": "Aftershave",
+            "hint": "Chrome, Allure or Hai Karate, e.g."
+        },
+        "V": {
+            "cells": [
+                8,
+                152,
+                33,
+                123,
+                109,
+                50
+            ],
+            "answer": "Wither",
+            "hint": "Be cut down to size, as by a glare"
+        },
+        "W": {
+            "cells": [
+                98,
+                46,
+                60,
+                173,
+                23
+            ],
+            "answer": "Angst",
+            "hint": "Generalized dread"
+        },
+        "X": {
+            "cells": [
+                126,
+                3,
+                141,
+                111,
+                51,
+                32,
+                85
+            ],
+            "answer": "Rumpled",
+            "hint": "Suffering from iron deficiency?"
+        },
+        "Y": {
+            "cells": [
+                86,
+                159,
+                74,
+                16,
+                38,
+                101,
+                169
+            ],
+            "answer": "Drachma",
+            "hint": "Six obols, in ancient times"
+        },
+        "Z": {
+            "cells": [
+                132,
+                35,
+                163,
+                69,
+                2,
+                96
+            ],
+            "answer": "Satire",
+            "hint": "Many a Jonathan Swift work"
+        }
+    }
+}

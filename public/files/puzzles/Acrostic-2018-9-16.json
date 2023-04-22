@@ -1,0 +1,364 @@
+{
+    "answer": "The various... three-toed sloths... sport medieval haircuts and immovable smiles. ... Of the four species, the largest of the bunch is the marvelously maned Bradypus torquatus, which looks uncannily like a coconut with a mullet.",
+    "author": "Lucy Cooke,",
+    "authorCell": [
+        142,
+        65,
+        131,
+        160,
+        161,
+        172,
+        68,
+        3,
+        81,
+        132,
+        149,
+        136,
+        140,
+        85,
+        56,
+        53,
+        134,
+        90,
+        55,
+        48,
+        61,
+        52,
+        152,
+        115,
+        129
+    ],
+    "source": "The Truth About Animals",
+    "clues": {
+        "A": {
+            "cells": [
+                142,
+                8,
+                87,
+                119,
+                101,
+                30,
+                50,
+                71,
+                167
+            ],
+            "answer": "Cognition",
+            "hint": "Thought process"
+        },
+        "B": {
+            "cells": [
+                65,
+                108,
+                163,
+                143,
+                7,
+                49,
+                26
+            ],
+            "answer": "Orchids",
+            "hint": "Vanilla plants and their kin"
+        },
+        "C": {
+            "cells": [
+                131,
+                113,
+                1,
+                22,
+                153,
+                40,
+                177,
+                78,
+                60,
+                96
+            ],
+            "answer": "Out on a limb",
+            "hint": "Isolated and vulnerable (4 wds.)"
+        },
+        "D": {
+            "cells": [
+                160,
+                9,
+                31,
+                133,
+                176,
+                107,
+                93
+            ],
+            "answer": "Kumquat",
+            "hint": "Orange fruit with an edible rind"
+        },
+        "E": {
+            "cells": [
+                161,
+                57,
+                4,
+                34,
+                138
+            ],
+            "answer": "Elvis",
+            "hint": "1956 #1 album with the opening track \u201cRip It Up\u201d"
+        },
+        "F": {
+            "cells": [
+                172,
+                42,
+                79,
+                66,
+                112,
+                141,
+                158
+            ],
+            "answer": "Trefoil",
+            "hint": "Shortbread cookie sold by Girl Scouts"
+        },
+        "G": {
+            "cells": [
+                68,
+                88,
+                118,
+                54,
+                32,
+                154
+            ],
+            "answer": "Heaven",
+            "hint": "The Big Rock Candy Mountain, to hobos"
+        },
+        "H": {
+            "cells": [
+                3,
+                144,
+                18,
+                43,
+                67,
+                86,
+                128,
+                175
+            ],
+            "answer": "Electrum",
+            "hint": "Alloy of silver and gold"
+        },
+        "I": {
+            "cells": [
+                81,
+                168,
+                123,
+                147,
+                41,
+                102,
+                2
+            ],
+            "answer": "Turkish",
+            "hint": "One of Cyprus\u2019s two official languages"
+        },
+        "J": {
+            "cells": [
+                132,
+                171,
+                36,
+                58,
+                73,
+                114,
+                155,
+                19,
+                95
+            ],
+            "answer": "Riverside",
+            "hint": "California city or county, home of a University of California campus"
+        },
+        "K": {
+            "cells": [
+                149,
+                127,
+                59,
+                173,
+                91,
+                45
+            ],
+            "answer": "Upshot",
+            "hint": "End result, final consequence"
+        },
+        "L": {
+            "cells": [
+                136,
+                97,
+                13,
+                180,
+                111,
+                35
+            ],
+            "answer": "Turtle",
+            "hint": "Bearer of North America, per native myth"
+        },
+        "M": {
+            "cells": [
+                140,
+                166,
+                84,
+                121,
+                70,
+                5,
+                46,
+                23
+            ],
+            "answer": "Holdfast",
+            "hint": "Rootlike anchor for some aquatic life"
+        },
+        "N": {
+            "cells": [
+                85,
+                62,
+                99,
+                39,
+                14,
+                117,
+                157
+            ],
+            "answer": "Alchemy",
+            "hint": "Forte of the sorcerer Albus Dumbledore"
+        },
+        "O": {
+            "cells": [
+                56,
+                174,
+                21,
+                124,
+                98,
+                151,
+                76
+            ],
+            "answer": "Balance",
+            "hint": "Skill displayed by funambulists"
+        },
+        "P": {
+            "cells": [
+                53,
+                178,
+                92,
+                135,
+                77,
+                11,
+                164,
+                29,
+                116
+            ],
+            "answer": "Olfactory",
+            "hint": "Smell-related"
+        },
+        "Q": {
+            "cells": [
+                134,
+                20,
+                179,
+                156,
+                110,
+                80,
+                64
+            ],
+            "answer": "Useless",
+            "hint": "Vain, futile, to no avail"
+        },
+        "R": {
+            "cells": [
+                90,
+                47,
+                165,
+                12,
+                126,
+                28,
+                150
+            ],
+            "answer": "Tachyon",
+            "hint": "Proposed particle that travels faster than light"
+        },
+        "S": {
+            "cells": [
+                55,
+                122,
+                89,
+                145,
+                38,
+                72,
+                103
+            ],
+            "answer": "Absolut",
+            "hint": "Brand of vodka made in Sweden"
+        },
+        "T": {
+            "cells": [
+                48,
+                15,
+                75,
+                94,
+                120,
+                139
+            ],
+            "answer": "Nephew",
+            "hint": "Gareth or Gawain, to King Arthur"
+        },
+        "U": {
+            "cells": [
+                61,
+                10,
+                130,
+                82,
+                106,
+                44,
+                25
+            ],
+            "answer": "Isthmus",
+            "hint": "Common site for a canal"
+        },
+        "V": {
+            "cells": [
+                52,
+                37,
+                148,
+                16,
+                104,
+                69,
+                162,
+                125
+            ],
+            "answer": "Masthead",
+            "hint": "Where to find a crow\u2019s-nest or a staff"
+        },
+        "W": {
+            "cells": [
+                152,
+                109,
+                17,
+                170,
+                63,
+                33
+            ],
+            "answer": "Avowed",
+            "hint": "Publicly stated, sworn"
+        },
+        "X": {
+            "cells": [
+                115,
+                137,
+                51,
+                27,
+                159,
+                74,
+                100
+            ],
+            "answer": "Lumpish",
+            "hint": "Roughly shaped; dull-witted and lethargic"
+        },
+        "Y": {
+            "cells": [
+                129,
+                146,
+                169,
+                24,
+                83,
+                6,
+                105
+            ],
+            "answer": "So there",
+            "hint": "\u201cGuess that\u2019ll show you!\u201d (2 wds.)"
+        }
+    }
+}

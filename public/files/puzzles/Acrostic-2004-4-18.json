@@ -1,0 +1,341 @@
+{
+    "answer": "I learned three... things in college \u2014 to use a library, to memorize quickly and visually, to drop asleep at any time given a horizontal surface and fifteen minutes. What I could not learn was to think creatively on schedule.",
+    "author": "(Agnes) de Mille,",
+    "authorCell": [
+        140,
+        80,
+        44,
+        49,
+        144,
+        139,
+        3,
+        175,
+        39,
+        115,
+        159,
+        122,
+        83,
+        43,
+        134,
+        173,
+        28,
+        81,
+        63,
+        75,
+        33,
+        40
+    ],
+    "source": "Dance to the Piper",
+    "clues": {
+        "A": {
+            "cells": [
+                140,
+                98,
+                46,
+                164,
+                17,
+                153,
+                121,
+                64
+            ],
+            "answer": "Dominoes",
+            "hint": "Game played with bones"
+        },
+        "B": {
+            "cells": [
+                80,
+                165,
+                145,
+                6,
+                89,
+                102,
+                126,
+                26,
+                58
+            ],
+            "answer": "Even money",
+            "hint": "Fifty-fifty (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                44,
+                162,
+                109,
+                5,
+                71,
+                149
+            ],
+            "answer": "Marrow",
+            "hint": "Where blood cells are produced"
+        },
+        "D": {
+            "cells": [
+                49,
+                21,
+                158,
+                146,
+                104,
+                132,
+                84
+            ],
+            "answer": "Inkatha",
+            "hint": "Zulu-based political party"
+        },
+        "E": {
+            "cells": [
+                144,
+                108,
+                172,
+                127,
+                37,
+                48,
+                96,
+                70,
+                13
+            ],
+            "answer": "Lucubrate",
+            "hint": "Do laborious study, especially late at night"
+        },
+        "F": {
+            "cells": [
+                139,
+                59,
+                50,
+                114,
+                99,
+                31,
+                151
+            ],
+            "answer": "Lazarus",
+            "hint": "Biblical man who was resurrected"
+        },
+        "G": {
+            "cells": [
+                3,
+                25,
+                113,
+                136,
+                42,
+                73,
+                169,
+                85
+            ],
+            "answer": "Electron",
+            "hint": "Particle discovered by J. J. Thomson in 1897"
+        },
+        "H": {
+            "cells": [
+                175,
+                53,
+                130,
+                152,
+                8,
+                166,
+                93,
+                36,
+                24
+            ],
+            "answer": "Dust devil",
+            "hint": "Tornado in miniature (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                39,
+                68,
+                124,
+                150,
+                91,
+                174,
+                77,
+                9
+            ],
+            "answer": "Almagest",
+            "hint": "Astronomical treatise by Ptolemy"
+        },
+        "J": {
+            "cells": [
+                115,
+                47,
+                171,
+                154,
+                105,
+                67,
+                27,
+                88,
+                34
+            ],
+            "answer": "Nostalgia",
+            "hint": "It \u201cisn\u2019t what it used to be,\u201d said novelist Peter de Vries"
+        },
+        "K": {
+            "cells": [
+                159,
+                11,
+                66,
+                101,
+                41,
+                52,
+                138,
+                118,
+                78,
+                29
+            ],
+            "answer": "Crazy quilt",
+            "hint": "Jumble of pieces assembled with no design (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                122,
+                147,
+                100,
+                55,
+                16,
+                72,
+                35,
+                161
+            ],
+            "answer": "Eric Idle",
+            "hint": "Writer, director and co-star of the 1978 rock mockumentary \u201cThe Rutles\u201d (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                83,
+                30,
+                167,
+                177,
+                15,
+                137,
+                65,
+                107,
+                45
+            ],
+            "answer": "Tollhouse",
+            "hint": "Station for a fare collector"
+        },
+        "N": {
+            "cells": [
+                43,
+                2,
+                125,
+                62,
+                20,
+                170,
+                94
+            ],
+            "answer": "Olivine",
+            "hint": "Magnesium iron silicate, which, when in the form of a gem, is called a peridot"
+        },
+        "O": {
+            "cells": [
+                134,
+                76,
+                112,
+                54,
+                14,
+                176,
+                38,
+                148
+            ],
+            "answer": "Taciturn",
+            "hint": "Tight-lipped, quiet"
+        },
+        "P": {
+            "cells": [
+                173,
+                23,
+                157,
+                79,
+                69,
+                116,
+                7,
+                131
+            ],
+            "answer": "Honeydew",
+            "hint": "Harvest for ants that \u201cfarm\u201d aphids"
+        },
+        "Q": {
+            "cells": [
+                28,
+                61,
+                178,
+                95,
+                128,
+                111,
+                163,
+                82
+            ],
+            "answer": "Edentata",
+            "hint": "Order of toothless animals, including sloths and armadillos"
+        },
+        "R": {
+            "cells": [
+                81,
+                12,
+                103,
+                56,
+                141,
+                156,
+                117,
+                90
+            ],
+            "answer": "Penknife",
+            "hint": "Utility tool once used by scribes"
+        },
+        "S": {
+            "cells": [
+                63,
+                143,
+                22,
+                10,
+                168,
+                110,
+                51,
+                129,
+                87
+            ],
+            "answer": "Itchy feet",
+            "hint": "Wanderlust (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                75,
+                4,
+                160,
+                120,
+                92,
+                32,
+                133,
+                60
+            ],
+            "answer": "Partisan",
+            "hint": "Entirely on one side, so to speak"
+        },
+        "U": {
+            "cells": [
+                33,
+                106,
+                119,
+                135,
+                19,
+                155
+            ],
+            "answer": "Elfish",
+            "hint": "Mischievous, like an imp"
+        },
+        "V": {
+            "cells": [
+                40,
+                97,
+                1,
+                123,
+                74,
+                57,
+                142,
+                18,
+                86
+            ],
+            "answer": "Rhinology",
+            "hint": "The study of the nose"
+        }
+    }
+}

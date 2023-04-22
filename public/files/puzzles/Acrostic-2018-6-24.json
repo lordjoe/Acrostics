@@ -1,0 +1,365 @@
+{
+    "answer": "Unlike the barking of dogs, the grunting of pigs, or the croaking of frogs\u2014which different languages render in... different ways...\u2014 laughter in almost all... languages... is rendered as... some variant on ha ha, hee hee, or tee hee.",
+    "author": "Mary Beard,",
+    "authorCell": [
+        10,
+        110,
+        152,
+        27,
+        141,
+        122,
+        160,
+        106,
+        58,
+        8,
+        169,
+        166,
+        150,
+        112,
+        125,
+        149,
+        72,
+        63,
+        31,
+        6,
+        156,
+        30,
+        41,
+        155,
+        146,
+        69
+    ],
+    "source": "Laughter in Ancient Rome",
+    "clues": {
+        "A": {
+            "cells": [
+                10,
+                66,
+                33,
+                157,
+                47,
+                111,
+                90
+            ],
+            "answer": "Bighorn",
+            "hint": "High Sierra browser"
+        },
+        "B": {
+            "cells": [
+                110,
+                55,
+                35,
+                78,
+                144,
+                163
+            ],
+            "answer": "Effuse",
+            "hint": "Wax rhapsodic, gush"
+        },
+        "C": {
+            "cells": [
+                152,
+                134,
+                77,
+                95,
+                32,
+                119
+            ],
+            "answer": "Argent",
+            "hint": "Counterpart to \u201cor\u201d in heraldry"
+        },
+        "D": {
+            "cells": [
+                27,
+                1,
+                153,
+                60,
+                89,
+                104,
+                137
+            ],
+            "answer": "Run wild",
+            "hint": "Enjoy unfettered freedom (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                141,
+                158,
+                3,
+                121,
+                62,
+                105,
+                85,
+                45,
+                173
+            ],
+            "answer": "Dalliance",
+            "hint": "Casual affair, fling"
+        },
+        "F": {
+            "cells": [
+                122,
+                34,
+                139,
+                92,
+                5,
+                171,
+                71,
+                154
+            ],
+            "answer": "Lorikeet",
+            "hint": "Parrot with a brush-tipped tongue"
+        },
+        "G": {
+            "cells": [
+                160,
+                68,
+                107,
+                43,
+                128,
+                29
+            ],
+            "answer": "Afghan",
+            "hint": "Soft blanket with a geometric pattern"
+        },
+        "H": {
+            "cells": [
+                106,
+                74,
+                15,
+                120
+            ],
+            "answer": "Ulna",
+            "hint": "Site of the olecranon process"
+        },
+        "I": {
+            "cells": [
+                58,
+                162,
+                103,
+                42,
+                28,
+                12,
+                81
+            ],
+            "answer": "Gesture",
+            "hint": "An empty one won\u2019t do much"
+        },
+        "J": {
+            "cells": [
+                8,
+                117,
+                168,
+                133,
+                84,
+                64,
+                50,
+                19,
+                147
+            ],
+            "answer": "Horsehide",
+            "hint": "Baseball, in slang"
+        },
+        "K": {
+            "cells": [
+                169,
+                48,
+                123,
+                97,
+                2,
+                23,
+                82
+            ],
+            "answer": "Talents",
+            "hint": "Targets of star searches"
+        },
+        "L": {
+            "cells": [
+                166,
+                80,
+                16,
+                57,
+                136
+            ],
+            "answer": "Egg on",
+            "hint": "Spur, prod, goad (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                150,
+                44,
+                98,
+                9,
+                26,
+                114,
+                65,
+                170
+            ],
+            "answer": "Renegade",
+            "hint": "Barack Obama\u2019s Secret Service code name"
+        },
+        "N": {
+            "cells": [
+                112,
+                88,
+                151,
+                131,
+                61
+            ],
+            "answer": "Irish",
+            "hint": "Something gotten up in umbrage"
+        },
+        "O": {
+            "cells": [
+                125,
+                25,
+                38,
+                142,
+                109,
+                87
+            ],
+            "answer": "Negate",
+            "hint": "Counteract, void, nullify"
+        },
+        "P": {
+            "cells": [
+                149,
+                76,
+                52,
+                165,
+                115,
+                93,
+                4,
+                39,
+                24
+            ],
+            "answer": "Angelfish",
+            "hint": "Colorful aquarium denizen"
+        },
+        "Q": {
+            "cells": [
+                72,
+                145,
+                22,
+                164,
+                40,
+                100
+            ],
+            "answer": "No-show",
+            "hint": "Empty seat\u2019s \u201coccupant\u201d (hyph.)"
+        },
+        "R": {
+            "cells": [
+                63,
+                167,
+                116,
+                36,
+                17,
+                99,
+                135
+            ],
+            "answer": "Compote",
+            "hint": "Fruit cooked with sugar and spice"
+        },
+        "S": {
+            "cells": [
+                31,
+                83,
+                148,
+                14,
+                51,
+                129
+            ],
+            "answer": "Irving",
+            "hint": "Writer who first called New York \u201cGotham\u201d"
+        },
+        "T": {
+            "cells": [
+                6,
+                73,
+                108,
+                140,
+                46
+            ],
+            "answer": "Ether",
+            "hint": "Debunked deep-space medium"
+        },
+        "U": {
+            "cells": [
+                156,
+                20,
+                124,
+                172,
+                143,
+                101,
+                70,
+                49
+            ],
+            "answer": "Noah's ark",
+            "hint": "Craft on display in the Sistine Chapel (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                30,
+                56,
+                11,
+                118,
+                159,
+                138,
+                86
+            ],
+            "answer": "Trashed",
+            "hint": "Three sheets to the wind, blotto"
+        },
+        "W": {
+            "cells": [
+                41,
+                79,
+                18,
+                94,
+                132,
+                59,
+                161
+            ],
+            "answer": "Raffish",
+            "hint": "Disreputable in an attractive way"
+        },
+        "X": {
+            "cells": [
+                155,
+                67,
+                54,
+                13,
+                130,
+                102
+            ],
+            "answer": "Off-key",
+            "hint": "Sending out sour notes (hyph.)"
+        },
+        "Y": {
+            "cells": [
+                146,
+                75,
+                21,
+                113,
+                37,
+                7,
+                127,
+                91,
+                174
+            ],
+            "answer": "Magnitude",
+            "hint": "Star quality?"
+        },
+        "Z": {
+            "cells": [
+                69,
+                96,
+                126,
+                53
+            ],
+            "answer": "Ergo",
+            "hint": "Latin for \u201cthus\u201d; old Greek for \u201cwork\u201d"
+        }
+    }
+}

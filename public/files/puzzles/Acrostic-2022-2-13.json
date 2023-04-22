@@ -1,0 +1,373 @@
+{
+    "answer": "Washington had a poacher\u2019s smile. His dentists took chunks of ivory from hippopotamuses, walruses, and elephants, sculpted them down, and affixed them to dentures... . They filled in any gaps with teeth from less exotic animals... .",
+    "author": "(Alexis) Coe,",
+    "authorCell": [
+        95,
+        40,
+        72,
+        137,
+        66,
+        96,
+        6,
+        20,
+        52,
+        104,
+        131,
+        114,
+        125,
+        54,
+        149,
+        87,
+        134,
+        55,
+        49,
+        78,
+        57,
+        56,
+        144,
+        163,
+        36,
+        157
+    ],
+    "source": "You Never Forget Your First",
+    "clues": {
+        "A": {
+            "cells": [
+                95,
+                161,
+                16,
+                179,
+                63,
+                32,
+                126
+            ],
+            "answer": "Chomped",
+            "hint": "Ate noisily, and perhaps with some impatience"
+        },
+        "B": {
+            "cells": [
+                40,
+                26,
+                143,
+                182,
+                90,
+                108,
+                71
+            ],
+            "answer": "Old saws",
+            "hint": "Ripe chestnuts? (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                72,
+                43,
+                121,
+                174,
+                101,
+                145,
+                14
+            ],
+            "answer": "Echidna",
+            "hint": "Egg-laying mammal of Australia and New Guinea"
+        },
+        "D": {
+            "cells": [
+                137,
+                168,
+                19,
+                2,
+                62,
+                118,
+                84
+            ],
+            "answer": "Y-shaped",
+            "hint": "Like a slingshot or dowsing rod (hyph.)"
+        },
+        "E": {
+            "cells": [
+                66,
+                92,
+                124,
+                45,
+                24,
+                153,
+                110
+            ],
+            "answer": "Ottumwa",
+            "hint": "Iowa\u2019s \u201cCity of Bridges\u201d"
+        },
+        "F": {
+            "cells": [
+                96,
+                147,
+                42,
+                122,
+                165,
+                65,
+                8
+            ],
+            "answer": "Unkempt",
+            "hint": "Rumpled, scruffy"
+        },
+        "G": {
+            "cells": [
+                6,
+                146,
+                160,
+                89,
+                68,
+                177,
+                48
+            ],
+            "answer": "Nathan's",
+            "hint": "Fast-food chain associated with Coney Island"
+        },
+        "H": {
+            "cells": [
+                20,
+                88,
+                58,
+                171,
+                5,
+                142,
+                106
+            ],
+            "answer": "Epoxied",
+            "hint": "Held together with strong glue"
+        },
+        "I": {
+            "cells": [
+                52,
+                12,
+                76,
+                116,
+                150,
+                33,
+                173
+            ],
+            "answer": "Valiant",
+            "hint": "Indomitable, bold and brave"
+        },
+        "J": {
+            "cells": [
+                104,
+                81,
+                18,
+                135,
+                159,
+                1,
+                38
+            ],
+            "answer": "Eschews",
+            "hint": "Steers clear of, shuns"
+        },
+        "K": {
+            "cells": [
+                131,
+                27,
+                112,
+                74,
+                53,
+                181,
+                162
+            ],
+            "answer": "Red wolf",
+            "hint": "Endangered coyotelike canine (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                114,
+                77,
+                170,
+                94,
+                4,
+                127,
+                34
+            ],
+            "answer": "Freshet",
+            "hint": "Flood from a spring thaw"
+        },
+        "M": {
+            "cells": [
+                125,
+                10,
+                23,
+                99,
+                75,
+                50,
+                138
+            ],
+            "answer": "On staff",
+            "hint": "Counted as a regular employee (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                54,
+                80,
+                141,
+                17,
+                117,
+                100,
+                31
+            ],
+            "answer": "Relaxed",
+            "hint": "Slack; calm"
+        },
+        "O": {
+            "cells": [
+                149,
+                166,
+                61,
+                3,
+                37,
+                132,
+                111
+            ],
+            "answer": "Glisten",
+            "hint": "Shine with a pearly radiance"
+        },
+        "P": {
+            "cells": [
+                87,
+                46,
+                180,
+                105,
+                158,
+                140,
+                73
+            ],
+            "answer": "Enamels",
+            "hint": "Hard, lustrous coats"
+        },
+        "Q": {
+            "cells": [
+                134,
+                156,
+                35,
+                91,
+                172,
+                70,
+                120
+            ],
+            "answer": "Thin out",
+            "hint": "Disperse, become more sparse (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                55,
+                29,
+                13,
+                119,
+                154,
+                79,
+                103
+            ],
+            "answer": "Yiddish",
+            "hint": "Language whose writing contains no capitalization"
+        },
+        "S": {
+            "cells": [
+                49,
+                98,
+                9,
+                22,
+                169,
+                130,
+                69
+            ],
+            "answer": "Opossum",
+            "hint": "Creature whose name may be shortened by dropping the first letter"
+        },
+        "T": {
+            "cells": [
+                78,
+                151,
+                133,
+                28,
+                51,
+                115,
+                102
+            ],
+            "answer": "Upshift",
+            "hint": "Go into overdrive, maybe"
+        },
+        "U": {
+            "cells": [
+                57,
+                167,
+                152,
+                11,
+                107,
+                41,
+                129
+            ],
+            "answer": "Reshoot",
+            "hint": "Take it from the top, scene-wise"
+        },
+        "V": {
+            "cells": [
+                56,
+                85,
+                113,
+                21,
+                128,
+                164,
+                39
+            ],
+            "answer": "Fear not",
+            "hint": "Possible lead-in to \u201cHere I come to save the day!\u201d (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                144,
+                123,
+                15,
+                86,
+                176,
+                109,
+                67
+            ],
+            "answer": "Implant",
+            "hint": "Base for an artificial crown"
+        },
+        "X": {
+            "cells": [
+                163,
+                44,
+                148,
+                59,
+                25,
+                83,
+                7
+            ],
+            "answer": "Rhyming",
+            "hint": "Characteristic of hip-hop and Cockney slang"
+        },
+        "Y": {
+            "cells": [
+                36,
+                155,
+                64,
+                139,
+                175,
+                82,
+                97
+            ],
+            "answer": "Stoical",
+            "hint": "Displaying a stiff upper lip"
+        },
+        "Z": {
+            "cells": [
+                157,
+                60,
+                136,
+                47,
+                178,
+                93,
+                30
+            ],
+            "answer": "The Kiss",
+            "hint": "Gustav Klimt painting popular as a dorm room poster (2 wds.)"
+        }
+    }
+}

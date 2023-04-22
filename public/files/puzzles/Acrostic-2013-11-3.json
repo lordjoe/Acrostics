@@ -1,0 +1,364 @@
+{
+    "answer": "Lobbying for daylight saving time started... about one hundred years ago (just eighty years after time was standardized... [B]efore trains traversed the Continent, it didn\u2019t... matter that time was different in different towns).",
+    "author": "Seth Godin,",
+    "authorCell": [
+        20,
+        115,
+        34,
+        67,
+        25,
+        124,
+        51,
+        165,
+        166,
+        117,
+        28,
+        154,
+        15,
+        1,
+        127,
+        155,
+        126,
+        121,
+        173,
+        163,
+        29,
+        153,
+        38,
+        150,
+        58
+    ],
+    "source": "Small Is The New Big",
+    "clues": {
+        "A": {
+            "cells": [
+                20,
+                54,
+                130,
+                77,
+                147,
+                170,
+                100
+            ],
+            "answer": "Santa Fe",
+            "hint": "Oldest U.S. state capital (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                115,
+                24,
+                91,
+                40,
+                161,
+                64
+            ],
+            "answer": "Endure",
+            "hint": "Hang on through thick and thin"
+        },
+        "C": {
+            "cells": [
+                34,
+                135,
+                120,
+                19,
+                104,
+                55
+            ],
+            "answer": "Titter",
+            "hint": "Laugh while trying not to"
+        },
+        "D": {
+            "cells": [
+                67,
+                10,
+                31,
+                131,
+                46,
+                99
+            ],
+            "answer": "Hot tub",
+            "hint": "Hydrotherapy device (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                25,
+                89,
+                119,
+                8,
+                160,
+                145,
+                49,
+                69
+            ],
+            "answer": "Gadgetry",
+            "hint": "High-tech doodads"
+        },
+        "F": {
+            "cells": [
+                124,
+                101,
+                159,
+                48,
+                61,
+                141,
+                14
+            ],
+            "answer": "Off duty",
+            "hint": "Not working (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                51,
+                16,
+                30,
+                164,
+                177,
+                73,
+                142,
+                118,
+                98
+            ],
+            "answer": "Distorted",
+            "hint": "Like two-dimensional map projections"
+        },
+        "H": {
+            "cells": [
+                165,
+                26,
+                122,
+                139,
+                65,
+                96,
+                50
+            ],
+            "answer": "Itemize",
+            "hint": "Use Schedule A when filing"
+        },
+        "I": {
+            "cells": [
+                166,
+                85,
+                105,
+                148,
+                53,
+                33,
+                132,
+                7,
+                66
+            ],
+            "answer": "Nattering",
+            "hint": "Idle chitchat, empty blather"
+        },
+        "J": {
+            "cells": [
+                117,
+                5,
+                87,
+                68,
+                171,
+                151
+            ],
+            "answer": "System",
+            "hint": "Orderly way of proceeding"
+        },
+        "K": {
+            "cells": [
+                28,
+                107,
+                167,
+                82,
+                57,
+                43
+            ],
+            "answer": "Madman",
+            "hint": "Titular diarist of a Gogol story"
+        },
+        "L": {
+            "cells": [
+                154,
+                36,
+                103,
+                81,
+                9,
+                138
+            ],
+            "answer": "Adrift",
+            "hint": "Having no particular goal or destination"
+        },
+        "M": {
+            "cells": [
+                15,
+                143,
+                92,
+                172,
+                60,
+                78,
+                111
+            ],
+            "answer": "Learjet",
+            "hint": "Transport for many a corporate executive"
+        },
+        "N": {
+            "cells": [
+                1,
+                75,
+                169,
+                108,
+                41,
+                149,
+                129
+            ],
+            "answer": "Lafitte",
+            "hint": "Pirate involved in the Battle of New Orleans"
+        },
+        "O": {
+            "cells": [
+                127,
+                90,
+                3,
+                144,
+                27,
+                44,
+                158
+            ],
+            "answer": "In brief",
+            "hint": "Stated succinctly (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                155,
+                72,
+                125,
+                94,
+                168,
+                13
+            ],
+            "answer": "Sandia",
+            "hint": "Weapons research lab in New Mexico"
+        },
+        "Q": {
+            "cells": [
+                126,
+                102,
+                21,
+                156,
+                76,
+                6,
+                180,
+                45
+            ],
+            "answer": "Toadfish",
+            "hint": "Unattractive bottom feeder"
+        },
+        "R": {
+            "cells": [
+                121,
+                37,
+                174,
+                12,
+                56,
+                140,
+                84
+            ],
+            "answer": "Handsaw",
+            "hint": "Tool that can be played with a bow"
+        },
+        "S": {
+            "cells": [
+                173,
+                22,
+                152,
+                79,
+                97,
+                113,
+                134,
+                52
+            ],
+            "answer": "Eveready",
+            "hint": "Brand whose logo is a cat jumping through the number 9"
+        },
+        "T": {
+            "cells": [
+                163,
+                71,
+                133,
+                178,
+                39,
+                116,
+                88,
+                18
+            ],
+            "answer": "Net worth",
+            "hint": "Total assets less total liabilities (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                29,
+                179,
+                114,
+                157,
+                93,
+                42,
+                137,
+                74
+            ],
+            "answer": "Environs",
+            "hint": "Surrounding area, vicinity, purlieu"
+        },
+        "V": {
+            "cells": [
+                153,
+                112,
+                95,
+                62,
+                175,
+                4,
+                32,
+                47,
+                136
+            ],
+            "answer": "Wristband",
+            "hint": "Rock concert souvenir of sorts"
+        },
+        "W": {
+            "cells": [
+                38,
+                70,
+                17,
+                59,
+                109,
+                162,
+                86
+            ],
+            "answer": "Bygones",
+            "hint": "Water under the bridge"
+        },
+        "X": {
+            "cells": [
+                150,
+                128,
+                176,
+                83,
+                11,
+                35,
+                110,
+                63
+            ],
+            "answer": "Interest",
+            "hint": "Stake; concern"
+        },
+        "Y": {
+            "cells": [
+                58,
+                2,
+                80,
+                106,
+                23,
+                123,
+                146
+            ],
+            "answer": "Got rich",
+            "hint": "Hit the jackpot, maybe (2 wds.)"
+        }
+    }
+}

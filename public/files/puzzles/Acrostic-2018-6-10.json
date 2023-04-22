@@ -1,0 +1,344 @@
+{
+    "answer": "Drab birds can be suddenly aflame with iridescence when seen in a good light. A springtime starling explodes into a heavenly creature of glowing purple, lit with deep blues and greens, all of it spangled with gold.",
+    "author": "Simon Barnes,",
+    "authorCell": [
+        4,
+        26,
+        34,
+        41,
+        19,
+        38,
+        63,
+        62,
+        49,
+        27,
+        14,
+        98,
+        51,
+        168,
+        20,
+        114,
+        112,
+        24,
+        138,
+        131,
+        2,
+        174,
+        9
+    ],
+    "source": "The Meaning of Birds",
+    "clues": {
+        "A": {
+            "cells": [
+                4,
+                172,
+                29,
+                154,
+                106,
+                70,
+                55,
+                141,
+                88
+            ],
+            "answer": "Bowlegged",
+            "hint": "Exhibiting genu varum"
+        },
+        "B": {
+            "cells": [
+                26,
+                127,
+                42,
+                11,
+                66,
+                116,
+                162,
+                149
+            ],
+            "answer": "Al Capone",
+            "hint": "Tax evasion indictee of 1931 (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                34,
+                50,
+                89,
+                164,
+                142
+            ],
+            "answer": "Reels",
+            "hint": "Alternatives to jigs, waltzes and strathspeys"
+        },
+        "D": {
+            "cells": [
+                41,
+                161,
+                72,
+                25,
+                58,
+                87,
+                117,
+                101
+            ],
+            "answer": "Nail down",
+            "hint": "Identify with finality (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                19,
+                125,
+                139,
+                60,
+                160,
+                75,
+                43
+            ],
+            "answer": "Ellipse",
+            "hint": "Figure with a pair of foci"
+        },
+        "F": {
+            "cells": [
+                38,
+                153,
+                140,
+                61,
+                171,
+                6,
+                119,
+                82
+            ],
+            "answer": "Slugging",
+            "hint": "Activity for a batter or a boxer"
+        },
+        "G": {
+            "cells": [
+                63,
+                157,
+                169,
+                35,
+                21,
+                86,
+                3,
+                132,
+                100
+            ],
+            "answer": "Titillate",
+            "hint": "Lend a bit of a thrill"
+        },
+        "H": {
+            "cells": [
+                62,
+                143,
+                79,
+                113,
+                128,
+                92,
+                10,
+                32
+            ],
+            "answer": "Half-inch",
+            "hint": "Minimal margin size for many printers (hyph.)"
+        },
+        "I": {
+            "cells": [
+                49,
+                73,
+                16,
+                173,
+                90,
+                118,
+                156,
+                103
+            ],
+            "answer": "Emulsify",
+            "hint": "Blend by suspending one liquid in another"
+        },
+        "J": {
+            "cells": [
+                27,
+                122,
+                8,
+                85,
+                68,
+                135,
+                48
+            ],
+            "answer": "Mud pies",
+            "hint": "Rainy day creations of tots (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                14,
+                39,
+                59,
+                107,
+                80,
+                147
+            ],
+            "answer": "Eclair",
+            "hint": "Napoleon\u2019s cousin"
+        },
+        "L": {
+            "cells": [
+                98,
+                137,
+                124,
+                165,
+                53,
+                17,
+                33,
+                84
+            ],
+            "answer": "Appendix",
+            "hint": "Material supplementing the main text"
+        },
+        "M": {
+            "cells": [
+                51,
+                94,
+                105,
+                136,
+                120,
+                7,
+                37,
+                158,
+                65
+            ],
+            "answer": "No regrets",
+            "hint": "\u201cI wouldn\u2019t go back and change a thing\u201d (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                168,
+                12,
+                104,
+                67,
+                155,
+                44,
+                134
+            ],
+            "answer": "In-crowd",
+            "hint": "Clique that might be chic (hyph.)"
+        },
+        "O": {
+            "cells": [
+                20,
+                74,
+                109,
+                93,
+                40,
+                123
+            ],
+            "answer": "Neuter",
+            "hint": "Like the German word for \u201cgirl,\u201d grammatically"
+        },
+        "P": {
+            "cells": [
+                114,
+                170,
+                28,
+                47,
+                71
+            ],
+            "answer": "Ghent",
+            "hint": "War of 1812 treaty site"
+        },
+        "Q": {
+            "cells": [
+                112,
+                99,
+                126,
+                78,
+                45,
+                148,
+                23,
+                1
+            ],
+            "answer": "Overhead",
+            "hint": "Up in the air"
+        },
+        "R": {
+            "cells": [
+                24,
+                102,
+                64,
+                163,
+                151,
+                133,
+                52,
+                121
+            ],
+            "answer": "Flagship",
+            "hint": "Carrier of a fleet\u2019s commander"
+        },
+        "S": {
+            "cells": [
+                138,
+                57,
+                108,
+                15,
+                167,
+                95,
+                150,
+                77
+            ],
+            "answer": "Botswana",
+            "hint": "Country largely comprising the Kalahari Desert"
+        },
+        "T": {
+            "cells": [
+                131,
+                144,
+                166,
+                111,
+                5,
+                31,
+                83,
+                18
+            ],
+            "answer": "Indebted",
+            "hint": "Feeling morally or financially beholden"
+        },
+        "U": {
+            "cells": [
+                2,
+                97,
+                145,
+                36,
+                54,
+                130,
+                81
+            ],
+            "answer": "\"Red Dawn\"",
+            "hint": "1984 movie about a Soviet invasion of the U.S. (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                174,
+                91,
+                159,
+                110,
+                56,
+                13,
+                30,
+                69,
+                146
+            ],
+            "answer": "Disrobing",
+            "hint": "Judge\u2019s act at the end of a workday"
+        },
+        "W": {
+            "cells": [
+                9,
+                129,
+                46,
+                152,
+                115,
+                76,
+                96,
+                22
+            ],
+            "answer": "Stealthy",
+            "hint": "Using covert operations"
+        }
+    }
+}

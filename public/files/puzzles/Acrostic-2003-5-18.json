@@ -1,0 +1,335 @@
+{
+    "answer": "Old, Henny Youngman-style jokes... apparently circulate permanently in the lower grades of New York schools, like Mercury space-program debris circulating in... orbit.... \u201cWaiter, what\u2019s this fly doing in my soup!\" \"The backstroke.\u201d",
+    "author": "Adam Gopnik,",
+    "authorCell": [
+        43,
+        112,
+        110,
+        111,
+        158,
+        10,
+        105,
+        12,
+        138,
+        173,
+        30,
+        101,
+        11,
+        48,
+        119,
+        93,
+        174,
+        18,
+        131,
+        80,
+        19
+    ],
+    "source": "A Purim Story",
+    "clues": {
+        "A": {
+            "cells": [
+                43,
+                109,
+                172,
+                60,
+                126,
+                94
+            ],
+            "answer": "\u201cArchie\"",
+            "hint": "Comic strip created by Bob Montana"
+        },
+        "B": {
+            "cells": [
+                112,
+                75,
+                129,
+                65,
+                46,
+                21,
+                95
+            ],
+            "answer": "Dnieper",
+            "hint": "Third-longest river in Europe (after the Volga and the Danube)"
+        },
+        "C": {
+            "cells": [
+                110,
+                149,
+                39,
+                170,
+                15,
+                128
+            ],
+            "answer": "Air bag",
+            "hint": "Device deployed in a wreck (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                111,
+                27,
+                120,
+                87,
+                73,
+                136,
+                52
+            ],
+            "answer": "Marlowe",
+            "hint": "\u201cTamburlaine the Great\u201d playwright"
+        },
+        "E": {
+            "cells": [
+                158,
+                143,
+                86,
+                26,
+                167,
+                135,
+                63,
+                77,
+                7
+            ],
+            "answer": "Ghost town",
+            "hint": "New Mexico\u2019s Shakespeare, today (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                10,
+                41,
+                54,
+                1,
+                151,
+                100,
+                177,
+                132,
+                145,
+                117
+            ],
+            "answer": "Out of sorts",
+            "hint": "Not in good humor; slightly ill (3 wds.)"
+        },
+        "G": {
+            "cells": [
+                105,
+                23,
+                89,
+                134,
+                175,
+                156,
+                37,
+                146
+            ],
+            "answer": "Politics",
+            "hint": "\u201cIt\u2019s a sin in ___ to land a soft punch\u201d (Alf Landon)"
+        },
+        "H": {
+            "cells": [
+                12,
+                71,
+                121,
+                91,
+                50,
+                33,
+                3,
+                160,
+                61,
+                103,
+                81
+            ],
+            "answer": "Neck-and-neck",
+            "hint": "Virtually even (hyph.)"
+        },
+        "I": {
+            "cells": [
+                138,
+                16,
+                74,
+                122,
+                2,
+                35,
+                163,
+                64,
+                90,
+                53,
+                108
+            ],
+            "answer": "In full swing",
+            "hint": "Well under way (3 wds.)"
+        },
+        "J": {
+            "cells": [
+                173,
+                159,
+                42,
+                123,
+                22,
+                107,
+                9
+            ],
+            "answer": "Killjoy",
+            "hint": "Wet blanket, party pooper"
+        },
+        "K": {
+            "cells": [
+                30,
+                98,
+                14,
+                79,
+                57,
+                115,
+                169
+            ],
+            "answer": "Armoire",
+            "hint": "Ornate cupboard or clothespress"
+        },
+        "L": {
+            "cells": [
+                101,
+                162,
+                85,
+                127,
+                67,
+                36,
+                137,
+                58,
+                13
+            ],
+            "answer": "Pyongyang",
+            "hint": "Capital in which Kim Il Sung Stadium is located"
+        },
+        "M": {
+            "cells": [
+                11,
+                106,
+                133,
+                124,
+                51,
+                82,
+                28,
+                66,
+                171,
+                142,
+                152
+            ],
+            "answer": "Urban sprawl",
+            "hint": "Cornfield-to-condominium trend (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                48,
+                155,
+                31,
+                88,
+                118,
+                168,
+                69,
+                96,
+                148
+            ],
+            "answer": "Rorschach",
+            "hint": "Blot on the psychological landscape?"
+        },
+        "O": {
+            "cells": [
+                119,
+                6,
+                154,
+                38,
+                17,
+                83,
+                176,
+                104,
+                76,
+                139
+            ],
+            "answer": "Indiscreet",
+            "hint": "Too ready to share a confidence"
+        },
+        "P": {
+            "cells": [
+                93,
+                144,
+                40,
+                4,
+                25,
+                59,
+                179
+            ],
+            "answer": "Machete",
+            "hint": "Cutter of sugar cane"
+        },
+        "Q": {
+            "cells": [
+                174,
+                116,
+                20,
+                62,
+                78,
+                166,
+                97,
+                34,
+                44,
+                153
+            ],
+            "answer": "Silly putty",
+            "hint": "Protean plaything (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                18,
+                84,
+                47,
+                147,
+                5,
+                161,
+                29,
+                140,
+                72,
+                125
+            ],
+            "answer": "\"The Tempest\u201d",
+            "hint": "Play in which Ferdinand falls in love (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                131,
+                178,
+                92,
+                8,
+                70,
+                164,
+                24,
+                113,
+                56
+            ],
+            "answer": "Okey-dokey",
+            "hint": "\u201cSure thing\u201d (hyph.)"
+        },
+        "T": {
+            "cells": [
+                80,
+                32,
+                102,
+                49,
+                150
+            ],
+            "answer": "Reams",
+            "hint": "Extracts the juice from"
+        },
+        "U": {
+            "cells": [
+                19,
+                165,
+                55,
+                114,
+                68,
+                99,
+                157,
+                130,
+                45,
+                141
+            ],
+            "answer": "Yul Brynner",
+            "hint": "Actor who told interviewers \u201cJust call me a nice, clean-cut Mongolian boy\u201d (2 wds.)"
+        }
+    }
+}

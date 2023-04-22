@@ -1,0 +1,342 @@
+{
+    "answer": "They say geese honk. That isn\u2019t the right word. It isn\u2019t an ooga like a Model A Ford, or a beep like a VW. It\u2019s a symphony of a dozen clear trumpets and haunting French horns all on different notes. It\u2019s Circe and the Lorelei... .",
+    "author": "(Audrey) Sutherland,",
+    "authorCell": [
+        11,
+        116,
+        1,
+        18,
+        171,
+        143,
+        134,
+        43,
+        131,
+        93,
+        70,
+        92,
+        162,
+        63,
+        170,
+        37,
+        44,
+        47,
+        137,
+        167,
+        65,
+        149,
+        127
+    ],
+    "source": "Paddling North",
+    "clues": {
+        "A": {
+            "cells": [
+                11,
+                158,
+                114,
+                142,
+                28,
+                95,
+                64
+            ],
+            "answer": "Scherzo",
+            "hint": "Musical piece in a playful vein"
+        },
+        "B": {
+            "cells": [
+                116,
+                84,
+                29,
+                101,
+                51
+            ],
+            "answer": "Umiak",
+            "hint": "Sealskin craft conveying Inuit passengers"
+        },
+        "C": {
+            "cells": [
+                1,
+                62,
+                133,
+                117,
+                80,
+                50,
+                96,
+                147,
+                24
+            ],
+            "answer": "Transient",
+            "hint": "Passing, brief, ephemeral"
+        },
+        "D": {
+            "cells": [
+                18,
+                74,
+                48,
+                138,
+                91,
+                119,
+                168,
+                5,
+                32
+            ],
+            "answer": "Headfirst",
+            "hint": "How to ride a skeleton bobsled"
+        },
+        "E": {
+            "cells": [
+                171,
+                49,
+                36,
+                157,
+                78,
+                103,
+                126,
+                13
+            ],
+            "answer": "Eldritch",
+            "hint": "Ghostly, weird, otherworldly"
+        },
+        "F": {
+            "cells": [
+                143,
+                31,
+                124,
+                87,
+                110,
+                17,
+                53,
+                163
+            ],
+            "answer": "Rheostat",
+            "hint": "Antique radio adjusting device"
+        },
+        "G": {
+            "cells": [
+                134,
+                75,
+                113,
+                89,
+                60,
+                150,
+                35,
+                15
+            ],
+            "answer": "Lady fern",
+            "hint": "Ornamental plant with delicate foliage (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                43,
+                97,
+                128,
+                72,
+                161,
+                8,
+                111
+            ],
+            "answer": "Anhinga",
+            "hint": "Water bird with a snakelike neck"
+        },
+        "I": {
+            "cells": [
+                131,
+                156,
+                112,
+                57,
+                79,
+                4,
+                20,
+                33,
+                94
+            ],
+            "answer": "Ninety-Two",
+            "hint": "\u201c____ in the Shade\u201d (Thomas McGuane novel) (hyph.)"
+        },
+        "J": {
+            "cells": [
+                93,
+                136,
+                55,
+                71,
+                39,
+                25,
+                153,
+                166,
+                12
+            ],
+            "answer": "Doolittle",
+            "hint": "Imagist poet Hilda"
+        },
+        "K": {
+            "cells": [
+                70,
+                34,
+                82,
+                100,
+                139,
+                56,
+                14,
+                120
+            ],
+            "answer": "Poseidon",
+            "hint": "Olympian used to being underwater"
+        },
+        "L": {
+            "cells": [
+                92,
+                125,
+                69,
+                106,
+                148,
+                41,
+                27
+            ],
+            "answer": "Anemone",
+            "hint": "Flower said to have sprung from the blood of Adonis"
+        },
+        "M": {
+            "cells": [
+                162,
+                66,
+                141,
+                122,
+                83
+            ],
+            "answer": "Daffy",
+            "hint": "Foil to Bugs and Elmer"
+        },
+        "N": {
+            "cells": [
+                63,
+                46,
+                99,
+                85,
+                164,
+                21,
+                145
+            ],
+            "answer": "Dolphin",
+            "hint": "Bottlenose ____ (sea creature)"
+        },
+        "O": {
+            "cells": [
+                170,
+                45,
+                98,
+                19,
+                76,
+                61,
+                123,
+                144
+            ],
+            "answer": "Locavore",
+            "hint": "Adherent of the so-called \u201c100-mile diet\u201d"
+        },
+        "P": {
+            "cells": [
+                37,
+                155,
+                169,
+                22,
+                2,
+                108,
+                58,
+                140
+            ],
+            "answer": "Ice shelf",
+            "hint": "\u201cParent\u201d of some calves (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                44,
+                115,
+                102,
+                77,
+                26,
+                160,
+                135
+            ],
+            "answer": "Narwhal",
+            "hint": "Creature with a single spiral tusk"
+        },
+        "R": {
+            "cells": [
+                47,
+                68,
+                23,
+                10,
+                130,
+                90,
+                105,
+                151
+            ],
+            "answer": "Generous",
+            "hint": "Liberal, lavish; benevolent"
+        },
+        "S": {
+            "cells": [
+                137,
+                172,
+                121,
+                86,
+                42,
+                154,
+                73,
+                7
+            ],
+            "answer": "Night sky",
+            "hint": "Best setting for viewing an aurora (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                167,
+                67,
+                129,
+                152,
+                40,
+                109
+            ],
+            "answer": "Oboist",
+            "hint": "Player of the duck in \u201cPeter and the Wolf\u201d"
+        },
+        "U": {
+            "cells": [
+                65,
+                52,
+                30,
+                81,
+                146,
+                118,
+                6
+            ],
+            "answer": "Regatta",
+            "hint": "Competition for boaters"
+        },
+        "V": {
+            "cells": [
+                149,
+                9,
+                54,
+                107,
+                165,
+                132,
+                38
+            ],
+            "answer": "Tempest",
+            "hint": "Shakespeare play that opens on a ship at sea, with \u201cThe\u201d"
+        },
+        "W": {
+            "cells": [
+                127,
+                159,
+                59,
+                104,
+                16,
+                3,
+                88
+            ],
+            "answer": "Hearken",
+            "hint": "Listen up, old-style"
+        }
+    }
+}

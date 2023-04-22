@@ -1,0 +1,358 @@
+{
+    "answer": "When I bend my ear to a singer\u2019s performance, I often try to track who... influenced him or her. For instance, I can hear Nat King Cole in early Ray Charles, Lefty Frizzell in early Merle Haggard,... Fats Domino in Randy Newman.",
+    "author": "Linda Ronstadt,",
+    "authorCell": [
+        58,
+        133,
+        4,
+        167,
+        146,
+        14,
+        157,
+        56,
+        18,
+        39,
+        111,
+        9,
+        123,
+        119,
+        55,
+        158,
+        25,
+        143,
+        3,
+        64,
+        27,
+        130,
+        136,
+        31,
+        24
+    ],
+    "source": "Simple Dreams",
+    "clues": {
+        "A": {
+            "cells": [
+                58,
+                19,
+                79,
+                115,
+                41,
+                139
+            ],
+            "answer": "Litany",
+            "hint": "Tedious list; series of alternating invocations and responses in church"
+        },
+        "B": {
+            "cells": [
+                133,
+                91,
+                37,
+                61,
+                109
+            ],
+            "answer": "Irony",
+            "hint": "A teetotaler being named Boozer, say"
+        },
+        "C": {
+            "cells": [
+                4,
+                35,
+                120,
+                155,
+                68,
+                174
+            ],
+            "answer": "Nelson",
+            "hint": "Riddle that shaped music?"
+        },
+        "D": {
+            "cells": [
+                167,
+                106,
+                53,
+                132,
+                84,
+                17
+            ],
+            "answer": "Dahlia",
+            "hint": "Bloom used medicinally by Aztecs"
+        },
+        "E": {
+            "cells": [
+                146,
+                108,
+                38,
+                80,
+                131,
+                57,
+                93
+            ],
+            "answer": "Alfalfa",
+            "hint": "Bubble-blowing crooner of \u201cLet Me Call You Sweetheart,\u201d in a 1937 \u201cOur Gang\u201d episode"
+        },
+        "F": {
+            "cells": [
+                14,
+                162,
+                47,
+                113,
+                145,
+                76,
+                102
+            ],
+            "answer": "Ritchie",
+            "hint": "Guy who directed \u201cLock, Stock and Two Smoking Barrels\u201d"
+        },
+        "G": {
+            "cells": [
+                157,
+                122,
+                28,
+                95,
+                60,
+                11
+            ],
+            "answer": "Off-key",
+            "hint": "Too high or low, pitchwise (hyph.)"
+        },
+        "H": {
+            "cells": [
+                56,
+                16,
+                70,
+                36,
+                154,
+                94,
+                118,
+                137
+            ],
+            "answer": "No-hitter",
+            "hint": "Feat associated with batteries (hyph.)"
+        },
+        "I": {
+            "cells": [
+                18,
+                52,
+                66,
+                104,
+                147,
+                121,
+                164
+            ],
+            "answer": "Swinger",
+            "hint": "One pursuing an uninhibited lifestyle"
+        },
+        "J": {
+            "cells": [
+                39,
+                2,
+                59,
+                87,
+                156,
+                22,
+                116
+            ],
+            "answer": "Thunder",
+            "hint": "Sound simulated by timpani"
+        },
+        "K": {
+            "cells": [
+                111,
+                138,
+                5,
+                40,
+                163,
+                78
+            ],
+            "answer": "Aliens",
+            "hint": "Players of five notes in a 1977 Spielberg film"
+        },
+        "L": {
+            "cells": [
+                9,
+                105,
+                173,
+                142,
+                42,
+                65
+            ],
+            "answer": "Dearth",
+            "hint": "Oversupply\u2019s opposite"
+        },
+        "M": {
+            "cells": [
+                123,
+                86,
+                23,
+                43,
+                63,
+                151
+            ],
+            "answer": "Tarred",
+            "hint": "Imbued with pitch"
+        },
+        "N": {
+            "cells": [
+                119,
+                88,
+                32,
+                169,
+                149,
+                77,
+                13
+            ],
+            "answer": "Sha Na Na",
+            "hint": "Group inspired by the doo-wop hit \u201cGet a Job\u201d (3 wds.)"
+        },
+        "O": {
+            "cells": [
+                55,
+                134,
+                73,
+                90,
+                33,
+                15,
+                150,
+                168
+            ],
+            "answer": "Infantry",
+            "hint": "Troops for seizing and holding ground"
+        },
+        "P": {
+            "cells": [
+                158,
+                100,
+                34,
+                51,
+                7,
+                75,
+                124
+            ],
+            "answer": "Mockery",
+            "hint": "Imitation that\u2019s not flattering"
+        },
+        "Q": {
+            "cells": [
+                25,
+                170,
+                8,
+                129,
+                49,
+                97,
+                82,
+                144
+            ],
+            "answer": "Penzance",
+            "hint": "Port once plagued by corsairs"
+        },
+        "R": {
+            "cells": [
+                143,
+                54,
+                128,
+                26,
+                160,
+                98,
+                83
+            ],
+            "answer": "Lozenge",
+            "hint": "Drop delivering some relief"
+        },
+        "S": {
+            "cells": [
+                3,
+                20,
+                125,
+                161,
+                72,
+                99,
+                141,
+                48
+            ],
+            "answer": "Enforcer",
+            "hint": "Role in ice hockey or the Mafia"
+        },
+        "T": {
+            "cells": [
+                64,
+                29,
+                1,
+                166,
+                114,
+                46,
+                140,
+                89
+            ],
+            "answer": "Down-home",
+            "hint": "Rural and folksy, as cooking or music (hyph.)"
+        },
+        "U": {
+            "cells": [
+                27,
+                12,
+                152,
+                126,
+                165,
+                103,
+                81
+            ],
+            "answer": "Refrain",
+            "hint": "Chorus lines"
+        },
+        "V": {
+            "cells": [
+                130,
+                148,
+                21,
+                45,
+                96,
+                172,
+                71,
+                110
+            ],
+            "answer": "Egg timer",
+            "hint": "Use for Chopin\u2019s \u201cMinute Waltz,\u201d per Victor Borge (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                136,
+                62,
+                30,
+                74,
+                92,
+                112,
+                10
+            ],
+            "answer": "Acronym",
+            "hint": "Ascap but not BMI, for example"
+        },
+        "X": {
+            "cells": [
+                31,
+                159,
+                67,
+                127,
+                85,
+                107,
+                44
+            ],
+            "answer": "Mimicry",
+            "hint": "Parakeet\u2019s skill"
+        },
+        "Y": {
+            "cells": [
+                24,
+                50,
+                69,
+                135,
+                171,
+                6,
+                153,
+                101,
+                117
+            ],
+            "answer": "Screwball",
+            "hint": "Ding-dong"
+        }
+    }
+}

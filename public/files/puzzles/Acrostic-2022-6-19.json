@@ -1,0 +1,345 @@
+{
+    "answer": "The clepsydra, or water clock, ticks to the steady drip of water, which... drives a set of gears that nudges a pointer along a series of numbers... . ... Roman senators used them to keep their colleagues from talking for too long.",
+    "author": "Alan Burdick,",
+    "authorCell": [
+        160,
+        5,
+        84,
+        88,
+        109,
+        107,
+        113,
+        41,
+        43,
+        4,
+        136,
+        47,
+        53,
+        40,
+        130,
+        101,
+        133,
+        61,
+        68,
+        161,
+        87,
+        37,
+        118
+    ],
+    "source": "Why Time Flies",
+    "clues": {
+        "A": {
+            "cells": [
+                160,
+                46,
+                32,
+                18,
+                111,
+                131,
+                173,
+                79,
+                144,
+                62
+            ],
+            "answer": "After hours",
+            "hint": "Outside of regular work (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                5,
+                26,
+                122,
+                77,
+                147,
+                90
+            ],
+            "answer": "Little",
+            "hint": "Seldom; minute; brief"
+        },
+        "C": {
+            "cells": [
+                84,
+                66,
+                100,
+                114,
+                44,
+                22,
+                154
+            ],
+            "answer": "Atropos",
+            "hint": "Thread-cutting Fate"
+        },
+        "D": {
+            "cells": [
+                88,
+                167,
+                15,
+                36,
+                141,
+                65,
+                106
+            ],
+            "answer": "Now then",
+            "hint": "Oxymoronic preface to a discussion (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                109,
+                50,
+                63,
+                30,
+                143,
+                164,
+                96
+            ],
+            "answer": "Beating",
+            "hint": "Rhythmic cadence, pulsation"
+        },
+        "F": {
+            "cells": [
+                107,
+                139,
+                10,
+                48,
+                159,
+                82
+            ],
+            "answer": "Update",
+            "hint": "Breaking news; refresh"
+        },
+        "G": {
+            "cells": [
+                113,
+                16,
+                89,
+                145,
+                33,
+                132,
+                74,
+                3,
+                57
+            ],
+            "answer": "Ratcheted",
+            "hint": "Advanced step by step"
+        },
+        "H": {
+            "cells": [
+                41,
+                71,
+                58,
+                162,
+                92,
+                175,
+                138,
+                125
+            ],
+            "answer": "Dark ages",
+            "hint": "Enlightenment\u2019s opposite (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                43,
+                29,
+                56,
+                163,
+                69,
+                126,
+                14,
+                86
+            ],
+            "answer": "Ishiguro",
+            "hint": "Author of \u201cThe Remains of the Day\u201d"
+        },
+        "J": {
+            "cells": [
+                4,
+                38,
+                115,
+                153,
+                166,
+                54,
+                72,
+                98,
+                134
+            ],
+            "answer": "Came first",
+            "hint": "Took priority; led the way (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                136,
+                120,
+                13,
+                55,
+                28,
+                171,
+                105,
+                155
+            ],
+            "answer": "Knock off",
+            "hint": "Stop work; produce hastily (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                47,
+                110,
+                128,
+                24,
+                149,
+                95,
+                80,
+                8
+            ],
+            "answer": "Weekends",
+            "hint": "Respites for nine-to-fivers"
+        },
+        "M": {
+            "cells": [
+                53,
+                102,
+                85,
+                140,
+                121,
+                39
+            ],
+            "answer": "Heptad",
+            "hint": "Complement of seas or days"
+        },
+        "N": {
+            "cells": [
+                40,
+                6,
+                76,
+                168,
+                21,
+                59,
+                117,
+                151
+            ],
+            "answer": "Yearling",
+            "hint": "Foal in early adolescence"
+        },
+        "O": {
+            "cells": [
+                130,
+                94,
+                108,
+                31,
+                11,
+                156,
+                170,
+                52
+            ],
+            "answer": "\"Tomorrow\"",
+            "hint": "Name of the pitcher in the \u201cWho\u2019s on First?\u201d routine"
+        },
+        "P": {
+            "cells": [
+                101,
+                35,
+                157,
+                20,
+                2,
+                51,
+                135,
+                78,
+                116,
+                172
+            ],
+            "answer": "Isochronal",
+            "hint": "Occurring at intervals of the same duration"
+        },
+        "Q": {
+            "cells": [
+                133,
+                67,
+                42,
+                25,
+                81,
+                12,
+                165,
+                99
+            ],
+            "answer": "Mortgage",
+            "hint": "Monthly expense for many"
+        },
+        "R": {
+            "cells": [
+                61,
+                7,
+                146,
+                23,
+                75,
+                127
+            ],
+            "answer": "Epochs",
+            "hint": "Anthropocene and Eocene, for two"
+        },
+        "S": {
+            "cells": [
+                68,
+                148,
+                123,
+                103,
+                83
+            ],
+            "answer": "Floss",
+            "hint": "With \u201cthe,\u201d arm-swinging dance employing an invisible thread"
+        },
+        "T": {
+            "cells": [
+                161,
+                97,
+                64,
+                1,
+                112,
+                142,
+                27,
+                45,
+                174,
+                129
+            ],
+            "answer": "Last-second",
+            "hint": "Like some victory-sealing shots (hyph.)"
+        },
+        "U": {
+            "cells": [
+                87,
+                17,
+                70,
+                124,
+                150,
+                49,
+                34
+            ],
+            "answer": "Iterate",
+            "hint": "Repeat"
+        },
+        "V": {
+            "cells": [
+                37,
+                60,
+                119,
+                19,
+                158,
+                104,
+                91,
+                137
+            ],
+            "answer": "Evermore",
+            "hint": "2020 Taylor Swift album with the single \u201cWillow\u201d"
+        },
+        "W": {
+            "cells": [
+                118,
+                169,
+                9,
+                93,
+                152,
+                73
+            ],
+            "answer": "Stylus",
+            "hint": "Needle or writing tool"
+        }
+    }
+}

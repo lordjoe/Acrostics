@@ -1,0 +1,367 @@
+{
+    "answer": "Wisconsin\u2019s politics have traditionally been uproar politics \u2014 full of the yammer, the squawk, the accusing finger, the injured howl. Every voter is... full of zeal to get out and nip a little political iniquity in the bud.",
+    "author": "George (Sessions) Perry,",
+    "authorCell": [
+        88,
+        97,
+        106,
+        45,
+        92,
+        173,
+        152,
+        67,
+        102,
+        118,
+        113,
+        4,
+        16,
+        28,
+        166,
+        37,
+        10,
+        12,
+        89,
+        81,
+        65,
+        38,
+        68,
+        29,
+        52,
+        64
+    ],
+    "source": "Cities Of America",
+    "clues": {
+        "A": {
+            "cells": [
+                88,
+                175,
+                15,
+                70,
+                42,
+                155,
+                109
+            ],
+            "answer": "Guthrie",
+            "hint": "Dust Bowl Troubadour of folk music"
+        },
+        "B": {
+            "cells": [
+                97,
+                21,
+                147,
+                56,
+                72
+            ],
+            "answer": "Evils",
+            "hint": "Escapees from a mythical box"
+        },
+        "C": {
+            "cells": [
+                106,
+                160,
+                119,
+                144,
+                19,
+                75,
+                91,
+                50
+            ],
+            "answer": "Oliphant",
+            "hint": "Editorial cartoonist Pat"
+        },
+        "D": {
+            "cells": [
+                45,
+                159,
+                100,
+                11,
+                84,
+                69
+            ],
+            "answer": "Rajput",
+            "hint": "Member of a Hindu warrior caste"
+        },
+        "E": {
+            "cells": [
+                92,
+                137,
+                66,
+                18,
+                172,
+                43,
+                151
+            ],
+            "answer": "Gumshoe",
+            "hint": "Hawkshaw, sleuth"
+        },
+        "F": {
+            "cells": [
+                173,
+                140,
+                36,
+                123,
+                58,
+                82
+            ],
+            "answer": "En bloc",
+            "hint": "As a group, all together (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                152,
+                103,
+                24,
+                3,
+                62,
+                169,
+                141,
+                53
+            ],
+            "answer": "Perseids",
+            "hint": "Shower that\u2019s hot in August"
+        },
+        "H": {
+            "cells": [
+                67,
+                33,
+                143,
+                17,
+                163,
+                95
+            ],
+            "answer": "Elicit",
+            "hint": "Draw out, call forth"
+        },
+        "I": {
+            "cells": [
+                102,
+                165,
+                121,
+                59,
+                13,
+                80
+            ],
+            "answer": "Ruffle",
+            "hint": "Feature of Seinfeld\u2019s puffy shirt"
+        },
+        "J": {
+            "cells": [
+                118,
+                32,
+                157,
+                99,
+                174,
+                136,
+                1
+            ],
+            "answer": "Rainbow",
+            "hint": "Our nation, according to Jesse Jackson"
+        },
+        "K": {
+            "cells": [
+                113,
+                145,
+                170,
+                73,
+                122,
+                14
+            ],
+            "answer": "Yanqui",
+            "hint": "Estadounidense"
+        },
+        "L": {
+            "cells": [
+                4,
+                124,
+                153,
+                107,
+                31,
+                49,
+                87,
+                133
+            ],
+            "answer": "Clowning",
+            "hint": "Buffoonery"
+        },
+        "M": {
+            "cells": [
+                16,
+                176,
+                35,
+                150,
+                108,
+                85
+            ],
+            "answer": "Idylls",
+            "hint": "Poems on pastoral scenes"
+        },
+        "N": {
+            "cells": [
+                28,
+                105,
+                51,
+                158,
+                77,
+                93,
+                131
+            ],
+            "answer": "Thicket",
+            "hint": "Chaparral or coppice"
+        },
+        "O": {
+            "cells": [
+                166,
+                39,
+                79,
+                20,
+                130,
+                54
+            ],
+            "answer": "In half",
+            "hint": "Forming two equal pieces (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                37,
+                110,
+                127,
+                5,
+                142,
+                71
+            ],
+            "answer": "Evzone",
+            "hint": "Kilt-wearing Greek soldier often serving as a palace guard"
+        },
+        "Q": {
+            "cells": [
+                10,
+                23,
+                44,
+                90,
+                112,
+                76,
+                129,
+                168
+            ],
+            "answer": "Stairway",
+            "hint": "Flight from one landing to another"
+        },
+        "R": {
+            "cells": [
+                12,
+                41,
+                116,
+                132,
+                101,
+                78
+            ],
+            "answer": "Opt out",
+            "hint": "Decline to take advantage (of) (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                89,
+                25,
+                2,
+                148,
+                61,
+                126,
+                74,
+                48
+            ],
+            "answer": "Faithful",
+            "hint": "True believers, with \u201cthe\u201d"
+        },
+        "T": {
+            "cells": [
+                81,
+                114,
+                161,
+                26,
+                98,
+                149,
+                63
+            ],
+            "answer": "Avidity",
+            "hint": "Enthusiasm; greed"
+        },
+        "U": {
+            "cells": [
+                65,
+                27,
+                6,
+                125,
+                167,
+                139,
+                55,
+                94
+            ],
+            "answer": "Minotaur",
+            "hint": "Mythical monster kept in a labyrinth"
+        },
+        "V": {
+            "cells": [
+                38,
+                156,
+                96,
+                111,
+                57
+            ],
+            "answer": "Ethel",
+            "hint": "Barrymore who said \u201cI never let them cough. They wouldn\u2019t dare\u201d"
+        },
+        "W": {
+            "cells": [
+                68,
+                22,
+                164,
+                40,
+                117,
+                7,
+                135
+            ],
+            "answer": "Request",
+            "hint": "\u201cAs Time Goes By,\u201d to Sam, e.g."
+        },
+        "X": {
+            "cells": [
+                29,
+                104,
+                8,
+                47,
+                154,
+                128,
+                83,
+                60
+            ],
+            "answer": "Idiolect",
+            "hint": "Pattern of speech peculiar to one person"
+        },
+        "Y": {
+            "cells": [
+                52,
+                34,
+                86,
+                9,
+                138,
+                115,
+                162
+            ],
+            "answer": "Clinton",
+            "hint": "Veep under Jefferson and Madison"
+        },
+        "Z": {
+            "cells": [
+                64,
+                46,
+                30,
+                120,
+                171,
+                146,
+                134
+            ],
+            "answer": "Apostle",
+            "hint": "Evangelistic supporter"
+        }
+    }
+}

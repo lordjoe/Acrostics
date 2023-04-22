@@ -1,0 +1,350 @@
+{
+    "answer": "[Louis Armstrong\u2019s] recording of \u2019West End Blues\u2019... used to gas me. It was the first time I ever heard anybody sing without using any words. I didn\u2019t know he was singing whatever came into his head when he forgot the lyrics.",
+    "author": "(Billie) Holiday,",
+    "authorCell": [
+        149,
+        145,
+        35,
+        142,
+        33,
+        121,
+        79,
+        168,
+        74,
+        106,
+        83,
+        38,
+        147,
+        115,
+        14,
+        15,
+        133,
+        154,
+        17,
+        80,
+        1,
+        3,
+        49,
+        84
+    ],
+    "source": "Lady Sing the Blues",
+    "clues": {
+        "A": {
+            "cells": [
+                149,
+                85,
+                126,
+                166,
+                34,
+                20,
+                104,
+                52
+            ],
+            "answer": "Highbrow",
+            "hint": "Like opera and classical music, by repute"
+        },
+        "B": {
+            "cells": [
+                145,
+                39,
+                10,
+                54,
+                97,
+                111,
+                158,
+                71
+            ],
+            "answer": "Outsider",
+            "hint": "Socially excluded sort"
+        },
+        "C": {
+            "cells": [
+                35,
+                73,
+                9,
+                51,
+                155,
+                137
+            ],
+            "answer": "Lester",
+            "hint": "With Answer G., tenor sax player nicknamed \u201cPres\u201d"
+        },
+        "D": {
+            "cells": [
+                142,
+                69,
+                160,
+                11,
+                102
+            ],
+            "answer": "Ivory",
+            "hint": "Old keyboard composition, in part"
+        },
+        "E": {
+            "cells": [
+                33,
+                7,
+                136,
+                117,
+                81,
+                159,
+                58
+            ],
+            "answer": "Drew off",
+            "hint": "Siphoned away (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                121,
+                47,
+                62,
+                157,
+                8,
+                139
+            ],
+            "answer": "Asthma",
+            "hint": "Something Bono and Pink have in common with Eminem"
+        },
+        "G": {
+            "cells": [
+                79,
+                116,
+                95,
+                156,
+                24
+            ],
+            "answer": "Young",
+            "hint": "See Clue C."
+        },
+        "H": {
+            "cells": [
+                168,
+                2,
+                103,
+                42,
+                25,
+                130,
+                78
+            ],
+            "answer": "Lowdown",
+            "hint": "Scoop, skinny, dope; rotten"
+        },
+        "I": {
+            "cells": [
+                74,
+                105,
+                164,
+                59,
+                134,
+                148,
+                118,
+                6,
+                88
+            ],
+            "answer": "Artie Shaw",
+            "hint": "Clarinetist on a pop version of \u201cSummertime\u201d in 1936 (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                106,
+                41,
+                65,
+                19,
+                86,
+                122
+            ],
+            "answer": "Demons",
+            "hint": "Suppliers of unwanted possessions?"
+        },
+        "K": {
+            "cells": [
+                83,
+                119,
+                173,
+                27,
+                57,
+                138,
+                100,
+                13
+            ],
+            "answer": "Yes we can",
+            "hint": "2008 campaign slogan (3 wds.)"
+        },
+        "L": {
+            "cells": [
+                38,
+                63,
+                161,
+                127,
+                143,
+                99,
+                5
+            ],
+            "answer": "Strings",
+            "hint": "Section in which a lot of bowing occurs"
+        },
+        "M": {
+            "cells": [
+                147,
+                125,
+                21,
+                108,
+                87,
+                44
+            ],
+            "answer": "Indigo",
+            "hint": "Near one end of the spectrum, visibly"
+        },
+        "N": {
+            "cells": [
+                115,
+                4,
+                129,
+                56,
+                144,
+                40,
+                72,
+                171,
+                26,
+                90
+            ],
+            "answer": "Night shift",
+            "hint": "Side hustle option for nine-to-fivers (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                14,
+                46,
+                60,
+                152,
+                28,
+                98,
+                124,
+                77
+            ],
+            "answer": "Gardenia",
+            "hint": "Sweet-smelling decorative bloom"
+        },
+        "P": {
+            "cells": [
+                15,
+                131,
+                53,
+                82,
+                169
+            ],
+            "answer": "Shady",
+            "hint": "Dubious, for a deal; tree-lined, for a lane"
+        },
+        "Q": {
+            "cells": [
+                133,
+                163,
+                36,
+                18,
+                91,
+                70,
+                109
+            ],
+            "answer": "Touched",
+            "hint": "Moved, as by kindness; slightly mad"
+        },
+        "R": {
+            "cells": [
+                154,
+                64,
+                94,
+                48,
+                132,
+                114,
+                31,
+                16
+            ],
+            "answer": "Hitmaker",
+            "hint": "Producer of chart-toppers"
+        },
+        "S": {
+            "cells": [
+                17,
+                32,
+                55,
+                146,
+                93,
+                107,
+                68
+            ],
+            "answer": "Enthuse",
+            "hint": "Wax rhapsodic, gush"
+        },
+        "T": {
+            "cells": [
+                80,
+                151,
+                170,
+                50,
+                30,
+                12,
+                128,
+                66
+            ],
+            "answer": "Baritone",
+            "hint": "Largest member of the ukulele family"
+        },
+        "U": {
+            "cells": [
+                1,
+                67,
+                140,
+                167,
+                43,
+                153,
+                89,
+                29,
+                113
+            ],
+            "answer": "Lime twist",
+            "hint": "Garnish for a gin martini, maybe (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                3,
+                112,
+                172,
+                92,
+                135,
+                37,
+                75
+            ],
+            "answer": "Uncover",
+            "hint": "Reveal, expose"
+        },
+        "W": {
+            "cells": [
+                49,
+                76,
+                162,
+                110,
+                23,
+                150,
+                96,
+                123
+            ],
+            "answer": "Edginess",
+            "hint": "Envelope-pushing quality"
+        },
+        "X": {
+            "cells": [
+                84,
+                120,
+                22,
+                101,
+                45,
+                61,
+                141,
+                165
+            ],
+            "answer": "Swing set",
+            "hint": "Playground apparatus for a jazz combo to play on? (2 wds.)"
+        }
+    }
+}

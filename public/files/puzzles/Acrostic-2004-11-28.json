@@ -1,0 +1,365 @@
+{
+    "answer": "All my life I have had a recurrent... dream. I face a buffet or cafeteria line laden with beautiful foods. My anticipation is deliciously agonizing... I always wake up just as I\u2019ve made my selections but before I get to eat.",
+    "author": "Bobbie Ann Mason,",
+    "authorCell": [
+        160,
+        80,
+        39,
+        69,
+        10,
+        25,
+        16,
+        113,
+        117,
+        145,
+        85,
+        107,
+        105,
+        26,
+        36,
+        108,
+        14,
+        123,
+        29,
+        125,
+        91,
+        53,
+        94,
+        64,
+        167,
+        147
+    ],
+    "source": "Clear Springs",
+    "clues": {
+        "A": {
+            "cells": [
+                160,
+                142,
+                128,
+                9,
+                95,
+                41,
+                78
+            ],
+            "answer": "Bakeoff",
+            "hint": "Contest involving recipes (hyph.)"
+        },
+        "B": {
+            "cells": [
+                80,
+                5,
+                134,
+                67,
+                148,
+                19
+            ],
+            "answer": "Oyster",
+            "hint": "Something served at a bar"
+        },
+        "C": {
+            "cells": [
+                39,
+                116,
+                24,
+                146,
+                71,
+                96,
+                166
+            ],
+            "answer": "Biryani",
+            "hint": "Indian dish flavored with saffron or turmeric"
+        },
+        "D": {
+            "cells": [
+                69,
+                100,
+                173,
+                22,
+                132,
+                154,
+                121,
+                1,
+                54,
+                82
+            ],
+            "answer": "Beaujolais",
+            "hint": "Wine that\u2019s usually drunk within a few months of being made"
+        },
+        "E": {
+            "cells": [
+                10,
+                171,
+                143,
+                104,
+                58,
+                37
+            ],
+            "answer": "Iodine",
+            "hint": "Essential element obtained from seaweed"
+        },
+        "F": {
+            "cells": [
+                25,
+                4,
+                72,
+                101,
+                156,
+                88,
+                49,
+                124
+            ],
+            "answer": "Emulsify",
+            "hint": "Form a mixture like mayonnaise"
+        },
+        "G": {
+            "cells": [
+                16,
+                158,
+                77,
+                92,
+                57,
+                135
+            ],
+            "answer": "Au lait",
+            "hint": "How some coffee is served (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                113,
+                140,
+                93,
+                21,
+                127,
+                34,
+                172
+            ],
+            "answer": "Netcafe",
+            "hint": "Site offering Internet access and things to eat"
+        },
+        "I": {
+            "cells": [
+                117,
+                66,
+                47,
+                79,
+                138,
+                98,
+                20
+            ],
+            "answer": "Nicoise",
+            "hint": "Garnished with anchovies, tomatoes and black olives"
+        },
+        "J": {
+            "cells": [
+                145,
+                12,
+                33,
+                115,
+                63
+            ],
+            "answer": "Maize",
+            "hint": "Mesoamerican staple"
+        },
+        "K": {
+            "cells": [
+                85,
+                99,
+                28,
+                153,
+                73,
+                114,
+                13,
+                129
+            ],
+            "answer": "Additive",
+            "hint": "Extra ingredient for flavor or preservation"
+        },
+        "L": {
+            "cells": [
+                107,
+                11,
+                90,
+                23,
+                46,
+                161,
+                62
+            ],
+            "answer": "Shirred",
+            "hint": "Baked, as an egg in a dish"
+        },
+        "M": {
+            "cells": [
+                105,
+                86,
+                61,
+                17,
+                119,
+                43,
+                152
+            ],
+            "answer": "On a diet",
+            "hint": "Controlling one\u2019s intake (3 wds.)"
+        },
+        "N": {
+            "cells": [
+                26,
+                55,
+                169,
+                102,
+                139,
+                70
+            ],
+            "answer": "Native",
+            "hint": "What the potato is to Peru"
+        },
+        "O": {
+            "cells": [
+                36,
+                68,
+                168,
+                8,
+                137
+            ],
+            "answer": "Chefs",
+            "hint": "Word before salad or special"
+        },
+        "P": {
+            "cells": [
+                108,
+                59,
+                87,
+                44,
+                76,
+                151,
+                165
+            ],
+            "answer": "Lettuce",
+            "hint": "Bread, cabbage, kale"
+        },
+        "Q": {
+            "cells": [
+                14,
+                32,
+                131,
+                170,
+                84
+            ],
+            "answer": "Empty",
+            "hint": "In need of a meal"
+        },
+        "R": {
+            "cells": [
+                123,
+                149,
+                162,
+                31,
+                60,
+                42,
+                110
+            ],
+            "answer": "Alfalfa",
+            "hint": "Legume grown for forage"
+        },
+        "S": {
+            "cells": [
+                29,
+                130,
+                111,
+                150,
+                3,
+                48,
+                89,
+                15
+            ],
+            "answer": "Rugelach",
+            "hint": "Pastry made with a cream-cheese dough"
+        },
+        "T": {
+            "cells": [
+                125,
+                18,
+                174,
+                38,
+                109
+            ],
+            "answer": "Satay",
+            "hint": "Grilled meat dipped in peanut sauce"
+        },
+        "U": {
+            "cells": [
+                91,
+                144,
+                27,
+                7,
+                51,
+                75,
+                112,
+                40,
+                164
+            ],
+            "answer": "Petit four",
+            "hint": "Small decorated cake (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                53,
+                35,
+                81,
+                97,
+                120,
+                2
+            ],
+            "answer": "Radial",
+            "hint": "Like the symmetry of a sliced pizza"
+        },
+        "W": {
+            "cells": [
+                94,
+                103,
+                50,
+                122,
+                74,
+                155,
+                30
+            ],
+            "answer": "Ice wine",
+            "hint": "Dessert drink made from frozen ingredients (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                64,
+                133,
+                159,
+                141,
+                52,
+                118
+            ],
+            "answer": "Nutmeg",
+            "hint": "Ingredient in eggnog and many custards"
+        },
+        "Y": {
+            "cells": [
+                167,
+                106,
+                83,
+                157,
+                45
+            ],
+            "answer": "Gumbo",
+            "hint": "Thick soup made from green pods"
+        },
+        "Z": {
+            "cells": [
+                147,
+                126,
+                136,
+                56,
+                6,
+                163,
+                65
+            ],
+            "answer": "Swallow",
+            "hint": "Put in the breadbasket, so to speak"
+        }
+    }
+}

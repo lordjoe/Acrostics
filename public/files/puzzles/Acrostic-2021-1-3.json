@@ -1,0 +1,360 @@
+{
+    "answer": "As a child I had a tiger dream. ... [I]t was always the same. ... [A] tiger at the foot of my bed... sits on his haunches, sharpening his claws on my bedposts. ... [T]hen he... springs through the air... [J]ust before he lands on top of me, I wake up.",
+    "author": "(Mary) Morris,",
+    "authorCell": [
+        59,
+        57,
+        126,
+        136,
+        163,
+        64,
+        42,
+        30,
+        7,
+        131,
+        51,
+        46,
+        26,
+        1,
+        33,
+        109,
+        154,
+        56,
+        125,
+        116,
+        50,
+        135,
+        90,
+        52,
+        119,
+        34
+    ],
+    "source": "All the Way to the Tigers",
+    "clues": {
+        "A": {
+            "cells": [
+                59,
+                165,
+                105,
+                84,
+                128,
+                28,
+                5
+            ],
+            "answer": "Mad rush",
+            "hint": "Unplanned, headlong advance (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                57,
+                145,
+                32,
+                89,
+                129,
+                15,
+                110,
+                70
+            ],
+            "answer": "Orangish",
+            "hint": "In the neighborhood of red and yellow"
+        },
+        "C": {
+            "cells": [
+                126,
+                22,
+                45,
+                98
+            ],
+            "answer": "Rags",
+            "hint": "Toon companion of Crusader Rabbit"
+        },
+        "D": {
+            "cells": [
+                136,
+                167,
+                97,
+                24,
+                151,
+                8,
+                72
+            ],
+            "answer": "Rewinds",
+            "hint": "Sets things back?"
+        },
+        "E": {
+            "cells": [
+                163,
+                87,
+                63,
+                142,
+                121,
+                35,
+                2
+            ],
+            "answer": "Indents",
+            "hint": "Sets things right?"
+        },
+        "F": {
+            "cells": [
+                64,
+                77,
+                20,
+                39,
+                111,
+                94,
+                147
+            ],
+            "answer": "Scratch",
+            "hint": "Shot in pool that ends a player\u2019s turn"
+        },
+        "G": {
+            "cells": [
+                42,
+                101,
+                60,
+                4,
+                78,
+                138,
+                27
+            ],
+            "answer": "Amy Chua",
+            "hint": "Author of a popular and much-discussed 2011 book on mothering (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                30,
+                88,
+                53,
+                104,
+                127,
+                143,
+                158,
+                9
+            ],
+            "answer": "\"Life of Pi\"",
+            "hint": "Yann Martel novel and Ang Lee film (3 wds.)"
+        },
+        "I": {
+            "cells": [
+                7,
+                113,
+                160,
+                49,
+                65,
+                133,
+                81
+            ],
+            "answer": "Lefties",
+            "hint": "Minority to which Sandy Koufax belonged"
+        },
+        "J": {
+            "cells": [
+                131,
+                54,
+                155,
+                102
+            ],
+            "answer": "Tony",
+            "hint": "Breakfast cereal mascot since 1952"
+        },
+        "K": {
+            "cells": [
+                51,
+                157,
+                141,
+                103,
+                37,
+                80
+            ],
+            "answer": "Hobbes",
+            "hint": "Bill Watterson invention"
+        },
+        "L": {
+            "cells": [
+                46,
+                161,
+                85,
+                11,
+                66,
+                115
+            ],
+            "answer": "Empath",
+            "hint": "One sensitive to another\u2019s feelings"
+        },
+        "M": {
+            "cells": [
+                26,
+                99,
+                55,
+                12,
+                117
+            ],
+            "answer": "Woods",
+            "hint": "Five-time Masters champion"
+        },
+        "N": {
+            "cells": [
+                1,
+                23,
+                61,
+                75,
+                153,
+                132
+            ],
+            "answer": "Ambush",
+            "hint": "Pounce upon from hiding"
+        },
+        "O": {
+            "cells": [
+                33,
+                134,
+                164,
+                69,
+                92,
+                114,
+                16
+            ],
+            "answer": "Yawning",
+            "hint": "Wide open, cavernous"
+        },
+        "P": {
+            "cells": [
+                109,
+                79,
+                150,
+                38,
+                162,
+                124,
+                93
+            ],
+            "answer": "Tea sets",
+            "hint": "Afternoon services (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                154,
+                168,
+                25,
+                58,
+                71,
+                122,
+                10,
+                43
+            ],
+            "answer": "Outfight",
+            "hint": "Best in a brawl"
+        },
+        "R": {
+            "cells": [
+                56,
+                107,
+                18,
+                83,
+                36
+            ],
+            "answer": "Torah",
+            "hint": "Contents of a holy ark"
+        },
+        "S": {
+            "cells": [
+                125,
+                96,
+                76,
+                152,
+                139,
+                48,
+                31
+            ],
+            "answer": "Handsaw",
+            "hint": "Cutting-edge implement"
+        },
+        "T": {
+            "cells": [
+                116,
+                95,
+                44,
+                144,
+                156
+            ],
+            "answer": "Eliot",
+            "hint": "Poet who created Skimbleshanks"
+        },
+        "U": {
+            "cells": [
+                50,
+                159,
+                108,
+                67,
+                17,
+                123
+            ],
+            "answer": "Tosses",
+            "hint": "Has a fitful night\u2019s sleep"
+        },
+        "V": {
+            "cells": [
+                135,
+                40,
+                118,
+                86,
+                19,
+                148
+            ],
+            "answer": "Impede",
+            "hint": "Block, stymie, encumber"
+        },
+        "W": {
+            "cells": [
+                90,
+                41,
+                14,
+                130,
+                62,
+                149,
+                106
+            ],
+            "answer": "\"Get help\"",
+            "hint": "Stereotypical plea from Timmy to Lassie (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                52,
+                140,
+                82,
+                6,
+                68,
+                169,
+                120,
+                29
+            ],
+            "answer": "Ethiopia",
+            "hint": "World\u2019s most populous landlocked country"
+        },
+        "Y": {
+            "cells": [
+                119,
+                13,
+                137,
+                74,
+                91
+            ],
+            "answer": "Rajah",
+            "hint": "Faithful feline of Jasmine in \u201cAladdin\u201d"
+        },
+        "Z": {
+            "cells": [
+                34,
+                112,
+                146,
+                47,
+                21,
+                166,
+                73,
+                3,
+                100
+            ],
+            "answer": "Shere Khan",
+            "hint": "Villain voiced by Idris Elba in \u201cThe Jungle Book\u201d (2 wds.)"
+        }
+    }
+}

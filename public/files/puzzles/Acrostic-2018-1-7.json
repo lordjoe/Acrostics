@@ -1,0 +1,360 @@
+{
+    "answer": "Before the digital age, if you tuned your TV to somewhere between channels, it would show the faint hum of white noise or snow. One percent of that snow was actually made up of radiation left over by the big bang.",
+    "author": "(Zeeya) Merali,",
+    "authorCell": [
+        83,
+        151,
+        45,
+        142,
+        150,
+        164,
+        1,
+        147,
+        169,
+        163,
+        145,
+        103,
+        165,
+        78,
+        119,
+        125,
+        16,
+        88,
+        127,
+        73,
+        60,
+        9,
+        157,
+        96,
+        120,
+        133
+    ],
+    "source": "(A) Big Bang in a Little Room",
+    "clues": {
+        "A": {
+            "cells": [
+                83,
+                65,
+                11,
+                141,
+                46
+            ],
+            "answer": "Moire",
+            "hint": "Fabric with a rippled pattern"
+        },
+        "B": {
+            "cells": [
+                151,
+                68,
+                122,
+                20,
+                53,
+                166,
+                100,
+                4,
+                34,
+                81
+            ],
+            "answer": "Edwin Booth",
+            "hint": "Actor for whom a Shubert Alley theater is named (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                45,
+                92,
+                24,
+                114,
+                62,
+                149,
+                2
+            ],
+            "answer": "Routine",
+            "hint": "Oft-repeated performance"
+        },
+        "D": {
+            "cells": [
+                142,
+                42,
+                5,
+                22
+            ],
+            "answer": "Awry",
+            "hint": "Off-kilter, catawampus"
+        },
+        "E": {
+            "cells": [
+                150,
+                104,
+                56,
+                135,
+                76,
+                23,
+                37,
+                7
+            ],
+            "answer": "Leadfoot",
+            "hint": "Driver apt to be apprehended by a speed trap"
+        },
+        "F": {
+            "cells": [
+                164,
+                57,
+                77,
+                8,
+                137,
+                152,
+                113
+            ],
+            "answer": "In a huff",
+            "hint": "All bent out of shape (3 wds.)"
+        },
+        "G": {
+            "cells": [
+                1,
+                41,
+                129,
+                107,
+                161,
+                82,
+                18
+            ],
+            "answer": "Bear hug",
+            "hint": "Exhibit of jovial warmth (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                147,
+                35,
+                51,
+                118
+            ],
+            "answer": "Ives",
+            "hint": "Burly singer of folk songs"
+        },
+        "I": {
+            "cells": [
+                169,
+                15,
+                99,
+                134,
+                54,
+                115,
+                75
+            ],
+            "answer": "Ganache",
+            "hint": "Filling for some chocolate truffles"
+        },
+        "J": {
+            "cells": [
+                163,
+                130,
+                93,
+                79,
+                29,
+                61,
+                105,
+                148,
+                14
+            ],
+            "answer": "Blind spot",
+            "hint": "Danger for a driver while being passed (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                145,
+                3,
+                85,
+                116,
+                47,
+                131,
+                19
+            ],
+            "answer": "Affable",
+            "hint": "Good-natured, friendly"
+        },
+        "L": {
+            "cells": [
+                103,
+                28,
+                86,
+                64,
+                123,
+                155,
+                44
+            ],
+            "answer": "New wave",
+            "hint": "Style spurning tradition (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                165,
+                52,
+                97,
+                144,
+                25,
+                112,
+                67
+            ],
+            "answer": "Geritol",
+            "hint": "Supplement brand marketed to seniors"
+        },
+        "N": {
+            "cells": [
+                78,
+                58,
+                143,
+                30
+            ],
+            "answer": "Indy",
+            "hint": "Race whose winner is given a bottle of milk, informally"
+        },
+        "O": {
+            "cells": [
+                119,
+                13,
+                40,
+                158,
+                66,
+                94
+            ],
+            "answer": "Nimbus",
+            "hint": "Circle of light, halo"
+        },
+        "P": {
+            "cells": [
+                125,
+                12,
+                91,
+                162,
+                72
+            ],
+            "answer": "Agnew",
+            "hint": "Vice president who resigned in 1973"
+        },
+        "Q": {
+            "cells": [
+                16,
+                71,
+                124,
+                160,
+                49,
+                139,
+                32,
+                108,
+                87
+            ],
+            "answer": "Lost touch",
+            "hint": "Drifted apart, got disconnected (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                88,
+                146,
+                126,
+                74
+            ],
+            "answer": "Itch",
+            "hint": "React to urushiol or urticaria"
+        },
+        "S": {
+            "cells": [
+                127,
+                55,
+                109,
+                21,
+                36
+            ],
+            "answer": "Theft",
+            "hint": "Plagiarism or piracy"
+        },
+        "T": {
+            "cells": [
+                73,
+                101,
+                6,
+                48,
+                153,
+                132
+            ],
+            "answer": "Tweety",
+            "hint": "Canary who \u201ctaw a puddy tat\u201d"
+        },
+        "U": {
+            "cells": [
+                60,
+                31,
+                121,
+                89,
+                102,
+                138
+            ],
+            "answer": "Low-top",
+            "hint": "Not covering the ankle, as sneakers (hyph.)"
+        },
+        "V": {
+            "cells": [
+                9,
+                159,
+                136,
+                38,
+                70,
+                84,
+                111
+            ],
+            "answer": "Eyeshot",
+            "hint": "Field of vision, seeable range"
+        },
+        "W": {
+            "cells": [
+                157,
+                59,
+                90,
+                140,
+                106,
+                33
+            ],
+            "answer": "Reefer",
+            "hint": "\u201cStick of tea,\u201d to hepcats"
+        },
+        "X": {
+            "cells": [
+                96,
+                128,
+                63,
+                167,
+                110,
+                10,
+                39,
+                26,
+                80
+            ],
+            "answer": "Out-and-out",
+            "hint": "Unmitigated, thorough, utter (hyph.)"
+        },
+        "Y": {
+            "cells": [
+                120,
+                50,
+                156,
+                27,
+                98
+            ],
+            "answer": "Owens",
+            "hint": "River diverted to Los Angeles in 1913"
+        },
+        "Z": {
+            "cells": [
+                133,
+                17,
+                69,
+                43,
+                168,
+                154,
+                117,
+                95
+            ],
+            "answer": "Mash note",
+            "hint": "Love letter (2 wds.)"
+        }
+    }
+}

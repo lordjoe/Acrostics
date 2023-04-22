@@ -1,0 +1,344 @@
+{
+    "answer": "People misunderstand happiness. They think it\u2019s the absence of trouble.... Happiness is the ability to live well alongside trouble. No two people have the same trouble.... QED: No two happy people are happy in the same way.",
+    "author": "Rachel Kadish,",
+    "authorCell": [
+        14,
+        21,
+        49,
+        118,
+        59,
+        5,
+        37,
+        126,
+        12,
+        64,
+        27,
+        42,
+        81,
+        102,
+        58,
+        28,
+        141,
+        143,
+        162,
+        89,
+        8,
+        150,
+        138
+    ],
+    "source": "Tolstoy Lied",
+    "clues": {
+        "A": {
+            "cells": [
+                14,
+                173,
+                110,
+                61,
+                134,
+                149,
+                76,
+                48,
+                98,
+                35
+            ],
+            "answer": "Rawalpindi",
+            "hint": "Interim capital of Pakistan from 1959 to 1967"
+        },
+        "B": {
+            "cells": [
+                21,
+                33,
+                127,
+                3,
+                46,
+                161,
+                144,
+                113,
+                101,
+                86
+            ],
+            "answer": "Atmosphere",
+            "hint": "Unit of 14.7 pounds per square inch at sea level"
+        },
+        "C": {
+            "cells": [
+                49,
+                92,
+                163,
+                136,
+                10,
+                38,
+                68,
+                123
+            ],
+            "answer": "Cliquish",
+            "hint": "Socially exclusive, as a group"
+        },
+        "D": {
+            "cells": [
+                118,
+                148,
+                1,
+                65,
+                93,
+                29,
+                78,
+                168,
+                41
+            ],
+            "answer": "Hypnotist",
+            "hint": "Someone who may put you under"
+        },
+        "E": {
+            "cells": [
+                59,
+                83,
+                135,
+                115,
+                158,
+                169,
+                36,
+                100,
+                15
+            ],
+            "answer": "Elephants",
+            "hint": "Flat-footed trumpeters"
+        },
+        "F": {
+            "cells": [
+                5,
+                73,
+                87,
+                24,
+                125,
+                39,
+                151,
+                107
+            ],
+            "answer": "Lewiston",
+            "hint": "Maine city that is home to Bates College"
+        },
+        "G": {
+            "cells": [
+                37,
+                155,
+                18,
+                174,
+                117,
+                142,
+                99,
+                67,
+                79
+            ],
+            "answer": "Kanye West",
+            "hint": "\u201cMy Beautiful Dark Twisted Fantasy\u201d rapper (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                126,
+                112,
+                166,
+                2,
+                77,
+                97,
+                55,
+                25
+            ],
+            "answer": "Aphelion",
+            "hint": "Orbital point farthest from the sun"
+        },
+        "I": {
+            "cells": [
+                12,
+                50,
+                128,
+                152,
+                70,
+                88,
+                109
+            ],
+            "answer": "Deep-set",
+            "hint": "Placed far in (hyph.)"
+        },
+        "J": {
+            "cells": [
+                64,
+                94,
+                11,
+                44,
+                122,
+                31
+            ],
+            "answer": "Innate",
+            "hint": "Unconditioned; present from birth"
+        },
+        "K": {
+            "cells": [
+                27,
+                114,
+                159,
+                147,
+                45,
+                103,
+                57,
+                133,
+                90,
+                171
+            ],
+            "answer": "Soap bubble",
+            "hint": "Candidate for a pop phenomenon? (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                42,
+                154,
+                17,
+                85,
+                167,
+                139
+            ],
+            "answer": "Heaven",
+            "hint": "\u201cKnowledge is the wing wherewith we fly to ___\u201d (Shak.)"
+        },
+        "M": {
+            "cells": [
+                81,
+                34,
+                132,
+                170,
+                104,
+                9
+            ],
+            "answer": "Thumbs",
+            "hint": "Things useful in making snaps"
+        },
+        "N": {
+            "cells": [
+                102,
+                63,
+                160,
+                131,
+                40,
+                145,
+                75,
+                116,
+                13
+            ],
+            "answer": "Opposable",
+            "hint": "Adjective often applied to Answer M."
+        },
+        "O": {
+            "cells": [
+                58,
+                43,
+                16,
+                30,
+                124
+            ],
+            "answer": "Lethe",
+            "hint": "Current in the underworld"
+        },
+        "P": {
+            "cells": [
+                28,
+                71,
+                111,
+                4,
+                153,
+                84,
+                95,
+                60,
+                129
+            ],
+            "answer": "Stoplight",
+            "hint": "Traffic controller dating to 1868 in London"
+        },
+        "Q": {
+            "cells": [
+                141,
+                72,
+                26,
+                52,
+                165
+            ],
+            "answer": "Theft",
+            "hint": "Taking things the wrong way?"
+        },
+        "R": {
+            "cells": [
+                143,
+                62,
+                156,
+                119,
+                20
+            ],
+            "answer": "Oprah",
+            "hint": "First name at Harpo Productions"
+        },
+        "S": {
+            "cells": [
+                162,
+                82,
+                96,
+                121,
+                7,
+                69,
+                53,
+                137
+            ],
+            "answer": "Yosemite",
+            "hint": "Where to find Tuolumne Meadows"
+        },
+        "T": {
+            "cells": [
+                89,
+                51,
+                120,
+                6,
+                74,
+                22,
+                146,
+                105,
+                157
+            ],
+            "answer": "Love apple",
+            "hint": "Old moniker for a tomato (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                8,
+                54,
+                140,
+                164
+            ],
+            "answer": "Iron",
+            "hint": "Smoother in housework"
+        },
+        "V": {
+            "cells": [
+                150,
+                56,
+                130,
+                108,
+                23,
+                91
+            ],
+            "answer": "Europa",
+            "hint": "Abductee painted by Titian and Boucher"
+        },
+        "W": {
+            "cells": [
+                138,
+                47,
+                172,
+                32,
+                66,
+                80,
+                106,
+                19
+            ],
+            "answer": "Dewy-eyed",
+            "hint": "Naive, innocent, too trusting (hyph.)"
+        }
+    }
+}

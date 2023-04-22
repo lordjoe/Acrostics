@@ -1,0 +1,360 @@
+{
+    "answer": "Dogs wave tails... in several indicative ways. There is the wide sweep of expectancy, or the more vigorous movement of greeting. Or, tail under tummy, a subterranean waggle which can be pleasure tinged with guilt or fear.",
+    "author": "Elma Williams,",
+    "authorCell": [
+        88,
+        149,
+        73,
+        6,
+        132,
+        48,
+        136,
+        108,
+        30,
+        28,
+        85,
+        43,
+        148,
+        119,
+        131,
+        170,
+        159,
+        22,
+        144,
+        120,
+        36,
+        37,
+        80,
+        75,
+        35
+    ],
+    "source": "(The) Pant Glas Story",
+    "clues": {
+        "A": {
+            "cells": [
+                88,
+                67,
+                174,
+                156,
+                17,
+                50,
+                114,
+                142
+            ],
+            "answer": "Eyeteeth",
+            "hint": "Top-level canines"
+        },
+        "B": {
+            "cells": [
+                149,
+                175,
+                51,
+                13,
+                26,
+                137
+            ],
+            "answer": "Lassie",
+            "hint": "TV role for eight generations of one acting family"
+        },
+        "C": {
+            "cells": [
+                73,
+                61,
+                9,
+                40,
+                171,
+                24,
+                93,
+                116,
+                155
+            ],
+            "answer": "Metronome",
+            "hint": "1812 invention featuring a pendulum"
+        },
+        "D": {
+            "cells": [
+                6,
+                94,
+                135,
+                71,
+                34,
+                158
+            ],
+            "answer": "Afghan",
+            "hint": "Swift hunter or colorful cover"
+        },
+        "E": {
+            "cells": [
+                132,
+                68,
+                86,
+                57
+            ],
+            "answer": "Woof",
+            "hint": "Yarn used in weaving; bark"
+        },
+        "F": {
+            "cells": [
+                48,
+                87,
+                127,
+                101,
+                60,
+                151,
+                31,
+                169,
+                74,
+                7
+            ],
+            "answer": "Ivan Pavlov",
+            "hint": "Nobel scientist with canine experiments (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                136,
+                11,
+                164,
+                29,
+                72,
+                96
+            ],
+            "answer": "Litter",
+            "hint": "Stuff to be picked up; group from which to make a pick?"
+        },
+        "H": {
+            "cells": [
+                108,
+                42,
+                18,
+                124,
+                154,
+                138,
+                83,
+                172,
+                4,
+                63
+            ],
+            "answer": "Liverwurst",
+            "hint": "Wrapping that may make a pill more palatable to a canine"
+        },
+        "I": {
+            "cells": [
+                30,
+                128,
+                166,
+                90
+            ],
+            "answer": "Inge",
+            "hint": "\u201cCome Back, Little Sheba\u201d author"
+        },
+        "J": {
+            "cells": [
+                28,
+                78,
+                176,
+                147,
+                111,
+                64,
+                12,
+                98
+            ],
+            "answer": "Airedale",
+            "hint": "Valley around Leeds, England"
+        },
+        "K": {
+            "cells": [
+                85,
+                160,
+                59,
+                140,
+                27,
+                106,
+                15
+            ],
+            "answer": "Mexican",
+            "hint": "Like the hairless breed Xoloitzcuintli"
+        },
+        "L": {
+            "cells": [
+                43,
+                165,
+                10,
+                95,
+                134,
+                118
+            ],
+            "answer": "Shaggy",
+            "hint": "Human pal of Scooby-Doo"
+        },
+        "M": {
+            "cells": [
+                148,
+                97,
+                112,
+                33,
+                76,
+                129
+            ],
+            "answer": "Peewee",
+            "hint": "Half-pint, runt, miniature"
+        },
+        "N": {
+            "cells": [
+                119,
+                1,
+                77,
+                58,
+                145,
+                99,
+                167,
+                20,
+                46
+            ],
+            "answer": "Adventure",
+            "hint": "\u201cThe Call of the Wild\u201d genre"
+        },
+        "O": {
+            "cells": [
+                131,
+                82,
+                113,
+                162,
+                23,
+                62,
+                45
+            ],
+            "answer": "Norwich",
+            "hint": "Ratter from East Anglia, for short"
+        },
+        "P": {
+            "cells": [
+                170,
+                69,
+                121,
+                152,
+                92,
+                53,
+                25
+            ],
+            "answer": "Trusted",
+            "hint": "Regarded as a faithful friend"
+        },
+        "Q": {
+            "cells": [
+                159,
+                107,
+                133,
+                91,
+                70
+            ],
+            "answer": "Giant",
+            "hint": "Like an Irish wolfhound or St. Bernard"
+        },
+        "R": {
+            "cells": [
+                22,
+                163,
+                102,
+                38,
+                123,
+                146,
+                81,
+                2,
+                47,
+                65
+            ],
+            "answer": "Light brown",
+            "hint": "Shade of a beagle\u2019s ears, often (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                144,
+                126,
+                3,
+                109,
+                84
+            ],
+            "answer": "Argus",
+            "hint": "First character to recognize Odysseus upon his return"
+        },
+        "T": {
+            "cells": [
+                120,
+                141,
+                56,
+                105,
+                44,
+                157,
+                32
+            ],
+            "answer": "Scottie",
+            "hint": "Four-legged Monopoly token"
+        },
+        "U": {
+            "cells": [
+                36,
+                139,
+                168,
+                89,
+                117,
+                14,
+                150,
+                49
+            ],
+            "answer": "Shimmied",
+            "hint": "Shook, trembled, vibrated"
+        },
+        "V": {
+            "cells": [
+                37,
+                153,
+                79,
+                103,
+                173,
+                52,
+                21,
+                125
+            ],
+            "answer": "Tug of war",
+            "hint": "Playful struggle for dominance (3 wds.)"
+        },
+        "W": {
+            "cells": [
+                80,
+                122,
+                39,
+                161,
+                100,
+                8,
+                110,
+                66,
+                19
+            ],
+            "answer": "Obedience",
+            "hint": "Kind of school where students may learn to beg"
+        },
+        "X": {
+            "cells": [
+                75,
+                41,
+                16,
+                143,
+                115,
+                54,
+                104
+            ],
+            "answer": "Rescuer",
+            "hint": "St. Bernard\u2019s job description?"
+        },
+        "Y": {
+            "cells": [
+                35,
+                130,
+                5,
+                55
+            ],
+            "answer": "Yawp",
+            "hint": "Cry of complaint from a pound"
+        }
+    }
+}

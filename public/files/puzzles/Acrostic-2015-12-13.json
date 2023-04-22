@@ -1,0 +1,358 @@
+{
+    "answer": "[W]ords can... display various types of geometrical symmetry. ... One day in a supermarket my sister was puzzled by the name on a box of crackers, \u201cspep oop,\u201d until she realized that a box of \u201cdoo dads\u201d was on the shelf upside down.",
+    "author": "Martin Gardner,",
+    "authorCell": [
+        30,
+        78,
+        62,
+        169,
+        174,
+        91,
+        127,
+        35,
+        161,
+        114,
+        123,
+        7,
+        167,
+        135,
+        65,
+        26,
+        38,
+        76,
+        45,
+        14,
+        68,
+        72,
+        116,
+        97,
+        58
+    ],
+    "source": "The Last Recreations",
+    "clues": {
+        "A": {
+            "cells": [
+                30,
+                165,
+                54,
+                144,
+                129,
+                77,
+                108,
+                95,
+                11
+            ],
+            "answer": "Guy Fawkes",
+            "hint": "Plotter linked with November 5 (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                78,
+                130,
+                111,
+                96,
+                18,
+                149,
+                56
+            ],
+            "answer": "Also-ran",
+            "hint": "Failure at the polls (hyph.)"
+        },
+        "C": {
+            "cells": [
+                62,
+                125,
+                98,
+                80,
+                22,
+                141,
+                171,
+                48
+            ],
+            "answer": "Rhapsody",
+            "hint": "Big name in music streaming"
+        },
+        "D": {
+            "cells": [
+                169,
+                51,
+                29,
+                105,
+                146,
+                6,
+                66
+            ],
+            "answer": "Defrock",
+            "hint": "Boot from an order, maybe"
+        },
+        "E": {
+            "cells": [
+                174,
+                17,
+                121,
+                104,
+                158,
+                31,
+                83
+            ],
+            "answer": "Natchez",
+            "hint": "First capital of Mississippi"
+        },
+        "F": {
+            "cells": [
+                91,
+                69,
+                140,
+                153,
+                112,
+                27,
+                42
+            ],
+            "answer": "Embassy",
+            "hint": "Iran hostage crisis locale"
+        },
+        "G": {
+            "cells": [
+                127,
+                109,
+                16,
+                93,
+                43,
+                60,
+                162,
+                150
+            ],
+            "answer": "Revamped",
+            "hint": "Overhauled, given a face-lift"
+        },
+        "H": {
+            "cells": [
+                35,
+                57,
+                86,
+                115,
+                155,
+                13,
+                128
+            ],
+            "answer": "Tadpole",
+            "hint": "Temporary owner of a tail"
+        },
+        "I": {
+            "cells": [
+                161,
+                137,
+                84,
+                103,
+                1,
+                39,
+                70
+            ],
+            "answer": "Halfway",
+            "hint": "Compromising position?"
+        },
+        "J": {
+            "cells": [
+                114,
+                101,
+                20,
+                134,
+                59,
+                41
+            ],
+            "answer": "\"Exodus\"",
+            "hint": "1960 film based on a Leon Uris novel"
+        },
+        "K": {
+            "cells": [
+                123,
+                67,
+                138,
+                154,
+                40,
+                168,
+                12
+            ],
+            "answer": "Let slip",
+            "hint": "Revealed, as a secret (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                7,
+                99,
+                24,
+                151,
+                71
+            ],
+            "answer": "Abyss",
+            "hint": "Unfathomable depth"
+        },
+        "M": {
+            "cells": [
+                167,
+                74,
+                133,
+                53,
+                33,
+                19,
+                3,
+                117,
+                92
+            ],
+            "answer": "Steam iron",
+            "hint": "Wrinkle removal tool (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                135,
+                119,
+                164,
+                23,
+                73
+            ],
+            "answer": "Tufts",
+            "hint": "School whose mascot is Jumbo the elephant"
+        },
+        "O": {
+            "cells": [
+                65,
+                34,
+                79,
+                166,
+                102,
+                120,
+                145
+            ],
+            "answer": "Respond",
+            "hint": "Come back, give feedback"
+        },
+        "P": {
+            "cells": [
+                26,
+                81,
+                47,
+                143,
+                113,
+                64
+            ],
+            "answer": "Europa",
+            "hint": "Ice-coated moon of Jupiter"
+        },
+        "Q": {
+            "cells": [
+                38,
+                90,
+                55,
+                163,
+                122,
+                5,
+                139,
+                21,
+                107,
+                75
+            ],
+            "answer": "Chili sauce",
+            "hint": "Sriracha, for one (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                76,
+                126,
+                89,
+                10,
+                50,
+                106
+            ],
+            "answer": "Retina",
+            "hint": "Target of some biometric scans"
+        },
+        "S": {
+            "cells": [
+                45,
+                94,
+                118,
+                157,
+                15
+            ],
+            "answer": "Empty",
+            "hint": "Item for the recycling bin"
+        },
+        "T": {
+            "cells": [
+                14,
+                63,
+                49,
+                160,
+                28,
+                82
+            ],
+            "answer": "Amos Oz",
+            "hint": "Writer whose career began in a kibbutz (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                68,
+                136,
+                36,
+                170,
+                156,
+                100,
+                9,
+                88
+            ],
+            "answer": "Threnody",
+            "hint": "Lament; song of mourning"
+        },
+        "V": {
+            "cells": [
+                72,
+                147,
+                4,
+                37,
+                132,
+                159,
+                52
+            ],
+            "answer": "Iodized",
+            "hint": "Treated with an anti-goiter agent"
+        },
+        "W": {
+            "cells": [
+                116,
+                142,
+                87,
+                32,
+                173
+            ],
+            "answer": "Oxbow",
+            "hint": "Meander in a river"
+        },
+        "X": {
+            "cells": [
+                97,
+                61,
+                152,
+                124,
+                110,
+                172,
+                2,
+                44
+            ],
+            "answer": "Newsroom",
+            "hint": "Setting for \u201cHis Girl Friday\u201d or \u201cAnchorman\u201d"
+        },
+        "Y": {
+            "cells": [
+                58,
+                46,
+                131,
+                25,
+                85,
+                8,
+                148
+            ],
+            "answer": "Stipend",
+            "hint": "Apprenticeship perk"
+        }
+    }
+}

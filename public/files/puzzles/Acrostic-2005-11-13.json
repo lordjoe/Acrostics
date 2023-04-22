@@ -1,0 +1,356 @@
+{
+    "answer": "For a(ny)... true stickler, the sight of the plural word Book\u2019s with an apostrophe in it will trigger a ghastly private emotional process similar to... bereavement. ... Shock gives way to disbelief, disbelief to pain, and pain to anger.",
+    "author": "(Lynne) Truss,",
+    "authorCell": [
+        126,
+        179,
+        32,
+        144,
+        107,
+        15,
+        51,
+        64,
+        136,
+        105,
+        59,
+        115,
+        161,
+        140,
+        127,
+        163,
+        172,
+        151,
+        147,
+        117,
+        170,
+        87,
+        124,
+        54
+    ],
+    "source": "Eats, Shoots and Leaves",
+    "clues": {
+        "A": {
+            "cells": [
+                126,
+                53,
+                145,
+                174,
+                156,
+                39,
+                14,
+                83,
+                72,
+                96
+            ],
+            "answer": "To boldly go",
+            "hint": "Split infinitive from \u201cStar Trek\u201d (3 wds.)"
+        },
+        "B": {
+            "cells": [
+                179,
+                60,
+                30,
+                146,
+                94,
+                164,
+                10,
+                108,
+                121,
+                74
+            ],
+            "answer": "Repetitive",
+            "hint": "Characterized by tautology"
+        },
+        "C": {
+            "cells": [
+                32,
+                89,
+                17,
+                122,
+                56,
+                76,
+                176,
+                103,
+                158
+            ],
+            "answer": "Utterance",
+            "hint": "Any expression coming out of your mouth"
+        },
+        "D": {
+            "cells": [
+                144,
+                46,
+                116,
+                66,
+                35,
+                79,
+                165,
+                12,
+                104
+            ],
+            "answer": "Sibilance",
+            "hint": "Quality of \u201cMississippi\u201d"
+        },
+        "E": {
+            "cells": [
+                107,
+                63,
+                132,
+                50,
+                2,
+                150,
+                26
+            ],
+            "answer": "Sign off",
+            "hint": "Announce the cessation of a broadcast (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                15,
+                154,
+                36,
+                48,
+                133,
+                114,
+                91
+            ],
+            "answer": "E.B. White",
+            "hint": "Reviser of Strunk\u2019s The Elements of Style (3 wds.)"
+        },
+        "G": {
+            "cells": [
+                51,
+                168,
+                134,
+                119,
+                101,
+                40,
+                9
+            ],
+            "answer": "Adverbs",
+            "hint": "Qualifiers of clauses"
+        },
+        "H": {
+            "cells": [
+                64,
+                3,
+                88,
+                44,
+                28
+            ],
+            "answer": "Trash",
+            "hint": "Contents of an iconic Macintosh computer can"
+        },
+        "I": {
+            "cells": [
+                136,
+                18,
+                93,
+                33,
+                160,
+                49
+            ],
+            "answer": "Short a",
+            "hint": "One of two in \u201cPac-Man\u201d (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                105,
+                58,
+                148,
+                118,
+                71,
+                27,
+                80
+            ],
+            "answer": "Spirits",
+            "hint": "Invitees to a seance?"
+        },
+        "K": {
+            "cells": [
+                59,
+                102,
+                69,
+                84,
+                141,
+                173,
+                120,
+                24,
+                41
+            ],
+            "answer": "Hot potato",
+            "hint": "Risky matter to handle (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                115,
+                62,
+                135,
+                21,
+                99,
+                82
+            ],
+            "answer": "O\u2019Neill",
+            "hint": "Playwright who said of critics \u201cI love every bone in their heads\u201d"
+        },
+        "M": {
+            "cells": [
+                161,
+                113,
+                137,
+                8,
+                31,
+                67
+            ],
+            "answer": "Orwell",
+            "hint": "British author who coined the term \u201ccold war\u201d"
+        },
+        "N": {
+            "cells": [
+                140,
+                166,
+                61,
+                111,
+                25,
+                38
+            ],
+            "answer": "Tailor",
+            "hint": "One skilled in alterations"
+        },
+        "O": {
+            "cells": [
+                127,
+                68,
+                4,
+                81,
+                149
+            ],
+            "answer": "\u201cSlate\u201d",
+            "hint": "Online magazine whose founding editor was Michael Kinsley"
+        },
+        "P": {
+            "cells": [
+                163,
+                65,
+                13,
+                45,
+                175,
+                85,
+                142
+            ],
+            "answer": "Awkward",
+            "hint": "Like phrasing that goes clunk"
+        },
+        "Q": {
+            "cells": [
+                172,
+                143,
+                55,
+                100,
+                157,
+                130,
+                43,
+                90,
+                6
+            ],
+            "answer": "Nitpicker",
+            "hint": "Quibbler; grammatical fault-finder"
+        },
+        "R": {
+            "cells": [
+                151,
+                171,
+                57,
+                75,
+                34,
+                123,
+                98
+            ],
+            "answer": "Diorama",
+            "hint": "Three-dimensional replica of a scene"
+        },
+        "S": {
+            "cells": [
+                147,
+                110,
+                125,
+                177,
+                7,
+                86,
+                20,
+                47
+            ],
+            "answer": "Linguist",
+            "hint": "Expert on words and grammar"
+        },
+        "T": {
+            "cells": [
+                117,
+                138,
+                16,
+                169,
+                78,
+                42,
+                97,
+                29,
+                153
+            ],
+            "answer": "Earphones",
+            "hint": "Receivers of aural signals"
+        },
+        "U": {
+            "cells": [
+                170,
+                52,
+                129,
+                5,
+                23,
+                155,
+                77,
+                109
+            ],
+            "answer": "Apothegm",
+            "hint": "Aphorism, maxim, adage"
+        },
+        "V": {
+            "cells": [
+                87,
+                11,
+                131,
+                152,
+                167,
+                73,
+                106
+            ],
+            "answer": "Vikings",
+            "hint": "10th-century warriors who spoke Old Norse"
+        },
+        "W": {
+            "cells": [
+                124,
+                1,
+                159,
+                95,
+                22,
+                139
+            ],
+            "answer": "Effigy",
+            "hint": "Likeness of a reviled person"
+        },
+        "X": {
+            "cells": [
+                54,
+                178,
+                92,
+                112,
+                162,
+                128,
+                37,
+                70,
+                19
+            ],
+            "answer": "Semaphore",
+            "hint": "Communication that involves a lot of arm-waving"
+        }
+    }
+}

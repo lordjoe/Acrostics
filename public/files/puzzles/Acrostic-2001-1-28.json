@@ -1,0 +1,338 @@
+{
+    "answer": "The average English speaker confronted with agglomerations of letters like tchst, sthm, and tchph would... conclude that they were... unpronounceable. Yet we use them every day in the words matchstick, asthma, and catchphrase.",
+    "author": "(Bill) Bryson,",
+    "authorCell": [
+        120,
+        179,
+        142,
+        181,
+        114,
+        116,
+        1,
+        101,
+        3,
+        134,
+        112,
+        78,
+        132,
+        182,
+        111,
+        99,
+        89,
+        109,
+        41,
+        115,
+        118
+    ],
+    "source": "The Mother Tongue",
+    "clues": {
+        "A": {
+            "cells": [
+                120,
+                102,
+                90,
+                133,
+                28,
+                36,
+                161,
+                65
+            ],
+            "answer": "Benefice",
+            "hint": "Source of revenue for an ecclesiastic"
+        },
+        "B": {
+            "cells": [
+                179,
+                124,
+                171,
+                77,
+                35,
+                21,
+                138,
+                54
+            ],
+            "answer": "\u201cRed Dwarf\u201d",
+            "hint": "Faint star with a diameter about half that of the sun (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                142,
+                50,
+                16,
+                130,
+                74,
+                160,
+                174,
+                147
+            ],
+            "answer": "Yosemite",
+            "hint": "National Park since 1890"
+        },
+        "D": {
+            "cells": [
+                181,
+                85,
+                106,
+                13,
+                122,
+                53,
+                144
+            ],
+            "answer": "Surgeon",
+            "hint": "Hippocrates or Galen, e.g."
+        },
+        "E": {
+            "cells": [
+                114,
+                172,
+                146,
+                42,
+                26,
+                88,
+                60,
+                8,
+                67,
+                103
+            ],
+            "answer": "Ochlocracy",
+            "hint": "Mob rule"
+        },
+        "F": {
+            "cells": [
+                116,
+                63,
+                40,
+                80,
+                155,
+                30,
+                126,
+                14
+            ],
+            "answer": "Night owl",
+            "hint": "Lucubratory sort (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                1,
+                68,
+                98,
+                113,
+                22,
+                86,
+                105,
+                164,
+                152
+            ],
+            "answer": "Thankless",
+            "hint": "\u201cHow sharper than a serpent\u2019s tooth it is to have a ___ child!\u201d (\u201cKing Lear\u201d)"
+        },
+        "H": {
+            "cells": [
+                101,
+                119,
+                46,
+                5,
+                20,
+                71,
+                58,
+                153,
+                141,
+                31
+            ],
+            "answer": "Harvestman",
+            "hint": "Daddy-longlegs"
+        },
+        "I": {
+            "cells": [
+                3,
+                44,
+                110,
+                72,
+                139,
+                17,
+                173,
+                27,
+                94,
+                56,
+                151
+            ],
+            "answer": "Empty-handed",
+            "hint": "Unsuccessful; failing to make a donation (hyph.)"
+        },
+        "J": {
+            "cells": [
+                134,
+                45,
+                145,
+                166,
+                108,
+                18,
+                95,
+                62,
+                75,
+                178
+            ],
+            "answer": "Methuselah",
+            "hint": "Bottle holding six liters of champagne"
+        },
+        "K": {
+            "cells": [
+                112,
+                81,
+                97,
+                32,
+                2,
+                39,
+                55,
+                167,
+                143,
+                156
+            ],
+            "answer": "Ophthalmic",
+            "hint": "Eye-related"
+        },
+        "L": {
+            "cells": [
+                78,
+                157,
+                128,
+                9
+            ],
+            "answer": "Thug",
+            "hint": "Ugly customer, goon"
+        },
+        "M": {
+            "cells": [
+                132,
+                154,
+                96,
+                37,
+                7,
+                49,
+                175,
+                64
+            ],
+            "answer": "Hat trick",
+            "hint": "Admirable feat in cricket (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                182,
+                52,
+                117,
+                93,
+                131,
+                25,
+                73,
+                11,
+                149,
+                170
+            ],
+            "answer": "Escutcheon",
+            "hint": "Shield bearing a coat of arms"
+        },
+        "O": {
+            "cells": [
+                111,
+                47,
+                91,
+                162,
+                23,
+                125,
+                59,
+                6,
+                29
+            ],
+            "answer": "Racketeer",
+            "hint": "Engage in illegal business activities"
+        },
+        "P": {
+            "cells": [
+                99,
+                135,
+                121,
+                107,
+                19,
+                169,
+                159,
+                82,
+                123
+            ],
+            "answer": "Telepathy",
+            "hint": "Medium\u2019s medium, ostensibly"
+        },
+        "Q": {
+            "cells": [
+                89,
+                158,
+                100,
+                150,
+                15,
+                79,
+                38
+            ],
+            "answer": "Ostrich",
+            "hint": "Bird whose eggs are incubated by males at night and females by day"
+        },
+        "R": {
+            "cells": [
+                109,
+                137,
+                83,
+                129,
+                61,
+                70,
+                168,
+                51,
+                34
+            ],
+            "answer": "Newsstand",
+            "hint": "Vending place for mass-market publications"
+        },
+        "S": {
+            "cells": [
+                41,
+                180,
+                136,
+                84,
+                66,
+                165,
+                127
+            ],
+            "answer": "Gavotte",
+            "hint": "Lively peasant dance introduced in the court of Louis XIV"
+        },
+        "T": {
+            "cells": [
+                115,
+                177,
+                4,
+                76,
+                87,
+                140,
+                43,
+                104,
+                12
+            ],
+            "answer": "Up-and-down",
+            "hint": "Moody; perpendicular (hyph.)"
+        },
+        "U": {
+            "cells": [
+                118,
+                48,
+                176,
+                33,
+                92,
+                148,
+                163,
+                57,
+                10,
+                24,
+                69
+            ],
+            "answer": "Ethel Waters",
+            "hint": "Blues singer known for her treatment of \u201cStormy Weather\u201d (2 wds.)"
+        }
+    }
+}

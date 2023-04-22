@@ -1,0 +1,366 @@
+{
+    "answer": "An angel [with] no more power weight for weight than... an eagle... would require a breast projecting four feet to house the muscles... in... its wings, while to economize in weight, its legs would have to be reduced to mere stilts.",
+    "author": "(J.B.S.) Haldane,",
+    "authorCell": [
+        39,
+        3,
+        7,
+        53,
+        40,
+        123,
+        120,
+        122,
+        43,
+        62,
+        117,
+        34,
+        2,
+        77,
+        37,
+        149,
+        84,
+        81,
+        58,
+        111,
+        88,
+        93,
+        66,
+        105,
+        127,
+        169
+    ],
+    "source": "On Being The Right Size",
+    "clues": {
+        "A": {
+            "cells": [
+                39,
+                61,
+                140,
+                87
+            ],
+            "answer": "Halo",
+            "hint": "Dim region around a galaxy; nimbus"
+        },
+        "B": {
+            "cells": [
+                3,
+                69,
+                14,
+                131,
+                157,
+                101,
+                170,
+                38,
+                116,
+                60
+            ],
+            "answer": "Arm-wrestle",
+            "hint": "Compete in a show of strength (hyph.)"
+        },
+        "C": {
+            "cells": [
+                7,
+                72,
+                139,
+                164,
+                95,
+                31
+            ],
+            "answer": "Lester",
+            "hint": "___ Burnham, Kevin Spacey\u2019s character in \u201cAmerican Beauty\u201d"
+        },
+        "D": {
+            "cells": [
+                53,
+                13,
+                86,
+                99,
+                124,
+                166
+            ],
+            "answer": "Dot com",
+            "hint": "Business on the Web (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                40,
+                153,
+                49,
+                15,
+                168,
+                112,
+                67
+            ],
+            "answer": "At worst",
+            "hint": "In the most pessimistic case (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                123,
+                75,
+                161,
+                27,
+                136,
+                108,
+                45,
+                36,
+                59
+            ],
+            "answer": "Nicht wahr",
+            "hint": "\u201cIsn\u2019t that so?\u201d (Ger., 2 wds.)"
+        },
+        "G": {
+            "cells": [
+                120,
+                4,
+                74,
+                22,
+                132,
+                104,
+                50,
+                160,
+                91
+            ],
+            "answer": "Entre nous",
+            "hint": "Confidentially (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                122,
+                71,
+                103,
+                155,
+                8,
+                42
+            ],
+            "answer": "Ojibwa",
+            "hint": "Hiawatha\u2019s tribe in Longfellow\u2019s poem"
+        },
+        "I": {
+            "cells": [
+                43,
+                21,
+                129,
+                142,
+                94
+            ],
+            "answer": "Neigh",
+            "hint": "Pronouncement in a horse voice"
+        },
+        "J": {
+            "cells": [
+                62,
+                79,
+                113,
+                143,
+                154,
+                57,
+                28
+            ],
+            "answer": "Bows out",
+            "hint": "Retires formally, as from competition (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                117,
+                151,
+                83,
+                12,
+                130,
+                165,
+                32
+            ],
+            "answer": "Even now",
+            "hint": "\u201cAs we speak\u201d (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                34,
+                174,
+                98,
+                64,
+                52,
+                78
+            ],
+            "answer": "Itself",
+            "hint": "\u201cArt never expresses anything but ___\u201d (Oscar Wilde)"
+        },
+        "M": {
+            "cells": [
+                2,
+                19,
+                54,
+                144,
+                162,
+                134,
+                109,
+                65,
+                41
+            ],
+            "answer": "Norwegian",
+            "hint": "From Narvik, Larvik or Skien"
+        },
+        "N": {
+            "cells": [
+                77,
+                146,
+                175,
+                107,
+                128,
+                10
+            ],
+            "answer": "Gusset",
+            "hint": "Insert sewn into a garment for expansion or reinforcement"
+        },
+        "O": {
+            "cells": [
+                37,
+                156,
+                85,
+                114,
+                48,
+                16
+            ],
+            "answer": "Tether",
+            "hint": "Restraint giving an animal a short radius of freedom"
+        },
+        "P": {
+            "cells": [
+                149,
+                70,
+                26,
+                106,
+                172,
+                44
+            ],
+            "answer": "Hogtie",
+            "hint": "Bind, as in a rodeo"
+        },
+        "Q": {
+            "cells": [
+                84,
+                126,
+                102,
+                158,
+                110,
+                135,
+                145,
+                23,
+                55,
+                63
+            ],
+            "answer": "Eisenhower",
+            "hint": "General who coined the term \u201cmilitary-industrial complex\u201d"
+        },
+        "R": {
+            "cells": [
+                81,
+                17,
+                35,
+                115,
+                96,
+                141
+            ],
+            "answer": "Regime",
+            "hint": "Pejorative for a government in power"
+        },
+        "S": {
+            "cells": [
+                58,
+                100,
+                173,
+                20,
+                133,
+                147,
+                47
+            ],
+            "answer": "Ill will",
+            "hint": "The opposite of benevolence (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                111,
+                30,
+                92,
+                138,
+                11,
+                152
+            ],
+            "answer": "Goethe",
+            "hint": "Author of \u201cThe Sorrows of Young Werther\u201d"
+        },
+        "U": {
+            "cells": [
+                88,
+                25,
+                159,
+                148,
+                6,
+                76
+            ],
+            "answer": "Hidden",
+            "hint": "Set to elude detection"
+        },
+        "V": {
+            "cells": [
+                93,
+                51,
+                82,
+                29,
+                167,
+                118
+            ],
+            "answer": "Tuffet",
+            "hint": "Site of a girl\u2019s arachnophobic reaction"
+        },
+        "W": {
+            "cells": [
+                66,
+                33,
+                56,
+                97,
+                119,
+                9,
+                150
+            ],
+            "answer": "Sequoia",
+            "hint": "Yosemite Park\u2019s Grizzly Giant, for one"
+        },
+        "X": {
+            "cells": [
+                105,
+                125,
+                68,
+                90,
+                171,
+                24
+            ],
+            "answer": "Impute",
+            "hint": "Ascribe in an unflattering way"
+        },
+        "Y": {
+            "cells": [
+                127,
+                89,
+                163,
+                137,
+                1,
+                73
+            ],
+            "answer": "Zodiac",
+            "hint": "Houses in a high place"
+        },
+        "Z": {
+            "cells": [
+                169,
+                46,
+                5,
+                121,
+                80,
+                18
+            ],
+            "answer": "Eggcup",
+            "hint": "Container for serving a boiled breakfast"
+        }
+    }
+}

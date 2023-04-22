@@ -1,0 +1,364 @@
+{
+    "answer": "If your stomach disputes you, lie down and pacify it with cool thoughts. Keep the juices flowing by jangling around gently as you move. Go... light on the vices, such as carrying on in society.... Avoid running at all times.",
+    "author": "Satchel Paige,",
+    "authorCell": [
+        7,
+        32,
+        57,
+        129,
+        130,
+        65,
+        168,
+        17,
+        166,
+        155,
+        55,
+        70,
+        56,
+        111,
+        43,
+        98,
+        4,
+        102,
+        169,
+        11,
+        100,
+        22,
+        104,
+        128,
+        139,
+        110
+    ],
+    "source": "How To Stay Young",
+    "clues": {
+        "A": {
+            "cells": [
+                7,
+                131,
+                28,
+                82,
+                52,
+                101,
+                157,
+                67,
+                146,
+                115
+            ],
+            "answer": "Sadaharu Oh",
+            "hint": "All-time pro home-run champ (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                32,
+                173,
+                68,
+                10,
+                141,
+                153
+            ],
+            "answer": "Asimov",
+            "hint": "Writer who coined the term \u201cpositronic brain\u201d"
+        },
+        "C": {
+            "cells": [
+                57,
+                79,
+                161,
+                99,
+                113,
+                16,
+                138
+            ],
+            "answer": "Tbilisi",
+            "hint": "Capital of Georgia"
+        },
+        "D": {
+            "cells": [
+                129,
+                154,
+                30,
+                71,
+                46,
+                109,
+                14
+            ],
+            "answer": "Cowshed",
+            "hint": "Place akin to a bullpen"
+        },
+        "E": {
+            "cells": [
+                130,
+                24,
+                83,
+                95,
+                66,
+                54,
+                6,
+                151
+            ],
+            "answer": "Hung jury",
+            "hint": "Stalemate preventing a decision (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                65,
+                84,
+                163,
+                136,
+                48,
+                112,
+                25
+            ],
+            "answer": "Eggroll",
+            "hint": "White House event at Easter (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                168,
+                143,
+                106,
+                62,
+                41,
+                94
+            ],
+            "answer": "Limpid",
+            "hint": "Transparent"
+        },
+        "H": {
+            "cells": [
+                17,
+                123,
+                51,
+                147,
+                64,
+                1,
+                162,
+                78
+            ],
+            "answer": "Pitching",
+            "hint": "Half of a battery\u2019s job"
+        },
+        "I": {
+            "cells": [
+                166,
+                124,
+                47,
+                20,
+                144,
+                63
+            ],
+            "answer": "Accent",
+            "hint": "Indication that might be grave"
+        },
+        "J": {
+            "cells": [
+                155,
+                33,
+                77,
+                170,
+                93,
+                140
+            ],
+            "answer": "Inning",
+            "hint": "One of a sports ennead"
+        },
+        "K": {
+            "cells": [
+                55,
+                148,
+                135,
+                36,
+                72,
+                2,
+                121
+            ],
+            "answer": "Giraffe",
+            "hint": "Pride : lion :: tower : ___"
+        },
+        "L": {
+            "cells": [
+                70,
+                122,
+                152,
+                58,
+                26,
+                108,
+                96
+            ],
+            "answer": "Evasive",
+            "hint": "Dodger-like?"
+        },
+        "M": {
+            "cells": [
+                56,
+                9,
+                167,
+                137,
+                81,
+                29,
+                149
+            ],
+            "answer": "Holy Joe",
+            "hint": "Chaplain in the military, in slang (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                111,
+                97,
+                156,
+                27,
+                12,
+                59
+            ],
+            "answer": "On deck",
+            "hint": "Next up (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                43,
+                125,
+                85,
+                150,
+                103
+            ],
+            "answer": "Welty",
+            "hint": "Short-story master from Jackson, Miss."
+        },
+        "P": {
+            "cells": [
+                98,
+                61,
+                159,
+                31,
+                44,
+                126
+            ],
+            "answer": "Tennis",
+            "hint": "Activity that\u2019s head-turning for spectators"
+        },
+        "Q": {
+            "cells": [
+                4,
+                92,
+                19,
+                127,
+                76,
+                34,
+                172
+            ],
+            "answer": "Outside",
+            "hint": "Announcer\u2019s call at the plate"
+        },
+        "R": {
+            "cells": [
+                102,
+                53,
+                158,
+                119,
+                13,
+                35,
+                89,
+                75
+            ],
+            "answer": "Southpaw",
+            "hint": "One with sinister predispositions?"
+        },
+        "S": {
+            "cells": [
+                169,
+                5,
+                37,
+                145,
+                91,
+                118
+            ],
+            "answer": "Tucson",
+            "hint": "Spring training site for the Diamondbacks"
+        },
+        "T": {
+            "cells": [
+                11,
+                105,
+                45,
+                86,
+                132,
+                171
+            ],
+            "answer": "Autism",
+            "hint": "Rain Man\u2019s medical condition"
+        },
+        "U": {
+            "cells": [
+                100,
+                15,
+                87,
+                40,
+                134,
+                160,
+                114
+            ],
+            "answer": "Yin-yang",
+            "hint": "Black and white in harmony (hyph.)"
+        },
+        "V": {
+            "cells": [
+                22,
+                117,
+                80,
+                49
+            ],
+            "answer": "Yo-yo",
+            "hint": "Go from first place to last and back to first, e.g. (hyph.)"
+        },
+        "W": {
+            "cells": [
+                104,
+                69,
+                133,
+                18,
+                50,
+                116
+            ],
+            "answer": "Occult",
+            "hint": "Understandable only by the mystically chosen"
+        },
+        "X": {
+            "cells": [
+                128,
+                39,
+                107,
+                73,
+                23,
+                88,
+                3
+            ],
+            "answer": "Ufology",
+            "hint": "The study of alien ships"
+        },
+        "Y": {
+            "cells": [
+                139,
+                74,
+                120,
+                38,
+                8,
+                165,
+                60,
+                90
+            ],
+            "answer": "No-hitter",
+            "hint": "Seven-time feat of Nolan Ryan (hyph.)"
+        },
+        "Z": {
+            "cells": [
+                110,
+                142,
+                164,
+                42,
+                21
+            ],
+            "answer": "Gnats",
+            "hint": "Targets of some swats"
+        }
+    }
+}

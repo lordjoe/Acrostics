@@ -1,0 +1,343 @@
+{
+    "answer": "Detection is, or ought to be, an exact science... . You have attempted to tinge it with romanticism, which produces much the same effect as if you worked a love story or an elopement into the fifth proposition of Euclid.",
+    "author": "A.C. Doyle,",
+    "authorCell": [
+        44,
+        87,
+        119,
+        159,
+        111,
+        171,
+        138,
+        50,
+        93,
+        118,
+        89,
+        60,
+        58,
+        133,
+        54,
+        152,
+        61,
+        40,
+        2,
+        103,
+        130,
+        39,
+        116
+    ],
+    "source": "The Sign of the Four",
+    "clues": {
+        "A": {
+            "cells": [
+                44,
+                26,
+                161,
+                14,
+                99,
+                120,
+                145,
+                63,
+                80
+            ],
+            "answer": "Axiomatic",
+            "hint": "Patently so; based on truisms"
+        },
+        "B": {
+            "cells": [
+                87,
+                69,
+                155,
+                38,
+                126,
+                104
+            ],
+            "answer": "Capote",
+            "hint": "Author of a 1966 \u201ctrue crime novel\u201d"
+        },
+        "C": {
+            "cells": [
+                119,
+                131,
+                77,
+                41,
+                55,
+                97,
+                164,
+                144
+            ],
+            "answer": "Dr. Watson",
+            "hint": "Fictional chronicler addressed in the quote (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                159,
+                137,
+                124,
+                57,
+                27,
+                9,
+                173,
+                108,
+                78,
+                91,
+                45
+            ],
+            "answer": "Open-and-shut",
+            "hint": "Elementary in its solution, as a case (hyph.)"
+        },
+        "E": {
+            "cells": [
+                111,
+                170,
+                95,
+                83,
+                157,
+                68,
+                136,
+                125,
+                8,
+                48,
+                22
+            ],
+            "answer": "Y chromosome",
+            "hint": "What makes a man? (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                171,
+                127,
+                92,
+                12,
+                76,
+                146,
+                53,
+                25
+            ],
+            "answer": "Locomote",
+            "hint": "Move about under one\u2019s own steam"
+        },
+        "G": {
+            "cells": [
+                138,
+                123,
+                151,
+                52,
+                36,
+                70,
+                106
+            ],
+            "answer": "Evident",
+            "hint": "Manifest, palpable, in easy view"
+        },
+        "H": {
+            "cells": [
+                50,
+                132,
+                169,
+                71
+            ],
+            "answer": "Taut",
+            "hint": "Suspenseful, as a plot keeping you spellbound"
+        },
+        "I": {
+            "cells": [
+                93,
+                107,
+                121,
+                150,
+                62,
+                172,
+                29
+            ],
+            "answer": "Halfwit",
+            "hint": "One with too few smarts"
+        },
+        "J": {
+            "cells": [
+                118,
+                105,
+                5,
+                59,
+                34,
+                19,
+                156,
+                143,
+                73
+            ],
+            "answer": "Eccentric",
+            "hint": "Having offbeat or outlandish habits"
+        },
+        "K": {
+            "cells": [
+                89,
+                148,
+                43,
+                13,
+                135,
+                166,
+                28,
+                117
+            ],
+            "answer": "Sherlock",
+            "hint": "Man of mystery speaking in the quote"
+        },
+        "L": {
+            "cells": [
+                60,
+                24,
+                85,
+                149,
+                102,
+                74,
+                165,
+                10,
+                46,
+                134
+            ],
+            "answer": "Indefinite",
+            "hint": "Vague; having no precise limits"
+        },
+        "M": {
+            "cells": [
+                58,
+                33,
+                3,
+                154,
+                109,
+                16,
+                81
+            ],
+            "answer": "Get high",
+            "hint": "Achieve loft or stonedness (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                133,
+                47,
+                114,
+                30,
+                7,
+                153,
+                168,
+                90
+            ],
+            "answer": "News item",
+            "hint": "Brief report of a current event (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                54,
+                31,
+                94,
+                67,
+                158,
+                113,
+                11
+            ],
+            "answer": "Octopus",
+            "hint": "Relative of a nautiloid"
+        },
+        "P": {
+            "cells": [
+                152,
+                56,
+                75,
+                17,
+                140,
+                37,
+                100
+            ],
+            "answer": "Fisheye",
+            "hint": "Wide-angle, as lenses go"
+        },
+        "Q": {
+            "cells": [
+                61,
+                32,
+                147,
+                167,
+                84,
+                128,
+                6,
+                98,
+                18
+            ],
+            "answer": "Tit for tat",
+            "hint": "Quid pro quo (3 wds.)"
+        },
+        "R": {
+            "cells": [
+                40,
+                4,
+                66,
+                115
+            ],
+            "answer": "Hero",
+            "hint": "Sandwich with many synonyms"
+        },
+        "S": {
+            "cells": [
+                2,
+                35,
+                20,
+                142,
+                129,
+                49,
+                88
+            ],
+            "answer": "Ecotype",
+            "hint": "Environmental subgroup"
+        },
+        "T": {
+            "cells": [
+                103,
+                23,
+                162,
+                65,
+                122,
+                139
+            ],
+            "answer": "Fathom",
+            "hint": "Get to the bottom of"
+        },
+        "U": {
+            "cells": [
+                130,
+                21,
+                42,
+                72,
+                112,
+                86,
+                160
+            ],
+            "answer": "Obvious",
+            "hint": "Plain as the nose on your face"
+        },
+        "V": {
+            "cells": [
+                39,
+                141,
+                79,
+                110,
+                163,
+                96,
+                1
+            ],
+            "answer": "Unified",
+            "hint": "All together now"
+        },
+        "W": {
+            "cells": [
+                116,
+                101,
+                82,
+                15,
+                64,
+                51
+            ],
+            "answer": "Repute",
+            "hint": "Social standing for good or ill"
+        }
+    }
+}

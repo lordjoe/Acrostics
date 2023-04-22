@@ -1,0 +1,357 @@
+{
+    "answer": "If others examined themselves attentively, as I do, they would find themselves, as I do, full of inanity and nonsense. Get rid of it I cannot without getting rid of myself. We are all steeped in it, one as much as another.",
+    "author": "Michel de Montaigne,",
+    "authorCell": [
+        12,
+        68,
+        163,
+        171,
+        22,
+        143,
+        41,
+        96,
+        161,
+        101,
+        157,
+        28,
+        107,
+        53,
+        125,
+        92,
+        25,
+        156,
+        102,
+        24,
+        159,
+        78,
+        103,
+        32,
+        83
+    ],
+    "source": "Of Vanity",
+    "clues": {
+        "A": {
+            "cells": [
+                12,
+                30,
+                146,
+                58,
+                110,
+                126,
+                90
+            ],
+            "answer": "Meteors",
+            "hint": "Streaks made by falling rocks"
+        },
+        "B": {
+            "cells": [
+                68,
+                14,
+                51,
+                88,
+                144,
+                35,
+                168,
+                111
+            ],
+            "answer": "Indolent",
+            "hint": "Disinclined to do work"
+        },
+        "C": {
+            "cells": [
+                163,
+                57,
+                40,
+                130,
+                2,
+                75,
+                108
+            ],
+            "answer": "Chiffon",
+            "hint": "In a light and fluffy form"
+        },
+        "D": {
+            "cells": [
+                171,
+                116,
+                95,
+                47,
+                27,
+                133,
+                5
+            ],
+            "answer": "Hogwash",
+            "hint": "Swill"
+        },
+        "E": {
+            "cells": [
+                22,
+                59,
+                42,
+                114,
+                154,
+                129,
+                85
+            ],
+            "answer": "Emotion",
+            "hint": "\u201c____ recollected in tranquility\u201d (Wordsworth words on poetry)"
+        },
+        "F": {
+            "cells": [
+                143,
+                11,
+                82,
+                33,
+                54
+            ],
+            "answer": "Latin",
+            "hint": "What almost half of U.S. state mottoes are in"
+        },
+        "G": {
+            "cells": [
+                41,
+                148,
+                135,
+                81,
+                62,
+                165,
+                115
+            ],
+            "answer": "Delilah",
+            "hint": "Hedy Lamarr role opposite Victor Mature"
+        },
+        "H": {
+            "cells": [
+                96,
+                20,
+                123,
+                80,
+                150,
+                109,
+                43
+            ],
+            "answer": "Eminent",
+            "hint": "Illustrious; noteworthy"
+        },
+        "I": {
+            "cells": [
+                161,
+                132,
+                93,
+                118,
+                13,
+                76,
+                37
+            ],
+            "answer": "Mystify",
+            "hint": "Leave confounded"
+        },
+        "J": {
+            "cells": [
+                101,
+                17,
+                56,
+                169,
+                131,
+                79,
+                153
+            ],
+            "answer": "Ottoman",
+            "hint": "Item akin to a tuffet"
+        },
+        "K": {
+            "cells": [
+                157,
+                64,
+                112,
+                128,
+                172,
+                50,
+                18,
+                99
+            ],
+            "answer": "New Delhi",
+            "hint": "World capital designed by British architects (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                28,
+                44,
+                61,
+                8,
+                91,
+                166
+            ],
+            "answer": "Theses",
+            "hint": "Projects by seekers of degrees"
+        },
+        "M": {
+            "cells": [
+                107,
+                52,
+                136,
+                173,
+                3,
+                87,
+                29
+            ],
+            "answer": "Affront",
+            "hint": "Insult"
+        },
+        "N": {
+            "cells": [
+                53,
+                31,
+                71,
+                162,
+                145,
+                120,
+                16
+            ],
+            "answer": "Infused",
+            "hint": "Altered by permeation"
+        },
+        "O": {
+            "cells": [
+                125,
+                98,
+                141,
+                38,
+                67,
+                19
+            ],
+            "answer": "\"Grease\"",
+            "hint": "Musical set at Rydell High"
+        },
+        "P": {
+            "cells": [
+                92,
+                147,
+                122,
+                73,
+                48,
+                160,
+                21
+            ],
+            "answer": "Net loss",
+            "hint": "Bad news on the bottom line (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                25,
+                74,
+                113,
+                97,
+                152,
+                60,
+                170
+            ],
+            "answer": "Elitist",
+            "hint": "Discriminatory sort, snob"
+        },
+        "R": {
+            "cells": [
+                156,
+                63,
+                49,
+                36,
+                139,
+                121,
+                15
+            ],
+            "answer": "Ovulate",
+            "hint": "Release an oocyte"
+        },
+        "S": {
+            "cells": [
+                102,
+                167,
+                117,
+                10,
+                149,
+                84,
+                65
+            ],
+            "answer": "Faux pas",
+            "hint": "Slurping or burping at the table, e.g. (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                24,
+                142,
+                106,
+                72,
+                127,
+                4,
+                46
+            ],
+            "answer": "Vacuity",
+            "hint": "Lack of ideas or substance"
+        },
+        "U": {
+            "cells": [
+                159,
+                140,
+                7,
+                66,
+                124,
+                104
+            ],
+            "answer": "Arrant",
+            "hint": "Consummate, thoroughgoing, complete"
+        },
+        "V": {
+            "cells": [
+                78,
+                94,
+                158,
+                55,
+                23,
+                134,
+                39
+            ],
+            "answer": "Needles",
+            "hint": "Things feared by aichmophobes"
+        },
+        "W": {
+            "cells": [
+                103,
+                89,
+                34,
+                77,
+                155,
+                138,
+                9
+            ],
+            "answer": "Invitee",
+            "hint": "Crasher\u2019s opposite"
+        },
+        "X": {
+            "cells": [
+                32,
+                137,
+                70,
+                6,
+                86,
+                119,
+                45,
+                100
+            ],
+            "answer": "Two-edged",
+            "hint": "Like a rapier but not a scimitar (hyph.)"
+        },
+        "Y": {
+            "cells": [
+                83,
+                1,
+                69,
+                151,
+                105,
+                26,
+                164
+            ],
+            "answer": "Yiddish",
+            "hint": "Language in which \u201cgoodbye\u201d is \u201czay gezunt\u201d"
+        }
+    }
+}

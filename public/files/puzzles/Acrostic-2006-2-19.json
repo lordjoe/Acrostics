@@ -1,0 +1,342 @@
+{
+    "answer": "I... watched the progression across the plain of the giraffe, in their... inimitable, vegetative gracefulness, as if it were not a herd of animals but a family of rare, long-stemmed speckled gigantic flowers slowly advancing.",
+    "author": "Isak Dinesen,",
+    "authorCell": [
+        92,
+        28,
+        120,
+        146,
+        141,
+        73,
+        178,
+        80,
+        19,
+        85,
+        84,
+        14,
+        82,
+        155,
+        132,
+        158,
+        23,
+        126,
+        127,
+        20,
+        79,
+        78
+    ],
+    "source": "Out Of Africa",
+    "clues": {
+        "A": {
+            "cells": [
+                92,
+                27,
+                174,
+                63,
+                7,
+                147,
+                113,
+                45
+            ],
+            "answer": "Isabella",
+            "hint": "Queen who established the Spanish Inquisition"
+        },
+        "B": {
+            "cells": [
+                28,
+                51,
+                75,
+                9,
+                89,
+                167,
+                133
+            ],
+            "answer": "Stetson",
+            "hint": "Hat worn by Mounties since 1904"
+        },
+        "C": {
+            "cells": [
+                120,
+                56,
+                16,
+                94,
+                34,
+                74,
+                148,
+                164
+            ],
+            "answer": "Airwaves",
+            "hint": "Wireless broadcasting medium"
+        },
+        "D": {
+            "cells": [
+                146,
+                43,
+                169,
+                105,
+                128,
+                96,
+                69
+            ],
+            "answer": "Kildare",
+            "hint": "Irish county known for horse-breeding"
+        },
+        "E": {
+            "cells": [
+                141,
+                49,
+                152,
+                1,
+                93,
+                71,
+                33
+            ],
+            "answer": "Digital",
+            "hint": "Like some clocks and music, nowadays"
+        },
+        "F": {
+            "cells": [
+                73,
+                24,
+                11,
+                115,
+                162,
+                129,
+                42
+            ],
+            "answer": "Iceberg",
+            "hint": "Big chip off the old block?"
+        },
+        "G": {
+            "cells": [
+                178,
+                60,
+                76,
+                30,
+                117,
+                131,
+                156,
+                46,
+                103
+            ],
+            "answer": "Nightlife",
+            "hint": "Feature of a city that never sleeps"
+        },
+        "H": {
+            "cells": [
+                80,
+                4,
+                102,
+                118,
+                22,
+                91,
+                44,
+                160,
+                59,
+                144
+            ],
+            "answer": "\u201cEthan Frome\"",
+            "hint": "Edith Wharton novel set in Starkfield, Mass. (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                19,
+                52,
+                106,
+                32,
+                159,
+                177,
+                81,
+                136
+            ],
+            "answer": "Shoplift",
+            "hint": "Take a \u201cfive-finger discount\u201d"
+        },
+        "J": {
+            "cells": [
+                85,
+                134,
+                179,
+                157,
+                25,
+                65,
+                108,
+                121
+            ],
+            "answer": "Egg cream",
+            "hint": "Fizzy, foamy fountain drink (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                84,
+                97,
+                161,
+                64,
+                124,
+                2,
+                17,
+                172,
+                142
+            ],
+            "answer": "Newlyweds",
+            "hint": "Contestants in a game show hosted by Bob Eubanks"
+        },
+        "L": {
+            "cells": [
+                14,
+                47,
+                119,
+                87,
+                61,
+                112,
+                150,
+                31
+            ],
+            "answer": "Offstage",
+            "hint": "Behind the scenes, out of view"
+        },
+        "M": {
+            "cells": [
+                82,
+                50,
+                18,
+                176,
+                163,
+                35,
+                143,
+                72,
+                95,
+                8
+            ],
+            "answer": "Unscripted",
+            "hint": "Ad-libbed; not planned in advance"
+        },
+        "N": {
+            "cells": [
+                155,
+                37,
+                138,
+                168,
+                26,
+                83,
+                107,
+                53
+            ],
+            "answer": "Tom Wolfe",
+            "hint": "Author of \u201cFrom Bauhaus to Our House\u201d (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                132,
+                77,
+                15,
+                3,
+                154,
+                110,
+                165,
+                39
+            ],
+            "answer": "Organist",
+            "hint": "Johann Sebastian Bach, e.g."
+        },
+        "P": {
+            "cells": [
+                158,
+                116,
+                13,
+                29,
+                54,
+                66,
+                140
+            ],
+            "answer": "Furtive",
+            "hint": "Stealthy, trying not to be noticed"
+        },
+        "Q": {
+            "cells": [
+                23,
+                111,
+                130,
+                86,
+                166,
+                62,
+                98
+            ],
+            "answer": "Ameslan",
+            "hint": "Silent communication"
+        },
+        "R": {
+            "cells": [
+                126,
+                88,
+                6,
+                55,
+                137,
+                175,
+                40,
+                67,
+                151,
+                100
+            ],
+            "answer": "Fahrenheit",
+            "hint": "Eponymous creator of a nonmetric scale"
+        },
+        "S": {
+            "cells": [
+                127,
+                41,
+                149,
+                5,
+                21,
+                101,
+                70
+            ],
+            "answer": "Redcoat",
+            "hint": "Continental counterpart"
+        },
+        "T": {
+            "cells": [
+                20,
+                139,
+                38,
+                123,
+                170,
+                90,
+                109,
+                68
+            ],
+            "answer": "\"I\u2019m Flying\u201d",
+            "hint": "Title words sung by Mary Martin and Cathy Rigby (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                79,
+                171,
+                12,
+                153,
+                104,
+                58,
+                135,
+                125,
+                36
+            ],
+            "answer": "Caparison",
+            "hint": "Decorative covering for a horse"
+        },
+        "V": {
+            "cells": [
+                78,
+                57,
+                145,
+                10,
+                99,
+                173,
+                122,
+                48,
+                114
+            ],
+            "answer": "Anchovies",
+            "hint": "Strong-tasting ingredient in Worcestershire sauce"
+        }
+    }
+}

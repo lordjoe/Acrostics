@@ -1,0 +1,372 @@
+{
+    "answer": "Every knot is... its own little lesson in symmetry... \u2014a microcosm of mathematical elegance. ... Like... equations, knots come in almost endless variations that may look superficially similar but have wildly different properties.",
+    "author": "Bill Nye,",
+    "authorCell": [
+        150,
+        10,
+        147,
+        141,
+        117,
+        142,
+        106,
+        75,
+        155,
+        93,
+        44,
+        33,
+        171,
+        120,
+        144,
+        170,
+        67,
+        113,
+        65,
+        159,
+        139,
+        114,
+        128,
+        95,
+        46,
+        102
+    ],
+    "source": "Everything All at Once",
+    "clues": {
+        "A": {
+            "cells": [
+                150,
+                174,
+                16,
+                99,
+                78,
+                54
+            ],
+            "answer": "Bow out",
+            "hint": "Withdraw, retire, lose (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                10,
+                49,
+                172,
+                97,
+                148,
+                29,
+                119
+            ],
+            "answer": "Implant",
+            "hint": "Dental prosthesis"
+        },
+        "C": {
+            "cells": [
+                147,
+                79,
+                61,
+                6,
+                167,
+                125,
+                26
+            ],
+            "answer": "Lackeys",
+            "hint": "Sycophantic servants"
+        },
+        "D": {
+            "cells": [
+                141,
+                116,
+                28,
+                89,
+                176,
+                161,
+                3,
+                68,
+                51
+            ],
+            "answer": "Loose-leaf",
+            "hint": "Like some notebooks and teas (hyph.)"
+        },
+        "E": {
+            "cells": [
+                117,
+                23,
+                157,
+                35,
+                50,
+                91,
+                7
+            ],
+            "answer": "New moon",
+            "hint": "Event involving a dark side (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                142,
+                45,
+                168,
+                74,
+                115,
+                11,
+                59
+            ],
+            "answer": "Yorkist",
+            "hint": "Partisan of Richard III"
+        },
+        "G": {
+            "cells": [
+                106,
+                63,
+                136,
+                15,
+                88
+            ],
+            "answer": "Eliot",
+            "hint": "\u201cThe Hollow Men\u201d poet"
+        },
+        "H": {
+            "cells": [
+                75,
+                52,
+                121,
+                164,
+                140
+            ],
+            "answer": "Email",
+            "hint": "Modern service whose invention is credited to Ray Tomlinson in 1971"
+        },
+        "I": {
+            "cells": [
+                155,
+                42,
+                70,
+                122,
+                138,
+                92
+            ],
+            "answer": "Victim",
+            "hint": "Clue\u2019s Mr. Boddy, for one"
+        },
+        "J": {
+            "cells": [
+                93,
+                38,
+                173,
+                58,
+                20,
+                110
+            ],
+            "answer": "Errata",
+            "hint": "Collection of slips"
+        },
+        "K": {
+            "cells": [
+                44,
+                87,
+                130,
+                169
+            ],
+            "answer": "Rose",
+            "hint": "Type of wine with an accent"
+        },
+        "L": {
+            "cells": [
+                33,
+                60,
+                76,
+                126,
+                163
+            ],
+            "answer": "Yield",
+            "hint": "Bend"
+        },
+        "M": {
+            "cells": [
+                171,
+                127,
+                98,
+                37,
+                82,
+                145
+            ],
+            "answer": "Tom-tom",
+            "hint": "Drum beaten with the hands (hyph.)"
+        },
+        "N": {
+            "cells": [
+                120,
+                19,
+                80,
+                43,
+                153,
+                62,
+                4,
+                179,
+                104,
+                133
+            ],
+            "answer": "Hitch a ride",
+            "hint": "Put one\u2019s thumb to use (3 wds.)"
+        },
+        "O": {
+            "cells": [
+                144,
+                69,
+                108,
+                30,
+                48,
+                178
+            ],
+            "answer": "Insist",
+            "hint": "Put one\u2019s foot down"
+        },
+        "P": {
+            "cells": [
+                170,
+                47,
+                134,
+                84,
+                64,
+                34,
+                154,
+                103
+            ],
+            "answer": "Norseman",
+            "hint": "Leif Ericson, for one"
+        },
+        "Q": {
+            "cells": [
+                67,
+                149,
+                124,
+                17,
+                83,
+                5,
+                160,
+                111,
+                180,
+                32,
+                100
+            ],
+            "answer": "Granny dress",
+            "hint": "Ankle-length throwback of the miniskirt era (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                113,
+                57,
+                132,
+                18,
+                81,
+                165,
+                39
+            ],
+            "answer": "Amplify",
+            "hint": "Raise to another level"
+        },
+        "S": {
+            "cells": [
+                65,
+                151,
+                137,
+                85,
+                12,
+                105,
+                162
+            ],
+            "answer": "Luckily",
+            "hint": "By a happy stroke of fate"
+        },
+        "T": {
+            "cells": [
+                159,
+                94,
+                135,
+                36,
+                22,
+                73,
+                118,
+                9
+            ],
+            "answer": "Life list",
+            "hint": "Ornithologist\u2019s record of birds sighted and identified (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                139,
+                90,
+                13,
+                166,
+                53,
+                107,
+                152
+            ],
+            "answer": "Act fast",
+            "hint": "Not waste a second (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                114,
+                158,
+                41,
+                56,
+                14,
+                27,
+                77,
+                131,
+                96,
+                177,
+                1
+            ],
+            "answer": "Times Square",
+            "hint": "Site of a seasonal drop (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                128,
+                181,
+                101,
+                25,
+                40,
+                72
+            ],
+            "answer": "Osteal",
+            "hint": "Bone-related"
+        },
+        "X": {
+            "cells": [
+                95,
+                156,
+                143,
+                123,
+                112,
+                21,
+                55
+            ],
+            "answer": "Nesmith",
+            "hint": "Monkees bandmate of Jones, Dolenz and Tork"
+        },
+        "Y": {
+            "cells": [
+                46,
+                24,
+                8,
+                109,
+                66,
+                175,
+                146,
+                86,
+                129
+            ],
+            "answer": "Clove pink",
+            "hint": "Carnation (2 wds.)"
+        },
+        "Z": {
+            "cells": [
+                102,
+                2,
+                71,
+                31
+            ],
+            "answer": "Even",
+            "hint": "All tied up"
+        }
+    }
+}

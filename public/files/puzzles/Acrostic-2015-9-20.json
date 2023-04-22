@@ -1,0 +1,351 @@
+{
+    "answer": "I physically cannot chug. I\u2019m a sipper. And I inherited a very low tolerance to alcohol from my mother. She once drank a glass of white wine and performed the entire second act of \u201cThe Pirates of Penzance\u201d in our kitchen.",
+    "author": "(Ali) Wentworth,",
+    "authorCell": [
+        102,
+        162,
+        109,
+        128,
+        107,
+        165,
+        148,
+        61,
+        19,
+        24,
+        49,
+        26,
+        35,
+        174,
+        51,
+        16,
+        112,
+        137,
+        126,
+        90,
+        54,
+        57,
+        164,
+        89
+    ],
+    "source": "Ali in Wonderland",
+    "clues": {
+        "A": {
+            "cells": [
+                102,
+                37,
+                129,
+                17,
+                157,
+                55,
+                75
+            ],
+            "answer": "Whitney",
+            "hint": "Eponym of a New York art museum"
+        },
+        "B": {
+            "cells": [
+                162,
+                127,
+                143,
+                79,
+                97,
+                64,
+                2,
+                48
+            ],
+            "answer": "Enthalpy",
+            "hint": "Thermodynamic quantity equivalent to the total heat content of a system"
+        },
+        "C": {
+            "cells": [
+                109,
+                135,
+                56,
+                82,
+                151,
+                120,
+                29,
+                14
+            ],
+            "answer": "Norsemen",
+            "hint": "Faroe Islands settlers circa 800"
+        },
+        "D": {
+            "cells": [
+                128,
+                172,
+                53,
+                30,
+                1,
+                78,
+                110
+            ],
+            "answer": "Thorite",
+            "hint": "Silicate named for a god of Scandinavia"
+        },
+        "E": {
+            "cells": [
+                107,
+                124,
+                169,
+                70,
+                154,
+                9,
+                34,
+                92,
+                21
+            ],
+            "answer": "Whiffling",
+            "hint": "Proceeding like the Jabberwock through the tulgey wood"
+        },
+        "F": {
+            "cells": [
+                165,
+                87,
+                134,
+                22,
+                146,
+                6,
+                52,
+                111,
+                69
+            ],
+            "answer": "Occipital",
+            "hint": "Situated at the back of the skull"
+        },
+        "G": {
+            "cells": [
+                148,
+                8,
+                40,
+                25,
+                163,
+                86
+            ],
+            "answer": "Raisin",
+            "hint": "Common tidbit in trail mix"
+        },
+        "H": {
+            "cells": [
+                61,
+                47,
+                91,
+                28,
+                145,
+                158,
+                106
+            ],
+            "answer": "Trapeze",
+            "hint": "It has a bar for swingers"
+        },
+        "I": {
+            "cells": [
+                19,
+                66,
+                141,
+                114,
+                85,
+                42
+            ],
+            "answer": "Hoopoe",
+            "hint": "Crested bird named for the sound of its cry"
+        },
+        "J": {
+            "cells": [
+                24,
+                58,
+                171,
+                156,
+                99,
+                140,
+                116,
+                11
+            ],
+            "answer": "Ancestry",
+            "hint": "Line found in a tree"
+        },
+        "K": {
+            "cells": [
+                49,
+                77,
+                95,
+                118,
+                23,
+                63,
+                161,
+                144,
+                4
+            ],
+            "answer": "Logomachy",
+            "hint": "Literally, \u201cbattle of words\u201d"
+        },
+        "L": {
+            "cells": [
+                26,
+                160,
+                142,
+                50,
+                130,
+                76,
+                13,
+                96
+            ],
+            "answer": "Informal",
+            "hint": "Come-as-you-are"
+        },
+        "M": {
+            "cells": [
+                35,
+                136,
+                105,
+                173,
+                119,
+                59,
+                153,
+                74
+            ],
+            "answer": "Intercom",
+            "hint": "Room-connecting system"
+        },
+        "N": {
+            "cells": [
+                174,
+                100,
+                73,
+                31,
+                122,
+                147,
+                12
+            ],
+            "answer": "Nomadic",
+            "hint": "Given to roaming"
+        },
+        "O": {
+            "cells": [
+                51,
+                67,
+                133,
+                88,
+                33,
+                10,
+                115
+            ],
+            "answer": "Wheedle",
+            "hint": "Use flattery to get one\u2019s way"
+        },
+        "P": {
+            "cells": [
+                16,
+                101,
+                117,
+                41,
+                81,
+                149,
+                65,
+                168
+            ],
+            "answer": "Off track",
+            "hint": "Like some betting on races (hyph.)"
+        },
+        "Q": {
+            "cells": [
+                112,
+                62,
+                20,
+                45,
+                80,
+                94,
+                166
+            ],
+            "answer": "Nouveau",
+            "hint": "Recently arrived or developed"
+        },
+        "R": {
+            "cells": [
+                137,
+                68,
+                170,
+                150,
+                38,
+                113
+            ],
+            "answer": "Dotted",
+            "hint": "Like the canvas of a pointillist"
+        },
+        "S": {
+            "cells": [
+                126,
+                5,
+                98,
+                60,
+                36,
+                18,
+                84
+            ],
+            "answer": "Essence",
+            "hint": "Sum and substance"
+        },
+        "T": {
+            "cells": [
+                90,
+                121,
+                138,
+                155,
+                46,
+                71
+            ],
+            "answer": "Reaper",
+            "hint": "Figure with a scythe"
+        },
+        "U": {
+            "cells": [
+                54,
+                159,
+                123,
+                7,
+                103,
+                72,
+                32
+            ],
+            "answer": "Latch on",
+            "hint": "Grab hold (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                57,
+                167,
+                139,
+                83,
+                125,
+                39
+            ],
+            "answer": "Archer",
+            "hint": "Lew ____, Ross Macdonald\u2019s fictional private eye"
+        },
+        "W": {
+            "cells": [
+                164,
+                44,
+                27,
+                93,
+                108,
+                15,
+                132
+            ],
+            "answer": "Napkins",
+            "hint": "Items in rings until used"
+        },
+        "X": {
+            "cells": [
+                89,
+                104,
+                152,
+                3,
+                131,
+                43
+            ],
+            "answer": "Dished",
+            "hint": "Gossiped"
+        }
+    }
+}

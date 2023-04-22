@@ -1,0 +1,329 @@
+{
+    "answer": "Never... on cross-examination ask a witness a question you don\u2018t already know the answer to, was a tenet I absorbed with my baby-food. Do it, and you\u2019ll often get an answer you don\u2019t want, an answer that might wreck your case.",
+    "author": "[Harper] Lee,",
+    "authorCell": [
+        115,
+        13,
+        4,
+        124,
+        86,
+        26,
+        157,
+        116,
+        52,
+        109,
+        16,
+        10,
+        8,
+        58,
+        21,
+        59,
+        122,
+        99,
+        82,
+        9,
+        47
+    ],
+    "source": "To Kill A Mockingbird",
+    "clues": {
+        "A": {
+            "cells": [
+                115,
+                24,
+                156,
+                97,
+                85,
+                40,
+                54,
+                130
+            ],
+            "answer": "Lamb stew",
+            "hint": "Traditional preparation in a casserole or hot pot (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                13,
+                98,
+                39,
+                71,
+                88,
+                113,
+                168,
+                147,
+                56
+            ],
+            "answer": "Eastbound",
+            "hint": "Moving with the jet stream"
+        },
+        "C": {
+            "cells": [
+                4,
+                18,
+                155,
+                63,
+                135,
+                172,
+                89,
+                105
+            ],
+            "answer": "Enthused",
+            "hint": "All fired up, gung-ho"
+        },
+        "D": {
+            "cells": [
+                124,
+                6,
+                44,
+                25,
+                77,
+                137,
+                151,
+                96
+            ],
+            "answer": "\u201cToy Story\"",
+            "hint": "Film starring a pull-string cowboy (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                86,
+                46,
+                62,
+                118,
+                167,
+                14,
+                150,
+                104
+            ],
+            "answer": "Outfoxed",
+            "hint": "Beaten by brainwork"
+        },
+        "F": {
+            "cells": [
+                26,
+                1,
+                107,
+                50,
+                91,
+                131,
+                144,
+                169
+            ],
+            "answer": "Knitwear",
+            "hint": "Sweaters, socks, bootees, etc."
+        },
+        "G": {
+            "cells": [
+                157,
+                128,
+                101,
+                51,
+                7,
+                30,
+                76
+            ],
+            "answer": "Infanta",
+            "hint": "Daughter in a Spanish or Portuguese royal family"
+        },
+        "H": {
+            "cells": [
+                116,
+                15,
+                61,
+                145,
+                95,
+                42,
+                161,
+                80,
+                132
+            ],
+            "answer": "Lawn mower",
+            "hint": "Mechanical replacement for a flock of sheep? (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                52,
+                19,
+                133,
+                149,
+                171,
+                75,
+                108,
+                38
+            ],
+            "answer": "Lay waste",
+            "hint": "Utterly destroy, ravage (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                109,
+                11,
+                33,
+                92,
+                158,
+                66,
+                123,
+                78
+            ],
+            "answer": "Assignee",
+            "hint": "Recipient of a transfer of rights or property"
+        },
+        "K": {
+            "cells": [
+                16,
+                103,
+                31,
+                2,
+                57,
+                140,
+                72,
+                162,
+                119
+            ],
+            "answer": "Moneywort",
+            "hint": "Vine also called \u201ccreeping Jenny\u201d"
+        },
+        "L": {
+            "cells": [
+                10,
+                43,
+                84,
+                53,
+                102,
+                27,
+                136,
+                73,
+                146,
+                112
+            ],
+            "answer": "\"On Broadway\u201d",
+            "hint": "Oft-covered 1963 Drifters hit about New York (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                8,
+                87,
+                69,
+                55,
+                160,
+                29,
+                117,
+                142
+            ],
+            "answer": "Creation",
+            "hint": "Subject of interest to a cosmogonist"
+        },
+        "N": {
+            "cells": [
+                58,
+                17,
+                110,
+                34,
+                159,
+                74,
+                129,
+                141
+            ],
+            "answer": "Kinshasa",
+            "hint": "Site of 1974\u2019s Ali/Foreman Rumble in the Jungle"
+        },
+        "O": {
+            "cells": [
+                21,
+                126,
+                36,
+                114,
+                60,
+                139,
+                163,
+                148
+            ],
+            "answer": "In quotes",
+            "hint": "Shown exactly as said (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                59,
+                45,
+                138,
+                120,
+                3,
+                32,
+                79,
+                152
+            ],
+            "answer": "Nonevent",
+            "hint": "Highly publicized dud"
+        },
+        "Q": {
+            "cells": [
+                122,
+                22,
+                153,
+                83,
+                100,
+                68,
+                41,
+                5,
+                173
+            ],
+            "answer": "Go haywire",
+            "hint": "Stop functioning in a dramatic way (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                99,
+                48,
+                154,
+                20,
+                166,
+                125,
+                70,
+                90
+            ],
+            "answer": "Boatyard",
+            "hint": "Marina"
+        },
+        "S": {
+            "cells": [
+                82,
+                23,
+                165,
+                67,
+                143,
+                35,
+                49,
+                111
+            ],
+            "answer": "Inkstand",
+            "hint": "Desk accessory for Bartleby the Scrivener"
+        },
+        "T": {
+            "cells": [
+                9,
+                64,
+                127,
+                164,
+                94,
+                106,
+                37,
+                81
+            ],
+            "answer": "Reach out",
+            "hint": "Make an overture (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                47,
+                134,
+                28,
+                121,
+                170,
+                65,
+                12,
+                93
+            ],
+            "answer": "Downcast",
+            "hint": "Melancholic, woebegone"
+        }
+    }
+}

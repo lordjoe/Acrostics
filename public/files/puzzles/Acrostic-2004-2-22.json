@@ -1,0 +1,360 @@
+{
+    "answer": "[H]ow could I miss such a huge fish? A twitch of my... hand solves the conundrum: I can\u2019t feel [it]... because my arm is... down its throat. [We]... realize this at... the same time, like stooges backing into each other in a haunted house.",
+    "author": "(Burkhard) Bilger,",
+    "authorCell": [
+        135,
+        104,
+        103,
+        132,
+        169,
+        81,
+        40,
+        34,
+        145,
+        56,
+        7,
+        11,
+        156,
+        21,
+        23,
+        150,
+        100,
+        35,
+        44,
+        62,
+        48,
+        93,
+        115,
+        111,
+        164,
+        76
+    ],
+    "source": "Noodling For Flatheads",
+    "clues": {
+        "A": {
+            "cells": [
+                135,
+                154,
+                58,
+                24,
+                88,
+                168
+            ],
+            "answer": "Bruins",
+            "hint": "Stanley Cup champions of 1970 and 1972"
+        },
+        "B": {
+            "cells": [
+                104,
+                51,
+                17,
+                129,
+                114,
+                37,
+                155,
+                73
+            ],
+            "answer": "Ichthyic",
+            "hint": "Piscine"
+        },
+        "C": {
+            "cells": [
+                103,
+                147,
+                59,
+                72,
+                8,
+                167,
+                32,
+                138
+            ],
+            "answer": "Lame duck",
+            "hint": "Someone halfway out the door? (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                132,
+                6,
+                83,
+                53,
+                66,
+                102
+            ],
+            "answer": "Guinea",
+            "hint": "African exporter of bauxite and gold"
+        },
+        "E": {
+            "cells": [
+                169,
+                143,
+                64,
+                33,
+                54,
+                91,
+                119
+            ],
+            "answer": "Enthuse",
+            "hint": "Express great admiration"
+        },
+        "F": {
+            "cells": [
+                81,
+                67,
+                41,
+                158,
+                5,
+                97
+            ],
+            "answer": "Red-hot",
+            "hint": "Small cinnamon candy (hyph.)"
+        },
+        "G": {
+            "cells": [
+                40,
+                159,
+                144,
+                61,
+                26,
+                123,
+                105
+            ],
+            "answer": "Natchez",
+            "hint": "Mississippi terminus of a frontier trail"
+        },
+        "H": {
+            "cells": [
+                34,
+                85,
+                9,
+                20,
+                78
+            ],
+            "answer": "Odium",
+            "hint": "The state of being hated"
+        },
+        "I": {
+            "cells": [
+                145,
+                25,
+                134,
+                109,
+                65,
+                79
+            ],
+            "answer": "Ossify",
+            "hint": "Lose flexibility; get set in one\u2019s ways"
+        },
+        "J": {
+            "cells": [
+                56,
+                30,
+                14,
+                149,
+                130,
+                160,
+                92
+            ],
+            "answer": "Dish out",
+            "hint": "Serve, as food; give, as advice (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                7,
+                106,
+                122,
+                82,
+                27
+            ],
+            "answer": "Lemma",
+            "hint": "Proposition used to prove another proposition"
+        },
+        "L": {
+            "cells": [
+                11,
+                55,
+                113,
+                131,
+                75,
+                148,
+                165
+            ],
+            "answer": "In touch",
+            "hint": "Communicating (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                156,
+                50,
+                3,
+                99,
+                124
+            ],
+            "answer": "Newel",
+            "hint": "Spiral stairway\u2019s central post"
+        },
+        "N": {
+            "cells": [
+                21,
+                95,
+                39,
+                70,
+                127,
+                146
+            ],
+            "answer": "Goatee",
+            "hint": "Attribute shared by Lenin and Uncle Sam"
+        },
+        "O": {
+            "cells": [
+                23,
+                57,
+                101,
+                136,
+                126,
+                13,
+                1,
+                43,
+                87
+            ],
+            "answer": "Freak show",
+            "hint": "Ludicrously circuslike event (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                150,
+                71,
+                166,
+                89,
+                116,
+                31
+            ],
+            "answer": "Oboist",
+            "hint": "Mitch Miller, as a musician"
+        },
+        "Q": {
+            "cells": [
+                100,
+                19,
+                77,
+                140,
+                121,
+                47,
+                152
+            ],
+            "answer": "Rhenish",
+            "hint": "Like some dry white wines of Germany"
+        },
+        "R": {
+            "cells": [
+                35,
+                68,
+                52,
+                110,
+                84
+            ],
+            "answer": "Floss",
+            "hint": "Fictional river providing power for the Dorlcote Mill"
+        },
+        "S": {
+            "cells": [
+                44,
+                86,
+                29,
+                120,
+                153,
+                16,
+                108
+            ],
+            "answer": "Low-tech",
+            "hint": "Comprehensible to non-engineers (hyph.)"
+        },
+        "T": {
+            "cells": [
+                62,
+                128,
+                151,
+                38,
+                118,
+                80
+            ],
+            "answer": "Asthma",
+            "hint": "Disorder often triggered by allergens"
+        },
+        "U": {
+            "cells": [
+                48,
+                125,
+                107,
+                96,
+                161,
+                142,
+                18
+            ],
+            "answer": "Titania",
+            "hint": "Queen of the fairies; moon of Uranus"
+        },
+        "V": {
+            "cells": [
+                93,
+                2,
+                49,
+                15,
+                36
+            ],
+            "answer": "Ho-hum",
+            "hint": "Dull as dishwater (hyph.)"
+        },
+        "W": {
+            "cells": [
+                115,
+                137,
+                42,
+                162,
+                74,
+                28,
+                60,
+                4
+            ],
+            "answer": "Ecstatic",
+            "hint": "Under a rapturous spell"
+        },
+        "X": {
+            "cells": [
+                111,
+                45,
+                133,
+                12,
+                90,
+                157
+            ],
+            "answer": "Avesta",
+            "hint": "Book of Zoroastrian scriptures"
+        },
+        "Y": {
+            "cells": [
+                164,
+                139,
+                10,
+                98,
+                69,
+                112
+            ],
+            "answer": "Dimwit",
+            "hint": "Knucklehead, numbskull"
+        },
+        "Z": {
+            "cells": [
+                76,
+                22,
+                117,
+                141,
+                94,
+                163,
+                46,
+                63
+            ],
+            "answer": "Sea green",
+            "hint": "Color of some roofing slate (2 wds.)"
+        }
+    }
+}

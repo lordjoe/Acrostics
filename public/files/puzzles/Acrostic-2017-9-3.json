@@ -1,0 +1,343 @@
+{
+    "answer": "[I]n Springfield, there are a couple dozen people who spend their workweek doing nothing but making dictionaries\u2014... writing... definitions, thinking deeply about adverbs, and slowly, inexorably going blind. They are lexicographers.",
+    "author": "Kory Stamper,",
+    "authorCell": [
+        56,
+        143,
+        52,
+        146,
+        3,
+        112,
+        126,
+        76,
+        37,
+        21,
+        90,
+        144,
+        151,
+        181,
+        61,
+        154,
+        125,
+        53,
+        87,
+        5,
+        101
+    ],
+    "source": "Word by Word",
+    "clues": {
+        "A": {
+            "cells": [
+                56,
+                83,
+                7,
+                161,
+                178,
+                135,
+                22,
+                103,
+                68
+            ],
+            "answer": "Kingcraft",
+            "hint": "Artful exercise of power by a monarch"
+        },
+        "B": {
+            "cells": [
+                143,
+                17,
+                72,
+                171,
+                105,
+                51,
+                31,
+                92,
+                120
+            ],
+            "answer": "Organized",
+            "hint": "With everything in its proper place"
+        },
+        "C": {
+            "cells": [
+                52,
+                149,
+                137,
+                79,
+                166,
+                32,
+                115,
+                97
+            ],
+            "answer": "Resident",
+            "hint": "Staffer who might be on a 24-hour shift"
+        },
+        "D": {
+            "cells": [
+                146,
+                183,
+                43,
+                86,
+                12,
+                131,
+                110,
+                167,
+                63
+            ],
+            "answer": "Ypsilanti",
+            "hint": "Home of Eastern Michigan University"
+        },
+        "E": {
+            "cells": [
+                3,
+                44,
+                158,
+                85,
+                107,
+                70,
+                139,
+                180
+            ],
+            "answer": "Spotting",
+            "hint": "Job for a watchful acrobat or rock climber"
+        },
+        "F": {
+            "cells": [
+                112,
+                153,
+                38,
+                60,
+                20,
+                182,
+                82,
+                6,
+                128
+            ],
+            "answer": "Talk radio",
+            "hint": "Much of the AM band nowadays (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                126,
+                162,
+                141,
+                30,
+                186,
+                73,
+                18,
+                88,
+                48
+            ],
+            "answer": "Absorbent",
+            "hint": "Like paper towels"
+        },
+        "H": {
+            "cells": [
+                76,
+                179,
+                24,
+                99,
+                163,
+                1,
+                65,
+                113,
+                130
+            ],
+            "answer": "Moonlight",
+            "hint": "Go from one job to another and back"
+        },
+        "I": {
+            "cells": [
+                37,
+                74,
+                136,
+                155,
+                108,
+                93,
+                49,
+                121,
+                13
+            ],
+            "answer": "Published",
+            "hint": "Unlike Emily Dickinson\u2019s poems, initially"
+        },
+        "J": {
+            "cells": [
+                21,
+                176,
+                4,
+                45,
+                33,
+                111,
+                147,
+                133,
+                58
+            ],
+            "answer": "Expensive",
+            "hint": "\u201cOf all the noises known to man, opera is the most ___\u201d (Molière)"
+        },
+        "K": {
+            "cells": [
+                90,
+                184,
+                164,
+                148,
+                134,
+                40,
+                106,
+                66,
+                122
+            ],
+            "answer": "Rhine wine",
+            "hint": "Drink the Brits call \u201chock\u201d (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                144,
+                25,
+                14,
+                168,
+                39,
+                55,
+                117,
+                71,
+                100
+            ],
+            "answer": "Wuthering",
+            "hint": "Like the gusty conditions around the Earnshaw house"
+        },
+        "M": {
+            "cells": [
+                151,
+                95,
+                34,
+                15,
+                77,
+                46,
+                138,
+                119,
+                169
+            ],
+            "answer": "Orphanage",
+            "hint": "Setting for the start of \u201cAnnie\u201d"
+        },
+        "N": {
+            "cells": [
+                181,
+                11,
+                160,
+                102,
+                57,
+                89,
+                127,
+                145,
+                35
+            ],
+            "answer": "Renewable",
+            "hint": "Like wind and water, but not oil and gas"
+        },
+        "O": {
+            "cells": [
+                61,
+                114,
+                150,
+                91,
+                50,
+                174,
+                19,
+                2,
+                132
+            ],
+            "answer": "Dixieland",
+            "hint": "Noteworthy export of New Orleans"
+        },
+        "P": {
+            "cells": [
+                154,
+                104,
+                81,
+                47,
+                10,
+                26,
+                123,
+                59,
+                172
+            ],
+            "answer": "Big Dipper",
+            "hint": "Septet in Ursa Major (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                125,
+                175,
+                27,
+                142,
+                42,
+                94,
+                9,
+                159,
+                80
+            ],
+            "answer": "Yellowfin",
+            "hint": "Ahi by another name"
+        },
+        "R": {
+            "cells": [
+                53,
+                69,
+                185,
+                28,
+                140,
+                124,
+                98,
+                165,
+                8
+            ],
+            "answer": "Wheedling",
+            "hint": "Persuading by guile or flattery"
+        },
+        "S": {
+            "cells": [
+                87,
+                129,
+                75,
+                29,
+                109,
+                62,
+                152,
+                187,
+                170
+            ],
+            "answer": "Outdoorsy",
+            "hint": "Keen on hiking, canoeing, camping, etc."
+        },
+        "T": {
+            "cells": [
+                5,
+                173,
+                23,
+                78,
+                36,
+                118,
+                96,
+                64,
+                157
+            ],
+            "answer": "Reckoning",
+            "hint": "Itemized bill, or its settlement"
+        },
+        "U": {
+            "cells": [
+                101,
+                67,
+                54,
+                41,
+                177,
+                84,
+                116,
+                16,
+                156
+            ],
+            "answer": "Doohickey",
+            "hint": "Thingamajig"
+        }
+    }
+}

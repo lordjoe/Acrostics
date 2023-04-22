@@ -1,0 +1,372 @@
+{
+    "answer": "If you... dine with pretentious people, here are some items... that are sure to impress: diced yak, badger gumbo,... jackal tartare,... loin of chipmunk, curried woodpecker, penguin scallopini, sweet-and-sour loon heads,... wombat souvlaki.",
+    "author": "George Carlin,",
+    "authorCell": [
+        78,
+        9,
+        27,
+        33,
+        81,
+        34,
+        88,
+        73,
+        97,
+        99,
+        144,
+        153,
+        84,
+        94,
+        165,
+        11,
+        8,
+        154,
+        158,
+        4,
+        62,
+        28,
+        68,
+        102,
+        133,
+        155
+    ],
+    "source": "Brain Droppings",
+    "clues": {
+        "A": {
+            "cells": [
+                78,
+                122,
+                110,
+                15,
+                45,
+                164,
+                58
+            ],
+            "answer": "Gourmet",
+            "hint": "One of refined tastes"
+        },
+        "B": {
+            "cells": [
+                9,
+                19,
+                75,
+                129,
+                142,
+                105,
+                163,
+                118,
+                92,
+                43,
+                32
+            ],
+            "answer": "En brochette",
+            "hint": "Broiled on small spits or skewers (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                27,
+                91,
+                121,
+                56,
+                100,
+                174,
+                39
+            ],
+            "answer": "Oloroso",
+            "hint": "Medium-dry sherry of Spain"
+        },
+        "D": {
+            "cells": [
+                33,
+                90,
+                80,
+                41,
+                171,
+                135,
+                20
+            ],
+            "answer": "Rarebit",
+            "hint": "Cheesy concoction without meat"
+        },
+        "E": {
+            "cells": [
+                81,
+                161,
+                55,
+                71,
+                93
+            ],
+            "answer": "Gouda",
+            "hint": "Composition of some large wheels"
+        },
+        "F": {
+            "cells": [
+                34,
+                113,
+                48,
+                181,
+                77,
+                145,
+                87
+            ],
+            "answer": "Echidna",
+            "hint": "Long-snouted gobbler of ants"
+        },
+        "G": {
+            "cells": [
+                88,
+                13,
+                103,
+                148,
+                166,
+                57,
+                36
+            ],
+            "answer": "Chowder",
+            "hint": "Stew whose name derives from the Latin for \u201ccauldron\u201d"
+        },
+        "H": {
+            "cells": [
+                73,
+                134,
+                86,
+                5,
+                54
+            ],
+            "answer": "Au jus",
+            "hint": "Menu phrase often redundantly preceded by \u201cwith\u201d (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                97,
+                179,
+                21,
+                46,
+                7,
+                162
+            ],
+            "answer": "Raisin",
+            "hint": "Tidbit in chutney"
+        },
+        "J": {
+            "cells": [
+                99,
+                59,
+                168,
+                2,
+                152,
+                50
+            ],
+            "answer": "Low-fat",
+            "hint": "Word appealing to certain losers (hyph.)"
+        },
+        "K": {
+            "cells": [
+                144,
+                69,
+                16,
+                83,
+                107,
+                29,
+                180
+            ],
+            "answer": "Ice milk",
+            "hint": "Alternative to frozen yogurt (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                153,
+                44,
+                61,
+                139,
+                12,
+                85,
+                119,
+                98
+            ],
+            "answer": "Nematode",
+            "hint": "Parasitic denizen of the soil"
+        },
+        "M": {
+            "cells": [
+                84,
+                157,
+                17,
+                95,
+                125,
+                115,
+                104,
+                140,
+                3
+            ],
+            "answer": "Butterfly",
+            "hint": "To split down the middle and open the two halves flat"
+        },
+        "N": {
+            "cells": [
+                94,
+                172,
+                40,
+                18,
+                127,
+                146,
+                111
+            ],
+            "answer": "Ramekin",
+            "hint": "Small lidless dish for baking"
+        },
+        "O": {
+            "cells": [
+                165,
+                14,
+                143,
+                178,
+                70,
+                108,
+                101,
+                26
+            ],
+            "answer": "Apple pie",
+            "hint": "Symbol of American life (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                11,
+                170,
+                130,
+                156,
+                116,
+                47,
+                30,
+                67
+            ],
+            "answer": "Imported",
+            "hint": "Like Bordeaux and Chianti"
+        },
+        "Q": {
+            "cells": [
+                8,
+                176,
+                74,
+                53,
+                123
+            ],
+            "answer": "Nuked",
+            "hint": "Given a blast of microwaves (slang)"
+        },
+        "R": {
+            "cells": [
+                154,
+                82,
+                138,
+                106,
+                128,
+                24,
+                65
+            ],
+            "answer": "Duchess",
+            "hint": "Potatoes that are pureed with egg yolks and butter, then shaped and browned"
+        },
+        "S": {
+            "cells": [
+                158,
+                23,
+                109,
+                124,
+                137,
+                173,
+                64,
+                35,
+                89
+            ],
+            "answer": "Rump steak",
+            "hint": "Triangular cut taken from the upper part of the round (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                4,
+                177,
+                150,
+                63,
+                131,
+                51,
+                167,
+                72
+            ],
+            "answer": "Over easy",
+            "hint": "Request to a breakfast cook (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                62,
+                79,
+                96,
+                147,
+                175,
+                114,
+                25
+            ],
+            "answer": "Pea soup",
+            "hint": "Exemplar of thickness (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                28,
+                60,
+                132,
+                112,
+                42,
+                149
+            ],
+            "answer": "Pinkie",
+            "hint": "It may be raised at a tea party"
+        },
+        "W": {
+            "cells": [
+                68,
+                22,
+                6,
+                117,
+                136,
+                37
+            ],
+            "answer": "Iodine",
+            "hint": "Element derived nutritionally from kelp"
+        },
+        "X": {
+            "cells": [
+                102,
+                49,
+                126,
+                31,
+                160,
+                66
+            ],
+            "answer": "Nachos",
+            "hint": "Standard brewpub items to be dipped"
+        },
+        "Y": {
+            "cells": [
+                133,
+                52,
+                1,
+                151,
+                38
+            ],
+            "answer": "Grits",
+            "hint": "Simmered side dish in the South"
+        },
+        "Z": {
+            "cells": [
+                155,
+                120,
+                76,
+                141,
+                159,
+                169,
+                10
+            ],
+            "answer": "Swallow",
+            "hint": "Swift passerine; amount ingested"
+        }
+    }
+}

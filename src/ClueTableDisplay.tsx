@@ -10,16 +10,13 @@ function ClueTableDisplay(  puzzle: Puzzle, letter: string, clue: Clue ) {
 
     let inner: ReactNode[] = [];
 
-    const [index,setState]  = useState(0)
 
     for(let i = 0; i < cells.length; i++) {
         let cell: AnswerCell = cells[i];
          inner.push(ClueCellDisplay(puzzle,clue,cell.index));
     }
 
-     function redraw() {
-       setState(index + 1);
-    }
+
 
   //  let identifier: string  = " <!-- ClueDisplay.tsx -->";
 

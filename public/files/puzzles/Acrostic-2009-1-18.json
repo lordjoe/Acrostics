@@ -1,0 +1,351 @@
+{
+    "answer": "We Americans... can become a dynamic equilibrium, a harmony of many different elements, in which the whole will be greater than all its parts and greater than any society the world has seen before. It can still happen.",
+    "author": "Shirley Chisholm,",
+    "authorCell": [
+        11,
+        41,
+        159,
+        43,
+        144,
+        97,
+        47,
+        17,
+        125,
+        166,
+        70,
+        139,
+        18,
+        33,
+        26,
+        117,
+        132,
+        142,
+        54,
+        57,
+        87,
+        92,
+        82,
+        69
+    ],
+    "source": "(The) Good Fight",
+    "clues": {
+        "A": {
+            "cells": [
+                11,
+                109,
+                34,
+                98,
+                71,
+                138
+            ],
+            "answer": "Spirit",
+            "hint": "Soul, essence"
+        },
+        "B": {
+            "cells": [
+                41,
+                103,
+                167,
+                56,
+                86,
+                120,
+                137
+            ],
+            "answer": "Halfway",
+            "hint": "Where opposing sides may meet"
+        },
+        "C": {
+            "cells": [
+                159,
+                12,
+                29,
+                141,
+                51,
+                96,
+                80,
+                111
+            ],
+            "answer": "Ice water",
+            "hint": "Free serving at a restaurant (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                43,
+                81,
+                3,
+                68,
+                22,
+                147,
+                115
+            ],
+            "answer": "Rwandan",
+            "hint": "From a troubled African land"
+        },
+        "E": {
+            "cells": [
+                144,
+                2,
+                72,
+                40,
+                169,
+                156,
+                123,
+                102,
+                20
+            ],
+            "answer": "Lena Horne",
+            "hint": "Portrayer of Glinda in \u201cThe Wiz\u201d (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                97,
+                50,
+                32,
+                129,
+                173,
+                14,
+                78
+            ],
+            "answer": "Eminent",
+            "hint": "Distinguished, outstanding"
+        },
+        "G": {
+            "cells": [
+                47,
+                170,
+                28,
+                74,
+                121
+            ],
+            "answer": "Yacht",
+            "hint": "Regatta entry"
+        },
+        "H": {
+            "cells": [
+                17,
+                79,
+                114,
+                59,
+                134,
+                164,
+                39,
+                101
+            ],
+            "answer": "Charisma",
+            "hint": "Power of attraction; it"
+        },
+        "I": {
+            "cells": [
+                125,
+                151,
+                19,
+                88,
+                106,
+                163,
+                65
+            ],
+            "answer": "Hemline",
+            "hint": "Putative economic indicator"
+        },
+        "J": {
+            "cells": [
+                166,
+                4,
+                90,
+                110,
+                64,
+                21,
+                46,
+                133,
+                150
+            ],
+            "answer": "Imbalance",
+            "hint": "Problem for a tightrope walker"
+        },
+        "K": {
+            "cells": [
+                70,
+                154,
+                126,
+                1,
+                42,
+                89,
+                168
+            ],
+            "answer": "Seawall",
+            "hint": "Protective public works project"
+        },
+        "L": {
+            "cells": [
+                139,
+                53,
+                15,
+                157,
+                37,
+                116
+            ],
+            "answer": "Hybrid",
+            "hint": "Toyota Prius or Honda Insight, e.g."
+        },
+        "M": {
+            "cells": [
+                18,
+                52,
+                112,
+                77,
+                94,
+                30,
+                165
+            ],
+            "answer": "On the q.t.",
+            "hint": "Behind closed doors, in secret (3 wds.)"
+        },
+        "N": {
+            "cells": [
+                33,
+                7,
+                148,
+                160,
+                135,
+                61
+            ],
+            "answer": "Listen",
+            "hint": "Be receptive to advice"
+        },
+        "O": {
+            "cells": [
+                26,
+                83,
+                124,
+                48,
+                6,
+                161,
+                95,
+                145,
+                63
+            ],
+            "answer": "Motorcade",
+            "hint": "Post-inaugural procession"
+        },
+        "P": {
+            "cells": [
+                117,
+                36,
+                13,
+                171,
+                100,
+                55,
+                136,
+                158
+            ],
+            "answer": "Graphite",
+            "hint": "Most stable form of carbon"
+        },
+        "Q": {
+            "cells": [
+                132,
+                31,
+                62,
+                93,
+                5,
+                162,
+                76,
+                146
+            ],
+            "answer": "Outreach",
+            "hint": "Effort extended as a community service"
+        },
+        "R": {
+            "cells": [
+                142,
+                84,
+                130,
+                66,
+                172,
+                27,
+                8,
+                113
+            ],
+            "answer": "Olympics",
+            "hint": "Quadrennial flag-waving event"
+        },
+        "S": {
+            "cells": [
+                54,
+                85,
+                155,
+                16,
+                174,
+                131,
+                122
+            ],
+            "answer": "Defense",
+            "hint": "Cabinet department since 1947"
+        },
+        "T": {
+            "cells": [
+                57,
+                38,
+                127,
+                152,
+                75,
+                91,
+                108
+            ],
+            "answer": "Funnies",
+            "hint": "\u201cDoonesbury,\u201d \u201cDilbert,\u201d etc."
+        },
+        "U": {
+            "cells": [
+                87,
+                10,
+                153,
+                58,
+                99,
+                73,
+                119,
+                140,
+                24
+            ],
+            "answer": "In between",
+            "hint": "At neither extreme (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                92,
+                128,
+                35,
+                49,
+                67,
+                149,
+                107
+            ],
+            "answer": "Gabfest",
+            "hint": "Bull session, talkathon"
+        },
+        "W": {
+            "cells": [
+                82,
+                25,
+                118,
+                104,
+                60,
+                44
+            ],
+            "answer": "Harlem",
+            "hint": "Site of a 1920s-\u201930s renaissance"
+        },
+        "X": {
+            "cells": [
+                69,
+                9,
+                23,
+                105,
+                45,
+                143
+            ],
+            "answer": "Taylor",
+            "hint": "\u201cOld Rough and Ready\u201d in the White House"
+        }
+    }
+}

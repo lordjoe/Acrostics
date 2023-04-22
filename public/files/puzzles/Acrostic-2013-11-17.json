@@ -1,0 +1,353 @@
+{
+    "answer": "If someone is able to show me that what I think or do is not right, I will happily change, for I seek the truth, by which no one was ever truly harmed. It is the person who continues in his self-deception... who is harmed.",
+    "author": "Marcus Aurelius,",
+    "authorCell": [
+        113,
+        165,
+        39,
+        152,
+        83,
+        11,
+        58,
+        138,
+        72,
+        15,
+        14,
+        144,
+        107,
+        74,
+        22,
+        147,
+        115,
+        61,
+        84,
+        30,
+        51,
+        54,
+        133,
+        137,
+        145
+    ],
+    "source": "Meditations",
+    "clues": {
+        "A": {
+            "cells": [
+                113,
+                136,
+                3,
+                64,
+                34,
+                48,
+                80,
+                149
+            ],
+            "answer": "Mischief",
+            "hint": "Prankish shenanigans"
+        },
+        "B": {
+            "cells": [
+                165,
+                27,
+                143,
+                45,
+                5,
+                101
+            ],
+            "answer": "At home",
+            "hint": "Available for callers (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                39,
+                103,
+                129,
+                10,
+                67,
+                150
+            ],
+            "answer": "Rewind",
+            "hint": "Go back to the start, in a way"
+        },
+        "D": {
+            "cells": [
+                152,
+                65,
+                38,
+                21,
+                132,
+                89,
+                7,
+                53
+            ],
+            "answer": "Chow chow",
+            "hint": "Sigmund Freud\u2019s Jofi, for one (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                83,
+                44,
+                29,
+                131,
+                148,
+                63
+            ],
+            "answer": "Unholy",
+            "hint": "Far from sacred; outrageous"
+        },
+        "F": {
+            "cells": [
+                11,
+                25,
+                94,
+                41,
+                117,
+                163
+            ],
+            "answer": "Shoots",
+            "hint": "Sessions with models or actors"
+        },
+        "G": {
+            "cells": [
+                58,
+                128,
+                33,
+                161,
+                93,
+                109
+            ],
+            "answer": "Antony",
+            "hint": "\u201cCry \u2018Havoc!\u2019 and let slip the dogs of war\u201d speaker"
+        },
+        "H": {
+            "cells": [
+                138,
+                123,
+                160,
+                73,
+                56,
+                108
+            ],
+            "answer": "Uphill",
+            "hint": "The way for Sisyphus, mainly"
+        },
+        "I": {
+            "cells": [
+                72,
+                17,
+                146,
+                46,
+                168,
+                125
+            ],
+            "answer": "Roster",
+            "hint": "What should be fixed by Opening Day"
+        },
+        "J": {
+            "cells": [
+                15,
+                43,
+                135,
+                111,
+                81,
+                153
+            ],
+            "answer": "Estate",
+            "hint": "Concern of those who are willing?"
+        },
+        "K": {
+            "cells": [
+                14,
+                118,
+                49,
+                85,
+                105,
+                35,
+                158,
+                68
+            ],
+            "answer": "Lighting",
+            "hint": "Setup in a photographer\u2019s studio"
+        },
+        "L": {
+            "cells": [
+                144,
+                167,
+                60,
+                95,
+                126,
+                76
+            ],
+            "answer": "Impose",
+            "hint": "Apply by authority"
+        },
+        "M": {
+            "cells": [
+                107,
+                8,
+                62,
+                32,
+                77,
+                124
+            ],
+            "answer": "Unlike",
+            "hint": "Withdraw approval of, as an online post"
+        },
+        "N": {
+            "cells": [
+                74,
+                36,
+                127,
+                88,
+                100,
+                19,
+                157,
+                114,
+                140
+            ],
+            "answer": "Snowshoes",
+            "hint": "Gear for a winter quadrathlon"
+        },
+        "O": {
+            "cells": [
+                22,
+                90,
+                2,
+                70,
+                122,
+                169
+            ],
+            "answer": "Miffed",
+            "hint": "Put into an irritable mood"
+        },
+        "P": {
+            "cells": [
+                147,
+                52,
+                120,
+                79,
+                6,
+                104
+            ],
+            "answer": "Either",
+            "hint": "Reply from one who\u2019s noncommittal"
+        },
+        "Q": {
+            "cells": [
+                115,
+                1,
+                59,
+                154,
+                23,
+                82
+            ],
+            "answer": "Dipper",
+            "hint": "Ursa Major formation"
+        },
+        "R": {
+            "cells": [
+                61,
+                134,
+                92,
+                42,
+                13,
+                116,
+                78
+            ],
+            "answer": "Inhibit",
+            "hint": "Hold up, hamper, cramp"
+        },
+        "S": {
+            "cells": [
+                84,
+                99,
+                50,
+                141,
+                24,
+                162
+            ],
+            "answer": "Tahiti",
+            "hint": "Setting for Melville\u2019s \u201cOmoo\u201d"
+        },
+        "T": {
+            "cells": [
+                30,
+                55,
+                98,
+                12,
+                87,
+                119
+            ],
+            "answer": "Always",
+            "hint": "When a circle\u2019s circumference is 2(pi)r"
+        },
+        "U": {
+            "cells": [
+                51,
+                164,
+                106,
+                69,
+                139,
+                18
+            ],
+            "answer": "Threes",
+            "hint": "What Mariposa lily petals come in"
+        },
+        "V": {
+            "cells": [
+                54,
+                96,
+                31,
+                75,
+                142,
+                155
+            ],
+            "answer": "Intent",
+            "hint": "Beyond motive, what a district attorney hopes to prove"
+        },
+        "W": {
+            "cells": [
+                133,
+                102,
+                151,
+                166,
+                86,
+                20,
+                4,
+                37
+            ],
+            "answer": "Overbook",
+            "hint": "Subject to bumping?"
+        },
+        "X": {
+            "cells": [
+                137,
+                156,
+                91,
+                110,
+                16,
+                28,
+                66,
+                121,
+                47
+            ],
+            "answer": "\u201cNicht wahr?\u201d",
+            "hint": "\u201cIsn\u2019t that so?\u201d in another tongue (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                145,
+                57,
+                71,
+                159,
+                9,
+                112,
+                130,
+                97,
+                26,
+                40
+            ],
+            "answer": "Showerhead",
+            "hint": "Target for a green retrofit"
+        }
+    }
+}

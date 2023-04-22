@@ -1,0 +1,348 @@
+{
+    "answer": "It would be hyperbole... to name jazz a child of Carnival; however the joyous license of the music owes more than passing acquaintance to the liberties of Mardi Gras and a population ...accustomed to dancing in the streets.",
+    "author": "Henri Schindler,",
+    "authorCell": [
+        31,
+        113,
+        89,
+        127,
+        167,
+        152,
+        98,
+        87,
+        1,
+        95,
+        157,
+        17,
+        176,
+        39,
+        82,
+        101,
+        118,
+        34,
+        102,
+        96,
+        14,
+        97,
+        75
+    ],
+    "source": "Mardi Gras: (New Orleans)",
+    "clues": {
+        "A": {
+            "cells": [
+                31,
+                74,
+                61,
+                148,
+                10,
+                123,
+                110,
+                90
+            ],
+            "answer": "Hula hoop",
+            "hint": "Ring used in some circus acts (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                113,
+                65,
+                92,
+                175,
+                155,
+                15,
+                33,
+                50
+            ],
+            "answer": "Ensemble",
+            "hint": "Group of players or vocalists"
+        },
+        "C": {
+            "cells": [
+                89,
+                4,
+                153,
+                120,
+                35,
+                135,
+                172
+            ],
+            "answer": "Notions",
+            "hint": "Whims; ideas; items in a sewing kit"
+        },
+        "D": {
+            "cells": [
+                127,
+                100,
+                8,
+                43,
+                144,
+                68
+            ],
+            "answer": "Rubato",
+            "hint": "Not strictly on the beat, flexible with the tempo"
+        },
+        "E": {
+            "cells": [
+                167,
+                106,
+                81,
+                52,
+                13,
+                140
+            ],
+            "answer": "In step",
+            "hint": "Synchronized, as marchers (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                152,
+                99,
+                5,
+                85,
+                48,
+                28,
+                171
+            ],
+            "answer": "Squeeze",
+            "hint": "Play an accordion, e.g."
+        },
+        "G": {
+            "cells": [
+                98,
+                174,
+                161,
+                3,
+                69,
+                145,
+                122,
+                53
+            ],
+            "answer": "Crawfish",
+            "hint": "Etouffee ingredient, often"
+        },
+        "H": {
+            "cells": [
+                87,
+                18,
+                73,
+                133,
+                119,
+                164,
+                2,
+                30,
+                45
+            ],
+            "answer": "Hemstitch",
+            "hint": "Decorative needlework along a border"
+        },
+        "I": {
+            "cells": [
+                1,
+                107,
+                67,
+                37,
+                137,
+                12,
+                88,
+                128,
+                156,
+                178
+            ],
+            "answer": "Ice Capades",
+            "hint": "Glitzy show first seen in 1940 in Hershey, Pa. (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                95,
+                126,
+                177,
+                150,
+                112,
+                80,
+                27
+            ],
+            "answer": "Natchez",
+            "hint": "Tribe found by French explorers on the lower Mississippi"
+        },
+        "K": {
+            "cells": [
+                157,
+                132,
+                170,
+                6,
+                115,
+                26
+            ],
+            "answer": "Dahlia",
+            "hint": "Mexico\u2019s national flower"
+        },
+        "L": {
+            "cells": [
+                17,
+                159,
+                49,
+                121,
+                66,
+                83,
+                103,
+                130
+            ],
+            "answer": "Love song",
+            "hint": "Number for a flame (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                176,
+                141,
+                84,
+                57,
+                109,
+                71,
+                125,
+                11
+            ],
+            "answer": "Eurythmy",
+            "hint": "Gestural performance art sometimes used in education and therapy"
+        },
+        "N": {
+            "cells": [
+                39,
+                59,
+                21,
+                79,
+                94,
+                142,
+                160
+            ],
+            "answer": "Run wild",
+            "hint": "Cut loose, kick up your heels (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                82,
+                58,
+                7,
+                151,
+                44,
+                134,
+                70,
+                108
+            ],
+            "answer": "Modulate",
+            "hint": "Change keys in the middle of a piece"
+        },
+        "P": {
+            "cells": [
+                101,
+                136,
+                55,
+                24,
+                149,
+                169,
+                76,
+                42,
+                9
+            ],
+            "answer": "Adjective",
+            "hint": "Clifton Fadiman\u2019s \u201cbanana peel of the parts of speech\u201d"
+        },
+        "Q": {
+            "cells": [
+                118,
+                78,
+                23,
+                143,
+                168,
+                104,
+                41,
+                63
+            ],
+            "answer": "Romantic",
+            "hint": "Inclined to fantasize"
+        },
+        "R": {
+            "cells": [
+                34,
+                146,
+                47,
+                165,
+                116,
+                64,
+                91,
+                19
+            ],
+            "answer": "\u201cDown Beat\u201d",
+            "hint": "Monthly magazine for fans of bebop, blues, etc. (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                102,
+                77,
+                139,
+                40,
+                16,
+                163,
+                114,
+                29,
+                60,
+                173
+            ],
+            "answer": "Iconoclast",
+            "hint": "Smasher of idols"
+        },
+        "T": {
+            "cells": [
+                96,
+                51,
+                22,
+                124,
+                36,
+                62,
+                111,
+                154
+            ],
+            "answer": "Graffito",
+            "hint": "The writing on the wall?"
+        },
+        "U": {
+            "cells": [
+                14,
+                46,
+                32,
+                93,
+                158,
+                72,
+                131
+            ],
+            "answer": "Roister",
+            "hint": "Make merry, revel, carouse"
+        },
+        "V": {
+            "cells": [
+                97,
+                138,
+                20,
+                166,
+                117,
+                54
+            ],
+            "answer": "Apogee",
+            "hint": "Farthest point in an orbit"
+        },
+        "W": {
+            "cells": [
+                75,
+                105,
+                129,
+                147,
+                86,
+                25,
+                56,
+                38,
+                162
+            ],
+            "answer": "Saint Joan",
+            "hint": "Canonized warrior who dressed in drag (2 wds.)"
+        }
+    }
+}

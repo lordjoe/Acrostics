@@ -1,0 +1,343 @@
+{
+    "answer": "I have seen Cairo since..., but in my head was that... place, conjured up by the smell of dung and paraffin, the felt-shod tittuping sound of a donkey\u2019s hooves, kites... in a Wedgwood blue sky, the baroque gaiety of Arabic script.",
+    "author": "Penelope Lively,",
+    "authorCell": [
+        72,
+        112,
+        24,
+        82,
+        62,
+        63,
+        96,
+        157,
+        85,
+        126,
+        118,
+        140,
+        138,
+        54,
+        59,
+        134,
+        89,
+        110,
+        37,
+        23,
+        154,
+        119,
+        48
+    ],
+    "source": "Moon Tiger",
+    "clues": {
+        "A": {
+            "cells": [
+                72,
+                145,
+                3,
+                163,
+                29,
+                109,
+                88
+            ],
+            "answer": "Pharaoh",
+            "hint": "Ruler whose title means \u201cgreat house\u201d"
+        },
+        "B": {
+            "cells": [
+                112,
+                71,
+                153,
+                127,
+                1,
+                169
+            ],
+            "answer": "Edenic",
+            "hint": "Utopian, like paradise"
+        },
+        "C": {
+            "cells": [
+                24,
+                78,
+                7,
+                61,
+                100,
+                137,
+                117,
+                35,
+                149
+            ],
+            "answer": "Niels Bohr",
+            "hint": "Dane in Michael Frayn\u2019s play \u201cCopenhagen\u201d (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                82,
+                114,
+                43,
+                139,
+                65,
+                160
+            ],
+            "answer": "Escudo",
+            "hint": "What the euro replaced in Portugal"
+        },
+        "E": {
+            "cells": [
+                62,
+                162,
+                34,
+                146,
+                15,
+                81,
+                101,
+                129
+            ],
+            "answer": "\u201cLate Show\"",
+            "hint": "Stupid Pet Tricks venue (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                63,
+                38,
+                80,
+                16,
+                167,
+                111,
+                141
+            ],
+            "answer": "\"Opticks\"",
+            "hint": "Newtonian work describing the corpuscular theory of light"
+        },
+        "G": {
+            "cells": [
+                96,
+                51,
+                77,
+                64,
+                32,
+                136,
+                108,
+                8,
+                170
+            ],
+            "answer": "Puff adder",
+            "hint": "Very venomous African viper (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                157,
+                30,
+                90,
+                143,
+                120,
+                55,
+                105,
+                70,
+                42
+            ],
+            "answer": "Eddystone",
+            "hint": "With Word I, beacon for sailors in the English Channel"
+        },
+        "I": {
+            "cells": [
+                85,
+                171,
+                132,
+                115,
+                158,
+                27,
+                44,
+                102,
+                6,
+                19
+            ],
+            "answer": "Lighthouse",
+            "hint": "See Clue H"
+        },
+        "J": {
+            "cells": [
+                126,
+                79,
+                142,
+                46,
+                5,
+                93
+            ],
+            "answer": "Ink-jet",
+            "hint": "Popular printer type (hyph.)"
+        },
+        "K": {
+            "cells": [
+                118,
+                84,
+                33,
+                52,
+                130,
+                13
+            ],
+            "answer": "Vesper",
+            "hint": "Keats\u2019s \u201camorous glow-worm of the sky\u201d"
+        },
+        "L": {
+            "cells": [
+                140,
+                26,
+                49,
+                87,
+                150,
+                10,
+                121,
+                57,
+                173
+            ],
+            "answer": "Eye socket",
+            "hint": "Orbit in the skull (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                138,
+                95,
+                76,
+                123,
+                56,
+                11,
+                45,
+                168,
+                155
+            ],
+            "answer": "Lufthansa",
+            "hint": "International company whose logo is a flying crane in a circle"
+        },
+        "N": {
+            "cells": [
+                54,
+                21,
+                41,
+                148,
+                86,
+                128,
+                103
+            ],
+            "answer": "Yucatan",
+            "hint": "Locale of Chichén Itzá, site of extensive pyramid ruins"
+        },
+        "O": {
+            "cells": [
+                59,
+                47,
+                99,
+                133,
+                152,
+                25,
+                172
+            ],
+            "answer": "Mugwump",
+            "hint": "Republican switching to Cleveland in 1884"
+        },
+        "P": {
+            "cells": [
+                134,
+                161,
+                83,
+                58,
+                12,
+                104,
+                28
+            ],
+            "answer": "Offside",
+            "hint": "Over the line, for a lineman"
+        },
+        "Q": {
+            "cells": [
+                89,
+                165,
+                39,
+                14,
+                151,
+                66,
+                113
+            ],
+            "answer": "Obloquy",
+            "hint": "Verbal abuse; ill repute"
+        },
+        "R": {
+            "cells": [
+                110,
+                73,
+                4,
+                159,
+                53,
+                124,
+                36,
+                17
+            ],
+            "answer": "Navy bean",
+            "hint": "Legume used in soups and salads (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                37,
+                122,
+                22,
+                107,
+                67,
+                92,
+                164
+            ],
+            "answer": "Titania",
+            "hint": "Largest moon of Uranus, named for a fairy"
+        },
+        "T": {
+            "cells": [
+                23,
+                144,
+                125,
+                40,
+                68,
+                166,
+                106,
+                91
+            ],
+            "answer": "\"It\u2019s a Gift\u201d",
+            "hint": "W. C. Fields classic of 1934 (3 wds.)"
+        },
+        "U": {
+            "cells": [
+                154,
+                135,
+                94,
+                18,
+                2,
+                75
+            ],
+            "answer": "Gotcha",
+            "hint": "\u201cThe jig is up!\u201d"
+        },
+        "V": {
+            "cells": [
+                119,
+                50,
+                31,
+                156,
+                98,
+                69
+            ],
+            "answer": "Edwina",
+            "hint": "Viscountess Mountbatten of Burma"
+        },
+        "W": {
+            "cells": [
+                48,
+                60,
+                131,
+                74,
+                97,
+                147,
+                20,
+                116,
+                9
+            ],
+            "answer": "Red ribbon",
+            "hint": "Second prize emblem at a fair (2 wds.)"
+        }
+    }
+}

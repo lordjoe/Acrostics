@@ -1,0 +1,367 @@
+{
+    "answer": "Some of Wilde\u2019s best lines occurred only during conversation. \u201cOne must have a heart of stone to read the death of Little Nell without laughing\u201d for example-like many of his... quips-appears nowhere in his published work.",
+    "author": "Ralph Keyes,",
+    "authorCell": [
+        45,
+        80,
+        32,
+        143,
+        83,
+        176,
+        4,
+        33,
+        65,
+        46,
+        48,
+        170,
+        97,
+        140,
+        165,
+        52,
+        72,
+        158,
+        61,
+        99,
+        67,
+        159,
+        6,
+        138,
+        28,
+        78
+    ],
+    "source": "The Quote Verifier",
+    "clues": {
+        "A": {
+            "cells": [
+                45,
+                73,
+                3,
+                149,
+                115,
+                23,
+                130
+            ],
+            "answer": "Romance",
+            "hint": "\u201cThe very essence of ___ is uncertainty\u201d"
+        },
+        "B": {
+            "cells": [
+                80,
+                9,
+                116,
+                156,
+                26,
+                98,
+                135,
+                53
+            ],
+            "answer": "Algernon",
+            "hint": "Character of this puzzle\u2019s subject who speaks the line in clue A."
+        },
+        "C": {
+            "cells": [
+                32,
+                47,
+                173,
+                144,
+                111,
+                93,
+                76
+            ],
+            "answer": "Lawsuit",
+            "hint": "Jarndyce v. Jarndyce in Dickens, e.g."
+        },
+        "D": {
+            "cells": [
+                143,
+                59,
+                22,
+                88,
+                118,
+                160
+            ],
+            "answer": "Photon",
+            "hint": "Item of light construction?"
+        },
+        "E": {
+            "cells": [
+                83,
+                174,
+                2,
+                34,
+                100,
+                141,
+                55
+            ],
+            "answer": "Hoodlum",
+            "hint": "Young punk or gangster"
+        },
+        "F": {
+            "cells": [
+                176,
+                62,
+                7,
+                147,
+                128,
+                79
+            ],
+            "answer": "Kewpie",
+            "hint": "Doll named for a love deity"
+        },
+        "G": {
+            "cells": [
+                4,
+                167,
+                109,
+                18,
+                133,
+                39,
+                95,
+                153,
+                74
+            ],
+            "answer": "Ellington",
+            "hint": "\u201cSophisticated Lady\u201d composer"
+        },
+        "H": {
+            "cells": [
+                33,
+                50,
+                106,
+                137,
+                5,
+                69
+            ],
+            "answer": "Yoo-hoo",
+            "hint": "\u201cCan I get some attention here?\u201d (hyph.)"
+        },
+        "I": {
+            "cells": [
+                65,
+                132,
+                157,
+                51,
+                86,
+                21,
+                104
+            ],
+            "answer": "Earnest",
+            "hint": "Important thing to be, per a comedy of 1895"
+        },
+        "J": {
+            "cells": [
+                46,
+                58,
+                171,
+                124,
+                105,
+                11,
+                152,
+                70,
+                27,
+                134
+            ],
+            "answer": "Stephen Fry",
+            "hint": "Player of this puzzle\u2019s subject in 1997 (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                48,
+                120,
+                131,
+                164,
+                108,
+                63,
+                94,
+                8,
+                77,
+                31
+            ],
+            "answer": "Temptation",
+            "hint": "\u201cI can resist everything except ___,\u201d wrote this puzzle\u2019s subject"
+        },
+        "L": {
+            "cells": [
+                170,
+                107,
+                151,
+                13,
+                122,
+                42,
+                29
+            ],
+            "answer": "Husband",
+            "hint": "Sir Robert to Lady Gertrude in an 1895 play"
+        },
+        "M": {
+            "cells": [
+                97,
+                121,
+                40,
+                14,
+                71,
+                163
+            ],
+            "answer": "Excess",
+            "hint": "\u201cNothing succeeds like ___,\u201d wrote this puzzle\u2019s subject"
+        },
+        "N": {
+            "cells": [
+                140,
+                35,
+                60,
+                117,
+                91,
+                15
+            ],
+            "answer": "Quaffs",
+            "hint": "Hearty drinks"
+        },
+        "O": {
+            "cells": [
+                165,
+                129,
+                56,
+                96,
+                44,
+                17,
+                75
+            ],
+            "answer": "Ukulele",
+            "hint": "Instrument sometimes made from koa wood"
+        },
+        "P": {
+            "cells": [
+                52,
+                112,
+                85,
+                126,
+                38,
+                19,
+                145,
+                1,
+                64
+            ],
+            "answer": "Ogden Nash",
+            "hint": "Poet who wrote \u201cI could have loved New York had I not loved Balti-more\u201d (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                72,
+                161,
+                90,
+                36
+            ],
+            "answer": "Thor",
+            "hint": "Figure associated with a hammer"
+        },
+        "R": {
+            "cells": [
+                158,
+                101,
+                43,
+                84,
+                139
+            ],
+            "answer": "Elves",
+            "hint": "Cause of damage suggested in Robert Frost\u2019s \u201cMending Wall\u201d"
+        },
+        "S": {
+            "cells": [
+                61,
+                162,
+                92,
+                114,
+                136,
+                49,
+                148,
+                10
+            ],
+            "answer": "Vilified",
+            "hint": "Made to seem the bad guy"
+        },
+        "T": {
+            "cells": [
+                99,
+                68,
+                155,
+                168,
+                24,
+                87,
+                127
+            ],
+            "answer": "Ethical",
+            "hint": "Apt to choose right over wrong"
+        },
+        "U": {
+            "cells": [
+                67,
+                54,
+                166,
+                25,
+                82
+            ],
+            "answer": "Rebut",
+            "hint": "Say, in effect, \u201cOh yeah?\u201d"
+        },
+        "V": {
+            "cells": [
+                159,
+                123,
+                146,
+                103,
+                57,
+                89
+            ],
+            "answer": "Impish",
+            "hint": "Mischievous, pixieish"
+        },
+        "W": {
+            "cells": [
+                6,
+                125,
+                41,
+                102,
+                20,
+                150,
+                169
+            ],
+            "answer": "Flowers",
+            "hint": "Items shunned by anthophobes"
+        },
+        "X": {
+            "cells": [
+                138,
+                175,
+                37,
+                12,
+                113
+            ],
+            "answer": "Irish",
+            "hint": "Nationality metaphorical for high dudgeon"
+        },
+        "Y": {
+            "cells": [
+                28,
+                172,
+                154,
+                66,
+                119,
+                81
+            ],
+            "answer": "Edward",
+            "hint": "Prince in \u201cThe Prince and the Pauper\u201d"
+        },
+        "Z": {
+            "cells": [
+                78,
+                110,
+                16,
+                142,
+                30
+            ],
+            "answer": "Ratio",
+            "hint": "Pi, for instance"
+        }
+    }
+}

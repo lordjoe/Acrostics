@@ -1,0 +1,352 @@
+{
+    "answer": "That first Olympic marathon caught the public\u2019s imagination to a startling degree \u2014 especially in Greece itself. [I]ncentives included clothing, wine, a vast amount of chocolate and free haircuts for life at a local barber\u2019s.",
+    "author": "David Arscott,",
+    "authorCell": [
+        64,
+        20,
+        101,
+        100,
+        148,
+        126,
+        67,
+        103,
+        96,
+        114,
+        52,
+        31,
+        99,
+        29,
+        102,
+        162,
+        113,
+        79,
+        17,
+        34,
+        88,
+        173,
+        90
+    ],
+    "source": "The Olympics",
+    "clues": {
+        "A": {
+            "cells": [
+                64,
+                15,
+                40,
+                134,
+                170,
+                118,
+                157,
+                85
+            ],
+            "answer": "Distance",
+            "hint": "Specialty of some runners"
+        },
+        "B": {
+            "cells": [
+                20,
+                93,
+                150,
+                165,
+                112,
+                129,
+                46
+            ],
+            "answer": "African",
+            "hint": "Like ostriches and okapis"
+        },
+        "C": {
+            "cells": [
+                101,
+                141,
+                175,
+                48,
+                123,
+                161,
+                3,
+                25,
+                65
+            ],
+            "answer": "Volte-face",
+            "hint": "Total reversal of stance (hyph.)"
+        },
+        "D": {
+            "cells": [
+                100,
+                14,
+                32,
+                45,
+                63,
+                145,
+                81,
+                121,
+                177
+            ],
+            "answer": "Iphigenia",
+            "hint": "Title character of two plays by Euripides"
+        },
+        "E": {
+            "cells": [
+                148,
+                172,
+                120,
+                98,
+                5,
+                26,
+                60,
+                77
+            ],
+            "answer": "Downfall",
+            "hint": "Reason for a loss; ruination"
+        },
+        "F": {
+            "cells": [
+                126,
+                42,
+                176,
+                158,
+                107,
+                143,
+                24,
+                59
+            ],
+            "answer": "Ambulant",
+            "hint": "Walking, getting about on foot"
+        },
+        "G": {
+            "cells": [
+                67,
+                154,
+                36,
+                179,
+                94,
+                115
+            ],
+            "answer": "Rabbit",
+            "hint": "Tiger/dragon go-between in the Chinese zodiac"
+        },
+        "H": {
+            "cells": [
+                103,
+                27,
+                7,
+                140,
+                153,
+                174,
+                58,
+                44,
+                73
+            ],
+            "answer": "Surcharge",
+            "hint": "A.T.M. usage fee or luxury tax, e.g."
+        },
+        "I": {
+            "cells": [
+                96,
+                49,
+                4,
+                124,
+                169,
+                75,
+                23,
+                147
+            ],
+            "answer": "Citation",
+            "hint": "Triple Crown winner of 1948"
+        },
+        "J": {
+            "cells": [
+                114,
+                149,
+                166,
+                86,
+                135,
+                35,
+                178,
+                8,
+                69
+            ],
+            "answer": "Off course",
+            "hint": "Away from the intended route (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                52,
+                155,
+                13,
+                117,
+                95,
+                66
+            ],
+            "answer": "Timing",
+            "hint": "Important skill for a batter or comedian"
+        },
+        "L": {
+            "cells": [
+                31,
+                181,
+                167,
+                47,
+                74,
+                11,
+                97
+            ],
+            "answer": "Treacle",
+            "hint": "Contrived sentimentality"
+        },
+        "M": {
+            "cells": [
+                99,
+                116,
+                131,
+                19,
+                72,
+                84
+            ],
+            "answer": "Thorpe",
+            "hint": "Track star who was once voted the greatest athlete of the 20th century"
+        },
+        "N": {
+            "cells": [
+                29,
+                41,
+                55,
+                89,
+                10,
+                156,
+                104,
+                137
+            ],
+            "answer": "Historic",
+            "hint": "Very significant; for the ages"
+        },
+        "O": {
+            "cells": [
+                102,
+                9,
+                70,
+                163,
+                133,
+                146,
+                37
+            ],
+            "answer": "Eternal",
+            "hint": "Everlasting; timeless"
+        },
+        "P": {
+            "cells": [
+                162,
+                132,
+                56,
+                83,
+                43,
+                16,
+                110
+            ],
+            "answer": "Outrace",
+            "hint": "Cross the line before"
+        },
+        "Q": {
+            "cells": [
+                113,
+                61,
+                130,
+                152,
+                171,
+                38,
+                82,
+                2,
+                21
+            ],
+            "answer": "\"Limelight\"",
+            "hint": "Chaplin film in which Buster Keaton appears"
+        },
+        "R": {
+            "cells": [
+                79,
+                125,
+                91,
+                182,
+                144,
+                168,
+                51,
+                28,
+                108,
+                12
+            ],
+            "answer": "Yves Tanguy",
+            "hint": "Surrealist born in Paris (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                17,
+                54,
+                164,
+                151,
+                136,
+                80,
+                39,
+                180,
+                105,
+                1
+            ],
+            "answer": "Maleficent",
+            "hint": "Disney villain portrayed by Angelina Jolie"
+        },
+        "T": {
+            "cells": [
+                34,
+                87,
+                111,
+                68,
+                127,
+                159,
+                18,
+                142
+            ],
+            "answer": "Pedestal",
+            "hint": "Base for a trophy or statue"
+        },
+        "U": {
+            "cells": [
+                88,
+                128,
+                22,
+                76,
+                106,
+                57
+            ],
+            "answer": "Ithaca",
+            "hint": "Island home of Odysseus"
+        },
+        "V": {
+            "cells": [
+                173,
+                53,
+                122,
+                71,
+                139,
+                92,
+                33,
+                109
+            ],
+            "answer": "Consoled",
+            "hint": "Given support after a loss"
+        },
+        "W": {
+            "cells": [
+                90,
+                78,
+                6,
+                62,
+                119,
+                160,
+                138,
+                50,
+                30
+            ],
+            "answer": "Slingshot",
+            "hint": "Debut product sold by the Wham-O toy company"
+        }
+    }
+}

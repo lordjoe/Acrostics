@@ -1,0 +1,346 @@
+{
+    "answer": "My mother told me that diamond was a special form of carbon, like the coal we used in every room in winter. I was puzzled... how could black, flaky, opaque coal be the same as the hard, transparent gemstone in her ring?",
+    "author": "Oliver Sacks,",
+    "authorCell": [
+        47,
+        59,
+        85,
+        69,
+        137,
+        140,
+        134,
+        27,
+        99,
+        112,
+        146,
+        101,
+        24,
+        120,
+        105,
+        154,
+        135,
+        62,
+        145,
+        169,
+        129,
+        82,
+        61,
+        151
+    ],
+    "source": "Uncle Tungsten",
+    "clues": {
+        "A": {
+            "cells": [
+                47,
+                31,
+                70,
+                149,
+                87,
+                126,
+                10,
+                166
+            ],
+            "answer": "Operator",
+            "hint": "Flirt with smooth moves"
+        },
+        "B": {
+            "cells": [
+                59,
+                167,
+                117,
+                90,
+                150,
+                37,
+                72
+            ],
+            "answer": "Liquefy",
+            "hint": "Alter states, in a way"
+        },
+        "C": {
+            "cells": [
+                85,
+                1,
+                115,
+                58,
+                43,
+                152,
+                132,
+                19
+            ],
+            "answer": "Impacted",
+            "hint": "Had quite an effect on, as a dentist?"
+        },
+        "D": {
+            "cells": [
+                69,
+                80,
+                39,
+                9,
+                118,
+                57,
+                156,
+                23
+            ],
+            "answer": "Virtuoso",
+            "hint": "Master in an orchestra pit"
+        },
+        "E": {
+            "cells": [
+                137,
+                168,
+                92,
+                113,
+                76,
+                52,
+                63
+            ],
+            "answer": "Enzymes",
+            "hint": "Catalytic proteins"
+        },
+        "F": {
+            "cells": [
+                140,
+                163,
+                64,
+                75,
+                110,
+                38,
+                153,
+                2
+            ],
+            "answer": "Rheology",
+            "hint": "Study of the deformation and flow of matter"
+        },
+        "G": {
+            "cells": [
+                134,
+                160,
+                66,
+                48,
+                109,
+                94,
+                11,
+                25
+            ],
+            "answer": "\u201cSeinfeld\"",
+            "hint": "Sitcom that introduced the holiday Festivus"
+        },
+        "H": {
+            "cells": [
+                27,
+                102,
+                136,
+                148,
+                13,
+                46,
+                84,
+                116
+            ],
+            "answer": "Alhambra",
+            "hint": "Middle Ages fortress of Granada"
+        },
+        "I": {
+            "cells": [
+                99,
+                6,
+                139,
+                50,
+                162,
+                30,
+                122,
+                79
+            ],
+            "answer": "Chain saw",
+            "hint": "Tool for a tree surgeon (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                112,
+                77,
+                49,
+                97,
+                60,
+                21,
+                5,
+                157
+            ],
+            "answer": "Kilowatt",
+            "hint": "Power unit for generators and heaters"
+        },
+        "K": {
+            "cells": [
+                146,
+                89,
+                114,
+                4,
+                42
+            ],
+            "answer": "Spoof",
+            "hint": "Fun made by a comedy troupe"
+        },
+        "L": {
+            "cells": [
+                101,
+                147,
+                124,
+                8,
+                29,
+                161,
+                65
+            ],
+            "answer": "Upbraid",
+            "hint": "Reproach with severity"
+        },
+        "M": {
+            "cells": [
+                24,
+                158,
+                106,
+                127
+            ],
+            "answer": "Noah",
+            "hint": "Early figure in species preservation"
+        },
+        "N": {
+            "cells": [
+                120,
+                96,
+                144,
+                165,
+                36,
+                133,
+                53,
+                17,
+                81
+            ],
+            "answer": "Charlatan",
+            "hint": "Quack"
+        },
+        "O": {
+            "cells": [
+                105,
+                128,
+                88,
+                15,
+                32,
+                143
+            ],
+            "answer": "Lester",
+            "hint": "Richard who directed \u201cHelp!\u201d and \u201cSuperman II\u201d"
+        },
+        "P": {
+            "cells": [
+                154,
+                12,
+                35,
+                131
+            ],
+            "answer": "Edam",
+            "hint": "Dutch export in a red coat"
+        },
+        "Q": {
+            "cells": [
+                135,
+                86,
+                74,
+                28,
+                41,
+                155,
+                119
+            ],
+            "answer": "Twosome",
+            "hint": "Small-sized links grouping"
+        },
+        "R": {
+            "cells": [
+                62,
+                22,
+                104,
+                73,
+                44,
+                123
+            ],
+            "answer": "Umbral",
+            "hint": "Of an astronomical shadow"
+        },
+        "S": {
+            "cells": [
+                145,
+                14,
+                107,
+                51,
+                93,
+                130,
+                33,
+                68
+            ],
+            "answer": "Necklace",
+            "hint": "Guy de Maupassant story featuring a vain wife, with \u201cThe\u201d"
+        },
+        "T": {
+            "cells": [
+                169,
+                78,
+                111,
+                26,
+                55,
+                95
+            ],
+            "answer": "Gnawed",
+            "hint": "Like a bone in a doghouse"
+        },
+        "U": {
+            "cells": [
+                129,
+                54,
+                71,
+                7,
+                98,
+                141
+            ],
+            "answer": "Shrewd",
+            "hint": "Not easily played for a fool"
+        },
+        "V": {
+            "cells": [
+                82,
+                138,
+                20,
+                159,
+                108
+            ],
+            "answer": "\"Think\u201d",
+            "hint": "Aretha Franklin hit sung in \u201cThe Blues Brothers\u201d"
+        },
+        "W": {
+            "cells": [
+                61,
+                142,
+                16,
+                125,
+                45,
+                34,
+                91,
+                164,
+                103
+            ],
+            "answer": "Etherized",
+            "hint": "Put out, like Eliot\u2019s \u201cpatient ... upon a table\u201d"
+        },
+        "X": {
+            "cells": [
+                151,
+                121,
+                56,
+                100,
+                40,
+                3,
+                83,
+                67,
+                18
+            ],
+            "answer": "No comment",
+            "hint": "Unenlightening reply to a journalist (2 wds.)"
+        }
+    }
+}

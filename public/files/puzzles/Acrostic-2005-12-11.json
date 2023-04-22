@@ -1,0 +1,358 @@
+{
+    "answer": "The heart of comics lies in the space between the panels where the reader\u2018s imagination makes still pictures come alive! It\u2019s a process that can be quantified, classified, and even measured, yet remains utterly mysterious.",
+    "author": "(Scott) Mccloud,",
+    "authorCell": [
+        13,
+        29,
+        115,
+        131,
+        179,
+        165,
+        139,
+        88,
+        89,
+        137,
+        43,
+        98,
+        35,
+        141,
+        69,
+        62,
+        67,
+        65,
+        130,
+        92,
+        93,
+        70,
+        11,
+        133
+    ],
+    "source": "Reinventing Comics",
+    "clues": {
+        "A": {
+            "cells": [
+                13,
+                64,
+                169,
+                144,
+                108,
+                81
+            ],
+            "answer": "Marvel",
+            "hint": "Publisher of \u201cThe Amazing Spider-Man\u201d"
+        },
+        "B": {
+            "cells": [
+                29,
+                60,
+                176,
+                124,
+                100,
+                146
+            ],
+            "answer": "Cretin",
+            "hint": "Blockhead, dimwit, dope, imbecile"
+        },
+        "C": {
+            "cells": [
+                115,
+                39,
+                140,
+                77,
+                54
+            ],
+            "answer": "Chase",
+            "hint": "Common action sequence in the funnies"
+        },
+        "D": {
+            "cells": [
+                131,
+                162,
+                10,
+                36,
+                96,
+                178,
+                75,
+                49
+            ],
+            "answer": "Lifelike",
+            "hint": "Verisimilitudinous"
+        },
+        "E": {
+            "cells": [
+                179,
+                135,
+                17,
+                104,
+                95,
+                84,
+                37,
+                157
+            ],
+            "answer": "Oil paint",
+            "hint": "Supply for some cartoonists (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                165,
+                27,
+                102,
+                119,
+                52
+            ],
+            "answer": "Upset",
+            "hint": "Underdog\u2019s coming-out-on-top"
+        },
+        "G": {
+            "cells": [
+                139,
+                97,
+                82,
+                118,
+                159,
+                177,
+                8
+            ],
+            "answer": "\u201cDilbert\"",
+            "hint": "Strip involving official incompetence"
+        },
+        "H": {
+            "cells": [
+                88,
+                128,
+                151,
+                31,
+                168,
+                117
+            ],
+            "answer": "Reuben",
+            "hint": "Cartooning award named for Goldberg"
+        },
+        "I": {
+            "cells": [
+                89,
+                173,
+                32,
+                109,
+                2,
+                68,
+                129,
+                12,
+                47
+            ],
+            "answer": "Eyeshadow",
+            "hint": "Some touching-up to enhance a face"
+        },
+        "J": {
+            "cells": [
+                137,
+                154,
+                59,
+                113,
+                167,
+                76
+            ],
+            "answer": "Ideate",
+            "hint": "Get a light bulb over one\u2019s head?"
+        },
+        "K": {
+            "cells": [
+                43,
+                5,
+                147,
+                138,
+                61,
+                94,
+                78
+            ],
+            "answer": "Nemeses",
+            "hint": "Batman and Robin, to the Riddler"
+        },
+        "L": {
+            "cells": [
+                98,
+                132,
+                160,
+                71,
+                9,
+                20,
+                51
+            ],
+            "answer": "Vamoose",
+            "hint": "Skedaddle, hightail it, absquatulate"
+        },
+        "M": {
+            "cells": [
+                35,
+                63,
+                83,
+                48,
+                161,
+                181,
+                127,
+                110
+            ],
+            "answer": "Emphasis",
+            "hint": "The primary purpose of italics"
+        },
+        "N": {
+            "cells": [
+                141,
+                74,
+                22,
+                91,
+                155
+            ],
+            "answer": "Nancy",
+            "hint": "Frizzy-haired girl drawn by Ernie Bushmiller"
+        },
+        "O": {
+            "cells": [
+                69,
+                4,
+                30,
+                126,
+                103,
+                50,
+                164,
+                80,
+                142,
+                19
+            ],
+            "answer": "\"The Far Side\"",
+            "hint": "Skewed take on cows, dogs, bears, dinosaurs, etc. (3 wds.)"
+        },
+        "P": {
+            "cells": [
+                62,
+                172,
+                41,
+                116,
+                15,
+                79
+            ],
+            "answer": "Impact",
+            "hint": "Occasion for a \u201cthud,\u201d \u201cpow\u201d or \u201csplat\u201d"
+        },
+        "Q": {
+            "cells": [
+                67,
+                153,
+                34,
+                134,
+                85,
+                122,
+                174,
+                23,
+                56,
+                7
+            ],
+            "answer": "Newscaster",
+            "hint": "Talking head with headlines"
+        },
+        "R": {
+            "cells": [
+                65,
+                121,
+                101,
+                38,
+                25,
+                152
+            ],
+            "answer": "Gutter",
+            "hint": "Space separating boxes in a cartoon strip"
+        },
+        "S": {
+            "cells": [
+                130,
+                6,
+                175,
+                149,
+                163,
+                58,
+                73,
+                106,
+                87,
+                16,
+                44
+            ],
+            "answer": "Cat and mouse",
+            "hint": "Game Tom plays with Jerry? (3 wds.)"
+        },
+        "T": {
+            "cells": [
+                92,
+                28,
+                136,
+                18,
+                150,
+                112,
+                45,
+                171
+            ],
+            "answer": "Oafishly",
+            "hint": "How Joe Palooka acts"
+        },
+        "U": {
+            "cells": [
+                93,
+                125,
+                158,
+                111,
+                53
+            ],
+            "answer": "Mirth",
+            "hint": "Glee, jollity, a lot of laughs"
+        },
+        "V": {
+            "cells": [
+                70,
+                123,
+                1,
+                40,
+                55,
+                90,
+                166,
+                14,
+                107,
+                145,
+                26
+            ],
+            "answer": "Interstices",
+            "hint": "Little areas dividing parts"
+        },
+        "W": {
+            "cells": [
+                11,
+                24,
+                143,
+                99,
+                46,
+                156,
+                66,
+                114
+            ],
+            "answer": "\"Cheese it!\u201d",
+            "hint": "\u201cStop what you\u2019re doing and run! The cops are here!\u201d (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                133,
+                3,
+                120,
+                180,
+                148,
+                72,
+                86,
+                21,
+                57,
+                170,
+                42,
+                105,
+                33
+            ],
+            "answer": "Sequential art",
+            "hint": "Funny-paper strips, graphic novels, etc. (2 wds.)"
+        }
+    }
+}

@@ -1,0 +1,349 @@
+{
+    "answer": "Our Santa is one of the last... of a long line of dark, sooty, hair-covered men, the remnant of a pre-Christian god of awesome power. Our pipe-smoking \u201cjolly old elf\u201d is only one offshoot... . ... Santa and Satan... have the same origin.",
+    "author": "Phyllis Siefker,",
+    "authorCell": [
+        72,
+        161,
+        119,
+        121,
+        19,
+        47,
+        79,
+        138,
+        169,
+        57,
+        125,
+        111,
+        74,
+        53,
+        108,
+        147,
+        28,
+        43,
+        46,
+        49,
+        118,
+        144,
+        2,
+        143
+    ],
+    "source": "Santa Claus, (Last of the Wild Men)",
+    "clues": {
+        "A": {
+            "cells": [
+                72,
+                5,
+                115,
+                37,
+                94,
+                154,
+                21
+            ],
+            "answer": "Pajamas",
+            "hint": "Attire for going out in?"
+        },
+        "B": {
+            "cells": [
+                161,
+                1,
+                128,
+                15,
+                106,
+                48,
+                31,
+                83,
+                146
+            ],
+            "answer": "Hoofprint",
+            "hint": "Impression of a reindeer"
+        },
+        "C": {
+            "cells": [
+                119,
+                85,
+                141,
+                60,
+                27,
+                11
+            ],
+            "answer": "Yoo-hoo",
+            "hint": "Chocolate drink name since 1928 (hyph.)"
+        },
+        "D": {
+            "cells": [
+                121,
+                8,
+                104,
+                30,
+                164,
+                145,
+                55
+            ],
+            "answer": "Lapland",
+            "hint": "Region where the Sami herd and fish"
+        },
+        "E": {
+            "cells": [
+                19,
+                42,
+                6,
+                122,
+                167,
+                58,
+                137,
+                101,
+                84
+            ],
+            "answer": "London Fog",
+            "hint": "Maker of raincoats and parkas (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                47,
+                62,
+                158,
+                78,
+                133,
+                29
+            ],
+            "answer": "Irving",
+            "hint": "19th-century writer with the pen name Knickerbocker"
+        },
+        "G": {
+            "cells": [
+                79,
+                65,
+                14,
+                98,
+                127,
+                156,
+                140,
+                52
+            ],
+            "answer": "Snowshoe",
+            "hint": "Do some winter hiking"
+        },
+        "H": {
+            "cells": [
+                138,
+                116,
+                103,
+                159,
+                45,
+                61,
+                25,
+                86
+            ],
+            "answer": "Sorehead",
+            "hint": "Unsportsmanlike loser"
+        },
+        "I": {
+            "cells": [
+                169,
+                64,
+                96,
+                110,
+                151,
+                7,
+                135,
+                38
+            ],
+            "answer": "Impostor",
+            "hint": "Role-playing fraud"
+        },
+        "J": {
+            "cells": [
+                57,
+                150,
+                71,
+                40,
+                172,
+                13,
+                100
+            ],
+            "answer": "Ed Asner",
+            "hint": "Actor in a 2003 seasonal comedy starring Will Ferrell (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                125,
+                107,
+                163,
+                68,
+                87,
+                50,
+                12
+            ],
+            "answer": "Festoon",
+            "hint": "Decorate with wreaths or ribbons"
+        },
+        "L": {
+            "cells": [
+                111,
+                149,
+                34,
+                59,
+                76,
+                93,
+                124,
+                166
+            ],
+            "answer": "Knothole",
+            "hint": "Penurious spectator\u2019s viewing post"
+        },
+        "M": {
+            "cells": [
+                74,
+                148,
+                51,
+                123,
+                92
+            ],
+            "answer": "Eaves",
+            "hint": "Locations for gutters, lights or gargoyles"
+        },
+        "N": {
+            "cells": [
+                53,
+                18,
+                35,
+                168,
+                89,
+                112,
+                67
+            ],
+            "answer": "Refrain",
+            "hint": "\u201cFa la la la la, la la la la,\u201d for example"
+        },
+        "O": {
+            "cells": [
+                108,
+                22,
+                131,
+                3,
+                69,
+                88,
+                41,
+                157,
+                56
+            ],
+            "answer": "Styrofoam",
+            "hint": "Makeup of some lightweight ornaments"
+        },
+        "P": {
+            "cells": [
+                147,
+                32,
+                114,
+                95,
+                130,
+                9,
+                75
+            ],
+            "answer": "Angelic",
+            "hint": "Very nice, not at all naughty"
+        },
+        "Q": {
+            "cells": [
+                28,
+                132,
+                73,
+                90,
+                152,
+                44
+            ],
+            "answer": "Norway",
+            "hint": "Kind of spruce native to Europe"
+        },
+        "R": {
+            "cells": [
+                43,
+                120,
+                136,
+                24,
+                162,
+                63
+            ],
+            "answer": "Toffee",
+            "hint": "Middle of a Skor bar or Heath bar"
+        },
+        "S": {
+            "cells": [
+                46,
+                155,
+                16,
+                126,
+                139,
+                33,
+                77,
+                97
+            ],
+            "answer": "Antihero",
+            "hint": "Ebenezer Scrooge, to some"
+        },
+        "T": {
+            "cells": [
+                49,
+                23,
+                109,
+                134,
+                80
+            ],
+            "answer": "Comet",
+            "hint": "Phenomenon depicted by Giotto in his \u201cAdoration of the Magi\u201d"
+        },
+        "U": {
+            "cells": [
+                118,
+                102,
+                153,
+                54,
+                70,
+                171,
+                4,
+                39
+            ],
+            "answer": "Lutefisk",
+            "hint": "Scandinavian holiday entree"
+        },
+        "V": {
+            "cells": [
+                144,
+                26,
+                10,
+                82,
+                160,
+                105,
+                66,
+                129
+            ],
+            "answer": "Alsatian",
+            "hint": "British term for a German shepherd"
+        },
+        "W": {
+            "cells": [
+                2,
+                113,
+                142,
+                20,
+                165,
+                91,
+                36
+            ],
+            "answer": "Untamed",
+            "hint": "In a wild, natural state"
+        },
+        "X": {
+            "cells": [
+                143,
+                117,
+                99,
+                81,
+                170,
+                17
+            ],
+            "answer": "Sleigh",
+            "hint": "Means of transportation of the present day?"
+        }
+    }
+}

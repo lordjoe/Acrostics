@@ -1,0 +1,349 @@
+{
+    "answer": "Fifty percent of Minnesota conversations are conducted through the window of a pickup, thirty percent over lunch at the kitchen table, fifteen percent in a rowboat, and five percent in movie theaters during the movie.",
+    "author": "(Howard) Mohr,",
+    "authorCell": [
+        15,
+        34,
+        173,
+        51,
+        57,
+        176,
+        64,
+        97,
+        154,
+        46,
+        96,
+        111,
+        101,
+        175,
+        169,
+        125,
+        128,
+        143,
+        30,
+        52,
+        32,
+        31,
+        26
+    ],
+    "source": "How To Talk Minnesotan",
+    "clues": {
+        "A": {
+            "cells": [
+                15,
+                67,
+                152,
+                39,
+                103
+            ],
+            "answer": "Manet",
+            "hint": "Painter whose \u201cOlympia\u201d shocked the world in 1863"
+        },
+        "B": {
+            "cells": [
+                34,
+                177,
+                47,
+                8,
+                166,
+                82,
+                60,
+                142,
+                118
+            ],
+            "answer": "Overdrive",
+            "hint": "Heightened state of action or productivity"
+        },
+        "C": {
+            "cells": [
+                173,
+                25,
+                155,
+                58,
+                122,
+                40,
+                77,
+                137,
+                113,
+                98
+            ],
+            "answer": "Hovercraft",
+            "hint": "Vehicle used by James Bond in \u201cDie Another Day\u201d"
+        },
+        "D": {
+            "cells": [
+                51,
+                167,
+                133,
+                110,
+                151,
+                20,
+                75
+            ],
+            "answer": "Rubbish",
+            "hint": "Stuff not worth keeping or believing"
+        },
+        "E": {
+            "cells": [
+                57,
+                41,
+                140,
+                14,
+                153,
+                129,
+                107
+            ],
+            "answer": "Hoffman",
+            "hint": "Oscar winner who said \u201cOnce you\u2019re a star you\u2019re dead already. You\u2019re embalmed.\u201d"
+        },
+        "F": {
+            "cells": [
+                176,
+                80,
+                28,
+                42,
+                157,
+                93,
+                62,
+                10,
+                139
+            ],
+            "answer": "Open-ended",
+            "hint": "Unrestricted (hyph.)"
+        },
+        "G": {
+            "cells": [
+                64,
+                105,
+                127,
+                6,
+                73,
+                174,
+                56
+            ],
+            "answer": "Whippet",
+            "hint": "Small, swift dog used for hunting rabbits"
+        },
+        "H": {
+            "cells": [
+                97,
+                164,
+                23,
+                66,
+                1,
+                178,
+                45,
+                123,
+                131,
+                144
+            ],
+            "answer": "Traffic cop",
+            "hint": "One pointing in many directions at work (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                154,
+                91,
+                48,
+                115,
+                21,
+                171,
+                5
+            ],
+            "answer": "Old fogy",
+            "hint": "Conservative elder (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                46,
+                99,
+                76,
+                29,
+                108,
+                124,
+                148,
+                17
+            ],
+            "answer": "Thirteen",
+            "hint": "Bane of a triskaidekaphobe"
+        },
+        "K": {
+            "cells": [
+                96,
+                27,
+                156,
+                54,
+                85,
+                134,
+                170
+            ],
+            "answer": "Avignon",
+            "hint": "French town named in the popular song \u201cSur le Pont d\u2019___\u201d"
+        },
+        "L": {
+            "cells": [
+                111,
+                87,
+                162,
+                36,
+                59,
+                141,
+                3,
+                19
+            ],
+            "answer": "Lot\u2018s wife",
+            "hint": "Disobedient one fated to salinity (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                101,
+                33,
+                4,
+                86,
+                114,
+                132,
+                161,
+                71,
+                145
+            ],
+            "answer": "Kittiwake",
+            "hint": "Gray, cliff-dwelling gull of northern regions having only a rudimentary hind toe"
+        },
+        "N": {
+            "cells": [
+                175,
+                84,
+                24,
+                55,
+                135,
+                11,
+                102,
+                70
+            ],
+            "answer": "Mechanic",
+            "hint": "\u201cFrom Blank to Blank / A Threadless Way / I pushed ___ feet\u201d (Emily Dickinson)"
+        },
+        "O": {
+            "cells": [
+                169,
+                138,
+                18,
+                92,
+                81,
+                119,
+                43,
+                63
+            ],
+            "answer": "Innuendo",
+            "hint": "Subtle, usually derogatory implication"
+        },
+        "P": {
+            "cells": [
+                125,
+                112,
+                68,
+                160,
+                61,
+                12,
+                95,
+                179
+            ],
+            "answer": "Nepenthe",
+            "hint": "Drug mentioned in the \u201cOdyssey\u201d as a remedy for grief"
+        },
+        "Q": {
+            "cells": [
+                128,
+                100,
+                38,
+                88,
+                7,
+                165
+            ],
+            "answer": "Nerves",
+            "hint": "Jitters"
+        },
+        "R": {
+            "cells": [
+                143,
+                79,
+                89,
+                120,
+                37,
+                22,
+                9,
+                159
+            ],
+            "answer": "Eyepatch",
+            "hint": "Accouterment for a an old pirate"
+        },
+        "S": {
+            "cells": [
+                30,
+                172,
+                44,
+                158,
+                78,
+                106,
+                146,
+                121,
+                90
+            ],
+            "answer": "Stutterer",
+            "hint": "One who might say \u201cjejune\u201d?"
+        },
+        "T": {
+            "cells": [
+                52,
+                94,
+                13,
+                149,
+                35,
+                65,
+                130
+            ],
+            "answer": "O\u2019Connor",
+            "hint": "Author of the short-story collection \u201cEverything That Rises Must Converge\u201d"
+        },
+        "U": {
+            "cells": [
+                32,
+                72,
+                116,
+                53
+            ],
+            "answer": "Tutu",
+            "hint": "1984 Nobel Peace Prize recipient"
+        },
+        "V": {
+            "cells": [
+                31,
+                168,
+                104,
+                50,
+                16,
+                74,
+                117,
+                147,
+                136
+            ],
+            "answer": "Architect",
+            "hint": "Occupation of Alfred M. Butts, the inventor of Scrabble"
+        },
+        "W": {
+            "cells": [
+                26,
+                2,
+                83,
+                126,
+                69,
+                150,
+                109,
+                49,
+                163
+            ],
+            "answer": "Nictitate",
+            "hint": "To wink"
+        }
+    }
+}

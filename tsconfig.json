@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "es6",
     "inlineSources": true,
     "outDir": "./build",
     "sourceMap": true,
@@ -21,6 +21,7 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
+    "noImplicitThis": false,
     "jsx": "react-jsx"
   },
   "include": [

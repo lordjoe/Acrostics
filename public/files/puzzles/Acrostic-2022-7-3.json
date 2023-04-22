@@ -1,0 +1,372 @@
+{
+    "answer": "If a fountain could jet bouquets of chrome yellow in dazzling arches of chrysanthemum fireworks, that would be Canada Goldenrod. Each three-foot stem is a geyser of... gold daisies, ladylike in miniature, exuberant en masse.",
+    "author": "(Robin Wall) Kimmerer,",
+    "authorCell": [
+        80,
+        10,
+        34,
+        177,
+        170,
+        62,
+        76,
+        105,
+        20,
+        164,
+        178,
+        49,
+        102,
+        152,
+        43,
+        99,
+        179,
+        86,
+        103,
+        145,
+        19,
+        128,
+        171,
+        98,
+        27,
+        146
+    ],
+    "source": "Braiding Sweetgrass",
+    "clues": {
+        "A": {
+            "cells": [
+                80,
+                96,
+                169,
+                137,
+                33,
+                124
+            ],
+            "answer": "Kaboom",
+            "hint": "Report of an explosive event?"
+        },
+        "B": {
+            "cells": [
+                10,
+                176,
+                54,
+                92,
+                156,
+                139,
+                125,
+                109,
+                75,
+                36
+            ],
+            "answer": "Incendiary",
+            "hint": "Rabble-rouser, provocateur"
+        },
+        "C": {
+            "cells": [
+                34,
+                13,
+                155,
+                79,
+                108
+            ],
+            "answer": "Moire",
+            "hint": "Calendered fabric with a wavy luster"
+        },
+        "D": {
+            "cells": [
+                177,
+                40,
+                100,
+                126,
+                165,
+                17,
+                3,
+                77
+            ],
+            "answer": "Moosejaw",
+            "hint": "Outdoor retailer whose motto is \u201cLove the Madness\u201d"
+        },
+        "E": {
+            "cells": [
+                170,
+                101,
+                150,
+                121,
+                42,
+                22,
+                70
+            ],
+            "answer": "Elysium",
+            "hint": "Place of eternal spring, to Virgil"
+        },
+        "F": {
+            "cells": [
+                62,
+                118,
+                87,
+                2,
+                136,
+                45,
+                32,
+                16,
+                166,
+                104
+            ],
+            "answer": "Roof garden",
+            "hint": "Food source for urban locavores (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                76,
+                110,
+                39,
+                141,
+                26
+            ],
+            "answer": "Eclat",
+            "hint": "Panache, sparkle, brio, flair"
+        },
+        "H": {
+            "cells": [
+                105,
+                83,
+                142,
+                46,
+                119,
+                157,
+                25
+            ],
+            "answer": "Rhizome",
+            "hint": "Edible part of turmeric or ginger, in botany"
+        },
+        "I": {
+            "cells": [
+                20,
+                133,
+                158,
+                51,
+                68,
+                8,
+                116,
+                95
+            ],
+            "answer": "Brighten",
+            "hint": "Get more vibrant or luminous"
+        },
+        "J": {
+            "cells": [
+                164,
+                144,
+                106,
+                67
+            ],
+            "answer": "Riot",
+            "hint": "Splashy display, as of color"
+        },
+        "K": {
+            "cells": [
+                178,
+                12,
+                65,
+                159,
+                120,
+                31,
+                88,
+                143
+            ],
+            "answer": "Acanthus",
+            "hint": "Perennial also called bear\u2019s breeches"
+        },
+        "L": {
+            "cells": [
+                49,
+                72,
+                148,
+                167
+            ],
+            "answer": "IMAX",
+            "hint": "Pioneering format used for the 1970 film \u201cTiger Child\u201d"
+        },
+        "M": {
+            "cells": [
+                102,
+                161,
+                50,
+                140,
+                63
+            ],
+            "answer": "Dandy",
+            "hint": "First-rate, marvelous, splendid"
+        },
+        "N": {
+            "cells": [
+                152,
+                11,
+                69,
+                29,
+                117,
+                172,
+                91,
+                48,
+                132
+            ],
+            "answer": "Ineffable",
+            "hint": "Defying description"
+        },
+        "O": {
+            "cells": [
+                43,
+                28,
+                5,
+                97,
+                151,
+                115,
+                64
+            ],
+            "answer": "Noodles",
+            "hint": "Props for novice swimmers"
+        },
+        "P": {
+            "cells": [
+                99,
+                24,
+                130,
+                4,
+                84,
+                41,
+                153,
+                56,
+                180
+            ],
+            "answer": "Guy Fawkes",
+            "hint": "Conspirator who tried to blow up Parliament in 1605 (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                179,
+                23,
+                71,
+                160,
+                53,
+                112
+            ],
+            "answer": "Squirt",
+            "hint": "Dispense by squeezing, as from a mustard bottle"
+        },
+        "R": {
+            "cells": [
+                86,
+                1,
+                162,
+                30,
+                61,
+                113,
+                127,
+                47,
+                181,
+                15
+            ],
+            "answer": "Witch hazel",
+            "hint": "Tree supplying branches for dowsers (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                103,
+                135,
+                73,
+                163,
+                57,
+                37
+            ],
+            "answer": "Effuse",
+            "hint": "Talk excitedly, gush with praise"
+        },
+        "T": {
+            "cells": [
+                145,
+                78,
+                93,
+                175,
+                7,
+                123
+            ],
+            "answer": "Eocene",
+            "hint": "Epoch when roses first arose"
+        },
+        "U": {
+            "cells": [
+                19,
+                55,
+                74,
+                131,
+                174,
+                89,
+                35
+            ],
+            "answer": "Thistle",
+            "hint": "Plant in the tongue twister \u201cTheophilus, the successful ___ sifter\u201d"
+        },
+        "V": {
+            "cells": [
+                128,
+                94,
+                114,
+                147,
+                9,
+                66,
+                44
+            ],
+            "answer": "Garland",
+            "hint": "Flowery accessory"
+        },
+        "W": {
+            "cells": [
+                171,
+                154,
+                107,
+                60,
+                38,
+                134,
+                14,
+                90
+            ],
+            "answer": "Red Cloud",
+            "hint": "Oglala Sioux leader in the 1800s (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                98,
+                138,
+                21,
+                59,
+                82
+            ],
+            "answer": "Aloft",
+            "hint": "Up in the air, high in the sky"
+        },
+        "Y": {
+            "cells": [
+                27,
+                6,
+                173,
+                81,
+                111,
+                52,
+                149,
+                129
+            ],
+            "answer": "Sunshade",
+            "hint": "Protection from some radiation"
+        },
+        "Z": {
+            "cells": [
+                146,
+                18,
+                122,
+                58,
+                168,
+                85
+            ],
+            "answer": "Set out",
+            "hint": "Get underway; put on display (2 wds.)"
+        }
+    }
+}

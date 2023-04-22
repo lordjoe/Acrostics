@@ -1,0 +1,345 @@
+{
+    "answer": "He was wholly lacking in physical grace: his movements were awkward and clumsy, and he constantly overturned or broke things and tended to spill his inkwell into the piano.... He never learned to dance in time to music.",
+    "author": "Maynard Solomon,",
+    "authorCell": [
+        167,
+        27,
+        65,
+        67,
+        76,
+        94,
+        106,
+        45,
+        157,
+        119,
+        81,
+        37,
+        170,
+        77,
+        93,
+        83,
+        147,
+        169,
+        142,
+        72,
+        82,
+        49,
+        160
+    ],
+    "source": "Beethoven",
+    "clues": {
+        "A": {
+            "cells": [
+                167,
+                159,
+                53,
+                96,
+                174,
+                115,
+                1
+            ],
+            "answer": "Mawkish",
+            "hint": "Insipidly sentimental"
+        },
+        "B": {
+            "cells": [
+                27,
+                129,
+                121,
+                110,
+                4,
+                59,
+                162
+            ],
+            "answer": "Alidade",
+            "hint": "Straightedge with a telescopic sight"
+        },
+        "C": {
+            "cells": [
+                65,
+                54,
+                87,
+                41,
+                172,
+                118,
+                15,
+                145
+            ],
+            "answer": "Yarmulke",
+            "hint": "Skullcap worn during prayer"
+        },
+        "D": {
+            "cells": [
+                67,
+                91,
+                146,
+                33,
+                12,
+                165,
+                80
+            ],
+            "answer": "Novelty",
+            "hint": "Pet rock, whoopee cushion or Groucho glasses"
+        },
+        "E": {
+            "cells": [
+                76,
+                20,
+                144,
+                123,
+                154,
+                135,
+                104,
+                61,
+                10
+            ],
+            "answer": "Annie Hall",
+            "hint": "Classic Diane Keaton role (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                94,
+                47,
+                29,
+                127,
+                140,
+                107
+            ],
+            "answer": "Regent",
+            "hint": "The Duke of Somerset, vis-a-vis Edward VI"
+        },
+        "G": {
+            "cells": [
+                106,
+                92,
+                23,
+                46,
+                66,
+                79,
+                9
+            ],
+            "answer": "Dry wall",
+            "hint": "Plasterboard (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                45,
+                86,
+                161,
+                175,
+                130,
+                101,
+                32,
+                78
+            ],
+            "answer": "Succinct",
+            "hint": "Saying a lot in a few words"
+        },
+        "I": {
+            "cells": [
+                157,
+                74,
+                85,
+                148,
+                133,
+                18,
+                114,
+                98,
+                34
+            ],
+            "answer": "Ostrogoth",
+            "hint": "Subject of Theodoric the Great"
+        },
+        "J": {
+            "cells": [
+                119,
+                19,
+                48,
+                168
+            ],
+            "answer": "Lire",
+            "hint": "Hundreds of centesimi"
+        },
+        "K": {
+            "cells": [
+                81,
+                153,
+                75,
+                22,
+                42,
+                171,
+                108,
+                58,
+                158
+            ],
+            "answer": "On the mend",
+            "hint": "Rebounding (3 wds.)"
+        },
+        "L": {
+            "cells": [
+                37,
+                11,
+                24,
+                120,
+                50,
+                84,
+                95,
+                131,
+                139
+            ],
+            "answer": "\u201cMy Sharona\u201d",
+            "hint": "1979 #1 hit for the Knack (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                170,
+                71,
+                60,
+                117,
+                155,
+                111,
+                17,
+                132
+            ],
+            "answer": "Occident",
+            "hint": "The world west of Asia"
+        },
+        "N": {
+            "cells": [
+                77,
+                25,
+                137,
+                151,
+                88,
+                56,
+                44,
+                62,
+                14,
+                125
+            ],
+            "answer": "Nip and tuck",
+            "hint": "Unpredictably close or critical (3 wds.)"
+        },
+        "O": {
+            "cells": [
+                93,
+                38,
+                126,
+                51,
+                163,
+                109,
+                90,
+                141,
+                6
+            ],
+            "answer": "Bow window",
+            "hint": "Oriel, for example (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                83,
+                164,
+                26,
+                7,
+                13,
+                43,
+                113,
+                152,
+                136,
+                103,
+                64
+            ],
+            "answer": "Enchantress",
+            "hint": "Bewitcher like Circe"
+        },
+        "Q": {
+            "cells": [
+                147,
+                28,
+                128,
+                35,
+                173,
+                8,
+                105
+            ],
+            "answer": "Ellison",
+            "hint": "Author of \u201cJuneteenth\u201d"
+        },
+        "R": {
+            "cells": [
+                169,
+                70,
+                36,
+                5
+            ],
+            "answer": "Tess",
+            "hint": "Durbeyfield of fiction"
+        },
+        "S": {
+            "cells": [
+                142,
+                31,
+                3,
+                52,
+                166,
+                73,
+                102
+            ],
+            "answer": "Hawking",
+            "hint": "The sport of falconry"
+        },
+        "T": {
+            "cells": [
+                72,
+                21,
+                116,
+                89,
+                124,
+                99,
+                40,
+                138,
+                63,
+                150,
+                55
+            ],
+            "answer": "Oppenheimer",
+            "hint": "Manhattan Project physicist"
+        },
+        "U": {
+            "cells": [
+                82,
+                16,
+                39,
+                57,
+                149,
+                112,
+                100
+            ],
+            "answer": "Vivaldi",
+            "hint": "Composer (ca. 1675-1741) known familiarly as \u201cil prete rosso\u201d (the red priest)"
+        },
+        "V": {
+            "cells": [
+                49,
+                156,
+                69,
+                143,
+                30
+            ],
+            "answer": "Ether",
+            "hint": "Poetically, the clear sky or heavens"
+        },
+        "W": {
+            "cells": [
+                160,
+                97,
+                122,
+                134,
+                2,
+                68
+            ],
+            "answer": "Nested",
+            "hint": "Tucked one within another"
+        }
+    }
+}

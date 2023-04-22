@@ -1,0 +1,372 @@
+{
+    "answer": "I have had a good many more uplifting thoughts, creative and expansive visions, while soaking in comfortable baths or drying myself after bracing showers, in... well-equipped... bathrooms than I have ever had in any cathedral.",
+    "author": "Edmund Wilson,",
+    "authorCell": [
+        41,
+        142,
+        18,
+        22,
+        76,
+        178,
+        66,
+        138,
+        69,
+        128,
+        11,
+        79,
+        170,
+        140,
+        68,
+        132,
+        39,
+        161,
+        81,
+        26,
+        82,
+        172,
+        14,
+        75,
+        29,
+        8
+    ],
+    "source": "A Piece Of My Mind",
+    "clues": {
+        "A": {
+            "cells": [
+                41,
+                162,
+                149,
+                134,
+                4,
+                113,
+                98
+            ],
+            "answer": "Evolved",
+            "hint": "Went through some changes"
+        },
+        "B": {
+            "cells": [
+                142,
+                44,
+                159,
+                119,
+                64,
+                25,
+                86,
+                105
+            ],
+            "answer": "Divinity",
+            "hint": "Nutty white confection"
+        },
+        "C": {
+            "cells": [
+                18,
+                40,
+                116,
+                168,
+                77,
+                153,
+                93
+            ],
+            "answer": "Mr. Right",
+            "hint": "The gent for whom a lady looks (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                22,
+                155,
+                111,
+                137,
+                54,
+                171,
+                100
+            ],
+            "answer": "Unfunny",
+            "hint": "Not likely to split sides"
+        },
+        "E": {
+            "cells": [
+                76,
+                28,
+                136,
+                9,
+                91
+            ],
+            "answer": "Niqab",
+            "hint": "Veil over a Muslim woman\u2019s face"
+        },
+        "F": {
+            "cells": [
+                178,
+                84,
+                30,
+                109,
+                62,
+                10,
+                157,
+                43
+            ],
+            "answer": "Dogfight",
+            "hint": "Clash involving two or more aces"
+        },
+        "G": {
+            "cells": [
+                66,
+                101,
+                151,
+                176,
+                88,
+                124,
+                48,
+                21
+            ],
+            "answer": "Wishbone",
+            "hint": "Thing pulled in opposite directions"
+        },
+        "H": {
+            "cells": [
+                138,
+                103,
+                164,
+                117,
+                78,
+                16,
+                50
+            ],
+            "answer": "Igraine",
+            "hint": "Mother of King Arthur"
+        },
+        "I": {
+            "cells": [
+                69,
+                129,
+                23,
+                147,
+                160,
+                110,
+                49
+            ],
+            "answer": "Lipread",
+            "hint": "See what people say"
+        },
+        "J": {
+            "cells": [
+                128,
+                32,
+                12,
+                97,
+                169
+            ],
+            "answer": "Shorn",
+            "hint": "Completely unlocked?"
+        },
+        "K": {
+            "cells": [
+                11,
+                130,
+                146,
+                96,
+                24,
+                167
+            ],
+            "answer": "On hold",
+            "hint": "Getting Muzak instead of a person, say (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                79,
+                63,
+                27,
+                173,
+                94,
+                135,
+                13
+            ],
+            "answer": "Notched",
+            "hint": "Having a lot of indentations"
+        },
+        "M": {
+            "cells": [
+                170,
+                115,
+                47,
+                95,
+                67
+            ],
+            "answer": "Abash",
+            "hint": "Force to feel chagrin"
+        },
+        "N": {
+            "cells": [
+                140,
+                165,
+                42,
+                85,
+                15,
+                72,
+                123
+            ],
+            "answer": "Pharaoh",
+            "hint": "Any king in the Valley of the Kings"
+        },
+        "O": {
+            "cells": [
+                68,
+                83,
+                148,
+                179,
+                104,
+                3,
+                37,
+                56,
+                19,
+                120
+            ],
+            "answer": "I formation",
+            "hint": "Arrangement for picking up yards (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                132,
+                87,
+                20,
+                175,
+                6,
+                52,
+                156,
+                35
+            ],
+            "answer": "Earth pig",
+            "hint": "What some call an aardvark (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                39,
+                73,
+                152,
+                55,
+                139,
+                92,
+                125
+            ],
+            "answer": "Cat\u2019s-paw",
+            "hint": "Tool; light breeze ruffling the water\u2019s surface (hyph.)"
+        },
+        "R": {
+            "cells": [
+                161,
+                61,
+                80,
+                36,
+                5,
+                131
+            ],
+            "answer": "Eschew",
+            "hint": "Steer clear of"
+        },
+        "S": {
+            "cells": [
+                81,
+                45,
+                141,
+                114,
+                2,
+                163,
+                174,
+                127
+            ],
+            "answer": "Overhear",
+            "hint": "Incidentally get news from"
+        },
+        "T": {
+            "cells": [
+                26,
+                89,
+                166,
+                145,
+                112,
+                7,
+                51
+            ],
+            "answer": "Flat tax",
+            "hint": "Campaign issue in 1996 and 2000 (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                82,
+                144,
+                38,
+                122,
+                1,
+                59,
+                107
+            ],
+            "answer": "Massive",
+            "hint": "Huge, enormous"
+        },
+        "V": {
+            "cells": [
+                172,
+                70,
+                53,
+                31,
+                106
+            ],
+            "answer": "Yeats",
+            "hint": "Poet who wrote \u201cThe Lake Isle of Innisfree\u201d"
+        },
+        "W": {
+            "cells": [
+                14,
+                158,
+                99,
+                143,
+                181,
+                126,
+                65
+            ],
+            "answer": "Marbles",
+            "hint": "Components of one\u2019s sanity?"
+        },
+        "X": {
+            "cells": [
+                75,
+                57,
+                17,
+                108,
+                90,
+                154,
+                121,
+                34,
+                177
+            ],
+            "answer": "Ivy League",
+            "hint": "Conference titled for Hedera helix (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                29,
+                60,
+                118,
+                74,
+                102,
+                180,
+                150,
+                46
+            ],
+            "answer": "Nickname",
+            "hint": "Familiar form of something that\u2019s proper"
+        },
+        "Z": {
+            "cells": [
+                8,
+                58,
+                133,
+                33,
+                71
+            ],
+            "answer": "Delos",
+            "hint": "Cyclades island where Apollo and Artemis were born"
+        }
+    }
+}

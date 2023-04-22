@@ -1,0 +1,338 @@
+{
+    "answer": "[B]irds, toads, and mice show classic aversion reactions to fireflies \u2014 they wipe off their snouts or beaks, gag, and run away. So ... evidence suggests that ... bioluminescence first evolved to help baby fireflies ward off predators.",
+    "author": "Sara Lewis,",
+    "authorCell": [
+        85,
+        39,
+        37,
+        24,
+        152,
+        64,
+        96,
+        15,
+        139,
+        33,
+        62,
+        53,
+        38,
+        106,
+        140,
+        18,
+        63,
+        97,
+        50,
+        84,
+        25
+    ],
+    "source": "Silent Sparks",
+    "clues": {
+        "A": {
+            "cells": [
+                85,
+                100,
+                174,
+                19,
+                43,
+                131,
+                144,
+                161,
+                114
+            ],
+            "answer": "Sophocles",
+            "hint": "\u201cOedipus Rex\u201d playwright"
+        },
+        "B": {
+            "cells": [
+                39,
+                56,
+                116,
+                93,
+                181,
+                11,
+                74,
+                134,
+                146
+            ],
+            "answer": "Assurance",
+            "hint": "Pledge; lack of doubt, certitude"
+        },
+        "C": {
+            "cells": [
+                37,
+                87,
+                21,
+                154,
+                65,
+                133,
+                113,
+                170
+            ],
+            "answer": "Rawboned",
+            "hint": "Gaunt, having a lean physique"
+        },
+        "D": {
+            "cells": [
+                24,
+                109,
+                121,
+                70,
+                45,
+                57,
+                171,
+                5
+            ],
+            "answer": "Asbestos",
+            "hint": "Hazardous waste from many a demolition site"
+        },
+        "E": {
+            "cells": [
+                152,
+                49,
+                67,
+                176,
+                10,
+                29,
+                102,
+                135,
+                80
+            ],
+            "answer": "Life Saver",
+            "hint": "Candy invented in 1912 by the father of poet Hart Crane (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                64,
+                76,
+                28,
+                150,
+                8,
+                169,
+                42,
+                130,
+                115
+            ],
+            "answer": "Eucharist",
+            "hint": "Rite whose name is Greek for \u201cthanksgiving\u201d"
+        },
+        "G": {
+            "cells": [
+                96,
+                178,
+                124,
+                77,
+                147,
+                2,
+                166,
+                36,
+                17,
+                60
+            ],
+            "answer": "Walt Disney",
+            "hint": "Winner of 26 Academy Awards (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                15,
+                90,
+                73,
+                132,
+                107,
+                148,
+                164,
+                30,
+                180,
+                3,
+                55
+            ],
+            "answer": "Insectivore",
+            "hint": "Echidna, swallow or pitcher plant, e.g."
+        },
+        "I": {
+            "cells": [
+                139,
+                118,
+                34,
+                153,
+                1,
+                75,
+                89,
+                175,
+                104
+            ],
+            "answer": "Shipboard",
+            "hint": "Taking place on a cruise"
+        },
+        "J": {
+            "cells": [
+                33,
+                51,
+                95,
+                160,
+                16,
+                69,
+                143,
+                125,
+                179
+            ],
+            "answer": "Search out",
+            "hint": "Find by carefully looking (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                62,
+                91,
+                105,
+                12,
+                120,
+                137,
+                173,
+                157
+            ],
+            "answer": "Identify",
+            "hint": "Recognize; regard oneself"
+        },
+        "L": {
+            "cells": [
+                53,
+                35,
+                167,
+                108,
+                92,
+                126,
+                149,
+                78,
+                6
+            ],
+            "answer": "Lowermost",
+            "hint": "Like the abyssal and hadal zones of the ocean"
+        },
+        "M": {
+            "cells": [
+                38,
+                158,
+                52,
+                82,
+                22,
+                68,
+                122,
+                142,
+                101
+            ],
+            "answer": "Effective",
+            "hint": "Producing results; as of the date"
+        },
+        "N": {
+            "cells": [
+                106,
+                165,
+                61,
+                81,
+                123,
+                32,
+                94
+            ],
+            "answer": "Newborn",
+            "hint": "Cause for sleeplessness, often"
+        },
+        "O": {
+            "cells": [
+                140,
+                72,
+                7,
+                111,
+                163,
+                20,
+                177,
+                98,
+                46,
+                59
+            ],
+            "answer": "Troglodyte",
+            "hint": "B.C., Alley Oop or one of the Flintstones"
+        },
+        "P": {
+            "cells": [
+                18,
+                117,
+                168,
+                88,
+                141,
+                58,
+                155,
+                44,
+                4
+            ],
+            "answer": "Stagehand",
+            "hint": "Behind-the-scenes worker"
+        },
+        "Q": {
+            "cells": [
+                63,
+                83,
+                40,
+                103,
+                172,
+                127,
+                26,
+                14
+            ],
+            "answer": "Pacifism",
+            "hint": "Tenet shared by Tolstoy and Gandhi"
+        },
+        "R": {
+            "cells": [
+                97,
+                48,
+                79,
+                138,
+                151,
+                182,
+                119,
+                27,
+                13
+            ],
+            "answer": "Aforesaid",
+            "hint": "Referred to in the past"
+        },
+        "S": {
+            "cells": [
+                50,
+                31,
+                156,
+                110,
+                66,
+                136
+            ],
+            "answer": "Rebuff",
+            "hint": "Turn down; polish again?"
+        },
+        "T": {
+            "cells": [
+                84,
+                159,
+                9,
+                112,
+                23,
+                47,
+                145,
+                129,
+                99
+            ],
+            "answer": "Kid gloves",
+            "hint": "Attire needed for dealing with sensitive sorts? (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                25,
+                71,
+                162,
+                41,
+                54,
+                128,
+                86
+            ],
+            "answer": "Sifting",
+            "hint": "Theophilus Thistle\u2019s task in a famous tongue twister"
+        }
+    }
+}

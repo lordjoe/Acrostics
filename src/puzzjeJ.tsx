@@ -1,6 +1,6 @@
 
 
-export let puzzlej: string = '{\n' +
+export let puzzlejX: string = '{\n' +
     '    "answer": "From an early age... I pondered what my mind was and, by analogy, what all minds are. ... I wondered what it would be like to be a girl, to be a native speaker of another language, to be Einstein,... a dog,... an eagle, even... a mosquito.",\n' +
     '    "author": "Douglas Hofstadter,",\n' +
     '    "authorCell": [\n' +

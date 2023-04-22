@@ -1,0 +1,340 @@
+{
+    "answer": "Other human beings have all these hotly held opinions, habits, and mannerisms,... not to mention... food preferences, passions,... emotional fixations, and attitudes that in no way coincide with the correct ones, namely yours.",
+    "author": "Sue Grafton,",
+    "authorCell": [
+        177,
+        175,
+        4,
+        15,
+        176,
+        52,
+        77,
+        2,
+        142,
+        14,
+        55,
+        110,
+        129,
+        84,
+        105,
+        82,
+        101,
+        118,
+        32,
+        61,
+        141,
+        85
+    ],
+    "source": "M Is For Malice",
+    "clues": {
+        "A": {
+            "cells": [
+                177,
+                133,
+                35,
+                19,
+                165,
+                53,
+                45
+            ],
+            "answer": "Stevens",
+            "hint": "Butler in \u201cRemains of the Day\u201d"
+        },
+        "B": {
+            "cells": [
+                175,
+                76,
+                152,
+                87,
+                56,
+                158,
+                147,
+                30,
+                109
+            ],
+            "answer": "Unheard-of",
+            "hint": "Outrageous; without precedent (hyph.)"
+        },
+        "C": {
+            "cells": [
+                4,
+                111,
+                13,
+                31,
+                92,
+                174,
+                108,
+                22
+            ],
+            "answer": "Exit poll",
+            "hint": "Election day news (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                15,
+                171,
+                132,
+                120,
+                64,
+                50,
+                75,
+                164,
+                20
+            ],
+            "answer": "Gladstone",
+            "hint": "Suitcase named for a prime minister"
+        },
+        "E": {
+            "cells": [
+                176,
+                79,
+                54,
+                134,
+                65
+            ],
+            "answer": "Rodin",
+            "hint": "Creator of \u201cThe Age of Bronze\u201d"
+        },
+        "F": {
+            "cells": [
+                52,
+                8,
+                69,
+                166
+            ],
+            "answer": "Amos",
+            "hint": "Shepherd who prophesied circa 760 B.C."
+        },
+        "G": {
+            "cells": [
+                77,
+                21,
+                130,
+                154,
+                66,
+                169
+            ],
+            "answer": "Fathom",
+            "hint": "Six feet, nautically"
+        },
+        "H": {
+            "cells": [
+                2,
+                49,
+                136,
+                119,
+                150,
+                24,
+                126,
+                99
+            ],
+            "answer": "Tinnitus",
+            "hint": "Sensation of ringing in the ears"
+        },
+        "I": {
+            "cells": [
+                142,
+                116,
+                38,
+                63,
+                107,
+                91,
+                122,
+                96,
+                156,
+                16
+            ],
+            "answer": "Onomastics",
+            "hint": "Study of the origin and meaning of names"
+        },
+        "J": {
+            "cells": [
+                14,
+                155,
+                137,
+                44
+            ],
+            "answer": "Neon",
+            "hint": "Element used as a coolant in lasers"
+        },
+        "K": {
+            "cells": [
+                55,
+                102,
+                7,
+                88,
+                113,
+                93,
+                143,
+                41,
+                37,
+                160,
+                149
+            ],
+            "answer": "Mountain dew",
+            "hint": "Illegally distilled corn liquor (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                110,
+                103,
+                62,
+                33,
+                48,
+                124,
+                73,
+                27,
+                173
+            ],
+            "answer": "Itsy-bitsy",
+            "hint": "Lilliputian (hyph.)"
+        },
+        "M": {
+            "cells": [
+                129,
+                153,
+                9,
+                167,
+                17,
+                1,
+                81,
+                26
+            ],
+            "answer": "Stanhope",
+            "hint": "Open carriage drawn by a single horse"
+        },
+        "N": {
+            "cells": [
+                84,
+                23,
+                163,
+                78,
+                28,
+                140
+            ],
+            "answer": "Flooey",
+            "hint": "Out of order, cockeyed, askew"
+        },
+        "O": {
+            "cells": [
+                105,
+                57,
+                83,
+                11,
+                168,
+                117,
+                128,
+                46,
+                146,
+                162
+            ],
+            "answer": "One-base hit",
+            "hint": "Single (2 wds., hyph.)"
+        },
+        "P": {
+            "cells": [
+                82,
+                29,
+                114,
+                10,
+                59,
+                138,
+                74,
+                135,
+                100
+            ],
+            "answer": "Rhine wine",
+            "hint": "Category for oenophiles (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                101,
+                43,
+                123,
+                97,
+                86,
+                34,
+                157,
+                70,
+                148
+            ],
+            "answer": "Motor home",
+            "hint": "Dwelling for a lover of travel (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                118,
+                151,
+                67,
+                139,
+                161,
+                6
+            ],
+            "answer": "Attach",
+            "hint": "Subjoin"
+        },
+        "S": {
+            "cells": [
+                32,
+                18,
+                145,
+                3,
+                170,
+                95,
+                42,
+                51
+            ],
+            "answer": "Lachesis",
+            "hint": "Mythical measurer of life spans"
+        },
+        "T": {
+            "cells": [
+                61,
+                106,
+                89,
+                112,
+                5,
+                144,
+                121,
+                80,
+                40,
+                98,
+                71
+            ],
+            "answer": "Incarnadine",
+            "hint": "The color of blood"
+        },
+        "U": {
+            "cells": [
+                141,
+                131,
+                47,
+                125,
+                68,
+                90,
+                60,
+                36,
+                12,
+                172
+            ],
+            "answer": "Chatterley",
+            "hint": "Lady who loved a gamekeeper"
+        },
+        "V": {
+            "cells": [
+                85,
+                58,
+                127,
+                115,
+                159,
+                39,
+                25,
+                104,
+                72,
+                94
+            ],
+            "answer": "Endorphins",
+            "hint": "Peptides in the brain resembling opiates"
+        }
+    }
+}

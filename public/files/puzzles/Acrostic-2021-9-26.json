@@ -1,0 +1,355 @@
+{
+    "answer": "There are... maybe... twenty vowels in English... . There\u2019s a as in cat or father, e as in be or bed, i as in sir or big, o as in soap or look, and u as in sum or true. ... [I]f you come from New York or... Texas, these... will work differently... .",
+    "author": "Arika Okrent,",
+    "authorCell": [
+        10,
+        159,
+        85,
+        153,
+        101,
+        49,
+        133,
+        135,
+        37,
+        27,
+        1,
+        54,
+        69,
+        81,
+        2,
+        163,
+        164,
+        60,
+        124,
+        132,
+        55,
+        30,
+        118,
+        148,
+        6,
+        38
+    ],
+    "source": "Highly Irregular",
+    "clues": {
+        "A": {
+            "cells": [
+                10,
+                116,
+                158,
+                52,
+                130,
+                28
+            ],
+            "answer": "Aye-aye",
+            "hint": "Long-fingered lemur native to Madagascar; \u201cYes!\u201d (hyph.)"
+        },
+        "B": {
+            "cells": [
+                159,
+                139,
+                115,
+                53
+            ],
+            "answer": "Raft",
+            "hint": "Transport to Disneyland\u2019s Tom Sawyer Island"
+        },
+        "C": {
+            "cells": [
+                85,
+                121,
+                9,
+                100,
+                73,
+                137
+            ],
+            "answer": "Immune",
+            "hint": "Having the greatest possible resistance"
+        },
+        "D": {
+            "cells": [
+                153,
+                13,
+                97,
+                35,
+                59
+            ],
+            "answer": "Keats",
+            "hint": "Poet who wrote \u201cTouch has a memory\u201d"
+        },
+        "E": {
+            "cells": [
+                101,
+                66,
+                144,
+                14,
+                83,
+                44,
+                29
+            ],
+            "answer": "Abstain",
+            "hint": "Exercise some self-denial"
+        },
+        "F": {
+            "cells": [
+                49,
+                33,
+                90,
+                152,
+                122,
+                11
+            ],
+            "answer": "Osprey",
+            "hint": "Fish-eating raptor"
+        },
+        "G": {
+            "cells": [
+                133,
+                32,
+                15,
+                70,
+                104,
+                147,
+                84
+            ],
+            "answer": "Kiwanis",
+            "hint": "Club with the motto \u201cServing the Children of the World\u201d"
+        },
+        "H": {
+            "cells": [
+                135,
+                42,
+                150,
+                24,
+                80,
+                61,
+                102
+            ],
+            "answer": "Rawlins",
+            "hint": "Walter Mosley sleuth Ezekiel Porterhouse ____"
+        },
+        "I": {
+            "cells": [
+                37,
+                56,
+                125,
+                74
+            ],
+            "answer": "Eros",
+            "hint": "Near-Earth asteroid visited in 2000"
+        },
+        "J": {
+            "cells": [
+                27,
+                134,
+                103,
+                87,
+                160
+            ],
+            "answer": "Noise",
+            "hint": "Extraneous and distracting data"
+        },
+        "K": {
+            "cells": [
+                1,
+                36,
+                19,
+                50,
+                117,
+                72,
+                154
+            ],
+            "answer": "Thyroid",
+            "hint": "Butterfly-shaped gland"
+        },
+        "L": {
+            "cells": [
+                54,
+                120,
+                157,
+                40,
+                18,
+                4,
+                89
+            ],
+            "answer": "Hofstra",
+            "hint": "School whose N.C.A.A. teams are the Pride"
+        },
+        "M": {
+            "cells": [
+                69,
+                98,
+                156,
+                31,
+                112,
+                138
+            ],
+            "answer": "Influx",
+            "hint": "Opposite of an exodus"
+        },
+        "N": {
+            "cells": [
+                81,
+                109,
+                145,
+                8,
+                96,
+                43
+            ],
+            "answer": "Greeks",
+            "hint": "Attic residents"
+        },
+        "O": {
+            "cells": [
+                2,
+                108,
+                141,
+                51,
+                82,
+                64,
+                162
+            ],
+            "answer": "Hotfoot",
+            "hint": "Walk or run quickly"
+        },
+        "P": {
+            "cells": [
+                163,
+                41,
+                22,
+                93,
+                67,
+                105,
+                140
+            ],
+            "answer": "Lawless",
+            "hint": "Licentious, ungoverned"
+        },
+        "Q": {
+            "cells": [
+                164,
+                128,
+                58,
+                92,
+                77,
+                17,
+                113
+            ],
+            "answer": "Year one",
+            "hint": "Start of an era (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                60,
+                45,
+                123,
+                23,
+                7,
+                161,
+                88
+            ],
+            "answer": "Inferno",
+            "hint": "Bonfire greatly upsized"
+        },
+        "S": {
+            "cells": [
+                124,
+                155,
+                62,
+                12,
+                75,
+                110
+            ],
+            "answer": "Ribbit",
+            "hint": "Amphibian comment"
+        },
+        "T": {
+            "cells": [
+                132,
+                63,
+                146,
+                76,
+                114,
+                48,
+                16
+            ],
+            "answer": "Rewrite",
+            "hint": "Second or third draft of a manuscript"
+        },
+        "U": {
+            "cells": [
+                55,
+                119,
+                34,
+                94,
+                143,
+                71
+            ],
+            "answer": "Echoes",
+            "hint": "Parrots"
+        },
+        "V": {
+            "cells": [
+                30,
+                57,
+                86,
+                131,
+                107,
+                3
+            ],
+            "answer": "Genome",
+            "hint": "Modern map subject"
+        },
+        "W": {
+            "cells": [
+                118,
+                136,
+                78,
+                26,
+                46,
+                149,
+                5
+            ],
+            "answer": "Utricle",
+            "hint": "Inner ear chamber with otoliths"
+        },
+        "X": {
+            "cells": [
+                148,
+                95,
+                129,
+                111,
+                21,
+                47,
+                68
+            ],
+            "answer": "Low road",
+            "hint": "Bad course of moral conduct (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                6,
+                127,
+                99,
+                151,
+                20,
+                39,
+                65
+            ],
+            "answer": "Andover",
+            "hint": "Bay State locale of Phillips Academy"
+        },
+        "Z": {
+            "cells": [
+                38,
+                142,
+                91,
+                126,
+                79,
+                106,
+                25
+            ],
+            "answer": "Rhombus",
+            "hint": "Equilateral quadrilateral"
+        }
+    }
+}

@@ -1,0 +1,327 @@
+{
+    "answer": "We clear a tiny peephole and stare through. No wonder we are confused by the tiny fraction of a whole that we see. It is... like trying to comprehend the panorama of the desert or the sea through a rolled-up newspaper.",
+    "author": "(Jane) Goodall,",
+    "authorCell": [
+        152,
+        150,
+        79,
+        41,
+        125,
+        19,
+        4,
+        82,
+        131,
+        137,
+        37,
+        151,
+        34,
+        118,
+        68,
+        77,
+        91,
+        36,
+        160,
+        156,
+        86
+    ],
+    "source": "Through a Window",
+    "clues": {
+        "A": {
+            "cells": [
+                152,
+                132,
+                51,
+                39,
+                117,
+                101,
+                13,
+                170
+            ],
+            "answer": "Genotype",
+            "hint": "What pairs of alleles determine"
+        },
+        "B": {
+            "cells": [
+                150,
+                111,
+                62,
+                30,
+                74,
+                167,
+                138,
+                93,
+                49
+            ],
+            "answer": "Orthoptic",
+            "hint": "Having normal binocular vision"
+        },
+        "C": {
+            "cells": [
+                79,
+                57,
+                99,
+                161,
+                135,
+                15
+            ],
+            "answer": "Obtuse",
+            "hint": "Not very sharp in geometry?"
+        },
+        "D": {
+            "cells": [
+                41,
+                140,
+                98,
+                22,
+                69,
+                113,
+                159,
+                56
+            ],
+            "answer": "Drenched",
+            "hint": "Well beyond moistened"
+        },
+        "E": {
+            "cells": [
+                125,
+                54,
+                85,
+                43,
+                139,
+                3,
+                153,
+                71,
+                109,
+                169
+            ],
+            "answer": "Astrochimp",
+            "hint": "Epithet for Ham in 1961"
+        },
+        "F": {
+            "cells": [
+                19,
+                121,
+                65,
+                165,
+                46,
+                94,
+                147,
+                81
+            ],
+            "answer": "Lay waste",
+            "hint": "Be utterly ruinous (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                4,
+                154,
+                88,
+                70,
+                44,
+                18,
+                31,
+                116
+            ],
+            "answer": "Last word",
+            "hint": "Final say in an argument (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                82,
+                67,
+                21,
+                96,
+                115,
+                164,
+                143
+            ],
+            "answer": "Trainee",
+            "hint": "Apprentice, intern, newbie on the job"
+        },
+        "I": {
+            "cells": [
+                131,
+                168,
+                80,
+                66,
+                6,
+                24,
+                95,
+                45,
+                145,
+                110
+            ],
+            "answer": "Half-asleep",
+            "hint": "Neither all the way out nor all the way up (hyph.)"
+        },
+        "J": {
+            "cells": [
+                137,
+                89,
+                16,
+                157,
+                119,
+                29,
+                61
+            ],
+            "answer": "Replete",
+            "hint": "Full to the point of brimming"
+        },
+        "K": {
+            "cells": [
+                37,
+                120,
+                87,
+                64,
+                52,
+                102,
+                155,
+                14
+            ],
+            "answer": "Open fire",
+            "hint": "Begin taking shots (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                151,
+                122,
+                133,
+                28,
+                171,
+                75,
+                106,
+                50,
+                9
+            ],
+            "answer": "Underfoot",
+            "hint": "Annoyingly in the way"
+        },
+        "M": {
+            "cells": [
+                34,
+                83,
+                108,
+                144,
+                130,
+                158,
+                12
+            ],
+            "answer": "Ghostly",
+            "hint": "Pertaining to disembodied souls"
+        },
+        "N": {
+            "cells": [
+                118,
+                136,
+                11,
+                78,
+                32,
+                53,
+                166,
+                90
+            ],
+            "answer": "Henhouse",
+            "hint": "Dwelling of many layers"
+        },
+        "O": {
+            "cells": [
+                68,
+                103,
+                8,
+                25,
+                148,
+                42,
+                126,
+                84
+            ],
+            "answer": "Anathema",
+            "hint": "Object of hate, bête noire"
+        },
+        "P": {
+            "cells": [
+                77,
+                112,
+                26,
+                124,
+                92,
+                142,
+                63,
+                40
+            ],
+            "answer": "Wear thin",
+            "hint": "Grow weaker, as one\u2019s patience (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                91,
+                73,
+                60,
+                5,
+                27,
+                134,
+                163,
+                105
+            ],
+            "answer": "Inherent",
+            "hint": "Belonging by nature"
+        },
+        "R": {
+            "cells": [
+                36,
+                127,
+                97,
+                55,
+                23,
+                146,
+                162,
+                2
+            ],
+            "answer": "Naked ape",
+            "hint": "Human being, per Desmond Morris in 1967 (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                160,
+                76,
+                10,
+                149,
+                58,
+                107,
+                123,
+                38
+            ],
+            "answer": "Dairy cow",
+            "hint": "Lower in the food-production line? (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                156,
+                33,
+                141,
+                104,
+                47,
+                128,
+                1,
+                59,
+                17
+            ],
+            "answer": "Outgrowth",
+            "hint": "Consequence or byproduct"
+        },
+        "U": {
+            "cells": [
+                86,
+                35,
+                48,
+                7,
+                20,
+                129,
+                72,
+                100,
+                114
+            ],
+            "answer": "Wherefore",
+            "hint": "Question of reason, not location"
+        }
+    }
+}

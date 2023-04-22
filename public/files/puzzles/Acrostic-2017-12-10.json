@@ -1,0 +1,352 @@
+{
+    "answer": "Here\u2019s the thing. I am uniquely, and occasionally quite stupidly, fearless. I have never been... truly afraid. ... I like to shoot first and ask questions about why there is a bullet lodged deeply in my own foot much, much later.",
+    "author": "Aisha Tyler,",
+    "authorCell": [
+        162,
+        79,
+        171,
+        148,
+        56,
+        32,
+        8,
+        38,
+        159,
+        61,
+        35,
+        98,
+        87,
+        152,
+        30,
+        97,
+        69,
+        85,
+        123,
+        161,
+        47,
+        18,
+        27,
+        107
+    ],
+    "source": "Self-Inflicted Wounds",
+    "clues": {
+        "A": {
+            "cells": [
+                162,
+                65,
+                20,
+                135,
+                114,
+                37,
+                83
+            ],
+            "answer": "\"Tequila\"",
+            "hint": "Tune that Pee-wee Herman danced to in \u201cPee-wee\u2019s Big Adventure\u201d"
+        },
+        "B": {
+            "cells": [
+                79,
+                120,
+                145,
+                174,
+                57,
+                42,
+                104,
+                13
+            ],
+            "answer": "Yodeling",
+            "hint": "Artful use of pitch changes"
+        },
+        "C": {
+            "cells": [
+                171,
+                131,
+                46,
+                62,
+                88,
+                110,
+                16
+            ],
+            "answer": "Lithium",
+            "hint": "The lightest of metals"
+        },
+        "D": {
+            "cells": [
+                148,
+                51,
+                25,
+                117,
+                75,
+                11,
+                165
+            ],
+            "answer": "Elastic",
+            "hint": "Not fixed; band of clothiers?"
+        },
+        "E": {
+            "cells": [
+                56,
+                106,
+                143,
+                91,
+                19,
+                163,
+                44
+            ],
+            "answer": "\"Ragtime\"",
+            "hint": "E. L. Doctorow novel featuring a pianist"
+        },
+        "F": {
+            "cells": [
+                32,
+                166,
+                17,
+                146,
+                50,
+                73,
+                100
+            ],
+            "answer": "Shudder",
+            "hint": "What some people do to think?"
+        },
+        "G": {
+            "cells": [
+                8,
+                133,
+                60,
+                24,
+                96,
+                77,
+                113
+            ],
+            "answer": "Easy out",
+            "hint": "Pop fly or routine grounder to first (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                38,
+                144,
+                53,
+                122,
+                156,
+                68,
+                22,
+                175,
+                93
+            ],
+            "answer": "Leftovers",
+            "hint": "Contents of a doggie bag"
+        },
+        "I": {
+            "cells": [
+                159,
+                140,
+                125,
+                81,
+                33,
+                101,
+                7
+            ],
+            "answer": "Fly-fish",
+            "hint": "Act as a casting director? (hyph.)"
+        },
+        "J": {
+            "cells": [
+                61,
+                153,
+                9,
+                128,
+                82,
+                23,
+                141,
+                169,
+                108
+            ],
+            "answer": "Interlock",
+            "hint": "Crossword puzzle attribute"
+        },
+        "K": {
+            "cells": [
+                35,
+                15,
+                89,
+                54,
+                105,
+                130,
+                155,
+                72
+            ],
+            "answer": "Naked eye",
+            "hint": "Observer getting no help (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                98,
+                136,
+                31,
+                5,
+                170,
+                154,
+                115,
+                71
+            ],
+            "answer": "Flash mob",
+            "hint": "Group of seemingly random collaborators (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                87,
+                63,
+                126,
+                2,
+                150,
+                39
+            ],
+            "answer": "Lately",
+            "hint": "Since a little while back"
+        },
+        "N": {
+            "cells": [
+                152,
+                167,
+                48,
+                129,
+                34,
+                64,
+                84,
+                112,
+                4
+            ],
+            "answer": "Improvise",
+            "hint": "Make do with what\u2019s on hand"
+        },
+        "O": {
+            "cells": [
+                30,
+                137,
+                14,
+                109,
+                168,
+                86,
+                45,
+                1
+            ],
+            "answer": "Cliquish",
+            "hint": "Tending to exclude outsiders"
+        },
+        "P": {
+            "cells": [
+                97,
+                3,
+                172,
+                49,
+                116,
+                138,
+                76
+            ],
+            "answer": "Trainer",
+            "hint": "Important figure in horse racing"
+        },
+        "Q": {
+            "cells": [
+                69,
+                149,
+                99,
+                43,
+                124,
+                111,
+                173
+            ],
+            "answer": "Epithet",
+            "hint": "\u201cThe Great,\u201d for example"
+        },
+        "R": {
+            "cells": [
+                85,
+                21,
+                134,
+                121,
+                40,
+                164,
+                67
+            ],
+            "answer": "Dubuque",
+            "hint": "Iowa city named for a Québécois pioneer"
+        },
+        "S": {
+            "cells": [
+                123,
+                58,
+                36,
+                78,
+                6,
+                94,
+                151
+            ],
+            "answer": "Wealthy",
+            "hint": "Loaded"
+        },
+        "T": {
+            "cells": [
+                161,
+                29,
+                102,
+                118,
+                12,
+                147
+            ],
+            "answer": "Octane",
+            "hint": "Noteworthy number at certain stations"
+        },
+        "U": {
+            "cells": [
+                47,
+                66,
+                119,
+                28,
+                157,
+                90,
+                142
+            ],
+            "answer": "Unbowed",
+            "hint": "Still resolute despite hardships"
+        },
+        "V": {
+            "cells": [
+                18,
+                103,
+                59,
+                132,
+                80,
+                41
+            ],
+            "answer": "Nassau",
+            "hint": "World capital located on the island of New Providence"
+        },
+        "W": {
+            "cells": [
+                27,
+                95,
+                70,
+                160,
+                139,
+                10,
+                52
+            ],
+            "answer": "Dorothy",
+            "hint": "Gale known for blowing out of Kansas"
+        },
+        "X": {
+            "cells": [
+                107,
+                127,
+                55,
+                74,
+                26,
+                92,
+                158
+            ],
+            "answer": "Shannon",
+            "hint": "Longest river in Ireland"
+        }
+    }
+}

@@ -1,0 +1,344 @@
+{
+    "answer": "Pinball games were constrained by... physical laws.... The video world knows no such bounds. Objects fly,... accelerate, change shape and color, disappear and reappear.... [A] representation of a ball... never need obey the laws of gravity....",
+    "author": "Sherry Turkle,",
+    "authorCell": [
+        12,
+        93,
+        128,
+        132,
+        22,
+        81,
+        77,
+        68,
+        130,
+        55,
+        152,
+        168,
+        172,
+        160,
+        17,
+        144,
+        19,
+        70,
+        98,
+        11,
+        80,
+        147
+    ],
+    "source": "Second Self",
+    "clues": {
+        "A": {
+            "cells": [
+                12,
+                100,
+                121,
+                54,
+                171,
+                24,
+                84,
+                65
+            ],
+            "answer": "Sandwich",
+            "hint": "Earldom of the eponymous John Montagu"
+        },
+        "B": {
+            "cells": [
+                93,
+                2,
+                76,
+                106,
+                63,
+                30,
+                137
+            ],
+            "answer": "Hiccups",
+            "hint": "Affliction sometimes treated with a spoonful of granulated sugar"
+        },
+        "C": {
+            "cells": [
+                128,
+                145,
+                97,
+                41,
+                64,
+                173
+            ],
+            "answer": "Enesco",
+            "hint": "Romanian violinist who taught Yehudi Menuhin"
+        },
+        "D": {
+            "cells": [
+                132,
+                43,
+                23,
+                163,
+                111,
+                72,
+                10,
+                148,
+                60,
+                92,
+                181
+            ],
+            "answer": "Rhabdomancy",
+            "hint": "Divination by means of a dowsing rod"
+        },
+        "E": {
+            "cells": [
+                22,
+                89,
+                1,
+                126,
+                75,
+                151
+            ],
+            "answer": "Rappel",
+            "hint": "Descend with the aid of a rope"
+        },
+        "F": {
+            "cells": [
+                81,
+                156,
+                37,
+                6,
+                146,
+                58,
+                113,
+                21,
+                67,
+                95,
+                44
+            ],
+            "answer": "Yellowstone",
+            "hint": "The world\u2019s first national park"
+        },
+        "G": {
+            "cells": [
+                77,
+                167,
+                107,
+                139,
+                8
+            ],
+            "answer": "Thong",
+            "hint": "Article displayed by an ecdysiast"
+        },
+        "H": {
+            "cells": [
+                68,
+                3,
+                122,
+                136,
+                52,
+                13,
+                177,
+                29
+            ],
+            "answer": "Under way",
+            "hint": "In motion, making progress (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                130,
+                109,
+                83,
+                99,
+                26,
+                71,
+                166,
+                138,
+                176
+            ],
+            "answer": "Rochester",
+            "hint": "Radio role made famous by Eddie Anderson"
+        },
+        "J": {
+            "cells": [
+                55,
+                129,
+                110,
+                39,
+                142,
+                85
+            ],
+            "answer": "Karate",
+            "hint": "Sport whose name means, literally, empty hand"
+        },
+        "K": {
+            "cells": [
+                152,
+                170,
+                59,
+                35,
+                131,
+                86,
+                103
+            ],
+            "answer": "La Scala",
+            "hint": "Tourist attraction in Milan, Italy (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                168,
+                27,
+                50,
+                82,
+                119,
+                161,
+                5,
+                149,
+                73,
+                133,
+                32
+            ],
+            "answer": "Edward Abbey",
+            "hint": "Environmental activist and author of \u201cThe Monkey Wrench Gang\u201d (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                172,
+                48,
+                157,
+                127,
+                16,
+                104,
+                140
+            ],
+            "answer": "Serpent",
+            "hint": "Firework that writhes as it burns"
+        },
+        "N": {
+            "cells": [
+                160,
+                169,
+                46,
+                74,
+                120,
+                31
+            ],
+            "answer": "Elijah",
+            "hint": "Prophet who was the subject of a Mendelssohn oratorio"
+        },
+        "O": {
+            "cells": [
+                17,
+                36,
+                135,
+                153,
+                91,
+                108,
+                179,
+                125,
+                56
+            ],
+            "answer": "Carnelian",
+            "hint": "Norway\u2019s national gemstone, a red form of chalcedony"
+        },
+        "P": {
+            "cells": [
+                144,
+                15,
+                118,
+                69,
+                96,
+                159,
+                28,
+                49,
+                40,
+                7
+            ],
+            "answer": "Orange Bowl",
+            "hint": "Annual Pro Player Stadium event (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                19,
+                162,
+                62,
+                154,
+                105,
+                143,
+                45,
+                124
+            ],
+            "answer": "Nosedive",
+            "hint": "Precipitous plunge"
+        },
+        "R": {
+            "cells": [
+                70,
+                9,
+                155,
+                117,
+                25,
+                101,
+                51,
+                88,
+                42
+            ],
+            "answer": "Davenport",
+            "hint": "City across the Mississippi from Rock Island, Ill."
+        },
+        "S": {
+            "cells": [
+                98,
+                116,
+                34,
+                158,
+                18,
+                174,
+                79
+            ],
+            "answer": "Spinoff",
+            "hint": "\u201cMaude\u201d vis-a-vis \u201cAll in the Family\u201d"
+        },
+        "T": {
+            "cells": [
+                11,
+                141,
+                20,
+                165,
+                47,
+                57,
+                87,
+                78,
+                112,
+                180
+            ],
+            "answer": "Easy does it",
+            "hint": "\u201cNot so fast!\u201d (3 wds.)"
+        },
+        "U": {
+            "cells": [
+                80,
+                61,
+                178,
+                164,
+                94,
+                134,
+                115,
+                38,
+                14
+            ],
+            "answer": "Love apple",
+            "hint": "Old-fashioned term for a tomato (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                147,
+                53,
+                150,
+                66,
+                4,
+                102,
+                123,
+                175,
+                114,
+                33,
+                90
+            ],
+            "answer": "Flabbergast",
+            "hint": "Boggle the mind, astonish"
+        }
+    }
+}

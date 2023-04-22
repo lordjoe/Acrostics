@@ -1,0 +1,357 @@
+{
+    "answer": "I was born... in the primordial darkness just before the dawn of the exercise epoch.... There was no T-ball, no soccer, no aquatics....There was no working out, no going for the burn, no digging deep, nor any shredding of the gnar.",
+    "author": "(Alison) Bechdel,",
+    "authorCell": [
+        133,
+        104,
+        87,
+        66,
+        160,
+        54,
+        80,
+        60,
+        94,
+        63,
+        88,
+        57,
+        157,
+        118,
+        17,
+        25,
+        150,
+        156,
+        77,
+        158,
+        53,
+        154,
+        122,
+        167,
+        168
+    ],
+    "source": "(The Secret to) Superhuman Strength",
+    "clues": {
+        "A": {
+            "cells": [
+                133,
+                85,
+                110,
+                166,
+                23,
+                148,
+                55
+            ],
+            "answer": "Bowflex",
+            "hint": "Brand name in home gyms"
+        },
+        "B": {
+            "cells": [
+                104,
+                14,
+                147,
+                71,
+                124,
+                34,
+                51
+            ],
+            "answer": "Epeeist",
+            "hint": "One doing some fencing?"
+        },
+        "C": {
+            "cells": [
+                87,
+                18,
+                38,
+                127,
+                56,
+                159
+            ],
+            "answer": "Coffee",
+            "hint": "Reason for many a break"
+        },
+        "D": {
+            "cells": [
+                66,
+                117,
+                98,
+                27,
+                44,
+                155
+            ],
+            "answer": "Hockey",
+            "hint": "Sport whose variants include bandy"
+        },
+        "E": {
+            "cells": [
+                160,
+                140,
+                7,
+                61,
+                86,
+                42
+            ],
+            "answer": "Direct",
+            "hint": "Straight; plain-spoken"
+        },
+        "F": {
+            "cells": [
+                54,
+                19,
+                89,
+                111,
+                129,
+                74
+            ],
+            "answer": "Errors",
+            "hint": "Column on a baseball scoreboard"
+        },
+        "G": {
+            "cells": [
+                80,
+                3,
+                30,
+                114,
+                163,
+                141
+            ],
+            "answer": "Lasing",
+            "hint": "Doing some light chores?"
+        },
+        "H": {
+            "cells": [
+                60,
+                105,
+                37,
+                79,
+                130,
+                13,
+                152
+            ],
+            "answer": "Sweater",
+            "hint": "Apparel donned for warming up"
+        },
+        "I": {
+            "cells": [
+                94,
+                136,
+                59,
+                119,
+                73,
+                173,
+                20
+            ],
+            "answer": "Unitard",
+            "hint": "One-piece garment for an acrobat, say"
+        },
+        "J": {
+            "cells": [
+                63,
+                153,
+                125,
+                35,
+                107
+            ],
+            "answer": "Pants",
+            "hint": "Recovers from a sprint, in a way"
+        },
+        "K": {
+            "cells": [
+                88,
+                115,
+                45,
+                128,
+                70,
+                149,
+                101,
+                21,
+                171,
+                4
+            ],
+            "answer": "Endorphins",
+            "hint": "Neurochemicals behind a \u201crunner\u2019s high\u201d"
+        },
+        "L": {
+            "cells": [
+                57,
+                123,
+                5,
+                162,
+                90,
+                43,
+                138,
+                109,
+                24
+            ],
+            "answer": "Robin Hood",
+            "hint": "Legendary figure with a quiver (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                157,
+                121,
+                36,
+                137,
+                64,
+                78
+            ],
+            "answer": "Hobnob",
+            "hint": "Pal around; schmooze"
+        },
+        "N": {
+            "cells": [
+                118,
+                82,
+                161,
+                69,
+                26,
+                52,
+                95,
+                10,
+                139
+            ],
+            "answer": "Underhand",
+            "hint": "Kind of grip in weightlifting or a throw in softball"
+        },
+        "O": {
+            "cells": [
+                17,
+                46,
+                68,
+                32,
+                83,
+                120,
+                164,
+                145
+            ],
+            "answer": "Mah-jongg",
+            "hint": "Game with winds and dragons (hyph.)"
+        },
+        "P": {
+            "cells": [
+                25,
+                65,
+                100,
+                143,
+                165,
+                48
+            ],
+            "answer": "Action",
+            "hint": "What\u2019s taken by decisive people"
+        },
+        "Q": {
+            "cells": [
+                150,
+                29,
+                106,
+                81,
+                131,
+                169,
+                50,
+                67,
+                1
+            ],
+            "answer": "Neal Hefti",
+            "hint": "Composer of TV\u2019s \u201cBatman\u201d theme (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                156,
+                93,
+                33,
+                172,
+                11
+            ],
+            "answer": "Squat",
+            "hint": "Having a thick, short build"
+        },
+        "S": {
+            "cells": [
+                77,
+                12,
+                112,
+                134,
+                31,
+                96
+            ],
+            "answer": "Thrust",
+            "hint": "Essential point of an argument"
+        },
+        "T": {
+            "cells": [
+                158,
+                39,
+                72,
+                97,
+                8,
+                116
+            ],
+            "answer": "Rowing",
+            "hint": "Competition requiring good blades"
+        },
+        "U": {
+            "cells": [
+                53,
+                126,
+                170,
+                9,
+                75,
+                142,
+                91,
+                108
+            ],
+            "answer": "Egging on",
+            "hint": "The opposite of dissuading (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                154,
+                22,
+                135,
+                103,
+                49,
+                2
+            ],
+            "answer": "Narrow",
+            "hint": "Close, as a margin of victory"
+        },
+        "W": {
+            "cells": [
+                122,
+                15,
+                41,
+                62,
+                144,
+                99
+            ],
+            "answer": "Greens",
+            "hint": "Places for putting balls"
+        },
+        "X": {
+            "cells": [
+                167,
+                92,
+                132,
+                113,
+                47,
+                6,
+                28,
+                146,
+                76
+            ],
+            "answer": "Tae kwon do",
+            "hint": "Pursuit whose users certainly get their kicks (3 wds.)"
+        },
+        "Y": {
+            "cells": [
+                168,
+                102,
+                40,
+                151,
+                16,
+                58,
+                84
+            ],
+            "answer": "Heroics",
+            "hint": "Daring doings; Herculean efforts"
+        }
+    }
+}

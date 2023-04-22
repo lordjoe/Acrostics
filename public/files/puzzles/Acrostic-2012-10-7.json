@@ -1,0 +1,338 @@
+{
+    "answer": "[Trying] to spell... the... sounds that pigs make... isn\u2018t easy. ... Chickens being more articulate, you\u2019ll find their noises to be... similar the world round. Baby chicks go peep peep in English, pio pio in Spanish, piyo piyo in Japanese.",
+    "author": "Roy Blount,",
+    "authorCell": [
+        58,
+        110,
+        160,
+        92,
+        73,
+        145,
+        111,
+        20,
+        62,
+        67,
+        139,
+        158,
+        24,
+        32,
+        51,
+        81,
+        68,
+        168,
+        72,
+        134,
+        121,
+        69
+    ],
+    "source": "Alphabet Juice",
+    "clues": {
+        "A": {
+            "cells": [
+                58,
+                19,
+                5,
+                141,
+                102,
+                165,
+                83,
+                38
+            ],
+            "answer": "Run short",
+            "hint": "Fail to keep up with demand (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                110,
+                86,
+                66,
+                9,
+                47,
+                163,
+                137
+            ],
+            "answer": "Oilskin",
+            "hint": "Article of sailor\u2019s attire"
+        },
+        "C": {
+            "cells": [
+                160,
+                76,
+                27,
+                143,
+                4,
+                52
+            ],
+            "answer": "Yippie",
+            "hint": "1960s rebel like Abbie Hoffman or Jerry Rubin"
+        },
+        "D": {
+            "cells": [
+                92,
+                147,
+                6,
+                119,
+                105,
+                61,
+                167
+            ],
+            "answer": "Bighorn",
+            "hint": "Colorado\u2019s official state animal"
+        },
+        "E": {
+            "cells": [
+                73,
+                35,
+                55,
+                15,
+                101,
+                85,
+                129,
+                175,
+                2,
+                153
+            ],
+            "answer": "Light opera",
+            "hint": "Any D\u2019Oyly Carte production (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                145,
+                109,
+                28,
+                75,
+                159,
+                46,
+                127
+            ],
+            "answer": "Orifice",
+            "hint": "Hole, mouth, aperture"
+        },
+        "G": {
+            "cells": [
+                111,
+                41,
+                8,
+                152,
+                59,
+                84
+            ],
+            "answer": "U.S. Open",
+            "hint": "N.Y. setting for some September smashes (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                20,
+                95,
+                172,
+                161,
+                79,
+                64,
+                142,
+                122,
+                40
+            ],
+            "answer": "Ninotchka",
+            "hint": "Movie promoted with the tagline \u201cGarbo laughs\u201d"
+        },
+        "I": {
+            "cells": [
+                62,
+                25,
+                144,
+                13,
+                94,
+                162,
+                45,
+                112
+            ],
+            "answer": "Tailspin",
+            "hint": "Precipitous and out-of-control downturn"
+        },
+        "J": {
+            "cells": [
+                67,
+                135,
+                93,
+                50,
+                14,
+                80,
+                34,
+                151,
+                120,
+                169
+            ],
+            "answer": "Anesthesia",
+            "hint": "Condition induced by acupuncture"
+        },
+        "K": {
+            "cells": [
+                139,
+                82,
+                98,
+                164,
+                126,
+                60,
+                21
+            ],
+            "answer": "Lily pad",
+            "hint": "Accidental aid for a famous Bobby Jones shot (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                158,
+                132,
+                106,
+                53,
+                118,
+                74,
+                88,
+                30
+            ],
+            "answer": "Pericles",
+            "hint": "Attic orator, general and patron of the arts"
+        },
+        "M": {
+            "cells": [
+                24,
+                70,
+                133,
+                173,
+                100,
+                116,
+                148,
+                12,
+                48
+            ],
+            "answer": "Hyperbole",
+            "hint": "\u201cI could eat a horse\u201d or \u201cWe laughed our heads off,\u201d e.g."
+        },
+        "N": {
+            "cells": [
+                32,
+                114,
+                3,
+                17,
+                174,
+                63,
+                154,
+                140,
+                99,
+                49
+            ],
+            "answer": "Abyssinian",
+            "hint": "Silky-coated cat with long legs"
+        },
+        "O": {
+            "cells": [
+                51,
+                115,
+                78,
+                90,
+                171,
+                36,
+                23,
+                128
+            ],
+            "answer": "Bad taste",
+            "hint": "Monarch\u2019s defense against predators (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                81,
+                10,
+                97,
+                113,
+                131,
+                31,
+                155,
+                43
+            ],
+            "answer": "Epidemic",
+            "hint": "Cause of many a sci-fi apocalypse"
+        },
+        "Q": {
+            "cells": [
+                68,
+                157,
+                136,
+                18,
+                107,
+                91,
+                124,
+                42
+            ],
+            "answer": "Theology",
+            "hint": "Preordained course of study?"
+        },
+        "R": {
+            "cells": [
+                168,
+                65,
+                96,
+                146,
+                22,
+                44,
+                125,
+                1
+            ],
+            "answer": "Jump shot",
+            "hint": "One way to drain a bucket, so to speak (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                72,
+                130,
+                87,
+                104,
+                149,
+                54,
+                29
+            ],
+            "answer": "Upswing",
+            "hint": "Period of economic recovery"
+        },
+        "T": {
+            "cells": [
+                134,
+                57,
+                77,
+                103,
+                156,
+                33,
+                117,
+                11
+            ],
+            "answer": "Ione Skye",
+            "hint": "Actress whose father wrote and sang \u201cAtlantis\u201d (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                121,
+                71,
+                150,
+                26,
+                39,
+                56,
+                170,
+                7
+            ],
+            "answer": "Contempt",
+            "hint": "Charge against the Hollywood Ten in 1947"
+        },
+        "V": {
+            "cells": [
+                69,
+                108,
+                138,
+                166,
+                37,
+                16,
+                89,
+                123
+            ],
+            "answer": "Edginess",
+            "hint": "Envelope-pushing quality"
+        }
+    }
+}

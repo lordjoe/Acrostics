@@ -1,0 +1,356 @@
+{
+    "answer": "[Hummingbirds] spell out their intentions and moods just as bees, fireflies or hula dancers do. ... Males twirl, joust, sideswipe and somersault. Brazen and fierce, they will take on large adversaries, even cats, dogs or humans.",
+    "author": "Diane Ackerman,",
+    "authorCell": [
+        11,
+        5,
+        165,
+        178,
+        61,
+        155,
+        164,
+        140,
+        57,
+        127,
+        3,
+        145,
+        6,
+        4,
+        66,
+        138,
+        126,
+        104,
+        149,
+        30,
+        128,
+        129,
+        64,
+        49
+    ],
+    "source": "Mute Dancers (How To Watch A Hummingbird)",
+    "clues": {
+        "A": {
+            "cells": [
+                11,
+                141,
+                107,
+                60,
+                88,
+                40,
+                174,
+                163
+            ],
+            "answer": "Demijohn",
+            "hint": "Bottle with a narrow neck and a wicker casing"
+        },
+        "B": {
+            "cells": [
+                5,
+                150,
+                18,
+                59,
+                135,
+                118,
+                73,
+                42
+            ],
+            "answer": "Idolized",
+            "hint": "Put on a pedestal"
+        },
+        "C": {
+            "cells": [
+                165,
+                72,
+                121,
+                143,
+                92,
+                22,
+                112,
+                12
+            ],
+            "answer": "Acanthus",
+            "hint": "Leaf-shaped ornament in the Corinthian order"
+        },
+        "D": {
+            "cells": [
+                178,
+                41,
+                134,
+                89,
+                71,
+                123,
+                15,
+                156
+            ],
+            "answer": "No wonder",
+            "hint": "\u201cWell, that explains it!\u201d (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                61,
+                103,
+                43,
+                9,
+                124,
+                142,
+                173,
+                78
+            ],
+            "answer": "Ensiform",
+            "hint": "Sword-shaped"
+        },
+        "F": {
+            "cells": [
+                155,
+                115,
+                51,
+                17,
+                68,
+                86,
+                168
+            ],
+            "answer": "Abelard",
+            "hint": "Medieval theologian with an illicit love"
+        },
+        "G": {
+            "cells": [
+                164,
+                67,
+                108,
+                139,
+                151,
+                52
+            ],
+            "answer": "Cleave",
+            "hint": "Divide by a blow, as with an ax"
+        },
+        "H": {
+            "cells": [
+                140,
+                119,
+                46,
+                28,
+                74,
+                101,
+                87
+            ],
+            "answer": "Kestrel",
+            "hint": "Small falcon known for hovering with its head to the wind"
+        },
+        "I": {
+            "cells": [
+                57,
+                122,
+                8,
+                146,
+                77,
+                91,
+                167,
+                23
+            ],
+            "answer": "En brosse",
+            "hint": "Cut short by un coiffeur so as to stand up like bristles (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                127,
+                117,
+                31,
+                177,
+                54,
+                94,
+                70
+            ],
+            "answer": "Ratafia",
+            "hint": "Sweet, almond-flavored liqueur"
+        },
+        "K": {
+            "cells": [
+                3,
+                157,
+                110,
+                35,
+                100,
+                56,
+                125,
+                75,
+                176
+            ],
+            "answer": "Miss Prism",
+            "hint": "Absent-minded governess in \u201cThe Importance of Being Earnest\u201d (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                145,
+                130,
+                58,
+                36,
+                2,
+                80,
+                166
+            ],
+            "answer": "At fault",
+            "hint": "Responsible for an error, blameworthy (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                6,
+                162,
+                114,
+                44,
+                175,
+                95,
+                147,
+                29
+            ],
+            "answer": "Net judge",
+            "hint": "Arbiter at court? (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                4,
+                32,
+                154,
+                20,
+                109,
+                132,
+                62,
+                93
+            ],
+            "answer": "Mistress",
+            "hint": "Anna Karenina, to Aleksei Vronski"
+        },
+        "O": {
+            "cells": [
+                66,
+                14,
+                153,
+                55,
+                105,
+                85,
+                27,
+                170
+            ],
+            "answer": "Uprising",
+            "hint": "Outbreak against a government"
+        },
+        "P": {
+            "cells": [
+                138,
+                81,
+                102,
+                53,
+                160,
+                116
+            ],
+            "answer": "Teaser",
+            "hint": "Puzzle that engages the brain"
+        },
+        "Q": {
+            "cells": [
+                126,
+                34,
+                161,
+                99,
+                63,
+                19,
+                171
+            ],
+            "answer": "Envious",
+            "hint": "Green in a passionate sense"
+        },
+        "R": {
+            "cells": [
+                104,
+                148,
+                48,
+                76,
+                16,
+                133
+            ],
+            "answer": "Deadly",
+            "hint": "Like some sins"
+        },
+        "S": {
+            "cells": [
+                149,
+                69,
+                111,
+                39,
+                97,
+                10,
+                26,
+                50
+            ],
+            "answer": "\u201cAdam\u2019s Rib\u201d",
+            "hint": "Cukor-directed film of 1949 in which Tracy and Hepburn clash as lawyers (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                30,
+                45,
+                83,
+                159,
+                1,
+                96,
+                144,
+                136
+            ],
+            "answer": "Nutshell",
+            "hint": "Concise synopsis, metaphorically"
+        },
+        "U": {
+            "cells": [
+                128,
+                33,
+                113,
+                169,
+                179,
+                13,
+                90,
+                82
+            ],
+            "answer": "Colossus",
+            "hint": "Statue of Helios of which Pliny wrote, \u201cFew people can make their arms meet round the thumb\u201d"
+        },
+        "V": {
+            "cells": [
+                129,
+                25,
+                152,
+                84,
+                65,
+                106,
+                37
+            ],
+            "answer": "Erewhon",
+            "hint": "Utopia imagined by Samuel Butler"
+        },
+        "W": {
+            "cells": [
+                64,
+                24,
+                7,
+                131,
+                47,
+                120,
+                172,
+                98
+            ],
+            "answer": "Right now",
+            "hint": "\u201cThis very minute!\u201d (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                49,
+                79,
+                137,
+                21,
+                158,
+                38
+            ],
+            "answer": "Salted",
+            "hint": "Treated to last, in a way"
+        }
+    }
+}

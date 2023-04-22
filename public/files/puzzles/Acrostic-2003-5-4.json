@@ -1,0 +1,363 @@
+{
+    "answer": "As to spelling the... word though with six letters instead of two, it is impossible to discuss it, as it is outside the range of common sanity. In comparison such a monstrosity as phlegm for flem is merely disgusting.",
+    "author": "George Bernard Shaw,",
+    "authorCell": [
+        172,
+        158,
+        149,
+        93,
+        12,
+        153,
+        63,
+        145,
+        134,
+        105,
+        128,
+        159,
+        46,
+        2,
+        21,
+        45,
+        26,
+        85,
+        29,
+        34,
+        77,
+        84,
+        53,
+        91,
+        135,
+        18
+    ],
+    "source": "The Author",
+    "clues": {
+        "A": {
+            "cells": [
+                172,
+                11,
+                65,
+                31,
+                106,
+                136
+            ],
+            "answer": "Gneiss",
+            "hint": "Banded metamorphic rock"
+        },
+        "B": {
+            "cells": [
+                158,
+                6,
+                83,
+                41,
+                139,
+                103
+            ],
+            "answer": "Eponym",
+            "hint": "The Earl of Sandwich, for the term \u201csandwich\u201d"
+        },
+        "C": {
+            "cells": [
+                149,
+                72,
+                138,
+                16,
+                37,
+                170,
+                96,
+                127
+            ],
+            "answer": "Outweigh",
+            "hint": "More than match in emphasis"
+        },
+        "D": {
+            "cells": [
+                93,
+                164,
+                117,
+                22,
+                48,
+                148
+            ],
+            "answer": "Rip off",
+            "hint": "Film or story, say, that is clearly lifted from another source (hyph.)"
+        },
+        "E": {
+            "cells": [
+                12,
+                75,
+                61,
+                154,
+                98
+            ],
+            "answer": "Gismo",
+            "hint": "Whatsit, doohickey"
+        },
+        "F": {
+            "cells": [
+                153,
+                23,
+                126,
+                33,
+                52,
+                88
+            ],
+            "answer": "Euclid",
+            "hint": "Scholar who told Ptolemy I \u201cThere is no \u2019royal road\u2019 to geometry\u201d"
+        },
+        "G": {
+            "cells": [
+                63,
+                47,
+                113,
+                157,
+                17,
+                133
+            ],
+            "answer": "Bon mot",
+            "hint": "Scintillating witticism (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                145,
+                32,
+                124,
+                100,
+                54,
+                171,
+                19
+            ],
+            "answer": "Exscind",
+            "hint": "Cut off or out"
+        },
+        "I": {
+            "cells": [
+                134,
+                25,
+                56,
+                123,
+                40,
+                110,
+                87,
+                73
+            ],
+            "answer": "Rhinitis",
+            "hint": "Nasal catarrh, as hay fever"
+        },
+        "J": {
+            "cells": [
+                105,
+                125,
+                13,
+                82
+            ],
+            "answer": "Nuts",
+            "hint": "Unzipped, cuckoo, squirrely"
+        },
+        "K": {
+            "cells": [
+                128,
+                89,
+                55,
+                71,
+                143,
+                111,
+                8,
+                167,
+                39
+            ],
+            "answer": "Aeschylus",
+            "hint": "\u201cOresteia\u201d playwright"
+        },
+        "L": {
+            "cells": [
+                159,
+                137,
+                58,
+                4,
+                78,
+                20,
+                44
+            ],
+            "answer": "Riposte",
+            "hint": "Answering attack in a sword fight"
+        },
+        "M": {
+            "cells": [
+                46,
+                97,
+                24,
+                140,
+                70
+            ],
+            "answer": "Degas",
+            "hint": "Painter who worked and is buried in Paris\u2019s Montmartre neighborhood"
+        },
+        "N": {
+            "cells": [
+                2,
+                122,
+                144,
+                68,
+                160,
+                38
+            ],
+            "answer": "Solder",
+            "hint": "Alloy used in plumbing"
+        },
+        "O": {
+            "cells": [
+                21,
+                130,
+                169,
+                76,
+                115,
+                43,
+                150,
+                59,
+                90
+            ],
+            "answer": "Hot to trot",
+            "hint": "Ready and eager, in slang (3 wds.)"
+        },
+        "P": {
+            "cells": [
+                45,
+                141,
+                30,
+                107,
+                5,
+                60,
+                79,
+                95,
+                165
+            ],
+            "answer": "\u201cAssassins\u201d",
+            "hint": "Sondheim musical with Leon Czolgosz and Lynette Fromme as characters"
+        },
+        "Q": {
+            "cells": [
+                26,
+                119,
+                10,
+                80
+            ],
+            "answer": "Writ",
+            "hint": "Certiorari or habeas corpus, e.g."
+        },
+        "R": {
+            "cells": [
+                85,
+                120,
+                57,
+                15,
+                168,
+                42,
+                69,
+                146,
+                108
+            ],
+            "answer": "Times sign",
+            "hint": "The symbol \u201cx\u201d (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                29,
+                104,
+                7,
+                163,
+                67,
+                50,
+                131
+            ],
+            "answer": "Hoedown",
+            "hint": "American relative of a Gaelic ceilidh"
+        },
+        "T": {
+            "cells": [
+                34,
+                129,
+                116,
+                94,
+                74,
+                1,
+                102,
+                147,
+                156
+            ],
+            "answer": "Emma Samms",
+            "hint": "She played Fallon Carrington in TV\u2019s \u201cDynasty\u201d (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                77,
+                62,
+                121,
+                152,
+                92
+            ],
+            "answer": "Aisle",
+            "hint": "Physical schism in a legislature"
+        },
+        "V": {
+            "cells": [
+                84,
+                142,
+                28,
+                112,
+                166,
+                14,
+                49
+            ],
+            "answer": "Uptight",
+            "hint": "Nervous; stiffly conventional"
+        },
+        "W": {
+            "cells": [
+                53,
+                118,
+                86,
+                66,
+                162
+            ],
+            "answer": "Tasty",
+            "hint": "Highly pleasing to the tongue"
+        },
+        "X": {
+            "cells": [
+                91,
+                109,
+                35,
+                161,
+                27,
+                132,
+                3
+            ],
+            "answer": "Hit list",
+            "hint": "What a deejay and a mafioso might each have (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                135,
+                114,
+                51,
+                36,
+                155,
+                64,
+                9,
+                101
+            ],
+            "answer": "Ocotillo",
+            "hint": "Red-flowered plant of the Mojave Desert"
+        },
+        "Z": {
+            "cells": [
+                18,
+                81,
+                151,
+                99
+            ],
+            "answer": "Riff",
+            "hint": "Short, rhythmic phrase in jazz"
+        }
+    }
+}

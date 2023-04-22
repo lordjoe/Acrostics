@@ -1,0 +1,353 @@
+{
+    "answer": "[Politics] is... football, baseball, and tennis rolled into one. We enjoy it; we will hitch up and drive for miles in order to hear and applaud the vitriolic phrases of a candidate we have already reckoned we\u2019ll vote against.",
+    "author": "WPA,",
+    "authorCell": [
+        115,
+        111,
+        85,
+        162,
+        105,
+        151,
+        171,
+        108,
+        61,
+        137,
+        40,
+        14,
+        54,
+        82,
+        117,
+        8,
+        86,
+        76,
+        10,
+        175,
+        136,
+        122,
+        104,
+        56
+    ],
+    "source": "The WPA Guide To Mississippi",
+    "clues": {
+        "A": {
+            "cells": [
+                115,
+                158,
+                141,
+                43,
+                64,
+                98,
+                3,
+                25
+            ],
+            "answer": "Town hall",
+            "hint": "Forum for questioning citizens (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                111,
+                92,
+                20,
+                168,
+                49,
+                131,
+                77,
+                150
+            ],
+            "answer": "Heat wave",
+            "hint": "Possible factor in a loss of power (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                85,
+                26,
+                112,
+                132,
+                5,
+                69,
+                172,
+                154,
+                55
+            ],
+            "answer": "Electuary",
+            "hint": "Medicine made palatable with honey or jam"
+        },
+        "D": {
+            "cells": [
+                162,
+                143,
+                87,
+                30,
+                48,
+                74,
+                60,
+                100,
+                124,
+                11
+            ],
+            "answer": "White dwarf",
+            "hint": "Dense and not very bright body (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                105,
+                90,
+                129,
+                53,
+                160,
+                7,
+                66
+            ],
+            "answer": "Project",
+            "hint": "Long-term office assignment"
+        },
+        "F": {
+            "cells": [
+                151,
+                62,
+                176,
+                95,
+                13,
+                33,
+                125
+            ],
+            "answer": "Altoona",
+            "hint": "Penn State campus near Horseshoe Curve"
+        },
+        "G": {
+            "cells": [
+                171,
+                147,
+                119,
+                84,
+                46,
+                1
+            ],
+            "answer": "Gallop",
+            "hint": "Go full speed"
+        },
+        "H": {
+            "cells": [
+                108,
+                174,
+                145,
+                51,
+                34,
+                18
+            ],
+            "answer": "Unveil",
+            "hint": "Show for the first time"
+        },
+        "I": {
+            "cells": [
+                61,
+                152,
+                120,
+                44,
+                24,
+                75,
+                167,
+                91
+            ],
+            "answer": "Iditarod",
+            "hint": "National Historic Trail known for an epic race"
+        },
+        "J": {
+            "cells": [
+                137,
+                65,
+                155,
+                15,
+                89,
+                39,
+                109
+            ],
+            "answer": "Diebold",
+            "hint": "A.T.M. maker involved in a 2004 controversy"
+        },
+        "K": {
+            "cells": [
+                40,
+                153,
+                78,
+                58,
+                22,
+                138,
+                116
+            ],
+            "answer": "Eyewear",
+            "hint": "Spectacles, shades and such"
+        },
+        "L": {
+            "cells": [
+                14,
+                68,
+                146,
+                118,
+                102,
+                37,
+                81,
+                50
+            ],
+            "answer": "Theodore",
+            "hint": "Rushmore companion of Abraham"
+        },
+        "M": {
+            "cells": [
+                54,
+                67,
+                133,
+                88,
+                107,
+                161,
+                27
+            ],
+            "answer": "\u201cO Canada\u201d",
+            "hint": "Strain preceding some face-offs (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                82,
+                6,
+                128,
+                63,
+                169,
+                144,
+                29
+            ],
+            "answer": "Mislead",
+            "hint": "Deceive, bamboozle"
+        },
+        "O": {
+            "cells": [
+                117,
+                36,
+                166,
+                83,
+                52,
+                140
+            ],
+            "answer": "Irvine",
+            "hint": "California home of the Ayn Rand Institute"
+        },
+        "P": {
+            "cells": [
+                8,
+                110,
+                99,
+                170,
+                73,
+                135,
+                148,
+                59
+            ],
+            "answer": "Straddle",
+            "hint": "Favor both sides of an issue"
+        },
+        "Q": {
+            "cells": [
+                86,
+                173,
+                28,
+                47,
+                130,
+                97,
+                9,
+                159
+            ],
+            "answer": "Sinn Fein",
+            "hint": "Party whose official color is green (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                76,
+                134,
+                113,
+                12,
+                157,
+                31
+            ],
+            "answer": "Invoke",
+            "hint": "Call upon; put into use, as a law"
+        },
+        "S": {
+            "cells": [
+                10,
+                121,
+                96,
+                38,
+                163,
+                70
+            ],
+            "answer": "Schlep",
+            "hint": "Long and tiresome journey"
+        },
+        "T": {
+            "cells": [
+                175,
+                139,
+                103,
+                93,
+                79,
+                42,
+                21,
+                123
+            ],
+            "answer": "Starfish",
+            "hint": "Creature able to regrow a lost limb"
+        },
+        "U": {
+            "cells": [
+                136,
+                94,
+                71,
+                17,
+                114,
+                156,
+                35
+            ],
+            "answer": "Italics",
+            "hint": "Text showing a list"
+        },
+        "V": {
+            "cells": [
+                122,
+                149,
+                45,
+                19,
+                2,
+                101,
+                80
+            ],
+            "answer": "Pro bono",
+            "hint": "Offered as a public service (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                104,
+                165,
+                16,
+                32,
+                57,
+                126
+            ],
+            "answer": "Plants",
+            "hint": "Accomplices in the audience"
+        },
+        "X": {
+            "cells": [
+                56,
+                72,
+                41,
+                142,
+                164,
+                4,
+                23,
+                106,
+                127
+            ],
+            "answer": "Indelible",
+            "hint": "Permanent; never to be forgotten"
+        }
+    }
+}

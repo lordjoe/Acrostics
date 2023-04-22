@@ -1,0 +1,363 @@
+{
+    "answer": "Pliny... the Roman natural historian, tells us that his countrymen were charmed by friendly dolphins. These animals came when called, ate from human hands, and by several accounts allowed young boys to ride on their backs.",
+    "author": "Meg Olmert,",
+    "authorCell": [
+        118,
+        167,
+        157,
+        154,
+        2,
+        11,
+        107,
+        49,
+        6,
+        97,
+        19,
+        108,
+        55,
+        67,
+        141,
+        9,
+        57,
+        60,
+        44,
+        121,
+        168,
+        110,
+        59,
+        132,
+        56
+    ],
+    "source": "Made For Each Other",
+    "clues": {
+        "A": {
+            "cells": [
+                118,
+                155,
+                24,
+                46,
+                138,
+                106,
+                80,
+                94,
+                62
+            ],
+            "answer": "Mutualism",
+            "hint": "Symbiosis"
+        },
+        "B": {
+            "cells": [
+                167,
+                4,
+                40,
+                85,
+                120,
+                144,
+                101
+            ],
+            "answer": "Entente",
+            "hint": "International agreement to work together cooperatively"
+        },
+        "C": {
+            "cells": [
+                157,
+                73,
+                114,
+                179,
+                23,
+                87,
+                131
+            ],
+            "answer": "Glosses",
+            "hint": "Surface lusters; marginal notes"
+        },
+        "D": {
+            "cells": [
+                154,
+                170,
+                30,
+                109,
+                54,
+                96,
+                127
+            ],
+            "answer": "Ottawan",
+            "hint": "One at home for a Winterlude festival"
+        },
+        "E": {
+            "cells": [
+                2,
+                45,
+                122,
+                29,
+                161,
+                100,
+                146,
+                61,
+                178
+            ],
+            "answer": "Loan shark",
+            "hint": "Imprudent source of funding (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                11,
+                142,
+                128,
+                112,
+                32,
+                163,
+                99
+            ],
+            "answer": "Mudflow",
+            "hint": "Potentially disastrous phenomenon common around volcanoes"
+        },
+        "G": {
+            "cells": [
+                107,
+                78,
+                159,
+                58,
+                171,
+                12,
+                33
+            ],
+            "answer": "Epochal",
+            "hint": "So momentous as to herald a new age"
+        },
+        "H": {
+            "cells": [
+                49,
+                136,
+                81,
+                152,
+                15,
+                169
+            ],
+            "answer": "Randan",
+            "hint": "Boat with four oars and three rowers"
+        },
+        "I": {
+            "cells": [
+                6,
+                21,
+                126,
+                162,
+                140,
+                41
+            ],
+            "answer": "Thatch",
+            "hint": "Certain roofing"
+        },
+        "J": {
+            "cells": [
+                97,
+                17,
+                34,
+                79
+            ],
+            "answer": "Mush",
+            "hint": "Sentimentality; command to dogs"
+        },
+        "K": {
+            "cells": [
+                19,
+                74,
+                53,
+                135,
+                39,
+                102,
+                166
+            ],
+            "answer": "Ayn Rand",
+            "hint": "Writer espousing what she called Objectivism (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                108,
+                92,
+                47,
+                143,
+                160,
+                129,
+                10,
+                66
+            ],
+            "answer": "\u201cDanny Boy\"",
+            "hint": "Old Irish song that ends \u201cI\u2019ll simply sleep in peace until you come to me\u201d (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                55,
+                13,
+                115,
+                173,
+                83,
+                153
+            ],
+            "answer": "Enmity",
+            "hint": "Mutual antagonism"
+        },
+        "N": {
+            "cells": [
+                67,
+                26,
+                52,
+                134,
+                150,
+                165,
+                105,
+                93,
+                5
+            ],
+            "answer": "\"Free Willy\u201d",
+            "hint": "1993 film set partly in an aquarium (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                141,
+                20,
+                111,
+                51,
+                69,
+                36,
+                125
+            ],
+            "answer": "Ole Miss",
+            "hint": "Where Eli Manning was a Rebel (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                9,
+                38,
+                76,
+                91,
+                158,
+                117,
+                145
+            ],
+            "answer": "Rhombus",
+            "hint": "Diamond or lozenge"
+        },
+        "Q": {
+            "cells": [
+                57,
+                22,
+                37,
+                84,
+                98,
+                174
+            ],
+            "answer": "Either",
+            "hint": "Nonpreferential choice"
+        },
+        "R": {
+            "cells": [
+                60,
+                139,
+                116,
+                172,
+                14,
+                31,
+                82
+            ],
+            "answer": "Achenes",
+            "hint": "Strawberry seeds, for example"
+        },
+        "S": {
+            "cells": [
+                44,
+                148,
+                27,
+                123,
+                95,
+                7,
+                63,
+                75
+            ],
+            "answer": "Clinched",
+            "hint": "Settled, as a deal"
+        },
+        "T": {
+            "cells": [
+                121,
+                25,
+                77,
+                137,
+                104,
+                156,
+                64
+            ],
+            "answer": "Holland",
+            "hint": "Home of Hals, Vermeer and Steen"
+        },
+        "U": {
+            "cells": [
+                168,
+                65,
+                48,
+                35,
+                86,
+                151
+            ],
+            "answer": "Obtuse",
+            "hint": "None too bright"
+        },
+        "V": {
+            "cells": [
+                110,
+                68,
+                8,
+                89,
+                124,
+                43
+            ],
+            "answer": "Trends",
+            "hint": "What bellwethers indicate"
+        },
+        "W": {
+            "cells": [
+                59,
+                119,
+                133,
+                176,
+                71,
+                28
+            ],
+            "answer": "Havana",
+            "hint": "Birthplace of baseball\u2019s Jose Canseco or marathoner Alberto Salazar"
+        },
+        "X": {
+            "cells": [
+                132,
+                88,
+                113,
+                147,
+                50,
+                175,
+                3,
+                18,
+                72
+            ],
+            "answer": "Early bird",
+            "hint": "First breakfaster? (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                56,
+                70,
+                103,
+                42,
+                1,
+                164,
+                149,
+                177,
+                90,
+                16,
+                130
+            ],
+            "answer": "Reciprocity",
+            "hint": "Collaborative exchange, give-and-take"
+        }
+    }
+}

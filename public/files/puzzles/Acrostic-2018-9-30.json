@@ -1,0 +1,362 @@
+{
+    "answer": "Plants are moving... . ... Slowly but surely, the population of growing things that like... cold temperatures will creep ever northward, to a cooler climate. Even the oak trees are moving northward, with the help of the squirrels.",
+    "author": "Ken Druse,",
+    "authorCell": [
+        65,
+        90,
+        96,
+        104,
+        8,
+        79,
+        25,
+        127,
+        5,
+        149,
+        112,
+        51,
+        134,
+        83,
+        82,
+        60,
+        3,
+        70,
+        133,
+        52,
+        61,
+        88,
+        153,
+        94,
+        14
+    ],
+    "source": "The New Shade Garden",
+    "clues": {
+        "A": {
+            "cells": [
+                65,
+                121,
+                36,
+                17,
+                89,
+                147
+            ],
+            "answer": "Kepler",
+            "hint": "Spacecraft launched in 2009 in search of exoplanets"
+        },
+        "B": {
+            "cells": [
+                90,
+                62,
+                140,
+                4
+            ],
+            "answer": "Eton",
+            "hint": "Alma mater of 19 British prime ministers"
+        },
+        "C": {
+            "cells": [
+                96,
+                9,
+                114,
+                71,
+                129,
+                152
+            ],
+            "answer": "Nectar",
+            "hint": "Nutrition for long-tongued bats"
+        },
+        "D": {
+            "cells": [
+                104,
+                13,
+                141,
+                66,
+                27,
+                158
+            ],
+            "answer": "Divert",
+            "hint": "Turn from one course to another"
+        },
+        "E": {
+            "cells": [
+                8,
+                72,
+                107,
+                174,
+                93,
+                142,
+                123,
+                49
+            ],
+            "answer": "Rear view",
+            "hint": "What a certain car mirror provides (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                79,
+                139,
+                34,
+                116,
+                95,
+                169
+            ],
+            "answer": "Umpire",
+            "hint": "Who makes the decisions at home"
+        },
+        "G": {
+            "cells": [
+                25,
+                172,
+                145,
+                115,
+                64,
+                46,
+                100,
+                78
+            ],
+            "answer": "Sunlight",
+            "hint": "Source of vitamin D"
+        },
+        "H": {
+            "cells": [
+                127,
+                144,
+                57,
+                6,
+                161,
+                75,
+                177,
+                29
+            ],
+            "answer": "Eggshell",
+            "hint": "Hue of yellowish white"
+        },
+        "I": {
+            "cells": [
+                5,
+                77,
+                20,
+                130,
+                170,
+                54,
+                42,
+                154
+            ],
+            "answer": "Talk show",
+            "hint": "Common bit of late-night programming (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                149,
+                35,
+                59,
+                166,
+                11,
+                128,
+                99
+            ],
+            "answer": "Hotfoot",
+            "hint": "Hurry, with \u201cit\u201d"
+        },
+        "K": {
+            "cells": [
+                112,
+                10,
+                74,
+                48,
+                150,
+                33,
+                132
+            ],
+            "answer": "Empower",
+            "hint": "Authorize"
+        },
+        "L": {
+            "cells": [
+                51,
+                81,
+                101,
+                163,
+                146,
+                19
+            ],
+            "answer": "New low",
+            "hint": "Worse-than-ever misdeed by a cad (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                134,
+                31,
+                157,
+                55,
+                108,
+                7,
+                86
+            ],
+            "answer": "Ethical",
+            "hint": "Not doing anything wrong"
+        },
+        "N": {
+            "cells": [
+                83,
+                136,
+                156,
+                67,
+                168,
+                40,
+                122
+            ],
+            "answer": "Watch TV",
+            "hint": "What the average American does five-plus hours a day (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                82,
+                126,
+                110,
+                175,
+                24,
+                45,
+                151,
+                2,
+                63
+            ],
+            "answer": "Shortfall",
+            "hint": "Failure to meet a hoped-for amount; deficit"
+        },
+        "P": {
+            "cells": [
+                60,
+                18,
+                44,
+                119,
+                162,
+                98
+            ],
+            "answer": "Hooter",
+            "hint": "Owl or derisive sort"
+        },
+        "Q": {
+            "cells": [
+                3,
+                131,
+                148,
+                109,
+                76,
+                43,
+                92,
+                21
+            ],
+            "answer": "Attorney",
+            "hint": "Sixth Amendment guarantee"
+        },
+        "R": {
+            "cells": [
+                70,
+                23,
+                143,
+                178,
+                41,
+                124,
+                102,
+                56,
+                160
+            ],
+            "answer": "Dunsinane",
+            "hint": "Scottish hill mentioned in \u201cMacbeth\u201d"
+        },
+        "S": {
+            "cells": [
+                133,
+                1,
+                84,
+                58,
+                167,
+                111,
+                28
+            ],
+            "answer": "Epistle",
+            "hint": "Work in the form of a letter"
+        },
+        "T": {
+            "cells": [
+                52,
+                103,
+                118,
+                12,
+                138,
+                69,
+                85,
+                30
+            ],
+            "answer": "Gravelly",
+            "hint": "Like Louis Armstrong\u2019s voice"
+        },
+        "U": {
+            "cells": [
+                61,
+                164,
+                38,
+                97,
+                117,
+                22
+            ],
+            "answer": "Aplomb",
+            "hint": "Poise, composure"
+        },
+        "V": {
+            "cells": [
+                88,
+                173,
+                15,
+                159,
+                53,
+                39,
+                113,
+                73
+            ],
+            "answer": "Right arm",
+            "hint": "Part with which the covetous say they\u2019d part (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                153,
+                47,
+                68,
+                91,
+                16,
+                32,
+                165,
+                105
+            ],
+            "answer": "Drop shot",
+            "hint": "Tennis stroke that requires a deft touch (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                94,
+                135,
+                171,
+                26,
+                50,
+                80,
+                120
+            ],
+            "answer": "Esquire",
+            "hint": "Subordinate to a knight"
+        },
+        "Y": {
+            "cells": [
+                14,
+                176,
+                37,
+                137,
+                106,
+                125,
+                155,
+                87
+            ],
+            "answer": "Neurotic",
+            "hint": "Like Harry and Sally in \u201cWhen Harry Met Sally ...\u201d"
+        }
+    }
+}

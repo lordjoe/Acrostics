@@ -1,0 +1,342 @@
+{
+    "answer": "The people of those foreign countries are... very ignorant.... In Paris they just simply opened their eyes and stared when we spoke to them in French! We never did succeed in making those idiots understand their own language.",
+    "author": "Mark Twain,",
+    "authorCell": [
+        47,
+        117,
+        9,
+        97,
+        79,
+        140,
+        75,
+        167,
+        96,
+        175,
+        146,
+        145,
+        11,
+        137,
+        138,
+        29,
+        139,
+        28,
+        93,
+        89,
+        148,
+        155
+    ],
+    "source": "The Writings of Mark Twain",
+    "clues": {
+        "A": {
+            "cells": [
+                47,
+                154,
+                174,
+                31,
+                60,
+                4
+            ],
+            "answer": "Tune-up",
+            "hint": "Work performed in a garage or an orchestra pit? (hyph.)"
+        },
+        "B": {
+            "cells": [
+                117,
+                69,
+                168,
+                87,
+                149,
+                105,
+                57,
+                129,
+                36,
+                19,
+                5
+            ],
+            "answer": "Hors d'oeuvre",
+            "hint": "Serving to pique? (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                9,
+                163,
+                126,
+                143,
+                94,
+                66,
+                30,
+                177,
+                112
+            ],
+            "answer": "Edith Piaf",
+            "hint": "Chanteuse who sang \u201cMilord\u201d (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                97,
+                78,
+                22,
+                128
+            ],
+            "answer": "Wigs",
+            "hint": "De rigueur headwear at Louis XIV\u2019s Versailles"
+        },
+        "E": {
+            "cells": [
+                79,
+                135,
+                100,
+                169,
+                153,
+                12,
+                35
+            ],
+            "answer": "Riposte",
+            "hint": "Attacking maneuver with an epee"
+        },
+        "F": {
+            "cells": [
+                140,
+                49,
+                178,
+                34,
+                119,
+                15
+            ],
+            "answer": "Ingres",
+            "hint": "Painter of the \u201cVow of Louis XIII\u201d"
+        },
+        "G": {
+            "cells": [
+                75,
+                90,
+                64,
+                50,
+                8,
+                121,
+                159,
+                103,
+                24
+            ],
+            "answer": "Triple sec",
+            "hint": "Cointreau or Grand Marnier (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                167,
+                46,
+                92,
+                25,
+                116,
+                13,
+                150,
+                72,
+                132
+            ],
+            "answer": "\"Indochine\"",
+            "hint": "Winner of the 1992 Oscar for Best Foreign Film"
+        },
+        "I": {
+            "cells": [
+                96,
+                82,
+                176,
+                17,
+                131,
+                2,
+                45,
+                152,
+                114,
+                67
+            ],
+            "answer": "Neufchatel",
+            "hint": "Soft, white unripened cheese"
+        },
+        "J": {
+            "cells": [
+                175,
+                161,
+                54,
+                88,
+                113,
+                10,
+                141,
+                101,
+                65,
+                39
+            ],
+            "answer": "Gastronomy",
+            "hint": "Anthelme Brillat-Savarin\u2019s field of expertise"
+        },
+        "K": {
+            "cells": [
+                146,
+                51,
+                122,
+                71,
+                86
+            ],
+            "answer": "Saved",
+            "hint": "Cached, say"
+        },
+        "L": {
+            "cells": [
+                145,
+                124,
+                164,
+                107,
+                18,
+                37,
+                7,
+                58
+            ],
+            "answer": "Orthoepy",
+            "hint": "Customary pronunciation of a language"
+        },
+        "M": {
+            "cells": [
+                11,
+                53,
+                63,
+                165,
+                115,
+                147,
+                104,
+                83
+            ],
+            "answer": "Fishnets",
+            "hint": "Seines and such; stockings for goths"
+        },
+        "N": {
+            "cells": [
+                137,
+                173,
+                59,
+                151,
+                44,
+                20,
+                106,
+                1,
+                77
+            ],
+            "answer": "Majorette",
+            "hint": "Bearer of a baton"
+        },
+        "O": {
+            "cells": [
+                138,
+                158,
+                125,
+                91,
+                27,
+                42,
+                108,
+                61
+            ],
+            "answer": "Ardennes",
+            "hint": "Battle of the Bulge region"
+        },
+        "P": {
+            "cells": [
+                29,
+                6,
+                160,
+                56,
+                99,
+                130,
+                144,
+                40,
+                172,
+                74
+            ],
+            "answer": "Rothschild",
+            "hint": "Family name associated with a noted chateau"
+        },
+        "Q": {
+            "cells": [
+                139,
+                166,
+                179,
+                70,
+                32,
+                84,
+                102,
+                16
+            ],
+            "answer": "Keepsake",
+            "hint": "Souvenir, memento"
+        },
+        "R": {
+            "cells": [
+                28,
+                170,
+                123,
+                136,
+                55,
+                68,
+                43,
+                85,
+                157
+            ],
+            "answer": "Twenty-one",
+            "hint": "Game with a croupier (hyph.)"
+        },
+        "S": {
+            "cells": [
+                93,
+                76,
+                48,
+                62,
+                3,
+                118,
+                21,
+                162,
+                133
+            ],
+            "answer": "White wine",
+            "hint": "Chablis or Sancerre (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                89,
+                23,
+                156,
+                38,
+                73,
+                142,
+                110,
+                127,
+                98
+            ],
+            "answer": "Andre Gide",
+            "hint": "Literature Nobelist of 1947 (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                148,
+                120,
+                41,
+                80,
+                111,
+                26,
+                95
+            ],
+            "answer": "Ingenue",
+            "hint": "Thespian specializing in naive roles"
+        },
+        "V": {
+            "cells": [
+                155,
+                14,
+                52,
+                109,
+                33,
+                171,
+                134,
+                81
+            ],
+            "answer": "Normandy",
+            "hint": "Province involved in the Hundred Years War"
+        }
+    }
+}

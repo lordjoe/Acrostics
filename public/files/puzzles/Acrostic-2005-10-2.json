@@ -1,0 +1,360 @@
+{
+    "answer": "Some towns bordering other countries or... states are portmanteau-ized. Calexico is across the border from Mexicali. Any student of U.S.... geography can readily figure out the locations of Calzona,... Kanorado, Virgilina, [and] Moark... .",
+    "author": "(Stewart) Edelstein,",
+    "authorCell": [
+        57,
+        102,
+        62,
+        172,
+        1,
+        138,
+        140,
+        55,
+        17,
+        125,
+        108,
+        10,
+        30,
+        180,
+        136,
+        73,
+        58,
+        86,
+        26,
+        78,
+        141,
+        82,
+        47,
+        9
+    ],
+    "source": "Dubious Doublets",
+    "clues": {
+        "A": {
+            "cells": [
+                57,
+                152,
+                6,
+                20,
+                103,
+                132,
+                71
+            ],
+            "answer": "Ecoteur",
+            "hint": "Radical environmentalist"
+        },
+        "B": {
+            "cells": [
+                102,
+                67,
+                170,
+                52,
+                80,
+                37,
+                145,
+                126
+            ],
+            "answer": "Digerati",
+            "hint": "Ones well-versed in computers and technology"
+        },
+        "C": {
+            "cells": [
+                62,
+                15,
+                85,
+                160,
+                105,
+                181
+            ],
+            "answer": "Errata",
+            "hint": "Typos and factual goofs"
+        },
+        "D": {
+            "cells": [
+                172,
+                150,
+                45,
+                8,
+                68
+            ],
+            "answer": "Loons",
+            "hint": "Birds on dollar coins in Canada"
+        },
+        "E": {
+            "cells": [
+                1,
+                75,
+                175,
+                110,
+                129,
+                154,
+                49,
+                28,
+                16,
+                142,
+                97
+            ],
+            "answer": "Stagflation",
+            "hint": "Condition supposed to be cured by Reaganomics"
+        },
+        "F": {
+            "cells": [
+                138,
+                66,
+                151,
+                101,
+                29,
+                183,
+                89,
+                118
+            ],
+            "answer": "Tofurkey",
+            "hint": "Vegetarian option at Thanksgiving"
+        },
+        "G": {
+            "cells": [
+                140,
+                88,
+                116,
+                14,
+                182,
+                162,
+                46
+            ],
+            "answer": "Emperor",
+            "hint": "Unintentional exhibitionist in a fairy tale"
+        },
+        "H": {
+            "cells": [
+                55,
+                109,
+                69,
+                144,
+                119,
+                96,
+                35,
+                130,
+                87,
+                19,
+                167
+            ],
+            "answer": "Isaac Asimov",
+            "hint": "Workaholic author who coined the term \u201crobotics\u201d (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                17,
+                4,
+                36,
+                95,
+                56,
+                123,
+                161
+            ],
+            "answer": "Netizen",
+            "hint": "Reader of blogs and e-zines on the infobahn"
+        },
+        "J": {
+            "cells": [
+                125,
+                169,
+                60,
+                3,
+                31,
+                81,
+                98
+            ],
+            "answer": "Dramedy",
+            "hint": "Semi-serious TV genre with a few chortles"
+        },
+        "K": {
+            "cells": [
+                108,
+                157,
+                40,
+                139,
+                11,
+                178
+            ],
+            "answer": "Unshod",
+            "hint": "Like wild horses"
+        },
+        "L": {
+            "cells": [
+                10,
+                163,
+                54,
+                177,
+                143,
+                117
+            ],
+            "answer": "Brunch",
+            "hint": "Occasion for eating a tangelo with a spork?"
+        },
+        "M": {
+            "cells": [
+                30,
+                42,
+                176,
+                104,
+                18,
+                153,
+                137,
+                77
+            ],
+            "answer": "Irangate",
+            "hint": "Scandal involving Oliver North"
+        },
+        "N": {
+            "cells": [
+                180,
+                148,
+                32,
+                164,
+                107,
+                120,
+                83,
+                64
+            ],
+            "answer": "On safari",
+            "hint": "Touring Tanzania with a camcorder, maybe? (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                136,
+                50,
+                13,
+                111,
+                122,
+                84,
+                25,
+                166,
+                100
+            ],
+            "answer": "Underfoot",
+            "hint": "In danger of being trampled"
+        },
+        "P": {
+            "cells": [
+                73,
+                159,
+                135,
+                23,
+                51
+            ],
+            "answer": "Skort",
+            "hint": "Garment with two legs covered by a front panel"
+        },
+        "Q": {
+            "cells": [
+                58,
+                146,
+                90,
+                171,
+                39,
+                70,
+                114,
+                124,
+                5
+            ],
+            "answer": "Dixiecrat",
+            "hint": "Political renegade from the South"
+        },
+        "R": {
+            "cells": [
+                86,
+                59,
+                24,
+                115,
+                179,
+                74,
+                12,
+                41,
+                155,
+                2,
+                133
+            ],
+            "answer": "Occam\u2019s razor",
+            "hint": "Rule favoring simple theories, a k a the law of parsimony (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                26,
+                121,
+                168,
+                99,
+                43,
+                63
+            ],
+            "answer": "Unisex",
+            "hint": "Not gender-specific"
+        },
+        "T": {
+            "cells": [
+                78,
+                112,
+                94,
+                61,
+                128,
+                7,
+                147,
+                33,
+                165
+            ],
+            "answer": "Bollywood",
+            "hint": "Source for films shown at Delhi cineplexes"
+        },
+        "U": {
+            "cells": [
+                141,
+                106,
+                65,
+                156,
+                48,
+                79,
+                38,
+                22
+            ],
+            "answer": "Locomote",
+            "hint": "Stroll, crawl, scurry or galumph"
+        },
+        "V": {
+            "cells": [
+                82,
+                53,
+                34,
+                158,
+                92,
+                21,
+                134
+            ],
+            "answer": "Earache",
+            "hint": "Otalgia"
+        },
+        "W": {
+            "cells": [
+                47,
+                91,
+                131,
+                72,
+                174
+            ],
+            "answer": "Tigon",
+            "hint": "Zoo-bred hybrid feline"
+        },
+        "X": {
+            "cells": [
+                9,
+                44,
+                93,
+                27,
+                113,
+                127,
+                173,
+                149,
+                76
+            ],
+            "answer": "Spanglish",
+            "hint": "Language used by Nuyoricans"
+        }
+    }
+}

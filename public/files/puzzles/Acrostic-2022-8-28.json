@@ -1,0 +1,337 @@
+{
+    "answer": "[H]e drew... great breaths, trying... to catch smells that the breeze would throw... . For odors told you when crops... were ripe; one whiff of morning air could convey that it was... too damp to run the combines, or too dry to fertilize.",
+    "author": "Gabrielle Glaser,",
+    "authorCell": [
+        7,
+        15,
+        45,
+        157,
+        98,
+        9,
+        71,
+        35,
+        14,
+        109,
+        116,
+        110,
+        18,
+        86,
+        4,
+        69,
+        125,
+        34,
+        106,
+        159,
+        155,
+        167
+    ],
+    "source": "The Nose",
+    "clues": {
+        "A": {
+            "cells": [
+                7,
+                174,
+                145,
+                33,
+                73,
+                55,
+                112,
+                128,
+                99,
+                158
+            ],
+            "answer": "\"Get my drift?\"",
+            "hint": "\u201cKnow what I mean?\u201d (3 wds.)"
+        },
+        "B": {
+            "cells": [
+                15,
+                91,
+                28,
+                56,
+                43,
+                78,
+                127,
+                111,
+                148
+            ],
+            "answer": "Apathetic",
+            "hint": "Emotionally disconnected"
+        },
+        "C": {
+            "cells": [
+                45,
+                115,
+                100,
+                61,
+                5,
+                129,
+                152,
+                79,
+                24
+            ],
+            "answer": "Buffeting",
+            "hint": "Violent action of wind or waves"
+        },
+        "D": {
+            "cells": [
+                157,
+                10,
+                72,
+                170,
+                27,
+                113,
+                57,
+                90,
+                135
+            ],
+            "answer": "Radicchio",
+            "hint": "Red, leafy source of vitamin K"
+        },
+        "E": {
+            "cells": [
+                98,
+                32,
+                59,
+                124,
+                8,
+                74,
+                139,
+                163
+            ],
+            "answer": "Isotropy",
+            "hint": "Sameness in every direction"
+        },
+        "F": {
+            "cells": [
+                9,
+                153,
+                87,
+                172,
+                118,
+                31,
+                44,
+                136
+            ],
+            "answer": "Enriched",
+            "hint": "Supplied with a nutritional boost"
+        },
+        "G": {
+            "cells": [
+                71,
+                119,
+                132,
+                41,
+                96,
+                156,
+                20,
+                171,
+                3
+            ],
+            "answer": "Lost world",
+            "hint": "Shangri-La or Dinotopia, e.g. (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                35,
+                137,
+                121,
+                154,
+                108,
+                65,
+                48,
+                81
+            ],
+            "answer": "Lavender",
+            "hint": "Fragrant bluish-purple perennial"
+        },
+        "I": {
+            "cells": [
+                14,
+                102,
+                166,
+                75,
+                37,
+                50,
+                117
+            ],
+            "answer": "Effused",
+            "hint": "Talked excitedly; gave off, as an aroma"
+        },
+        "J": {
+            "cells": [
+                109,
+                63,
+                147,
+                47,
+                23,
+                84
+            ],
+            "answer": "Greens",
+            "hint": "Manicured areas around holes"
+        },
+        "K": {
+            "cells": [
+                116,
+                101,
+                51,
+                151,
+                168,
+                26,
+                130
+            ],
+            "answer": "Lowbrow",
+            "hint": "Coarse, rough-hewn, unrefined"
+        },
+        "L": {
+            "cells": [
+                110,
+                11,
+                25,
+                77,
+                95,
+                49,
+                134,
+                64
+            ],
+            "answer": "\"At the Zoo\"",
+            "hint": "1967 Simon & Garfunkel hit that mentions monkeys, giraffes, elephants and orangutans (3 wds.)"
+        },
+        "M": {
+            "cells": [
+                18,
+                94,
+                114,
+                46,
+                140
+            ],
+            "answer": "Snort",
+            "hint": "Nasally sound of disgust or derision"
+        },
+        "N": {
+            "cells": [
+                86,
+                103,
+                12,
+                160,
+                60,
+                122,
+                142
+            ],
+            "answer": "Embower",
+            "hint": "Surround with trees, poetically"
+        },
+        "O": {
+            "cells": [
+                4,
+                40,
+                22,
+                144,
+                68,
+                83,
+                104,
+                53,
+                164
+            ],
+            "answer": "Rainspout",
+            "hint": "Trough that may get clogged with leaves"
+        },
+        "P": {
+            "cells": [
+                69,
+                107,
+                150,
+                82,
+                133,
+                39,
+                21
+            ],
+            "answer": "Timothy",
+            "hint": "Plant commonly grown to make hay for horses"
+        },
+        "Q": {
+            "cells": [
+                125,
+                66,
+                36,
+                161,
+                80,
+                93,
+                143,
+                105,
+                19
+            ],
+            "answer": "Hold court",
+            "hint": "Regale a friendly crowd (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                34,
+                58,
+                92,
+                6,
+                146,
+                165,
+                120
+            ],
+            "answer": "Erewhon",
+            "hint": "Machine-fearing literary utopia"
+        },
+        "S": {
+            "cells": [
+                106,
+                62,
+                42,
+                2,
+                76,
+                149,
+                162,
+                29,
+                17,
+                123
+            ],
+            "answer": "Noteworthy",
+            "hint": "Significant, remarkable"
+        },
+        "T": {
+            "cells": [
+                159,
+                89,
+                141,
+                173,
+                30,
+                70
+            ],
+            "answer": "Orozco",
+            "hint": "José Clemente ____, Mexican muralist and colleague of Diego Rivera"
+        },
+        "U": {
+            "cells": [
+                155,
+                16,
+                88,
+                131,
+                54,
+                169,
+                1
+            ],
+            "answer": "Stealth",
+            "hint": "Care in evading observation"
+        },
+        "V": {
+            "cells": [
+                167,
+                126,
+                13,
+                38,
+                97,
+                85,
+                52,
+                67,
+                138
+            ],
+            "answer": "Earthworm",
+            "hint": "Natural compost processor"
+        }
+    }
+}

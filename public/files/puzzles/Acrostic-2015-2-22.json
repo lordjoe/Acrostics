@@ -1,0 +1,366 @@
+{
+    "answer": "[T]here were some initial difficulties when the director first told me... that if the film was to have any semblance of reality at all there would have to be moments when other people were on-screen at the same time I was.",
+    "author": "Bette Midler,",
+    "authorCell": [
+        123,
+        120,
+        75,
+        65,
+        142,
+        57,
+        41,
+        56,
+        145,
+        80,
+        42,
+        97,
+        119,
+        16,
+        13,
+        33,
+        94,
+        47,
+        113,
+        86,
+        118,
+        87,
+        50,
+        93,
+        78,
+        40
+    ],
+    "source": "A View From a Broad",
+    "clues": {
+        "A": {
+            "cells": [
+                123,
+                46,
+                101,
+                77,
+                136,
+                151,
+                21
+            ],
+            "answer": "Boyhood",
+            "hint": "Part of life that was of interest to Scouting founder Lord Baden-Powell"
+        },
+        "B": {
+            "cells": [
+                120,
+                12,
+                44,
+                58,
+                146
+            ],
+            "answer": "Emcee",
+            "hint": "Billy Crystal or Whoopi Goldberg, e.g., several times each"
+        },
+        "C": {
+            "cells": [
+                75,
+                34,
+                111,
+                95,
+                126,
+                10,
+                150
+            ],
+            "answer": "\"The Rose\"",
+            "hint": "Work alluded to in this puzzle\u2019s quote (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                65,
+                132,
+                157,
+                31,
+                107,
+                92,
+                8
+            ],
+            "answer": "Tweeter",
+            "hint": "Poster of a brief message"
+        },
+        "E": {
+            "cells": [
+                142,
+                79,
+                25,
+                52,
+                165
+            ],
+            "answer": "Evita",
+            "hint": "Noted 1940s-\u201950s first lady, familiarly"
+        },
+        "F": {
+            "cells": [
+                57,
+                174,
+                37,
+                17,
+                133,
+                109,
+                147
+            ],
+            "answer": "Matthew",
+            "hint": "Book relating the parable of the talents"
+        },
+        "G": {
+            "cells": [
+                41,
+                170,
+                69,
+                121,
+                19,
+                1,
+                96
+            ],
+            "answer": "Imitate",
+            "hint": "Copy, mimic, parrot"
+        },
+        "H": {
+            "cells": [
+                56,
+                30,
+                166,
+                141,
+                70,
+                124,
+                84
+            ],
+            "answer": "Dimples",
+            "hint": "Jennifer Garner or Brad Pitt feature"
+        },
+        "I": {
+            "cells": [
+                145,
+                73,
+                6,
+                90,
+                125,
+                54,
+                173,
+                39,
+                110
+            ],
+            "answer": "Lawn mower",
+            "hint": "Machine much used in the suburbs (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                80,
+                129,
+                168,
+                66,
+                27,
+                153,
+                43
+            ],
+            "answer": "Enthuse",
+            "hint": "Wax excited"
+        },
+        "K": {
+            "cells": [
+                42,
+                114,
+                23,
+                68,
+                159,
+                98,
+                143
+            ],
+            "answer": "Ruffalo",
+            "hint": "Mark of 2012\u2019s \u201cThe Avengers\u201d"
+        },
+        "L": {
+            "cells": [
+                97,
+                53,
+                138,
+                122,
+                32
+            ],
+            "answer": "Athos",
+            "hint": "Count portrayed by John Malkovich"
+        },
+        "M": {
+            "cells": [
+                119,
+                104,
+                15,
+                49,
+                161,
+                83
+            ],
+            "answer": "Vanity",
+            "hint": "Dressing room furniture piece"
+        },
+        "N": {
+            "cells": [
+                16,
+                48,
+                128,
+                3,
+                105,
+                64,
+                172,
+                158,
+                85
+            ],
+            "answer": "\"I Feel Fine\"",
+            "hint": "Last of six 1964 Beatles chart toppers (3 wds.)"
+        },
+        "O": {
+            "cells": [
+                13,
+                160,
+                38,
+                139,
+                88
+            ],
+            "answer": "Ethel",
+            "hint": "One of the Barrymores"
+        },
+        "P": {
+            "cells": [
+                33,
+                162,
+                99,
+                144,
+                115,
+                81,
+                175,
+                60
+            ],
+            "answer": "Whiplash",
+            "hint": "Hazard of bungee jumping or headbanging"
+        },
+        "Q": {
+            "cells": [
+                94,
+                28,
+                9,
+                59,
+                154,
+                117
+            ],
+            "answer": "Fletch",
+            "hint": "1985 Chevy Chase comedy"
+        },
+        "R": {
+            "cells": [
+                47,
+                76,
+                100,
+                62,
+                112,
+                5,
+                169,
+                20,
+                134,
+                149
+            ],
+            "answer": "Rottweiler",
+            "hint": "Herding dog named after a German town"
+        },
+        "S": {
+            "cells": [
+                113,
+                82,
+                7,
+                131,
+                156,
+                55,
+                24
+            ],
+            "answer": "Oneself",
+            "hint": "Identity of a person"
+        },
+        "T": {
+            "cells": [
+                86,
+                67,
+                127,
+                167,
+                36,
+                103,
+                11
+            ],
+            "answer": "Memento",
+            "hint": "Ticket stub, signed photo or such"
+        },
+        "U": {
+            "cells": [
+                118,
+                152,
+                137,
+                14,
+                91,
+                51
+            ],
+            "answer": "Antics",
+            "hint": "Attention-getting behavior"
+        },
+        "V": {
+            "cells": [
+                87,
+                18,
+                155,
+                116,
+                71,
+                102,
+                135
+            ],
+            "answer": "Birdman",
+            "hint": "Aviator, informally"
+        },
+        "W": {
+            "cells": [
+                50,
+                171,
+                35,
+                106
+            ],
+            "answer": "Reel",
+            "hint": "Device used in casting"
+        },
+        "X": {
+            "cells": [
+                93,
+                74,
+                26,
+                61,
+                140
+            ],
+            "answer": "Oscar",
+            "hint": "N.B.A. Hall-of-Famer Robertson"
+        },
+        "Y": {
+            "cells": [
+                78,
+                29,
+                45,
+                63,
+                4,
+                163
+            ],
+            "answer": "Attire",
+            "hint": "Party invitation specification"
+        },
+        "Z": {
+            "cells": [
+                40,
+                148,
+                89,
+                130,
+                108,
+                72,
+                22,
+                164,
+                2
+            ],
+            "answer": "Death wish",
+            "hint": "What an extreme daredevil may seem to have (2 wds.)"
+        }
+    }
+}

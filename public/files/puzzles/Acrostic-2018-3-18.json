@@ -1,0 +1,356 @@
+{
+    "answer": "Gray whales don\u2019t look especially dirigible. You\u2019d hate to have to park one. They have a lumpy crudeness of design, a banged-up body... ugly mouth and... a color that seems to come from a supply of government surplus paint... .",
+    "author": "Charles D'Ambrosio,",
+    "authorCell": [
+        75,
+        48,
+        125,
+        2,
+        107,
+        19,
+        82,
+        98,
+        117,
+        130,
+        93,
+        139,
+        58,
+        10,
+        170,
+        152,
+        15,
+        121,
+        32,
+        126,
+        68,
+        76,
+        30,
+        13,
+        1
+    ],
+    "source": "Loitering",
+    "clues": {
+        "A": {
+            "cells": [
+                75,
+                99,
+                112,
+                158,
+                143,
+                28
+            ],
+            "answer": "Cutesy",
+            "hint": "Attractive, but a bit too precious"
+        },
+        "B": {
+            "cells": [
+                48,
+                92,
+                74,
+                138,
+                110,
+                163,
+                18
+            ],
+            "answer": "Hayfork",
+            "hint": "Pitching aid in a rural setting"
+        },
+        "C": {
+            "cells": [
+                125,
+                73,
+                100,
+                165,
+                3,
+                144,
+                29
+            ],
+            "answer": "Applaud",
+            "hint": "Show one\u2019s appreciation, in a way"
+        },
+        "D": {
+            "cells": [
+                2,
+                34,
+                80,
+                106,
+                131
+            ],
+            "answer": "Rings",
+            "hint": "Gymnastics event; stock at a jeweler\u2019s"
+        },
+        "E": {
+            "cells": [
+                107,
+                137,
+                50,
+                89,
+                66,
+                123,
+                6,
+                25,
+                171
+            ],
+            "answer": "\"Leviathan\"",
+            "hint": "1651 book on statecraft from the pen of Thomas Hobbes"
+        },
+        "F": {
+            "cells": [
+                19,
+                172,
+                113,
+                149,
+                70,
+                53,
+                96,
+                38
+            ],
+            "answer": "Ethology",
+            "hint": "Scientific study of animal behavior"
+        },
+        "G": {
+            "cells": [
+                82,
+                61,
+                155,
+                43,
+                24,
+                132
+            ],
+            "answer": "Strait",
+            "hint": "Counterpart to an isthmus"
+        },
+        "H": {
+            "cells": [
+                98,
+                22,
+                159,
+                52,
+                69,
+                8
+            ],
+            "answer": "Dental",
+            "hint": "Benefit in some insurance plans"
+        },
+        "I": {
+            "cells": [
+                117,
+                41,
+                153,
+                87,
+                56,
+                101
+            ],
+            "answer": "Adverb",
+            "hint": "Now, never or always"
+        },
+        "J": {
+            "cells": [
+                130,
+                7,
+                166,
+                67,
+                37
+            ],
+            "answer": "Mauve",
+            "hint": "Hue named for the mallow flower"
+        },
+        "K": {
+            "cells": [
+                93,
+                26,
+                47,
+                5,
+                65,
+                140,
+                120,
+                79
+            ],
+            "answer": "Blowhole",
+            "hint": "Source of a spout at sea"
+        },
+        "L": {
+            "cells": [
+                139,
+                60,
+                35,
+                162,
+                88
+            ],
+            "answer": "Rebus",
+            "hint": "Puzzle that may have pluses and minuses"
+        },
+        "M": {
+            "cells": [
+                58,
+                150,
+                85,
+                127,
+                45,
+                14
+            ],
+            "answer": "Offset",
+            "hint": "Counterbalance"
+        },
+        "N": {
+            "cells": [
+                10,
+                148,
+                72,
+                21,
+                42,
+                133,
+                91,
+                108
+            ],
+            "answer": "Symphony",
+            "hint": "Harmonious creation"
+        },
+        "O": {
+            "cells": [
+                170,
+                83,
+                124,
+                141,
+                49,
+                63,
+                36
+            ],
+            "answer": "Ishmael",
+            "hint": "Third word of a novel of 1851"
+        },
+        "P": {
+            "cells": [
+                152,
+                31,
+                134,
+                114
+            ],
+            "answer": "\"Orca\"",
+            "hint": "Name of Quint\u2019s boat in \u201cJaws\u201d"
+        },
+        "Q": {
+            "cells": [
+                15,
+                135,
+                40,
+                118,
+                62,
+                154
+            ],
+            "answer": "Louche",
+            "hint": "Morally loose, slightly decadent"
+        },
+        "R": {
+            "cells": [
+                121,
+                145,
+                54,
+                39,
+                161,
+                97,
+                11
+            ],
+            "answer": "Opposed",
+            "hint": "Contrary; not in favor"
+        },
+        "S": {
+            "cells": [
+                32,
+                157,
+                168,
+                16,
+                71,
+                115,
+                86,
+                128,
+                103
+            ],
+            "answer": "Impounded",
+            "hint": "Taken and held in legal custody"
+        },
+        "T": {
+            "cells": [
+                126,
+                17,
+                147,
+                167,
+                46,
+                102,
+                64
+            ],
+            "answer": "Tolstoy",
+            "hint": "Author who asked \u201cWhat is art?\u201d"
+        },
+        "U": {
+            "cells": [
+                68,
+                109,
+                146,
+                27,
+                84,
+                4,
+                129,
+                51
+            ],
+            "answer": "Employee",
+            "hint": "Successful job applicant"
+        },
+        "V": {
+            "cells": [
+                76,
+                55,
+                33,
+                151,
+                9,
+                116,
+                104
+            ],
+            "answer": "Raggedy",
+            "hint": "The worse for wear"
+        },
+        "W": {
+            "cells": [
+                30,
+                90,
+                105,
+                169,
+                156,
+                119,
+                78,
+                12,
+                59
+            ],
+            "answer": "Iguanodon",
+            "hint": "Giant lizard of the Jurassic Period"
+        },
+        "X": {
+            "cells": [
+                13,
+                142,
+                95,
+                160,
+                111,
+                23,
+                57,
+                81,
+                44
+            ],
+            "answer": "Nantucket",
+            "hint": "Home to Ahab and Starbuck"
+        },
+        "Y": {
+            "cells": [
+                1,
+                122,
+                94,
+                136,
+                164,
+                77,
+                20
+            ],
+            "answer": "Grampus",
+            "hint": "Genus with Risso\u2019s dolphin as its only species"
+        }
+    }
+}

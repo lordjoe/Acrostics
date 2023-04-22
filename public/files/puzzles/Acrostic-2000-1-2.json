@@ -1,0 +1,364 @@
+{
+    "answer": "A sixth-century monk named... Dennis the Short... instructed to prepare a chronology for [the] Pope... neglected to begin time with the year zero... During the year that Jesus was one year old, the time system... was two years old.",
+    "author": "S(tephen) J(ay) Gould,",
+    "authorCell": [
+        136,
+        129,
+        90,
+        60,
+        132,
+        145,
+        173,
+        46,
+        37,
+        77,
+        64,
+        39,
+        168,
+        42,
+        12,
+        3,
+        92,
+        123,
+        30,
+        142,
+        140,
+        2,
+        5,
+        19,
+        43,
+        17
+    ],
+    "source": "Dinosaur In A Haystack",
+    "clues": {
+        "A": {
+            "cells": [
+                136,
+                63,
+                155,
+                88,
+                111,
+                15,
+                40,
+                131
+            ],
+            "answer": "Slyboots",
+            "hint": "Someone engagingly crafty"
+        },
+        "B": {
+            "cells": [
+                129,
+                76,
+                101,
+                162,
+                96,
+                118
+            ],
+            "answer": "Jet set",
+            "hint": "Frequent travelers abroad (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                90,
+                56,
+                14,
+                75
+            ],
+            "answer": "Gamp",
+            "hint": "Big awkward umbrella"
+        },
+        "D": {
+            "cells": [
+                60,
+                49,
+                94,
+                34,
+                38,
+                78,
+                158,
+                114,
+                28
+            ],
+            "answer": "\u201cO Pioneers\"",
+            "hint": "Willa Cather novel set in Nebraska (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                132,
+                4,
+                62,
+                41,
+                115,
+                82,
+                27,
+                22,
+                51
+            ],
+            "answer": "Uxoricide",
+            "hint": "Othello\u2019s crime"
+        },
+        "F": {
+            "cells": [
+                145,
+                141,
+                117,
+                126,
+                165,
+                107,
+                18
+            ],
+            "answer": "Leghorn",
+            "hint": "Breed of chicken; soft-brimmed straw hat"
+        },
+        "G": {
+            "cells": [
+                173,
+                98,
+                36,
+                47,
+                87
+            ],
+            "answer": "Ditto",
+            "hint": "\u201cThat\u2019s what I think, too!??"
+        },
+        "H": {
+            "cells": [
+                46,
+                84,
+                134,
+                13,
+                55,
+                66,
+                153,
+                112
+            ],
+            "answer": "Dewy-eyed",
+            "hint": "Overly innocent and trustful (hyph.)"
+        },
+        "I": {
+            "cells": [
+                37,
+                16,
+                154,
+                83,
+                91,
+                61,
+                7,
+                29
+            ],
+            "answer": "Instinct",
+            "hint": "Unconscious skill"
+        },
+        "J": {
+            "cells": [
+                77,
+                21,
+                160,
+                119,
+                53,
+                59,
+                125
+            ],
+            "answer": "\"Newhart\"",
+            "hint": "1980\u2019s sitcom set in a colonial inn"
+        },
+        "K": {
+            "cells": [
+                64,
+                85,
+                166,
+                156,
+                133,
+                139,
+                104
+            ],
+            "answer": "\"Odyssey??",
+            "hint": "Tale opening on Ogygia"
+        },
+        "L": {
+            "cells": [
+                39,
+                97,
+                103,
+                81,
+                157,
+                65,
+                113,
+                20
+            ],
+            "answer": "Sweet gum",
+            "hint": "Tree of the witch hazel family (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                168,
+                151,
+                69,
+                58,
+                149,
+                127,
+                23
+            ],
+            "answer": "Airhead",
+            "hint": "Person with not much upstairs"
+        },
+        "N": {
+            "cells": [
+                42,
+                70,
+                50,
+                167,
+                57,
+                33,
+                128
+            ],
+            "answer": "Utrecht",
+            "hint": "Site of several 1713 peace treaties"
+        },
+        "O": {
+            "cells": [
+                12,
+                48,
+                86,
+                71
+            ],
+            "answer": "Roth",
+            "hint": "Author of \u201cThe Anatomy Lesson,?? 1983"
+        },
+        "P": {
+            "cells": [
+                3,
+                170,
+                100,
+                159,
+                106,
+                89,
+                80
+            ],
+            "answer": "Ishmael",
+            "hint": "The third word of \u201cMoby Dick??"
+        },
+        "Q": {
+            "cells": [
+                92,
+                8,
+                73,
+                148,
+                130,
+                164
+            ],
+            "answer": "Nephew",
+            "hint": "Mordred, to King Arthur"
+        },
+        "R": {
+            "cells": [
+                123,
+                116,
+                10,
+                67,
+                1,
+                54,
+                95
+            ],
+            "answer": "Ant farm",
+            "hint": "Gift for a budding entomologist (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                30,
+                171,
+                110,
+                93,
+                68,
+                138
+            ],
+            "answer": "Horton",
+            "hint": "Pachyderm in a Dr. Seuss book"
+        },
+        "T": {
+            "cells": [
+                142,
+                169,
+                44,
+                32,
+                74,
+                25,
+                79
+            ],
+            "answer": "Art song",
+            "hint": "Lied, for example (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                140,
+                45,
+                152,
+                24,
+                9
+            ],
+            "answer": "Yemen",
+            "hint": "Modern locale of the biblical land of Sheba"
+        },
+        "V": {
+            "cells": [
+                2,
+                52,
+                137,
+                144,
+                26,
+                105,
+                35
+            ],
+            "answer": "Spooner",
+            "hint": "English cleric known for his verbal slips"
+        },
+        "W": {
+            "cells": [
+                5,
+                120,
+                99,
+                124,
+                161,
+                146
+            ],
+            "answer": "Tetrad",
+            "hint": "Any group of four"
+        },
+        "X": {
+            "cells": [
+                19,
+                143,
+                31,
+                147,
+                72
+            ],
+            "answer": "Arete",
+            "hint": "Sharp, rocky ridge"
+        },
+        "Y": {
+            "cells": [
+                43,
+                6,
+                109,
+                122,
+                150,
+                135,
+                102
+            ],
+            "answer": "Cheetah",
+            "hint": "Only cat with nonretractile claws"
+        },
+        "Z": {
+            "cells": [
+                17,
+                172,
+                11,
+                163,
+                108,
+                121
+            ],
+            "answer": "Klutzy",
+            "hint": "Like a butterfingers"
+        }
+    }
+}

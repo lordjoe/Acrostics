@@ -1,0 +1,357 @@
+{
+    "answer": "An eminent physicist... said, \u201cThere are two unsolved problems... The first is the unified field theory... of the universe. The second is why does a baseball curve? I believe... we may solve the first, but I despair of the second.\u201d",
+    "author": "(Robert K.) Adair,",
+    "authorCell": [
+        114,
+        108,
+        1,
+        103,
+        123,
+        9,
+        84,
+        98,
+        10,
+        106,
+        138,
+        92,
+        148,
+        121,
+        97,
+        33,
+        82,
+        127,
+        160,
+        49,
+        146,
+        117,
+        118,
+        38,
+        73
+    ],
+    "source": "The Physics Of Baseball",
+    "clues": {
+        "A": {
+            "cells": [
+                114,
+                55,
+                99,
+                76,
+                88,
+                4,
+                40,
+                156,
+                128,
+                168
+            ],
+            "answer": "Archimedes",
+            "hint": "Greek mathematician who wrote about pi"
+        },
+        "B": {
+            "cells": [
+                108,
+                81,
+                136,
+                47
+            ],
+            "answer": "Dome",
+            "hint": "Roof for a stadium, maybe"
+        },
+        "C": {
+            "cells": [
+                1,
+                129,
+                45,
+                110,
+                74,
+                163
+            ],
+            "answer": "Albedo",
+            "hint": "Ratio of reflected to incident light"
+        },
+        "D": {
+            "cells": [
+                103,
+                35,
+                115,
+                58,
+                22,
+                143
+            ],
+            "answer": "Inside",
+            "hint": "Not quite a strike"
+        },
+        "E": {
+            "cells": [
+                123,
+                93,
+                41,
+                104,
+                11,
+                54,
+                70,
+                165
+            ],
+            "answer": "Red shift",
+            "hint": "Cosmological effect\u2014or a Cincinnati defense technique? (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                9,
+                145,
+                29,
+                62,
+                85
+            ],
+            "answer": "Three",
+            "hint": "Figure worn by Babe Ruth"
+        },
+        "G": {
+            "cells": [
+                84,
+                63,
+                113,
+                152,
+                141,
+                167
+            ],
+            "answer": "Hubble",
+            "hint": "U.S. astronomer who espoused an expanding cosmos"
+        },
+        "H": {
+            "cells": [
+                98,
+                133,
+                159,
+                61,
+                86,
+                13
+            ],
+            "answer": "Eephus",
+            "hint": "Trick sort of pitch that\u2019s slow and loopy"
+        },
+        "I": {
+            "cells": [
+                10,
+                130,
+                172,
+                111,
+                144,
+                91,
+                161,
+                42,
+                27,
+                69
+            ],
+            "answer": "Pinstriped",
+            "hint": "Like the Bronx Bombers\u2019 attire"
+        },
+        "J": {
+            "cells": [
+                106,
+                52,
+                20,
+                142,
+                68,
+                166,
+                37
+            ],
+            "answer": "Heave-ho",
+            "hint": "Ejection by an umpire, slangily (hyph.)"
+        },
+        "K": {
+            "cells": [
+                138,
+                78,
+                122,
+                32,
+                21,
+                8
+            ],
+            "answer": "You win",
+            "hint": "Athlete\u2019s \u201cuncle\u201d (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                92,
+                72,
+                107,
+                147,
+                169,
+                26,
+                50
+            ],
+            "answer": "Seyfert",
+            "hint": "Astronomer Carl with a kind of galaxy named for him"
+        },
+        "M": {
+            "cells": [
+                148,
+                6,
+                132,
+                77,
+                43,
+                158,
+                96
+            ],
+            "answer": "Inverse",
+            "hint": "Backward\u2014the way \u201cCasey at the Bat\u201d is written?"
+        },
+        "N": {
+            "cells": [
+                121,
+                51,
+                112,
+                16,
+                87
+            ],
+            "answer": "Chain",
+            "hint": "Series"
+        },
+        "O": {
+            "cells": [
+                97,
+                23,
+                120,
+                171,
+                34,
+                71,
+                139
+            ],
+            "answer": "St. Louis",
+            "hint": "City where the Gas House Gang won the 1934 pennant (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                33,
+                119,
+                102,
+                75,
+                14,
+                48,
+                90,
+                149
+            ],
+            "answer": "Old-timer",
+            "hint": "Team member with a wealth of experience (hyph.)"
+        },
+        "Q": {
+            "cells": [
+                82,
+                116,
+                101,
+                134,
+                28,
+                12
+            ],
+            "answer": "Fenway",
+            "hint": "Park in use since April 20, 1912"
+        },
+        "R": {
+            "cells": [
+                127,
+                25,
+                150,
+                59,
+                7,
+                46
+            ],
+            "answer": "Bessel",
+            "hint": "Friedrich ___, German astronomer who predicted the existence of dark stars"
+        },
+        "S": {
+            "cells": [
+                160,
+                15,
+                151,
+                126,
+                89,
+                67,
+                31,
+                80
+            ],
+            "answer": "Activity",
+            "hint": "Rate of nuclear decay, measured in curies"
+        },
+        "T": {
+            "cells": [
+                49,
+                105,
+                5,
+                154,
+                170,
+                24,
+                95,
+                65,
+                83
+            ],
+            "answer": "Switch-hit",
+            "hint": "Swing both ways (hyph.)"
+        },
+        "U": {
+            "cells": [
+                146,
+                39,
+                30,
+                2,
+                17,
+                94,
+                135,
+                124,
+                157,
+                64
+            ],
+            "answer": "Even-steven",
+            "hint": "Equal on the scoreboard (hyph.)"
+        },
+        "V": {
+            "cells": [
+                117,
+                140,
+                44,
+                60,
+                3,
+                19
+            ],
+            "answer": "Bootes",
+            "hint": "Constellation called the Bear Watcher, near Ursa Major"
+        },
+        "W": {
+            "cells": [
+                118,
+                36,
+                18,
+                162,
+                100,
+                57,
+                153,
+                79,
+                66
+            ],
+            "answer": "AstroTurf",
+            "hint": "Surface patented in 1967 under the name Chemgrass"
+        },
+        "X": {
+            "cells": [
+                38,
+                125,
+                137,
+                173,
+                109,
+                53,
+                164
+            ],
+            "answer": "Leadoff",
+            "hint": "First up"
+        },
+        "Y": {
+            "cells": [
+                73,
+                155,
+                131,
+                56
+            ],
+            "answer": "Lies",
+            "hint": "\u201cHalf the ___ they tell about me aren\u2019t true\u201d (Yogi Berra)"
+        }
+    }
+}

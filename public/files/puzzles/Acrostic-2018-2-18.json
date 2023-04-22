@@ -1,0 +1,363 @@
+{
+    "answer": "Scattered across... Mongolia... stand... stones dating from the Bronze Age... . They are carved with... reindeer... depicted with... neck outstretched and... legs flung out fore and aft, as if not merely galloping but leaping through the air.",
+    "author": "Piers Vitebsky,",
+    "authorCell": [
+        67,
+        76,
+        37,
+        108,
+        157,
+        29,
+        97,
+        147,
+        25,
+        173,
+        95,
+        42,
+        8,
+        164,
+        120,
+        28,
+        33,
+        63,
+        144,
+        163,
+        59,
+        50,
+        84,
+        146,
+        104
+    ],
+    "source": "The Reindeer People",
+    "clues": {
+        "A": {
+            "cells": [
+                67,
+                13,
+                151,
+                110,
+                32,
+                92
+            ],
+            "answer": "Volant",
+            "hint": "In heraldry, shown with wings extended"
+        },
+        "B": {
+            "cells": [
+                76,
+                2,
+                176,
+                150,
+                132,
+                111,
+                35
+            ],
+            "answer": "Iceland",
+            "hint": "Largely treeless northern nation"
+        },
+        "C": {
+            "cells": [
+                37,
+                179,
+                162,
+                22,
+                130,
+                116,
+                53,
+                72
+            ],
+            "answer": "Train set",
+            "hint": "Moving display featuring small models (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                108,
+                65,
+                12,
+                30,
+                175,
+                48,
+                126,
+                158,
+                139,
+                89
+            ],
+            "answer": "Earthbound",
+            "hint": "Unable to transcend the mundane"
+        },
+        "E": {
+            "cells": [
+                157,
+                118,
+                98,
+                140,
+                44,
+                1
+            ],
+            "answer": "Blooms",
+            "hint": "Poinsettias have small ones"
+        },
+        "F": {
+            "cells": [
+                29,
+                70,
+                161,
+                112,
+                91,
+                136,
+                46
+            ],
+            "answer": "Swedish",
+            "hint": "Source of \u201cglogg\u201d and \u201csmorgasbord\u201d"
+        },
+        "G": {
+            "cells": [
+                97,
+                160,
+                123,
+                5,
+                52
+            ],
+            "answer": "Klutz",
+            "hint": "Unlikely person to excel at juggling"
+        },
+        "H": {
+            "cells": [
+                147,
+                23,
+                127,
+                77
+            ],
+            "answer": "Yarn",
+            "hint": "Shaggy-dog story, e.g."
+        },
+        "I": {
+            "cells": [
+                25,
+                58,
+                3,
+                141,
+                86,
+                107,
+                178,
+                165,
+                121
+            ],
+            "answer": "Thatching",
+            "hint": "Ancient sort of roof construction"
+        },
+        "J": {
+            "cells": [
+                173,
+                17,
+                124,
+                138,
+                99,
+                82,
+                40,
+                56
+            ],
+            "answer": "Hot fudge",
+            "hint": "Topper for a cold bowlful (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                95,
+                21,
+                41,
+                71,
+                155
+            ],
+            "answer": "Elfin",
+            "hint": "Suggestive of brownies"
+        },
+        "L": {
+            "cells": [
+                42,
+                171,
+                69,
+                20,
+                113,
+                153,
+                93
+            ],
+            "answer": "Rudolph",
+            "hint": "Shining example of one turning a flaw into an asset"
+        },
+        "M": {
+            "cells": [
+                8,
+                27,
+                45,
+                62,
+                128,
+                106,
+                168,
+                149,
+                87
+            ],
+            "answer": "Entrechat",
+            "hint": "Dancer\u2019s jump with rapidly crossing feet"
+        },
+        "N": {
+            "cells": [
+                164,
+                64,
+                135,
+                103,
+                119,
+                15
+            ],
+            "answer": "Icarus",
+            "hint": "Labyrinth maker\u2019s ill-fated son"
+        },
+        "O": {
+            "cells": [
+                120,
+                137,
+                55,
+                73,
+                4,
+                156,
+                170,
+                90,
+                39
+            ],
+            "answer": "Nightgown",
+            "hint": "Costume for Ebenezer Scrooge"
+        },
+        "P": {
+            "cells": [
+                28,
+                143,
+                96,
+                122,
+                7,
+                61,
+                174,
+                47,
+                78
+            ],
+            "answer": "Decorated",
+            "hint": "Put ornaments here and there"
+        },
+        "Q": {
+            "cells": [
+                33,
+                154,
+                109,
+                80,
+                49
+            ],
+            "answer": "Eider",
+            "hint": "Residue from a pillow fight, perhaps"
+        },
+        "R": {
+            "cells": [
+                63,
+                16,
+                38,
+                148,
+                169,
+                129,
+                100,
+                79
+            ],
+            "answer": "Emigrate",
+            "hint": "Go in search of greener pastures"
+        },
+        "S": {
+            "cells": [
+                144,
+                10,
+                125,
+                102,
+                83,
+                66,
+                34
+            ],
+            "answer": "Rafters",
+            "hint": "Beams overhead"
+        },
+        "T": {
+            "cells": [
+                163,
+                36,
+                81,
+                19,
+                145,
+                57
+            ],
+            "answer": "Parget",
+            "hint": "Plaster used for lining chimneys"
+        },
+        "U": {
+            "cells": [
+                59,
+                177,
+                24,
+                159,
+                43,
+                133,
+                75,
+                9,
+                114,
+                94
+            ],
+            "answer": "East of Eden",
+            "hint": "Nod\u2019s locale, in the Bible (3 wds.)"
+        },
+        "V": {
+            "cells": [
+                50,
+                11,
+                134,
+                88,
+                105
+            ],
+            "answer": "Octet",
+            "hint": "Maids a-milking, in \u201cThe 12 Days of Christmas\u201d"
+        },
+        "W": {
+            "cells": [
+                84,
+                6,
+                131,
+                26,
+                115,
+                152,
+                172,
+                60
+            ],
+            "answer": "Pedagogy",
+            "hint": "Teachings on teaching"
+        },
+        "X": {
+            "cells": [
+                146,
+                31,
+                117,
+                167,
+                85,
+                51,
+                68,
+                14,
+                101
+            ],
+            "answer": "Loftiness",
+            "hint": "High rank, exalted position"
+        },
+        "Y": {
+            "cells": [
+                104,
+                18,
+                166,
+                74,
+                54,
+                142
+            ],
+            "answer": "Engram",
+            "hint": "Posited memory imprint"
+        }
+    }
+}

@@ -1,0 +1,362 @@
+{
+    "answer": "[L]ife for the... wealthy [was] pleasant... . When Colonel Brabazon, who affected a fashionable difficulty with his r\u2019s,... [was] informed that the train for London had just left, he instructed the station master, \u201cThen bwing me another.\u201d",
+    "author": "Barbara W. Tuchman,",
+    "authorCell": [
+        43,
+        61,
+        41,
+        68,
+        13,
+        88,
+        156,
+        81,
+        145,
+        126,
+        141,
+        122,
+        170,
+        150,
+        47,
+        21,
+        178,
+        120,
+        77,
+        124,
+        142,
+        50,
+        11,
+        57,
+        160
+    ],
+    "source": "(The) Proud Tower",
+    "clues": {
+        "A": {
+            "cells": [
+                43,
+                67,
+                27,
+                161,
+                4,
+                115
+            ],
+            "answer": "Banter",
+            "hint": "Playful or flirtatious exchange"
+        },
+        "B": {
+            "cells": [
+                61,
+                8,
+                176,
+                23,
+                129,
+                148,
+                83,
+                103,
+                164
+            ],
+            "answer": "Athelstan",
+            "hint": "10th-century king of England"
+        },
+        "C": {
+            "cells": [
+                41,
+                143,
+                121,
+                6,
+                90,
+                168
+            ],
+            "answer": "Renown",
+            "hint": "Celebrity"
+        },
+        "D": {
+            "cells": [
+                68,
+                44,
+                144,
+                15,
+                172,
+                25,
+                158,
+                99
+            ],
+            "answer": "Bad taste",
+            "hint": "Exhibit of a kitsch collector? (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                13,
+                98,
+                24,
+                139,
+                70,
+                151,
+                108,
+                46
+            ],
+            "answer": "Amaretto",
+            "hint": "Liqueur made with apricot pits"
+        },
+        "F": {
+            "cells": [
+                88,
+                140,
+                62,
+                101,
+                165,
+                38,
+                22,
+                128
+            ],
+            "answer": "Rust belt",
+            "hint": "Industrial region in economic decline (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                156,
+                109,
+                59,
+                76,
+                9,
+                136,
+                31
+            ],
+            "answer": "Arachne",
+            "hint": "Woman of myth who challenged Athena to a weaving contest"
+        },
+        "H": {
+            "cells": [
+                81,
+                63,
+                111,
+                175,
+                130,
+                18,
+                51,
+                157,
+                146
+            ],
+            "answer": "Whitewash",
+            "hint": "Cover-up; defeat in a contest in which the loser fails to score"
+        },
+        "I": {
+            "cells": [
+                145,
+                84,
+                97,
+                114,
+                29,
+                174,
+                60,
+                3
+            ],
+            "answer": "Throw off",
+            "hint": "Shed; shake (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                126,
+                20,
+                89,
+                104,
+                163,
+                177,
+                1
+            ],
+            "answer": "U.S. Steel",
+            "hint": "The world\u2019s first billion-dollar corporation (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                141,
+                85,
+                123,
+                73,
+                52,
+                2,
+                94,
+                33,
+                106
+            ],
+            "answer": "Chaffinch",
+            "hint": "Cheery Old World songbird often kept as a pet"
+        },
+        "L": {
+            "cells": [
+                122,
+                135,
+                169,
+                16,
+                40,
+                96,
+                80
+            ],
+            "answer": "Highboy",
+            "hint": "Chest of drawers in two sections"
+        },
+        "M": {
+            "cells": [
+                170,
+                72,
+                55,
+                7,
+                34,
+                112
+            ],
+            "answer": "Micron",
+            "hint": "10,000 angstrom units, informally"
+        },
+        "N": {
+            "cells": [
+                150,
+                92,
+                49,
+                14,
+                110,
+                32,
+                71
+            ],
+            "answer": "Ashland",
+            "hint": "Oregon town noted for its Shakespeare festival"
+        },
+        "O": {
+            "cells": [
+                47,
+                86,
+                66,
+                125,
+                19
+            ],
+            "answer": "Ninja",
+            "hint": "One who wields shuriken and nanchakus"
+        },
+        "P": {
+            "cells": [
+                21,
+                167,
+                113,
+                53,
+                78,
+                10
+            ],
+            "answer": "Piffle",
+            "hint": "Applesauce and baloney"
+        },
+        "Q": {
+            "cells": [
+                178,
+                30,
+                64,
+                45,
+                117,
+                155,
+                134
+            ],
+            "answer": "Rhizome",
+            "hint": "Rootstock, as of an iris or trillium"
+        },
+        "R": {
+            "cells": [
+                120,
+                173,
+                133,
+                153,
+                39,
+                58
+            ],
+            "answer": "On hold",
+            "hint": "In telephonic purgatory (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                77,
+                37,
+                119,
+                93,
+                154,
+                107
+            ],
+            "answer": "\u201cUndine\"",
+            "hint": "Hoffmann opera about a water sprite"
+        },
+        "T": {
+            "cells": [
+                124,
+                171,
+                35,
+                5,
+                56
+            ],
+            "answer": "Delft",
+            "hint": "Vermeer\u2019s birthplace, famed for ceramics"
+        },
+        "U": {
+            "cells": [
+                142,
+                166,
+                36,
+                74,
+                152,
+                127,
+                28,
+                54,
+                100
+            ],
+            "answer": "Two-fisted",
+            "hint": "Hard-living, aggressive, ready to fight (hyph.)"
+        },
+        "V": {
+            "cells": [
+                50,
+                69,
+                147,
+                131,
+                82,
+                118
+            ],
+            "answer": "Olefin",
+            "hint": "Synthetic carpet fiber"
+        },
+        "W": {
+            "cells": [
+                11,
+                102,
+                91,
+                79,
+                137,
+                48,
+                162,
+                26,
+                149
+            ],
+            "answer": "What\u2019s what",
+            "hint": "The skinny (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                57,
+                17,
+                159,
+                116,
+                75,
+                95,
+                138
+            ],
+            "answer": "Eyelift",
+            "hint": "Cosmetic blepharoplasty"
+        },
+        "Y": {
+            "cells": [
+                160,
+                65,
+                87,
+                12,
+                105,
+                132,
+                42
+            ],
+            "answer": "\"Rosetta\u201d",
+            "hint": "Earl Hines jazz classic"
+        }
+    }
+}

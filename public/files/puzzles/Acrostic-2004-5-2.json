@@ -1,0 +1,361 @@
+{
+    "answer": "Hours after taking... office, Kennedy was astonished to discover thousands of small cleat marks in the Oval Office\u2018s... floor, leading a pockmarked trail from... the desk to the South Lawn, and Ike\u2019s... custom-built putting green.",
+    "author": "Don Van Natta,",
+    "authorCell": [
+        45,
+        159,
+        80,
+        85,
+        6,
+        147,
+        149,
+        148,
+        8,
+        168,
+        113,
+        123,
+        14,
+        4,
+        39,
+        169,
+        49,
+        19,
+        89,
+        43,
+        82,
+        22,
+        165,
+        51,
+        83
+    ],
+    "source": "First Off The Tee (Presidential Hackers, Duffers, And Cheaters From Taft To Bush)",
+    "clues": {
+        "A": {
+            "cells": [
+                45,
+                167,
+                18,
+                63,
+                153,
+                119
+            ],
+            "answer": "Duffer",
+            "hint": "Shooter of rounds whose score is too high"
+        },
+        "B": {
+            "cells": [
+                159,
+                100,
+                117,
+                90,
+                144,
+                12,
+                65,
+                41
+            ],
+            "answer": "Old flame",
+            "hint": "Lover no longer (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                80,
+                109,
+                134,
+                1,
+                145,
+                171,
+                13,
+                61
+            ],
+            "answer": "No thanks",
+            "hint": "\u201cI\u2019ll pass\u201d (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                85,
+                98,
+                140,
+                28,
+                44,
+                62
+            ],
+            "answer": "Voodoo",
+            "hint": "It might produce bad spelling"
+        },
+        "E": {
+            "cells": [
+                6,
+                68,
+                53,
+                124,
+                156,
+                91,
+                34,
+                112
+            ],
+            "answer": "Altruism",
+            "hint": "The antithesis of selfishness"
+        },
+        "F": {
+            "cells": [
+                147,
+                20,
+                161,
+                122,
+                79,
+                48,
+                133
+            ],
+            "answer": "Niblick",
+            "hint": "Imparter of great loft to a shot"
+        },
+        "G": {
+            "cells": [
+                149,
+                176,
+                71,
+                103,
+                87,
+                9,
+                47
+            ],
+            "answer": "Needles",
+            "hint": "Things a belonephobe might fear"
+        },
+        "H": {
+            "cells": [
+                148,
+                7,
+                95,
+                76,
+                55,
+                177,
+                118
+            ],
+            "answer": "Affront",
+            "hint": "Intentional insult"
+        },
+        "I": {
+            "cells": [
+                8,
+                128,
+                93,
+                154,
+                138,
+                56,
+                32
+            ],
+            "answer": "Theseus",
+            "hint": "Slayer of Procrustes and the Minotaur"
+        },
+        "J": {
+            "cells": [
+                168,
+                36,
+                78,
+                94,
+                108,
+                17,
+                127
+            ],
+            "answer": "Tosspot",
+            "hint": "Toper, sot, elbow-bender"
+        },
+        "K": {
+            "cells": [
+                113,
+                10,
+                158,
+                46,
+                92,
+                40,
+                135,
+                23,
+                101
+            ],
+            "answer": "Artichoke",
+            "hint": "Flower head with an edible heart"
+        },
+        "L": {
+            "cells": [
+                123,
+                66,
+                163,
+                174,
+                146,
+                102,
+                29
+            ],
+            "answer": "Fairway",
+            "hint": "Where drives might terminate"
+        },
+        "M": {
+            "cells": [
+                14,
+                25,
+                111,
+                70,
+                151,
+                59,
+                172
+            ],
+            "answer": "Inkling",
+            "hint": "Slight hint; vague idea"
+        },
+        "N": {
+            "cells": [
+                4,
+                27,
+                50,
+                97,
+                115,
+                129,
+                42
+            ],
+            "answer": "Revoked",
+            "hint": "Voided, annulled, withdrawn"
+        },
+        "O": {
+            "cells": [
+                39,
+                143,
+                75,
+                26,
+                152,
+                175,
+                60
+            ],
+            "answer": "Shanked",
+            "hint": "Hit to the side instead of straight"
+        },
+        "P": {
+            "cells": [
+                169,
+                54,
+                99,
+                141,
+                132,
+                11
+            ],
+            "answer": "Thrust",
+            "hint": "Push forcibly; NASA engineer\u2019s calculation"
+        },
+        "Q": {
+            "cells": [
+                49,
+                162,
+                35,
+                69,
+                120,
+                5,
+                142
+            ],
+            "answer": "Outcast",
+            "hint": "Excluded from society"
+        },
+        "R": {
+            "cells": [
+                19,
+                96,
+                2,
+                73,
+                139,
+                86,
+                160
+            ],
+            "answer": "Flotsam",
+            "hint": "Ship\u2019s wreckage bobbing on the waves"
+        },
+        "S": {
+            "cells": [
+                89,
+                164,
+                33,
+                173,
+                57,
+                136,
+                104,
+                110,
+                77
+            ],
+            "answer": "Flagstick",
+            "hint": "Pole planted in a cup"
+        },
+        "T": {
+            "cells": [
+                43,
+                84,
+                3,
+                16,
+                137
+            ],
+            "answer": "Tough",
+            "hint": "Hard to chew"
+        },
+        "U": {
+            "cells": [
+                82,
+                72,
+                37,
+                130,
+                121,
+                21,
+                58,
+                166
+            ],
+            "answer": "Handicap",
+            "hint": "Equalizing advantage in competition"
+        },
+        "V": {
+            "cells": [
+                22,
+                105,
+                31,
+                155,
+                81
+            ],
+            "answer": "Enact",
+            "hint": "Make into law"
+        },
+        "W": {
+            "cells": [
+                165,
+                38,
+                106,
+                116,
+                52,
+                30,
+                125,
+                88,
+                150,
+                64
+            ],
+            "answer": "Tiger Woods",
+            "hint": "Noted sportsman who describes himself as \u201cCablinasian\u201d (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                51,
+                114,
+                15,
+                170,
+                24,
+                131,
+                67,
+                157
+            ],
+            "answer": "Ernie Els",
+            "hint": "South African who won the British Open in 2002 (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                83,
+                74,
+                126,
+                107
+            ],
+            "answer": "Emma",
+            "hint": "1816 novel that inspired the movie \u201cClueless\u201d"
+        }
+    }
+}

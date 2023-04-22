@@ -1,0 +1,361 @@
+{
+    "answer": "[M]ere chemistry can explain what makes a cake, while pie demands metaphysics. The opposition between a pie\u2018s inside and out, the dialectic... between crust and filling, can\u2019t but set minds wondering.... [W]e never lose interest....",
+    "author": "(Judith) Moore,",
+    "authorCell": [
+        53,
+        75,
+        98,
+        155,
+        169,
+        76,
+        108,
+        163,
+        78,
+        174,
+        154,
+        95,
+        64,
+        13,
+        67,
+        140,
+        12,
+        65,
+        17,
+        125,
+        3,
+        115,
+        70,
+        122,
+        177
+    ],
+    "source": "Never Eat Your Heart Out",
+    "clues": {
+        "A": {
+            "cells": [
+                53,
+                72,
+                152,
+                109,
+                7,
+                28,
+                173,
+                21,
+                124
+            ],
+            "answer": "Mincemeat",
+            "hint": "Product of ruthless demolition"
+        },
+        "B": {
+            "cells": [
+                75,
+                1,
+                54,
+                166,
+                118,
+                100
+            ],
+            "answer": "Omelet",
+            "hint": "Order at a diner"
+        },
+        "C": {
+            "cells": [
+                98,
+                59,
+                149,
+                73,
+                117,
+                165
+            ],
+            "answer": "Oyster",
+            "hint": "\u201cI do not weep at the world - I am too busy sharpening my ___ knife\u201d (Z.N. Hurston)"
+        },
+        "D": {
+            "cells": [
+                155,
+                82,
+                34,
+                44,
+                19,
+                103
+            ],
+            "answer": "Recipe",
+            "hint": "Latin imperative meaning \u201ctake\u201d"
+        },
+        "E": {
+            "cells": [
+                169,
+                23,
+                62,
+                6,
+                74,
+                130,
+                84,
+                104,
+                35
+            ],
+            "answer": "Enchilada",
+            "hint": "With \u201cbig,\u201d one in charge"
+        },
+        "F": {
+            "cells": [
+                76,
+                42,
+                150,
+                4,
+                171,
+                134,
+                20,
+                49,
+                119,
+                93
+            ],
+            "answer": "New England",
+            "hint": "Where grinders may be found (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                108,
+                18,
+                135,
+                81,
+                168,
+                63
+            ],
+            "answer": "Excess",
+            "hint": "Surfeit, overindulgence"
+        },
+        "H": {
+            "cells": [
+                163,
+                9,
+                110,
+                29,
+                48,
+                86,
+                137,
+                120
+            ],
+            "answer": "Vitamin C",
+            "hint": "Substance that primates, unlike most mammals, can\u2019t synthesize (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                78,
+                145,
+                69,
+                55,
+                105,
+                90,
+                162,
+                10,
+                52
+            ],
+            "answer": "Emptiness",
+            "hint": "Hunger"
+        },
+        "J": {
+            "cells": [
+                174,
+                45,
+                68,
+                136,
+                123,
+                27
+            ],
+            "answer": "Repast",
+            "hint": "Mess to put away?"
+        },
+        "K": {
+            "cells": [
+                154,
+                60,
+                144,
+                106,
+                8,
+                170,
+                133,
+                37,
+                79
+            ],
+            "answer": "Estaminet",
+            "hint": "French bistro or small cafe"
+        },
+        "L": {
+            "cells": [
+                95,
+                172,
+                58,
+                80,
+                15,
+                121,
+                138
+            ],
+            "answer": "Athwart",
+            "hint": "Transversely; contrary to"
+        },
+        "M": {
+            "cells": [
+                64,
+                22,
+                46,
+                77,
+                89,
+                141
+            ],
+            "answer": "Tidbit",
+            "hint": "Something choice and dainty"
+        },
+        "N": {
+            "cells": [
+                13,
+                132,
+                87,
+                41,
+                153
+            ],
+            "answer": "Yield",
+            "hint": "Harvest"
+        },
+        "O": {
+            "cells": [
+                67,
+                57,
+                175,
+                157,
+                128,
+                26,
+                112,
+                2,
+                97
+            ],
+            "answer": "Open-faced",
+            "hint": "Like some sandwiches (hyph.)"
+        },
+        "P": {
+            "cells": [
+                140,
+                161,
+                38,
+                92,
+                126,
+                51
+            ],
+            "answer": "Unwind",
+            "hint": "Relax, take it easy"
+        },
+        "Q": {
+            "cells": [
+                12,
+                31,
+                85,
+                107,
+                164,
+                147,
+                61,
+                176,
+                39
+            ],
+            "answer": "Replenish",
+            "hint": "Supply with new stock"
+        },
+        "R": {
+            "cells": [
+                65,
+                160,
+                24,
+                50
+            ],
+            "answer": "Hewn",
+            "hint": "Carved roughly"
+        },
+        "S": {
+            "cells": [
+                17,
+                148,
+                40,
+                139,
+                131,
+                114
+            ],
+            "answer": "Edible",
+            "hint": "Fit to be tried?"
+        },
+        "T": {
+            "cells": [
+                125,
+                101,
+                36,
+                146,
+                83,
+                32
+            ],
+            "answer": "Atkins",
+            "hint": "Proponent of a popular diet plan"
+        },
+        "U": {
+            "cells": [
+                3,
+                143,
+                56,
+                14,
+                25,
+                111,
+                96,
+                158
+            ],
+            "answer": "Reaching",
+            "hint": "Possible breach of etiquette at dinner"
+        },
+        "V": {
+            "cells": [
+                115,
+                102,
+                33,
+                159,
+                47,
+                127
+            ],
+            "answer": "Thawed",
+            "hint": "Like some foods before cooking"
+        },
+        "W": {
+            "cells": [
+                70,
+                88,
+                142,
+                151,
+                113,
+                99,
+                5,
+                167
+            ],
+            "answer": "Osso buco",
+            "hint": "Italian dish made with white wine (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                122,
+                43,
+                91,
+                66,
+                11
+            ],
+            "answer": "Upset",
+            "hint": "Stomach problem"
+        },
+        "Y": {
+            "cells": [
+                177,
+                116,
+                156,
+                16,
+                30,
+                129,
+                94,
+                71
+            ],
+            "answer": "Twinkies",
+            "hint": "Popular product of the Continental Baking Co."
+        }
+    }
+}

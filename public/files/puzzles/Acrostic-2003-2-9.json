@@ -1,0 +1,344 @@
+{
+    "answer": "[S]ubjects of... [the earliest photographic] portraits look frozen, like children playing \u201cstatues.\u201d People posed, and... sitters may have felt that, rather than help capture an instant of time, they had been asked to hold time still.",
+    "author": "B(ettyann) H(oltzmann) Kevles,",
+    "authorCell": [
+        158,
+        23,
+        46,
+        126,
+        105,
+        181,
+        14,
+        78,
+        91,
+        116,
+        55,
+        63,
+        89,
+        111,
+        81,
+        25,
+        169,
+        51,
+        3,
+        26,
+        124,
+        88
+    ],
+    "source": "Naked To The Bone",
+    "clues": {
+        "A": {
+            "cells": [
+                158,
+                35,
+                120,
+                143,
+                10,
+                48,
+                77,
+                108
+            ],
+            "answer": "\u201cBorn Free\"",
+            "hint": "Book, movie, TV series and Oscar-winning song (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                23,
+                49,
+                131,
+                84,
+                57,
+                12,
+                165,
+                177,
+                114
+            ],
+            "answer": "Hope chest",
+            "hint": "What\u2019s called a \u201cbottom drawer\u201d in Britain (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                46,
+                32,
+                61,
+                139,
+                156,
+                128,
+                79,
+                13,
+                166
+            ],
+            "answer": "\"Kidnapped\"",
+            "hint": "Historical romance by Robert Louis Stevenson"
+        },
+        "D": {
+            "cells": [
+                126,
+                17,
+                65,
+                39,
+                87,
+                145
+            ],
+            "answer": "El Paso",
+            "hint": "Busy U.S.-Mexico border crossing (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                105,
+                74,
+                127,
+                40,
+                90,
+                161,
+                21
+            ],
+            "answer": "Valiant",
+            "hint": "Plymouth model of the 1960\u2019s and 70\u2019s"
+        },
+        "F": {
+            "cells": [
+                181,
+                106,
+                137,
+                75,
+                94,
+                43,
+                163
+            ],
+            "answer": "Lentils",
+            "hint": "Protein-rich soup and salad ingredients"
+        },
+        "G": {
+            "cells": [
+                14,
+                175,
+                82,
+                37,
+                68,
+                122,
+                5,
+                130,
+                157,
+                56,
+                92
+            ],
+            "answer": "Empty-headed",
+            "hint": "Not given to much cogitation (hyph.)"
+        },
+        "H": {
+            "cells": [
+                78,
+                159,
+                64,
+                113,
+                173,
+                9,
+                28,
+                93
+            ],
+            "answer": "Senators",
+            "hint": "Harmon Killebrew\u2019s original team"
+        },
+        "I": {
+            "cells": [
+                91,
+                179,
+                41,
+                7,
+                154,
+                71,
+                16,
+                138,
+                121,
+                167,
+                102
+            ],
+            "answer": "Nitty-gritty",
+            "hint": "Essential details (hyph.)"
+        },
+        "J": {
+            "cells": [
+                116,
+                171,
+                60,
+                160,
+                101,
+                36,
+                20
+            ],
+            "answer": "All ears",
+            "hint": "Rapt with attention (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                55,
+                174,
+                42,
+                100,
+                19,
+                73
+            ],
+            "answer": "\"Kismet\"",
+            "hint": "Broadway musical set in Baghdad"
+        },
+        "L": {
+            "cells": [
+                63,
+                85,
+                112,
+                135,
+                149,
+                97,
+                38,
+                15,
+                180
+            ],
+            "answer": "Ephemeral",
+            "hint": "Lasting only one day, as mayflies, e.g."
+        },
+        "M": {
+            "cells": [
+                89,
+                176,
+                142,
+                115,
+                4,
+                44,
+                31,
+                70
+            ],
+            "answer": "Dear John",
+            "hint": "Introduction to some unwelcome news (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                111,
+                80,
+                98,
+                62,
+                136,
+                22,
+                148,
+                52
+            ],
+            "answer": "Terrapin",
+            "hint": "Uncle Remus \u201cBrer\u201d who gets the best of Brer Rabbit"
+        },
+        "O": {
+            "cells": [
+                81,
+                133,
+                151,
+                170,
+                107,
+                99,
+                59,
+                27,
+                118,
+                141
+            ],
+            "answer": "Out of sight",
+            "hint": "Not visible; fantastic (3 wds.)"
+        },
+        "P": {
+            "cells": [
+                25,
+                125,
+                162,
+                95,
+                1,
+                53,
+                69,
+                146,
+                119
+            ],
+            "answer": "\"That\u2019s Life\u201d",
+            "hint": "1966 hit for Frank Sinatra (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                169,
+                123,
+                83,
+                47,
+                8,
+                110,
+                153,
+                30
+            ],
+            "answer": "Half step",
+            "hint": "Interval between adjacent keys on a piano (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                51,
+                34,
+                18,
+                129,
+                96,
+                150,
+                178,
+                2,
+                72
+            ],
+            "answer": "Epictetus",
+            "hint": "Stoic who said \u201cSilence is safer than speech\u201d"
+        },
+        "S": {
+            "cells": [
+                3,
+                168,
+                50,
+                24
+            ],
+            "answer": "Bozo",
+            "hint": "Comic role for Willard Scott, among others"
+        },
+        "T": {
+            "cells": [
+                26,
+                109,
+                172,
+                140,
+                6,
+                152,
+                45,
+                86,
+                66
+            ],
+            "answer": "Old school",
+            "hint": "New wave\u2019s antithesis (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                124,
+                76,
+                147,
+                58,
+                104,
+                132,
+                33,
+                155
+            ],
+            "answer": "Nuthatch",
+            "hint": "Bird that goes down tree trunks headfirst"
+        },
+        "V": {
+            "cells": [
+                88,
+                29,
+                134,
+                144,
+                103,
+                67,
+                164,
+                54,
+                11,
+                117
+            ],
+            "answer": "Eartha Kitt",
+            "hint": "Catwoman portrayer on TV\u2019s \u201cBatman\u201d (2 wds.)"
+        }
+    }
+}

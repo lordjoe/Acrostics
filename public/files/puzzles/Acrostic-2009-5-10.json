@@ -1,0 +1,361 @@
+{
+    "answer": "For about a year... our oyster is a male... . Then one day, maternal longings surge between his two valves in his cold guts and gills and all his crinkly fringes. Necessity, that well-known mother, makes him one. He is a she.",
+    "author": "M.F.K. Fisher,",
+    "authorCell": [
+        146,
+        117,
+        114,
+        1,
+        108,
+        70,
+        169,
+        65,
+        118,
+        110,
+        147,
+        124,
+        123,
+        130,
+        37,
+        162,
+        44,
+        8,
+        163,
+        11,
+        49,
+        39,
+        128,
+        42,
+        170,
+        3
+    ],
+    "source": "Consider The Oyster",
+    "clues": {
+        "A": {
+            "cells": [
+                146,
+                83,
+                102,
+                126,
+                165,
+                33,
+                54
+            ],
+            "answer": "Mincing",
+            "hint": "Activity for a chef or a dandy"
+        },
+        "B": {
+            "cells": [
+                117,
+                46,
+                148,
+                68,
+                164,
+                13
+            ],
+            "answer": "Father",
+            "hint": "Child, to man, per Wordsworth"
+        },
+        "C": {
+            "cells": [
+                114,
+                35,
+                97,
+                59,
+                157,
+                136,
+                24
+            ],
+            "answer": "Knights",
+            "hint": "Figures often viewed at a tilt"
+        },
+        "D": {
+            "cells": [
+                1,
+                115,
+                36,
+                150,
+                20
+            ],
+            "answer": "Fleet",
+            "hint": "Admiral\u2019s charge"
+        },
+        "E": {
+            "cells": [
+                108,
+                67,
+                47,
+                12,
+                132
+            ],
+            "answer": "Inlay",
+            "hint": "Nacre or abalone on a guitar"
+        },
+        "F": {
+            "cells": [
+                70,
+                119,
+                48,
+                32,
+                145,
+                91
+            ],
+            "answer": "Silent",
+            "hint": "Like a clam"
+        },
+        "G": {
+            "cells": [
+                169,
+                4,
+                94,
+                51,
+                140,
+                34,
+                17,
+                109,
+                78
+            ],
+            "answer": "Hang loose",
+            "hint": "Stay calm, don\u2019t freak (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                65,
+                40,
+                7,
+                105,
+                129,
+                23,
+                160,
+                81
+            ],
+            "answer": "Emulsion",
+            "hint": "Mayonnaise or butter, e.g."
+        },
+        "I": {
+            "cells": [
+                118,
+                93,
+                154,
+                52,
+                84,
+                31
+            ],
+            "answer": "Rakish",
+            "hint": "Dissolute; debonair"
+        },
+        "J": {
+            "cells": [
+                110,
+                73,
+                156,
+                133,
+                99,
+                18
+            ],
+            "answer": "Costly",
+            "hint": "Exacting a high price"
+        },
+        "K": {
+            "cells": [
+                147,
+                72,
+                125,
+                53,
+                166
+            ],
+            "answer": "Owens",
+            "hint": "River diverted to Los Angeles via aqueduct"
+        },
+        "L": {
+            "cells": [
+                124,
+                57,
+                5,
+                158,
+                76,
+                21
+            ],
+            "answer": "Nubile",
+            "hint": "Sexually developed and attractive"
+        },
+        "M": {
+            "cells": [
+                123,
+                138,
+                104,
+                168,
+                14,
+                45,
+                66,
+                88
+            ],
+            "answer": "Seasoned",
+            "hint": "Imbued with flavor; having experience"
+        },
+        "N": {
+            "cells": [
+                130,
+                79,
+                28,
+                101,
+                152
+            ],
+            "answer": "Islam",
+            "hint": "Belief based on five pillars"
+        },
+        "O": {
+            "cells": [
+                37,
+                143,
+                22,
+                167,
+                95,
+                6
+            ],
+            "answer": "Dorado",
+            "hint": "Dolphinfish"
+        },
+        "P": {
+            "cells": [
+                162,
+                41,
+                111,
+                63,
+                82,
+                137,
+                2,
+                16,
+                26
+            ],
+            "answer": "Earthworm",
+            "hint": "Hermaphroditic burrower"
+        },
+        "Q": {
+            "cells": [
+                44,
+                25,
+                159,
+                61,
+                106,
+                80,
+                142,
+                121
+            ],
+            "answer": "Rambling",
+            "hint": "Aimlessly wandering; unorganized, as a speech"
+        },
+        "R": {
+            "cells": [
+                8,
+                149,
+                112,
+                58,
+                92,
+                71
+            ],
+            "answer": "Thirst",
+            "hint": "Torment for Tantalus"
+        },
+        "S": {
+            "cells": [
+                163,
+                38,
+                131,
+                85,
+                107,
+                60,
+                151,
+                10
+            ],
+            "answer": "Hatchery",
+            "hint": "Place where fry or spat are raised"
+        },
+        "T": {
+            "cells": [
+                11,
+                87,
+                69,
+                55,
+                134,
+                153
+            ],
+            "answer": "Elisha",
+            "hint": "Otis who gave us a lift"
+        },
+        "U": {
+            "cells": [
+                49,
+                77,
+                15,
+                98,
+                127
+            ],
+            "answer": "Ovule",
+            "hint": "Diminutive egg"
+        },
+        "V": {
+            "cells": [
+                39,
+                135,
+                113,
+                89
+            ],
+            "answer": "Yang",
+            "hint": "Half of a gender-related duality"
+        },
+        "W": {
+            "cells": [
+                128,
+                30,
+                75,
+                96,
+                155,
+                56
+            ],
+            "answer": "Stages",
+            "hint": "Periods of development"
+        },
+        "X": {
+            "cells": [
+                42,
+                9,
+                141,
+                29,
+                103,
+                86,
+                64,
+                120
+            ],
+            "answer": "Take down",
+            "hint": "Dismantle; copy onto paper; defeat, as a powerful enemy (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                170,
+                139,
+                43,
+                74,
+                122,
+                161,
+                19,
+                62,
+                100
+            ],
+            "answer": "Elevenses",
+            "hint": "Midmorning tea with a snack"
+        },
+        "Z": {
+            "cells": [
+                3,
+                90,
+                50,
+                144,
+                27,
+                116
+            ],
+            "answer": "Runway",
+            "hint": "Path for a triple jumper"
+        }
+    }
+}

@@ -1,0 +1,328 @@
+{
+    "answer": "[M]y... Q... is a Trojan horse. Sure, it and the Z are the only tiles worth [ten] points, but clinging to the Q... prevents you from drawing letters that offer a fresh chance for a bingo. A lingering Q is like an unwanted houseguest....",
+    "author": "Stefan Fatsis,",
+    "authorCell": [
+        84,
+        172,
+        33,
+        88,
+        153,
+        139,
+        127,
+        158,
+        49,
+        45,
+        150,
+        59,
+        157,
+        164,
+        78,
+        162,
+        111,
+        104,
+        170,
+        31,
+        151
+    ],
+    "source": "Word Freak",
+    "clues": {
+        "A": {
+            "cells": [
+                84,
+                121,
+                15,
+                94,
+                131,
+                60,
+                149,
+                113
+            ],
+            "answer": "Scrabble",
+            "hint": "Frantically claw or grope"
+        },
+        "B": {
+            "cells": [
+                172,
+                20,
+                42,
+                6,
+                97,
+                70,
+                137,
+                126
+            ],
+            "answer": "Triangle",
+            "hint": "Instrument of indefinite pitch"
+        },
+        "C": {
+            "cells": [
+                33,
+                146,
+                155,
+                65,
+                77,
+                47,
+                4,
+                18,
+                103
+            ],
+            "answer": "Equipoise",
+            "hint": "Balance; counterweight"
+        },
+        "D": {
+            "cells": [
+                88,
+                14,
+                117,
+                102,
+                144,
+                68,
+                168,
+                35,
+                58
+            ],
+            "answer": "Fortnight",
+            "hint": "Period for Wimbledon"
+        },
+        "E": {
+            "cells": [
+                153,
+                38,
+                101,
+                52,
+                25,
+                66,
+                123
+            ],
+            "answer": "Antenna",
+            "hint": "Radio telescope or satellite dish, e.g."
+        },
+        "F": {
+            "cells": [
+                139,
+                128,
+                27,
+                161,
+                95,
+                37,
+                114,
+                83,
+                50,
+                2
+            ],
+            "answer": "Noteworthy",
+            "hint": "Deserving of attention"
+        },
+        "G": {
+            "cells": [
+                127,
+                96,
+                159,
+                11,
+                43,
+                75
+            ],
+            "answer": "Finale",
+            "hint": "\u201cOde to Joy,\u201d vis-a-vis Beethoven\u2019s Ninth Symphony"
+        },
+        "H": {
+            "cells": [
+                158,
+                12,
+                140,
+                79,
+                99,
+                112,
+                56,
+                171,
+                28
+            ],
+            "answer": "Angelfish",
+            "hint": "Common aquarium denizen"
+        },
+        "I": {
+            "cells": [
+                49,
+                169,
+                133,
+                98,
+                119,
+                34,
+                17,
+                57
+            ],
+            "answer": "Tungsten",
+            "hint": "Metallic element having the highest melting point"
+        },
+        "J": {
+            "cells": [
+                45,
+                13,
+                55,
+                142,
+                160,
+                63,
+                120,
+                24,
+                82,
+                134,
+                100
+            ],
+            "answer": "Shortchange",
+            "hint": "Defraud, as a customer"
+        },
+        "K": {
+            "cells": [
+                150,
+                124,
+                76,
+                61,
+                138,
+                48,
+                21
+            ],
+            "answer": "Inquire",
+            "hint": "Search for answers"
+        },
+        "L": {
+            "cells": [
+                59,
+                86,
+                72,
+                7,
+                163,
+                29
+            ],
+            "answer": "Soothe",
+            "hint": "Have a demulcent effect"
+        },
+        "M": {
+            "cells": [
+                157,
+                143,
+                53,
+                26,
+                10,
+                108,
+                91,
+                1,
+                118,
+                32
+            ],
+            "answer": "Windjammer",
+            "hint": "Large sailing ship"
+        },
+        "N": {
+            "cells": [
+                164,
+                80,
+                141,
+                93,
+                62,
+                122,
+                8,
+                110,
+                46,
+                154
+            ],
+            "answer": "Overthrown",
+            "hint": "What Montezuma was in 1520"
+        },
+        "O": {
+            "cells": [
+                78,
+                74,
+                147,
+                156,
+                9,
+                54,
+                64,
+                115,
+                105,
+                23,
+                40
+            ],
+            "answer": "Rhinoplasty",
+            "hint": "Plastic surgery of the nose"
+        },
+        "P": {
+            "cells": [
+                162,
+                90,
+                145,
+                116,
+                132,
+                67,
+                107,
+                73
+            ],
+            "answer": "Dogfight",
+            "hint": "Aerial altercation"
+        },
+        "Q": {
+            "cells": [
+                111,
+                22,
+                36,
+                148,
+                71,
+                130
+            ],
+            "answer": "Fiesta",
+            "hint": "Saint\u2019s day celebration"
+        },
+        "R": {
+            "cells": [
+                104,
+                87,
+                166,
+                51,
+                39,
+                152,
+                129
+            ],
+            "answer": "Rustler",
+            "hint": "One taking stock?"
+        },
+        "S": {
+            "cells": [
+                170,
+                89,
+                5,
+                136,
+                41,
+                30
+            ],
+            "answer": "Ersatz",
+            "hint": "Faux, artificial"
+        },
+        "T": {
+            "cells": [
+                31,
+                3,
+                165,
+                81,
+                92,
+                19,
+                125,
+                106
+            ],
+            "answer": "Aqueduct",
+            "hint": "Roman construction still in use in Segovia, Spain"
+        },
+        "U": {
+            "cells": [
+                151,
+                167,
+                85,
+                16,
+                109,
+                135,
+                69,
+                44
+            ],
+            "answer": "Keystone",
+            "hint": "Central supporting element"
+        }
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "answer": "The medieval world was immeasurably less deodorized than ours. ... So spiritual a character as... Thomas Aquinas approved of incense in church because it masked the prevailing body [odor], which, he admitted, \u201ccan provoke disgust.\u201d",
+    "author": "Katherine Ashenburg,",
+    "authorCell": [
+        68,
+        25,
+        156,
+        135,
+        101,
+        29,
+        85,
+        150,
+        142,
+        77,
+        67,
+        44,
+        165,
+        107,
+        14,
+        1,
+        13,
+        168,
+        113,
+        15,
+        37,
+        83,
+        49
+    ],
+    "source": "The Dirt on Clean",
+    "clues": {
+        "A": {
+            "cells": [
+                68,
+                124,
+                143,
+                41,
+                55,
+                89,
+                100,
+                18
+            ],
+            "answer": "Ambrosia",
+            "hint": "Fruit salad with miniature marshmallows"
+        },
+        "B": {
+            "cells": [
+                25,
+                90,
+                166,
+                114,
+                132,
+                72,
+                54
+            ],
+            "answer": "Sachets",
+            "hint": "Bags packed with scents"
+        },
+        "C": {
+            "cells": [
+                156,
+                81,
+                16,
+                36,
+                98,
+                117,
+                174
+            ],
+            "answer": "Haddock",
+            "hint": "Popular fish-and-chips fish"
+        },
+        "D": {
+            "cells": [
+                135,
+                70,
+                119,
+                39,
+                3,
+                172,
+                153,
+                96
+            ],
+            "answer": "Eau de vie",
+            "hint": "Slivovitz or kirsch, e.g. (3 wds.)"
+        },
+        "E": {
+            "cells": [
+                101,
+                28,
+                169,
+                78,
+                61,
+                155,
+                137
+            ],
+            "answer": "Naphtha",
+            "hint": "Aromatic liquid used as a solvent"
+        },
+        "F": {
+            "cells": [
+                29,
+                51,
+                108,
+                148,
+                11,
+                73,
+                129
+            ],
+            "answer": "Bundled",
+            "hint": "Sold as a package deal"
+        },
+        "G": {
+            "cells": [
+                85,
+                4,
+                115,
+                103,
+                170,
+                130,
+                149,
+                33,
+                66,
+                50
+            ],
+            "answer": "Umberto Eco",
+            "hint": "Creator of the friar-sleuth William of Baskerville (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                150,
+                106,
+                84,
+                180,
+                60,
+                128,
+                22
+            ],
+            "answer": "Requiem",
+            "hint": "Solemn music for a Mass"
+        },
+        "I": {
+            "cells": [
+                142,
+                26,
+                122,
+                159,
+                8,
+                45,
+                94,
+                179
+            ],
+            "answer": "Guide dog",
+            "hint": "Visual aid (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                77,
+                112,
+                63,
+                178,
+                47,
+                152,
+                23,
+                10,
+                133
+            ],
+            "answer": "Trash heap",
+            "hint": "Modern-day midden (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                67,
+                118,
+                43,
+                86,
+                141,
+                164,
+                105,
+                19
+            ],
+            "answer": "Haziness",
+            "hint": "Shaky memory; turbidity"
+        },
+        "L": {
+            "cells": [
+                44,
+                57,
+                7,
+                145,
+                121,
+                93,
+                21,
+                161,
+                76
+            ],
+            "answer": "Epidermis",
+            "hint": "Superficial tissue layer"
+        },
+        "M": {
+            "cells": [
+                165,
+                65,
+                52,
+                12,
+                140,
+                104,
+                177,
+                35,
+                80
+            ],
+            "answer": "Darwinism",
+            "hint": "Doctrine of evolution"
+        },
+        "N": {
+            "cells": [
+                107,
+                9,
+                147,
+                74,
+                31,
+                126,
+                171,
+                48,
+                92
+            ],
+            "answer": "Ivory soap",
+            "hint": "Bar once sold with the slogan \u201cIt floats\u201d (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                14,
+                175,
+                32,
+                125,
+                62,
+                87,
+                154,
+                110
+            ],
+            "answer": "Relaunch",
+            "hint": "Bring back, as a product"
+        },
+        "P": {
+            "cells": [
+                1,
+                27,
+                111,
+                71,
+                127,
+                53,
+                163,
+                144,
+                91
+            ],
+            "answer": "Truck stop",
+            "hint": "Teamsters\u2019 meeting place, maybe (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                13,
+                120,
+                160,
+                88,
+                182,
+                42,
+                102
+            ],
+            "answer": "Osmatic",
+            "hint": "Having a keen sense of smell"
+        },
+        "R": {
+            "cells": [
+                168,
+                79,
+                136,
+                58,
+                109,
+                5,
+                34
+            ],
+            "answer": "Novices",
+            "hint": "Monks in training"
+        },
+        "S": {
+            "cells": [
+                113,
+                2,
+                173,
+                134,
+                46,
+                30,
+                157
+            ],
+            "answer": "Chortle",
+            "hint": "Moderately amused reaction"
+        },
+        "T": {
+            "cells": [
+                15,
+                167,
+                95,
+                75,
+                123,
+                40,
+                59,
+                146
+            ],
+            "answer": "Lavatory",
+            "hint": "Water closet"
+        },
+        "U": {
+            "cells": [
+                37,
+                176,
+                17,
+                158,
+                69,
+                97,
+                138
+            ],
+            "answer": "Edward I",
+            "hint": "Role for Patrick McGoohan in \u201cBraveheart\u201d (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                83,
+                139,
+                162,
+                38,
+                20,
+                6,
+                56
+            ],
+            "answer": "Altoids",
+            "hint": "Breath mints packaged in tins"
+        },
+        "W": {
+            "cells": [
+                49,
+                116,
+                151,
+                181,
+                99,
+                64,
+                24,
+                82,
+                131
+            ],
+            "answer": "News flash",
+            "hint": "Special bulletin (2 wds.)"
+        }
+    }
+}

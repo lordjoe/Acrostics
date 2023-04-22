@@ -1,0 +1,351 @@
+{
+    "answer": "[T]he most commonly used... emoji are the faces and hands, like the smile, the face with tears of joy, the thumbs up, and the crossed fingers. We use emoji less to describe the world..., and more to be... ourselves in an online world.",
+    "author": "(Gretchen) McCulloch,",
+    "authorCell": [
+        11,
+        127,
+        94,
+        86,
+        173,
+        44,
+        144,
+        61,
+        49,
+        84,
+        58,
+        8,
+        32,
+        16,
+        85,
+        155,
+        64,
+        41,
+        77,
+        99,
+        153,
+        141,
+        47,
+        91
+    ],
+    "source": "Because Internet",
+    "clues": {
+        "A": {
+            "cells": [
+                11,
+                146,
+                28,
+                78,
+                129,
+                163,
+                46,
+                111
+            ],
+            "answer": "Methinks",
+            "hint": "Quaint way of saying \u201cIMHO\u201d"
+        },
+        "B": {
+            "cells": [
+                127,
+                29,
+                12,
+                106,
+                80,
+                156,
+                62
+            ],
+            "answer": "Chortle",
+            "hint": "Laugh out loud with glee"
+        },
+        "C": {
+            "cells": [
+                94,
+                148,
+                114,
+                59,
+                72,
+                26,
+                132
+            ],
+            "answer": "Comfort",
+            "hint": "What a hug or blowing a kiss might offer"
+        },
+        "D": {
+            "cells": [
+                86,
+                168,
+                40,
+                10,
+                152,
+                71,
+                112,
+                139
+            ],
+            "answer": "Unamused",
+            "hint": "Failing to see what\u2019s so funny"
+        },
+        "E": {
+            "cells": [
+                173,
+                50,
+                109,
+                83,
+                69,
+                23,
+                5,
+                128,
+                154
+            ],
+            "answer": "Lee Majors",
+            "hint": "Star of \u201cThe Fall Guy\u201d and \u201cThe Six Million Dollar Man\u201d (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                44,
+                115,
+                157,
+                18,
+                31,
+                68,
+                97,
+                1
+            ],
+            "answer": "Lovefest",
+            "hint": "Exchange of <3 symbols, maybe"
+        },
+        "G": {
+            "cells": [
+                144,
+                57,
+                87,
+                14,
+                34,
+                162,
+                107,
+                125
+            ],
+            "answer": "\"Oh, please\"",
+            "hint": "\u201cCome on, that\u2019s ridiculous!\u201d (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                61,
+                166,
+                75,
+                135,
+                37,
+                101,
+                24,
+                121,
+                2
+            ],
+            "answer": "Clownfish",
+            "hint": "Denizen of the Great Barrier Reef"
+        },
+        "I": {
+            "cells": [
+                49,
+                131,
+                15,
+                74,
+                110,
+                174,
+                158
+            ],
+            "answer": "\"Hey Jude\"",
+            "hint": "The Beatles\u2019 first release on the Apple record label (1968) (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                84,
+                138,
+                102,
+                67,
+                39,
+                169
+            ],
+            "answer": "Blithe",
+            "hint": "Cheerfully indifferent"
+        },
+        "K": {
+            "cells": [
+                58,
+                76,
+                93,
+                149,
+                172,
+                22,
+                108
+            ],
+            "answer": "Eyebrow",
+            "hint": "The slash represents a raised one in this: /:)"
+        },
+        "L": {
+            "cells": [
+                8,
+                136,
+                103,
+                90,
+                150,
+                165,
+                25,
+                43,
+                56
+            ],
+            "answer": "Conde Nast",
+            "hint": "Publisher of Vogue, GQ and Wired (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                32,
+                142,
+                52,
+                9,
+                89,
+                160,
+                126,
+                66
+            ],
+            "answer": "Admonish",
+            "hint": "Upbraid, dress down, chew out"
+        },
+        "N": {
+            "cells": [
+                16,
+                35,
+                92,
+                113,
+                145
+            ],
+            "answer": "Usher",
+            "hint": "Singer of \u201cOMG,\u201d \u201cYeah!\u201d and \u201cScream\u201d"
+        },
+        "O": {
+            "cells": [
+                85,
+                7,
+                123,
+                167,
+                33,
+                140,
+                54
+            ],
+            "answer": "Stoical",
+            "hint": "Showing no feelings"
+        },
+        "P": {
+            "cells": [
+                155,
+                48,
+                81,
+                96,
+                17
+            ],
+            "answer": "Ethos",
+            "hint": "Communal character"
+        },
+        "Q": {
+            "cells": [
+                64,
+                143,
+                51,
+                171,
+                104,
+                118,
+                36,
+                19
+            ],
+            "answer": "\"I'm So Glad\"",
+            "hint": "Skip James blues song covered by Cream (3 wds.)"
+        },
+        "R": {
+            "cells": [
+                41,
+                164,
+                98,
+                27,
+                116,
+                151,
+                130
+            ],
+            "answer": "Nose job",
+            "hint": "Visage-altering work (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                77,
+                3,
+                122,
+                95,
+                53,
+                159
+            ],
+            "answer": "Tetris",
+            "hint": "Shape-shifting computer game"
+        },
+        "T": {
+            "cells": [
+                99,
+                120,
+                147,
+                55,
+                79,
+                21
+            ],
+            "answer": "Esteem",
+            "hint": "High valuation"
+        },
+        "U": {
+            "cells": [
+                153,
+                119,
+                38,
+                100,
+                170,
+                60,
+                137,
+                73
+            ],
+            "answer": "\"Red Dwarf\"",
+            "hint": "Sci-fi Britcom with a computer named Holly (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                141,
+                105,
+                63,
+                4,
+                20,
+                124,
+                45,
+                88
+            ],
+            "answer": "New media",
+            "hint": "Digital platforms like YouTube and Twitter (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                47,
+                161,
+                65,
+                133,
+                82,
+                6,
+                30
+            ],
+            "answer": "Enthuse",
+            "hint": "Express strong interest or approval"
+        },
+        "X": {
+            "cells": [
+                91,
+                117,
+                13,
+                42,
+                134,
+                70
+            ],
+            "answer": "Tinder",
+            "hint": "App whose content is swiped left and right"
+        }
+    }
+}

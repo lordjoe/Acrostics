@@ -1,0 +1,374 @@
+{
+    "answer": "Basketball is jazz: improvisatory, free,... fast, exulting, screeching, torrid, explosive, exquisitely designed for letting first the trumpet, then the sax, then the drummer, then the trombonist soar away in virtuoso excellence.",
+    "author": "Michael Novak,",
+    "authorCell": [
+        111,
+        101,
+        51,
+        144,
+        158,
+        88,
+        65,
+        152,
+        21,
+        22,
+        25,
+        4,
+        42,
+        120,
+        71,
+        13,
+        173,
+        29,
+        151,
+        100,
+        24,
+        64,
+        66,
+        159,
+        125,
+        122
+    ],
+    "source": "The Joy Of Sports",
+    "clues": {
+        "A": {
+            "cells": [
+                111,
+                14,
+                165,
+                154,
+                79
+            ],
+            "answer": "Manse",
+            "hint": "Dwelling like Hawthorne\u2019s in Concord, Mass."
+        },
+        "B": {
+            "cells": [
+                101,
+                118,
+                90,
+                9,
+                134,
+                63
+            ],
+            "answer": "Influx",
+            "hint": "Arrival en masse"
+        },
+        "C": {
+            "cells": [
+                51,
+                83,
+                93,
+                33,
+                7,
+                117,
+                156
+            ],
+            "answer": "Celebes",
+            "hint": "___ Sea, off the southern coast of the Philippines"
+        },
+        "D": {
+            "cells": [
+                144,
+                11,
+                55,
+                126,
+                30,
+                97,
+                166,
+                70
+            ],
+            "answer": "High-five",
+            "hint": "Court congratulations (hyph.)"
+        },
+        "E": {
+            "cells": [
+                158,
+                18,
+                183,
+                114,
+                130,
+                81,
+                36,
+                96
+            ],
+            "answer": "Amethyst",
+            "hint": "Substance once used as a charm against intoxication"
+        },
+        "F": {
+            "cells": [
+                88,
+                179,
+                164,
+                139,
+                60,
+                12,
+                104
+            ],
+            "answer": "Elitist",
+            "hint": "Supporter of snobbery"
+        },
+        "G": {
+            "cells": [
+                65,
+                171,
+                16,
+                113,
+                87,
+                99,
+                127
+            ],
+            "answer": "Lozenge",
+            "hint": "Diamond-shaped background for a woman\u2019s heraldic arms"
+        },
+        "H": {
+            "cells": [
+                152,
+                131,
+                26,
+                53,
+                73,
+                170,
+                141,
+                6,
+                108,
+                94
+            ],
+            "answer": "Netiquette",
+            "hint": "Web users\u2019 code of conduct"
+        },
+        "I": {
+            "cells": [
+                21,
+                124,
+                163,
+                45,
+                62,
+                142
+            ],
+            "answer": "Oxygen",
+            "hint": "Cargo carried by hemoglobin"
+        },
+        "J": {
+            "cells": [
+                22,
+                77,
+                150,
+                133,
+                160,
+                44,
+                56
+            ],
+            "answer": "Vibrant",
+            "hint": "Energetic and full of life"
+        },
+        "K": {
+            "cells": [
+                25,
+                59,
+                115,
+                146,
+                8,
+                78,
+                40,
+                135
+            ],
+            "answer": "Art Tatum",
+            "hint": "\u201c20th Century Piano Genius\u201d album artist (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                4,
+                41,
+                162,
+                72,
+                57,
+                98
+            ],
+            "answer": "Klaxon",
+            "hint": "Ear-splitting device used as a warning signal"
+        },
+        "M": {
+            "cells": [
+                42,
+                106,
+                74,
+                149,
+                19,
+                180,
+                138
+            ],
+            "answer": "Thumper",
+            "hint": "Bambi\u2019s bunny buddy"
+        },
+        "N": {
+            "cells": [
+                120,
+                27,
+                86,
+                34,
+                68,
+                46,
+                140
+            ],
+            "answer": "Hogfish",
+            "hint": "Porcine-looking swimmer"
+        },
+        "O": {
+            "cells": [
+                71,
+                175,
+                5,
+                129,
+                32,
+                48
+            ],
+            "answer": "Exeter",
+            "hint": "Seat of Devon County, England"
+        },
+        "P": {
+            "cells": [
+                13,
+                91,
+                168,
+                61,
+                35,
+                128
+            ],
+            "answer": "Jordan",
+            "hint": "Texan noted for her 1976 Democratic convention keynote address"
+        },
+        "Q": {
+            "cells": [
+                173,
+                69,
+                121,
+                54,
+                1,
+                153,
+                20,
+                89
+            ],
+            "answer": "Ovenbird",
+            "hint": "Member of a family building domed nests"
+        },
+        "R": {
+            "cells": [
+                29,
+                119,
+                155,
+                58,
+                167,
+                110,
+                136
+            ],
+            "answer": "Yttrium",
+            "hint": "Element found in euxenite and xenotime"
+        },
+        "S": {
+            "cells": [
+                151,
+                80,
+                132,
+                172,
+                105,
+                38,
+                28
+            ],
+            "answer": "Oldster",
+            "hint": "Whippersnapper\u2019s opposite"
+        },
+        "T": {
+            "cells": [
+                100,
+                17,
+                147,
+                3,
+                37,
+                52,
+                123,
+                181,
+                82
+            ],
+            "answer": "Firsthand",
+            "hint": "Directly from the source"
+        },
+        "U": {
+            "cells": [
+                24,
+                148,
+                176,
+                109,
+                2,
+                95,
+                49,
+                76
+            ],
+            "answer": "Socrates",
+            "hint": "Teacher found guilty in a famous trial"
+        },
+        "V": {
+            "cells": [
+                64,
+                92,
+                157,
+                178,
+                23,
+                39
+            ],
+            "answer": "Prolix",
+            "hint": "Long-winded, verbose"
+        },
+        "W": {
+            "cells": [
+                66,
+                84,
+                103,
+                43,
+                182,
+                10,
+                145
+            ],
+            "answer": "Ossicle",
+            "hint": "Small bone"
+        },
+        "X": {
+            "cells": [
+                159,
+                85,
+                47,
+                116,
+                169,
+                137,
+                102
+            ],
+            "answer": "Richter",
+            "hint": "Eponymous inventor of a scale"
+        },
+        "Y": {
+            "cells": [
+                125,
+                161,
+                177,
+                107,
+                15,
+                50,
+                31,
+                67
+            ],
+            "answer": "Tweezers",
+            "hint": "Item in a medical kit"
+        },
+        "Z": {
+            "cells": [
+                122,
+                112,
+                75,
+                143,
+                174
+            ],
+            "answer": "Spite",
+            "hint": "\u201cI danced with passion to ___ the music\u201d (Gelsey Kirkland)"
+        }
+    }
+}

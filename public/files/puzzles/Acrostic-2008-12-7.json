@@ -1,0 +1,355 @@
+{
+    "answer": "When the dust fell, it penetrated everything: ...nose, throat, kitchen, bedroom, well. ... The eeriest thing was the darkness. People tied themselves to ropes before going to a barn just a few hundred feet away, like a walk in space... .",
+    "author": "Timothy Egan,",
+    "authorCell": [
+        133,
+        172,
+        61,
+        116,
+        105,
+        67,
+        162,
+        156,
+        80,
+        88,
+        131,
+        62,
+        118,
+        71,
+        109,
+        143,
+        106,
+        167,
+        89,
+        27,
+        33,
+        102,
+        108,
+        63
+    ],
+    "source": "(The) Worst Hard Time",
+    "clues": {
+        "A": {
+            "cells": [
+                133,
+                1,
+                35,
+                121,
+                101,
+                70,
+                58
+            ],
+            "answer": "Twister",
+            "hint": "Scourge of the Great Plains"
+        },
+        "B": {
+            "cells": [
+                172,
+                54,
+                29,
+                100,
+                10,
+                66
+            ],
+            "answer": "Invest",
+            "hint": "Devote, as time or effort"
+        },
+        "C": {
+            "cells": [
+                61,
+                97,
+                136,
+                83,
+                5,
+                127,
+                23
+            ],
+            "answer": "Mobster",
+            "hint": "Type in \u201cGoodfellas\u201d"
+        },
+        "D": {
+            "cells": [
+                116,
+                55,
+                140,
+                9,
+                31,
+                132,
+                82,
+                158,
+                96
+            ],
+            "answer": "Objurgate",
+            "hint": "Scold, upbraid, rebuke"
+        },
+        "E": {
+            "cells": [
+                105,
+                135,
+                122,
+                163,
+                178,
+                17,
+                92,
+                150,
+                4,
+                72,
+                40
+            ],
+            "answer": "Table tennis",
+            "hint": "Olympic event since 1988 (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                67,
+                157,
+                144,
+                117,
+                22,
+                43
+            ],
+            "answer": "Hearth",
+            "hint": "What the Latin word \u201cfocus\u201d means"
+        },
+        "G": {
+            "cells": [
+                162,
+                24,
+                81,
+                139,
+                113,
+                44
+            ],
+            "answer": "Yawner",
+            "hint": "Ennui-inducing performance"
+        },
+        "H": {
+            "cells": [
+                156,
+                15,
+                123,
+                112,
+                28,
+                173,
+                50,
+                85
+            ],
+            "answer": "Eleventh",
+            "hint": "Polk\u2019s place in presidential history"
+        },
+        "I": {
+            "cells": [
+                80,
+                159,
+                115,
+                53,
+                147,
+                176,
+                32
+            ],
+            "answer": "Gateway",
+            "hint": "St. Louis\u2019s arch, symbolically"
+        },
+        "J": {
+            "cells": [
+                88,
+                111,
+                25,
+                164,
+                42,
+                141,
+                8,
+                68
+            ],
+            "answer": "Altitude",
+            "hint": "Geometric measure of a triangle"
+        },
+        "K": {
+            "cells": [
+                131,
+                30,
+                168,
+                114,
+                151,
+                69,
+                94,
+                48
+            ],
+            "answer": "News desk",
+            "hint": "Source of info on current affairs (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                62,
+                19,
+                120,
+                171,
+                103,
+                79,
+                154
+            ],
+            "answer": "Weekend",
+            "hint": "Recreation time"
+        },
+        "M": {
+            "cells": [
+                118,
+                38,
+                155,
+                78,
+                99,
+                56
+            ],
+            "answer": "On file",
+            "hint": "Stored, as a resume (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                71,
+                45,
+                149,
+                128,
+                6,
+                20,
+                107,
+                177,
+                90
+            ],
+            "answer": "Roughneck",
+            "hint": "Oil rig crew member"
+        },
+        "O": {
+            "cells": [
+                109,
+                175,
+                161,
+                37,
+                52,
+                146,
+                76,
+                11,
+                130
+            ],
+            "answer": "Spaghetti",
+            "hint": "Slender tubes of insulating material that cover bare wire"
+        },
+        "P": {
+            "cells": [
+                143,
+                39,
+                125,
+                84,
+                65,
+                166
+            ],
+            "answer": "Tootle",
+            "hint": "Play a pennywhistle"
+        },
+        "Q": {
+            "cells": [
+                106,
+                59,
+                138,
+                93,
+                41,
+                75,
+                148,
+                16,
+                3,
+                124
+            ],
+            "answer": "Horse thief",
+            "hint": "Despised outlaw of the Old West (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                167,
+                87,
+                26,
+                119,
+                47
+            ],
+            "answer": "Adept",
+            "hint": "Expert, wizard, maven"
+        },
+        "S": {
+            "cells": [
+                89,
+                110,
+                145,
+                126,
+                13,
+                174,
+                34,
+                73,
+                57
+            ],
+            "answer": "Refreshed",
+            "hint": "Given a boost in energy"
+        },
+        "T": {
+            "cells": [
+                27,
+                153,
+                51,
+                169,
+                104,
+                86
+            ],
+            "answer": "Decade",
+            "hint": "The \u201900s, e.g."
+        },
+        "U": {
+            "cells": [
+                33,
+                137,
+                14,
+                165,
+                74,
+                2,
+                60,
+                95
+            ],
+            "answer": "Talk shop",
+            "hint": "Discuss office matters, say (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                102,
+                36,
+                12,
+                64,
+                134,
+                160
+            ],
+            "answer": "Inflow",
+            "hint": "Contributing current"
+        },
+        "W": {
+            "cells": [
+                108,
+                129,
+                152,
+                18,
+                77,
+                49,
+                91,
+                7
+            ],
+            "answer": "Morphine",
+            "hint": "Producer of \u201ctwilight sleep\u201d"
+        },
+        "X": {
+            "cells": [
+                63,
+                170,
+                46,
+                98,
+                142,
+                21
+            ],
+            "answer": "Elapse",
+            "hint": "Slip away, slide by"
+        }
+    }
+}

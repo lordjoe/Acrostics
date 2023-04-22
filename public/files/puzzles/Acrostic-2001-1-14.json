@@ -1,0 +1,372 @@
+{
+    "answer": "His incredible untidiness, his addiction to music at strange hours, his... revolver practice within doors, his weird... scientific experiments, and the atmosphere of... danger... around him... made him the very worst tenant in London.",
+    "author": "Arthur Conan Doyle,",
+    "authorCell": [
+        171,
+        161,
+        114,
+        153,
+        39,
+        93,
+        42,
+        37,
+        113,
+        116,
+        5,
+        179,
+        84,
+        162,
+        176,
+        152,
+        120,
+        73,
+        115,
+        12,
+        70,
+        126,
+        44,
+        11,
+        180,
+        163
+    ],
+    "source": "His Last Bow",
+    "clues": {
+        "A": {
+            "cells": [
+                171,
+                110,
+                130,
+                16,
+                101,
+                137,
+                79,
+                36
+            ],
+            "answer": "Airtight",
+            "hint": "Having no flaws or weaknesses; invulnerable"
+        },
+        "B": {
+            "cells": [
+                161,
+                2,
+                174,
+                86
+            ],
+            "answer": "Riis",
+            "hint": "Author of \u201cHow the Other Half Lives\u201d"
+        },
+        "C": {
+            "cells": [
+                114,
+                128,
+                21,
+                155,
+                48,
+                77,
+                145,
+                95
+            ],
+            "answer": "\u201cThe Maids\u201d",
+            "hint": "Jean Genet play involving a poisoning (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                153,
+                138,
+                170,
+                94,
+                69,
+                17,
+                106
+            ],
+            "answer": "Hendrix",
+            "hint": "Guitarist who recorded \u201cElectric Ladyland\u201d"
+        },
+        "E": {
+            "cells": [
+                39,
+                172,
+                92,
+                71,
+                142,
+                47,
+                178
+            ],
+            "answer": "Unicorn",
+            "hint": "England : lion :: Scotland : ___"
+        },
+        "F": {
+            "cells": [
+                93,
+                24,
+                83,
+                118,
+                160,
+                3
+            ],
+            "answer": "Rhodes",
+            "hint": "Largest of the Dodecanese Islands"
+        },
+        "G": {
+            "cells": [
+                42,
+                1,
+                154,
+                102,
+                133,
+                53,
+                181
+            ],
+            "answer": "Chiffon",
+            "hint": "Light and frothy, as with stiffly beaten egg whites"
+        },
+        "H": {
+            "cells": [
+                37,
+                141,
+                132,
+                78,
+                54,
+                117,
+                151
+            ],
+            "answer": "Orotund",
+            "hint": "Resonant; bombastic"
+        },
+        "I": {
+            "cells": [
+                113,
+                131,
+                56,
+                96,
+                30,
+                8,
+                136,
+                168
+            ],
+            "answer": "Nescient",
+            "hint": "Ignorant; agnostic"
+        },
+        "J": {
+            "cells": [
+                116,
+                148,
+                25,
+                59,
+                87
+            ],
+            "answer": "Amish",
+            "hint": "They refuse to bear arms or take oaths"
+        },
+        "K": {
+            "cells": [
+                5,
+                19,
+                35,
+                112,
+                159,
+                98,
+                52
+            ],
+            "answer": "Nineveh",
+            "hint": "Ancient capital of Assyria with ruins on the Tigris"
+        },
+        "L": {
+            "cells": [
+                179,
+                97,
+                123,
+                157,
+                61,
+                7,
+                23
+            ],
+            "answer": "Dithers",
+            "hint": "Bumstead\u2019s boss in the comics"
+        },
+        "M": {
+            "cells": [
+                84,
+                18,
+                9,
+                111,
+                43,
+                99,
+                63,
+                143,
+                167
+            ],
+            "answer": "Odd man out",
+            "hint": "Atypical or unconventional person or thing (3 wds.)"
+        },
+        "N": {
+            "cells": [
+                162,
+                14,
+                68,
+                127,
+                33,
+                91,
+                45
+            ],
+            "answer": "Yuppies",
+            "hint": "Go-getting city dwellers"
+        },
+        "O": {
+            "cells": [
+                176,
+                66,
+                76,
+                147,
+                26
+            ],
+            "answer": "Lewis",
+            "hint": "\u201cMain Street\u201d novelist"
+        },
+        "P": {
+            "cells": [
+                152,
+                65,
+                103,
+                28,
+                129,
+                175,
+                74,
+                13
+            ],
+            "answer": "Evidence",
+            "hint": "Footprints, gunpowder residue, etc."
+        },
+        "Q": {
+            "cells": [
+                120,
+                105,
+                135,
+                32,
+                146,
+                169,
+                67
+            ],
+            "answer": "Heather",
+            "hint": "Evergreen shrub with scalelike leaves"
+        },
+        "R": {
+            "cells": [
+                73,
+                144,
+                166,
+                4,
+                107,
+                41,
+                82
+            ],
+            "answer": "Insipid",
+            "hint": "Tasteless; dull"
+        },
+        "S": {
+            "cells": [
+                115,
+                90,
+                10,
+                20,
+                50,
+                62,
+                125,
+                100,
+                75,
+                139
+            ],
+            "answer": "Swing voter",
+            "hint": "Critical, uncommitted pollgoer (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                12,
+                88,
+                72,
+                119,
+                108,
+                55
+            ],
+            "answer": "Litter",
+            "hint": "Dog\u2019s delivery"
+        },
+        "U": {
+            "cells": [
+                70,
+                165,
+                85,
+                121,
+                22,
+                156
+            ],
+            "answer": "Arrest",
+            "hint": "Check the spread of"
+        },
+        "V": {
+            "cells": [
+                126,
+                164,
+                104,
+                6,
+                51,
+                60,
+                38,
+                177,
+                149
+            ],
+            "answer": "Soccer mom",
+            "hint": "Suburbanite stereotype (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                44,
+                57,
+                27,
+                15,
+                158
+            ],
+            "answer": "Thane",
+            "hint": "Chief of a Scottish clan"
+        },
+        "X": {
+            "cells": [
+                11,
+                58,
+                109,
+                29,
+                64,
+                122,
+                49,
+                134
+            ],
+            "answer": "Birdland",
+            "hint": "Jazz club named for Charlie Parker"
+        },
+        "Y": {
+            "cells": [
+                180,
+                40,
+                124,
+                140,
+                173,
+                80,
+                31
+            ],
+            "answer": "Osmatic",
+            "hint": "Pertaining to the sense of smell"
+        },
+        "Z": {
+            "cells": [
+                163,
+                150,
+                46,
+                89,
+                34,
+                81
+            ],
+            "answer": "Watson",
+            "hint": "Chronicler of the quotation\u2019s subject"
+        }
+    }
+}

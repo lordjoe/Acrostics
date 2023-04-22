@@ -1,0 +1,357 @@
+{
+    "answer": "Our principal... came in to ask if there might be a volunteer... to audition for the role of an elf in the annual school extravaganza.... Mysteriously, my hand shot up... as if having been yanked there by some divine puppeteer.",
+    "author": "Frank Langella,",
+    "authorCell": [
+        69,
+        151,
+        103,
+        144,
+        23,
+        91,
+        50,
+        141,
+        137,
+        172,
+        85,
+        41,
+        38,
+        121,
+        173,
+        90,
+        4,
+        165,
+        46,
+        159,
+        120,
+        133,
+        157,
+        140,
+        86
+    ],
+    "source": "Dropped Names",
+    "clues": {
+        "A": {
+            "cells": [
+                69,
+                47,
+                20,
+                122,
+                148,
+                57,
+                162,
+                93,
+                1,
+                81
+            ],
+            "answer": "\u201cFrost/Nixon\u201d",
+            "hint": "Slashed picture of 2008? (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                151,
+                53,
+                18,
+                33,
+                112,
+                167
+            ],
+            "answer": "Ring up",
+            "hint": "Total on a cash register (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                103,
+                136,
+                61,
+                118,
+                40,
+                76,
+                154
+            ],
+            "answer": "Anthony",
+            "hint": "___ Awards, prizes for crime fiction"
+        },
+        "D": {
+            "cells": [
+                144,
+                110,
+                161,
+                79,
+                49,
+                126,
+                22
+            ],
+            "answer": "Niveous",
+            "hint": "Of or resembling snow"
+        },
+        "E": {
+            "cells": [
+                23,
+                135,
+                36,
+                9,
+                125,
+                102
+            ],
+            "answer": "Kibitz",
+            "hint": "Hang around offering unwanted advice"
+        },
+        "F": {
+            "cells": [
+                91,
+                150,
+                39,
+                130,
+                26,
+                119,
+                107,
+                63
+            ],
+            "answer": "Levitate",
+            "hint": "Seem to defy a natural law"
+        },
+        "G": {
+            "cells": [
+                50,
+                104,
+                89,
+                164,
+                138,
+                11
+            ],
+            "answer": "Amoeba",
+            "hint": "Creature named for its changing shape"
+        },
+        "H": {
+            "cells": [
+                141,
+                124,
+                97,
+                30,
+                66,
+                17,
+                155,
+                170
+            ],
+            "answer": "Novelist",
+            "hint": "One with long stories to tell"
+        },
+        "I": {
+            "cells": [
+                137,
+                83,
+                44,
+                149,
+                64,
+                24,
+                108
+            ],
+            "answer": "Guthrie",
+            "hint": "Minneapolis theater for the performing arts"
+        },
+        "J": {
+            "cells": [
+                172,
+                74,
+                131,
+                21,
+                8,
+                92,
+                147
+            ],
+            "answer": "Effaced",
+            "hint": "Wiped out, erased, expunged"
+        },
+        "K": {
+            "cells": [
+                85,
+                45,
+                62,
+                160,
+                99,
+                132
+            ],
+            "answer": "Lehigh",
+            "hint": "University in Bethlehem, Pa."
+        },
+        "L": {
+            "cells": [
+                41,
+                28,
+                153,
+                14,
+                82,
+                68,
+                101
+            ],
+            "answer": "Lebanon",
+            "hint": "Land with a tree on its flag"
+        },
+        "M": {
+            "cells": [
+                38,
+                71,
+                84,
+                12,
+                105,
+                129,
+                54
+            ],
+            "answer": "Analyst",
+            "hint": "One skilled in methodical examination"
+        },
+        "N": {
+            "cells": [
+                121,
+                55,
+                70,
+                94,
+                156,
+                15
+            ],
+            "answer": "Diatom",
+            "hint": "Microscopic kind of alga with a cell wall of silica"
+        },
+        "O": {
+            "cells": [
+                173,
+                143,
+                25,
+                58,
+                6,
+                113,
+                88
+            ],
+            "answer": "Raffish",
+            "hint": "Gaudily cheap; a bit disreputable"
+        },
+        "P": {
+            "cells": [
+                90,
+                7,
+                158,
+                67,
+                115,
+                139,
+                52
+            ],
+            "answer": "One-eyed",
+            "hint": "Cyclopean, in a certain respect (hyph.)"
+        },
+        "Q": {
+            "cells": [
+                4,
+                78,
+                96,
+                163,
+                35,
+                56,
+                116
+            ],
+            "answer": "Phantom",
+            "hint": "Successor to Rolls-Royce\u2019s Silver Ghost"
+        },
+        "R": {
+            "cells": [
+                165,
+                142,
+                77,
+                27,
+                111,
+                43
+            ],
+            "answer": "Python",
+            "hint": "Reptile proliferating in the Everglades"
+        },
+        "S": {
+            "cells": [
+                46,
+                31,
+                168,
+                75,
+                109,
+                16
+            ],
+            "answer": "Empire",
+            "hint": "Darth Vader\u2019s dominion, for example"
+        },
+        "T": {
+            "cells": [
+                159,
+                29,
+                128,
+                13,
+                42,
+                73,
+                98
+            ],
+            "answer": "Dracula",
+            "hint": "Film character who says \u201cI never drink wine\u201d"
+        },
+        "U": {
+            "cells": [
+                120,
+                65,
+                166,
+                134,
+                146,
+                100,
+                51
+            ],
+            "answer": "Nouveau",
+            "hint": "Recently created, as a style or art"
+        },
+        "V": {
+            "cells": [
+                133,
+                5,
+                87,
+                34,
+                152,
+                60,
+                117
+            ],
+            "answer": "Archery",
+            "hint": "Pursuit of a toxophilite"
+        },
+        "W": {
+            "cells": [
+                157,
+                32,
+                106,
+                123,
+                80,
+                10
+            ],
+            "answer": "Mishap",
+            "hint": "Unlucky accident"
+        },
+        "X": {
+            "cells": [
+                140,
+                2,
+                48,
+                169,
+                95,
+                127,
+                72
+            ],
+            "answer": "Euterpe",
+            "hint": "Greek Muse of music who\u2019s often portrayed with a flute"
+        },
+        "Y": {
+            "cells": [
+                86,
+                145,
+                171,
+                114,
+                37,
+                19,
+                59,
+                3
+            ],
+            "answer": "Skeletor",
+            "hint": "Cowled villain in the \u201cMasters of the Universe\u201d TV series and film"
+        }
+    }
+}

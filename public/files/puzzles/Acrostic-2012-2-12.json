@@ -1,0 +1,338 @@
+{
+    "answer": "The anth- in... anthurium... means \u201cto bloom.\u201c... The Greek word for \"flower,\u201d anthos,... gave us one of the loveliest of English words, anthology, which literally means a \u201cgathering of flowers,\u201d or \"garland\u201d-a literary bouquet, if you will.",
+    "author": "(Martha) Barnette,",
+    "authorCell": [
+        26,
+        4,
+        15,
+        9,
+        36,
+        97,
+        154,
+        75,
+        10,
+        102,
+        125,
+        143,
+        93,
+        3,
+        11,
+        64,
+        168,
+        39,
+        25,
+        140,
+        150,
+        57
+    ],
+    "source": "A Garden Of Words",
+    "clues": {
+        "A": {
+            "cells": [
+                26,
+                51,
+                112,
+                1,
+                127,
+                158,
+                66,
+                84
+            ],
+            "answer": "Brethren",
+            "hint": "Fellows in a flock"
+        },
+        "B": {
+            "cells": [
+                4,
+                86,
+                116,
+                133,
+                46,
+                19,
+                165
+            ],
+            "answer": "\u201cAll of Me\"",
+            "hint": "1932 #1 Louis Armstrong hit with the lyric \u201cTake my arms, I\u2019ll never use them\u201d (3 wds.)"
+        },
+        "C": {
+            "cells": [
+                15,
+                78,
+                132,
+                95,
+                156,
+                42,
+                63
+            ],
+            "answer": "Regards",
+            "hint": "Congenial sign-off"
+        },
+        "D": {
+            "cells": [
+                9,
+                139,
+                172,
+                122,
+                104,
+                81,
+                30,
+                157,
+                65
+            ],
+            "answer": "Newswoman",
+            "hint": "Helen Thomas or Nellie Bly, e.g."
+        },
+        "E": {
+            "cells": [
+                36,
+                103,
+                20,
+                160,
+                146,
+                77,
+                124,
+                55,
+                6
+            ],
+            "answer": "Eyebright",
+            "hint": "Herbal folk remedy for ocular woes"
+        },
+        "F": {
+            "cells": [
+                97,
+                29,
+                129,
+                12,
+                110,
+                72,
+                147,
+                59
+            ],
+            "answer": "Tortilla",
+            "hint": "Maize flour flatbread"
+        },
+        "G": {
+            "cells": [
+                154,
+                35,
+                17,
+                135,
+                68,
+                115,
+                50,
+                88
+            ],
+            "answer": "Truffles",
+            "hint": "Ganache-filled confections"
+        },
+        "H": {
+            "cells": [
+                75,
+                174,
+                153,
+                32,
+                62,
+                92,
+                137,
+                48,
+                111
+            ],
+            "answer": "Elihu Root",
+            "hint": "1912 Peace Nobelist who was once a secretary of war (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                10,
+                118,
+                148,
+                69,
+                99,
+                41,
+                169
+            ],
+            "answer": "Amatory",
+            "hint": "Connected with love, romantic"
+        },
+        "J": {
+            "cells": [
+                102,
+                121,
+                56,
+                18,
+                167,
+                141,
+                89
+            ],
+            "answer": "Gnomish",
+            "hint": "Short, bearded and wearing a pointy red hat, say"
+        },
+        "K": {
+            "cells": [
+                125,
+                45,
+                58,
+                101,
+                5,
+                145,
+                171,
+                24
+            ],
+            "answer": "Argonaut",
+            "hint": "Voyager/adventurer of myth"
+        },
+        "L": {
+            "cells": [
+                143,
+                67,
+                164,
+                85,
+                13,
+                108,
+                37,
+                49,
+                131
+            ],
+            "answer": "Rough-hewn",
+            "hint": "Not very refined (hyph.)"
+        },
+        "M": {
+            "cells": [
+                93,
+                40,
+                149,
+                21,
+                7,
+                162,
+                61
+            ],
+            "answer": "\"Donahue\"",
+            "hint": "Talk show that ran for 29 years"
+        },
+        "N": {
+            "cells": [
+                3,
+                163,
+                14,
+                87,
+                60,
+                44,
+                107,
+                123,
+                136
+            ],
+            "answer": "Equivocal",
+            "hint": "Leaving room for doubt; ambiguous"
+        },
+        "O": {
+            "cells": [
+                11,
+                28,
+                94,
+                71,
+                144,
+                52,
+                117
+            ],
+            "answer": "Nosegay",
+            "hint": "Tussie-mussie"
+        },
+        "P": {
+            "cells": [
+                64,
+                43,
+                82,
+                23,
+                105,
+                142,
+                170,
+                126
+            ],
+            "answer": "Offshoot",
+            "hint": "Son or daughter; limb"
+        },
+        "Q": {
+            "cells": [
+                168,
+                151,
+                16,
+                100,
+                79,
+                120,
+                134,
+                33
+            ],
+            "answer": "\"Fail-Safe\u201d",
+            "hint": "Post-\u201cDr. Strangelove\u201d film of 1964 (hyph.)"
+        },
+        "R": {
+            "cells": [
+                39,
+                70,
+                8,
+                54,
+                83,
+                138,
+                114,
+                152,
+                27
+            ],
+            "answer": "Whitewall",
+            "hint": "Tire seen on a Packard, perhaps"
+        },
+        "S": {
+            "cells": [
+                25,
+                175,
+                106,
+                74,
+                119,
+                91,
+                159,
+                47
+            ],
+            "answer": "Olive Oyl",
+            "hint": "Toon with a brother named Castor (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                140,
+                155,
+                80,
+                98,
+                173,
+                53,
+                38
+            ],
+            "answer": "Rethink",
+            "hint": "Take a fresh look at"
+        },
+        "U": {
+            "cells": [
+                150,
+                73,
+                90,
+                22,
+                113,
+                130,
+                34,
+                2,
+                166
+            ],
+            "answer": "Downright",
+            "hint": "Out-and-out, utter, rank"
+        },
+        "V": {
+            "cells": [
+                57,
+                31,
+                161,
+                76,
+                109,
+                128,
+                96
+            ],
+            "answer": "Stollen",
+            "hint": "Pastry sold at a Christkindlmarkt"
+        }
+    }
+}

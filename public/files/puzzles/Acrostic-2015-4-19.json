@@ -1,0 +1,364 @@
+{
+    "answer": "A black cat dreamt every fourth goose hunted invisible jellyfish. Kindly let many nice ostriches pass quickly. Rather stupidly the umbrella voted when x-raying yellow zebras. ...[M]ake up your own crazy pangrammatic story.",
+    "author": "Ursula Dubosarsky,",
+    "authorCell": [
+        33,
+        143,
+        84,
+        154,
+        137,
+        8,
+        122,
+        87,
+        44,
+        138,
+        85,
+        83,
+        113,
+        30,
+        148,
+        152,
+        139,
+        156,
+        93,
+        10,
+        42,
+        34,
+        22,
+        28,
+        102
+    ],
+    "source": "(The) Word Snoop",
+    "clues": {
+        "A": {
+            "cells": [
+                33,
+                168,
+                100,
+                16,
+                127,
+                75
+            ],
+            "answer": "Urtext",
+            "hint": "Original version, as of a musical score"
+        },
+        "B": {
+            "cells": [
+                143,
+                125,
+                17,
+                40,
+                103,
+                67,
+                167
+            ],
+            "answer": "Revving",
+            "hint": "Vroom-maker\u2019s activity"
+        },
+        "C": {
+            "cells": [
+                84,
+                111,
+                150,
+                11,
+                52,
+                176
+            ],
+            "answer": "Smurfs",
+            "hint": "Sworn enemies of Gargamel"
+        },
+        "D": {
+            "cells": [
+                154,
+                76,
+                178,
+                104,
+                12,
+                136,
+                46
+            ],
+            "answer": "Urodele",
+            "hint": "Member of the order of newts and salamanders"
+        },
+        "E": {
+            "cells": [
+                137,
+                73,
+                123,
+                109,
+                19,
+                47,
+                1,
+                157
+            ],
+            "answer": "Lower jaw",
+            "hint": "Mandible (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                8,
+                115,
+                82,
+                55,
+                66,
+                142,
+                97,
+                25,
+                131,
+                159
+            ],
+            "answer": "Alphabetic",
+            "hint": "Sort of order imposed in this puzzle\u2019s quote"
+        },
+        "G": {
+            "cells": [
+                122,
+                155,
+                63,
+                39,
+                89,
+                26
+            ],
+            "answer": "Drench",
+            "hint": "The opposite of parch"
+        },
+        "H": {
+            "cells": [
+                87,
+                158,
+                74,
+                53,
+                133,
+                32,
+                15,
+                105,
+                180
+            ],
+            "answer": "Unsightly",
+            "hint": "Not pleasant to regard"
+        },
+        "I": {
+            "cells": [
+                44,
+                110,
+                160,
+                60,
+                141,
+                99,
+                86,
+                23,
+                72
+            ],
+            "answer": "Burlesque",
+            "hint": "Derisive imitation"
+        },
+        "J": {
+            "cells": [
+                138,
+                151,
+                64,
+                38,
+                175,
+                94,
+                116
+            ],
+            "answer": "Optical",
+            "hint": "Kind of fiber in technology"
+        },
+        "K": {
+            "cells": [
+                85,
+                58,
+                119,
+                179,
+                36
+            ],
+            "answer": "Snore",
+            "hint": "Create Z\u2019s, in a comic strip"
+        },
+        "L": {
+            "cells": [
+                83,
+                2,
+                62,
+                144,
+                162,
+                31
+            ],
+            "answer": "Ablaze",
+            "hint": "Burning fiercely"
+        },
+        "M": {
+            "cells": [
+                113,
+                135,
+                21,
+                174,
+                69,
+                149
+            ],
+            "answer": "Refine",
+            "hint": "Improve; purify; make genteel"
+        },
+        "N": {
+            "cells": [
+                30,
+                9,
+                147,
+                49,
+                90
+            ],
+            "answer": "Stalk",
+            "hint": "Peduncle"
+        },
+        "O": {
+            "cells": [
+                148,
+                45,
+                129,
+                173,
+                81,
+                7,
+                96
+            ],
+            "answer": "Klatsch",
+            "hint": "Social gathering where coffee might be involved"
+        },
+        "P": {
+            "cells": [
+                152,
+                117,
+                56,
+                18,
+                35,
+                130,
+                92,
+                169,
+                6
+            ],
+            "answer": "\"Yakety Yak\"",
+            "hint": "Doo-wop hit with the admonition \u201cDon\u2019t talk back\u201d (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                139,
+                79,
+                41,
+                14,
+                164,
+                114,
+                98
+            ],
+            "answer": "Whimper",
+            "hint": "Last word of Eliot\u2019s \u201cThe Hollow Men\u201d"
+        },
+        "R": {
+            "cells": [
+                156,
+                70,
+                50,
+                37,
+                128,
+                101,
+                170
+            ],
+            "answer": "Oil drum",
+            "hint": "Crude container (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                93,
+                77,
+                171,
+                54,
+                108,
+                29,
+                120
+            ],
+            "answer": "Rimshot",
+            "hint": "Joke follower in a stand-up act"
+        },
+        "T": {
+            "cells": [
+                10,
+                24,
+                134,
+                80,
+                106,
+                121,
+                59
+            ],
+            "answer": "Dry-eyed",
+            "hint": "Unmoved (hyph.)"
+        },
+        "U": {
+            "cells": [
+                42,
+                5,
+                124,
+                65,
+                172,
+                91,
+                107,
+                140
+            ],
+            "answer": "Schmaltz",
+            "hint": "Literally, rendered fat; figuratively, sentimentalism"
+        },
+        "V": {
+            "cells": [
+                34,
+                88,
+                165,
+                146,
+                48,
+                20
+            ],
+            "answer": "Niamey",
+            "hint": "Capital city of Niger"
+        },
+        "W": {
+            "cells": [
+                22,
+                112,
+                145,
+                95,
+                43,
+                166,
+                4,
+                78,
+                61
+            ],
+            "answer": "Obstinacy",
+            "hint": "Pigheadedness"
+        },
+        "X": {
+            "cells": [
+                28,
+                71,
+                177,
+                13,
+                118,
+                57,
+                161,
+                132
+            ],
+            "answer": "Octavian",
+            "hint": "Augustus\u2019 name before he was emperor"
+        },
+        "Y": {
+            "cells": [
+                102,
+                153,
+                3,
+                163,
+                27,
+                51,
+                126,
+                68
+            ],
+            "answer": "Polygyny",
+            "hint": "Practice similar to bigamy"
+        }
+    }
+}

@@ -1,0 +1,335 @@
+{
+    "answer": "[W]orkers have come across all manner of humanity in the subway over the years. Like the homeless man who liked to sit at a Y in the tracks, in a lawn chair, with a battery-powered light, reading The Wall Street Journal.",
+    "author": "Randy Kennedy,",
+    "authorCell": [
+        105,
+        157,
+        116,
+        140,
+        40,
+        108,
+        103,
+        37,
+        100,
+        11,
+        89,
+        98,
+        77,
+        168,
+        48,
+        82,
+        119,
+        133,
+        23,
+        126,
+        81,
+        149
+    ],
+    "source": "Subwayland",
+    "clues": {
+        "A": {
+            "cells": [
+                105,
+                167,
+                117,
+                87,
+                9,
+                136,
+                26,
+                51
+            ],
+            "answer": "Rockaway",
+            "hint": "Part of Queens served by the A train"
+        },
+        "B": {
+            "cells": [
+                157,
+                99,
+                138,
+                78,
+                118,
+                61,
+                32,
+                43
+            ],
+            "answer": "Air shaft",
+            "hint": "Ventilation aid for an underground transportation system (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                116,
+                29,
+                156,
+                142,
+                46,
+                8
+            ],
+            "answer": "Newish",
+            "hint": "Not terribly old, fairly recent"
+        },
+        "D": {
+            "cells": [
+                140,
+                76,
+                114,
+                94,
+                154,
+                18,
+                171,
+                59
+            ],
+            "answer": "Death ray",
+            "hint": "Weapon Nikola Tesla supposedly made (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                40,
+                135,
+                115,
+                75
+            ],
+            "answer": "Yowl",
+            "hint": "Vociferous cry of protest"
+        },
+        "F": {
+            "cells": [
+                108,
+                34,
+                6,
+                129,
+                49,
+                155,
+                65,
+                172,
+                85
+            ],
+            "answer": "Kurt Weill",
+            "hint": "Winner of the first Tony for Best Original Score (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                103,
+                141,
+                79,
+                165,
+                121,
+                67,
+                45
+            ],
+            "answer": "Elm tree",
+            "hint": "Bay State symbol (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                37,
+                139,
+                17,
+                66,
+                1,
+                54,
+                97,
+                162
+            ],
+            "answer": "Neckwear",
+            "hint": "Ruff, muffler, bandanna or boa"
+        },
+        "I": {
+            "cells": [
+                100,
+                137,
+                153,
+                44,
+                74,
+                30
+            ],
+            "answer": "Nether",
+            "hint": "Underground; deep-below"
+        },
+        "J": {
+            "cells": [
+                11,
+                124,
+                68,
+                50,
+                166,
+                148,
+                25,
+                88,
+                109
+            ],
+            "answer": "Etta James",
+            "hint": "Beyoncé\u2019s role in \u201cCadillac Records\u201d (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                89,
+                52,
+                122,
+                111,
+                35,
+                22,
+                146,
+                4,
+                70,
+                161
+            ],
+            "answer": "Down-market",
+            "hint": "Intended for sale to hoi polloi (hyph.)"
+        },
+        "L": {
+            "cells": [
+                98,
+                5,
+                21,
+                125,
+                150,
+                53,
+                80
+            ],
+            "answer": "Yeshiva",
+            "hint": "New York alma mater for Chaim Potok"
+        },
+        "M": {
+            "cells": [
+                77,
+                60,
+                42,
+                92,
+                16,
+                130,
+                110,
+                2,
+                151
+            ],
+            "answer": "Sensation",
+            "hint": "Event generating a huge amount of buzz"
+        },
+        "N": {
+            "cells": [
+                168,
+                39,
+                83,
+                15,
+                132
+            ],
+            "answer": "Uther",
+            "hint": "Father of \u201cthe once and future king\u201d"
+        },
+        "O": {
+            "cells": [
+                48,
+                106,
+                159,
+                64,
+                134,
+                13,
+                120,
+                28,
+                90
+            ],
+            "answer": "Ballpoint",
+            "hint": "Product made by Parker and Pentel"
+        },
+        "P": {
+            "cells": [
+                82,
+                123,
+                96,
+                12,
+                69,
+                33,
+                47,
+                170,
+                145
+            ],
+            "answer": "Witch hunt",
+            "hint": "McCarthyite pursuit (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                119,
+                158,
+                143,
+                31,
+                55,
+                86,
+                101,
+                71,
+                14
+            ],
+            "answer": "Algorithm",
+            "hint": "Procedure for solving a problem"
+        },
+        "R": {
+            "cells": [
+                133,
+                95,
+                24,
+                56,
+                36
+            ],
+            "answer": "Yalta",
+            "hint": "Resort city on the Black Sea"
+        },
+        "S": {
+            "cells": [
+                23,
+                91,
+                152,
+                72,
+                169,
+                3,
+                57,
+                131,
+                112
+            ],
+            "answer": "Logorrhea",
+            "hint": "Over-the-top verbosity"
+        },
+        "T": {
+            "cells": [
+                126,
+                27,
+                107,
+                144,
+                84,
+                10,
+                41,
+                163,
+                63
+            ],
+            "answer": "Anchovies",
+            "hint": "Ingredients in tapenade and Caesar salad"
+        },
+        "U": {
+            "cells": [
+                81,
+                38,
+                147,
+                113,
+                160,
+                127,
+                19,
+                102,
+                62
+            ],
+            "answer": "Niels Bohr",
+            "hint": "Eponymous founder of a Copenhagen research institute (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                149,
+                164,
+                73,
+                93,
+                104,
+                128,
+                20,
+                7,
+                58
+            ],
+            "answer": "Demitasse",
+            "hint": "Cup from which Turkish coffee is drunk"
+        }
+    }
+}

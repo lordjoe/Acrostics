@@ -1,0 +1,353 @@
+{
+    "answer": "These birds can boogie. Our dancers are naturals, grooving smack on the beat. Some macaws pop and lock on their perches like hip-hop MCs. If they\u2019re dancing outside their cages, the African gray parrots form a conga line.",
+    "author": "(Michele) Raffin,",
+    "authorCell": [
+        89,
+        76,
+        146,
+        111,
+        122,
+        33,
+        14,
+        110,
+        31,
+        78,
+        96,
+        80,
+        163,
+        75,
+        30,
+        170,
+        9,
+        100,
+        107,
+        125,
+        77,
+        135,
+        21,
+        65
+    ],
+    "source": "(The) Birds of Pandemonium",
+    "clues": {
+        "A": {
+            "cells": [
+                89,
+                57,
+                102,
+                123,
+                43
+            ],
+            "answer": "Rhino",
+            "hint": "One charging a safari trip?"
+        },
+        "B": {
+            "cells": [
+                76,
+                45,
+                24,
+                1,
+                145,
+                116
+            ],
+            "answer": "Avatar",
+            "hint": "Buddha or Rama, to Vishnu"
+        },
+        "C": {
+            "cells": [
+                146,
+                79,
+                38,
+                166,
+                18,
+                55,
+                124,
+                105
+            ],
+            "answer": "Flamingo",
+            "hint": "Garden gnome\u2019s avian companion"
+        },
+        "D": {
+            "cells": [
+                111,
+                165,
+                32,
+                151,
+                11,
+                133
+            ],
+            "answer": "French",
+            "hint": "Like the three hens in \u201cThe 12 Days of Christmas\u201d"
+        },
+        "E": {
+            "cells": [
+                122,
+                162,
+                54,
+                73,
+                8,
+                144,
+                25,
+                95
+            ],
+            "answer": "Isoprene",
+            "hint": "Its polymers are the main components of rubber"
+        },
+        "F": {
+            "cells": [
+                33,
+                169,
+                154,
+                101,
+                59,
+                3,
+                19,
+                136,
+                115
+            ],
+            "answer": "Noah Beery",
+            "hint": "Father or son of classic filmdom (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                14,
+                158,
+                60,
+                34,
+                85,
+                113
+            ],
+            "answer": "Breath",
+            "hint": "Something held by an angry child"
+        },
+        "H": {
+            "cells": [
+                110,
+                47,
+                127,
+                150,
+                17,
+                173,
+                88,
+                74
+            ],
+            "answer": "Intaglio",
+            "hint": "Engraving of a type used in signet rings"
+        },
+        "I": {
+            "cells": [
+                31,
+                16,
+                149,
+                82,
+                134,
+                112,
+                50,
+                68,
+                175
+            ],
+            "answer": "\"Rocket Man\"",
+            "hint": "1972 Elton John hit with the repeated lyric \u201cI think it\u2019s gonna be a long, long time\u201d (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                78,
+                129,
+                4,
+                108,
+                143,
+                157,
+                92,
+                48,
+                176
+            ],
+            "answer": "Discharge",
+            "hint": "Release; vent; fire"
+        },
+        "K": {
+            "cells": [
+                96,
+                160,
+                13,
+                41,
+                72,
+                132,
+                58,
+                28
+            ],
+            "answer": "Songster",
+            "hint": "Nightingale or wren"
+        },
+        "L": {
+            "cells": [
+                80,
+                6,
+                130,
+                36,
+                22,
+                172,
+                93,
+                155
+            ],
+            "answer": "Obduracy",
+            "hint": "Callous stubbornness"
+        },
+        "M": {
+            "cells": [
+                163,
+                46,
+                141,
+                2,
+                103,
+                64,
+                84,
+                118
+            ],
+            "answer": "Fishpond",
+            "hint": "Aquaculture facility"
+        },
+        "N": {
+            "cells": [
+                75,
+                98,
+                39,
+                61,
+                142,
+                117,
+                10
+            ],
+            "answer": "Pilates",
+            "hint": "Exercise called \u201ccontrology\u201d by its inventor"
+        },
+        "O": {
+            "cells": [
+                30,
+                153,
+                52,
+                94,
+                66,
+                128
+            ],
+            "answer": "Arches",
+            "hint": "National park near Moab, Utah"
+        },
+        "P": {
+            "cells": [
+                170,
+                27,
+                137,
+                53,
+                97,
+                119,
+                69,
+                5
+            ],
+            "answer": "Necklace",
+            "hint": "Accessory worn by Lisa Simpson"
+        },
+        "Q": {
+            "cells": [
+                9,
+                148,
+                63,
+                81,
+                44,
+                23,
+                126,
+                168,
+                99
+            ],
+            "answer": "\"Disco Duck\"",
+            "hint": "Novelty single that was in the top 10 for 10 weeks in 1976 (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                100,
+                49,
+                121,
+                159,
+                83,
+                71
+            ],
+            "answer": "Escrow",
+            "hint": "Account held in trust"
+        },
+        "S": {
+            "cells": [
+                107,
+                87,
+                139,
+                12,
+                29,
+                56,
+                70,
+                42
+            ],
+            "answer": "Megastar",
+            "hint": "Celebrity among celebrities"
+        },
+        "T": {
+            "cells": [
+                125,
+                67,
+                20,
+                106,
+                86,
+                51,
+                152,
+                7,
+                167
+            ],
+            "answer": "Omophagia",
+            "hint": "Consumption of raw meat"
+        },
+        "U": {
+            "cells": [
+                77,
+                131,
+                109,
+                35,
+                164,
+                147
+            ],
+            "answer": "Nestor",
+            "hint": "Giver of advice at Troy"
+        },
+        "V": {
+            "cells": [
+                135,
+                26,
+                91,
+                161
+            ],
+            "answer": "Ice-T",
+            "hint": "\u201cRhyme Pays\u201d rapper (hyph.)"
+        },
+        "W": {
+            "cells": [
+                21,
+                90,
+                40,
+                62,
+                138,
+                171,
+                114
+            ],
+            "answer": "Upstage",
+            "hint": "Further from the theater audience"
+        },
+        "X": {
+            "cells": [
+                65,
+                15,
+                37,
+                156,
+                104,
+                174,
+                120,
+                140
+            ],
+            "answer": "Morphine",
+            "hint": "Analgesic used in the Civil War"
+        }
+    }
+}

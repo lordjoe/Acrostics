@@ -1,0 +1,366 @@
+{
+    "answer": "Orchids have diverse and unflowerlike looks.... There are species that look like butterflies, bats, ladies\u2019 handbags,... swarms of bees,... clamshells, roots, camel hooves, squirrels, nuns dressed in their wimples, and drunken old men.",
+    "author": "Susan Orlean,",
+    "authorCell": [
+        76,
+        135,
+        111,
+        9,
+        154,
+        35,
+        45,
+        62,
+        65,
+        109,
+        182,
+        155,
+        40,
+        28,
+        119,
+        16,
+        3,
+        4,
+        74,
+        90,
+        68,
+        55,
+        158,
+        41,
+        24
+    ],
+    "source": "The Orchid Thief",
+    "clues": {
+        "A": {
+            "cells": [
+                76,
+                112,
+                26,
+                120,
+                93,
+                140,
+                56,
+                150,
+                166
+            ],
+            "answer": "Shot glass",
+            "hint": "It holds a little less than a jigger (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                135,
+                50,
+                107,
+                85,
+                34,
+                58,
+                177
+            ],
+            "answer": "Uccello",
+            "hint": "15th-century Florentine who painted \u201cThe Battle of San Romano\u201d"
+        },
+        "C": {
+            "cells": [
+                111,
+                31,
+                126,
+                174,
+                160,
+                1,
+                71,
+                99,
+                133
+            ],
+            "answer": "Silkworms",
+            "hint": "Animals raised in sericulture"
+        },
+        "D": {
+            "cells": [
+                9,
+                147,
+                91,
+                78,
+                115,
+                175,
+                53,
+                69
+            ],
+            "answer": "Arbalest",
+            "hint": "Medieval shooter of stones, balls and arrows"
+        },
+        "E": {
+            "cells": [
+                154,
+                19,
+                106,
+                145,
+                46,
+                117
+            ],
+            "answer": "Nasser",
+            "hint": "Coup leader in the 1952 deposing of King Farouk"
+        },
+        "F": {
+            "cells": [
+                35,
+                63,
+                178,
+                105,
+                159,
+                80
+            ],
+            "answer": "Oilers",
+            "hint": "Crude carriers"
+        },
+        "G": {
+            "cells": [
+                45,
+                97,
+                21
+            ],
+            "answer": "Rad",
+            "hint": "Outstanding, in surfer slang"
+        },
+        "H": {
+            "cells": [
+                62,
+                153,
+                57,
+                79,
+                11,
+                42
+            ],
+            "answer": "Litter",
+            "hint": "Vehicle with curtains"
+        },
+        "I": {
+            "cells": [
+                65,
+                169,
+                27,
+                60,
+                101,
+                179
+            ],
+            "answer": "Ed Wood",
+            "hint": "Film in which Martin Landau played Bela Lugosi (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                109,
+                25,
+                81,
+                70,
+                162,
+                88,
+                176,
+                12,
+                139
+            ],
+            "answer": "Allemande",
+            "hint": "Figure performed by square dancers"
+        },
+        "K": {
+            "cells": [
+                182,
+                15,
+                95,
+                121,
+                143,
+                38
+            ],
+            "answer": "Nessus",
+            "hint": "Centaur whose blood poisoned Hercules"
+        },
+        "L": {
+            "cells": [
+                155,
+                118,
+                32,
+                44,
+                124,
+                167,
+                61
+            ],
+            "answer": "Tokamak",
+            "hint": "Experimental fusion reactor with a toroidal chamber"
+        },
+        "M": {
+            "cells": [
+                40,
+                18,
+                66,
+                146,
+                128,
+                110,
+                82,
+                170
+            ],
+            "answer": "Hebdomad",
+            "hint": "Half a fortnight"
+        },
+        "N": {
+            "cells": [
+                28,
+                73,
+                108,
+                136,
+                94,
+                13,
+                149,
+                164,
+                123,
+                173,
+                6
+            ],
+            "answer": "Ellis Island",
+            "hint": "Historical complex, now a museum, in New York Bay (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                119,
+                77,
+                14,
+                49,
+                2,
+                100,
+                157
+            ],
+            "answer": "Obverse",
+            "hint": "\u201cHeads\u201d side of a coin"
+        },
+        "P": {
+            "cells": [
+                16,
+                52,
+                134,
+                67,
+                84,
+                125,
+                180
+            ],
+            "answer": "Requiem",
+            "hint": "Context for a \u201cDies Irae\u201d"
+        },
+        "Q": {
+            "cells": [
+                3,
+                87,
+                33,
+                130,
+                98,
+                59,
+                168
+            ],
+            "answer": "Chevron",
+            "hint": "Badge of stripes on a police officer\u2019s sleeve"
+        },
+        "R": {
+            "cells": [
+                4,
+                22,
+                122,
+                37,
+                102,
+                161,
+                89,
+                142
+            ],
+            "answer": "Huck Finn",
+            "hint": "Narrator of a picaresque tale of 1884 (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                74,
+                30,
+                114,
+                5,
+                20,
+                129,
+                51,
+                141
+            ],
+            "answer": "Illinois",
+            "hint": "River through Peoria"
+        },
+        "T": {
+            "cells": [
+                90,
+                131,
+                7,
+                64,
+                54,
+                36,
+                163
+            ],
+            "answer": "Desktop",
+            "hint": "A kind of publishing"
+        },
+        "U": {
+            "cells": [
+                68,
+                127,
+                29,
+                113,
+                17,
+                156,
+                148,
+                137
+            ],
+            "answer": "Thresher",
+            "hint": "Shark that drives its prey by beating its tail"
+        },
+        "V": {
+            "cells": [
+                55,
+                92,
+                138,
+                152,
+                23,
+                75,
+                116,
+                47
+            ],
+            "answer": "Hardness",
+            "hint": "What the Mohs scale measures"
+        },
+        "W": {
+            "cells": [
+                158,
+                144,
+                83,
+                181,
+                103,
+                39
+            ],
+            "answer": "In debt",
+            "hint": "Having obligations (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                41,
+                48,
+                8,
+                104,
+                132,
+                172,
+                86
+            ],
+            "answer": "Ephesus",
+            "hint": "Ionian setting for \u201cThe Comedy of Errors\u201d"
+        },
+        "Y": {
+            "cells": [
+                24,
+                43,
+                10,
+                151,
+                171,
+                72,
+                165,
+                96
+            ],
+            "answer": "Feverfew",
+            "hint": "Type of chrysanthemum once used remedially"
+        }
+    }
+}

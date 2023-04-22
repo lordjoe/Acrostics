@@ -1,0 +1,348 @@
+{
+    "answer": "[A] spinning skater can increase her angular speed ... . You may reproduce this ... on your office ... chair. ... [G]et spinning with your legs extended, ... then draw your legs in ... . This ... will cause your ... colleagues to stare and you to spin faster.",
+    "author": "Mark Denny,",
+    "authorCell": [
+        45,
+        75,
+        36,
+        11,
+        41,
+        111,
+        172,
+        84,
+        140,
+        78,
+        134,
+        7,
+        106,
+        19,
+        85,
+        123,
+        173,
+        43,
+        159,
+        32,
+        64,
+        97,
+        53
+    ],
+    "source": "Gliding For Gold",
+    "clues": {
+        "A": {
+            "cells": [
+                45,
+                76,
+                113,
+                12,
+                130,
+                167,
+                61,
+                95,
+                144,
+                27
+            ],
+            "answer": "Midas touch",
+            "hint": "Knack for being successful in any venture (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                75,
+                102,
+                49,
+                121
+            ],
+            "answer": "Axel",
+            "hint": "Jump off the forward edge"
+        },
+        "C": {
+            "cells": [
+                36,
+                107,
+                91,
+                129,
+                18,
+                166,
+                148
+            ],
+            "answer": "Retinue",
+            "hint": "Coach, trainer and bodyguard, for example"
+        },
+        "D": {
+            "cells": [
+                11,
+                90,
+                138,
+                175,
+                161,
+                62,
+                108,
+                73,
+                29,
+                42
+            ],
+            "answer": "Kiss and cry",
+            "hint": "Area adjoining a rink where marks are awaited (hyph.)"
+        },
+        "E": {
+            "cells": [
+                41,
+                112,
+                132,
+                152,
+                82,
+                14,
+                178
+            ],
+            "answer": "Dnieper",
+            "hint": "River through Smolensk and Kiev"
+        },
+        "F": {
+            "cells": [
+                111,
+                151,
+                170,
+                128,
+                67,
+                51,
+                86,
+                21
+            ],
+            "answer": "Euphoric",
+            "hint": "On cloud nine, in seventh heaven"
+        },
+        "G": {
+            "cells": [
+                172,
+                104,
+                89,
+                13,
+                145,
+                31
+            ],
+            "answer": "Newton",
+            "hint": "Unit used to measure the force of gravity"
+        },
+        "H": {
+            "cells": [
+                84,
+                17,
+                44,
+                100,
+                72,
+                149
+            ],
+            "answer": "Nausea",
+            "hint": "Side effect of vertigo"
+        },
+        "I": {
+            "cells": [
+                140,
+                52,
+                65,
+                5,
+                88,
+                124,
+                157,
+                177,
+                22
+            ],
+            "answer": "Youngster",
+            "hint": "Fledgling, squirt, moppet"
+        },
+        "J": {
+            "cells": [
+                78,
+                155,
+                35,
+                133,
+                3,
+                118,
+                60,
+                176
+            ],
+            "answer": "Goalpost",
+            "hint": "A puck might ricochet off it (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                134,
+                171,
+                99,
+                74,
+                154,
+                26,
+                8,
+                119,
+                38
+            ],
+            "answer": "Lighten up",
+            "hint": "\u201cChill out!\u201d (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                7,
+                87,
+                39,
+                143,
+                57,
+                125,
+                158
+            ],
+            "answer": "Inertia",
+            "hint": "Sluggishness; resistance to change"
+        },
+        "M": {
+            "cells": [
+                106,
+                122,
+                10,
+                33,
+                146,
+                80,
+                165,
+                48,
+                63
+            ],
+            "answer": "Desultory",
+            "hint": "Lacking a definite plan or regularity"
+        },
+        "N": {
+            "cells": [
+                19,
+                135,
+                40,
+                156,
+                58,
+                94,
+                116
+            ],
+            "answer": "Ice show",
+            "hint": "Follies involving blades (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                85,
+                54,
+                115,
+                162,
+                71,
+                23
+            ],
+            "answer": "Nuance",
+            "hint": "Fine distinction"
+        },
+        "P": {
+            "cells": [
+                123,
+                164,
+                77,
+                46,
+                103,
+                4,
+                141,
+                20
+            ],
+            "answer": "Gyration",
+            "hint": "Act of whirling or rotating"
+        },
+        "Q": {
+            "cells": [
+                173,
+                30,
+                6,
+                55,
+                93,
+                69,
+                114,
+                160,
+                139
+            ],
+            "answer": "Fancy-free",
+            "hint": "Unattached, not held back by ties (hyph.)"
+        },
+        "R": {
+            "cells": [
+                43,
+                96,
+                150,
+                24,
+                126,
+                59,
+                169,
+                109
+            ],
+            "answer": "Organist",
+            "hint": "Player in an arena who never scores"
+        },
+        "S": {
+            "cells": [
+                159,
+                98,
+                37,
+                137,
+                120,
+                68,
+                1,
+                16,
+                56
+            ],
+            "answer": "Resurface",
+            "hint": "Use a Zamboni on, say"
+        },
+        "T": {
+            "cells": [
+                32,
+                174,
+                47,
+                66,
+                83,
+                9,
+                110,
+                127,
+                153
+            ],
+            "answer": "Gay rights",
+            "hint": "Focus of certain protests before the Sochi Olympics (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                64,
+                163,
+                117,
+                2,
+                81,
+                101,
+                142,
+                25
+            ],
+            "answer": "Odysseus",
+            "hint": "Figure of interest to some powerful Olympians"
+        },
+        "V": {
+            "cells": [
+                97,
+                79,
+                136,
+                50,
+                28,
+                15
+            ],
+            "answer": "Leaper",
+            "hint": "One engaged in a vault"
+        },
+        "W": {
+            "cells": [
+                53,
+                168,
+                131,
+                105,
+                92,
+                70,
+                147,
+                34
+            ],
+            "answer": "Downhill",
+            "hint": "Like a normal bobsled run ... or worse?"
+        }
+    }
+}

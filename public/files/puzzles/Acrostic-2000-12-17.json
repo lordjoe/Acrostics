@@ -1,0 +1,366 @@
+{
+    "answer": "[T]he French... christened the kitchen arsenal the batterie de cuisine.... To satisfy [hunger] is to do battle, deploying a full range of artillery-crushers, scrapers, beaters, roasters, gougers, grinders, to name but a few... implements....",
+    "author": "Betty Fussell,",
+    "authorCell": [
+        130,
+        16,
+        160,
+        15,
+        65,
+        104,
+        116,
+        59,
+        129,
+        18,
+        87,
+        110,
+        178,
+        113,
+        23,
+        154,
+        42,
+        10,
+        9,
+        70,
+        17,
+        172,
+        30,
+        137,
+        140
+    ],
+    "source": "My Kitchen Wars",
+    "clues": {
+        "A": {
+            "cells": [
+                130,
+                77,
+                143,
+                159,
+                26,
+                11,
+                37
+            ],
+            "answer": "Borscht",
+            "hint": "Dish served with a dollop of sour cream"
+        },
+        "B": {
+            "cells": [
+                16,
+                182,
+                114,
+                103,
+                94,
+                170,
+                54,
+                127,
+                71
+            ],
+            "answer": "Escoffier",
+            "hint": "Master chef (1846-1935) at London\u2019s Savoy Hotel and Carlton House"
+        },
+        "C": {
+            "cells": [
+                160,
+                28,
+                68,
+                48,
+                3,
+                98
+            ],
+            "answer": "Tender",
+            "hint": "Succulent and easy to eat"
+        },
+        "D": {
+            "cells": [
+                15,
+                112,
+                89,
+                175,
+                141,
+                58,
+                126,
+                2,
+                35,
+                155
+            ],
+            "answer": "Tryptophan",
+            "hint": "Amino acid popularly held responsible for \u201cturkey coma\u201d"
+        },
+        "E": {
+            "cells": [
+                65,
+                39,
+                169,
+                53,
+                133
+            ],
+            "answer": "Yeast",
+            "hint": "Bakery staple"
+        },
+        "F": {
+            "cells": [
+                104,
+                46,
+                176,
+                166,
+                6,
+                150,
+                80
+            ],
+            "answer": "Filbert",
+            "hint": "Nut often found in biscotti"
+        },
+        "G": {
+            "cells": [
+                116,
+                81,
+                22,
+                7,
+                144,
+                62,
+                97
+            ],
+            "answer": "Utensil",
+            "hint": "Spatula or corkscrew, e.g."
+        },
+        "H": {
+            "cells": [
+                59,
+                147,
+                73,
+                27,
+                108
+            ],
+            "answer": "Sushi",
+            "hint": "Finger food whose name means \u201cit is sour\u201d"
+        },
+        "I": {
+            "cells": [
+                129,
+                105,
+                67,
+                32,
+                163,
+                152,
+                83
+            ],
+            "answer": "Sausage",
+            "hint": "Purchase in a charcuterie"
+        },
+        "J": {
+            "cells": [
+                18,
+                121,
+                95,
+                45,
+                173,
+                149,
+                29,
+                61
+            ],
+            "answer": "Esurient",
+            "hint": "Ravenous, greedy"
+        },
+        "K": {
+            "cells": [
+                87,
+                49,
+                125,
+                100
+            ],
+            "answer": "Lean",
+            "hint": "What Mrs. Sprat eschewed"
+        },
+        "L": {
+            "cells": [
+                110,
+                161,
+                34,
+                69,
+                86,
+                13,
+                148
+            ],
+            "answer": "Long pig",
+            "hint": "Main course for a cannibal (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                178,
+                24,
+                162,
+                1
+            ],
+            "answer": "Mint",
+            "hint": "Sage, rosemary or thyme"
+        },
+        "N": {
+            "cells": [
+                113,
+                146,
+                101,
+                167,
+                31,
+                74
+            ],
+            "answer": "Yogurt",
+            "hint": "Common smoothie ingredient"
+        },
+        "O": {
+            "cells": [
+                23,
+                157,
+                84,
+                145,
+                44,
+                120,
+                131,
+                33
+            ],
+            "answer": "Kedgeree",
+            "hint": "Dish from India with fish, rice and lentils"
+        },
+        "P": {
+            "cells": [
+                154,
+                8,
+                47,
+                76,
+                168,
+                134,
+                93
+            ],
+            "answer": "Iced tea",
+            "hint": "Summertime refresher (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                42,
+                102,
+                151,
+                181,
+                85,
+                135
+            ],
+            "answer": "Tester",
+            "hint": "A toothpick, possibly, for cooks"
+        },
+        "R": {
+            "cells": [
+                10,
+                138,
+                106,
+                180,
+                117,
+                20,
+                79,
+                153,
+                50,
+                66
+            ],
+            "answer": "Cornstarch",
+            "hint": "Sauce-thickening agent"
+        },
+        "S": {
+            "cells": [
+                9,
+                142,
+                158,
+                124,
+                72,
+                55,
+                92
+            ],
+            "answer": "Herring",
+            "hint": "What\u2019s wrapped around a pickle to make a rollmop"
+        },
+        "T": {
+            "cells": [
+                70,
+                91,
+                43,
+                12,
+                111,
+                164,
+                119,
+                57,
+                136
+            ],
+            "answer": "Entremets",
+            "hint": "Between-courses or auxiliary part of a meal"
+        },
+        "U": {
+            "cells": [
+                17,
+                177,
+                51,
+                4,
+                123,
+                38,
+                132,
+                107,
+                165,
+                82
+            ],
+            "answer": "Neufchatel",
+            "hint": "Soft, creamy cheese"
+        },
+        "V": {
+            "cells": [
+                172,
+                99,
+                109,
+                19,
+                88,
+                115,
+                64,
+                122,
+                139,
+                36,
+                41,
+                156
+            ],
+            "answer": "Waldorf salad",
+            "hint": "Dish said to have been invented by maitre d\u2019hotel Oscar Tschirky (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                30,
+                174,
+                40,
+                128,
+                75,
+                14,
+                90,
+                60
+            ],
+            "answer": "Ambrosia",
+            "hint": "Food of the gods"
+        },
+        "X": {
+            "cells": [
+                137,
+                171,
+                96,
+                52,
+                63,
+                21
+            ],
+            "answer": "Relish",
+            "hint": "Cranberry preparation, perhaps"
+        },
+        "Y": {
+            "cells": [
+                140,
+                118,
+                179,
+                5,
+                78,
+                56,
+                25
+            ],
+            "answer": "Sherbet",
+            "hint": "Light, fruity dessert"
+        }
+    }
+}

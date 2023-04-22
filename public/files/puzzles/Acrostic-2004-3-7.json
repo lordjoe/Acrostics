@@ -1,0 +1,358 @@
+{
+    "answer": "At the age of eighty-one, [my grandmother] has her hair colored weekly and doesn\u2019t descend the stairs without full makeup. If an opera spontaneously broke out at her nursing home, Grandmother would be appropriately dressed.",
+    "author": "(Allison) Glock,",
+    "authorCell": [
+        13,
+        118,
+        109,
+        43,
+        53,
+        160,
+        172,
+        128,
+        157,
+        127,
+        119,
+        120,
+        48,
+        10,
+        115,
+        79,
+        114,
+        68,
+        44,
+        27,
+        99,
+        156,
+        132,
+        2
+    ],
+    "source": "Beauty Before Comfort",
+    "clues": {
+        "A": {
+            "cells": [
+                13,
+                74,
+                161,
+                117,
+                37
+            ],
+            "answer": "Geese",
+            "hint": "Where to get down"
+        },
+        "B": {
+            "cells": [
+                118,
+                102,
+                155,
+                32,
+                141,
+                1,
+                49
+            ],
+            "answer": "Low road",
+            "hint": "Contemptible course of action (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                109,
+                165,
+                136,
+                150,
+                25,
+                81,
+                11,
+                45,
+                54,
+                177,
+                35
+            ],
+            "answer": "Orson Welles",
+            "hint": "Founder, with John Houseman, of the Mercury Theatre (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                43,
+                4,
+                82,
+                163,
+                97,
+                61,
+                121
+            ],
+            "answer": "Chipper",
+            "hint": "Sprightly, self-confident"
+        },
+        "E": {
+            "cells": [
+                53,
+                60,
+                39,
+                85,
+                116,
+                15,
+                153,
+                94
+            ],
+            "answer": "Kohoutek",
+            "hint": "Overhyped comet that passed around the sun in 1973-74"
+        },
+        "F": {
+            "cells": [
+                160,
+                5,
+                140,
+                180,
+                92,
+                46,
+                64,
+                33
+            ],
+            "answer": "Behemoth",
+            "hint": "Mighty creature described in Job"
+        },
+        "G": {
+            "cells": [
+                172,
+                110,
+                151,
+                130,
+                89,
+                80,
+                12,
+                56,
+                67,
+                29
+            ],
+            "answer": "Enthusiast",
+            "hint": "Ardent follower or hobbyist"
+        },
+        "H": {
+            "cells": [
+                128,
+                20,
+                164,
+                95,
+                42,
+                31
+            ],
+            "answer": "Ampere",
+            "hint": "One coulomb per second"
+        },
+        "I": {
+            "cells": [
+                157,
+                63,
+                123,
+                8,
+                142,
+                103,
+                76
+            ],
+            "answer": "Unkempt",
+            "hint": "Not exactly spruced up"
+        },
+        "J": {
+            "cells": [
+                127,
+                152,
+                78,
+                105,
+                3,
+                174
+            ],
+            "answer": "Thirty",
+            "hint": "\u201cEnd of story,\u201d to a journalist"
+        },
+        "K": {
+            "cells": [
+                119,
+                166,
+                134,
+                148,
+                28,
+                18,
+                83,
+                178,
+                106,
+                55
+            ],
+            "answer": "\u201cYou don\u2019t say\u201d",
+            "hint": "\u201cWhat a shock to hear that!\u201d (3 wds.)"
+        },
+        "L": {
+            "cells": [
+                120,
+                170,
+                145,
+                101,
+                16,
+                34,
+                47,
+                65
+            ],
+            "answer": "Barnyard",
+            "hint": "Kind of humor considered smutty"
+        },
+        "M": {
+            "cells": [
+                48,
+                108,
+                66,
+                154,
+                22,
+                138,
+                124
+            ],
+            "answer": "Epergne",
+            "hint": "Ornamental centerpiece for holding fruit, flowers, etc."
+        },
+        "N": {
+            "cells": [
+                10,
+                98,
+                175,
+                139,
+                52,
+                72
+            ],
+            "answer": "Fidget",
+            "hint": "Have ants in your pants"
+        },
+        "O": {
+            "cells": [
+                115,
+                9,
+                73,
+                179,
+                162,
+                133,
+                26,
+                93,
+                84,
+                62
+            ],
+            "answer": "Oohs and ahs",
+            "hint": "Output of a wowed crowd (3 wds.)"
+        },
+        "P": {
+            "cells": [
+                79,
+                41,
+                159,
+                181,
+                91,
+                104
+            ],
+            "answer": "Riddle",
+            "hint": "Turandot\u2019s test"
+        },
+        "Q": {
+            "cells": [
+                114,
+                147,
+                171,
+                30,
+                135,
+                77,
+                158,
+                90,
+                19,
+                58
+            ],
+            "answer": "Enthralled",
+            "hint": "As if captive of a spell"
+        },
+        "R": {
+            "cells": [
+                68,
+                36,
+                131,
+                50,
+                122,
+                96,
+                87
+            ],
+            "answer": "Chew out",
+            "hint": "Read the riot act (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                44,
+                149,
+                112,
+                168,
+                75,
+                14,
+                24,
+                176,
+                137,
+                88
+            ],
+            "answer": "Omar Sharif",
+            "hint": "Film star born in Alexandria, Egypt (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                27,
+                40,
+                71,
+                59,
+                169,
+                113,
+                144
+            ],
+            "answer": "Madding",
+            "hint": "Thomas Gray\u2019s synonym of \u201cfrenzied\u201d"
+        },
+        "U": {
+            "cells": [
+                99,
+                146,
+                107,
+                129,
+                51,
+                38
+            ],
+            "answer": "Faster",
+            "hint": "One losing weight more speedily?"
+        },
+        "V": {
+            "cells": [
+                156,
+                23,
+                111,
+                125,
+                173,
+                6,
+                70
+            ],
+            "answer": "Ortolan",
+            "hint": "Bunting resembling the yellowhammer"
+        },
+        "W": {
+            "cells": [
+                132,
+                100,
+                21,
+                7,
+                86,
+                57
+            ],
+            "answer": "Ray gun",
+            "hint": "Prop in an old sci-fi space film (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                2,
+                17,
+                126,
+                167,
+                143,
+                69
+            ],
+            "answer": "Toupee",
+            "hint": "Remedy for a top-level shortage"
+        }
+    }
+}

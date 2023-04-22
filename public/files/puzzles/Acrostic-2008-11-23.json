@@ -1,0 +1,367 @@
+{
+    "answer": "Chop suey is the greatest culinary prank... one culture has ever played on another. Even its name is an inside joke.... What Americans once believed to be the \u201cnational dish\" of China translates to \"odds and ends\u201d in Cantonese.",
+    "author": "(Jennifer 8.) Lee,",
+    "authorCell": [
+        53,
+        48,
+        19,
+        137,
+        89,
+        51,
+        153,
+        23,
+        36,
+        151,
+        107,
+        128,
+        105,
+        34,
+        78,
+        44,
+        138,
+        12,
+        15,
+        136,
+        129,
+        85,
+        1,
+        148,
+        13,
+        147
+    ],
+    "source": "(The) Fortune Cookie Chronicles",
+    "clues": {
+        "A": {
+            "cells": [
+                53,
+                82,
+                150,
+                101,
+                2,
+                133
+            ],
+            "answer": "Litchi",
+            "hint": "Nutlike Far Eastern fruit"
+        },
+        "B": {
+            "cells": [
+                48,
+                167,
+                88,
+                118,
+                8
+            ],
+            "answer": "Enjoy",
+            "hint": "Word from a server to a diner"
+        },
+        "C": {
+            "cells": [
+                19,
+                111,
+                176,
+                49,
+                149,
+                63,
+                37,
+                86
+            ],
+            "answer": "Elevated",
+            "hint": "Taken to another plane"
+        },
+        "D": {
+            "cells": [
+                137,
+                31,
+                154,
+                73,
+                11
+            ],
+            "answer": "Frost",
+            "hint": "\u201cAfter Apple-Picking\u201d poet"
+        },
+        "E": {
+            "cells": [
+                89,
+                43,
+                140,
+                65,
+                160,
+                18
+            ],
+            "answer": "Orient",
+            "hint": "Pearl of extraordinary luster"
+        },
+        "F": {
+            "cells": [
+                51,
+                7,
+                77,
+                161,
+                29
+            ],
+            "answer": "Reedy",
+            "hint": "Like Lincoln\u2019s voice, per his biographers"
+        },
+        "G": {
+            "cells": [
+                153,
+                120,
+                26,
+                79
+            ],
+            "answer": "Tens",
+            "hint": "King beaters in pinochle"
+        },
+        "H": {
+            "cells": [
+                23,
+                10,
+                80,
+                127,
+                170,
+                109,
+                62,
+                40,
+                95
+            ],
+            "answer": "Usain Bolt",
+            "hint": "Aptly surnamed man of speed (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                36,
+                102,
+                121,
+                6,
+                66,
+                50
+            ],
+            "answer": "Nature",
+            "hint": "\u201cAll ___ is but art, unknown to thee\u201d (Pope)"
+        },
+        "J": {
+            "cells": [
+                151,
+                96,
+                175,
+                55,
+                125,
+                84,
+                30,
+                9,
+                110
+            ],
+            "answer": "Easy as pie",
+            "hint": "Not at all challenging (3 wds.)"
+        },
+        "K": {
+            "cells": [
+                107,
+                139,
+                172,
+                52,
+                158,
+                126,
+                25,
+                38,
+                90,
+                5
+            ],
+            "answer": "\u201cChopsticks\"",
+            "hint": "Piece typically executed with indexes"
+        },
+        "L": {
+            "cells": [
+                128,
+                114,
+                87,
+                144,
+                57,
+                35,
+                100,
+                21
+            ],
+            "answer": "Overdo it",
+            "hint": "Go too far (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                105,
+                145,
+                72,
+                56,
+                20
+            ],
+            "answer": "Oates",
+            "hint": "Author of the 2008 collection \u201cWild Nights!\u201d"
+        },
+        "N": {
+            "cells": [
+                34,
+                103,
+                69,
+                54,
+                116,
+                162,
+                132
+            ],
+            "answer": "Kneaded",
+            "hint": "Like dough and some tired muscles"
+        },
+        "O": {
+            "cells": [
+                78,
+                141,
+                173,
+                155,
+                22,
+                98,
+                124,
+                41
+            ],
+            "answer": "Innocent",
+            "hint": "Person free of sin; simpleton"
+        },
+        "P": {
+            "cells": [
+                44,
+                97,
+                4,
+                27,
+                143,
+                64
+            ],
+            "answer": "Empath",
+            "hint": "One who knows how you feel"
+        },
+        "Q": {
+            "cells": [
+                138,
+                42,
+                76,
+                119,
+                166,
+                17
+            ],
+            "answer": "Cumbia",
+            "hint": "Traditional dance music of Colombia"
+        },
+        "R": {
+            "cells": [
+                12,
+                142,
+                68,
+                32,
+                163,
+                94
+            ],
+            "answer": "Havana",
+            "hint": "Capital founded by conquistadors around 1515"
+        },
+        "S": {
+            "cells": [
+                15,
+                169,
+                92,
+                156,
+                113,
+                75,
+                131
+            ],
+            "answer": "Raw deal",
+            "hint": "Unfair price for sushi? (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                136,
+                164,
+                123,
+                58,
+                106
+            ],
+            "answer": "Odeon",
+            "hint": "Ancient Greek theater"
+        },
+        "U": {
+            "cells": [
+                129,
+                3,
+                61,
+                47,
+                108,
+                83,
+                165,
+                16
+            ],
+            "answer": "Nonsense",
+            "hint": "A lot of hooey"
+        },
+        "V": {
+            "cells": [
+                85,
+                104,
+                24,
+                130,
+                70,
+                157
+            ],
+            "answer": "Island",
+            "hint": "Feature of some modern kitchens"
+        },
+        "W": {
+            "cells": [
+                1,
+                122,
+                91,
+                67,
+                28,
+                152
+            ],
+            "answer": "\"Cheers\u201d",
+            "hint": "Where Sam served Norm"
+        },
+        "X": {
+            "cells": [
+                148,
+                39,
+                171,
+                135,
+                115,
+                99,
+                60,
+                81
+            ],
+            "answer": "Lutheran",
+            "hint": "Like many believers in Lake Wobegon"
+        },
+        "Y": {
+            "cells": [
+                13,
+                117,
+                45,
+                146,
+                71,
+                168
+            ],
+            "answer": "Ethnic",
+            "hint": "Like Italian or Thai food"
+        },
+        "Z": {
+            "cells": [
+                147,
+                93,
+                174,
+                59,
+                159,
+                33,
+                112,
+                14,
+                46,
+                74,
+                134
+            ],
+            "answer": "Shenanigans",
+            "hint": "Monkeyshines"
+        }
+    }
+}

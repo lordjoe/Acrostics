@@ -1,0 +1,370 @@
+{
+    "answer": "[N]ightly news may soon consist entirely of tirades by men so angry and inarticulate that all they do is sputter while punching themselves in the face, punctuated by videos of dogs blowing up after eating firecrackers... .",
+    "author": "(George) Saunders,",
+    "authorCell": [
+        85,
+        157,
+        65,
+        27,
+        138,
+        46,
+        161,
+        48,
+        134,
+        61,
+        163,
+        169,
+        166,
+        40,
+        41,
+        55,
+        133,
+        108,
+        132,
+        167,
+        72,
+        124,
+        118,
+        145,
+        51,
+        26
+    ],
+    "source": "(The) Brain-Dead Megaphone",
+    "clues": {
+        "A": {
+            "cells": [
+                85,
+                122,
+                30,
+                69,
+                10,
+                135
+            ],
+            "answer": "Screwy",
+            "hint": "Weirdly absurd, off-the-wall"
+        },
+        "B": {
+            "cells": [
+                157,
+                3,
+                106,
+                60,
+                24,
+                77
+            ],
+            "answer": "Aghast",
+            "hint": "Stunned with dismay"
+        },
+        "C": {
+            "cells": [
+                65,
+                1,
+                176,
+                160,
+                45,
+                97,
+                28
+            ],
+            "answer": "Unkempt",
+            "hint": "Like tousled locks"
+        },
+        "D": {
+            "cells": [
+                27,
+                155,
+                81,
+                137,
+                11,
+                105
+            ],
+            "answer": "Nudist",
+            "hint": "One whose life is barely noticed?"
+        },
+        "E": {
+            "cells": [
+                138,
+                98,
+                12,
+                43,
+                57,
+                82,
+                151,
+                116
+            ],
+            "answer": "Dumb down",
+            "hint": "Make less sophisticated (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                46,
+                21,
+                162,
+                91,
+                136,
+                67,
+                5,
+                113
+            ],
+            "answer": "Enervate",
+            "hint": "Make one\u2019s get-up-and-go get up and go?"
+        },
+        "G": {
+            "cells": [
+                161,
+                174,
+                19,
+                96,
+                127,
+                39,
+                53
+            ],
+            "answer": "Racecar",
+            "hint": "Palindromic pit sight (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                48,
+                111,
+                142,
+                25,
+                93,
+                168,
+                129,
+                75
+            ],
+            "answer": "Slothful",
+            "hint": "Guilty of a deadly sin"
+        },
+        "I": {
+            "cells": [
+                134,
+                9,
+                149,
+                58,
+                177,
+                35
+            ],
+            "answer": "Belief",
+            "hint": "\u201cYour ____ will help create the fact\u201d (William James)"
+        },
+        "J": {
+            "cells": [
+                61,
+                110,
+                148,
+                17,
+                34,
+                164
+            ],
+            "answer": "Reboot",
+            "hint": "Fresh start for a film franchise"
+        },
+        "K": {
+            "cells": [
+                163,
+                76,
+                63,
+                114,
+                140,
+                18
+            ],
+            "answer": "\"Alison\"",
+            "hint": "Elvis Costello song with the line \u201cMy aim is true\u201d"
+        },
+        "L": {
+            "cells": [
+                169,
+                8,
+                158,
+                95,
+                74,
+                117,
+                31,
+                144
+            ],
+            "answer": "Inflated",
+            "hint": "Given more importance than is warranted"
+        },
+        "M": {
+            "cells": [
+                166,
+                16,
+                36,
+                78,
+                115,
+                99,
+                146
+            ],
+            "answer": "Nothing",
+            "hint": "What Cordelia offers King Lear in Act I, Scene I"
+        },
+        "N": {
+            "cells": [
+                40,
+                107,
+                120,
+                165,
+                64,
+                2,
+                89
+            ],
+            "answer": "Deficit",
+            "hint": "Amount by which a team is behind in the score"
+        },
+        "O": {
+            "cells": [
+                41,
+                126,
+                52,
+                6,
+                23,
+                147,
+                101
+            ],
+            "answer": "English",
+            "hint": "Spin imparted by sporting types"
+        },
+        "P": {
+            "cells": [
+                55,
+                178,
+                37,
+                119,
+                141
+            ],
+            "answer": "Aries",
+            "hint": "Sign for April Fools\u2019 Day"
+        },
+        "Q": {
+            "cells": [
+                133,
+                171,
+                22,
+                49,
+                73,
+                150
+            ],
+            "answer": "De Soto",
+            "hint": "First European known to have crossed the Mississippi River (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                108,
+                33,
+                84,
+                68,
+                123,
+                173,
+                54
+            ],
+            "answer": "Mystery",
+            "hint": "Matter beyond our grasp"
+        },
+        "S": {
+            "cells": [
+                132,
+                153,
+                42,
+                83,
+                104,
+                56
+            ],
+            "answer": "Ensign",
+            "hint": "Military standard"
+        },
+        "T": {
+            "cells": [
+                167,
+                13,
+                62,
+                139,
+                92,
+                121,
+                80
+            ],
+            "answer": "Gateway",
+            "hint": "Entry point"
+        },
+        "U": {
+            "cells": [
+                72,
+                15,
+                109,
+                125,
+                50,
+                154,
+                90
+            ],
+            "answer": "Assuage",
+            "hint": "Put an end to by satisfying"
+        },
+        "V": {
+            "cells": [
+                124,
+                29,
+                103,
+                172,
+                71,
+                4,
+                152,
+                88
+            ],
+            "answer": "Pinch-hit",
+            "hint": "Do a substitute\u2019s job (hyph.)"
+        },
+        "W": {
+            "cells": [
+                118,
+                7,
+                156,
+                47,
+                20,
+                131,
+                94,
+                179,
+                70
+            ],
+            "answer": "Hypnotist",
+            "hint": "Under taker?"
+        },
+        "X": {
+            "cells": [
+                145,
+                112,
+                79,
+                38,
+                130,
+                175,
+                159
+            ],
+            "answer": "Overact",
+            "hint": "Exaggerate in performance"
+        },
+        "Y": {
+            "cells": [
+                51,
+                87,
+                66,
+                32,
+                102,
+                143,
+                14
+            ],
+            "answer": "Nullify",
+            "hint": "Invalidate"
+        },
+        "Z": {
+            "cells": [
+                26,
+                59,
+                100,
+                170,
+                44,
+                86,
+                128
+            ],
+            "answer": "Encrypt",
+            "hint": "Render secret from unfriendly eyes"
+        }
+    }
+}

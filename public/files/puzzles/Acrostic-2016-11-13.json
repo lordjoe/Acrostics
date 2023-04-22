@@ -1,0 +1,351 @@
+{
+    "answer": "Many birds open nuts and eggs. The vampire finch of the Galapagos breaks the large eggs of boobies by bracing its beak on the ground and booting the egg with both feet to crack it against rocks or roll it over a cliff.",
+    "author": "Jennifer Ackerman,",
+    "authorCell": [
+        95,
+        141,
+        155,
+        68,
+        139,
+        1,
+        145,
+        116,
+        42,
+        26,
+        56,
+        45,
+        133,
+        149,
+        90,
+        15,
+        17,
+        10,
+        132,
+        83,
+        143,
+        7,
+        8,
+        80
+    ],
+    "source": "The Genius of Birds",
+    "clues": {
+        "A": {
+            "cells": [
+                95,
+                166,
+                153,
+                70,
+                140,
+                20,
+                33,
+                52
+            ],
+            "answer": "Avogadro",
+            "hint": "Chemist\u2019s name attached to a law and a constant"
+        },
+        "B": {
+            "cells": [
+                141,
+                100,
+                171,
+                113,
+                55,
+                87,
+                19,
+                34
+            ],
+            "answer": "Chlorine",
+            "hint": "Swimming pool scent"
+        },
+        "C": {
+            "cells": [
+                155,
+                12,
+                31,
+                118,
+                74,
+                46,
+                138,
+                96
+            ],
+            "answer": "Kept back",
+            "hint": "Restrained; held in reserve (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                68,
+                89,
+                103,
+                44,
+                151
+            ],
+            "answer": "Egret",
+            "hint": "White denizen of the Everglades"
+        },
+        "E": {
+            "cells": [
+                139,
+                27,
+                110,
+                174,
+                162,
+                48,
+                66
+            ],
+            "answer": "Red flag",
+            "hint": "Warning not to be taken lightly (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                1,
+                125,
+                37,
+                105,
+                62,
+                164
+            ],
+            "answer": "Minuet",
+            "hint": "Dance popular at the court of King Louis XIV"
+        },
+        "G": {
+            "cells": [
+                145,
+                5,
+                77,
+                165,
+                25
+            ],
+            "answer": "Abbot",
+            "hint": "Monastery V.I.P."
+        },
+        "H": {
+            "cells": [
+                116,
+                148,
+                30,
+                81,
+                47,
+                134
+            ],
+            "answer": "Nimble",
+            "hint": "Quick and sure, deft"
+        },
+        "I": {
+            "cells": [
+                42,
+                108,
+                93,
+                29,
+                9,
+                154,
+                75
+            ],
+            "answer": "Tabasco",
+            "hint": "Mexican state bordering Guatemala"
+        },
+        "J": {
+            "cells": [
+                26,
+                40,
+                136,
+                59,
+                11,
+                168,
+                78,
+                106,
+                122
+            ],
+            "answer": "Hot spring",
+            "hint": "Balneotherapy site (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                56,
+                18,
+                99,
+                38,
+                84,
+                160,
+                124
+            ],
+            "answer": "Eat crow",
+            "hint": "Do the opposite of gloat (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                45,
+                85,
+                63,
+                2,
+                170,
+                16,
+                104,
+                156,
+                121
+            ],
+            "answer": "Galactose",
+            "hint": "Sugar found in dairy products"
+        },
+        "M": {
+            "cells": [
+                133,
+                3,
+                117,
+                64,
+                146,
+                101
+            ],
+            "answer": "Engage",
+            "hint": "Bring on board; lock horns with"
+        },
+        "N": {
+            "cells": [
+                149,
+                172,
+                51,
+                39,
+                91,
+                24,
+                119,
+                6,
+                73,
+                135
+            ],
+            "answer": "\"Night Shift\"",
+            "hint": "1978 anthology of Stephen King stories (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                90,
+                14,
+                28,
+                167,
+                71,
+                114,
+                129,
+                152
+            ],
+            "answer": "Investor",
+            "hint": "Gambler of sorts, what an angel might be"
+        },
+        "P": {
+            "cells": [
+                15,
+                98,
+                111,
+                161,
+                72,
+                86,
+                58
+            ],
+            "answer": "Unblock",
+            "hint": "Clear out, free up, restore access to"
+        },
+        "Q": {
+            "cells": [
+                17,
+                76,
+                49,
+                127,
+                32,
+                92,
+                144,
+                159,
+                4
+            ],
+            "answer": "Sophistry",
+            "hint": "Reasoning that sounds plausible but is flawed"
+        },
+        "R": {
+            "cells": [
+                10,
+                173,
+                41,
+                150,
+                131,
+                97,
+                65,
+                79
+            ],
+            "answer": "Offshore",
+            "hint": "Where banks may be found to provide shelter"
+        },
+        "S": {
+            "cells": [
+                132,
+                158,
+                94,
+                115,
+                23,
+                43,
+                60
+            ],
+            "answer": "Freight",
+            "hint": "Wares on the move"
+        },
+        "T": {
+            "cells": [
+                83,
+                57,
+                107,
+                36,
+                13,
+                147,
+                69,
+                120
+            ],
+            "answer": "Badinage",
+            "hint": "Playful exchange of pleasantries"
+        },
+        "U": {
+            "cells": [
+                143,
+                128,
+                53,
+                67,
+                88
+            ],
+            "answer": "Ibsen",
+            "hint": "Author of \u201cThe Wild Duck\u201d"
+        },
+        "V": {
+            "cells": [
+                7,
+                50,
+                126,
+                35,
+                163,
+                109,
+                142
+            ],
+            "answer": "Rat Fink",
+            "hint": "Informer, snitch"
+        },
+        "W": {
+            "cells": [
+                8,
+                137,
+                123,
+                102,
+                82,
+                54,
+                169,
+                22
+            ],
+            "answer": "Doggy bag",
+            "hint": "Request usually frowned upon by French chefs (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                80,
+                112,
+                157,
+                130,
+                61,
+                21
+            ],
+            "answer": "Soothe",
+            "hint": "Cool, calm, quiet"
+        }
+    }
+}

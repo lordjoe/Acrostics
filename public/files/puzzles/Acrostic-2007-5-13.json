@@ -1,0 +1,355 @@
+{
+    "answer": "After the female Japanese carp gives birth to hundreds of tiny babies, the father carp remains nearby. When he senses approaching danger, he sucks the... babies into his mouth, and holds them there until the coast is clear.",
+    "author": "D(inty). W. Moore,",
+    "authorCell": [
+        42,
+        85,
+        153,
+        133,
+        138,
+        25,
+        158,
+        94,
+        146,
+        131,
+        168,
+        2,
+        137,
+        70,
+        107,
+        100,
+        30,
+        90,
+        93,
+        15,
+        87,
+        177,
+        110,
+        170
+    ],
+    "source": "Son Of Mr. Green Jeans",
+    "clues": {
+        "A": {
+            "cells": [
+                42,
+                97,
+                117,
+                27,
+                145,
+                171,
+                10,
+                67
+            ],
+            "answer": "Daughter",
+            "hint": "Hel, to Loki, or Gaea, to Chaos"
+        },
+        "B": {
+            "cells": [
+                85,
+                39,
+                28,
+                129,
+                161,
+                175,
+                57,
+                113
+            ],
+            "answer": "Whistler",
+            "hint": "Painter in 1871 of a revered progenitor"
+        },
+        "C": {
+            "cells": [
+                153,
+                102,
+                121,
+                50,
+                21,
+                173,
+                66
+            ],
+            "answer": "Matisse",
+            "hint": "Painter in 1950 of \u201cBeasts of the Sea\u201d"
+        },
+        "D": {
+            "cells": [
+                133,
+                29,
+                56,
+                149,
+                69,
+                103
+            ],
+            "answer": "Ovisac",
+            "hint": "Egg-containing capsule, as an ootheca"
+        },
+        "E": {
+            "cells": [
+                138,
+                9,
+                62,
+                46,
+                26,
+                157,
+                172,
+                77,
+                111
+            ],
+            "answer": "Offspring",
+            "hint": "One\u2019s immediate descendants"
+        },
+        "F": {
+            "cells": [
+                25,
+                142,
+                83,
+                124,
+                162,
+                64
+            ],
+            "answer": "Rabbit",
+            "hint": "Exemplar of fertility"
+        },
+        "G": {
+            "cells": [
+                158,
+                6,
+                114,
+                143,
+                101,
+                78
+            ],
+            "answer": "Ethnos",
+            "hint": "Group of people with a common race or culture"
+        },
+        "H": {
+            "cells": [
+                94,
+                156,
+                63,
+                36,
+                47,
+                5,
+                116,
+                176
+            ],
+            "answer": "Seahorse",
+            "hint": "Marine creature of which the male becomes pregnant (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                146,
+                34,
+                17,
+                165,
+                1,
+                79,
+                95,
+                108
+            ],
+            "answer": "Orphaned",
+            "hint": "Deprived of key guardians"
+        },
+        "J": {
+            "cells": [
+                131,
+                52,
+                74,
+                99,
+                86,
+                152,
+                3
+            ],
+            "answer": "Nymphet",
+            "hint": "Arouser of a Nabokovian sort"
+        },
+        "K": {
+            "cells": [
+                168,
+                22,
+                148,
+                127,
+                71,
+                40,
+                96
+            ],
+            "answer": "Oedipus",
+            "hint": "King with a matrilineal problem"
+        },
+        "L": {
+            "cells": [
+                2,
+                72,
+                112,
+                136,
+                122,
+                11,
+                61,
+                160
+            ],
+            "answer": "Freshmen",
+            "hint": "New members of schools"
+        },
+        "M": {
+            "cells": [
+                137,
+                125,
+                23,
+                53,
+                4,
+                37,
+                104
+            ],
+            "answer": "Macbeth",
+            "hint": "Title king with a \u201cfiend-like queen\u201d"
+        },
+        "N": {
+            "cells": [
+                70,
+                159,
+                49,
+                89
+            ],
+            "answer": "Ruth",
+            "hint": "Wife of Boaz and ancestor of David"
+        },
+        "O": {
+            "cells": [
+                107,
+                8,
+                19,
+                73,
+                59,
+                135,
+                118,
+                33,
+                91,
+                164
+            ],
+            "answer": "Geneticist",
+            "hint": "Student of DNA and heredity"
+        },
+        "P": {
+            "cells": [
+                100,
+                16,
+                167,
+                44,
+                140,
+                82,
+                54,
+                68,
+                119
+            ],
+            "answer": "Racetrack",
+            "hint": "Place to see a mudder and fodder?"
+        },
+        "Q": {
+            "cells": [
+                30,
+                169,
+                43,
+                13,
+                141,
+                76,
+                106,
+                128,
+                58
+            ],
+            "answer": "Earl Hines",
+            "hint": "Jazz pianist called \u201cFatha\u201d (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                90,
+                174,
+                7,
+                130,
+                144,
+                41,
+                109
+            ],
+            "answer": "Echidna",
+            "hint": "Egg-laying mammal of Australia"
+        },
+        "S": {
+            "cells": [
+                93,
+                166,
+                38,
+                51,
+                75,
+                150,
+                20
+            ],
+            "answer": "Neonate",
+            "hint": "Newborn in its first 28 days"
+        },
+        "T": {
+            "cells": [
+                15,
+                123,
+                147,
+                163,
+                84,
+                48,
+                105,
+                31,
+                65
+            ],
+            "answer": "Jellyfish",
+            "hint": "Medusa"
+        },
+        "U": {
+            "cells": [
+                87,
+                98,
+                60,
+                14,
+                32,
+                139,
+                120
+            ],
+            "answer": "Ephebus",
+            "hint": "In old Greece, a youth entering manhood"
+        },
+        "V": {
+            "cells": [
+                177,
+                154,
+                134,
+                115,
+                88,
+                24
+            ],
+            "answer": "Athena",
+            "hint": "Deity born fully grown from Zeus\u2019 head"
+        },
+        "W": {
+            "cells": [
+                110,
+                80,
+                18,
+                132,
+                155,
+                92,
+                178,
+                45
+            ],
+            "answer": "Neatherd",
+            "hint": "Caretaker for beasts in a field"
+        },
+        "X": {
+            "cells": [
+                170,
+                81,
+                126,
+                55,
+                12,
+                35,
+                151
+            ],
+            "answer": "Sabbath",
+            "hint": "Time to stop working"
+        }
+    }
+}

@@ -1,0 +1,358 @@
+{
+    "answer": "[I]t is possible to... understand things at certain points, and... to be in utter confusion just a short while later. ... [S]ometimes what you knew... goes out with a bang... just like a lightbulb cracking off when you throw the switch.",
+    "author": "Ann Pratchett,",
+    "authorCell": [
+        46,
+        68,
+        43,
+        5,
+        31,
+        138,
+        143,
+        137,
+        156,
+        56,
+        21,
+        2,
+        35,
+        104,
+        44,
+        174,
+        37,
+        47,
+        24,
+        51,
+        87,
+        22,
+        160,
+        78,
+        102
+    ],
+    "source": "Truth and Beauty",
+    "clues": {
+        "A": {
+            "cells": [
+                46,
+                33,
+                144,
+                110,
+                62,
+                158,
+                91,
+                7
+            ],
+            "answer": "Acronyms",
+            "hint": "Unesco and others"
+        },
+        "B": {
+            "cells": [
+                68,
+                90,
+                142,
+                168,
+                11,
+                27,
+                112,
+                49
+            ],
+            "answer": "Nobelist",
+            "hint": "Winner of a prestigious prize"
+        },
+        "C": {
+            "cells": [
+                43,
+                96,
+                79,
+                161,
+                61,
+                123
+            ],
+            "answer": "Newton",
+            "hint": "Formulator of F = ma"
+        },
+        "D": {
+            "cells": [
+                5,
+                130,
+                101,
+                72
+            ],
+            "answer": "Pitt",
+            "hint": "The Panthers of the N.C.A.A."
+        },
+        "E": {
+            "cells": [
+                31,
+                89,
+                45,
+                133,
+                4,
+                65,
+                117,
+                16,
+                169
+            ],
+            "answer": "\"Assassins\"",
+            "hint": "Stephen Sondheim musical including \u201cGun Song\u201d"
+        },
+        "F": {
+            "cells": [
+                138,
+                170,
+                14,
+                153,
+                85,
+                60,
+                34
+            ],
+            "answer": "Two-Face",
+            "hint": "Batman adversary born Harvey Dent (hyph.)"
+        },
+        "G": {
+            "cells": [
+                143,
+                50,
+                108,
+                88,
+                159,
+                32,
+                12
+            ],
+            "answer": "Co-wrote",
+            "hint": "Penned together (hyph.)"
+        },
+        "H": {
+            "cells": [
+                137,
+                1,
+                106,
+                48,
+                20,
+                81,
+                124,
+                167,
+                36
+            ],
+            "answer": "Hindsight",
+            "hint": "Vantage point that may provide clarity?"
+        },
+        "I": {
+            "cells": [
+                156,
+                141,
+                38,
+                13,
+                58
+            ],
+            "answer": "Elite",
+            "hint": "Select few"
+        },
+        "J": {
+            "cells": [
+                56,
+                9,
+                173,
+                147,
+                129,
+                94,
+                30,
+                75
+            ],
+            "answer": "Ticklish",
+            "hint": "Delicate, as a situation"
+        },
+        "K": {
+            "cells": [
+                21,
+                162,
+                41,
+                55,
+                136,
+                99,
+                118,
+                74
+            ],
+            "answer": "Thoughts",
+            "hint": "Transmissions of a telepath"
+        },
+        "L": {
+            "cells": [
+                2,
+                155,
+                111,
+                128,
+                98,
+                42,
+                71,
+                172
+            ],
+            "answer": "\"The Twist\"",
+            "hint": "Song tied to a 1960s dance craze (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                35,
+                107,
+                17,
+                63,
+                82,
+                122,
+                150
+            ],
+            "answer": "Red flag",
+            "hint": "Danger sign (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                104,
+                40,
+                57,
+                6,
+                154,
+                23
+            ],
+            "answer": "Uptown",
+            "hint": "Associated with high-toned areas"
+        },
+        "O": {
+            "cells": [
+                44,
+                126,
+                66,
+                86,
+                148,
+                103,
+                28
+            ],
+            "answer": "Tuition",
+            "hint": "Cost concern for many parents"
+        },
+        "P": {
+            "cells": [
+                174,
+                151,
+                95,
+                52,
+                116,
+                76,
+                19,
+                131
+            ],
+            "answer": "Homework",
+            "hint": "Dog\u2019s snack, per a classic alibi"
+        },
+        "Q": {
+            "cells": [
+                37,
+                146,
+                70,
+                166,
+                92
+            ],
+            "answer": "Acute",
+            "hint": "Less than right?"
+        },
+        "R": {
+            "cells": [
+                47,
+                67,
+                163,
+                100,
+                26,
+                125,
+                113,
+                149,
+                83,
+                8
+            ],
+            "answer": "Norah Jones",
+            "hint": "Singer of the 2002 hit \u201cDon\u2019t Know Why\u201d (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                24,
+                59,
+                145,
+                165,
+                73,
+                10,
+                84,
+                120,
+                39,
+                105
+            ],
+            "answer": "Draw a blank",
+            "hint": "Fail to remember (3 wds.)"
+        },
+        "T": {
+            "cells": [
+                51,
+                18,
+                3,
+                69,
+                135,
+                157,
+                109
+            ],
+            "answer": "Beijing",
+            "hint": "Host city of the 2008 Olympics"
+        },
+        "U": {
+            "cells": [
+                87,
+                139,
+                121,
+                171,
+                54,
+                29
+            ],
+            "answer": "Ebbing",
+            "hint": "On the way out"
+        },
+        "V": {
+            "cells": [
+                22,
+                127,
+                93,
+                53
+            ],
+            "answer": "Asti",
+            "hint": "Spot of wine?"
+        },
+        "W": {
+            "cells": [
+                160,
+                97,
+                119,
+                132,
+                77
+            ],
+            "answer": "Usher",
+            "hint": "Roderick and Madeline\u2019s house, in an 1839 tale"
+        },
+        "X": {
+            "cells": [
+                78,
+                15,
+                115,
+                140
+            ],
+            "answer": "Tutu",
+            "hint": "Attire for a hippo in \u201cFantasia\u201d"
+        },
+        "Y": {
+            "cells": [
+                102,
+                164,
+                64,
+                25,
+                80,
+                152,
+                114,
+                134
+            ],
+            "answer": "Youthful",
+            "hint": "Fresh; green or not yet mature"
+        }
+    }
+}

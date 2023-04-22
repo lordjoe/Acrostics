@@ -61,16 +61,6 @@ function AuthorTitleCell(props: PuzzleCellHolder, focused: boolean,active: boole
     const  [guess  ,setState] = useState<string>(cell.getGuess());
     // eslint-disable-next-line
     let gs: GameState = PersistentObject.getInstance().getGameState();
-    gs.registerChangeListener(cell.index,redraw);
-
-     function redraw() {
-        setState(cell.getGuess());
-       }
-
-
-
-
-
 
 
     function setActiveCell() : void {

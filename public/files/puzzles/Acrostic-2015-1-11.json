@@ -1,0 +1,348 @@
+{
+    "answer": "I have never even idly thought for a single passing second that it might make my life nicer to have a small rude incontinent person follow me around screaming and making me buy them stuff for the rest of my life.",
+    "author": "Tim Kreider,",
+    "authorCell": [
+        96,
+        15,
+        114,
+        62,
+        87,
+        147,
+        128,
+        133,
+        161,
+        156,
+        113,
+        44,
+        66,
+        115,
+        3,
+        104,
+        41,
+        129,
+        27,
+        59,
+        50,
+        91,
+        92,
+        130
+    ],
+    "source": "We Learn Nothing",
+    "clues": {
+        "A": {
+            "cells": [
+                96,
+                126,
+                32,
+                150,
+                71,
+                8,
+                167
+            ],
+            "answer": "Tantivy",
+            "hint": "At a full gallop, as in an English fox hunt"
+        },
+        "B": {
+            "cells": [
+                15,
+                55,
+                36,
+                90,
+                117,
+                170,
+                103,
+                72,
+                157
+            ],
+            "answer": "Imperfect",
+            "hint": "\u201cWas feeling\u201d tense"
+        },
+        "C": {
+            "cells": [
+                114,
+                81,
+                166,
+                134,
+                21,
+                47
+            ],
+            "answer": "Mammon",
+            "hint": "Material wealth, riches"
+        },
+        "D": {
+            "cells": [
+                62,
+                40,
+                6,
+                82,
+                24,
+                137,
+                102
+            ],
+            "answer": "Kinship",
+            "hint": "Affinity; family tie"
+        },
+        "E": {
+            "cells": [
+                87,
+                141,
+                34,
+                169,
+                105,
+                58
+            ],
+            "answer": "Relish",
+            "hint": "Strong liking; adder of zest"
+        },
+        "F": {
+            "cells": [
+                147,
+                54,
+                31,
+                13,
+                98,
+                120,
+                73
+            ],
+            "answer": "Etienne",
+            "hint": "Guillaume : William :: ___ : Stephen"
+        },
+        "G": {
+            "cells": [
+                128,
+                64,
+                148,
+                106,
+                89,
+                5,
+                43,
+                163
+            ],
+            "answer": "Immodest",
+            "hint": "Bold; showing too much skin"
+        },
+        "H": {
+            "cells": [
+                133,
+                155,
+                46,
+                28,
+                60,
+                116,
+                75
+            ],
+            "answer": "Doormat",
+            "hint": "Stepped-all-over type"
+        },
+        "I": {
+            "cells": [
+                161,
+                14,
+                93,
+                74,
+                109,
+                131,
+                45,
+                146
+            ],
+            "answer": "Encroach",
+            "hint": "Trespass via gradual inroads"
+        },
+        "J": {
+            "cells": [
+                156,
+                22,
+                39,
+                77,
+                97,
+                138,
+                57
+            ],
+            "answer": "Rushing",
+            "hint": "Stat category for an N.F.L. player"
+        },
+        "K": {
+            "cells": [
+                113,
+                61,
+                30,
+                49,
+                171,
+                152,
+                88,
+                17
+            ],
+            "answer": "Wasteful",
+            "hint": "Thriftless, pound-foolish"
+        },
+        "L": {
+            "cells": [
+                44,
+                70,
+                123,
+                111,
+                84,
+                4,
+                99
+            ],
+            "answer": "Enclave",
+            "hint": "Country within a country"
+        },
+        "M": {
+            "cells": [
+                66,
+                29,
+                127,
+                142,
+                11,
+                95,
+                52
+            ],
+            "answer": "Lambent",
+            "hint": "Glowing with a soft radiance"
+        },
+        "N": {
+            "cells": [
+                115,
+                100,
+                140,
+                51,
+                38,
+                162,
+                9
+            ],
+            "answer": "En masse",
+            "hint": "How a mob may move (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                3,
+                101,
+                153,
+                135,
+                119,
+                86,
+                25
+            ],
+            "answer": "At fault",
+            "hint": "In the wrong (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                104,
+                63,
+                79,
+                164,
+                136,
+                125
+            ],
+            "answer": "Revoke",
+            "hint": "Invalidate, cancel, annul"
+        },
+        "Q": {
+            "cells": [
+                41,
+                67,
+                165,
+                19,
+                144
+            ],
+            "answer": "Nifty",
+            "hint": "Swell, bang-up, awesome, fab"
+        },
+        "R": {
+            "cells": [
+                129,
+                112,
+                26,
+                10,
+                56,
+                168,
+                85,
+                149
+            ],
+            "answer": "No-frills",
+            "hint": "Without the bells and whistles (hyph.)"
+        },
+        "S": {
+            "cells": [
+                27,
+                12,
+                69,
+                124,
+                154,
+                80,
+                48
+            ],
+            "answer": "Overfed",
+            "hint": "Like many people after Thanksgiving dinner"
+        },
+        "T": {
+            "cells": [
+                59,
+                2,
+                118,
+                160,
+                76,
+                143,
+                42,
+                20
+            ],
+            "answer": "Thorough",
+            "hint": "Leaving no stone unturned"
+        },
+        "U": {
+            "cells": [
+                50,
+                94,
+                151,
+                122,
+                35,
+                68,
+                110,
+                18
+            ],
+            "answer": "Housefly",
+            "hint": "What Merriam-Webster calls a \u201ccosmopolitan dipteran\u201d"
+        },
+        "V": {
+            "cells": [
+                91,
+                16,
+                159,
+                132,
+                145,
+                53,
+                108,
+                65
+            ],
+            "answer": "Identify",
+            "hint": "Finger"
+        },
+        "W": {
+            "cells": [
+                92,
+                78,
+                139,
+                33,
+                7,
+                121
+            ],
+            "answer": "Nagged",
+            "hint": "Vexed with repeated questions"
+        },
+        "X": {
+            "cells": [
+                130,
+                1,
+                107,
+                23,
+                158,
+                37,
+                83
+            ],
+            "answer": "Gingham",
+            "hint": "Material often checked"
+        }
+    }
+}

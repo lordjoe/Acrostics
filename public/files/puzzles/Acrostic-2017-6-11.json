@@ -1,0 +1,361 @@
+{
+    "answer": "\u201cCave canem... means \"Beware of the dog.\u201d I think it was a not entirely facetious suggestion that this... meant beware... in the sense of \u201c... be careful not to trip over him because he\u2019s not going to get up and move out of your way.\u201d",
+    "author": "(Stephen) Budiansky,",
+    "authorCell": [
+        15,
+        131,
+        154,
+        57,
+        152,
+        143,
+        14,
+        34,
+        164,
+        161,
+        93,
+        85,
+        113,
+        106,
+        150,
+        56,
+        24,
+        2,
+        102,
+        138,
+        166,
+        23,
+        26,
+        159,
+        144,
+        95
+    ],
+    "source": "The Truth About Dogs",
+    "clues": {
+        "A": {
+            "cells": [
+                15,
+                142,
+                64,
+                101,
+                156,
+                42,
+                83
+            ],
+            "answer": "Bigfoot",
+            "hint": "Cryptid in numerous folk tales"
+        },
+        "B": {
+            "cells": [
+                131,
+                7,
+                47,
+                157,
+                73,
+                104
+            ],
+            "answer": "UNIVAC",
+            "hint": "Computer that correctly predicted Ike\u2019s 1952 win"
+        },
+        "C": {
+            "cells": [
+                154,
+                135,
+                52,
+                90,
+                18,
+                111,
+                75
+            ],
+            "answer": "Defiant",
+            "hint": "Boldly resisting or ignoring someone"
+        },
+        "D": {
+            "cells": [
+                57,
+                120,
+                82,
+                20,
+                39,
+                1,
+                100
+            ],
+            "answer": "Ionesco",
+            "hint": "\u201cRhinoceros\u201d playwright, 1959"
+        },
+        "E": {
+            "cells": [
+                152,
+                63,
+                37,
+                81,
+                170
+            ],
+            "answer": "Agway",
+            "hint": "Retailer of livestock feed and farm supplies"
+        },
+        "F": {
+            "cells": [
+                143,
+                12,
+                74,
+                92,
+                128,
+                48
+            ],
+            "answer": "Natter",
+            "hint": "Show symptoms of logorrhea"
+        },
+        "G": {
+            "cells": [
+                14,
+                149,
+                38,
+                118,
+                88,
+                54,
+                169,
+                132,
+                103
+            ],
+            "answer": "Staircase",
+            "hint": "Series of flights and landings"
+        },
+        "H": {
+            "cells": [
+                34,
+                3,
+                49,
+                145,
+                129,
+                72
+            ],
+            "answer": "Kvetch",
+            "hint": "Beef in a kosher deli?"
+        },
+        "I": {
+            "cells": [
+                164,
+                11,
+                69,
+                126,
+                107,
+                41
+            ],
+            "answer": "Yeomen",
+            "hint": "Beefeaters and such"
+        },
+        "J": {
+            "cells": [
+                161,
+                130,
+                5,
+                29,
+                114,
+                62,
+                98
+            ],
+            "answer": "Tacitus",
+            "hint": "Historian and orator whose name is Latin for \u201csilent\u201d"
+        },
+        "K": {
+            "cells": [
+                93,
+                105,
+                79,
+                127,
+                146,
+                45,
+                16
+            ],
+            "answer": "Hambone",
+            "hint": "Use of one\u2019s own body as a drum set"
+        },
+        "L": {
+            "cells": [
+                85,
+                70,
+                121,
+                162,
+                140,
+                109,
+                25
+            ],
+            "answer": "En Vogue",
+            "hint": "Fashionable, chic (Fr., 2 wds.)"
+        },
+        "M": {
+            "cells": [
+                113,
+                19,
+                80,
+                53,
+                36,
+                136
+            ],
+            "answer": "Treats",
+            "hint": "Ice cream, cake, candy, etc."
+        },
+        "N": {
+            "cells": [
+                106,
+                40,
+                125,
+                153,
+                84,
+                58,
+                168
+            ],
+            "answer": "Rainbow",
+            "hint": "Word before trout, flag or ice cream"
+        },
+        "O": {
+            "cells": [
+                150,
+                13,
+                163,
+                77,
+                46
+            ],
+            "answer": "Unfit",
+            "hint": "Lacking what it takes"
+        },
+        "P": {
+            "cells": [
+                56,
+                117,
+                141,
+                160,
+                28,
+                76
+            ],
+            "answer": "Trough",
+            "hint": "Low part of a sine wave"
+        },
+        "Q": {
+            "cells": [
+                24,
+                96,
+                155,
+                6,
+                116,
+                68,
+                43,
+                133
+            ],
+            "answer": "Hematite",
+            "hint": "Main ore of iron"
+        },
+        "R": {
+            "cells": [
+                2,
+                123,
+                147,
+                27,
+                61
+            ],
+            "answer": "Argos",
+            "hint": "Odysseus\u2019 \u201cbest friend\u201d"
+        },
+        "S": {
+            "cells": [
+                102,
+                122,
+                137,
+                158,
+                87,
+                67,
+                31
+            ],
+            "answer": "Beneath",
+            "hint": "Inferior to, not worthy of"
+        },
+        "T": {
+            "cells": [
+                138,
+                17,
+                99,
+                33,
+                66
+            ],
+            "answer": "Owens",
+            "hint": "Subject of the 2016 biopic \u201cRace\u201d"
+        },
+        "U": {
+            "cells": [
+                166,
+                10,
+                119,
+                30,
+                65,
+                44,
+                97
+            ],
+            "answer": "Umpteen",
+            "hint": "Gobs of, countless"
+        },
+        "V": {
+            "cells": [
+                23,
+                112,
+                86,
+                134,
+                4,
+                55
+            ],
+            "answer": "Towhee",
+            "hint": "Bird with reddish sides that\u2019s also called a chewink"
+        },
+        "W": {
+            "cells": [
+                26,
+                94,
+                151,
+                110,
+                165,
+                51
+            ],
+            "answer": "Deploy",
+            "hint": "Enter a theater with a group"
+        },
+        "X": {
+            "cells": [
+                159,
+                22,
+                108,
+                60,
+                89,
+                139
+            ],
+            "answer": "Offset",
+            "hint": "Counterbalance; certain printing process"
+        },
+        "Y": {
+            "cells": [
+                144,
+                35,
+                91,
+                115,
+                167,
+                9,
+                21,
+                59,
+                78
+            ],
+            "answer": "Ginormous",
+            "hint": "Titanic, jumbo, mammoth"
+        },
+        "Z": {
+            "cells": [
+                95,
+                124,
+                148,
+                50,
+                71,
+                32,
+                8
+            ],
+            "answer": "Sheltie",
+            "hint": "Collielike pooch"
+        }
+    }
+}

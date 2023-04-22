@@ -1,0 +1,344 @@
+{
+    "answer": "Samuel Spade\u2019s jaw was long and bony, his chin a jutting V under the more flexible V of his mouth. ... His pale... hair grew down from high flat temples in a point on his forehead. He looked rather pleasantly like a blond satan.",
+    "author": "(Dashiell) Hammett,",
+    "authorCell": [
+        125,
+        173,
+        54,
+        3,
+        60,
+        108,
+        51,
+        107,
+        30,
+        109,
+        99,
+        171,
+        138,
+        172,
+        163,
+        154,
+        57,
+        128,
+        2,
+        82,
+        33,
+        129,
+        121
+    ],
+    "source": "The Maltese Falcon",
+    "clues": {
+        "A": {
+            "cells": [
+                125,
+                5,
+                64,
+                166,
+                72,
+                106,
+                28
+            ],
+            "answer": "Hellman",
+            "hint": "Author of the play \u201cWatch on the Rhine\u201d"
+        },
+        "B": {
+            "cells": [
+                173,
+                7,
+                111,
+                34,
+                73,
+                143,
+                90,
+                158
+            ],
+            "answer": "Asphodel",
+            "hint": "Flower sacred to Persephone"
+        },
+        "C": {
+            "cells": [
+                54,
+                140,
+                24,
+                115,
+                162,
+                11,
+                130
+            ],
+            "answer": "Moniker",
+            "hint": "Nickname, alias"
+        },
+        "D": {
+            "cells": [
+                3,
+                37,
+                132,
+                17,
+                87,
+                120,
+                170,
+                147,
+                101
+            ],
+            "answer": "Maharishi",
+            "hint": "Teacher of spiritual and mystical lore"
+        },
+        "E": {
+            "cells": [
+                60,
+                161,
+                44,
+                76,
+                146,
+                26,
+                134,
+                112,
+                6
+            ],
+            "answer": "Eight ball",
+            "hint": "Game with a critical final stroke (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                108,
+                16,
+                98,
+                68,
+                123,
+                160,
+                48
+            ],
+            "answer": "Twofold",
+            "hint": "Double"
+        },
+        "G": {
+            "cells": [
+                51,
+                84,
+                142,
+                32,
+                157,
+                126,
+                174,
+                22
+            ],
+            "answer": "\u201cThe Sting\u201d",
+            "hint": "George Roy Hill\u2019s movie about a con (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                107,
+                136,
+                89,
+                53,
+                164,
+                40
+            ],
+            "answer": "Threat",
+            "hint": "Words with menace behind them"
+        },
+        "I": {
+            "cells": [
+                30,
+                148,
+                61,
+                1,
+                86,
+                102,
+                47,
+                18
+            ],
+            "answer": "Hex signs",
+            "hint": "Paintings meant to ward off evil (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                109,
+                151,
+                141,
+                52,
+                20,
+                74,
+                168,
+                10
+            ],
+            "answer": "Elkhound",
+            "hint": "Game-hunting dog originally from Norway"
+        },
+        "K": {
+            "cells": [
+                99,
+                85,
+                156,
+                23,
+                116,
+                9
+            ],
+            "answer": "\u201cMañana\u201d",
+            "hint": "Forward-looking song written and sung by Peggy Lee"
+        },
+        "L": {
+            "cells": [
+                171,
+                150,
+                77,
+                113,
+                59,
+                35,
+                93,
+                21
+            ],
+            "answer": "Aphelion",
+            "hint": "Orbital point farthest from the sun"
+        },
+        "M": {
+            "cells": [
+                138,
+                119,
+                94,
+                63,
+                105,
+                27,
+                15
+            ],
+            "answer": "Low blow",
+            "hint": "Unwarranted shot (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                172,
+                100,
+                49,
+                127,
+                80,
+                31,
+                71
+            ],
+            "answer": "Thespis",
+            "hint": "Attic poet called the father of Greek tragedy"
+        },
+        "O": {
+            "cells": [
+                163,
+                118,
+                70,
+                41,
+                81,
+                8,
+                103
+            ],
+            "answer": "Epitaph",
+            "hint": "Tribute to one who\u2019s gone"
+        },
+        "P": {
+            "cells": [
+                154,
+                75,
+                131,
+                58,
+                104,
+                42,
+                88,
+                144,
+                14,
+                96
+            ],
+            "answer": "Steffi Graf",
+            "hint": "Winner of 1988\u2019s Golden Grand Slam (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                57,
+                36,
+                169,
+                78,
+                45,
+                133,
+                12
+            ],
+            "answer": "Endives",
+            "hint": "Leafy vegetables"
+        },
+        "R": {
+            "cells": [
+                128,
+                55,
+                97,
+                79,
+                159,
+                122,
+                69
+            ],
+            "answer": "Forsyth",
+            "hint": "Author of \u201cThe Day of the Jackal\u201d"
+        },
+        "S": {
+            "cells": [
+                2,
+                66,
+                145,
+                19,
+                167,
+                43
+            ],
+            "answer": "Avalon",
+            "hint": "Destination of Arthur\u2019s funeral barge"
+        },
+        "T": {
+            "cells": [
+                82,
+                65,
+                155,
+                25
+            ],
+            "answer": "Lead",
+            "hint": "Plumbum"
+        },
+        "U": {
+            "cells": [
+                33,
+                67,
+                124,
+                4,
+                95,
+                135,
+                149,
+                46,
+                110
+            ],
+            "answer": "Conundrum",
+            "hint": "Puzzler"
+        },
+        "V": {
+            "cells": [
+                129,
+                39,
+                62,
+                13,
+                153,
+                165,
+                139,
+                117,
+                50,
+                92
+            ],
+            "answer": "Ouija board",
+            "hint": "Means of divination involving ideomotor effects (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                121,
+                152,
+                91,
+                38,
+                83,
+                56,
+                114,
+                137,
+                29
+            ],
+            "answer": "New Jersey",
+            "hint": "U.S. battleship that saw action in three wars (2 wds.)"
+        }
+    }
+}

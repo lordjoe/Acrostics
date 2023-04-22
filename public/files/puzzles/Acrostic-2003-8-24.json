@@ -1,0 +1,349 @@
+{
+    "answer": "Sometimes a neighbor whom we have disliked... for his arrogance and conceit lets fall a single commonplace remark that shows us another side, another man, really; a man uncertain, and puzzled, and in the dark like ourselves.",
+    "author": "W(illa) Cather,",
+    "authorCell": [
+        101,
+        50,
+        48,
+        94,
+        40,
+        4,
+        18,
+        42,
+        95,
+        91,
+        29,
+        118,
+        23,
+        112,
+        81,
+        82,
+        108,
+        109,
+        110,
+        111,
+        17,
+        86,
+        93
+    ],
+    "source": "Shadows On The Rock",
+    "clues": {
+        "A": {
+            "cells": [
+                101,
+                161,
+                30,
+                150,
+                16,
+                134,
+                53,
+                74
+            ],
+            "answer": "Whiz-bang",
+            "hint": "Firecracker with a zippy sound effect (hyph.)"
+        },
+        "B": {
+            "cells": [
+                50,
+                145,
+                65,
+                20,
+                113,
+                170,
+                92
+            ],
+            "answer": "Cashier",
+            "hint": "Dishonorably discharge"
+        },
+        "C": {
+            "cells": [
+                48,
+                165,
+                64,
+                115,
+                80,
+                6,
+                98
+            ],
+            "answer": "Artemis",
+            "hint": "Goddess who killed Orion for insulting her"
+        },
+        "D": {
+            "cells": [
+                94,
+                43,
+                73,
+                166,
+                61,
+                107,
+                148
+            ],
+            "answer": "Tank top",
+            "hint": "Close-fitting garment (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                40,
+                100,
+                19,
+                72,
+                5,
+                151,
+                59,
+                126
+            ],
+            "answer": "Howitzer",
+            "hint": "Cannon capable of firing shells at a high angle"
+        },
+        "F": {
+            "cells": [
+                4,
+                36,
+                79,
+                138,
+                22,
+                96,
+                120,
+                171,
+                57
+            ],
+            "answer": "Ed McMahon",
+            "hint": "\u201cStar Search\u201d host from 1983 to 1995 (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                18,
+                124,
+                83,
+                70,
+                106,
+                149,
+                41
+            ],
+            "answer": "Rapa Nui",
+            "hint": "Easter Island, to its inhabitants (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                42,
+                175,
+                27,
+                8,
+                117,
+                71
+            ],
+            "answer": "Sevens",
+            "hint": "Gambling card game; junior-size dresses"
+        },
+        "I": {
+            "cells": [
+                95,
+                153,
+                11,
+                66,
+                173,
+                136,
+                33,
+                119
+            ],
+            "answer": "Hen fruit",
+            "hint": "Eggs, slangily (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                91,
+                3,
+                132,
+                49,
+                172,
+                12,
+                156,
+                31,
+                60,
+                104
+            ],
+            "answer": "Amanuensis",
+            "hint": "Personal secretary"
+        },
+        "K": {
+            "cells": [
+                29,
+                63,
+                1,
+                54,
+                162,
+                90,
+                21,
+                137,
+                105
+            ],
+            "answer": "Desdemona",
+            "hint": "\u201cOtello\u201d role for Kiri Te Kanawa"
+        },
+        "L": {
+            "cells": [
+                118,
+                84,
+                163,
+                25,
+                10,
+                135,
+                147
+            ],
+            "answer": "Old hand",
+            "hint": "Tenderfoot\u2019s opposite (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                23,
+                56,
+                167,
+                37,
+                122,
+                85,
+                133
+            ],
+            "answer": "Wolfram",
+            "hint": "Former appellation for tungsten"
+        },
+        "N": {
+            "cells": [
+                112,
+                97,
+                46,
+                14,
+                158,
+                76
+            ],
+            "answer": "Stogie",
+            "hint": "Tobacco product named for a wagon-making town"
+        },
+        "O": {
+            "cells": [
+                81,
+                177,
+                24,
+                44,
+                116,
+                130,
+                62,
+                102
+            ],
+            "answer": "Overalls",
+            "hint": "\u201cOpportunity ... is dressed in ___ and looks like work\u201d (Thomas Edison)"
+        },
+        "P": {
+            "cells": [
+                82,
+                164,
+                34,
+                139,
+                154,
+                176,
+                103,
+                125,
+                55,
+                15
+            ],
+            "answer": "\u201cNaked Lunch\"",
+            "hint": "1991 Cronenberg film based on a William S. Burroughs novel (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                108,
+                127,
+                68,
+                9,
+                160,
+                26,
+                88
+            ],
+            "answer": "\"Telstar\u201d",
+            "hint": "1962 #1 instrumental hit by the Tornadoes"
+        },
+        "R": {
+            "cells": [
+                109,
+                78,
+                32,
+                131,
+                47,
+                140,
+                67,
+                168,
+                152
+            ],
+            "answer": "Holy Grail",
+            "hint": "Icon associated with Joseph of Arimathea (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                110,
+                123,
+                89,
+                39,
+                142,
+                69,
+                157
+            ],
+            "answer": "Emerald",
+            "hint": "Bangkok\u2019s Temple of the ___ Buddha"
+        },
+        "T": {
+            "cells": [
+                111,
+                52,
+                143,
+                179,
+                35,
+                77,
+                128,
+                13,
+                159
+            ],
+            "answer": "Raise Cain",
+            "hint": "Make a heap of trouble (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                17,
+                146,
+                114,
+                87,
+                58,
+                169
+            ],
+            "answer": "On deck",
+            "hint": "Next up (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                86,
+                99,
+                155,
+                7,
+                178,
+                129,
+                51,
+                38,
+                144
+            ],
+            "answer": "Chameleon",
+            "hint": "Lizard with a long, sticky tongue for catching prey"
+        },
+        "W": {
+            "cells": [
+                93,
+                2,
+                28,
+                174,
+                141,
+                75,
+                121,
+                45
+            ],
+            "answer": "Koestler",
+            "hint": "Hungarian-born author of \u201cThe Sleepwalkers\u201d"
+        }
+    }
+}

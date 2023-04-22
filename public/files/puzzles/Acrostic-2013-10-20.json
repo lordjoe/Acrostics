@@ -1,0 +1,335 @@
+{
+    "answer": "The observer is as unreliable as the observed.... To try to understand the world is like grasping a cloud of gas, or a liquid, using hands that are themselves made of gas or water, so that they dissolve as you close them.",
+    "author": "Sarah Bakewell,",
+    "authorCell": [
+        124,
+        104,
+        50,
+        72,
+        144,
+        32,
+        87,
+        68,
+        117,
+        136,
+        10,
+        24,
+        165,
+        116,
+        142,
+        59,
+        39,
+        155,
+        80,
+        93,
+        157,
+        3
+    ],
+    "source": "How To Live",
+    "clues": {
+        "A": {
+            "cells": [
+                124,
+                94,
+                46,
+                22,
+                61,
+                34,
+                162,
+                76,
+                139
+            ],
+            "answer": "Square one",
+            "hint": "Beginning you may go back to (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                104,
+                16,
+                146,
+                60,
+                74,
+                88,
+                161
+            ],
+            "answer": "Autopsy",
+            "hint": "Literally, \u201cseeing for oneself\u201d"
+        },
+        "C": {
+            "cells": [
+                50,
+                98,
+                115,
+                159,
+                5,
+                132,
+                77,
+                145
+            ],
+            "answer": "Rutabaga",
+            "hint": "Swedish turnip by another name"
+        },
+        "D": {
+            "cells": [
+                72,
+                130,
+                85,
+                152,
+                55,
+                14,
+                36,
+                96,
+                111
+            ],
+            "answer": "Affidavit",
+            "hint": "Written pledge that a thing is true"
+        },
+        "E": {
+            "cells": [
+                144,
+                120,
+                12,
+                160,
+                58,
+                101,
+                23,
+                171,
+                35,
+                86
+            ],
+            "answer": "Heisenberg",
+            "hint": "Walter White\u2019s alter ego on \u201cBreaking Bad\u201d"
+        },
+        "F": {
+            "cells": [
+                32,
+                69,
+                112,
+                135,
+                48,
+                13
+            ],
+            "answer": "Beards",
+            "hint": "Supplies for mall Santas"
+        },
+        "G": {
+            "cells": [
+                87,
+                38,
+                151,
+                100,
+                164,
+                52,
+                64,
+                122,
+                7
+            ],
+            "answer": "Addictive",
+            "hint": "Keeping you coming back for more"
+        },
+        "H": {
+            "cells": [
+                68,
+                26,
+                140,
+                53,
+                169,
+                123
+            ],
+            "answer": "Karate",
+            "hint": "Disciplined way of getting your kicks?"
+        },
+        "I": {
+            "cells": [
+                117,
+                105,
+                56,
+                29,
+                11,
+                78,
+                92,
+                156
+            ],
+            "answer": "Enthrall",
+            "hint": "Hold spellbound"
+        },
+        "J": {
+            "cells": [
+                136,
+                67,
+                83,
+                97,
+                37,
+                113,
+                6,
+                170,
+                21,
+                54,
+                154
+            ],
+            "answer": "Widdershins",
+            "hint": "Counterclockwise"
+        },
+        "K": {
+            "cells": [
+                10,
+                66,
+                118,
+                133,
+                44,
+                90,
+                149,
+                168,
+                28
+            ],
+            "answer": "Elm Street",
+            "hint": "Hartford or New Haven historic district (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                24,
+                158,
+                73,
+                143,
+                8,
+                110,
+                127,
+                49
+            ],
+            "answer": "Lestrade",
+            "hint": "Scotland Yard inspector in Holmes tales"
+        },
+        "M": {
+            "cells": [
+                165,
+                75,
+                134,
+                17,
+                119
+            ],
+            "answer": "Lions",
+            "hint": "Annual host team in the N.F.L.\u2019s Thanksgiving Classic"
+        },
+        "N": {
+            "cells": [
+                116,
+                45,
+                138,
+                15,
+                103,
+                89,
+                1,
+                33
+            ],
+            "answer": "Hotshots",
+            "hint": "Nonstop freight trains; conspicuously talented people"
+        },
+        "O": {
+            "cells": [
+                142,
+                95,
+                41,
+                79,
+                4,
+                20,
+                63
+            ],
+            "answer": "Out cold",
+            "hint": "Knocked unconscious (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                59,
+                91,
+                167,
+                109,
+                128,
+                71
+            ],
+            "answer": "Washer",
+            "hint": "Aid in preventing leaks"
+        },
+        "Q": {
+            "cells": [
+                39,
+                148,
+                129,
+                18,
+                81,
+                163,
+                102,
+                2
+            ],
+            "answer": "Thorough",
+            "hint": "Stem-to-stern, head-to-toe"
+        },
+        "R": {
+            "cells": [
+                155,
+                9,
+                114,
+                42,
+                99,
+                57,
+                84,
+                25,
+                141
+            ],
+            "answer": "Overshoes",
+            "hint": "Protectors of dogs from cold and wet"
+        },
+        "S": {
+            "cells": [
+                80,
+                166,
+                47,
+                131,
+                62,
+                31,
+                153,
+                108
+            ],
+            "answer": "Long-lost",
+            "hint": "Unseen for ages (hyph.)"
+        },
+        "T": {
+            "cells": [
+                93,
+                125,
+                172,
+                40,
+                106,
+                19,
+                65,
+                147
+            ],
+            "answer": "Immodest",
+            "hint": "Bold, unblushing"
+        },
+        "U": {
+            "cells": [
+                157,
+                137,
+                70,
+                82,
+                30,
+                121,
+                43
+            ],
+            "answer": "Vaguely",
+            "hint": "Without pinning things down"
+        },
+        "V": {
+            "cells": [
+                3,
+                51,
+                107,
+                126,
+                150,
+                27
+            ],
+            "answer": "Essays",
+            "hint": "Specialty of Michel de Montaigne, who is the biographical subject of this puzzle\u2019s source"
+        }
+    }
+}

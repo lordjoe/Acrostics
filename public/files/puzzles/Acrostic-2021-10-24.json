@@ -1,0 +1,364 @@
+{
+    "answer": "Texas hold\u2019em creates a... useful balance between skill and chance. Two hole cards is just about as practical a ratio as you can have: enough unknown to make the game a good simulation of life, but not... a total crapshoot.",
+    "author": "Maria Konnikova,",
+    "authorCell": [
+        11,
+        103,
+        13,
+        84,
+        142,
+        123,
+        147,
+        118,
+        39,
+        92,
+        41,
+        108,
+        104,
+        4,
+        73,
+        66,
+        128,
+        110,
+        37,
+        95,
+        119,
+        153,
+        28,
+        140,
+        148,
+        151
+    ],
+    "source": "(The) Biggest Bluff",
+    "clues": {
+        "A": {
+            "cells": [
+                11,
+                27,
+                162,
+                99,
+                126
+            ],
+            "answer": "Match",
+            "hint": "Do the same as"
+        },
+        "B": {
+            "cells": [
+                103,
+                23,
+                164,
+                56,
+                86,
+                71
+            ],
+            "answer": "Afloat",
+            "hint": "Free of debt; bobbing on the surface"
+        },
+        "C": {
+            "cells": [
+                13,
+                90,
+                36,
+                136,
+                50,
+                158,
+                122
+            ],
+            "answer": "Raw data",
+            "hint": "Uncrunched numbers (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                84,
+                70,
+                116,
+                149,
+                132,
+                16,
+                32,
+                47
+            ],
+            "answer": "Isolated",
+            "hint": "Unique; set apart; remote"
+        },
+        "E": {
+            "cells": [
+                142,
+                30,
+                155,
+                10,
+                109,
+                168
+            ],
+            "answer": "Ante up",
+            "hint": "Join hands? (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                123,
+                14,
+                107,
+                58
+            ],
+            "answer": "Keno",
+            "hint": "Bingo-like gambling game, or, aptly, call letters for a radio station in Las Vegas"
+        },
+        "G": {
+            "cells": [
+                147,
+                75,
+                91,
+                48,
+                161,
+                121,
+                105
+            ],
+            "answer": "Outcome",
+            "hint": "Consequence, end result"
+        },
+        "H": {
+            "cells": [
+                118,
+                62,
+                137,
+                49,
+                154,
+                19
+            ],
+            "answer": "Nashua",
+            "hint": "1955 Triple Crown winner but for a Derby loss to Swaps"
+        },
+        "I": {
+            "cells": [
+                39,
+                72,
+                54,
+                112,
+                89,
+                129,
+                8
+            ],
+            "answer": "Natural",
+            "hint": "Any note in the key of C"
+        },
+        "J": {
+            "cells": [
+                92,
+                46,
+                61,
+                77,
+                111,
+                157,
+                171,
+                1,
+                21
+            ],
+            "answer": "In cahoots",
+            "hint": "Colluding stealthily (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                41,
+                144,
+                76,
+                125,
+                96
+            ],
+            "answer": "Kitty",
+            "hint": "Community pool"
+        },
+        "L": {
+            "cells": [
+                108,
+                33,
+                68,
+                53,
+                85,
+                160
+            ],
+            "answer": "Object",
+            "hint": "Goal, purpose, aim; protest"
+        },
+        "M": {
+            "cells": [
+                104,
+                34,
+                133,
+                81,
+                18
+            ],
+            "answer": "Vegas",
+            "hint": "Setting for the original \u201cCSI\u201d series, in brief"
+        },
+        "N": {
+            "cells": [
+                4,
+                26,
+                169,
+                145,
+                59,
+                98,
+                83,
+                127
+            ],
+            "answer": "Absolute",
+            "hint": "Unqualified"
+        },
+        "O": {
+            "cells": [
+                73,
+                97,
+                120,
+                173,
+                57,
+                42,
+                141,
+                25
+            ],
+            "answer": "Boot Hill",
+            "hint": "Landmark in Dodge City, Kan. (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                66,
+                130,
+                79,
+                24,
+                43,
+                5,
+                152
+            ],
+            "answer": "Impulse",
+            "hint": "Irrational motive for acting"
+        },
+        "Q": {
+            "cells": [
+                128,
+                2,
+                146,
+                60,
+                80,
+                159,
+                35,
+                106
+            ],
+            "answer": "Generate",
+            "hint": "Give rise to, spark, trigger"
+        },
+        "R": {
+            "cells": [
+                110,
+                93,
+                15,
+                170,
+                124,
+                29,
+                64
+            ],
+            "answer": "Go-ahead",
+            "hint": "License, thumbs-up, nod (hyph.)"
+        },
+        "S": {
+            "cells": [
+                37,
+                3,
+                163,
+                82,
+                143,
+                100
+            ],
+            "answer": "Exacta",
+            "hint": "Racetrack wager with long odds"
+        },
+        "T": {
+            "cells": [
+                95,
+                45,
+                113,
+                63,
+                17,
+                139,
+                172
+            ],
+            "answer": "San Remo",
+            "hint": "Italian tourist locale on the Mediterranean"
+        },
+        "U": {
+            "cells": [
+                119,
+                7,
+                78,
+                65,
+                167,
+                52,
+                135,
+                150,
+                101
+            ],
+            "answer": "Toss a coin",
+            "hint": "Decidedly flip? (3 wds.)"
+        },
+        "V": {
+            "cells": [
+                153,
+                22,
+                88,
+                166,
+                138,
+                40,
+                6
+            ],
+            "answer": "Bearish",
+            "hint": "Anticipating a losing streak"
+        },
+        "W": {
+            "cells": [
+                28,
+                69,
+                12,
+                114,
+                156,
+                134,
+                55
+            ],
+            "answer": "Lucknow",
+            "hint": "Capital of India\u2019s Uttar Pradesh state"
+        },
+        "X": {
+            "cells": [
+                140,
+                115,
+                165,
+                87,
+                38
+            ],
+            "answer": "Uncle",
+            "hint": "Terse concession"
+        },
+        "Y": {
+            "cells": [
+                148,
+                94,
+                31,
+                131,
+                9,
+                74,
+                117,
+                51
+            ],
+            "answer": "Face down",
+            "hint": "Confront with an air of confidence (2 wds.)"
+        },
+        "Z": {
+            "cells": [
+                151,
+                44,
+                20,
+                67,
+                102
+            ],
+            "answer": "Flush",
+            "hint": "Surge of emotion; directly abutting"
+        }
+    }
+}

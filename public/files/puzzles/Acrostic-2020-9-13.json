@@ -1,0 +1,357 @@
+{
+    "answer": "Our ancestors slept differently. ... [T]hey\u2019d wake up after midnight and stay up for... an hour or so. ... These distinct doses of slumber were known as \u201cfirst sleep\u201d and \u201csecond sleep,\u201d and this was the customary way of catching z\u2019s.",
+    "author": "Ainissa Ramirez,",
+    "authorCell": [
+        160,
+        49,
+        124,
+        142,
+        126,
+        143,
+        58,
+        157,
+        53,
+        98,
+        81,
+        64,
+        43,
+        172,
+        111,
+        133,
+        150,
+        76,
+        91,
+        45,
+        32,
+        71,
+        163,
+        38,
+        146
+    ],
+    "source": "(The) Alchemy of Us",
+    "clues": {
+        "A": {
+            "cells": [
+                160,
+                131,
+                44,
+                19,
+                94,
+                57
+            ],
+            "answer": "Adrift",
+            "hint": "Moving aimlessly"
+        },
+        "B": {
+            "cells": [
+                49,
+                155,
+                136,
+                65,
+                13,
+                118,
+                79
+            ],
+            "answer": "Impasse",
+            "hint": "Seemingly insoluble snag, stumbling block"
+        },
+        "C": {
+            "cells": [
+                124,
+                10,
+                80,
+                162,
+                62,
+                41
+            ],
+            "answer": "Nod off",
+            "hint": "Go out for a bit (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                142,
+                25,
+                128,
+                2,
+                99,
+                60,
+                82
+            ],
+            "answer": "Incubus",
+            "hint": "Rock band named for a demon"
+        },
+        "E": {
+            "cells": [
+                126,
+                109,
+                84,
+                170,
+                50,
+                152,
+                37,
+                9
+            ],
+            "answer": "Swing set",
+            "hint": "Schoolyard fixture (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                143,
+                48,
+                93,
+                11,
+                31,
+                73
+            ],
+            "answer": "Snores",
+            "hint": "Indicators of inattention"
+        },
+        "G": {
+            "cells": [
+                58,
+                78,
+                6,
+                121,
+                107,
+                29
+            ],
+            "answer": "Ascent",
+            "hint": "Mountaineering achievement"
+        },
+        "H": {
+            "cells": [
+                157,
+                46,
+                139,
+                88,
+                27,
+                103
+            ],
+            "answer": "Riddle",
+            "hint": "Lord Voldemort\u2019s surname at birth"
+        },
+        "I": {
+            "cells": [
+                53,
+                20,
+                171,
+                141,
+                156,
+                85
+            ],
+            "answer": "Afghan",
+            "hint": "Crocheted blanket or throw"
+        },
+        "J": {
+            "cells": [
+                98,
+                154,
+                115,
+                39,
+                168,
+                135,
+                69,
+                12
+            ],
+            "answer": "Morpheus",
+            "hint": "God of dreams"
+        },
+        "K": {
+            "cells": [
+                81,
+                112,
+                16,
+                158
+            ],
+            "answer": "I Spy",
+            "hint": "Guessing game for kids (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                64,
+                89,
+                167,
+                106,
+                40,
+                144,
+                123,
+                28
+            ],
+            "answer": "Rockaway",
+            "hint": "Queens area popular with surfers"
+        },
+        "M": {
+            "cells": [
+                43,
+                66,
+                117,
+                101,
+                137,
+                86,
+                153,
+                15
+            ],
+            "answer": "Entr'acte",
+            "hint": "Music played during intermission"
+        },
+        "N": {
+            "cells": [
+                172,
+                68,
+                5,
+                36,
+                120,
+                55
+            ],
+            "answer": "Zonked",
+            "hint": "Mentally beat, ready to hit the hay"
+        },
+        "O": {
+            "cells": [
+                111,
+                8,
+                61,
+                148,
+                129,
+                33,
+                77,
+                96
+            ],
+            "answer": "Asphodel",
+            "hint": "Flower abundant in an underworld meadow"
+        },
+        "P": {
+            "cells": [
+                133,
+                35,
+                75,
+                149,
+                95,
+                51,
+                169,
+                113,
+                17
+            ],
+            "answer": "Late shift",
+            "hint": "Block for many a moonlighter (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                150,
+                70,
+                165,
+                21,
+                52,
+                100,
+                125
+            ],
+            "answer": "Crafted",
+            "hint": "Produced, as an artisan\u2019s wares"
+        },
+        "R": {
+            "cells": [
+                76,
+                108,
+                34,
+                14
+            ],
+            "answer": "Howl",
+            "hint": "Poem at the center of a 1957 obscenity trial"
+        },
+        "S": {
+            "cells": [
+                91,
+                151,
+                122,
+                30,
+                104,
+                74,
+                173,
+                59,
+                138,
+                7
+            ],
+            "answer": "Euphrosyne",
+            "hint": "Mirthful sister of the Graces Thalia and Aglaia"
+        },
+        "T": {
+            "cells": [
+                45,
+                145,
+                166,
+                26,
+                72,
+                105,
+                132,
+                92
+            ],
+            "answer": "Mattress",
+            "hint": "Twin or double, perhaps"
+        },
+        "U": {
+            "cells": [
+                32,
+                4,
+                159,
+                54
+            ],
+            "answer": "Yawn",
+            "hint": "Transmissible result of fatigue"
+        },
+        "V": {
+            "cells": [
+                71,
+                161,
+                56,
+                42,
+                134,
+                3,
+                116,
+                87,
+                22,
+                102
+            ],
+            "answer": "Oyster stew",
+            "hint": "Christmas Eve seafood dish traditional in the South (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                163,
+                1,
+                119,
+                18,
+                63,
+                97,
+                140
+            ],
+            "answer": "Foldout",
+            "hint": "Spare bed; special magazine feature"
+        },
+        "X": {
+            "cells": [
+                38,
+                110,
+                23,
+                127,
+                90,
+                147
+            ],
+            "answer": "Unrest",
+            "hint": "Precursor to revolution, sometimes"
+        },
+        "Y": {
+            "cells": [
+                146,
+                130,
+                114,
+                83,
+                164,
+                67,
+                24,
+                47
+            ],
+            "answer": "Snitched",
+            "hint": "Acted as an informant"
+        }
+    }
+}

@@ -1,0 +1,349 @@
+{
+    "answer": "When Mozart was composing ..., Vienna was so quiet that fire alarms could be given ... by a shouting watchman .... As recently as just before World War II, the ... bell on ... a fire truck was loud enough to clear traffic from its path.",
+    "author": "Steven Halpern,",
+    "authorCell": [
+        52,
+        116,
+        101,
+        62,
+        63,
+        124,
+        172,
+        41,
+        48,
+        169,
+        120,
+        128,
+        90,
+        68,
+        103,
+        145,
+        4,
+        57,
+        69,
+        37,
+        77,
+        121,
+        10,
+        147
+    ],
+    "source": "Sound Health",
+    "clues": {
+        "A": {
+            "cells": [
+                52,
+                17,
+                151,
+                94,
+                137,
+                80
+            ],
+            "answer": "Splash",
+            "hint": "Small amount; ostentatious display"
+        },
+        "B": {
+            "cells": [
+                116,
+                30,
+                133,
+                44,
+                72
+            ],
+            "answer": "Tacit",
+            "hint": "Unstated but understood"
+        },
+        "C": {
+            "cells": [
+                101,
+                132,
+                45,
+                66,
+                78,
+                2,
+                16,
+                115,
+                150,
+                32
+            ],
+            "answer": "Eurythmics",
+            "hint": "1980s duo named for a music-teaching system"
+        },
+        "D": {
+            "cells": [
+                62,
+                107,
+                29,
+                152,
+                92
+            ],
+            "answer": "Vowel",
+            "hint": "One-third of a triphthong"
+        },
+        "E": {
+            "cells": [
+                63,
+                112,
+                86,
+                5,
+                140,
+                43,
+                158,
+                31
+            ],
+            "answer": "Earmuffs",
+            "hint": "Complement to a scarf, perhaps"
+        },
+        "F": {
+            "cells": [
+                124,
+                3,
+                85,
+                42,
+                109,
+                166,
+                21,
+                60
+            ],
+            "answer": "Nestling",
+            "hint": "Early bird?"
+        },
+        "G": {
+            "cells": [
+                172,
+                136,
+                81,
+                122,
+                160,
+                19,
+                53,
+                40
+            ],
+            "answer": "Hamlisch",
+            "hint": "EGOT winner Marvin"
+        },
+        "H": {
+            "cells": [
+                41,
+                79,
+                99,
+                162,
+                114,
+                23,
+                59
+            ],
+            "answer": "Act Five",
+            "hint": "When Macbeth meets his end (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                48,
+                15,
+                106,
+                65,
+                163,
+                123,
+                1
+            ],
+            "answer": "Lowbrow",
+            "hint": "Lacking in sophistication"
+        },
+        "J": {
+            "cells": [
+                169,
+                24,
+                8,
+                143,
+                54,
+                126,
+                70,
+                108,
+                39,
+                89
+            ],
+            "answer": "Pianoforte",
+            "hint": "Instrument built with hammers"
+        },
+        "K": {
+            "cells": [
+                120,
+                138,
+                47,
+                91,
+                25
+            ],
+            "answer": "Elate",
+            "hint": "Thrill, delight, tickle"
+        },
+        "L": {
+            "cells": [
+                128,
+                84,
+                111,
+                46,
+                146,
+                22
+            ],
+            "answer": "Raw egg",
+            "hint": "Ingredient in an Amber Moon cocktail (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                90,
+                129,
+                11,
+                58,
+                149,
+                113,
+                74
+            ],
+            "answer": "Newborn",
+            "hint": "Subject of an Apgar score"
+        },
+        "N": {
+            "cells": [
+                68,
+                6,
+                27,
+                153,
+                50
+            ],
+            "answer": "Sonar",
+            "hint": "Device used in seafloor mapping"
+        },
+        "O": {
+            "cells": [
+                103,
+                7,
+                157,
+                76,
+                49
+            ],
+            "answer": "Ozawa",
+            "hint": "Protégé of von Karajan and Bernstein"
+        },
+        "P": {
+            "cells": [
+                145,
+                119,
+                73,
+                34,
+                55,
+                20,
+                167,
+                93
+            ],
+            "answer": "Ubiquity",
+            "hint": "Widespread prevalence"
+        },
+        "Q": {
+            "cells": [
+                4,
+                18,
+                61,
+                168,
+                105,
+                154,
+                33,
+                88,
+                134
+            ],
+            "answer": "Noise rock",
+            "hint": "Cousin of punk and grunge (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                57,
+                127,
+                95,
+                14,
+                139,
+                156,
+                110,
+                170,
+                83,
+                38
+            ],
+            "answer": "Discordant",
+            "hint": "Jarringly out of place or out of tune"
+        },
+        "S": {
+            "cells": [
+                69,
+                12,
+                56,
+                102,
+                130,
+                36,
+                165,
+                87
+            ],
+            "answer": "Halftime",
+            "hint": "When a marching band might play"
+        },
+        "T": {
+            "cells": [
+                37,
+                155,
+                171,
+                67,
+                96,
+                125,
+                51,
+                142,
+                13
+            ],
+            "answer": "Etta James",
+            "hint": "Real-life role for Beyoncé in 2008\u2019s \u201cCadillac Records\u201d (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                77,
+                104,
+                161,
+                28,
+                141,
+                118
+            ],
+            "answer": "Arcade",
+            "hint": "Magnet for gamers"
+        },
+        "V": {
+            "cells": [
+                121,
+                97,
+                26,
+                75,
+                135,
+                164,
+                9,
+                148
+            ],
+            "answer": "Lungwort",
+            "hint": "Plant with spotted foliage of the genus Pulmonaria"
+        },
+        "W": {
+            "cells": [
+                10,
+                35,
+                131,
+                100,
+                144,
+                159,
+                82,
+                64
+            ],
+            "answer": "Turbofan",
+            "hint": "Engine in most passenger jets"
+        },
+        "X": {
+            "cells": [
+                147,
+                71,
+                98,
+                117
+            ],
+            "answer": "Hush",
+            "hint": "Button your lip, put a sock in it"
+        }
+    }
+}

@@ -1,0 +1,336 @@
+{
+    "answer": "Zen... teaching is... in the form of parables as ambiguous as the pebbles in... [a] rock-garden.... When a disciple asks \u201cWhat is Zen?\u201c, the... traditional answer is \"Three pounds of flax\u201d or \"A decaying noodle\u201d... or a whack on the pupil\u2019s head.",
+    "author": "A(rthur) Koestler,",
+    "authorCell": [
+        100,
+        84,
+        151,
+        113,
+        91,
+        46,
+        149,
+        71,
+        65,
+        37,
+        152,
+        104,
+        61,
+        62,
+        111,
+        89,
+        105,
+        29,
+        107,
+        52,
+        97,
+        53
+    ],
+    "source": "Bricks To Babel",
+    "clues": {
+        "A": {
+            "cells": [
+                100,
+                68,
+                43,
+                150,
+                131,
+                6,
+                173,
+                88,
+                22,
+                55
+            ],
+            "answer": "Ansel Adams",
+            "hint": "Founding member of the Group f/64 (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                84,
+                69,
+                156,
+                106,
+                1,
+                28,
+                44
+            ],
+            "answer": "Kwanzaa",
+            "hint": "Year-end festival observed since 1966"
+        },
+        "C": {
+            "cells": [
+                151,
+                130,
+                24,
+                96,
+                35,
+                15,
+                74
+            ],
+            "answer": "Offhand",
+            "hint": "Curt and cavalier; extempore"
+        },
+        "D": {
+            "cells": [
+                113,
+                133,
+                77,
+                124,
+                13,
+                67,
+                36,
+                163
+            ],
+            "answer": "\u201cExcuse me\u201d",
+            "hint": "\u201cSaturday Night Live\u201d tag line delivered by Steve Martin (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                91,
+                9,
+                103,
+                73,
+                135
+            ],
+            "answer": "Sitar",
+            "hint": "Long-necked lute with movable frets"
+        },
+        "F": {
+            "cells": [
+                46,
+                159,
+                58,
+                148,
+                14,
+                93,
+                32
+            ],
+            "answer": "Toadies",
+            "hint": "Apple polishers"
+        },
+        "G": {
+            "cells": [
+                149,
+                90,
+                129,
+                2,
+                114,
+                33,
+                19,
+                161
+            ],
+            "answer": "Life raft",
+            "hint": "Survival equipment at sea (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                71,
+                94,
+                7,
+                31,
+                122,
+                170,
+                153,
+                108,
+                134,
+                143
+            ],
+            "answer": "Encephalon",
+            "hint": "Brain"
+        },
+        "I": {
+            "cells": [
+                65,
+                141,
+                101,
+                18,
+                119,
+                157,
+                42,
+                164
+            ],
+            "answer": "Ryder Cup",
+            "hint": "Sporting event started in 1927 by a British seed merchant (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                37,
+                102,
+                146,
+                76,
+                25,
+                155,
+                50,
+                59,
+                121
+            ],
+            "answer": "Biosphere",
+            "hint": "Enclosed system supporting life"
+        },
+        "K": {
+            "cells": [
+                152,
+                60,
+                98,
+                17,
+                45,
+                139,
+                8,
+                167,
+                80,
+                126
+            ],
+            "answer": "Rothschild",
+            "hint": "Big name in Bordeaux"
+        },
+        "L": {
+            "cells": [
+                104,
+                10,
+                83,
+                49,
+                64,
+                137,
+                171,
+                116
+            ],
+            "answer": "In spades",
+            "hint": "To the max (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                61,
+                162,
+                40,
+                4,
+                92,
+                79,
+                26,
+                118
+            ],
+            "answer": "Chutzpah",
+            "hint": "Cheek, effrontery"
+        },
+        "N": {
+            "cells": [
+                62,
+                21,
+                56,
+                34,
+                47,
+                145,
+                109
+            ],
+            "answer": "Krishna",
+            "hint": "Arjuna\u2019s advisor in the sacred Hindu text Bhagavad-Gita"
+        },
+        "O": {
+            "cells": [
+                111,
+                95,
+                5,
+                63,
+                41,
+                85,
+                140,
+                165,
+                27
+            ],
+            "answer": "Stegosaur",
+            "hint": "Jurassic giant with a walnut-sized brain"
+        },
+        "P": {
+            "cells": [
+                89,
+                154,
+                54,
+                110,
+                16,
+                75,
+                138,
+                127
+            ],
+            "answer": "Twenties",
+            "hint": "Jazz Age decade"
+        },
+        "Q": {
+            "cells": [
+                105,
+                158,
+                38,
+                72,
+                132,
+                86,
+                172
+            ],
+            "answer": "Okinawa",
+            "hint": "Island where karate was developed"
+        },
+        "R": {
+            "cells": [
+                29,
+                48,
+                144,
+                128,
+                3,
+                115,
+                82
+            ],
+            "answer": "Begonia",
+            "hint": "Flower named after a French patron of science"
+        },
+        "S": {
+            "cells": [
+                107,
+                51,
+                120,
+                66,
+                160,
+                81,
+                11,
+                147
+            ],
+            "answer": "Abednego",
+            "hint": "Escapee from a fiery furnace, in the Bible"
+        },
+        "T": {
+            "cells": [
+                52,
+                12,
+                166,
+                123,
+                30,
+                136,
+                99
+            ],
+            "answer": "Bipolar",
+            "hint": "Manic-depressive"
+        },
+        "U": {
+            "cells": [
+                97,
+                168,
+                125,
+                78,
+                57,
+                23
+            ],
+            "answer": "El Nino",
+            "hint": "Disruptive phenomenon linked to the southern oscillation (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                53,
+                142,
+                39,
+                70,
+                117,
+                169,
+                87,
+                20,
+                112
+            ],
+            "answer": "Light show",
+            "hint": "Form of entertainment that\u2019s often psychedelic (2 wds.)"
+        }
+    }
+}

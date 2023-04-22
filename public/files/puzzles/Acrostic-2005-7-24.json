@@ -1,0 +1,332 @@
+{
+    "answer": "After shooting had finished, most [birds] were released.... However, fifty crows refused to leave the studio lot and perched near Hitchcock\u2019s bungalow; they soiled his car until the tree they were roosting in was cut down.",
+    "author": "Camille Paglia,",
+    "authorCell": [
+        106,
+        168,
+        25,
+        84,
+        86,
+        118,
+        37,
+        92,
+        74,
+        116,
+        128,
+        104,
+        135,
+        145,
+        46,
+        23,
+        29,
+        20,
+        155,
+        45,
+        33
+    ],
+    "source": "The Birds",
+    "clues": {
+        "A": {
+            "cells": [
+                106,
+                72,
+                132,
+                17,
+                53,
+                150,
+                1,
+                176,
+                164,
+                93,
+                31
+            ],
+            "answer": "Cliffhanger",
+            "hint": "Episode whose ending leaves you in suspense"
+        },
+        "B": {
+            "cells": [
+                168,
+                82,
+                56,
+                147,
+                114,
+                36
+            ],
+            "answer": "Auteur",
+            "hint": "Filmmaker with a distinctive personal stamp"
+        },
+        "C": {
+            "cells": [
+                25,
+                15,
+                134,
+                89,
+                113,
+                38,
+                156
+            ],
+            "answer": "Macabre",
+            "hint": "Dwelling on the gruesome; provoking horror"
+        },
+        "D": {
+            "cells": [
+                84,
+                115,
+                10,
+                51,
+                136,
+                75,
+                165,
+                97,
+                34
+            ],
+            "answer": "Interview",
+            "hint": "Journalistic probe of sorts"
+        },
+        "E": {
+            "cells": [
+                86,
+                4,
+                39,
+                170,
+                143,
+                154,
+                62
+            ],
+            "answer": "Leeches",
+            "hint": "Clings to and feeds upon"
+        },
+        "F": {
+            "cells": [
+                118,
+                47,
+                58,
+                14,
+                166,
+                151,
+                27,
+                133
+            ],
+            "answer": "Loch Ness",
+            "hint": "Largest body of fresh water in Great Britain (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                37,
+                50,
+                68,
+                94,
+                124,
+                153,
+                107,
+                144,
+                5,
+                76
+            ],
+            "answer": "Everywhere",
+            "hint": "All over"
+        },
+        "H": {
+            "cells": [
+                92,
+                60,
+                112,
+                160,
+                148,
+                21,
+                43,
+                73,
+                173
+            ],
+            "answer": "Possessed",
+            "hint": "Calm and collected; in a frenzy"
+        },
+        "I": {
+            "cells": [
+                74,
+                28,
+                167,
+                54,
+                142,
+                6,
+                64,
+                90,
+                130
+            ],
+            "answer": "At wit\u2019s end",
+            "hint": "Unable to think any further (3 wds.)"
+        },
+        "J": {
+            "cells": [
+                116,
+                8,
+                71,
+                91,
+                169
+            ],
+            "answer": "Goods",
+            "hint": "Incriminating evidence (with \u201cthe\u201d)"
+        },
+        "K": {
+            "cells": [
+                128,
+                171,
+                19,
+                108,
+                78,
+                96,
+                159,
+                66,
+                52
+            ],
+            "answer": "Lunch hour",
+            "hint": "Twelve to one, often (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                104,
+                95,
+                22,
+                77,
+                131,
+                57,
+                119,
+                40,
+                174,
+                13,
+                152
+            ],
+            "answer": "Ichthyology",
+            "hint": "Field of underwater research"
+        },
+        "M": {
+            "cells": [
+                135,
+                83,
+                24,
+                11,
+                110,
+                172,
+                123,
+                69
+            ],
+            "answer": "Addicted",
+            "hint": "Like Homer Simpson, when it comes to doughnuts"
+        },
+        "N": {
+            "cells": [
+                145,
+                122,
+                30,
+                44,
+                65
+            ],
+            "answer": "Thief",
+            "hint": "One with sticky fingers"
+        },
+        "O": {
+            "cells": [
+                46,
+                87,
+                161,
+                139,
+                26,
+                3,
+                102,
+                126,
+                70
+            ],
+            "answer": "Hot to trot",
+            "hint": "Sexually eager (3 wds., slang)"
+        },
+        "P": {
+            "cells": [
+                23,
+                117,
+                157,
+                48,
+                127,
+                105,
+                12,
+                35,
+                67,
+                80
+            ],
+            "answer": "Earwitness",
+            "hint": "Listener who remembers an incident"
+        },
+        "Q": {
+            "cells": [
+                29,
+                141,
+                101,
+                125,
+                88,
+                158,
+                2,
+                55
+            ],
+            "answer": "Blastoff",
+            "hint": "Last word after \u201cone\u201d?"
+        },
+        "R": {
+            "cells": [
+                20,
+                99,
+                81,
+                7,
+                41,
+                32,
+                59,
+                140,
+                163,
+                111
+            ],
+            "answer": "In the drink",
+            "hint": "Overboard (3 wds.)"
+        },
+        "S": {
+            "cells": [
+                155,
+                79,
+                42,
+                63,
+                120,
+                18,
+                138,
+                98,
+                109,
+                175
+            ],
+            "answer": "\u201cRear Window\u201d",
+            "hint": "1954 thriller with James Stewart and Grace Kelly (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                45,
+                9,
+                61,
+                162,
+                121,
+                103,
+                85,
+                137,
+                149
+            ],
+            "answer": "Do without",
+            "hint": "Adapt to spartan conditions (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                33,
+                100,
+                129,
+                146,
+                49,
+                16
+            ],
+            "answer": "See red",
+            "hint": "Fume, lose it, go ballistic (2 wds.)"
+        }
+    }
+}

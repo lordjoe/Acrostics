@@ -1,0 +1,332 @@
+{
+    "answer": "Man is the yokel par excellence, the booby unmatchable, the king dupe of the cosmos. He is... unescapably deceived... by his... talent for searching out and embracing what is false, and for overlooking and denying what is true.",
+    "author": "H.L. Mencken,",
+    "authorCell": [
+        110,
+        21,
+        37,
+        29,
+        127,
+        85,
+        153,
+        176,
+        141,
+        40,
+        60,
+        16,
+        148,
+        138,
+        132,
+        151,
+        1,
+        15,
+        39,
+        130,
+        163
+    ],
+    "source": "(A Mencken) Chrestomathy",
+    "clues": {
+        "A": {
+            "cells": [
+                110,
+                38,
+                65,
+                2,
+                123,
+                96,
+                87,
+                140
+            ],
+            "answer": "Hamartia",
+            "hint": "Tragic flaw, in literature"
+        },
+        "B": {
+            "cells": [
+                21,
+                74,
+                143,
+                46,
+                129,
+                94,
+                158,
+                113
+            ],
+            "answer": "Left wing",
+            "hint": "Hockey position; part of a political party (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                37,
+                84,
+                145,
+                50,
+                116
+            ],
+            "answer": "Merit",
+            "hint": "Property of a sound argument"
+        },
+        "D": {
+            "cells": [
+                29,
+                14,
+                164,
+                76,
+                54,
+                174,
+                115,
+                134
+            ],
+            "answer": "Epicurus",
+            "hint": "Greek philosopher who espoused the pursuit of happiness"
+        },
+        "E": {
+            "cells": [
+                127,
+                26,
+                75,
+                109,
+                171,
+                139,
+                155,
+                6
+            ],
+            "answer": "Nescient",
+            "hint": "Lacking knowledge; agnostic"
+        },
+        "F": {
+            "cells": [
+                85,
+                103,
+                166,
+                120,
+                36,
+                62,
+                9
+            ],
+            "answer": "Cogency",
+            "hint": "Strength of reasoning, persuasiveness"
+        },
+        "G": {
+            "cells": [
+                153,
+                73,
+                35,
+                125,
+                49,
+                98,
+                61,
+                7,
+                20,
+                169,
+                142
+            ],
+            "answer": "Knucklehead",
+            "hint": "Nitwit, dunce, lamebrain"
+        },
+        "H": {
+            "cells": [
+                176,
+                147,
+                133,
+                90,
+                69,
+                51,
+                19,
+                106
+            ],
+            "answer": "Evidence",
+            "hint": "Item lending support to a conclusion"
+        },
+        "I": {
+            "cells": [
+                141,
+                66,
+                112,
+                78,
+                44,
+                175,
+                5,
+                95,
+                23,
+                160
+            ],
+            "answer": "Nonplussed",
+            "hint": "In a state of perplexity"
+        },
+        "J": {
+            "cells": [
+                40,
+                28,
+                77,
+                149,
+                13,
+                124,
+                59,
+                136,
+                162,
+                104,
+                92
+            ],
+            "answer": "Charlatanry",
+            "hint": "Practice of a quack or mountebank"
+        },
+        "K": {
+            "cells": [
+                60,
+                114,
+                33,
+                91,
+                17,
+                172
+            ],
+            "answer": "Hobbes",
+            "hint": "Philosopher who described life as \u201csolitary, poor, nasty, brutish and short\u201d"
+        },
+        "L": {
+            "cells": [
+                16,
+                70,
+                52,
+                88,
+                99,
+                159,
+                131
+            ],
+            "answer": "Rig-Veda",
+            "hint": "Ancient Hindu scripture (hyph.)"
+        },
+        "M": {
+            "cells": [
+                148,
+                3,
+                81,
+                111,
+                128,
+                93,
+                27,
+                12,
+                165,
+                45,
+                53
+            ],
+            "answer": "Enlightened",
+            "hint": "Like Siddhartha after sitting under a bo tree"
+        },
+        "N": {
+            "cells": [
+                138,
+                41,
+                154,
+                122,
+                80,
+                63,
+                22,
+                56,
+                101,
+                168
+            ],
+            "answer": "Shibboleth",
+            "hint": "Catchword for demonstrating membership in a group"
+        },
+        "O": {
+            "cells": [
+                132,
+                42,
+                150,
+                11,
+                83,
+                57,
+                167,
+                118
+            ],
+            "answer": "Talk down",
+            "hint": "Be condescending (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                151,
+                43,
+                135,
+                72,
+                64,
+                25,
+                107,
+                170,
+                89
+            ],
+            "answer": "Obfuscate",
+            "hint": "Use anything but clear language"
+        },
+        "Q": {
+            "cells": [
+                1,
+                126,
+                67,
+                10,
+                156,
+                82,
+                100,
+                34
+            ],
+            "answer": "Misogyny",
+            "hint": "Attitude toward women shared by Nietzsche and Aristotle"
+        },
+        "R": {
+            "cells": [
+                15,
+                102,
+                58,
+                157,
+                30,
+                137,
+                48
+            ],
+            "answer": "Affable",
+            "hint": "Easy to get along with, congenial"
+        },
+        "S": {
+            "cells": [
+                39,
+                68,
+                144,
+                121,
+                79,
+                105,
+                55,
+                97,
+                4,
+                24,
+                161
+            ],
+            "answer": "Thomas Paine",
+            "hint": "Author of \u201cThe Age of Reason\u201d (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                130,
+                8,
+                173,
+                86,
+                108,
+                152,
+                119,
+                31,
+                18
+            ],
+            "answer": "Heterodox",
+            "hint": "Not in accordance with established beliefs, as in theology"
+        },
+        "U": {
+            "cells": [
+                163,
+                117,
+                47,
+                146,
+                32,
+                71
+            ],
+            "answer": "Yahoos",
+            "hint": "Irrational savages in the land of the Houyhnhnms"
+        }
+    }
+}

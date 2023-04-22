@@ -1,0 +1,355 @@
+{
+    "answer": "[L]ooking up things... is the most ravenous time-snatcher I know. You pull one book from the shelf, which... sends you posthaste to another book.... It is incredible, the number of books you hopefully open and disappointedly close....",
+    "author": "Carolyn Wells,",
+    "authorCell": [
+        41,
+        157,
+        133,
+        138,
+        150,
+        86,
+        156,
+        49,
+        28,
+        151,
+        74,
+        162,
+        44,
+        170,
+        23,
+        68,
+        166,
+        135,
+        35,
+        141,
+        56,
+        121,
+        148,
+        155
+    ],
+    "source": "(The) Rest Of My Life",
+    "clues": {
+        "A": {
+            "cells": [
+                41,
+                62,
+                169,
+                112,
+                142,
+                83
+            ],
+            "answer": "Cotton",
+            "hint": "Main export of Uzbekistan"
+        },
+        "B": {
+            "cells": [
+                157,
+                40,
+                106,
+                22,
+                89,
+                3,
+                177
+            ],
+            "answer": "Atropos",
+            "hint": "The Fate who cuts the thread of life"
+        },
+        "C": {
+            "cells": [
+                133,
+                5,
+                154,
+                18,
+                113,
+                84,
+                59
+            ],
+            "answer": "Riptide",
+            "hint": "Dangerous current for swimmers"
+        },
+        "D": {
+            "cells": [
+                138,
+                85,
+                126,
+                46,
+                66,
+                114,
+                11
+            ],
+            "answer": "Oshkosh",
+            "hint": "Wisconsin base of the Naturist Society"
+        },
+        "E": {
+            "cells": [
+                150,
+                31,
+                79,
+                173,
+                140,
+                96,
+                48,
+                6,
+                124
+            ],
+            "answer": "Lucy Stone",
+            "hint": "She called for the first national women\u2019s rights convention, 1850 (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                86,
+                134,
+                122,
+                60,
+                153
+            ],
+            "answer": "Yobbo",
+            "hint": "Young hooligan, in British slang"
+        },
+        "G": {
+            "cells": [
+                156,
+                78,
+                67,
+                136,
+                52,
+                17
+            ],
+            "answer": "Nimbus",
+            "hint": "Radiant ring around the head of a pictured saint"
+        },
+        "H": {
+            "cells": [
+                49,
+                16,
+                101,
+                171,
+                88,
+                9
+            ],
+            "answer": "Windup",
+            "hint": "Conclusion; like some toys"
+        },
+        "I": {
+            "cells": [
+                28,
+                55,
+                139,
+                93,
+                2,
+                149,
+                128,
+                160
+            ],
+            "answer": "Elkhound",
+            "hint": "Short-bodied dog trained for hunting and herding"
+        },
+        "J": {
+            "cells": [
+                151,
+                87,
+                27,
+                43,
+                1,
+                61,
+                118,
+                168
+            ],
+            "answer": "Lovelorn",
+            "hint": "Forsaken"
+        },
+        "K": {
+            "cells": [
+                74,
+                108,
+                117,
+                4,
+                37,
+                24,
+                127,
+                164
+            ],
+            "answer": "Lockstep",
+            "hint": "Mindlessly-followed rigid routine"
+        },
+        "L": {
+            "cells": [
+                162,
+                42,
+                115,
+                146,
+                91,
+                72,
+                26,
+                53,
+                105
+            ],
+            "answer": "Shipshape",
+            "hint": "Bristol fashion"
+        },
+        "M": {
+            "cells": [
+                44,
+                73,
+                159,
+                13,
+                82,
+                174,
+                110
+            ],
+            "answer": "Redneck",
+            "hint": "Butt of a Jeff Foxworthy joke"
+        },
+        "N": {
+            "cells": [
+                170,
+                120,
+                76,
+                34,
+                58,
+                131,
+                145,
+                90,
+                103,
+                19
+            ],
+            "answer": "Edwin Booth",
+            "hint": "Leading American 19th-century Shakespearean actor (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                23,
+                45,
+                65,
+                178,
+                158
+            ],
+            "answer": "Siren",
+            "hint": "Sea nymph who\u2019s part woman and part bird"
+        },
+        "P": {
+            "cells": [
+                68,
+                36,
+                123,
+                147,
+                99,
+                175,
+                137,
+                14,
+                50
+            ],
+            "answer": "Teleology",
+            "hint": "Belief that nature has purpose and design"
+        },
+        "Q": {
+            "cells": [
+                166,
+                38,
+                92,
+                144,
+                119,
+                104,
+                30,
+                129,
+                15,
+                70
+            ],
+            "answer": "On the house",
+            "hint": "Without charge (3 wds.)"
+        },
+        "R": {
+            "cells": [
+                135,
+                109,
+                25,
+                33,
+                161,
+                97,
+                71
+            ],
+            "answer": "Forties",
+            "hint": "Southern latitudes called \u201croaring\u201d by sailors"
+        },
+        "S": {
+            "cells": [
+                35,
+                163,
+                152,
+                102,
+                47,
+                116,
+                94,
+                12,
+                81,
+                132
+            ],
+            "answer": "Mayonnaise",
+            "hint": "Common Dutch topping for French fries"
+        },
+        "T": {
+            "cells": [
+                141,
+                8,
+                63,
+                176,
+                29
+            ],
+            "answer": "Yukon",
+            "hint": "River flowing to the Bering Sea"
+        },
+        "U": {
+            "cells": [
+                56,
+                167,
+                10,
+                77,
+                111,
+                143,
+                130
+            ],
+            "answer": "Lithium",
+            "hint": "Metal derived from spodumene or amblygonite"
+        },
+        "V": {
+            "cells": [
+                121,
+                51,
+                21,
+                57,
+                98,
+                69
+            ],
+            "answer": "Io moth",
+            "hint": "Insect with large eyelike spots on its wings (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                148,
+                172,
+                39,
+                7,
+                95,
+                125,
+                100,
+                75,
+                64
+            ],
+            "answer": "Flagstaff",
+            "hint": "Site of the Lowell Observatory"
+        },
+        "X": {
+            "cells": [
+                155,
+                165,
+                80,
+                20,
+                107,
+                54,
+                32
+            ],
+            "answer": "Ephebus",
+            "hint": "Ancient Greek youth commencing training for full Athenian citizenship"
+        }
+    }
+}

@@ -1,0 +1,347 @@
+{
+    "answer": "God must have put me together in the dark. I\u2019m built... like a barrel with... arms stuck on backwards. My hands seem to face away from my body. When I walk my... body... shifts from side to side. If people watch me they get seasick.",
+    "author": "Ken Kaiser,",
+    "authorCell": [
+        170,
+        159,
+        110,
+        70,
+        68,
+        168,
+        60,
+        84,
+        49,
+        147,
+        114,
+        166,
+        66,
+        16,
+        14,
+        104,
+        97,
+        152,
+        154,
+        135,
+        13,
+        116,
+        12,
+        6
+    ],
+    "source": "Planet of the Umps",
+    "clues": {
+        "A": {
+            "cells": [
+                170,
+                38,
+                91,
+                64,
+                2,
+                128,
+                143
+            ],
+            "answer": "Kickoff",
+            "hint": "Athletic act that takes place at a tee"
+        },
+        "B": {
+            "cells": [
+                159,
+                7,
+                55,
+                34,
+                69,
+                138
+            ],
+            "answer": "Ethics",
+            "hint": "Code of conduct"
+        },
+        "C": {
+            "cells": [
+                110,
+                42,
+                19,
+                78,
+                126,
+                161,
+                93,
+                4,
+                149
+            ],
+            "answer": "Night game",
+            "hint": "Engagement lacking sunshine (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                70,
+                26,
+                11,
+                50,
+                164,
+                137,
+                153,
+                115,
+                127
+            ],
+            "answer": "Kneesocks",
+            "hint": "What some baseball teams are named for"
+        },
+        "E": {
+            "cells": [
+                68,
+                98,
+                46,
+                142,
+                157,
+                85,
+                32
+            ],
+            "answer": "Arbiter",
+            "hint": "One with the power to settle disputes"
+        },
+        "F": {
+            "cells": [
+                168,
+                72,
+                100,
+                17,
+                108,
+                29,
+                150,
+                47,
+                39,
+                129,
+                62,
+                82
+            ],
+            "answer": "\u201cI Am the Walrus\u201d",
+            "hint": "Song with the lyric \u201cDon\u2019t you think the joker laughs at you?\u201d (4 wds.)"
+        },
+        "G": {
+            "cells": [
+                60,
+                158,
+                92,
+                45,
+                21,
+                123
+            ],
+            "answer": "Sheath",
+            "hint": "Protective covering"
+        },
+        "H": {
+            "cells": [
+                84,
+                162,
+                96,
+                65,
+                24,
+                145
+            ],
+            "answer": "Eeyore",
+            "hint": "Character who said \u201cI\u2019d look on the bright side, if I could find it\u201d"
+        },
+        "I": {
+            "cells": [
+                49,
+                9,
+                118,
+                103,
+                25,
+                87,
+                132
+            ],
+            "answer": "Rabbits",
+            "hint": "What Lennie dreams of tending, in \u201cOf Mice and Men\u201d"
+        },
+        "J": {
+            "cells": [
+                147,
+                111,
+                61,
+                28
+            ],
+            "answer": "Pith",
+            "hint": "Essential or central part"
+        },
+        "K": {
+            "cells": [
+                114,
+                95,
+                15,
+                36,
+                134,
+                151
+            ],
+            "answer": "Lambda",
+            "hint": "Symbol for wavelength or a radioactive decay constant"
+        },
+        "L": {
+            "cells": [
+                166,
+                51,
+                148,
+                130,
+                112,
+                20,
+                74
+            ],
+            "answer": "Allowed",
+            "hint": "Kosher"
+        },
+        "M": {
+            "cells": [
+                66,
+                119,
+                136,
+                86,
+                5,
+                169,
+                22
+            ],
+            "answer": "Not much",
+            "hint": "Unforthcoming answer to \u201cWhat are you up to?\u201d (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                16,
+                131,
+                144,
+                88,
+                71,
+                165,
+                48,
+                109,
+                30
+            ],
+            "answer": "Empowered",
+            "hint": "Invested with authority, as a regent"
+        },
+        "O": {
+            "cells": [
+                14,
+                94,
+                133,
+                120,
+                105,
+                41,
+                53,
+                80,
+                1
+            ],
+            "answer": "Twiddling",
+            "hint": "Digital activity"
+        },
+        "P": {
+            "cells": [
+                104,
+                117,
+                10,
+                44,
+                77
+            ],
+            "answer": "Oy vey",
+            "hint": "Expression of kvetching (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                97,
+                156,
+                23,
+                54
+            ],
+            "answer": "Feet",
+            "hint": "One of a relative handful of \u201cmutated plurals\u201d in English"
+        },
+        "R": {
+            "cells": [
+                152,
+                18,
+                58,
+                107,
+                79,
+                139,
+                40,
+                122
+            ],
+            "answer": "Tom Waits",
+            "hint": "Singer who wrote \u201cThe Piano Has Been Drinking (Not Me)\u201d (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                154,
+                113,
+                52,
+                33,
+                124,
+                75,
+                8
+            ],
+            "answer": "Hawkish",
+            "hint": "Advocating bellicosity"
+        },
+        "T": {
+            "cells": [
+                135,
+                101,
+                67,
+                31,
+                167,
+                83,
+                121
+            ],
+            "answer": "Embassy",
+            "hint": "Diplomatic digs"
+        },
+        "U": {
+            "cells": [
+                13,
+                163,
+                76,
+                146,
+                59,
+                27
+            ],
+            "answer": "Utmost",
+            "hint": "Max"
+        },
+        "V": {
+            "cells": [
+                116,
+                99,
+                63,
+                43,
+                141,
+                73,
+                160
+            ],
+            "answer": "Mockery",
+            "hint": "\u201cHence, horrible shadow! Unreal ___, hence!\u201d (Macbeth)"
+        },
+        "W": {
+            "cells": [
+                12,
+                37,
+                125,
+                89,
+                3,
+                56,
+                81,
+                140,
+                106
+            ],
+            "answer": "Puff Daddy",
+            "hint": "Stage name used by hip-hopper Sean Combs (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                6,
+                35,
+                90,
+                57,
+                155,
+                102
+            ],
+            "answer": "Smarmy",
+            "hint": "Overly suave or ingratiating"
+        }
+    }
+}

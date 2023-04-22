@@ -1,0 +1,355 @@
+{
+    "answer": "Hardly a week goes by that doesn\u2018t see a... new discovery about animal minds: \u201cWhales Have... Regional Dialects,\u201c \"Fish Use Tools,\u201d \u201cSquirrels Adopt Orphans,\u201d \u201cHoneybees Make Plans,\u201d \u201cSheep Don\u2019t Forget a Face,\u201d \"Rats Feel Each Other\u2019s Pain...\u201d",
+    "author": "Virginia Morell,",
+    "authorCell": [
+        68,
+        101,
+        157,
+        72,
+        73,
+        32,
+        36,
+        67,
+        128,
+        109,
+        3,
+        64,
+        105,
+        5,
+        116,
+        57,
+        79,
+        55,
+        152,
+        81,
+        60,
+        56,
+        136,
+        14
+    ],
+    "source": "Animal Wise",
+    "clues": {
+        "A": {
+            "cells": [
+                68,
+                100,
+                54,
+                151,
+                90,
+                173,
+                131
+            ],
+            "answer": "Vulture",
+            "hint": "Rapacious, predatory type"
+        },
+        "B": {
+            "cells": [
+                101,
+                35,
+                77,
+                156,
+                117,
+                139,
+                59,
+                174
+            ],
+            "answer": "Idleness",
+            "hint": "Quality of a sloth"
+        },
+        "C": {
+            "cells": [
+                157,
+                125,
+                80,
+                22,
+                62,
+                141,
+                93
+            ],
+            "answer": "Readapt",
+            "hint": "Manage not to stagnate in a changing world"
+        },
+        "D": {
+            "cells": [
+                72,
+                122,
+                9,
+                91,
+                172
+            ],
+            "answer": "Geese",
+            "hint": "What you can find in a skein"
+        },
+        "E": {
+            "cells": [
+                73,
+                135,
+                107,
+                167,
+                21,
+                87,
+                40,
+                150
+            ],
+            "answer": "Inactive",
+            "hint": "Characterized by torpor"
+        },
+        "F": {
+            "cells": [
+                32,
+                74,
+                134,
+                119,
+                97,
+                53,
+                148,
+                11
+            ],
+            "answer": "Noah\u2018s Ark",
+            "hint": "Refuge for every couple (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                36,
+                50,
+                1,
+                20,
+                113,
+                144,
+                163,
+                65,
+                88
+            ],
+            "answer": "In harness",
+            "hint": "Prepped for work, as a draft horse (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                67,
+                96,
+                114,
+                19,
+                31,
+                45,
+                140,
+                159
+            ],
+            "answer": "Alphabet",
+            "hint": "Series taught by Snuffleupagus or Big Bird"
+        },
+        "I": {
+            "cells": [
+                128,
+                158,
+                83,
+                2,
+                99,
+                47,
+                24
+            ],
+            "answer": "Macaque",
+            "hint": "Rhesus monkey or Barbary ape"
+        },
+        "J": {
+            "cells": [
+                109,
+                78,
+                6,
+                137,
+                28,
+                165,
+                43
+            ],
+            "answer": "Odyssey",
+            "hint": "Tale in which men are turned into swine"
+        },
+        "K": {
+            "cells": [
+                3,
+                120,
+                18,
+                177,
+                153,
+                104,
+                70,
+                44
+            ],
+            "answer": "Rotifera",
+            "hint": "Phylum of invertebrates whose cilia resemble wheels"
+        },
+        "L": {
+            "cells": [
+                64,
+                17,
+                82,
+                37,
+                132,
+                169,
+                145,
+                106
+            ],
+            "answer": "Eyespots",
+            "hint": "Peacock or butterfly markings"
+        },
+        "M": {
+            "cells": [
+                105,
+                23,
+                178,
+                162,
+                8,
+                143,
+                63,
+                86
+            ],
+            "answer": "Lone wolf",
+            "hint": "Independent operator (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                5,
+                51,
+                39,
+                121,
+                160,
+                25,
+                138,
+                176,
+                103,
+                69
+            ],
+            "answer": "Lion\u2019s share",
+            "hint": "Aesopian portion (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                116,
+                75,
+                48,
+                155,
+                94,
+                34,
+                15
+            ],
+            "answer": "Ant cows",
+            "hint": "Honeydew-yielding \u201ccattle\u201d (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                57,
+                10,
+                76,
+                27,
+                171,
+                126,
+                102,
+                142
+            ],
+            "answer": "Neatherd",
+            "hint": "Olden term for a pasture tender"
+        },
+        "Q": {
+            "cells": [
+                79,
+                127,
+                147,
+                164,
+                7,
+                111,
+                30,
+                58
+            ],
+            "answer": "Isolated",
+            "hint": "In the middle of nowhere"
+        },
+        "R": {
+            "cells": [
+                55,
+                112,
+                98,
+                85,
+                16,
+                154,
+                38,
+                130
+            ],
+            "answer": "Mossback",
+            "hint": "Old-fashioned or conservative sort"
+        },
+        "S": {
+            "cells": [
+                152,
+                168,
+                49,
+                124
+            ],
+            "answer": "Ahab",
+            "hint": "Unhinged hunter of a Physeter macrocephalus"
+        },
+        "T": {
+            "cells": [
+                81,
+                29,
+                129,
+                175,
+                161,
+                42,
+                95,
+                12
+            ],
+            "answer": "Leapfrog",
+            "hint": "Pastime that makes kids jumpy"
+        },
+        "U": {
+            "cells": [
+                60,
+                115,
+                13,
+                133,
+                33,
+                89,
+                46,
+                149
+            ],
+            "answer": "Whole hog",
+            "hint": "Completely, without reservation (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                56,
+                26,
+                146,
+                41,
+                118,
+                170,
+                71,
+                4
+            ],
+            "answer": "Infested",
+            "hint": "Overpopulated with undesirables"
+        },
+        "W": {
+            "cells": [
+                136,
+                61,
+                92,
+                108
+            ],
+            "answer": "Shed",
+            "hint": "Molt"
+        },
+        "X": {
+            "cells": [
+                14,
+                52,
+                110,
+                166,
+                84,
+                66,
+                123
+            ],
+            "answer": "Empathy",
+            "hint": "\u201cThe opposite of spiritual meanness,\u201d per Barbara Kingsolver"
+        }
+    }
+}

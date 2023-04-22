@@ -1,0 +1,314 @@
+{
+    "answer": "I never had problems with my fellow scientists. Scientists are a friendly, atheistic, hard-working, beer-drinking lot whose minds are preoccupied with sex, chess and baseball when they are not preoccupied with science.",
+    "author": "Yann Martel,",
+    "authorCell": [
+        151,
+        72,
+        104,
+        2,
+        102,
+        133,
+        153,
+        96,
+        57,
+        27,
+        14,
+        1,
+        54,
+        150,
+        95,
+        24,
+        117,
+        91
+    ],
+    "source": "Life Of Pi",
+    "clues": {
+        "A": {
+            "cells": [
+                151,
+                107,
+                11,
+                86,
+                30,
+                68,
+                170,
+                128,
+                78
+            ],
+            "answer": "Yardstick",
+            "hint": "Standard of judgment or comparison"
+        },
+        "B": {
+            "cells": [
+                72,
+                37,
+                48,
+                85,
+                113,
+                158,
+                145,
+                61,
+                17,
+                122,
+                174,
+                100
+            ],
+            "answer": "Astrophysics",
+            "hint": "Field that includes stellar dynamics"
+        },
+        "C": {
+            "cells": [
+                104,
+                176,
+                163,
+                3,
+                49,
+                131,
+                36,
+                148,
+                23
+            ],
+            "answer": "Necessity",
+            "hint": "Something that might be bare"
+        },
+        "D": {
+            "cells": [
+                2,
+                15,
+                29,
+                136,
+                77,
+                164,
+                147,
+                125,
+                97,
+                66,
+                178,
+                90
+            ],
+            "answer": "New Brunswick",
+            "hint": "Province whose capital is Fredericton (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                102,
+                156,
+                169,
+                45,
+                124,
+                112,
+                60,
+                141,
+                18,
+                92
+            ],
+            "answer": "Mow the lawn",
+            "hint": "Do a suburban chore (3 wds.)"
+        },
+        "F": {
+            "cells": [
+                133,
+                108,
+                41,
+                7,
+                56,
+                157,
+                179,
+                70,
+                123
+            ],
+            "answer": "Architect",
+            "hint": "Sort of person who might win a Pritzker Prize"
+        },
+        "G": {
+            "cells": [
+                153,
+                126,
+                168,
+                98,
+                8,
+                34,
+                120,
+                52,
+                135
+            ],
+            "answer": "Red-handed",
+            "hint": "In possession of self-incriminating evidence (hyph.)"
+        },
+        "H": {
+            "cells": [
+                96,
+                64,
+                154,
+                13,
+                53,
+                140,
+                119
+            ],
+            "answer": "\u201cThe Babe\u201d",
+            "hint": "1992 biopic about George Herman Ruth (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                57,
+                32,
+                173,
+                160,
+                80,
+                106,
+                63,
+                130,
+                19,
+                89
+            ],
+            "answer": "Eisenstein",
+            "hint": "Russian director of \u201cThe Battleship Potemkin\u201d"
+        },
+        "J": {
+            "cells": [
+                27,
+                42,
+                5,
+                82,
+                115,
+                21,
+                146,
+                155
+            ],
+            "answer": "Liebchen",
+            "hint": "Sweetheart, to people of Hamburg"
+        },
+        "K": {
+            "cells": [
+                14,
+                84,
+                75,
+                118,
+                39,
+                162,
+                62,
+                6,
+                51,
+                28,
+                94,
+                143
+            ],
+            "answer": "Lewis Carroll",
+            "hint": "Pseudonymous author who coined the word \u201cchortle\u201d (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                1,
+                105,
+                166,
+                76,
+                35,
+                47,
+                59,
+                65,
+                142,
+                175,
+                93,
+                129,
+                20
+            ],
+            "answer": "Idiot\u2019s delight",
+            "hint": "Solitaire game a k a Aces Up and Drivel (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                54,
+                26,
+                161,
+                121,
+                109,
+                87,
+                10,
+                99,
+                144,
+                43,
+                73
+            ],
+            "answer": "Flower power",
+            "hint": "Counterculture alternative to militarism (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                150,
+                127,
+                110,
+                159,
+                33,
+                40,
+                67,
+                79,
+                12,
+                58,
+                103,
+                138,
+                22
+            ],
+            "answer": "Expressionism",
+            "hint": "Artistic style used by Munch, Nolde and Kandinsky"
+        },
+        "O": {
+            "cells": [
+                95,
+                4,
+                25,
+                55,
+                38,
+                149,
+                139,
+                71,
+                116,
+                16,
+                165
+            ],
+            "answer": "Over the hump",
+            "hint": "Past the most arduous adversity (3 wds.)"
+        },
+        "P": {
+            "cells": [
+                24,
+                152,
+                46,
+                111,
+                83,
+                132,
+                171
+            ],
+            "answer": "Fairest",
+            "hint": "What Snow White was and the Wicked Queen wanted to be"
+        },
+        "Q": {
+            "cells": [
+                117,
+                88,
+                134,
+                172,
+                101,
+                50,
+                74
+            ],
+            "answer": "Pinhead",
+            "hint": "Place for angels to dance?"
+        },
+        "R": {
+            "cells": [
+                91,
+                114,
+                167,
+                9,
+                137,
+                44,
+                31,
+                69,
+                177,
+                81
+            ],
+            "answer": "Ice dancing",
+            "hint": "Winter Olympics event (2 wds.)"
+        }
+    }
+}

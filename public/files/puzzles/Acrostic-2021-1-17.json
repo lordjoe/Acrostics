@@ -1,0 +1,350 @@
+{
+    "answer": "My parents often brought me in a stroller... to civil rights marches. ... My mother would laugh telling a story... about the time when I was fussing as a toddler. \u201cWhat do you want?\u201d she asked, trying to soothe me. \u201cFweedom!\u201d I yelled... .",
+    "author": "Kamala Harris,",
+    "authorCell": [
+        141,
+        4,
+        55,
+        80,
+        66,
+        133,
+        156,
+        49,
+        62,
+        50,
+        77,
+        152,
+        94,
+        145,
+        131,
+        116,
+        45,
+        140,
+        123,
+        172,
+        124,
+        58,
+        31,
+        173
+    ],
+    "source": "(The) Truths We Hold",
+    "clues": {
+        "A": {
+            "cells": [
+                141,
+                102,
+                78,
+                44
+            ],
+            "answer": "King",
+            "hint": "Leading light of peaceful protest"
+        },
+        "B": {
+            "cells": [
+                4,
+                90,
+                170,
+                69,
+                109,
+                150
+            ],
+            "answer": "\"At Last\"",
+            "hint": "Etta James hit in the Grammy Hall of Fame (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                55,
+                26,
+                101,
+                40,
+                11,
+                74,
+                114,
+                155
+            ],
+            "answer": "Manifest",
+            "hint": "Plain to see, clearly evident"
+        },
+        "D": {
+            "cells": [
+                80,
+                14,
+                56,
+                161,
+                113,
+                129
+            ],
+            "answer": "Anyway",
+            "hint": "Still and all, that being the case"
+        },
+        "E": {
+            "cells": [
+                66,
+                18,
+                51,
+                2,
+                108,
+                91,
+                30,
+                134,
+                157
+            ],
+            "answer": "Lucy Stone",
+            "hint": "Pioneering abolitionist and feminist (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                133,
+                98,
+                33,
+                81,
+                17,
+                158,
+                61
+            ],
+            "answer": "Awesome",
+            "hint": "Amazingly great, marvelous"
+        },
+        "G": {
+            "cells": [
+                156,
+                65,
+                48,
+                87,
+                120,
+                168
+            ],
+            "answer": "Humbly",
+            "hint": "With respect or modesty"
+        },
+        "H": {
+            "cells": [
+                49,
+                111,
+                19,
+                162,
+                68,
+                36,
+                89
+            ],
+            "answer": "Angelou",
+            "hint": "Poet at the 1993 Inaugural who recited \u201cOn the Pulse of Morning\u201d"
+        },
+        "I": {
+            "cells": [
+                62,
+                93,
+                143,
+                164,
+                38,
+                126
+            ],
+            "answer": "Reddit",
+            "hint": "Crowdsourced news website"
+        },
+        "J": {
+            "cells": [
+                50,
+                151,
+                136,
+                21,
+                122,
+                70,
+                96
+            ],
+            "answer": "Rostrum",
+            "hint": "Platform for a ceremony or address"
+        },
+        "K": {
+            "cells": [
+                77,
+                47,
+                60,
+                166,
+                115,
+                138,
+                32
+            ],
+            "answer": "Ishmael",
+            "hint": "Sailor with a whale of a tale"
+        },
+        "L": {
+            "cells": [
+                152,
+                128,
+                107,
+                8,
+                52,
+                171,
+                86,
+                25,
+                67
+            ],
+            "answer": "Southland",
+            "hint": "Dixie"
+        },
+        "M": {
+            "cells": [
+                94,
+                5,
+                130,
+                39,
+                23
+            ],
+            "answer": "Trove",
+            "hint": "Discovery of great value"
+        },
+        "N": {
+            "cells": [
+                145,
+                53,
+                82,
+                132,
+                163,
+                13,
+                35
+            ],
+            "answer": "Retweet",
+            "hint": "Pass along via social media, in a way"
+        },
+        "O": {
+            "cells": [
+                131,
+                148,
+                15,
+                83,
+                63,
+                97,
+                118
+            ],
+            "answer": "Unbowed",
+            "hint": "\u201cMy head is bloody, but ____\u201d (\u201cInvictus\u201d)"
+        },
+        "P": {
+            "cells": [
+                116,
+                153,
+                71,
+                100,
+                12,
+                137,
+                169,
+                29
+            ],
+            "answer": "Together",
+            "hint": "Hand in hand, side by side"
+        },
+        "Q": {
+            "cells": [
+                45,
+                167,
+                112,
+                99,
+                144,
+                64,
+                3,
+                27
+            ],
+            "answer": "High-tops",
+            "hint": "Some Converse Chuck Taylor All Stars (hyph.)"
+        },
+        "R": {
+            "cells": [
+                140,
+                154,
+                37,
+                95,
+                125,
+                75,
+                110,
+                9,
+                22
+            ],
+            "answer": "Socialism",
+            "hint": "\u201cDemocracy is the road to ____\u201d (quote attributed to Karl Marx)"
+        },
+        "S": {
+            "cells": [
+                123,
+                72,
+                43,
+                28,
+                7,
+                142,
+                85
+            ],
+            "answer": "Whitney",
+            "hint": "Tallest peak in the contiguous United States"
+        },
+        "T": {
+            "cells": [
+                172,
+                147,
+                79,
+                92,
+                59,
+                106,
+                10,
+                41,
+                127
+            ],
+            "answer": "Eightfold",
+            "hint": "Having as many aspects as the Buddhist path to nirvana"
+        },
+        "U": {
+            "cells": [
+                124,
+                165,
+                57,
+                24,
+                76,
+                146
+            ],
+            "answer": "Homily",
+            "hint": "Brief sermon; tedious lecture"
+        },
+        "V": {
+            "cells": [
+                58,
+                105,
+                135,
+                42,
+                88,
+                149,
+                117,
+                73,
+                20
+            ],
+            "answer": "Ostrogoth",
+            "hint": "Theodoric the Great, for one"
+        },
+        "W": {
+            "cells": [
+                31,
+                6,
+                160,
+                46,
+                103,
+                139,
+                84,
+                119
+            ],
+            "answer": "Leftward",
+            "hint": "On a more progressive tack"
+        },
+        "X": {
+            "cells": [
+                173,
+                16,
+                121,
+                104,
+                1,
+                159,
+                34,
+                54
+            ],
+            "answer": "Dreamers",
+            "hint": "Folks with hopes of better things to come"
+        }
+    }
+}

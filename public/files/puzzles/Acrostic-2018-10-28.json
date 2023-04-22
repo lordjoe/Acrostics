@@ -1,0 +1,323 @@
+{
+    "answer": "A man flying into Honolulu says to the guy in the seat next to him, \u201cExcuse me, how do you pronounce it? Hawaii or Havaii?\u201d \u201cHavaii,\u201d says the other guy. \u201cThank you,\u201d says the first guy. And the other guy says, \u201cYou\u2019re velcome.\u201d",
+    "author": "Lisa Halliday,",
+    "authorCell": [
+        19,
+        93,
+        123,
+        101,
+        146,
+        124,
+        163,
+        21,
+        11,
+        140,
+        3,
+        151,
+        117,
+        103,
+        120,
+        2,
+        166,
+        31,
+        13,
+        70,
+        137
+    ],
+    "source": "Asymmetry",
+    "clues": {
+        "A": {
+            "cells": [
+                19,
+                91,
+                56,
+                112,
+                30
+            ],
+            "answer": "Laugh",
+            "hint": "Make one\u2019s diaphragm contract rhythmically"
+        },
+        "B": {
+            "cells": [
+                93,
+                29,
+                113,
+                12,
+                129,
+                57
+            ],
+            "answer": "iTunes",
+            "hint": "Big multimedia content manager"
+        },
+        "C": {
+            "cells": [
+                123,
+                60,
+                159,
+                42
+            ],
+            "answer": "Sera",
+            "hint": "Toxin-fighting fluids"
+        },
+        "D": {
+            "cells": [
+                101,
+                148,
+                164,
+                88,
+                58,
+                127,
+                34,
+                69,
+                45
+            ],
+            "answer": "Archetype",
+            "hint": "Original model; perfect example"
+        },
+        "E": {
+            "cells": [
+                146,
+                110,
+                81,
+                96,
+                7,
+                64,
+                20,
+                43,
+                125
+            ],
+            "answer": "Heavy-duty",
+            "hint": "Sturdy enough to take hard knocks (hyph.)"
+        },
+        "F": {
+            "cells": [
+                124,
+                136,
+                79,
+                65,
+                52,
+                16,
+                108,
+                92,
+                161,
+                39
+            ],
+            "answer": "Automotive",
+            "hint": "Self-propelled"
+        },
+        "G": {
+            "cells": [
+                163,
+                122,
+                55,
+                102,
+                40,
+                27,
+                71,
+                9,
+                147
+            ],
+            "answer": "Lucy Stone",
+            "hint": "19th-century champion of women\u2019s rights (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                21,
+                138,
+                54,
+                98,
+                37,
+                156
+            ],
+            "answer": "Laxity",
+            "hint": "Rigor\u2019s opposite"
+        },
+        "I": {
+            "cells": [
+                11,
+                111,
+                73,
+                139,
+                154
+            ],
+            "answer": "Irony",
+            "hint": "Opposite of sincerity, in a sense"
+        },
+        "J": {
+            "cells": [
+                140,
+                24,
+                99,
+                126,
+                114,
+                76,
+                61,
+                153,
+                8,
+                36
+            ],
+            "answer": "Daisy chain",
+            "hint": "Wiring scheme with sequentially linked devices (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                3,
+                90,
+                106,
+                17,
+                135,
+                51,
+                75,
+                32
+            ],
+            "answer": "Avenging",
+            "hint": "Ungentle task for an angel"
+        },
+        "L": {
+            "cells": [
+                151,
+                14,
+                133,
+                167,
+                59,
+                78,
+                115,
+                41
+            ],
+            "answer": "Yosemite",
+            "hint": "Home of the Mariposa Grove"
+        },
+        "M": {
+            "cells": [
+                117,
+                33,
+                10,
+                150,
+                87,
+                66
+            ],
+            "answer": "Augury",
+            "hint": "Interpretation of omens from the flight of birds"
+        },
+        "N": {
+            "cells": [
+                103,
+                128,
+                18,
+                53,
+                155,
+                142,
+                35,
+                4,
+                77
+            ],
+            "answer": "Shoeshine",
+            "hint": "Job for Horatio Alger\u2019s Ragged Dick"
+        },
+        "O": {
+            "cells": [
+                120,
+                49,
+                68,
+                145,
+                94,
+                80,
+                107,
+                26,
+                134,
+                160,
+                6
+            ],
+            "answer": "Youth hostel",
+            "hint": "Cheap lodging for travelers (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                2,
+                121,
+                22,
+                104,
+                38,
+                63,
+                83,
+                152,
+                50
+            ],
+            "answer": "Mouthwash",
+            "hint": "Freshener of a trap"
+        },
+        "Q": {
+            "cells": [
+                166,
+                84,
+                72,
+                143,
+                23,
+                116,
+                97,
+                130,
+                47
+            ],
+            "answer": "Mine shaft",
+            "hint": "Tunnel that may house an elevator (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                31,
+                46,
+                15,
+                1,
+                158,
+                100,
+                141,
+                85,
+                67,
+                118
+            ],
+            "answer": "Exhaustion",
+            "hint": "Probable state of a marathon finisher"
+        },
+        "S": {
+            "cells": [
+                13,
+                105,
+                144,
+                132,
+                162,
+                89,
+                74
+            ],
+            "answer": "Thoreau",
+            "hint": "Disobedient civilian of 1846"
+        },
+        "T": {
+            "cells": [
+                70,
+                131,
+                149,
+                109,
+                48,
+                165,
+                5,
+                82,
+                95,
+                25
+            ],
+            "answer": "Right of way",
+            "hint": "Issue where two roads cross (3 wds.)"
+        },
+        "U": {
+            "cells": [
+                137,
+                157,
+                119,
+                62,
+                28,
+                44,
+                86
+            ],
+            "answer": "Yoko Ono",
+            "hint": "Designer of the Imagine Peace Tower in Iceland (2 wds.)"
+        }
+    }
+}

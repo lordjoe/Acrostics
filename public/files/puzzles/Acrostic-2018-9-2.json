@@ -1,0 +1,356 @@
+{
+    "answer": "To get a comic strip off the ground you needed syndicate backing. ... And they had rules. You... couldn\u2019t show a navel, even on children... Mort Walker began retaliating by... adding crates of navel oranges into the story line.",
+    "author": "Cullen Murphy,",
+    "authorCell": [
+        49,
+        71,
+        169,
+        66,
+        87,
+        117,
+        9,
+        74,
+        112,
+        16,
+        58,
+        29,
+        95,
+        62,
+        138,
+        140,
+        8,
+        70,
+        94,
+        43,
+        160,
+        26,
+        135,
+        5,
+        69
+    ],
+    "source": "Cartoon County",
+    "clues": {
+        "A": {
+            "cells": [
+                49,
+                141,
+                158,
+                79,
+                2,
+                64,
+                22,
+                99
+            ],
+            "answer": "Censored",
+            "hint": "Like a blacked-out dialogue balloon"
+        },
+        "B": {
+            "cells": [
+                71,
+                171,
+                50,
+                127,
+                150,
+                107,
+                84
+            ],
+            "answer": "Unknown",
+            "hint": "What X may stand for"
+        },
+        "C": {
+            "cells": [
+                169,
+                67,
+                147,
+                114,
+                88,
+                33,
+                132
+            ],
+            "answer": "Leveled",
+            "hint": "Went through an evening"
+        },
+        "D": {
+            "cells": [
+                66,
+                81,
+                12,
+                125,
+                48,
+                105,
+                159
+            ],
+            "answer": "Lost art",
+            "hint": "What writing in cursive is becoming (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                87,
+                37,
+                170,
+                57,
+                73,
+                151,
+                10,
+                124,
+                109
+            ],
+            "answer": "Editorial",
+            "hint": "Opinion in print or sketch"
+        },
+        "F": {
+            "cells": [
+                117,
+                93,
+                15,
+                142,
+                34
+            ],
+            "answer": "Noise",
+            "hint": "Music you don\u2019t like"
+        },
+        "G": {
+            "cells": [
+                9,
+                60,
+                106,
+                21,
+                123,
+                137
+            ],
+            "answer": "Mythic",
+            "hint": "Legendary"
+        },
+        "H": {
+            "cells": [
+                74,
+                27,
+                41,
+                166,
+                134,
+                92,
+                115
+            ],
+            "answer": "Undoing",
+            "hint": "Cancellation; ruin"
+        },
+        "I": {
+            "cells": [
+                112,
+                148,
+                35,
+                80,
+                4,
+                131,
+                63,
+                164
+            ],
+            "answer": "Redheads",
+            "hint": "People with lots of pheomelanin"
+        },
+        "J": {
+            "cells": [
+                16,
+                97,
+                1,
+                72,
+                162,
+                51,
+                32,
+                128
+            ],
+            "answer": "Pitching",
+            "hint": "Activity done on a small hill"
+        },
+        "K": {
+            "cells": [
+                58,
+                116,
+                98,
+                7,
+                39,
+                25,
+                77
+            ],
+            "answer": "Halcyon",
+            "hint": "Peaceful and happy, as days of yore"
+        },
+        "L": {
+            "cells": [
+                29,
+                54,
+                102,
+                136
+            ],
+            "answer": "Yang",
+            "hint": "The lighter side?"
+        },
+        "M": {
+            "cells": [
+                95,
+                17,
+                82,
+                47,
+                163,
+                149,
+                122
+            ],
+            "answer": "Cowbell",
+            "hint": "Instrument heard in \u201cA Hard Day\u2019s Night\u201d"
+        },
+        "N": {
+            "cells": [
+                62,
+                14,
+                103,
+                130,
+                52,
+                146,
+                86,
+                168
+            ],
+            "answer": "Army-Navy",
+            "hint": "College matchup of services (hyph.)"
+        },
+        "O": {
+            "cells": [
+                138,
+                155,
+                19,
+                118,
+                36,
+                68,
+                96
+            ],
+            "answer": "Refresh",
+            "hint": "Internet browser command"
+        },
+        "P": {
+            "cells": [
+                140,
+                59,
+                153,
+                18,
+                119,
+                89,
+                45
+            ],
+            "answer": "Ten feet",
+            "hint": "Height of a regulation basketball rim (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                8,
+                75,
+                42,
+                90,
+                111,
+                56,
+                167,
+                152,
+                129
+            ],
+            "answer": "Olive drab",
+            "hint": "Tone taken by W.W. II G.I.s? (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                70,
+                28,
+                172,
+                13,
+                120,
+                85
+            ],
+            "answer": "Odetta",
+            "hint": "Holmes who sang the blues"
+        },
+        "S": {
+            "cells": [
+                94,
+                30,
+                53,
+                3,
+                126,
+                145
+            ],
+            "answer": "Noggin",
+            "hint": "Bean, noodle, gourd"
+        },
+        "T": {
+            "cells": [
+                43,
+                83,
+                24,
+                161
+            ],
+            "answer": "Cart",
+            "hint": "Icon for online shoppers"
+        },
+        "U": {
+            "cells": [
+                160,
+                65,
+                78,
+                20,
+                139,
+                110,
+                91,
+                38
+            ],
+            "answer": "Outtakes",
+            "hint": "Bonus features of a DVD reissue"
+        },
+        "V": {
+            "cells": [
+                26,
+                154,
+                108,
+                55,
+                133,
+                121,
+                40
+            ],
+            "answer": "Ugandan",
+            "hint": "One from the African Great Lakes region"
+        },
+        "W": {
+            "cells": [
+                135,
+                44,
+                11,
+                61,
+                104,
+                156
+            ],
+            "answer": "Nachos",
+            "hint": "Items it\u2019s impolite to double-dip"
+        },
+        "X": {
+            "cells": [
+                5,
+                31,
+                144,
+                165,
+                101,
+                76
+            ],
+            "answer": "Tufted",
+            "hint": "Like some titmice and puffins"
+        },
+        "Y": {
+            "cells": [
+                69,
+                143,
+                23,
+                157,
+                113,
+                46,
+                6,
+                100
+            ],
+            "answer": "Yogi Bear",
+            "hint": "Hanna-Barbera character who lives in a park (2 wds.)"
+        }
+    }
+}

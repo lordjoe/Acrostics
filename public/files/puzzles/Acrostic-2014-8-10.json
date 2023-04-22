@@ -1,0 +1,339 @@
+{
+    "answer": "Cats come at dawn to sit on your bed. They may not nip your nose or inhale your breath or make a sound. They simply sit... until you open one eyelid and spy them... about to drop dead for need of feeding. So it is with ideas.",
+    "author": "Ray Bradbury ,",
+    "authorCell": [
+        63,
+        114,
+        83,
+        125,
+        69,
+        9,
+        116,
+        26,
+        100,
+        132,
+        109,
+        58,
+        167,
+        117,
+        38,
+        107,
+        25,
+        33,
+        105,
+        45,
+        141,
+        140,
+        13
+    ],
+    "source": "Yestermorrow",
+    "clues": {
+        "A": {
+            "cells": [
+                63,
+                47,
+                15,
+                77,
+                104,
+                28,
+                124
+            ],
+            "answer": "Rotunda",
+            "hint": "The Pantheon in Rome has one"
+        },
+        "B": {
+            "cells": [
+                114,
+                70,
+                143,
+                129,
+                54,
+                22,
+                90,
+                158
+            ],
+            "answer": "Amethyst",
+            "hint": "Stone worn by ancient Greeks to ward off drunkenness"
+        },
+        "C": {
+            "cells": [
+                83,
+                43,
+                98,
+                68,
+                123,
+                12
+            ],
+            "answer": "Yo-Yo Ma",
+            "hint": "Player of a stringed instrument named \u201cPetunia\u201d (2 wds., hyph.)"
+        },
+        "D": {
+            "cells": [
+                125,
+                76,
+                106,
+                8,
+                139,
+                162,
+                48,
+                30
+            ],
+            "answer": "Bonefish",
+            "hint": "Prized catch off the Bahamas"
+        },
+        "E": {
+            "cells": [
+                69,
+                49,
+                153,
+                135,
+                165,
+                3,
+                85,
+                23,
+                115
+            ],
+            "answer": "Rendition",
+            "hint": "Delivery by a bounty hunter, e.g."
+        },
+        "F": {
+            "cells": [
+                9,
+                78,
+                59,
+                151,
+                32,
+                94,
+                122
+            ],
+            "answer": "Anodyne",
+            "hint": "Pain-relieving preparation"
+        },
+        "G": {
+            "cells": [
+                116,
+                40,
+                95,
+                5,
+                81,
+                57,
+                138
+            ],
+            "answer": "Ditched",
+            "hint": "Shaken or forsaken"
+        },
+        "H": {
+            "cells": [
+                26,
+                126,
+                74,
+                92,
+                61,
+                168,
+                1,
+                144
+            ],
+            "answer": "Boat race",
+            "hint": "Cox\u2019s contest (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                100,
+                14,
+                169,
+                41,
+                133,
+                72,
+                150,
+                53
+            ],
+            "answer": "Unspoken",
+            "hint": "Conveyed with no words, tacit"
+        },
+        "J": {
+            "cells": [
+                132,
+                64,
+                4,
+                152,
+                113,
+                93,
+                27
+            ],
+            "answer": "Residue",
+            "hint": "Trace of interest in forensics"
+        },
+        "K": {
+            "cells": [
+                109,
+                130,
+                154,
+                34
+            ],
+            "answer": "Yoga",
+            "hint": "Practice touted for stress relief"
+        },
+        "L": {
+            "cells": [
+                58,
+                110,
+                137,
+                17,
+                80,
+                35
+            ],
+            "answer": "Yeasty",
+            "hint": "Marked by change; full of vitality"
+        },
+        "M": {
+            "cells": [
+                167,
+                134,
+                37,
+                21,
+                89,
+                7,
+                101,
+                60,
+                155
+            ],
+            "answer": "Eponymous",
+            "hint": "Like many a debut album\u2019s title"
+        },
+        "N": {
+            "cells": [
+                117,
+                2,
+                148,
+                82,
+                163,
+                42,
+                62,
+                136,
+                97,
+                19
+            ],
+            "answer": "Safety belt",
+            "hint": "Gear for a high-rise window washer (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                38,
+                71,
+                18,
+                56,
+                84,
+                102,
+                157,
+                142
+            ],
+            "answer": "Tailspin",
+            "hint": "Alarm-inducing plunge"
+        },
+        "P": {
+            "cells": [
+                107,
+                24,
+                87,
+                164,
+                146,
+                46,
+                119
+            ],
+            "answer": "Euphony",
+            "hint": "Pleasing effect on the ear"
+        },
+        "Q": {
+            "cells": [
+                25,
+                73,
+                120,
+                160,
+                96,
+                39,
+                55
+            ],
+            "answer": "Retsina",
+            "hint": "Wine with a piney flavor"
+        },
+        "R": {
+            "cells": [
+                33,
+                6,
+                128,
+                67,
+                108,
+                51,
+                88,
+                20,
+                166,
+                149
+            ],
+            "answer": "Mother lode",
+            "hint": "Miners\u2019 jackpot (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                105,
+                44,
+                66,
+                121,
+                91,
+                29
+            ],
+            "answer": "Outhit",
+            "hint": "Beat in a home run derby"
+        },
+        "T": {
+            "cells": [
+                45,
+                31,
+                145,
+                161,
+                99,
+                16,
+                131
+            ],
+            "answer": "Redwood",
+            "hint": "Specimen in California\u2019s Mariposa Grove"
+        },
+        "U": {
+            "cells": [
+                141,
+                52,
+                118,
+                10,
+                159,
+                79,
+                103
+            ],
+            "answer": "Rip tide",
+            "hint": "Frequent cause for lifeguard rescues"
+        },
+        "V": {
+            "cells": [
+                140,
+                11,
+                112,
+                156,
+                127,
+                75
+            ],
+            "answer": "Odious",
+            "hint": "Execrable, loathsome"
+        },
+        "W": {
+            "cells": [
+                13,
+                50,
+                111,
+                147,
+                86,
+                65,
+                36
+            ],
+            "answer": "Wolfman",
+            "hint": "Hirsute penny dreadful villain"
+        }
+    }
+}

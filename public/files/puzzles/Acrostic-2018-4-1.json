@@ -1,0 +1,358 @@
+{
+    "answer": "Coin auctions... are grubby affairs,... populated by unkempt, bespectacled men whispering to one another. They have the feel of a reunion of the high school chess club... they all speak a language not... comprehensible to outsiders.",
+    "author": "Alison Frankel,",
+    "authorCell": [
+        143,
+        146,
+        106,
+        127,
+        30,
+        41,
+        23,
+        161,
+        151,
+        11,
+        42,
+        36,
+        56,
+        37,
+        79,
+        6,
+        38,
+        139,
+        15,
+        103,
+        101,
+        16,
+        130,
+        43
+    ],
+    "source": "Double Eagle",
+    "clues": {
+        "A": {
+            "cells": [
+                143,
+                83,
+                34,
+                19,
+                167,
+                52
+            ],
+            "answer": "Arabic",
+            "hint": "Sort of writing on a dinar or rial"
+        },
+        "B": {
+            "cells": [
+                146,
+                69,
+                110,
+                164,
+                28,
+                8,
+                87,
+                123,
+                51
+            ],
+            "answer": "Lifestyle",
+            "hint": "Set of everyday habits and tastes"
+        },
+        "C": {
+            "cells": [
+                106,
+                61,
+                90,
+                135,
+                166,
+                35
+            ],
+            "answer": "Invest",
+            "hint": "Take a chance on getting a return"
+        },
+        "D": {
+            "cells": [
+                127,
+                98,
+                40,
+                152,
+                5,
+                20,
+                60,
+                178
+            ],
+            "answer": "Slugabed",
+            "hint": "Late-rising lazybones"
+        },
+        "E": {
+            "cells": [
+                30,
+                168,
+                100,
+                150,
+                12,
+                119,
+                137,
+                84,
+                57
+            ],
+            "answer": "Obfuscate",
+            "hint": "Make unclear or confusing"
+        },
+        "F": {
+            "cells": [
+                41,
+                162,
+                62,
+                21,
+                121,
+                102,
+                144
+            ],
+            "answer": "New York",
+            "hint": "State whose quarter bears the inscription \u201cGateway to Freedom\u201d (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                23,
+                9,
+                181,
+                88,
+                160,
+                73,
+                105,
+                58
+            ],
+            "answer": "Fish pond",
+            "hint": "Aquaculture facility"
+        },
+        "H": {
+            "cells": [
+                161,
+                142,
+                47,
+                26,
+                180,
+                72,
+                112
+            ],
+            "answer": "Rebirth",
+            "hint": "Event connected with karma"
+        },
+        "I": {
+            "cells": [
+                151,
+                138,
+                124,
+                13,
+                31,
+                172,
+                75,
+                48
+            ],
+            "answer": "Al Capone",
+            "hint": "Tax-evading inmate of the 1930s (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                11,
+                91,
+                45,
+                74,
+                111,
+                177,
+                128,
+                59
+            ],
+            "answer": "Nepotism",
+            "hint": "Form of political corruption"
+        },
+        "K": {
+            "cells": [
+                42,
+                94,
+                2,
+                116,
+                63,
+                141,
+                169,
+                22,
+                78
+            ],
+            "answer": "Keogh plan",
+            "hint": "Alternative to a SEP-I.R.A. (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                36,
+                50,
+                173,
+                7,
+                125
+            ],
+            "answer": "Epoch",
+            "hint": "Distinctive period of time"
+        },
+        "M": {
+            "cells": [
+                56,
+                174,
+                95,
+                156,
+                120,
+                77,
+                4,
+                140,
+                25
+            ],
+            "answer": "Lufthansa",
+            "hint": "Carrier out of Frankfurt Airport"
+        },
+        "N": {
+            "cells": [
+                37,
+                64,
+                176,
+                129,
+                107,
+                18,
+                154,
+                92
+            ],
+            "answer": "Discount",
+            "hint": "Enticement for shoppers"
+        },
+        "O": {
+            "cells": [
+                79,
+                117,
+                132,
+                155,
+                39
+            ],
+            "answer": "\"Oh, Boy!\"",
+            "hint": "\u201cGoody!\u201d ... or a 1917 Jerome Kern musical (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                6,
+                148,
+                55,
+                109,
+                32,
+                133,
+                163
+            ],
+            "answer": "Uncouth",
+            "hint": "Like a yahoo, lout or boor"
+        },
+        "Q": {
+            "cells": [
+                38,
+                126,
+                147,
+                17,
+                108,
+                89,
+                3,
+                65,
+                170
+            ],
+            "answer": "Bearnaise",
+            "hint": "Sauce flavored with shallots and wine"
+        },
+        "R": {
+            "cells": [
+                139,
+                104,
+                118,
+                53,
+                76,
+                14
+            ],
+            "answer": "Luster",
+            "hint": "Factor in numismatic grading"
+        },
+        "S": {
+            "cells": [
+                15,
+                29,
+                81,
+                113,
+                44,
+                96,
+                68,
+                145
+            ],
+            "answer": "Ephemera",
+            "hint": "Collectibles such as tickets and postcards"
+        },
+        "T": {
+            "cells": [
+                103,
+                70,
+                171,
+                85,
+                131,
+                49,
+                153
+            ],
+            "answer": "Enthuse",
+            "hint": "Wax rhapsodic or ebullient"
+        },
+        "U": {
+            "cells": [
+                101,
+                157,
+                46,
+                175,
+                114,
+                27,
+                82,
+                67
+            ],
+            "answer": "Act Three",
+            "hint": "Time for resolution in a screenplay, typically (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                16,
+                86,
+                159,
+                99,
+                33,
+                122,
+                71,
+                136
+            ],
+            "answer": "Gemology",
+            "hint": "Study leaving no stone unturned?"
+        },
+        "W": {
+            "cells": [
+                130,
+                158,
+                10,
+                24,
+                54,
+                93
+            ],
+            "answer": "Loofah",
+            "hint": "Bathroom item that in another form may be cooked and eaten"
+        },
+        "X": {
+            "cells": [
+                43,
+                115,
+                149,
+                134,
+                80,
+                66,
+                97,
+                165,
+                1,
+                179
+            ],
+            "answer": "Eightpence",
+            "hint": "Redcoat\u2019s daily pay in the Revolutionary War"
+        }
+    }
+}

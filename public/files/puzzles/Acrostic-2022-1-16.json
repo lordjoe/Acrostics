@@ -1,0 +1,364 @@
+{
+    "answer": "In a symbolic... way, snow was to Chicago what cotton was to Mississippi. ... [W]here you saw snow you by definition would not see cotton and vice versa. Coming to Chicago was a guarantee that you would not be picking cotton.",
+    "author": "(Isabel) Wilkerson,",
+    "authorCell": [
+        131,
+        82,
+        9,
+        164,
+        96,
+        113,
+        65,
+        157,
+        105,
+        41,
+        20,
+        138,
+        118,
+        44,
+        145,
+        39,
+        79,
+        17,
+        158,
+        25,
+        61,
+        60,
+        43,
+        136,
+        81,
+        51
+    ],
+    "source": "(The) Warmth of Other Suns",
+    "clues": {
+        "A": {
+            "cells": [
+                131,
+                32,
+                53,
+                170,
+                112,
+                70,
+                153,
+                94
+            ],
+            "answer": "Whiteout",
+            "hint": "Disorienting blizzard condition"
+        },
+        "B": {
+            "cells": [
+                82,
+                27,
+                99,
+                69,
+                56,
+                127
+            ],
+            "answer": "Iconic",
+            "hint": "Instantly recognizable"
+        },
+        "C": {
+            "cells": [
+                9,
+                143,
+                42,
+                156,
+                73,
+                92
+            ],
+            "answer": "Lean on",
+            "hint": "Use as a prop, gain support from (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                164,
+                117,
+                87,
+                101,
+                36,
+                57,
+                21
+            ],
+            "answer": "Kowtows",
+            "hint": "Behaves like a sycophant"
+        },
+        "E": {
+            "cells": [
+                96,
+                167,
+                148,
+                54,
+                122,
+                108,
+                33,
+                2
+            ],
+            "answer": "Egyptian",
+            "hint": "Language on the Rosetta Stone"
+        },
+        "F": {
+            "cells": [
+                113,
+                64,
+                159,
+                10,
+                24,
+                130,
+                86
+            ],
+            "answer": "Rubicon",
+            "hint": "Point of no return"
+        },
+        "G": {
+            "cells": [
+                65,
+                84,
+                147,
+                162,
+                103,
+                48
+            ],
+            "answer": "Sit-ins",
+            "hint": "Inactive acts of activists? (hyph.)"
+        },
+        "H": {
+            "cells": [
+                157,
+                75,
+                28,
+                46,
+                137
+            ],
+            "answer": "Obama",
+            "hint": "\u201cYes we can\u201d campaigner"
+        },
+        "I": {
+            "cells": [
+                105,
+                169,
+                19,
+                128,
+                91,
+                146,
+                5,
+                68
+            ],
+            "answer": "Nowadays",
+            "hint": "In these times, presently"
+        },
+        "J": {
+            "cells": [
+                41,
+                13,
+                83,
+                168,
+                58,
+                106,
+                152,
+                135
+            ],
+            "answer": "Watchdog",
+            "hint": "Guardian against malfeasance"
+        },
+        "K": {
+            "cells": [
+                20,
+                6,
+                50,
+                114,
+                34,
+                134,
+                77
+            ],
+            "answer": "\"Amistad\"",
+            "hint": "1997 movie about a mutiny"
+        },
+        "L": {
+            "cells": [
+                138,
+                115,
+                80,
+                40,
+                59,
+                14
+            ],
+            "answer": "Rainey",
+            "hint": "\u201cMa\u201d who sang \u201cBo-Weavil Blues\u201d"
+        },
+        "M": {
+            "cells": [
+                118,
+                76,
+                49,
+                144,
+                26,
+                98
+            ],
+            "answer": "Mystic",
+            "hint": "W.N.B.A. player from Washington"
+        },
+        "N": {
+            "cells": [
+                44,
+                12,
+                30,
+                116,
+                78,
+                166,
+                100,
+                133
+            ],
+            "answer": "Two cents",
+            "hint": "Value of a viewpoint? (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                145,
+                63,
+                31,
+                90,
+                165,
+                16,
+                121
+            ],
+            "answer": "Howling",
+            "hint": "Descriptor for a wolf or a gale"
+        },
+        "P": {
+            "cells": [
+                39,
+                11,
+                124,
+                89,
+                161,
+                72
+            ],
+            "answer": "Occupy",
+            "hint": "Movement concerned with wealth disparity"
+        },
+        "Q": {
+            "cells": [
+                79,
+                47,
+                111,
+                142,
+                95
+            ],
+            "answer": "Fives",
+            "hint": "Bills featuring the Lincoln Memorial"
+        },
+        "R": {
+            "cells": [
+                17,
+                163,
+                141,
+                3,
+                107,
+                126,
+                66
+            ],
+            "answer": "Octavia",
+            "hint": "Spencer with a role in \u201cHidden Figures\u201d"
+        },
+        "S": {
+            "cells": [
+                158,
+                67,
+                104,
+                120,
+                29
+            ],
+            "answer": "Twang",
+            "hint": "Nashville vocal tone"
+        },
+        "T": {
+            "cells": [
+                25,
+                102,
+                8,
+                52,
+                160,
+                129,
+                88,
+                71
+            ],
+            "answer": "Hoosegow",
+            "hint": "Clink, pokey, slammer"
+        },
+        "U": {
+            "cells": [
+                61,
+                154,
+                123,
+                109,
+                74,
+                22,
+                1,
+                172,
+                140
+            ],
+            "answer": "Elocution",
+            "hint": "Skill in oratory"
+        },
+        "V": {
+            "cells": [
+                60,
+                149,
+                93,
+                37,
+                4
+            ],
+            "answer": "Roots",
+            "hint": "Miniseries that sparked an interest in genealogy"
+        },
+        "W": {
+            "cells": [
+                43,
+                125,
+                139,
+                155,
+                85,
+                18,
+                62
+            ],
+            "answer": "Shadowy",
+            "hint": "Hard to identify; dimly lit"
+        },
+        "X": {
+            "cells": [
+                136,
+                55,
+                38,
+                23,
+                151,
+                173
+            ],
+            "answer": "Uptown",
+            "hint": "Windy City entertainment district"
+        },
+        "Y": {
+            "cells": [
+                81,
+                110,
+                7,
+                45
+            ],
+            "answer": "Nebo",
+            "hint": "Mount affording a view of the Promised Land"
+        },
+        "Z": {
+            "cells": [
+                51,
+                150,
+                119,
+                171,
+                35,
+                132,
+                15,
+                97
+            ],
+            "answer": "Suitcase",
+            "hint": "Porter\u2019s burden"
+        }
+    }
+}

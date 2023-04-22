@@ -1,0 +1,365 @@
+{
+    "answer": "The most convincing argument against time travel is the remarkable scarcity of time travelers. However unpleasant our age may appear to the future, surely one would expect scholars and students to visit us if... possible.",
+    "author": "(Arthur C.) Clarke,",
+    "authorCell": [
+        62,
+        128,
+        149,
+        61,
+        53,
+        76,
+        90,
+        48,
+        130,
+        118,
+        178,
+        180,
+        71,
+        162,
+        114,
+        67,
+        72,
+        2,
+        84,
+        173,
+        125,
+        120,
+        119,
+        52,
+        49
+    ],
+    "source": "Profiles Of The Future",
+    "clues": {
+        "A": {
+            "cells": [
+                62,
+                175,
+                160,
+                33,
+                95,
+                14,
+                143
+            ],
+            "answer": "\u201cContact\u201d",
+            "hint": "1985 novel of alien encounters"
+        },
+        "B": {
+            "cells": [
+                128,
+                28,
+                8,
+                113,
+                66,
+                155,
+                92
+            ],
+            "answer": "Lactose",
+            "hint": "Stuff of intolerance, for some"
+        },
+        "C": {
+            "cells": [
+                149,
+                97,
+                79,
+                134,
+                109,
+                46,
+                65
+            ],
+            "answer": "Atrophy",
+            "hint": "Go downhill, but not precipitously"
+        },
+        "D": {
+            "cells": [
+                61,
+                3,
+                75,
+                132,
+                19,
+                94,
+                110
+            ],
+            "answer": "Reverse",
+            "hint": "What forklift drivers may operate in"
+        },
+        "E": {
+            "cells": [
+                53,
+                81,
+                18,
+                122,
+                37,
+                147,
+                135,
+                4
+            ],
+            "answer": "Khartoum",
+            "hint": "Where the White Nile meets the Blue Nile"
+        },
+        "F": {
+            "cells": [
+                76,
+                31,
+                115,
+                101,
+                89,
+                145,
+                15,
+                54
+            ],
+            "answer": "Estancia",
+            "hint": "Working ranch for gauchos"
+        },
+        "G": {
+            "cells": [
+                90,
+                74,
+                112,
+                60,
+                158,
+                9,
+                139
+            ],
+            "answer": "Paradox",
+            "hint": "Snag in many a logic problem"
+        },
+        "H": {
+            "cells": [
+                48,
+                117,
+                133,
+                172,
+                10,
+                154
+            ],
+            "answer": "Rewind",
+            "hint": "Get a fresh start, metaphorically"
+        },
+        "I": {
+            "cells": [
+                130,
+                170,
+                68,
+                42,
+                26,
+                83
+            ],
+            "answer": "Outlaw",
+            "hint": "Robin Hood, per the Sheriff of Nottingham"
+        },
+        "J": {
+            "cells": [
+                118,
+                73,
+                51,
+                17,
+                104,
+                138,
+                30,
+                163
+            ],
+            "answer": "Fragment",
+            "hint": "Chip off a block, e.g."
+        },
+        "K": {
+            "cells": [
+                178,
+                35,
+                140,
+                99,
+                16,
+                63,
+                161,
+                129
+            ],
+            "answer": "Impunity",
+            "hint": "Freedom from punishment"
+        },
+        "L": {
+            "cells": [
+                180,
+                88,
+                50,
+                108,
+                144,
+                157,
+                70
+            ],
+            "answer": "Lump sum",
+            "hint": "Lottery winner\u2019s option (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                71,
+                11,
+                41,
+                100,
+                27,
+                56,
+                152,
+                137,
+                181,
+                124
+            ],
+            "answer": "Everglades",
+            "hint": "Area troubled by Burmese pythons"
+        },
+        "N": {
+            "cells": [
+                162,
+                7,
+                38,
+                78,
+                25,
+                142,
+                116,
+                57,
+                176
+            ],
+            "answer": "Stretches",
+            "hint": "Straight sides of a racecourse"
+        },
+        "O": {
+            "cells": [
+                114,
+                55,
+                80,
+                141,
+                126,
+                165,
+                34,
+                96,
+                20
+            ],
+            "answer": "Observing",
+            "hint": "\u201cYou can see a lot just by ___\u201d (Yogi Berra)"
+        },
+        "P": {
+            "cells": [
+                67,
+                105,
+                167,
+                1,
+                91,
+                39,
+                24,
+                123
+            ],
+            "answer": "Fast lane",
+            "hint": "High-pressure and high-risk lifestyle (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                72,
+                93,
+                32,
+                159
+            ],
+            "answer": "Tate",
+            "hint": "Turner Prize awarder for art"
+        },
+        "R": {
+            "cells": [
+                2,
+                82,
+                171,
+                156,
+                23,
+                58,
+                44
+            ],
+            "answer": "Hostess",
+            "hint": "Brand name on a Ding Dongs box"
+        },
+        "S": {
+            "cells": [
+                84,
+                121,
+                136,
+                164,
+                102,
+                29,
+                177,
+                45
+            ],
+            "answer": "Eulogist",
+            "hint": "Bill Clinton, for Nixon, or George W. Bush, for Reagan"
+        },
+        "T": {
+            "cells": [
+                173,
+                107,
+                21,
+                40,
+                86,
+                151
+            ],
+            "answer": "Fauves",
+            "hint": "Artists like Matisse and Derain in the early 1900s"
+        },
+        "U": {
+            "cells": [
+                125,
+                169,
+                12,
+                77,
+                43,
+                64,
+                106
+            ],
+            "answer": "Utility",
+            "hint": "One of two on a Monopoly board"
+        },
+        "V": {
+            "cells": [
+                120,
+                69,
+                174,
+                5,
+                85,
+                47,
+                150
+            ],
+            "answer": "Tip over",
+            "hint": "Lose control of an umiak, e.g. (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                119,
+                179,
+                103,
+                87,
+                22,
+                36,
+                131,
+                6,
+                59,
+                146
+            ],
+            "answer": "Ubermensch",
+            "hint": "\u201cThus Spoke Zarathustra\u201d concept"
+        },
+        "X": {
+            "cells": [
+                52,
+                111,
+                153,
+                168,
+                13,
+                127
+            ],
+            "answer": "Ranine",
+            "hint": "Pertaining to frogs"
+        },
+        "Y": {
+            "cells": [
+                49,
+                148,
+                98,
+                166
+            ],
+            "answer": "Eloi",
+            "hint": "Race invented by H. G. Wells"
+        }
+    }
+}

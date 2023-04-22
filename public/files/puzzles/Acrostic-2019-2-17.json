@@ -1,0 +1,331 @@
+{
+    "answer": "I have... a hard time getting people to go to the movies with me. ... I am interested in the... grapplings of Eros and Thanatos as performed, attractively, by young people. Such dramas comprise a kind of middle-aged pornography... .",
+    "author": "(Lorrie) Moore,",
+    "authorCell": [
+        13,
+        33,
+        38,
+        144,
+        66,
+        42,
+        55,
+        60,
+        43,
+        35,
+        88,
+        34,
+        110,
+        161,
+        122,
+        117,
+        57,
+        152,
+        169,
+        74,
+        114
+    ],
+    "source": "See What Can Be Done",
+    "clues": {
+        "A": {
+            "cells": [
+                13,
+                27,
+                109,
+                168,
+                123,
+                40,
+                56,
+                72,
+                146
+            ],
+            "answer": "\"Mean Girls\"",
+            "hint": "2004 teen comedy starring Lindsay Lohan (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                33,
+                70,
+                111,
+                49,
+                142,
+                19,
+                93,
+                155
+            ],
+            "answer": "Optimism",
+            "hint": "Pollyanna Whittier\u2019s attitude"
+        },
+        "C": {
+            "cells": [
+                38,
+                131,
+                11,
+                82,
+                96,
+                24,
+                149,
+                163,
+                63
+            ],
+            "answer": "Outspoken",
+            "hint": "Frank in stating one\u2019s opinions"
+        },
+        "D": {
+            "cells": [
+                144,
+                97,
+                17,
+                171,
+                41,
+                3,
+                61
+            ],
+            "answer": "Retread",
+            "hint": "Tired version of a previous work ... or a certain tire"
+        },
+        "E": {
+            "cells": [
+                66,
+                47,
+                22,
+                159,
+                81,
+                116,
+                36,
+                135
+            ],
+            "answer": "Employer",
+            "hint": "Sandra Bullock, to Ryan Reynolds in \u201cThe Proposal\u201d"
+        },
+        "F": {
+            "cells": [
+                42,
+                7,
+                92,
+                68,
+                106,
+                133,
+                120,
+                173
+            ],
+            "answer": "Short hop",
+            "hint": "Bounce difficult for an infielder to snag (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                55,
+                6,
+                113,
+                147,
+                95,
+                164,
+                80,
+                31,
+                127
+            ],
+            "answer": "Eavesdrop",
+            "hint": "Seek intel in a covert operation"
+        },
+        "H": {
+            "cells": [
+                60,
+                20,
+                160,
+                98,
+                4,
+                148,
+                45,
+                79,
+                134
+            ],
+            "answer": "Enervated",
+            "hint": "Possessing zippo zip"
+        },
+        "I": {
+            "cells": [
+                43,
+                174,
+                141,
+                25,
+                124,
+                112,
+                89,
+                67
+            ],
+            "answer": "Whopping",
+            "hint": "Quite large, as an amount of money"
+        },
+        "J": {
+            "cells": [
+                35,
+                52,
+                21,
+                87,
+                76,
+                132,
+                2,
+                153,
+                166,
+                115
+            ],
+            "answer": "High school",
+            "hint": "Ridgemont or Rydell, in pictures (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                88,
+                71,
+                9,
+                156,
+                140,
+                105,
+                59,
+                125
+            ],
+            "answer": "Apricate",
+            "hint": "Lie basking in the sun"
+        },
+        "L": {
+            "cells": [
+                34,
+                23,
+                128,
+                103,
+                143,
+                83,
+                54,
+                65,
+                175
+            ],
+            "answer": "Telepathy",
+            "hint": "Ability of Edward Cullen in \u201cThe Twilight Saga\u201d"
+        },
+        "M": {
+            "cells": [
+                110,
+                138,
+                91,
+                78,
+                12,
+                162,
+                46,
+                28
+            ],
+            "answer": "Catfight",
+            "hint": "Stylized altercation in 1939\u2019s \u201cThe Women\u201d"
+        },
+        "N": {
+            "cells": [
+                161,
+                37,
+                118,
+                69,
+                104,
+                8,
+                51,
+                130
+            ],
+            "answer": "Amy Adams",
+            "hint": "Princess player in \u201cEnchanted\u201d (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                122,
+                16,
+                100,
+                151,
+                32,
+                48,
+                64,
+                167,
+                136
+            ],
+            "answer": "Neon tetra",
+            "hint": "Fish tank fish with distinctive coloration (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                117,
+                50,
+                10,
+                102,
+                77,
+                29,
+                157
+            ],
+            "answer": "Bad mood",
+            "hint": "What Oscar the Grouch is often found in (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                57,
+                121,
+                108,
+                150,
+                165,
+                44,
+                85,
+                14,
+                139
+            ],
+            "answer": "Euripides",
+            "hint": "Tragedian who wrote \u201cMedea\u201d"
+        },
+        "R": {
+            "cells": [
+                152,
+                101,
+                172,
+                30,
+                126,
+                84
+            ],
+            "answer": "Dragon",
+            "hint": "Donkey\u2019s lover in \u201cShrek\u201d"
+        },
+        "S": {
+            "cells": [
+                169,
+                154,
+                99,
+                26,
+                73,
+                137,
+                1,
+                86,
+                58
+            ],
+            "answer": "Off-limits",
+            "hint": "Restricted from entrance or use (hyph.)"
+        },
+        "T": {
+            "cells": [
+                74,
+                5,
+                170,
+                90,
+                18,
+                145,
+                39,
+                62,
+                107,
+                119
+            ],
+            "answer": "Negativity",
+            "hint": "Psychological bias of a curmudgeon"
+        },
+        "U": {
+            "cells": [
+                114,
+                53,
+                75,
+                94,
+                15,
+                129,
+                158
+            ],
+            "answer": "Engaged",
+            "hint": "What Cher and Danny Aiello are in \u201cMoonstruck\u201d"
+        }
+    }
+}

@@ -1,0 +1,345 @@
+{
+    "answer": "[A] now ex-CEO of one of the major... publishing houses..., when asked to predict a title for a... megahit, replied \u201cLincoln\u2019s Doctor\u2019s Dog.\u201d The combination of a beloved president,... health, and America\u2019s favorite pet could never fail.",
+    "author": "(Jodie) Archer (and Matthew L. Jockers),",
+    "authorCell": [
+        21,
+        96,
+        162,
+        102,
+        123,
+        155,
+        157,
+        42,
+        131,
+        27,
+        145,
+        150,
+        161,
+        38,
+        160,
+        120,
+        165,
+        8,
+        76,
+        148,
+        154,
+        49,
+        81
+    ],
+    "source": "The Bestseller Code",
+    "clues": {
+        "A": {
+            "cells": [
+                21,
+                118,
+                67,
+                173,
+                139,
+                152,
+                106
+            ],
+            "answer": "Abraham",
+            "hint": "Stone-faced neighbor of Theodore"
+        },
+        "B": {
+            "cells": [
+                96,
+                168,
+                34,
+                74,
+                144,
+                119,
+                13
+            ],
+            "answer": "Regimen",
+            "hint": "Program of diet or exercise"
+        },
+        "C": {
+            "cells": [
+                162,
+                115,
+                93,
+                47,
+                136,
+                25,
+                66,
+                3
+            ],
+            "answer": "Cockapoo",
+            "hint": "Part-spaniel mixed breed"
+        },
+        "D": {
+            "cells": [
+                102,
+                51,
+                85,
+                158,
+                30,
+                133
+            ],
+            "answer": "Honest",
+            "hint": "Square, upright, level"
+        },
+        "E": {
+            "cells": [
+                123,
+                6,
+                104,
+                39,
+                171,
+                78,
+                62
+            ],
+            "answer": "Excerpt",
+            "hint": "Acrostic puzzle quotation, e.g."
+        },
+        "F": {
+            "cells": [
+                155,
+                72,
+                98,
+                57,
+                28,
+                174,
+                116,
+                11,
+                135
+            ],
+            "answer": "Radcliffe",
+            "hint": "Ann whose novels were popular in the 1790s"
+        },
+        "G": {
+            "cells": [
+                157,
+                70,
+                88,
+                14,
+                58,
+                134,
+                36,
+                114
+            ],
+            "answer": "Telethon",
+            "hint": "Drive lasting a long time"
+        },
+        "H": {
+            "cells": [
+                42,
+                164,
+                69,
+                107,
+                92,
+                137,
+                55,
+                17
+            ],
+            "answer": "Humboldt",
+            "hint": "\u201c____\u2019s Gift\u201d (Saul Bellow Pulitzer-winning novel)"
+        },
+        "I": {
+            "cells": [
+                131,
+                16,
+                151,
+                37,
+                90,
+                108,
+                169,
+                54
+            ],
+            "answer": "Effusive",
+            "hint": "Gushing, over the top"
+        },
+        "J": {
+            "cells": [
+                27,
+                113,
+                2,
+                149,
+                172,
+                61,
+                91,
+                127
+            ],
+            "answer": "Bona fide",
+            "hint": "Meant sincerely; genuine (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                145,
+                112,
+                130,
+                163,
+                79,
+                12,
+                44
+            ],
+            "answer": "Eidolon",
+            "hint": "Specter, ghost, phantom"
+        },
+        "L": {
+            "cells": [
+                150,
+                18,
+                59,
+                167,
+                100,
+                35,
+                117,
+                80
+            ],
+            "answer": "Shanghai",
+            "hint": "Force aboard a ship after drugging"
+        },
+        "M": {
+            "cells": [
+                161,
+                143,
+                52,
+                125,
+                29,
+                89,
+                71
+            ],
+            "answer": "Tapping",
+            "hint": "Selecting, as for a position"
+        },
+        "N": {
+            "cells": [
+                38,
+                73,
+                9,
+                53,
+                94,
+                175,
+                147,
+                128,
+                111
+            ],
+            "answer": "Shortlist",
+            "hint": "Include among the last few choices for a prize"
+        },
+        "O": {
+            "cells": [
+                160,
+                140,
+                46,
+                60,
+                4,
+                87,
+                23,
+                124
+            ],
+            "answer": "Eastwood",
+            "hint": "\u201cThe Bridges of Madison County\u201d director"
+        },
+        "P": {
+            "cells": [
+                120,
+                45,
+                26,
+                82,
+                5,
+                142
+            ],
+            "answer": "Lauded",
+            "hint": "Given high praise"
+        },
+        "Q": {
+            "cells": [
+                165,
+                15,
+                75,
+                31,
+                110,
+                146,
+                56,
+                95
+            ],
+            "answer": "Lothario",
+            "hint": "Casanova, Don Juan, Romeo"
+        },
+        "R": {
+            "cells": [
+                8,
+                159,
+                84,
+                138,
+                105,
+                20,
+                43
+            ],
+            "answer": "Epitome",
+            "hint": "Perfect embodiment"
+        },
+        "S": {
+            "cells": [
+                76,
+                64,
+                22,
+                170,
+                7,
+                50,
+                156,
+                99,
+                132
+            ],
+            "answer": "Rejection",
+            "hint": "S.A.S.E. contents, for many a budding author"
+        },
+        "T": {
+            "cells": [
+                148,
+                1,
+                126,
+                77,
+                63,
+                19,
+                97,
+                40
+            ],
+            "answer": "Careless",
+            "hint": "Sloppy, lax; cavalier"
+        },
+        "U": {
+            "cells": [
+                154,
+                122,
+                103,
+                24,
+                65,
+                83,
+                10,
+                41
+            ],
+            "answer": "Overflow",
+            "hint": "What goes above the lip"
+        },
+        "V": {
+            "cells": [
+                49,
+                68,
+                153,
+                32,
+                109,
+                86,
+                129
+            ],
+            "answer": "Da Vinci",
+            "hint": "Renaissance polymath sometimes credited with inventing the helicopter, parachute and tank (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                81,
+                33,
+                166,
+                141,
+                121,
+                101,
+                48
+            ],
+            "answer": "Endnote",
+            "hint": "Chapter-closing addendum"
+        }
+    }
+}

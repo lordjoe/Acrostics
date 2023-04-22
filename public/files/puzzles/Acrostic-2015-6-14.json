@@ -1,0 +1,347 @@
+{
+    "answer": "Dogs are incapable of being anything but themselves. Show me a dog that puts on airs or laughs politely at an unfunny joke and I\u2019ll show you a human in a dog costume, possibly one owned and licensed by Walt Disney.",
+    "author": "Meghan Daum,",
+    "authorCell": [
+        38,
+        157,
+        23,
+        75,
+        162,
+        155,
+        150,
+        13,
+        60,
+        130,
+        58,
+        28,
+        142,
+        33,
+        145,
+        44,
+        132,
+        20,
+        72,
+        98,
+        51,
+        32,
+        151,
+        50
+    ],
+    "source": "The Unspeakable",
+    "clues": {
+        "A": {
+            "cells": [
+                38,
+                65,
+                147,
+                123,
+                88,
+                22,
+                5
+            ],
+            "answer": "Madonna",
+            "hint": "Singer who said \u201cI am my own work of art\u201d"
+        },
+        "B": {
+            "cells": [
+                157,
+                52,
+                21,
+                106,
+                78,
+                120
+            ],
+            "answer": "Edison",
+            "hint": "First inductee into the National Inventors Hall of Fame"
+        },
+        "C": {
+            "cells": [
+                23,
+                79,
+                148,
+                39,
+                54,
+                126,
+                161
+            ],
+            "answer": "Glasgow",
+            "hint": "Home of the University of Strathclyde"
+        },
+        "D": {
+            "cells": [
+                75,
+                57,
+                105,
+                91,
+                127,
+                164,
+                40,
+                12
+            ],
+            "answer": "Half step",
+            "hint": "Interval from B to C, e.g. (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                162,
+                137,
+                119,
+                1,
+                96,
+                24,
+                64
+            ],
+            "answer": "Abidjan",
+            "hint": "Home to about one in five Ivorians"
+        },
+        "F": {
+            "cells": [
+                155,
+                85,
+                124,
+                100,
+                25,
+                47
+            ],
+            "answer": "Nagano",
+            "hint": "1998 Winter Olympics host"
+        },
+        "G": {
+            "cells": [
+                150,
+                170,
+                9,
+                117,
+                134,
+                35,
+                84
+            ],
+            "answer": "\"Dynasty\"",
+            "hint": "Popular soap of the 1980s"
+        },
+        "H": {
+            "cells": [
+                13,
+                168,
+                128,
+                29,
+                102,
+                53,
+                81,
+                154
+            ],
+            "answer": "Antidote",
+            "hint": "What science is to superstition, per Adam Smith"
+        },
+        "I": {
+            "cells": [
+                60,
+                141,
+                107,
+                80,
+                93,
+                31,
+                7,
+                158
+            ],
+            "answer": "Unhinged",
+            "hint": "Balmy, batty, bonkers"
+        },
+        "J": {
+            "cells": [
+                130,
+                17,
+                55,
+                36,
+                146,
+                70
+            ],
+            "answer": "Mother",
+            "hint": "Shipboard computer in \u201cAlien\u201d"
+        },
+        "K": {
+            "cells": [
+                58,
+                144,
+                103,
+                30,
+                14,
+                82,
+                122,
+                167
+            ],
+            "answer": "Twin beds",
+            "hint": "Some motel furnishings (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                28,
+                143,
+                116,
+                43,
+                159,
+                63,
+                95,
+                4
+            ],
+            "answer": "Homeboys",
+            "hint": "Pals from your neighborhood"
+        },
+        "M": {
+            "cells": [
+                142,
+                104,
+                89,
+                156,
+                66,
+                42,
+                16
+            ],
+            "answer": "Elusive",
+            "hint": "Slippery"
+        },
+        "N": {
+            "cells": [
+                33,
+                59,
+                76,
+                109,
+                136,
+                90,
+                3
+            ],
+            "answer": "Upswing",
+            "hint": "Marked improvement, as in the stock market"
+        },
+        "O": {
+            "cells": [
+                145,
+                112,
+                10,
+                163,
+                99,
+                129,
+                45
+            ],
+            "answer": "Nucleus",
+            "hint": "Small, bright body in the head of a comet"
+        },
+        "P": {
+            "cells": [
+                44,
+                77,
+                140,
+                61
+            ],
+            "answer": "Spot",
+            "hint": "Name for a Dalmatian"
+        },
+        "Q": {
+            "cells": [
+                132,
+                108,
+                67,
+                86,
+                152,
+                11
+            ],
+            "answer": "Portia",
+            "hint": "Shakespearean cross-dresser"
+        },
+        "R": {
+            "cells": [
+                20,
+                113,
+                68,
+                139,
+                49,
+                2,
+                94,
+                37,
+                160
+            ],
+            "answer": "Easy money",
+            "hint": "Gravy train (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                72,
+                15,
+                125,
+                97,
+                56,
+                111,
+                41
+            ],
+            "answer": "Alcohol",
+            "hint": "Virgin Mary\u2019s lack"
+        },
+        "T": {
+            "cells": [
+                98,
+                118,
+                166,
+                74,
+                46,
+                27,
+                135
+            ],
+            "answer": "Knights",
+            "hint": "Neighbors of bishops"
+        },
+        "U": {
+            "cells": [
+                51,
+                115,
+                165,
+                92,
+                19,
+                133,
+                149
+            ],
+            "answer": "Audubon",
+            "hint": "Eponym of a society of naturalists"
+        },
+        "V": {
+            "cells": [
+                32,
+                87,
+                62,
+                114,
+                18,
+                73,
+                138
+            ],
+            "answer": "Bashful",
+            "hint": "Member of a small septet"
+        },
+        "W": {
+            "cells": [
+                151,
+                121,
+                48,
+                110,
+                169,
+                6,
+                71,
+                26
+            ],
+            "answer": "Lawyerly",
+            "hint": "Having a legal eagle\u2019s manner"
+        },
+        "X": {
+            "cells": [
+                50,
+                83,
+                131,
+                153,
+                34,
+                8,
+                69,
+                101
+            ],
+            "answer": "Election",
+            "hint": "Event prompting yard signs"
+        }
+    }
+}

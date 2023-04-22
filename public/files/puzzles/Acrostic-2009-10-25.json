@@ -1,0 +1,365 @@
+{
+    "answer": "One grave in every graveyard belongs to the ghouls.... you will find it, waterstained and bulging, with cracked... stone, and a feeling... of abandonment.... If the grave makes you want to be somewhere else, that is the ghoul-gate.",
+    "author": "Neil Gaiman,",
+    "authorCell": [
+        69,
+        147,
+        64,
+        48,
+        166,
+        97,
+        118,
+        128,
+        129,
+        92,
+        62,
+        35,
+        66,
+        77,
+        60,
+        125,
+        12,
+        26,
+        21,
+        63,
+        124,
+        53,
+        108,
+        44,
+        141,
+        86
+    ],
+    "source": "The Graveyard Book",
+    "clues": {
+        "A": {
+            "cells": [
+                69,
+                102,
+                16,
+                149,
+                120,
+                136,
+                172,
+                55,
+                82,
+                38
+            ],
+            "answer": "Night watch",
+            "hint": "Potentially spooky shift of work (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                147,
+                5,
+                41,
+                130,
+                161,
+                65,
+                30
+            ],
+            "answer": "Erlking",
+            "hint": "Malevolent sprite in Germanic lore, the subject of a Schubert piece"
+        },
+        "C": {
+            "cells": [
+                64,
+                114,
+                159,
+                104,
+                51,
+                76,
+                87,
+                24
+            ],
+            "answer": "Imagined",
+            "hint": "Seen without being present to the senses"
+        },
+        "D": {
+            "cells": [
+                48,
+                122,
+                162,
+                34,
+                137,
+                80
+            ],
+            "answer": "Lestat",
+            "hint": "Main character in \u201cThe Vampire Chronicles\u201d"
+        },
+        "E": {
+            "cells": [
+                166,
+                59,
+                110,
+                150,
+                46,
+                33,
+                73,
+                98,
+                13
+            ],
+            "answer": "Gene Wolfe",
+            "hint": "Author of \u201cThe Fifth Head of Cerberus\u201d (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                97,
+                171,
+                131,
+                111
+            ],
+            "answer": "Aged",
+            "hint": "Did as Dorian Gray did only in his portrait"
+        },
+        "G": {
+            "cells": [
+                118,
+                52,
+                164,
+                40,
+                146,
+                11,
+                96
+            ],
+            "answer": "Inhumed",
+            "hint": "Put into a final resting place"
+        },
+        "H": {
+            "cells": [
+                128,
+                28,
+                10,
+                93,
+                173
+            ],
+            "answer": "Monet",
+            "hint": "\u201cHaystacks\u201d artist"
+        },
+        "I": {
+            "cells": [
+                129,
+                32,
+                117,
+                9,
+                85
+            ],
+            "answer": "Attic",
+            "hint": "Where a ghost hunter may look"
+        },
+        "J": {
+            "cells": [
+                92,
+                54,
+                39,
+                71,
+                165
+            ],
+            "answer": "Niobe",
+            "hint": "Weeping daughter of Tantalus"
+        },
+        "K": {
+            "cells": [
+                62,
+                158,
+                107,
+                2,
+                22,
+                139,
+                91,
+                42
+            ],
+            "answer": "Thanatos",
+            "hint": "Son of Nyx (Night); twin of Hypnos (Sleep)"
+        },
+        "L": {
+            "cells": [
+                35,
+                134,
+                17,
+                155,
+                99
+            ],
+            "answer": "Horse",
+            "hint": "Rear half of a centaur"
+        },
+        "M": {
+            "cells": [
+                66,
+                163,
+                127,
+                83,
+                113,
+                47,
+                140,
+                15
+            ],
+            "answer": "Eternity",
+            "hint": "\u201c___ is really long, especially near the end\u201d (Woody Allen)"
+        },
+        "N": {
+            "cells": [
+                77,
+                1,
+                94,
+                56,
+                18,
+                133
+            ],
+            "answer": "Go away",
+            "hint": "\u201cStop haunting me!\u201d (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                60,
+                143,
+                19,
+                174,
+                116,
+                84,
+                103,
+                160
+            ],
+            "answer": "Revenant",
+            "hint": "One who returns from the tomb as a spirit"
+        },
+        "P": {
+            "cells": [
+                125,
+                142,
+                109,
+                88,
+                67,
+                168,
+                29
+            ],
+            "answer": "Abaddon",
+            "hint": "The depths of hell, or its angel"
+        },
+        "Q": {
+            "cells": [
+                12,
+                45,
+                27,
+                58,
+                72,
+                151,
+                115,
+                132
+            ],
+            "answer": "Vultures",
+            "hint": "Ones found near a corpse"
+        },
+        "R": {
+            "cells": [
+                26,
+                126,
+                79,
+                170,
+                8,
+                43,
+                152
+            ],
+            "answer": "Evil eye",
+            "hint": "What a malevolent person may cast (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                21,
+                112,
+                135,
+                95,
+                4
+            ],
+            "answer": "Young",
+            "hint": "\u201c___ Frankenstein\u201d (1974 film)"
+        },
+        "T": {
+            "cells": [
+                63,
+                78,
+                106,
+                169,
+                154
+            ],
+            "answer": "Awful",
+            "hint": "\u201cHorrible\u201d homophone of Word Y."
+        },
+        "U": {
+            "cells": [
+                124,
+                20,
+                7,
+                153,
+                138,
+                74,
+                36
+            ],
+            "answer": "Revenge",
+            "hint": "Motive in \u201cThe Cask of Amontillado\u201d"
+        },
+        "V": {
+            "cells": [
+                53,
+                100,
+                6,
+                90,
+                167,
+                148,
+                75,
+                31,
+                121
+            ],
+            "answer": "Death wish",
+            "hint": "Dark urge connected to Word K. (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                108,
+                57,
+                23,
+                37,
+                81,
+                3,
+                144,
+                157
+            ],
+            "answer": "Barghest",
+            "hint": "Ominous goblin in the shape of a dog"
+        },
+        "X": {
+            "cells": [
+                44,
+                123,
+                14,
+                156,
+                61,
+                89
+            ],
+            "answer": "Ogress",
+            "hint": "Man-eating she-monster of fairy tales"
+        },
+        "Y": {
+            "cells": [
+                141,
+                50,
+                119,
+                68,
+                101
+            ],
+            "answer": "Offal",
+            "hint": "Carrion; rubbish"
+        },
+        "Z": {
+            "cells": [
+                86,
+                145,
+                25,
+                105,
+                49,
+                70
+            ],
+            "answer": "Kobold",
+            "hint": "Mischievous gremlin"
+        }
+    }
+}

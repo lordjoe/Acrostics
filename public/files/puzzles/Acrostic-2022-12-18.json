@@ -1,0 +1,369 @@
+{
+    "answer": "There is grandeur in this view of life... that, whilst this planet has gone cycling on according to the... law of gravity, from so simple a beginning endless forms most beautiful and... wonderful have been, and are being, evolved.",
+    "author": "(Charles) Darwin,",
+    "authorCell": [
+        147,
+        53,
+        95,
+        36,
+        91,
+        142,
+        71,
+        57,
+        51,
+        43,
+        158,
+        96,
+        15,
+        63,
+        55,
+        169,
+        17,
+        129,
+        94,
+        121,
+        46,
+        172,
+        61,
+        110,
+        148,
+        98
+    ],
+    "source": "On the Origin of Species",
+    "clues": {
+        "A": {
+            "cells": [
+                147,
+                13,
+                86,
+                165,
+                26,
+                45,
+                131
+            ],
+            "answer": "Defrost",
+            "hint": "The opposite of freeze"
+        },
+        "B": {
+            "cells": [
+                53,
+                73,
+                155,
+                3,
+                170,
+                35
+            ],
+            "answer": "Advent",
+            "hint": "Start of a liturgical year"
+        },
+        "C": {
+            "cells": [
+                95,
+                145,
+                174,
+                123,
+                41,
+                56,
+                103
+            ],
+            "answer": "Rooftop",
+            "hint": "Landing spot for a holiday flight"
+        },
+        "D": {
+            "cells": [
+                36,
+                68,
+                149,
+                102,
+                136,
+                19
+            ],
+            "answer": "Warmth",
+            "hint": "What a hearth is for"
+        },
+        "E": {
+            "cells": [
+                91,
+                69,
+                16,
+                59,
+                39,
+                116
+            ],
+            "answer": "Icicle",
+            "hint": "Hanger-on in winter"
+        },
+        "F": {
+            "cells": [
+                142,
+                10,
+                90,
+                74,
+                178,
+                154,
+                118
+            ],
+            "answer": "Navidad",
+            "hint": "Christmas, in many lands"
+        },
+        "G": {
+            "cells": [
+                71,
+                139,
+                92,
+                54,
+                38,
+                12,
+                166
+            ],
+            "answer": "Outside",
+            "hint": "Where it\u2019s cold, per a Frank Loesser song"
+        },
+        "H": {
+            "cells": [
+                57,
+                135,
+                79,
+                97,
+                31,
+                109
+            ],
+            "answer": "Nutmeg",
+            "hint": "Ingredient for Answer Y."
+        },
+        "I": {
+            "cells": [
+                51,
+                144,
+                159,
+                104,
+                30,
+                1,
+                80
+            ],
+            "answer": "Twelfth",
+            "hint": "Day of drummers drumming"
+        },
+        "J": {
+            "cells": [
+                43,
+                106,
+                175,
+                119,
+                78,
+                25,
+                133,
+                163
+            ],
+            "answer": "Hallowed",
+            "hint": "Sacred"
+        },
+        "K": {
+            "cells": [
+                158,
+                82,
+                173,
+                101,
+                127,
+                37
+            ],
+            "answer": "Elvish",
+            "hint": "Language invented by Tolkien"
+        },
+        "L": {
+            "cells": [
+                96,
+                72,
+                111,
+                161,
+                126,
+                177,
+                146,
+                32,
+                7
+            ],
+            "answer": "Ornaments",
+            "hint": "Candy canes, stars, globes, etc."
+        },
+        "M": {
+            "cells": [
+                15,
+                44,
+                157,
+                132,
+                66,
+                117
+            ],
+            "answer": "Ribbon",
+            "hint": "Gift decoration"
+        },
+        "N": {
+            "cells": [
+                63,
+                75,
+                47,
+                137,
+                162,
+                24
+            ],
+            "answer": "In-line",
+            "hint": "Kind of skates (hyph.)"
+        },
+        "O": {
+            "cells": [
+                55,
+                89,
+                107,
+                125,
+                6,
+                168,
+                28
+            ],
+            "answer": "Gabriel",
+            "hint": "Angel who appeared to Muhammad"
+        },
+        "P": {
+            "cells": [
+                169,
+                122,
+                141,
+                23,
+                83,
+                52
+            ],
+            "answer": "Isaiah",
+            "hint": "Prophet on the Sistine Chapel ceiling"
+        },
+        "Q": {
+            "cells": [
+                17,
+                85,
+                40,
+                156
+            ],
+            "answer": "Nose",
+            "hint": "Guiding light in a Yuletide song"
+        },
+        "R": {
+            "cells": [
+                129,
+                171,
+                143,
+                81,
+                64,
+                114,
+                48,
+                100,
+                2
+            ],
+            "answer": "Ogden Nash",
+            "hint": "Poet who wrote \u201cThe Boy Who Laughed at Santa Claus\u201d (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                94,
+                50,
+                21,
+                77,
+                113,
+                176,
+                151,
+                130
+            ],
+            "answer": "Festivus",
+            "hint": "Year-end holiday in a sitcom"
+        },
+        "T": {
+            "cells": [
+                121,
+                42,
+                14,
+                150,
+                138,
+                29,
+                67,
+                87
+            ],
+            "answer": "Stuffing",
+            "hint": "What\u2019s in a Christmas goose"
+        },
+        "U": {
+            "cells": [
+                46,
+                134,
+                9,
+                34,
+                167,
+                152,
+                108
+            ],
+            "answer": "Parable",
+            "hint": "Story with a moral"
+        },
+        "V": {
+            "cells": [
+                172,
+                22,
+                105,
+                4,
+                76,
+                88,
+                58,
+                120,
+                160
+            ],
+            "answer": "Evergreen",
+            "hint": "Pine, hemlock, spruce or holly"
+        },
+        "W": {
+            "cells": [
+                61,
+                33,
+                20,
+                128,
+                112,
+                5,
+                93
+            ],
+            "answer": "Chimney",
+            "hint": "Point of entry once a year"
+        },
+        "X": {
+            "cells": [
+                110,
+                18,
+                70,
+                153,
+                60
+            ],
+            "answer": "Itchy",
+            "hint": "What a mall Santa\u2019s beard might be"
+        },
+        "Y": {
+            "cells": [
+                148,
+                65,
+                115,
+                49,
+                99,
+                8
+            ],
+            "answer": "Eggnog",
+            "hint": "\u201cTom and Jerry\u201d by another name"
+        },
+        "Z": {
+            "cells": [
+                98,
+                11,
+                124,
+                84,
+                27,
+                164,
+                140,
+                62
+            ],
+            "answer": "Snowfall",
+            "hint": "Amount a storm might deposit"
+        }
+    }
+}

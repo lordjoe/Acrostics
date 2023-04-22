@@ -1,0 +1,344 @@
+{
+    "answer": "Emperor Nero..., an avid actor and student of... theater, ... brought his own personal cheering section in the form of five thousand Roman soldiers to applaud his performances, for which the wise judges always awarded first prize.",
+    "author": "(Robert R.) Provine,",
+    "authorCell": [
+        177,
+        67,
+        130,
+        15,
+        68,
+        24,
+        82,
+        19,
+        121,
+        168,
+        124,
+        84,
+        154,
+        151,
+        42,
+        65,
+        49,
+        133,
+        91,
+        16,
+        11,
+        101
+    ],
+    "source": "Curious Behavior",
+    "clues": {
+        "A": {
+            "cells": [
+                177,
+                76,
+                161,
+                109,
+                148,
+                22,
+                3,
+                45,
+                129,
+                89
+            ],
+            "answer": "Powder puff",
+            "hint": "Applicator in many a dressing room (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                67,
+                111,
+                80,
+                174,
+                40,
+                13,
+                144,
+                123
+            ],
+            "answer": "Retrench",
+            "hint": "Take cost-saving measures; scale back"
+        },
+        "C": {
+            "cells": [
+                130,
+                60,
+                92,
+                113,
+                1,
+                160,
+                34
+            ],
+            "answer": "Oneself",
+            "hint": "Topic of introspection"
+        },
+        "D": {
+            "cells": [
+                15,
+                28,
+                62,
+                156,
+                104,
+                85,
+                173,
+                125,
+                2
+            ],
+            "answer": "Vulgarism",
+            "hint": "Term with a crude or uncouth quality"
+        },
+        "E": {
+            "cells": [
+                68,
+                158,
+                145,
+                93,
+                18,
+                131
+            ],
+            "answer": "Ishtar",
+            "hint": "So-called \u201cQueen of Heaven\u201d in ancient Babylon"
+        },
+        "F": {
+            "cells": [
+                24,
+                61,
+                132,
+                152,
+                169,
+                41,
+                102,
+                117
+            ],
+            "answer": "Name-drop",
+            "hint": "Seek to impress, in a way (hyph.)"
+        },
+        "G": {
+            "cells": [
+                82,
+                43,
+                14,
+                164,
+                30,
+                178,
+                142,
+                56,
+                116,
+                100
+            ],
+            "answer": "\"Eraserhead\"",
+            "hint": "David Lynch\u2019s debut feature-length film"
+        },
+        "H": {
+            "cells": [
+                19,
+                75,
+                119,
+                165,
+                105,
+                146,
+                7,
+                52
+            ],
+            "answer": "Cilantro",
+            "hint": "Herb used in pho and salsa"
+        },
+        "I": {
+            "cells": [
+                121,
+                79,
+                106,
+                135,
+                10,
+                150,
+                55,
+                39,
+                181,
+                25
+            ],
+            "answer": "Unscripted",
+            "hint": "Off-the-cuff, impromptu"
+        },
+        "J": {
+            "cells": [
+                168,
+                90,
+                126,
+                107,
+                58,
+                74,
+                37
+            ],
+            "answer": "Riposte",
+            "hint": "Barbed sally, clever comeback"
+        },
+        "K": {
+            "cells": [
+                124,
+                21,
+                8,
+                170,
+                97,
+                73,
+                139
+            ],
+            "answer": "Ionesco",
+            "hint": "\u201cExit the King\u201d playwright"
+        },
+        "L": {
+            "cells": [
+                84,
+                180,
+                163,
+                103,
+                23,
+                54,
+                122,
+                143,
+                38,
+                71
+            ],
+            "answer": "Ozymandias",
+            "hint": "\u201cThat colossal wreck\u201d in a Shelley sonnet"
+        },
+        "M": {
+            "cells": [
+                154,
+                118,
+                172,
+                57,
+                95,
+                77,
+                35
+            ],
+            "answer": "Upfront",
+            "hint": "Plain-spoken, mincing no words"
+        },
+        "N": {
+            "cells": [
+                151,
+                166,
+                59,
+                5,
+                17,
+                138,
+                78,
+                46,
+                94,
+                32
+            ],
+            "answer": "Sword fight",
+            "hint": "Action sequence in \u201cThe Princess Bride\u201d (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                42,
+                72,
+                149,
+                167,
+                112,
+                127
+            ],
+            "answer": "Beware",
+            "hint": "\u201cCave\u201d in the Senate long ago"
+        },
+        "P": {
+            "cells": [
+                65,
+                12,
+                26,
+                176,
+                141,
+                87,
+                44,
+                155
+            ],
+            "answer": "Eastwood",
+            "hint": "Oscar winner who was once mayor of Carmel-by-the-Sea, Calif."
+        },
+        "Q": {
+            "cells": [
+                49,
+                33,
+                108,
+                171,
+                83,
+                6,
+                128,
+                20,
+                64
+            ],
+            "answer": "Hold forth",
+            "hint": "Deliver a long speech, bloviate (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                133,
+                27,
+                81,
+                9,
+                99,
+                50,
+                159,
+                69
+            ],
+            "answer": "Athenian",
+            "hint": "Aristophanes or Euripides, e.g."
+        },
+        "S": {
+            "cells": [
+                91,
+                162,
+                134,
+                110,
+                51,
+                147
+            ],
+            "answer": "Vanish",
+            "hint": "Dematerialize, cease to exist"
+        },
+        "T": {
+            "cells": [
+                16,
+                137,
+                47,
+                98,
+                86,
+                153,
+                115,
+                31,
+                66,
+                175
+            ],
+            "answer": "Isham Jones",
+            "hint": "Bandleader who composed \u201cIt Had to Be You\u201d (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                11,
+                96,
+                114,
+                53,
+                136,
+                179,
+                70,
+                36
+            ],
+            "answer": "Outweigh",
+            "hint": "More than compensate for"
+        },
+        "V": {
+            "cells": [
+                101,
+                4,
+                88,
+                140,
+                120,
+                63,
+                48,
+                157,
+                29
+            ],
+            "answer": "Refracted",
+            "hint": "Like light that\u2019s gone through a prism"
+        }
+    }
+}

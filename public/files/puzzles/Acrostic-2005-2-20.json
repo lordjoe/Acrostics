@@ -1,0 +1,349 @@
+{
+    "answer": "Adults have invested endless hours... growing accustomed to inches and miles; to February\u2019s twenty-eight days; to... silent letters; to qwertyuiop.... To introduce something... new would mean to... run the old... risk of failing to learn.",
+    "author": "(Isaac) Asimov,",
+    "authorCell": [
+        147,
+        15,
+        114,
+        130,
+        106,
+        13,
+        145,
+        8,
+        39,
+        84,
+        11,
+        135,
+        99,
+        89,
+        101,
+        7,
+        167,
+        111,
+        75,
+        26,
+        119,
+        120,
+        163
+    ],
+    "source": "Machines That Think",
+    "clues": {
+        "A": {
+            "cells": [
+                147,
+                85,
+                40,
+                155,
+                170,
+                24,
+                129,
+                96
+            ],
+            "answer": "Atchison",
+            "hint": "Amelia Earhart\u2019s Kansas birthplace"
+        },
+        "B": {
+            "cells": [
+                15,
+                71,
+                108,
+                91,
+                28,
+                48
+            ],
+            "answer": "Saw out",
+            "hint": "Accompanied to the exit (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                114,
+                29,
+                93,
+                144,
+                77,
+                42,
+                52,
+                131,
+                171,
+                16
+            ],
+            "answer": "Iridescent",
+            "hint": "Like a soap bubble or a butterfly\u2019s wings"
+        },
+        "D": {
+            "cells": [
+                130,
+                60,
+                20,
+                159,
+                6,
+                146,
+                80,
+                102
+            ],
+            "answer": "Mind\u2019s eye",
+            "hint": "Imagination (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                106,
+                51,
+                154,
+                141,
+                4,
+                33,
+                172,
+                73
+            ],
+            "answer": "Ontology",
+            "hint": "Metaphysical study concerning the nature of existence"
+        },
+        "F": {
+            "cells": [
+                13,
+                164,
+                105,
+                138,
+                124,
+                44,
+                76,
+                179
+            ],
+            "answer": "Vote down",
+            "hint": "Kill, as a bill (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                145,
+                23,
+                90,
+                168,
+                127,
+                69
+            ],
+            "answer": "Metier",
+            "hint": "Field of work; strong suit"
+        },
+        "H": {
+            "cells": [
+                8,
+                61,
+                121,
+                156,
+                178,
+                95,
+                31,
+                49
+            ],
+            "answer": "Alter ego",
+            "hint": "Inseparable buddy; second self (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                39,
+                133,
+                14,
+                59,
+                82,
+                92,
+                173,
+                151,
+                112
+            ],
+            "answer": "Chemistry",
+            "hint": "Glue holding a team together"
+        },
+        "J": {
+            "cells": [
+                84,
+                125,
+                104,
+                149,
+                22,
+                62
+            ],
+            "answer": "Hustle",
+            "hint": "Disco dance immortalized by John Travolta"
+        },
+        "K": {
+            "cells": [
+                11,
+                110,
+                174,
+                148,
+                66,
+                134,
+                162,
+                100,
+                46,
+                86
+            ],
+            "answer": "Ironfisted",
+            "hint": "Ruthlessly tyrannical; stingy"
+        },
+        "L": {
+            "cells": [
+                135,
+                54,
+                30,
+                117,
+                158,
+                81
+            ],
+            "answer": "Nestlé",
+            "hint": "Manufacturer of Alpo, Coffee-Mate and Lean Cuisine"
+        },
+        "M": {
+            "cells": [
+                99,
+                25,
+                64,
+                160,
+                118,
+                83,
+                10,
+                36
+            ],
+            "answer": "Estrogen",
+            "hint": "Hormone used in treating osteoporosis"
+        },
+        "N": {
+            "cells": [
+                89,
+                116,
+                65,
+                153,
+                37,
+                17
+            ],
+            "answer": "Sponge",
+            "hint": "Animal that keeps things clean?"
+        },
+        "O": {
+            "cells": [
+                101,
+                19,
+                38,
+                165,
+                123,
+                72,
+                5,
+                139,
+                150
+            ],
+            "answer": "\u201cTea for Two\u201d",
+            "hint": "Hit from \u201cNo, No, Nanette,\u201d 1925 (3 wds.)"
+        },
+        "P": {
+            "cells": [
+                7,
+                113,
+                45,
+                68,
+                157,
+                169,
+                21,
+                132
+            ],
+            "answer": "Humboldt",
+            "hint": "German naturalist who gave his name to an ocean current"
+        },
+        "Q": {
+            "cells": [
+                167,
+                107,
+                142,
+                1,
+                79,
+                35,
+                126,
+                55
+            ],
+            "answer": "Aquatics",
+            "hint": "Water polo, synchronized swimming, etc."
+        },
+        "R": {
+            "cells": [
+                111,
+                27,
+                41,
+                136,
+                53,
+                78,
+                3,
+                97
+            ],
+            "answer": "Tough nut",
+            "hint": "Challenge to a puzzle solver (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                75,
+                122,
+                177,
+                18,
+                109,
+                34,
+                161,
+                137,
+                2,
+                63
+            ],
+            "answer": "Trade winds",
+            "hint": "Boon to Columbus, and cure for the doldrums? (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                26,
+                115,
+                140,
+                87,
+                103,
+                47,
+                128,
+                176,
+                12,
+                58
+            ],
+            "answer": "\u201cHoward\u2019s End\u201d",
+            "hint": "Merchant/Ivory adaptation of an E. M. Forster novel (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                119,
+                57,
+                74,
+                152,
+                175,
+                43
+            ],
+            "answer": "Insult",
+            "hint": "\u201cA stiff apology is a second ___\u201d (Chesterton)"
+        },
+        "V": {
+            "cells": [
+                120,
+                70,
+                98,
+                143,
+                50,
+                166,
+                88
+            ],
+            "answer": "Nullify",
+            "hint": "Void; render ineffective"
+        },
+        "W": {
+            "cells": [
+                163,
+                67,
+                9,
+                94,
+                56,
+                32
+            ],
+            "answer": "Kevlar",
+            "hint": "Synthetic fiber said to be five times stronger than steel"
+        }
+    }
+}

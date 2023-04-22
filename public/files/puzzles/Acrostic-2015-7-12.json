@@ -1,0 +1,368 @@
+{
+    "answer": "A poet is not somebody who has great thoughts. That is the menial duty of the philosopher. A poet is somebody who expresses... thoughts... exquisitely. That is the one and only difference between the poet and everybody else.",
+    "author": "Mark Forsyth,",
+    "authorCell": [
+        140,
+        81,
+        143,
+        99,
+        137,
+        100,
+        105,
+        144,
+        117,
+        76,
+        13,
+        108,
+        8,
+        55,
+        113,
+        68,
+        58,
+        147,
+        65,
+        3,
+        110,
+        111,
+        4,
+        49,
+        146,
+        14
+    ],
+    "source": "Elements of Eloquence",
+    "clues": {
+        "A": {
+            "cells": [
+                140,
+                42,
+                107,
+                63,
+                15,
+                159,
+                88,
+                175
+            ],
+            "answer": "Fishbowl",
+            "hint": "Living space with zero privacy"
+        },
+        "B": {
+            "cells": [
+                81,
+                92,
+                118,
+                34,
+                165,
+                132,
+                17,
+                61,
+                148,
+                5
+            ],
+            "answer": "Oxygen debt",
+            "hint": "Temporary effect of exercising (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                143,
+                98,
+                62,
+                160,
+                121,
+                41
+            ],
+            "answer": "Repeat",
+            "hint": "Parrot"
+        },
+        "D": {
+            "cells": [
+                99,
+                47,
+                134,
+                75,
+                30,
+                120
+            ],
+            "answer": "Smooth",
+            "hint": "Suave; effortless"
+        },
+        "E": {
+            "cells": [
+                137,
+                16,
+                170,
+                84,
+                102
+            ],
+            "answer": "Yobbo",
+            "hint": "Rowdy lout of a bloke"
+        },
+        "F": {
+            "cells": [
+                100,
+                26,
+                54,
+                161,
+                126,
+                78,
+                145,
+                177,
+                43,
+                7
+            ],
+            "answer": "Truthiness",
+            "hint": "Colbert coinage of 2005"
+        },
+        "G": {
+            "cells": [
+                105,
+                139,
+                25,
+                45,
+                155,
+                90,
+                2,
+                124
+            ],
+            "answer": "High tops",
+            "hint": "Ankle-covering wear"
+        },
+        "H": {
+            "cells": [
+                144,
+                164,
+                50,
+                29,
+                85,
+                103,
+                122
+            ],
+            "answer": "Edit out",
+            "hint": "Strike in the proofreading stage (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                117,
+                83,
+                23,
+                141,
+                169
+            ],
+            "answer": "Leafy",
+            "hint": "\u201cIn the ___ month of June\u201d (Coleridge)"
+        },
+        "J": {
+            "cells": [
+                76,
+                53,
+                133,
+                173
+            ],
+            "answer": "Eddy",
+            "hint": "Bit of a whirl in the water"
+        },
+        "K": {
+            "cells": [
+                13,
+                128,
+                106,
+                89,
+                149,
+                1,
+                36,
+                71,
+                163
+            ],
+            "answer": "Motheaten",
+            "hint": "Damaged by voracious insects (hyph.)"
+        },
+        "L": {
+            "cells": [
+                108,
+                82,
+                172,
+                51,
+                11,
+                70
+            ],
+            "answer": "Em dash",
+            "hint": "Alternative to a colon or ellipsis (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                8,
+                153,
+                93,
+                20,
+                131,
+                52,
+                114,
+                79,
+                38
+            ],
+            "answer": "Nephalist",
+            "hint": "Teetotaler, abstainer from alcohol"
+        },
+        "N": {
+            "cells": [
+                55,
+                35,
+                127,
+                176,
+                69,
+                112,
+                97
+            ],
+            "answer": "Thespis",
+            "hint": "Ancient Greek actor whose name endures"
+        },
+        "O": {
+            "cells": [
+                113,
+                22,
+                9,
+                152,
+                80,
+                39,
+                64,
+                129,
+                95
+            ],
+            "answer": "Shoeshine",
+            "hint": "Finish at a low level?"
+        },
+        "P": {
+            "cells": [
+                68,
+                18,
+                166,
+                116,
+                87
+            ],
+            "answer": "Oy vey",
+            "hint": "\u201cWhat a debacle!\u201d (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                58,
+                27,
+                142,
+                115
+            ],
+            "answer": "Feet",
+            "hint": "Dactyls and such"
+        },
+        "R": {
+            "cells": [
+                147,
+                104,
+                57,
+                119,
+                6,
+                24,
+                77
+            ],
+            "answer": "Egotist",
+            "hint": "One who\u2019s self-motivated?"
+        },
+        "S": {
+            "cells": [
+                65,
+                40,
+                156,
+                12,
+                94,
+                130
+            ],
+            "answer": "Lahore",
+            "hint": "Second-biggest Pakistani city after Karachi"
+        },
+        "T": {
+            "cells": [
+                3,
+                19,
+                154,
+                91,
+                168,
+                37,
+                60,
+                123,
+                74
+            ],
+            "answer": "Ownership",
+            "hint": "What a good deed proves"
+        },
+        "U": {
+            "cells": [
+                110,
+                33,
+                174,
+                67,
+                125,
+                157,
+                138
+            ],
+            "answer": "Quested",
+            "hint": "Went off à la Galahad"
+        },
+        "V": {
+            "cells": [
+                111,
+                135,
+                151,
+                171,
+                72,
+                10,
+                31,
+                56
+            ],
+            "answer": "Unworthy",
+            "hint": "Not meriting consideration"
+        },
+        "W": {
+            "cells": [
+                4,
+                136,
+                32,
+                158,
+                48
+            ],
+            "answer": "Elope",
+            "hint": "What Heathcliff and Isabella do in \u201cWuthering Heights\u201d"
+        },
+        "X": {
+            "cells": [
+                49,
+                21,
+                162,
+                101
+            ],
+            "answer": "Noah",
+            "hint": "Storied animal rescue activist?"
+        },
+        "Y": {
+            "cells": [
+                146,
+                66,
+                86,
+                46
+            ],
+            "answer": "Code",
+            "hint": "Rules of moral conduct"
+        },
+        "Z": {
+            "cells": [
+                14,
+                96,
+                150,
+                73,
+                44,
+                167,
+                59,
+                28,
+                109
+            ],
+            "answer": "Estate tax",
+            "hint": "Passing assessment? (2 wds.)"
+        }
+    }
+}

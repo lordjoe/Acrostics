@@ -1,0 +1,336 @@
+{
+    "answer": "Biography... tends to honor the old-fashioned custom of keeping a polite distance from food. We\u2019re meant to read the lives of important people as if they never... took a coffee break, or stopped for a hot dog on the street... .",
+    "author": "Laura Shapiro,",
+    "authorCell": [
+        55,
+        29,
+        38,
+        5,
+        156,
+        116,
+        166,
+        106,
+        48,
+        2,
+        68,
+        154,
+        75,
+        23,
+        142,
+        165,
+        168,
+        17,
+        58,
+        81,
+        62,
+        78
+    ],
+    "source": "What She Ate",
+    "clues": {
+        "A": {
+            "cells": [
+                55,
+                129,
+                41,
+                143,
+                162,
+                16,
+                98,
+                74
+            ],
+            "answer": "Look good",
+            "hint": "Make a favorable impression (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                29,
+                109,
+                150,
+                96,
+                10,
+                49,
+                169,
+                121
+            ],
+            "answer": "Appetite",
+            "hint": "What is often sharpened preprandially"
+        },
+        "C": {
+            "cells": [
+                38,
+                12,
+                99,
+                77,
+                117,
+                137,
+                164,
+                59
+            ],
+            "answer": "Unfriend",
+            "hint": "Drop socially, in a way"
+        },
+        "D": {
+            "cells": [
+                5,
+                158,
+                18,
+                61,
+                141,
+                125,
+                76,
+                93,
+                108
+            ],
+            "answer": "Roosevelt",
+            "hint": "Anagram, ironically, of \u201cvote loser\u201d"
+        },
+        "E": {
+            "cells": [
+                156,
+                79,
+                1,
+                66,
+                140,
+                51,
+                127,
+                32,
+                97
+            ],
+            "answer": "Ambergris",
+            "hint": "Subject and title of a chapter of \u201cMoby-Dick\u201d"
+        },
+        "F": {
+            "cells": [
+                116,
+                54,
+                136,
+                84,
+                151,
+                19,
+                172,
+                36
+            ],
+            "answer": "Softened",
+            "hint": "Went from adamant to amenable"
+        },
+        "G": {
+            "cells": [
+                166,
+                130,
+                3,
+                67,
+                149,
+                86,
+                100,
+                50,
+                22
+            ],
+            "answer": "Hoofprint",
+            "hint": "Rooftop evidence of Santa\u2019s visit?"
+        },
+        "H": {
+            "cells": [
+                106,
+                135,
+                90,
+                47,
+                170,
+                70,
+                6,
+                159,
+                31
+            ],
+            "answer": "Aftermath",
+            "hint": "What follows a disaster"
+        },
+        "I": {
+            "cells": [
+                48,
+                69,
+                85,
+                157,
+                112,
+                144,
+                25,
+                8
+            ],
+            "answer": "Pooh-pooh",
+            "hint": "Blithely dismiss (hyph.)"
+        },
+        "J": {
+            "cells": [
+                2,
+                64,
+                119,
+                171,
+                104,
+                24,
+                146,
+                40
+            ],
+            "answer": "Interest",
+            "hint": "Percentage of earnings"
+        },
+        "K": {
+            "cells": [
+                68,
+                167,
+                30,
+                102,
+                46,
+                133,
+                83
+            ],
+            "answer": "Respect",
+            "hint": "Song with a \u201csock-it-to-me\u201d refrain"
+        },
+        "L": {
+            "cells": [
+                154,
+                139,
+                80,
+                113,
+                94,
+                14,
+                45
+            ],
+            "answer": "Obelisk",
+            "hint": "Pillar that usually stands alone"
+        },
+        "M": {
+            "cells": [
+                75,
+                52,
+                95,
+                11,
+                27,
+                134,
+                153,
+                118
+            ],
+            "answer": "Waved off",
+            "hint": "Warned not to approach, usually from a ways away (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                23,
+                161,
+                42,
+                73,
+                53,
+                91,
+                148,
+                123,
+                110
+            ],
+            "answer": "Homophone",
+            "hint": "Apprise of a prize, e.g.?"
+        },
+        "O": {
+            "cells": [
+                142,
+                28,
+                71,
+                111,
+                4,
+                88,
+                57,
+                43
+            ],
+            "answer": "Affogato",
+            "hint": "Dessert of espresso poured over ice cream"
+        },
+        "P": {
+            "cells": [
+                165,
+                21,
+                115,
+                65,
+                131,
+                101,
+                87,
+                35,
+                147
+            ],
+            "answer": "Track meet",
+            "hint": "Running time? (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                168,
+                105,
+                60,
+                44,
+                26,
+                126,
+                13
+            ],
+            "answer": "Stifled",
+            "hint": "Put the kibosh on"
+        },
+        "R": {
+            "cells": [
+                17,
+                72,
+                163,
+                152,
+                103,
+                33,
+                124,
+                89
+            ],
+            "answer": "Hoodooed",
+            "hint": "Beset with a jinx"
+        },
+        "S": {
+            "cells": [
+                58,
+                145,
+                82,
+                114,
+                39,
+                128
+            ],
+            "answer": "Ernest",
+            "hint": "One of the winemaking Gallos"
+        },
+        "T": {
+            "cells": [
+                81,
+                15,
+                173,
+                132,
+                56,
+                34
+            ],
+            "answer": "Attain",
+            "hint": "Get to"
+        },
+        "U": {
+            "cells": [
+                62,
+                120,
+                20,
+                155,
+                7,
+                138
+            ],
+            "answer": "Thorpe",
+            "hint": "Outstanding Olympian of 1912 or 2000"
+        },
+        "V": {
+            "cells": [
+                78,
+                122,
+                92,
+                37,
+                63,
+                107,
+                160,
+                9
+            ],
+            "answer": "Eye candy",
+            "hint": "Images that are pretty but lacking in depth (2 wds.)"
+        }
+    }
+}

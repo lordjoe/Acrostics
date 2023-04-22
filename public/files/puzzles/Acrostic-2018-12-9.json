@@ -1,0 +1,365 @@
+{
+    "answer": "[W]hat is now a home run was at first a foul. ... [T]he regular playing area\u2014... in Hoboken, New Jersey\u2014abutted the Hudson River. When balls were hit out of bounds, they landed in the water. ..., so irretrievable shots were discouraged.",
+    "author": "(Gary) Belsky (and Neil Fine),",
+    "authorCell": [
+        114,
+        163,
+        40,
+        166,
+        60,
+        46,
+        59,
+        131,
+        75,
+        56,
+        70,
+        141,
+        144,
+        54,
+        172,
+        148,
+        117,
+        101,
+        109,
+        23,
+        155,
+        43,
+        8,
+        51,
+        27,
+        119
+    ],
+    "source": "On the Origins of Sports",
+    "clues": {
+        "A": {
+            "cells": [
+                114,
+                53,
+                97,
+                14,
+                139,
+                74,
+                158,
+                34
+            ],
+            "answer": "Babe Ruth",
+            "hint": "First member of a certain \u201c700 Club\u201d (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                163,
+                1,
+                134,
+                15
+            ],
+            "answer": "Ewer",
+            "hint": "Pitcher with a big mouth"
+        },
+        "C": {
+            "cells": [
+                40,
+                110,
+                13,
+                73,
+                61,
+                88
+            ],
+            "answer": "Lumber",
+            "hint": "Tread heavily; building supply"
+        },
+        "D": {
+            "cells": [
+                166,
+                103,
+                147,
+                86,
+                132,
+                115,
+                48,
+                24,
+                7
+            ],
+            "answer": "Serotonin",
+            "hint": "Mood-altering neurotransmitter"
+        },
+        "E": {
+            "cells": [
+                60,
+                17,
+                130,
+                76,
+                160,
+                37,
+                3,
+                104
+            ],
+            "answer": "Knitwear",
+            "hint": "Garments with some give"
+        },
+        "F": {
+            "cells": [
+                46,
+                125,
+                92,
+                78,
+                140
+            ],
+            "answer": "Yards",
+            "hint": "30 things between bases"
+        },
+        "G": {
+            "cells": [
+                59,
+                136,
+                29,
+                107,
+                85,
+                11
+            ],
+            "answer": "Oafish",
+            "hint": "Like a goon or yahoo"
+        },
+        "H": {
+            "cells": [
+                131,
+                98,
+                159,
+                69,
+                50,
+                116
+            ],
+            "answer": "Nassau",
+            "hint": "____ Island (former name of Long Island)"
+        },
+        "I": {
+            "cells": [
+                75,
+                162,
+                57,
+                135,
+                91,
+                44
+            ],
+            "answer": "Trowel",
+            "hint": "Tool for digging in the dirt"
+        },
+        "J": {
+            "cells": [
+                56,
+                122,
+                151,
+                22,
+                95,
+                42
+            ],
+            "answer": "Heater",
+            "hint": "Speedy delivery from \u201cthe hill\u201d"
+        },
+        "K": {
+            "cells": [
+                70,
+                32,
+                52,
+                150,
+                173,
+                87,
+                108,
+                133
+            ],
+            "answer": "Eleventh",
+            "hint": "Hour at which the end is near"
+        },
+        "L": {
+            "cells": [
+                141,
+                9,
+                63,
+                161,
+                25
+            ],
+            "answer": "Owner",
+            "hint": "Party to a labor contract"
+        },
+        "M": {
+            "cells": [
+                144,
+                168,
+                31,
+                49,
+                106,
+                82,
+                64,
+                18,
+                126
+            ],
+            "answer": "Rough-hewn",
+            "hint": "Showing a lack of polish (hyph.)"
+        },
+        "N": {
+            "cells": [
+                54,
+                127,
+                157,
+                99,
+                21,
+                4,
+                36,
+                71
+            ],
+            "answer": "Idolatry",
+            "hint": "Saluting the flag, e.g., to Jehovah\u2019s Witnesses"
+        },
+        "O": {
+            "cells": [
+                172,
+                112,
+                41,
+                94,
+                145,
+                19,
+                129
+            ],
+            "answer": "Go ahead",
+            "hint": "Take the lead (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                148,
+                12,
+                102,
+                171
+            ],
+            "answer": "Iowa",
+            "hint": "\u201cField of Dreams\u201d locale"
+        },
+        "Q": {
+            "cells": [
+                117,
+                47,
+                96,
+                66,
+                28
+            ],
+            "answer": "Ninja",
+            "hint": "Traditionally vegetarian fighter"
+        },
+        "R": {
+            "cells": [
+                101,
+                83,
+                120,
+                169,
+                68,
+                154,
+                20
+            ],
+            "answer": "Sutures",
+            "hint": "Rows of stitches"
+        },
+        "S": {
+            "cells": [
+                109,
+                90,
+                35,
+                143,
+                121,
+                10,
+                55,
+                164
+            ],
+            "answer": "Overhand",
+            "hint": "How to throw a javelin"
+        },
+        "T": {
+            "cells": [
+                23,
+                77,
+                111,
+                167,
+                2,
+                142,
+                62,
+                38
+            ],
+            "answer": "Fetching",
+            "hint": "Task for a Labrador or Newfie"
+        },
+        "U": {
+            "cells": [
+                155,
+                65,
+                138,
+                45,
+                79,
+                123
+            ],
+            "answer": "Sweaty",
+            "hint": "Evidencing physical exertion"
+        },
+        "V": {
+            "cells": [
+                43,
+                80,
+                5,
+                100,
+                153,
+                165,
+                128,
+                26
+            ],
+            "answer": "Phillies",
+            "hint": "Major-league affiliate of the Lehigh Valley IronPigs"
+        },
+        "W": {
+            "cells": [
+                8,
+                170,
+                58,
+                89,
+                33,
+                149,
+                118
+            ],
+            "answer": "Orbited",
+            "hint": "Went in a circle around"
+        },
+        "X": {
+            "cells": [
+                51,
+                105,
+                84,
+                30,
+                16,
+                152,
+                124,
+                67
+            ],
+            "answer": "Redouble",
+            "hint": "Intensify, as efforts"
+        },
+        "Y": {
+            "cells": [
+                27,
+                156,
+                81,
+                113,
+                137
+            ],
+            "answer": "Theft",
+            "hint": "Act of stealing"
+        },
+        "Z": {
+            "cells": [
+                119,
+                72,
+                93,
+                174,
+                39,
+                6,
+                146
+            ],
+            "answer": "Sawdust",
+            "hint": "Sign of carpenter ants, seemingly"
+        }
+    }
+}

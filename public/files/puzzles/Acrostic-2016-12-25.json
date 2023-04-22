@@ -1,0 +1,353 @@
+{
+    "answer": "\u201cSnow is an enchantment. It turns the sleek fat: bulbous cars, puffy spruces. It turns the world silent... . It mutes color. ... The Eskimos... may not have fifty-six words for snow, but doubtless they can catalog... that many varieties... .\u201d",
+    "author": "Bill McKibben,",
+    "authorCell": [
+        41,
+        20,
+        142,
+        40,
+        16,
+        89,
+        34,
+        120,
+        134,
+        38,
+        29,
+        18,
+        74,
+        3,
+        80,
+        159,
+        75,
+        100,
+        103,
+        163,
+        111,
+        107,
+        153,
+        148
+    ],
+    "source": "Long Distance",
+    "clues": {
+        "A": {
+            "cells": [
+                41,
+                82,
+                105,
+                117,
+                69,
+                157,
+                132,
+                8
+            ],
+            "answer": "Biathlon",
+            "hint": "Sport testing speed and accuracy"
+        },
+        "B": {
+            "cells": [
+                20,
+                126,
+                81,
+                95,
+                164,
+                139,
+                67
+            ],
+            "answer": "Isthmus",
+            "hint": "Neck of land"
+        },
+        "C": {
+            "cells": [
+                142,
+                5,
+                51,
+                96,
+                24,
+                169,
+                127,
+                155
+            ],
+            "answer": "Life raft",
+            "hint": "\u201cCast Away\u201d prop (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                40,
+                72,
+                59,
+                144,
+                119
+            ],
+            "answer": "Loess",
+            "hint": "Soil that makes the Yellow River yellow"
+        },
+        "E": {
+            "cells": [
+                16,
+                64,
+                30,
+                99,
+                129,
+                154,
+                173
+            ],
+            "answer": "Muskrat",
+            "hint": "Material for a Mountie\u2019s fur hat"
+        },
+        "F": {
+            "cells": [
+                89,
+                156,
+                25,
+                108,
+                55,
+                171,
+                143,
+                125
+            ],
+            "answer": "Canopied",
+            "hint": "Under an elevated cover"
+        },
+        "G": {
+            "cells": [
+                34,
+                66,
+                102,
+                160,
+                141,
+                118
+            ],
+            "answer": "Knotty",
+            "hint": "Tough to puzzle out, complicated"
+        },
+        "H": {
+            "cells": [
+                120,
+                11,
+                33,
+                88,
+                68,
+                158,
+                47,
+                104
+            ],
+            "answer": "Ice storm",
+            "hint": "Maker of some heavy coats (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                134,
+                78,
+                43,
+                60,
+                12
+            ],
+            "answer": "Blush",
+            "hint": "Crayola hue formerly called Cranberry"
+        },
+        "J": {
+            "cells": [
+                38,
+                56,
+                77,
+                101,
+                176,
+                146,
+                128,
+                2,
+                17
+            ],
+            "answer": "Brimstone",
+            "hint": "Biblical name for sulfur"
+        },
+        "K": {
+            "cells": [
+                29,
+                98,
+                83,
+                61,
+                112,
+                151,
+                15,
+                172
+            ],
+            "answer": "Estivate",
+            "hint": "Go dormant in the summer"
+        },
+        "L": {
+            "cells": [
+                18,
+                79,
+                122,
+                1,
+                58,
+                162,
+                145,
+                37
+            ],
+            "answer": "Newscast",
+            "hint": "\u201cAll Things Considered,\u201d for one"
+        },
+        "M": {
+            "cells": [
+                74,
+                7,
+                149,
+                90,
+                52,
+                114
+            ],
+            "answer": "Layoff",
+            "hint": "Temporary downsizing"
+        },
+        "N": {
+            "cells": [
+                3,
+                85,
+                109,
+                140,
+                39,
+                73,
+                54,
+                21
+            ],
+            "answer": "Outburst",
+            "hint": "Eruption, riot, upheaval"
+        },
+        "O": {
+            "cells": [
+                80,
+                138,
+                166,
+                116,
+                36,
+                22
+            ],
+            "answer": "Nonfat",
+            "hint": "Dairy option for dieters"
+        },
+        "P": {
+            "cells": [
+                159,
+                32,
+                93,
+                130,
+                110,
+                71,
+                174,
+                14
+            ],
+            "answer": "Gershwin",
+            "hint": "Theater where \u201cWicked\u201d had its Broadway premiere"
+        },
+        "Q": {
+            "cells": [
+                75,
+                57,
+                136,
+                150,
+                28,
+                42,
+                168,
+                97,
+                10
+            ],
+            "answer": "Dutch oven",
+            "hint": "Cast-iron kettle with a tight lid used over an open fire (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                100,
+                84,
+                49,
+                31,
+                165,
+                152,
+                63,
+                6
+            ],
+            "answer": "Implants",
+            "hint": "Microchips for cats or dogs, e.g."
+        },
+        "S": {
+            "cells": [
+                103,
+                9,
+                45,
+                135,
+                65,
+                115,
+                86,
+                167
+            ],
+            "answer": "Security",
+            "hint": "What a blanket might provide"
+        },
+        "T": {
+            "cells": [
+                163,
+                4,
+                113,
+                131,
+                19,
+                53
+            ],
+            "answer": "Twenty",
+            "hint": "Bill undergoing a sex-change operation?"
+        },
+        "U": {
+            "cells": [
+                111,
+                133,
+                35,
+                50,
+                91
+            ],
+            "answer": "Awful",
+            "hint": "Deplorable, nasty, terrible"
+        },
+        "V": {
+            "cells": [
+                107,
+                123,
+                170,
+                62,
+                147,
+                87,
+                13,
+                44,
+                27
+            ],
+            "answer": "Northeast",
+            "hint": "Megalopolitan area of the U.S."
+        },
+        "W": {
+            "cells": [
+                153,
+                124,
+                92,
+                26,
+                48,
+                175,
+                106,
+                70,
+                137
+            ],
+            "answer": "Cross-eyed",
+            "hint": "Afflicted with strabismus (hyph.)"
+        },
+        "X": {
+            "cells": [
+                148,
+                121,
+                161,
+                46,
+                23,
+                76,
+                94
+            ],
+            "answer": "Exhaust",
+            "hint": "Discharge from a chimney or tailpipe"
+        }
+    }
+}

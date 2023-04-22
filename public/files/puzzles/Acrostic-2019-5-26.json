@@ -1,0 +1,367 @@
+{
+    "answer": "The cars sound... like jets... with a... lawn-mowerish component you can feel in your skull. ... When the main mass of cars passes... your very skeleton hurts from the noise, and your ears are still belling when they come around again.",
+    "author": "(David Foster) Wallace,",
+    "authorCell": [
+        32,
+        27,
+        26,
+        67,
+        139,
+        4,
+        105,
+        80,
+        8,
+        61,
+        89,
+        41,
+        118,
+        115,
+        44,
+        12,
+        146,
+        47,
+        116,
+        97,
+        29,
+        19,
+        2,
+        57,
+        170,
+        173
+    ],
+    "source": "A Supposedly Fun Thing (I'll Never Do Again)",
+    "clues": {
+        "A": {
+            "cells": [
+                32,
+                111,
+                148,
+                3,
+                66,
+                91
+            ],
+            "answer": "Wheels",
+            "hint": "Large units of cheese"
+        },
+        "B": {
+            "cells": [
+                27,
+                50,
+                133,
+                167,
+                90
+            ],
+            "answer": "Acura",
+            "hint": "Legend-making Japanese marque"
+        },
+        "C": {
+            "cells": [
+                26,
+                109,
+                162,
+                49,
+                142,
+                72
+            ],
+            "answer": "Locust",
+            "hint": "Buzzer in a swarm"
+        },
+        "D": {
+            "cells": [
+                67,
+                9,
+                85,
+                104,
+                138,
+                40,
+                22,
+                120,
+                155
+            ],
+            "answer": "Locksmith",
+            "hint": "Provider of an AAA service"
+        },
+        "E": {
+            "cells": [
+                139,
+                125,
+                62,
+                103,
+                37,
+                168,
+                154
+            ],
+            "answer": "Air show",
+            "hint": "Flying circus performance (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                4,
+                101,
+                18,
+                82,
+                38,
+                122,
+                157,
+                171,
+                60
+            ],
+            "answer": "Crescendo",
+            "hint": "Gradual change from p to f"
+        },
+        "G": {
+            "cells": [
+                105,
+                46,
+                24,
+                166,
+                78,
+                135
+            ],
+            "answer": "Ethane",
+            "hint": "Odorless constituent of natural gas"
+        },
+        "H": {
+            "cells": [
+                80,
+                150,
+                10,
+                58,
+                36,
+                165,
+                98
+            ],
+            "answer": "Al Unser",
+            "hint": "Either of two Brickyard champions (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                8,
+                123,
+                33,
+                51,
+                64,
+                77,
+                110,
+                153
+            ],
+            "answer": "Sneaking",
+            "hint": "Under the radar, as a suspicion"
+        },
+        "J": {
+            "cells": [
+                61,
+                13,
+                158,
+                140,
+                86
+            ],
+            "answer": "Ultra",
+            "hint": "Endurance-testing race, informally"
+        },
+        "K": {
+            "cells": [
+                89,
+                163,
+                1,
+                69,
+                42,
+                149,
+                127,
+                20
+            ],
+            "answer": "Potholes",
+            "hint": "Some driving hazards"
+        },
+        "L": {
+            "cells": [
+                41,
+                100,
+                87,
+                119,
+                156,
+                174,
+                23,
+                70
+            ],
+            "answer": "Permeate",
+            "hint": "Soak through, suffuse"
+        },
+        "M": {
+            "cells": [
+                118,
+                99,
+                5,
+                145
+            ],
+            "answer": "Oval",
+            "hint": "Shape of a cricket ground, usually"
+        },
+        "N": {
+            "cells": [
+                115,
+                131,
+                75,
+                147,
+                39,
+                56,
+                14,
+                92,
+                164
+            ],
+            "answer": "Symbolism",
+            "hint": "Device much used by poets"
+        },
+        "O": {
+            "cells": [
+                44,
+                106,
+                144,
+                17,
+                76,
+                121
+            ],
+            "answer": "Elijah",
+            "hint": "Rider in a chariot of fire"
+        },
+        "P": {
+            "cells": [
+                12,
+                137,
+                83,
+                28,
+                152,
+                48,
+                169,
+                114
+            ],
+            "answer": "Drown out",
+            "hint": "Mask with a racket (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                146,
+                96,
+                117,
+                34,
+                161
+            ],
+            "answer": "Lorry",
+            "hint": "Heavy vehicle on British roads"
+        },
+        "R": {
+            "cells": [
+                47,
+                132,
+                71,
+                15,
+                160,
+                113,
+                88
+            ],
+            "answer": "Yonkers",
+            "hint": "City of 200,000+ whose name becomes the name of its state if you change its last letter to \u201cW\u201d and anagram it"
+        },
+        "S": {
+            "cells": [
+                116,
+                134,
+                54,
+                74,
+                21,
+                172,
+                95
+            ],
+            "answer": "Freeway",
+            "hint": "What I will often start?"
+        },
+        "T": {
+            "cells": [
+                97,
+                45,
+                63,
+                128,
+                84,
+                16
+            ],
+            "answer": "Unsafe",
+            "hint": "Like Corvairs, according to a 1965 Ralph Nader best seller"
+        },
+        "U": {
+            "cells": [
+                29,
+                124,
+                81,
+                107
+            ],
+            "answer": "Nose",
+            "hint": "Attribute of interest to an oenophile"
+        },
+        "V": {
+            "cells": [
+                19,
+                175,
+                52,
+                129,
+                35,
+                143,
+                65,
+                7
+            ],
+            "answer": "Tinnitus",
+            "hint": "Condition affecting many rock musicians"
+        },
+        "W": {
+            "cells": [
+                2,
+                112,
+                94,
+                159,
+                79,
+                31,
+                176,
+                141,
+                59
+            ],
+            "answer": "Hush money",
+            "hint": "Reward for silence (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                57,
+                43,
+                130,
+                102
+            ],
+            "answer": "Indy",
+            "hint": "Adventurer\u2019s nickname in film"
+        },
+        "Y": {
+            "cells": [
+                170,
+                55,
+                68,
+                30,
+                136,
+                11
+            ],
+            "answer": "Newman",
+            "hint": "Co-star of \u201cThe Hustler\u201d and \u201cThe Sting\u201d"
+        },
+        "Z": {
+            "cells": [
+                173,
+                93,
+                25,
+                6,
+                126,
+                73,
+                151,
+                53,
+                108
+            ],
+            "answer": "Gearshift",
+            "hint": "Means of going from first to third, say"
+        }
+    }
+}

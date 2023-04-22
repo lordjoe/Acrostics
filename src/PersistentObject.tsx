@@ -1,6 +1,6 @@
 import {GameState} from "./GameState";
 import {Puzzle} from "./Puzzle";
-import {readDefaultData} from "./acrosticData";
+
 
  class PersistentObject{
     private static instance: PersistentObject;
@@ -18,12 +18,24 @@ import {readDefaultData} from "./acrosticData";
     gsHolder: GameState | undefined = undefined;
 
       getPuzzle() : Puzzle {
-           if(this.puzzleHolder === undefined) {
-               this.puzzleHolder = readDefaultData();
-      //       alert("reading puzzle");
-     //        console.log("reading puzzle");
-         }
+         //   if(this.puzzleHolder === undefined) {
+         //       this.puzzleHolder = readDefaultData();
+         //   alert("reading puzzle");
+         //   console.log("reading puzzle");
+         // }
          return  this.puzzleHolder as Puzzle;
+     }
+
+     hasPuzzle() : boolean {
+         if(this.puzzleHolder === undefined)
+             return false;
+         return true;
+     }
+     setPuzzle(puz: Puzzle) {
+         this.puzzleHolder = puz;
+         this.gsHolder = new GameState();
+      //   alert("setting puzzle");
+     //    console.log("setting puzzle");
      }
 
       getGameState() : GameState {
@@ -35,6 +47,23 @@ import {readDefaultData} from "./acrosticData";
          return  this.gsHolder as GameState;
      }
 
-}
+     static buildDate(dateStr: string | undefined) : Date {
+         if(dateStr) {
+             let items: string[] = dateStr.split("-");
+             let year: number = parseInt(items[1]);
+             let month: number = parseInt(items[2]) - 1;
+             let day: number = parseInt(items[3]);
+
+             return new Date(year,month,day);
+         }
+         else {
+             return new Date();
+         }
+     }
+
+     static stringFromDate(d: Date) :string {
+         return d.toDateString();
+     }
+ }
 
 export default PersistentObject;

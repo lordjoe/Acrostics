@@ -1,0 +1,335 @@
+{
+    "answer": "Trying to define what swimming means to me is like looking at a shell in clear, still water. [O]nce I reach for it, breaking the surface, the ripples refract the shell and I blindly feel for what I saw perfectly before.",
+    "author": "Leanne Shapton,",
+    "authorCell": [
+        19,
+        16,
+        92,
+        112,
+        164,
+        33,
+        95,
+        155,
+        69,
+        39,
+        23,
+        27,
+        36,
+        25,
+        26,
+        31,
+        50,
+        101,
+        140,
+        138,
+        106,
+        64
+    ],
+    "source": "Swimming Studies",
+    "clues": {
+        "A": {
+            "cells": [
+                19,
+                122,
+                2,
+                99,
+                54,
+                76,
+                151
+            ],
+            "answer": "Screech",
+            "hint": "Car chase sound effect"
+        },
+        "B": {
+            "cells": [
+                16,
+                148,
+                165,
+                60,
+                104,
+                75,
+                134
+            ],
+            "answer": "Holland",
+            "hint": "Clifford ____, chief engineer of a tunnel under the Hudson"
+        },
+        "C": {
+            "cells": [
+                92,
+                143,
+                32,
+                72,
+                110,
+                56,
+                12,
+                161,
+                129
+            ],
+            "answer": "Afterlife",
+            "hint": "Great beyond"
+        },
+        "D": {
+            "cells": [
+                112,
+                144,
+                71,
+                97,
+                24,
+                169,
+                8,
+                48
+            ],
+            "answer": "Pettifog",
+            "hint": "Bicker, niggle, squabble"
+        },
+        "E": {
+            "cells": [
+                164,
+                108,
+                21,
+                5,
+                93,
+                124,
+                150,
+                78,
+                59,
+                35
+            ],
+            "answer": "Think twice",
+            "hint": "Reconsider (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                33,
+                147,
+                11,
+                61,
+                117,
+                46,
+                133,
+                96
+            ],
+            "answer": "Offering",
+            "hint": "Suggestion; donation"
+        },
+        "G": {
+            "cells": [
+                95,
+                17,
+                163,
+                73,
+                126
+            ],
+            "answer": "Nacre",
+            "hint": "Accordion inlay material, often"
+        },
+        "H": {
+            "cells": [
+                155,
+                132,
+                114,
+                1,
+                22,
+                49,
+                79,
+                37,
+                98
+            ],
+            "answer": "Salt marsh",
+            "hint": "Habitat for rails and eelgrass (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                69,
+                159,
+                86,
+                118,
+                20,
+                43,
+                141,
+                103
+            ],
+            "answer": "Werewolf",
+            "hint": "Professor Lupin of Hogwarts, e.g."
+        },
+        "J": {
+            "cells": [
+                39,
+                18,
+                156,
+                130,
+                57,
+                82,
+                116
+            ],
+            "answer": "Italics",
+            "hint": "Roman\u2019s counterpart"
+        },
+        "K": {
+            "cells": [
+                23,
+                41,
+                88,
+                63,
+                4,
+                119,
+                142
+            ],
+            "answer": "Metrify",
+            "hint": "Convert from inches, feet and miles, say"
+        },
+        "L": {
+            "cells": [
+                27,
+                74,
+                58,
+                91,
+                3,
+                167,
+                115,
+                137,
+                153
+            ],
+            "answer": "Money belt",
+            "hint": "Accessory for the wary tourist (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                36,
+                146,
+                131,
+                166,
+                90,
+                111,
+                51
+            ],
+            "answer": "Illyria",
+            "hint": "Dukedom of Shakespeare\u2019s Orsino"
+        },
+        "N": {
+            "cells": [
+                25,
+                135,
+                6,
+                83,
+                107,
+                53,
+                70,
+                157,
+                40
+            ],
+            "answer": "Nighthawk",
+            "hint": "Goatsucker that feeds on flying insects"
+        },
+        "O": {
+            "cells": [
+                26,
+                38,
+                121,
+                100,
+                139,
+                170,
+                52,
+                7
+            ],
+            "answer": "Glasnost",
+            "hint": "Companion policy to perestroika"
+        },
+        "P": {
+            "cells": [
+                31,
+                125,
+                85,
+                168,
+                55,
+                152,
+                105,
+                10
+            ],
+            "answer": "Shoelace",
+            "hint": "Cord associated with a doubly slipped reef knot"
+        },
+        "Q": {
+            "cells": [
+                50,
+                66,
+                34,
+                172,
+                15,
+                81,
+                149,
+                113
+            ],
+            "answer": "Time warp",
+            "hint": "Dance in \u201cThe Rocky Horror Picture Show\u201d (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                101,
+                13,
+                127,
+                62,
+                84,
+                28
+            ],
+            "answer": "Unsafe",
+            "hint": "Like a Corvair, per a 1965 Ralph Nader book"
+        },
+        "S": {
+            "cells": [
+                140,
+                44,
+                68,
+                158,
+                128,
+                94,
+                30
+            ],
+            "answer": "Dolphin",
+            "hint": "Marine creature related to the hippopotamus"
+        },
+        "T": {
+            "cells": [
+                138,
+                47,
+                109,
+                89,
+                171,
+                154,
+                29,
+                65,
+                77,
+                9
+            ],
+            "answer": "Inebriated",
+            "hint": "Drunk"
+        },
+        "U": {
+            "cells": [
+                106,
+                67,
+                42,
+                80,
+                120,
+                136,
+                162,
+                14
+            ],
+            "answer": "Ellerbee",
+            "hint": "Linda _____, host of \u201cNick News\u201d"
+        },
+        "V": {
+            "cells": [
+                64,
+                123,
+                102,
+                87,
+                45,
+                145,
+                160
+            ],
+            "answer": "Striker",
+            "hint": "Position played by Mia Hamm or Lionel Messi"
+        }
+    }
+}

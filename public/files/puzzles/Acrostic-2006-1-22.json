@@ -1,0 +1,325 @@
+{
+    "answer": "OK is the most successful of all Americanisms. It has invaded hundreds of... languages... . It was... the first unscripted word spoken on the surface of the moon, uttered by Buzz Aldrin just after the lunar module touched down.",
+    "author": "David Wilton,",
+    "authorCell": [
+        92,
+        24,
+        46,
+        35,
+        57,
+        175,
+        79,
+        155,
+        152,
+        99,
+        34,
+        93,
+        161,
+        30,
+        50,
+        37,
+        132,
+        71,
+        170,
+        97
+    ],
+    "source": "Word Myths",
+    "clues": {
+        "A": {
+            "cells": [
+                92,
+                20,
+                63,
+                36,
+                58,
+                113,
+                122,
+                75,
+                134,
+                145
+            ],
+            "answer": "Duns Scotus",
+            "hint": "Medieval scholar, a numbskull\u2019s eponym (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                24,
+                104,
+                165,
+                86,
+                130,
+                115,
+                40,
+                56
+            ],
+            "answer": "Anecdote",
+            "hint": "Evidence for many an urban legend?"
+        },
+        "C": {
+            "cells": [
+                46,
+                107,
+                176,
+                96,
+                7,
+                149,
+                126,
+                27
+            ],
+            "answer": "Vendetta",
+            "hint": "Motivation behind some gang warfare"
+        },
+        "D": {
+            "cells": [
+                35,
+                140,
+                44,
+                69,
+                153,
+                120,
+                103,
+                85,
+                10
+            ],
+            "answer": "Irish moss",
+            "hint": "Seaweed yielding the thickener carrageenan (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                57,
+                171,
+                147,
+                11,
+                76,
+                125,
+                159,
+                42,
+                89
+            ],
+            "answer": "\u201cDeathtrap\u201d",
+            "hint": "Broadway\u2019s longest-running thriller, 1978-82"
+        },
+        "F": {
+            "cells": [
+                175,
+                119,
+                146,
+                131,
+                25,
+                62,
+                157,
+                2,
+                49,
+                82
+            ],
+            "answer": "Wet blanket",
+            "hint": "Spoilsport, party pooper (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                79,
+                142,
+                67,
+                95,
+                129,
+                38,
+                18
+            ],
+            "answer": "Ingress",
+            "hint": "Means of entering"
+        },
+        "H": {
+            "cells": [
+                155,
+                31,
+                1,
+                53,
+                12,
+                43,
+                106,
+                137,
+                80,
+                68
+            ],
+            "answer": "Lion\u2019s share",
+            "hint": "Everything (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                152,
+                29,
+                8,
+                98,
+                164,
+                114
+            ],
+            "answer": "Temple",
+            "hint": "Bill Cosby\u2019s alma mater, home of the Owls"
+        },
+        "J": {
+            "cells": [
+                99,
+                23,
+                78,
+                32,
+                9,
+                168,
+                128,
+                108,
+                154
+            ],
+            "answer": "Off-course",
+            "hint": "Like a ship lost at sea (hyph.)"
+        },
+        "K": {
+            "cells": [
+                34,
+                16,
+                51,
+                87,
+                65,
+                143,
+                112,
+                169,
+                100,
+                127,
+                5
+            ],
+            "answer": "Nehru jacket",
+            "hint": "Habit adopted by the Beatles on a 1968 trip to India (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                93,
+                141,
+                123,
+                172,
+                72,
+                33,
+                110,
+                48
+            ],
+            "answer": "Windward",
+            "hint": "___ Islands, home of Grenada and Martinique"
+        },
+        "M": {
+            "cells": [
+                161,
+                4,
+                90,
+                55,
+                66,
+                14,
+                39,
+                135,
+                77,
+                173
+            ],
+            "answer": "Ostracized",
+            "hint": "Banished by ballot, in ancient Greece"
+        },
+        "N": {
+            "cells": [
+                30,
+                13,
+                61,
+                101,
+                174,
+                148,
+                117,
+                41,
+                83,
+                160,
+                133
+            ],
+            "answer": "Rule of thumb",
+            "hint": "Guideline falsely supposed to stem from the size of a stick lawful for a beating (3 wds.)"
+        },
+        "O": {
+            "cells": [
+                50,
+                158,
+                60,
+                111,
+                94,
+                139,
+                3,
+                21
+            ],
+            "answer": "Daffodil",
+            "hint": "National flower of Wales"
+        },
+        "P": {
+            "cells": [
+                37,
+                144,
+                64,
+                81,
+                118,
+                22,
+                166
+            ],
+            "answer": "Mug shot",
+            "hint": "Item in a rogues\u2019 gallery (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                132,
+                52,
+                26,
+                150,
+                105,
+                70,
+                162,
+                91
+            ],
+            "answer": "Yuletide",
+            "hint": "Holiday season"
+        },
+        "R": {
+            "cells": [
+                71,
+                163,
+                102,
+                47,
+                116,
+                88,
+                17,
+                6
+            ],
+            "answer": "Tuna fish",
+            "hint": "\u201cYou Can Tune a Piano, But You Can\u2019t ___\u201d (1978 REO Speedwagon album) (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                170,
+                59,
+                28,
+                109,
+                45,
+                15,
+                156,
+                138,
+                124,
+                74
+            ],
+            "answer": "Homunculus",
+            "hint": "Miniature person, like Mini-Me or a hobbit"
+        },
+        "T": {
+            "cells": [
+                97,
+                19,
+                121,
+                151,
+                136,
+                73,
+                84,
+                54,
+                167
+            ],
+            "answer": "Sforzando",
+            "hint": "Musical direction meaning \u201cto be accented\u201d"
+        }
+    }
+}

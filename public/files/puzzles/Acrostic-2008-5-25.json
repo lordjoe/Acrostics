@@ -1,0 +1,371 @@
+{
+    "answer": "[A]s vulgarizers the British are... incompetent. If they invent cheap gewgaws for people to take home as mementos of their... visit to the Bard\u2019s shrine, they immediately salve their conscience by planting more flower gardens.",
+    "author": "Richard (D.) Altick,",
+    "authorCell": [
+        115,
+        101,
+        50,
+        120,
+        81,
+        97,
+        111,
+        53,
+        136,
+        20,
+        21,
+        152,
+        75,
+        119,
+        104,
+        17,
+        131,
+        123,
+        28,
+        16,
+        87,
+        6,
+        157,
+        109,
+        151,
+        127
+    ],
+    "source": "To Be In England",
+    "clues": {
+        "A": {
+            "cells": [
+                115,
+                95,
+                177,
+                64,
+                145,
+                13,
+                47
+            ],
+            "answer": "Red rose",
+            "hint": "Symbol worn on St. George\u2019s Day (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                101,
+                3,
+                89,
+                143,
+                43
+            ],
+            "answer": "Ivory",
+            "hint": "Scrimshaw material"
+        },
+        "C": {
+            "cells": [
+                50,
+                135,
+                96,
+                162,
+                35
+            ],
+            "answer": "Caine",
+            "hint": "Olivier\u2019s co-star in \u201cSleuth\u201d"
+        },
+        "D": {
+            "cells": [
+                120,
+                142,
+                55,
+                15,
+                160,
+                86,
+                175
+            ],
+            "answer": "High tea",
+            "hint": "Early evening meal (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                81,
+                10,
+                105,
+                126,
+                29
+            ],
+            "answer": "Aztec",
+            "hint": "Member of an empire conquered by Cortes"
+        },
+        "F": {
+            "cells": [
+                97,
+                153,
+                58,
+                110,
+                80,
+                130,
+                22
+            ],
+            "answer": "Regrets",
+            "hint": "Negative response from an invitee"
+        },
+        "G": {
+            "cells": [
+                111,
+                42,
+                98,
+                72,
+                159,
+                82,
+                140,
+                19,
+                176,
+                56
+            ],
+            "answer": "Devonshire",
+            "hint": "Walter Raleigh\u2019s constituency in Parliament"
+        },
+        "H": {
+            "cells": [
+                53,
+                39,
+                5,
+                74,
+                164,
+                121
+            ],
+            "answer": "Aflame",
+            "hint": "Blazing; keenly excited"
+        },
+        "I": {
+            "cells": [
+                136,
+                30,
+                63,
+                92,
+                158,
+                106
+            ],
+            "answer": "Loofah",
+            "hint": "Dishcloth gourd, vegetable sponge"
+        },
+        "J": {
+            "cells": [
+                20,
+                172,
+                134,
+                73,
+                99,
+                62,
+                155
+            ],
+            "answer": "Testify",
+            "hint": "Speak after swearing"
+        },
+        "K": {
+            "cells": [
+                21,
+                83,
+                156,
+                1,
+                71,
+                116,
+                138,
+                179,
+                61
+            ],
+            "answer": "Impatiens",
+            "hint": "Popular shade-loving annual"
+        },
+        "L": {
+            "cells": [
+                152,
+                24,
+                102,
+                180,
+                84,
+                122,
+                52
+            ],
+            "answer": "Cat\u2019s-eye",
+            "hint": "Gem with a light-reflecting band (hyph.)"
+        },
+        "M": {
+            "cells": [
+                75,
+                46,
+                33,
+                14,
+                144,
+                114
+            ],
+            "answer": "Kvetch",
+            "hint": "Moan and groan, bellyache"
+        },
+        "N": {
+            "cells": [
+                119,
+                165,
+                69,
+                107,
+                25,
+                7,
+                146,
+                49
+            ],
+            "answer": "Tolerant",
+            "hint": "Able to endure hardship; broad-minded"
+        },
+        "O": {
+            "cells": [
+                104,
+                137,
+                26,
+                12,
+                60,
+                41,
+                118,
+                169,
+                79
+            ],
+            "answer": "Overwhelm",
+            "hint": "Shock and awe; swamp"
+        },
+        "P": {
+            "cells": [
+                17,
+                166,
+                44,
+                147,
+                103,
+                78,
+                132
+            ],
+            "answer": "Bristol",
+            "hint": "Port on the River Avon"
+        },
+        "Q": {
+            "cells": [
+                131,
+                32,
+                51,
+                66,
+                85,
+                178,
+                8,
+                161,
+                100
+            ],
+            "answer": "Ephemeris",
+            "hint": "Table used by astrologers and navigators"
+        },
+        "R": {
+            "cells": [
+                123,
+                108,
+                167,
+                18,
+                40
+            ],
+            "answer": "Ibert",
+            "hint": "Jacques ___, composer for Orson Welles\u2019s \u201cMacbeth\u201d"
+        },
+        "S": {
+            "cells": [
+                28,
+                70,
+                113,
+                139,
+                9,
+                45,
+                163
+            ],
+            "answer": "Nesting",
+            "hint": "Arranged like matryoshka dolls"
+        },
+        "T": {
+            "cells": [
+                16,
+                54,
+                27,
+                93,
+                170,
+                124,
+                150
+            ],
+            "answer": "Epitome",
+            "hint": "Quintessence, archetype"
+        },
+        "U": {
+            "cells": [
+                87,
+                4,
+                125,
+                154,
+                59,
+                37
+            ],
+            "answer": "Numbat",
+            "hint": "Striped marsupial with a taste for termites"
+        },
+        "V": {
+            "cells": [
+                6,
+                128,
+                168,
+                34,
+                112,
+                77,
+                91,
+                65
+            ],
+            "answer": "Gift shop",
+            "hint": "Place purveying souvenirs and such (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                157,
+                76,
+                117,
+                174,
+                88,
+                23,
+                57,
+                38,
+                2,
+                141
+            ],
+            "answer": "Lengthwise",
+            "hint": "From stem to stern"
+        },
+        "X": {
+            "cells": [
+                109,
+                173,
+                148,
+                129,
+                48,
+                11
+            ],
+            "answer": "Arcane",
+            "hint": "Not for the uninitiated"
+        },
+        "Y": {
+            "cells": [
+                151,
+                133,
+                31,
+                68,
+                94
+            ],
+            "answer": "Nymph",
+            "hint": "Larva of an insect; graceful young woman"
+        },
+        "Z": {
+            "cells": [
+                127,
+                149,
+                90,
+                67,
+                171,
+                36
+            ],
+            "answer": "Disown",
+            "hint": "Repudiate, renounce"
+        }
+    }
+}

@@ -1,0 +1,350 @@
+{
+    "answer": "X marks the spot on a pirate\u2019s map where treasure is buried. ... [T]he archetype of a mad scientist is Dr. X. ... X is a power of magnification, an axis on a graph, and a female chromosome. ... X is a kiss at the end of a love letter.",
+    "author": "Craig Conley,",
+    "authorCell": [
+        53,
+        4,
+        16,
+        68,
+        93,
+        67,
+        131,
+        15,
+        126,
+        137,
+        57,
+        133,
+        152,
+        127,
+        161,
+        162,
+        163,
+        7,
+        150,
+        30,
+        27,
+        110,
+        52,
+        153,
+        109
+    ],
+    "source": "One-Letter Words",
+    "clues": {
+        "A": {
+            "cells": [
+                53,
+                19,
+                37,
+                80
+            ],
+            "answer": "Crux",
+            "hint": "Hardest part of a problem"
+        },
+        "B": {
+            "cells": [
+                4,
+                106,
+                143,
+                157,
+                33,
+                85,
+                51,
+                120
+            ],
+            "answer": "Railroad",
+            "hint": "Kind of line with crossbuck warnings"
+        },
+        "C": {
+            "cells": [
+                16,
+                122,
+                38,
+                64,
+                91,
+                151
+            ],
+            "answer": "A-frame",
+            "hint": "Sawhorse-shaped structure (hyph.)"
+        },
+        "D": {
+            "cells": [
+                68,
+                21,
+                149,
+                81,
+                105,
+                5
+            ],
+            "answer": "I think",
+            "hint": "English form of a Cartesian given (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                93,
+                60,
+                135,
+                111,
+                18,
+                160,
+                41
+            ],
+            "answer": "Goonies",
+            "hint": "Seekers of One-Eyed Willy\u2019s fortune in a Steven Spielberg story"
+        },
+        "F": {
+            "cells": [
+                67,
+                83,
+                119,
+                32,
+                146,
+                48,
+                104
+            ],
+            "answer": "Cantata",
+            "hint": "One of 200-odd Bach choral works"
+        },
+        "G": {
+            "cells": [
+                131,
+                96,
+                155,
+                36,
+                9,
+                56
+            ],
+            "answer": "Offset",
+            "hint": "Make up for, counterbalance"
+        },
+        "H": {
+            "cells": [
+                15,
+                89,
+                165,
+                1,
+                108,
+                147
+            ],
+            "answer": "\"No Exit\"",
+            "hint": "Drama depicting three dead souls (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                126,
+                101,
+                61,
+                39,
+                145,
+                3,
+                159,
+                22,
+                78
+            ],
+            "answer": "Life Saver",
+            "hint": "Bit of toroidal candy invented by the poet Hart Crane\u2019s father (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                137,
+                10,
+                54,
+                25,
+                88,
+                116
+            ],
+            "answer": "E sharp",
+            "hint": "Equivalent of F (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                57,
+                124,
+                98,
+                35
+            ],
+            "answer": "\"YMCA\"",
+            "hint": "The place in the lyric \u201cthere\u2019s a place you can go,\u201d in a 1978 hit song"
+        },
+        "L": {
+            "cells": [
+                133,
+                43,
+                148,
+                90,
+                12,
+                107
+            ],
+            "answer": "Outfox",
+            "hint": "Beat by use of deceit"
+        },
+        "M": {
+            "cells": [
+                152,
+                55,
+                86,
+                24,
+                121,
+                71,
+                8
+            ],
+            "answer": "New math",
+            "hint": "Pedagogical flop of the 1960s (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                127,
+                73,
+                17,
+                40,
+                158,
+                94,
+                141,
+                113,
+                59
+            ],
+            "answer": "Espionage",
+            "hint": "Mole\u2019s activity"
+        },
+        "O": {
+            "cells": [
+                161,
+                118,
+                136,
+                42,
+                77,
+                62
+            ],
+            "answer": "Lambda",
+            "hint": "Symbol for wavelength"
+        },
+        "P": {
+            "cells": [
+                162,
+                79,
+                31,
+                132,
+                58,
+                100
+            ],
+            "answer": "Exempt",
+            "hint": "Free (from), as an obligation"
+        },
+        "Q": {
+            "cells": [
+                163,
+                97,
+                63,
+                46,
+                144
+            ],
+            "answer": "Times",
+            "hint": "Word before table or Square"
+        },
+        "R": {
+            "cells": [
+                7,
+                28,
+                125,
+                103,
+                142,
+                76
+            ],
+            "answer": "Thanks",
+            "hint": "What\u2019s meant by \u201casante\u201d in Swahili or \u201cmahalo\u201d in Hawaiian"
+        },
+        "S": {
+            "cells": [
+                150,
+                2,
+                84,
+                129,
+                115,
+                23,
+                45,
+                66
+            ],
+            "answer": "Emphasis",
+            "hint": "One aim of boldness"
+        },
+        "T": {
+            "cells": [
+                30,
+                130,
+                112,
+                13,
+                50,
+                65
+            ],
+            "answer": "R-rated",
+            "hint": "Steamy but not hard-core, say (hyph.)"
+        },
+        "U": {
+            "cells": [
+                27,
+                117,
+                95,
+                164,
+                69,
+                82,
+                14,
+                138
+            ],
+            "answer": "White Sox",
+            "hint": "World Series champs of 1906, 1917 and 2005 (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                110,
+                128,
+                92,
+                70,
+                20,
+                47,
+                156
+            ],
+            "answer": "\"O Canada\"",
+            "hint": "National anthem whose original lyrics were in French (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                52,
+                154,
+                134,
+                99,
+                114,
+                75,
+                34,
+                6
+            ],
+            "answer": "Rosaries",
+            "hint": "Strings usually incorporating crosses"
+        },
+        "X": {
+            "cells": [
+                153,
+                139,
+                102,
+                26,
+                74,
+                123,
+                44
+            ],
+            "answer": "Diopter",
+            "hint": "Measure of a lens\u2019s refractive strength"
+        },
+        "Y": {
+            "cells": [
+                109,
+                11,
+                49,
+                29,
+                87,
+                166,
+                72,
+                140
+            ],
+            "answer": "Spheeris",
+            "hint": "Penelope ____, \u201cWayne\u2019s World\u201d director"
+        }
+    }
+}

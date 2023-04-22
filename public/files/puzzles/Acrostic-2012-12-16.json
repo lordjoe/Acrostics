@@ -1,0 +1,348 @@
+{
+    "answer": "Families in those days spent their lives eating canned corn, meat loaf, peanut-butter sandwiches, oatmeal, red cabbage and peas.... Great meals... stuck out like icebergs in the Caribbean. Buying a turkey was a state occasion.",
+    "author": "(Jean) Shepherd,",
+    "authorCell": [
+        71,
+        12,
+        45,
+        59,
+        78,
+        129,
+        29,
+        74,
+        36,
+        47,
+        138,
+        106,
+        4,
+        166,
+        169,
+        110,
+        141,
+        114,
+        8,
+        68,
+        13,
+        132,
+        161
+    ],
+    "source": "A Christmas Story",
+    "clues": {
+        "A": {
+            "cells": [
+                71,
+                39,
+                147,
+                91,
+                159,
+                1,
+                177,
+                120,
+                16
+            ],
+            "answer": "Snack food",
+            "hint": "Munchies not always nutritious (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                12,
+                102,
+                149,
+                52,
+                64,
+                127,
+                41
+            ],
+            "answer": "Hebetic",
+            "hint": "Occurring during puberty"
+        },
+        "C": {
+            "cells": [
+                45,
+                173,
+                5,
+                143,
+                21,
+                156,
+                76,
+                128
+            ],
+            "answer": "Ecliptic",
+            "hint": "Annual path of the sun, as seen from Earth"
+        },
+        "D": {
+            "cells": [
+                59,
+                163,
+                20,
+                82,
+                46,
+                107,
+                148,
+                174
+            ],
+            "answer": "Pasadena",
+            "hint": "Caltech\u2019s home city"
+        },
+        "E": {
+            "cells": [
+                78,
+                33,
+                3,
+                176,
+                62,
+                133,
+                162,
+                95,
+                151
+            ],
+            "answer": "Hemingway",
+            "hint": "Author who said \u201cWrite drunk; edit sober\u201d"
+        },
+        "F": {
+            "cells": [
+                129,
+                17,
+                154,
+                55,
+                69,
+                104
+            ],
+            "answer": "Eagles",
+            "hint": "N.F.L. team whose mascot is Swoop"
+        },
+        "G": {
+            "cells": [
+                29,
+                170,
+                101,
+                85,
+                153,
+                137,
+                57,
+                43,
+                11
+            ],
+            "answer": "Repentant",
+            "hint": "Truly sorry for one\u2019s sins"
+        },
+        "H": {
+            "cells": [
+                74,
+                98,
+                25,
+                168,
+                130,
+                2,
+                115,
+                146
+            ],
+            "answer": "Database",
+            "hint": "Organized body of searchable information"
+        },
+        "I": {
+            "cells": [
+                36,
+                111,
+                96,
+                139,
+                155,
+                10,
+                175,
+                126,
+                72
+            ],
+            "answer": "Aegean Sea",
+            "hint": "Expanse called \u201cwine-dark\u201d by Homer (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                47,
+                79,
+                123,
+                6,
+                145,
+                108,
+                172,
+                18
+            ],
+            "answer": "Celibacy",
+            "hint": "Ideal rule of life for some monks"
+        },
+        "K": {
+            "cells": [
+                138,
+                157,
+                19,
+                65,
+                112,
+                50,
+                90,
+                34
+            ],
+            "answer": "Husbands",
+            "hint": "Constituents of some matches"
+        },
+        "L": {
+            "cells": [
+                106,
+                56,
+                77,
+                125,
+                164,
+                24,
+                42,
+                142
+            ],
+            "answer": "Rock star",
+            "hint": "Idol of the MTV sort (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                4,
+                118,
+                35,
+                140,
+                70,
+                22,
+                92,
+                51
+            ],
+            "answer": "Ice cream",
+            "hint": "1921 Ellis Island offering to all new Americans (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                166,
+                54,
+                31,
+                73,
+                119,
+                94,
+                150,
+                105,
+                14
+            ],
+            "answer": "Stink bugs",
+            "hint": "Pests first noted in the U.S. in 1998 (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                169,
+                131,
+                80,
+                116,
+                37,
+                63,
+                93,
+                15
+            ],
+            "answer": "Test tube",
+            "hint": "Aid for studying a culture (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                110,
+                152,
+                134,
+                122,
+                30,
+                60,
+                167,
+                81,
+                7
+            ],
+            "answer": "Mistletoe",
+            "hint": "Potential cause of a smack"
+        },
+        "Q": {
+            "cells": [
+                141,
+                124,
+                158,
+                88,
+                9,
+                58,
+                113,
+                27
+            ],
+            "answer": "Air rifle",
+            "hint": "Gift in the holiday classic that is the source of this puzzle (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                114,
+                75,
+                28,
+                178,
+                97
+            ],
+            "answer": "Swine",
+            "hint": "Pen pals?"
+        },
+        "S": {
+            "cells": [
+                8,
+                53,
+                144,
+                165,
+                109,
+                26,
+                38,
+                86
+            ],
+            "answer": "Sabathia",
+            "hint": "American League pitcher who won the 2007 Cy Young award"
+        },
+        "T": {
+            "cells": [
+                68,
+                49,
+                121,
+                89
+            ],
+            "answer": "True",
+            "hint": "Perfectly aligned"
+        },
+        "U": {
+            "cells": [
+                13,
+                32,
+                103,
+                87,
+                67,
+                135,
+                44,
+                160
+            ],
+            "answer": "Ovaltine",
+            "hint": "Sponsor of the old \u201cCaptain Midnight\u201d radio show"
+        },
+        "V": {
+            "cells": [
+                132,
+                48,
+                83,
+                66,
+                23,
+                100
+            ],
+            "answer": "Rotund",
+            "hint": "Having a figure like that of Kriss Kringle"
+        },
+        "W": {
+            "cells": [
+                161,
+                171,
+                117,
+                99,
+                40,
+                84,
+                61,
+                136
+            ],
+            "answer": "Youngman",
+            "hint": "Comic who said \u201cTake my wife \u2014 please\u201d"
+        }
+    }
+}

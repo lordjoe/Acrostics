@@ -1,0 +1,370 @@
+{
+    "answer": "Dear Mr. Edison,... I am astonished and somewhat terrified at... this evening\u2019s experiment: astonished at the wonderful power you have developed and terrified at the thought that so much... bad music may be put on record forever.",
+    "author": "Sir Arthur Sullivan,",
+    "authorCell": [
+        71,
+        56,
+        64,
+        115,
+        39,
+        37,
+        137,
+        101,
+        175,
+        59,
+        163,
+        93,
+        110,
+        41,
+        104,
+        16,
+        116,
+        162,
+        133,
+        165,
+        74,
+        19,
+        58,
+        90,
+        70,
+        157
+    ],
+    "source": "Phonogram",
+    "clues": {
+        "A": {
+            "cells": [
+                71,
+                147,
+                49,
+                171,
+                134,
+                32,
+                88,
+                107,
+                6
+            ],
+            "answer": "Schroeder",
+            "hint": "Toon with a toy piano"
+        },
+        "B": {
+            "cells": [
+                56,
+                112,
+                11,
+                25
+            ],
+            "answer": "IPod",
+            "hint": "Repository for a song collection"
+        },
+        "C": {
+            "cells": [
+                64,
+                92,
+                160,
+                46,
+                138,
+                111
+            ],
+            "answer": "Rubato",
+            "hint": "Expressively varying tempo"
+        },
+        "D": {
+            "cells": [
+                115,
+                4,
+                139,
+                50,
+                168,
+                154,
+                77,
+                35,
+                96
+            ],
+            "answer": "Artie Shaw",
+            "hint": "Jazz composer of \u201cInterlude in B flat\u201d (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                39,
+                84,
+                177,
+                135,
+                63
+            ],
+            "answer": "Revue",
+            "hint": "Broadway grab bag"
+        },
+        "F": {
+            "cells": [
+                37,
+                52,
+                143,
+                72,
+                13,
+                123,
+                159
+            ],
+            "answer": "Testify",
+            "hint": "Give a first-person account"
+        },
+        "G": {
+            "cells": [
+                137,
+                2,
+                57,
+                156,
+                109,
+                173,
+                95,
+                40,
+                81,
+                23
+            ],
+            "answer": "Henceforth",
+            "hint": "From now until the end of time"
+        },
+        "H": {
+            "cells": [
+                101,
+                17,
+                83,
+                60,
+                167
+            ],
+            "answer": "Usher",
+            "hint": "\u201cYeah!\u201d and \u201cOMG\u201d performer"
+        },
+        "I": {
+            "cells": [
+                175,
+                89,
+                152,
+                43,
+                61,
+                24,
+                1
+            ],
+            "answer": "Remixed",
+            "hint": "Edited in GarageBand, maybe"
+        },
+        "J": {
+            "cells": [
+                59,
+                102,
+                80,
+                8,
+                125,
+                29
+            ],
+            "answer": "Shades",
+            "hint": "Accessory for Roy Orbison or Ringo Starr"
+        },
+        "K": {
+            "cells": [
+                163,
+                62,
+                149,
+                119,
+                103,
+                36
+            ],
+            "answer": "Upbeat",
+            "hint": "What a raised baton signals"
+        },
+        "L": {
+            "cells": [
+                93,
+                153,
+                28,
+                79,
+                124,
+                47,
+                7
+            ],
+            "answer": "Luddite",
+            "hint": "Extreme technophobe"
+        },
+        "M": {
+            "cells": [
+                110,
+                44,
+                136,
+                67,
+                20,
+                172
+            ],
+            "answer": "\u201cLegend\"",
+            "hint": "Greatest hits album for Bob Marley & the Wailers"
+        },
+        "N": {
+            "cells": [
+                41,
+                98,
+                155,
+                22,
+                130,
+                5,
+                113,
+                55
+            ],
+            "answer": "Irishmen",
+            "hint": "Members of the Chieftains, e.g."
+        },
+        "O": {
+            "cells": [
+                104,
+                38,
+                179,
+                53,
+                78
+            ],
+            "answer": "Verve",
+            "hint": "Label for Count Basie, Billie Holiday and Dizzy Gillespie"
+        },
+        "P": {
+            "cells": [
+                16,
+                146,
+                45,
+                65,
+                164,
+                131,
+                117
+            ],
+            "answer": "Audited",
+            "hint": "Sat in on without credit"
+        },
+        "Q": {
+            "cells": [
+                116,
+                3,
+                18,
+                148,
+                161,
+                68,
+                132,
+                174,
+                42,
+                91
+            ],
+            "answer": "Nat Hentoff",
+            "hint": "Longtime jazz critic for The Village Voice (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                162,
+                75,
+                12,
+                94,
+                144,
+                122,
+                27,
+                48
+            ],
+            "answer": "Pinpoint",
+            "hint": "Locate as though with a needle"
+        },
+        "S": {
+            "cells": [
+                133,
+                150,
+                120,
+                31,
+                73,
+                166,
+                99
+            ],
+            "answer": "Harmony",
+            "hint": "It may have four parts"
+        },
+        "T": {
+            "cells": [
+                165,
+                10,
+                66,
+                30,
+                87,
+                126
+            ],
+            "answer": "Osmond",
+            "hint": "Sibling pop stars\u2019 surname"
+        },
+        "U": {
+            "cells": [
+                74,
+                97,
+                33,
+                145,
+                178,
+                114,
+                9,
+                127
+            ],
+            "answer": "New media",
+            "hint": "Internet radio, video games, etc. (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                19,
+                169,
+                82,
+                141,
+                108,
+                54
+            ],
+            "answer": "Octave",
+            "hint": "Doubling of frequency, in electronics"
+        },
+        "W": {
+            "cells": [
+                58,
+                100,
+                129,
+                34,
+                158,
+                15
+            ],
+            "answer": "Gotham",
+            "hint": "Site of the last Grammy show not held in La-La Land"
+        },
+        "X": {
+            "cells": [
+                90,
+                170,
+                76,
+                105,
+                118,
+                142,
+                14
+            ],
+            "answer": "\"Rosetta\u201d",
+            "hint": "Theme song for Earl (Fatha) Hines"
+        },
+        "Y": {
+            "cells": [
+                70,
+                85,
+                26,
+                121,
+                151
+            ],
+            "answer": "Award",
+            "hint": "Juno, Tony or Webby"
+        },
+        "Z": {
+            "cells": [
+                157,
+                176,
+                69,
+                140,
+                86,
+                106,
+                21,
+                51,
+                128
+            ],
+            "answer": "Methodist",
+            "hint": "Hymn writer Charles Wesley, by denomination"
+        }
+    }
+}

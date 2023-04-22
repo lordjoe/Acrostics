@@ -1,0 +1,357 @@
+{
+    "answer": "A trunk ... acts, among other things, as a hand, an arm, a nose, a snorkel, a sledgehammer, a trumpet, and a hose. ... Without containing a single bone, it is strong enough to lift heavy logs, and sufficiently nimble to pick up a coin.",
+    "author": "Vicki Croke,",
+    "authorCell": [
+        134,
+        100,
+        165,
+        49,
+        111,
+        88,
+        48,
+        162,
+        166,
+        80,
+        160,
+        51,
+        43,
+        168,
+        59,
+        39,
+        173,
+        66,
+        170,
+        137,
+        62,
+        70,
+        98,
+        107,
+        135
+    ],
+    "source": "Elephant Company",
+    "clues": {
+        "A": {
+            "cells": [
+                134,
+                23,
+                158,
+                3,
+                52,
+                72,
+                85
+            ],
+            "answer": "Vibrato",
+            "hint": "Slide-jiggling effect on a trombone"
+        },
+        "B": {
+            "cells": [
+                100,
+                38,
+                163,
+                4,
+                123,
+                74
+            ],
+            "answer": "Impugn",
+            "hint": "Assail, as someone\u2019s character"
+        },
+        "C": {
+            "cells": [
+                165,
+                18,
+                140,
+                61,
+                121,
+                95,
+                45
+            ],
+            "answer": "Chamois",
+            "hint": "Cloth used by cyclists for padding"
+        },
+        "D": {
+            "cells": [
+                49,
+                120,
+                172,
+                138,
+                84,
+                17,
+                71,
+                33
+            ],
+            "answer": "Knighted",
+            "hint": "Like Alec Guinness and Paul McCartney"
+        },
+        "E": {
+            "cells": [
+                111,
+                96,
+                129,
+                65,
+                148,
+                21
+            ],
+            "answer": "In fact",
+            "hint": "\u201cSpeaking truthfully ...\u201d (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                88,
+                164,
+                10,
+                110,
+                150,
+                64,
+                32
+            ],
+            "answer": "Cistern",
+            "hint": "Storage tank sometimes underground"
+        },
+        "G": {
+            "cells": [
+                48,
+                171,
+                78,
+                114,
+                147,
+                94,
+                15
+            ],
+            "answer": "Rooting",
+            "hint": "Activity of a rummager"
+        },
+        "H": {
+            "cells": [
+                162,
+                86,
+                9,
+                106,
+                146,
+                57,
+                29,
+                42
+            ],
+            "answer": "Out of gas",
+            "hint": "Spent; needing a refill (3 wds.)"
+        },
+        "I": {
+            "cells": [
+                166,
+                5,
+                116,
+                79,
+                139,
+                41,
+                26
+            ],
+            "answer": "Knossos",
+            "hint": "Old Cretan center of Bronze Age culture"
+        },
+        "J": {
+            "cells": [
+                80,
+                117,
+                50,
+                67,
+                25,
+                154
+            ],
+            "answer": "Energy",
+            "hint": "Subject of the equation E² = (pc)² + (m\u2080c²)²"
+        },
+        "K": {
+            "cells": [
+                160,
+                141,
+                76,
+                12,
+                55,
+                103
+            ],
+            "answer": "Enamel",
+            "hint": "Coat for a dentist"
+        },
+        "L": {
+            "cells": [
+                51,
+                1,
+                68,
+                97,
+                131,
+                31,
+                161
+            ],
+            "answer": "Laugh at",
+            "hint": "Be scornful of, as danger (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                43,
+                151,
+                102,
+                7,
+                118,
+                132,
+                56
+            ],
+            "answer": "Engaged",
+            "hint": "Busy; attentive"
+        },
+        "N": {
+            "cells": [
+                168,
+                82,
+                101,
+                44,
+                152,
+                60
+            ],
+            "answer": "Pinata",
+            "hint": "Animal whose stuffing comes out"
+        },
+        "O": {
+            "cells": [
+                59,
+                169,
+                35,
+                14,
+                149,
+                105,
+                92,
+                136
+            ],
+            "answer": "Hannibal",
+            "hint": "Boyhood hometown of Mark Twain"
+        },
+        "P": {
+            "cells": [
+                39,
+                130,
+                91,
+                144,
+                24,
+                108,
+                75
+            ],
+            "answer": "Attuned",
+            "hint": "Brought into harmony"
+        },
+        "Q": {
+            "cells": [
+                173,
+                34,
+                109,
+                127,
+                145,
+                93,
+                54,
+                19
+            ],
+            "answer": "Nail file",
+            "hint": "Implement in many salons (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                66,
+                115,
+                133,
+                156,
+                90,
+                28
+            ],
+            "answer": "Trains",
+            "hint": "Images on Monopoly bills"
+        },
+        "S": {
+            "cells": [
+                170,
+                20,
+                47,
+                99,
+                113,
+                63,
+                142
+            ],
+            "answer": "Crossed",
+            "hint": "Like the spears on Kenya\u2019s flag"
+        },
+        "T": {
+            "cells": [
+                137,
+                46,
+                125,
+                30,
+                104,
+                159,
+                11,
+                69
+            ],
+            "answer": "On the lam",
+            "hint": "Pursued by a posse, maybe (3 wds.)"
+        },
+        "U": {
+            "cells": [
+                62,
+                36,
+                81,
+                6,
+                128,
+                112,
+                22
+            ],
+            "answer": "Mawkish",
+            "hint": "Cloying, drippy, mushy"
+        },
+        "V": {
+            "cells": [
+                70,
+                37,
+                119,
+                143,
+                83,
+                16
+            ],
+            "answer": "Presto",
+            "hint": "Quickly"
+        },
+        "W": {
+            "cells": [
+                98,
+                40,
+                27,
+                2,
+                124,
+                58,
+                157,
+                73
+            ],
+            "answer": "Anathema",
+            "hint": "What\u2019s regarded as an abomination"
+        },
+        "X": {
+            "cells": [
+                107,
+                89,
+                53,
+                153,
+                126,
+                167,
+                8,
+                77
+            ],
+            "answer": "No slouch",
+            "hint": "Far from a loser (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                135,
+                13,
+                122,
+                155,
+                87
+            ],
+            "answer": "Yount",
+            "hint": "Robin with a 20-year career in the major leagues"
+        }
+    }
+}

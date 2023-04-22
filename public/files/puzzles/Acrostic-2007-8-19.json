@@ -1,0 +1,330 @@
+{
+    "answer": "What words shall describe the Mississippi,... an enormous ditch, sometimes... three miles wide, running liquid mud,... its frothy current choked everywhere by huge logs and whole forest trees... rolling past like monstrous bodies.",
+    "author": "(Charles) Dickens,",
+    "authorCell": [
+        87,
+        27,
+        50,
+        165,
+        65,
+        169,
+        93,
+        37,
+        88,
+        180,
+        172,
+        30,
+        107,
+        12,
+        134,
+        105,
+        168,
+        147,
+        115,
+        32
+    ],
+    "source": "American Notes",
+    "clues": {
+        "A": {
+            "cells": [
+                87,
+                140,
+                14,
+                36,
+                103,
+                67,
+                126,
+                167
+            ],
+            "answer": "Delirium",
+            "hint": "Madness, from the Latin for \u201cbeing out of one\u2019s furrow\u201d"
+        },
+        "B": {
+            "cells": [
+                27,
+                43,
+                159,
+                142,
+                60,
+                175,
+                83,
+                123,
+                13,
+                104
+            ],
+            "answer": "Impossible",
+            "hint": "White Queen to Alice: \u201cI\u2019ve believed as many as six __ things before breakfast\u201d"
+        },
+        "C": {
+            "cells": [
+                50,
+                137,
+                122,
+                166,
+                63,
+                89,
+                35
+            ],
+            "answer": "Cheer up",
+            "hint": "Gladden (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                165,
+                2,
+                124,
+                176,
+                111,
+                75,
+                34,
+                133,
+                151,
+                52
+            ],
+            "answer": "Khyber Pass",
+            "hint": "High link between Kabul and Peshawar (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                65,
+                82,
+                47,
+                177,
+                18,
+                162,
+                96,
+                121,
+                138,
+                1
+            ],
+            "answer": "E.L. Doctorow",
+            "hint": "Author of the 2005 novel \u201cThe March\u201d (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                169,
+                113,
+                100,
+                55,
+                28,
+                132,
+                79,
+                146,
+                179,
+                39,
+                9
+            ],
+            "answer": "Necessities",
+            "hint": "\u201cBare\u201d things in a song from \u201cThe Jungle Book\u201d"
+        },
+        "G": {
+            "cells": [
+                93,
+                11,
+                74,
+                25,
+                38,
+                160
+            ],
+            "answer": "Sheena",
+            "hint": "Fictional Queen of the Jungle"
+        },
+        "H": {
+            "cells": [
+                37,
+                70,
+                106,
+                7,
+                130,
+                145
+            ],
+            "answer": "Astros",
+            "hint": "Colt .45s, after moving indoors"
+        },
+        "I": {
+            "cells": [
+                88,
+                57,
+                158,
+                125,
+                171,
+                99,
+                26,
+                109,
+                45,
+                10,
+                144
+            ],
+            "answer": "Mighty Mouse",
+            "hint": "Caped hero from the Terrytoons studio (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                180,
+                163,
+                66,
+                149,
+                42,
+                94,
+                76,
+                8,
+                112
+            ],
+            "answer": "Elmer Fudd",
+            "hint": "Shotgun toter from Looney Tunes (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                172,
+                3,
+                129,
+                64,
+                156,
+                81,
+                119
+            ],
+            "answer": "Raleigh",
+            "hint": "U.S. state capital named for a courtier"
+        },
+        "L": {
+            "cells": [
+                30,
+                40,
+                170,
+                20,
+                131,
+                108,
+                56,
+                141,
+                85,
+                68
+            ],
+            "answer": "Insightful",
+            "hint": "Perspicacious"
+        },
+        "M": {
+            "cells": [
+                107,
+                51,
+                22,
+                152,
+                143,
+                91,
+                69,
+                181
+            ],
+            "answer": "Cherries",
+            "hint": "Kirsch source"
+        },
+        "N": {
+            "cells": [
+                12,
+                155,
+                139,
+                116,
+                164,
+                127,
+                62,
+                23
+            ],
+            "answer": "All right",
+            "hint": "Fine, copacetic (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                134,
+                173,
+                80,
+                29,
+                54,
+                41,
+                110,
+                150,
+                95,
+                17
+            ],
+            "answer": "Nonsmokers",
+            "hint": "Clean-air advocates?"
+        },
+        "P": {
+            "cells": [
+                105,
+                6,
+                148,
+                49,
+                24,
+                71,
+                120,
+                161,
+                92
+            ],
+            "answer": "Northwest",
+            "hint": "Airline with a hub in Minneapolis/St. Paul"
+        },
+        "Q": {
+            "cells": [
+                168,
+                154,
+                86,
+                114,
+                59,
+                19,
+                4,
+                136,
+                72,
+                46,
+                97
+            ],
+            "answer": "\u201cOliver Twist\u201d",
+            "hint": "Novel begun serially in 1837 (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                147,
+                98,
+                174,
+                58,
+                21,
+                31,
+                135,
+                44,
+                118,
+                77
+            ],
+            "answer": "Thumbs down",
+            "hint": "Indicator of a pan (hyph.)"
+        },
+        "S": {
+            "cells": [
+                115,
+                15,
+                5,
+                33,
+                78,
+                178,
+                102,
+                53,
+                153,
+                90
+            ],
+            "answer": "Edwin Drood",
+            "hint": "Subject of a 1980s Broadway mystery musical in which the ending was decided by audience vote (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                32,
+                84,
+                101,
+                48,
+                157,
+                61,
+                16,
+                117,
+                128,
+                73
+            ],
+            "answer": "Squint-eyed",
+            "hint": "Afflicted with strabismus (hyph.)"
+        }
+    }
+}

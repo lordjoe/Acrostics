@@ -1,0 +1,338 @@
+{
+    "answer": "The... qualifications of a good jester included the ability to extemporize verse and trot out rhyming retorts or cringe-inspiring doggerel. Poetic skill was a vital part of the jester\u2019s ragbag of tricks at all times... .",
+    "author": "(Beatrice K.) Otto,",
+    "authorCell": [
+        74,
+        70,
+        139,
+        140,
+        141,
+        15,
+        109,
+        7,
+        27,
+        67,
+        138,
+        41,
+        174,
+        131,
+        118,
+        94,
+        48,
+        127,
+        143,
+        63,
+        58,
+        66
+    ],
+    "source": "Fools Are Everywhere",
+    "clues": {
+        "A": {
+            "cells": [
+                74,
+                153,
+                9,
+                103,
+                122,
+                40
+            ],
+            "answer": "Oafish",
+            "hint": "Crude and not very clever"
+        },
+        "B": {
+            "cells": [
+                70,
+                42,
+                142,
+                86,
+                126,
+                61,
+                24
+            ],
+            "answer": "Tattled",
+            "hint": "Made like a blabbermouth"
+        },
+        "C": {
+            "cells": [
+                139,
+                6,
+                113,
+                91,
+                73
+            ],
+            "answer": "Tarot",
+            "hint": "Reading material for a cartomancer"
+        },
+        "D": {
+            "cells": [
+                140,
+                116,
+                29,
+                84,
+                3,
+                53,
+                160,
+                128
+            ],
+            "answer": "Operetta",
+            "hint": "Lyrical form of amusement"
+        },
+        "E": {
+            "cells": [
+                141,
+                57,
+                92,
+                112,
+                163,
+                130,
+                175,
+                1,
+                46,
+                68,
+                21
+            ],
+            "answer": "Forecasting",
+            "hint": "Weatherman\u2019s job"
+        },
+        "F": {
+            "cells": [
+                15,
+                101,
+                89,
+                71,
+                134,
+                121,
+                44,
+                60,
+                146,
+                36
+            ],
+            "answer": "Ostracized",
+            "hint": "Banished by votes cast on potsherds, once"
+        },
+        "G": {
+            "cells": [
+                109,
+                62,
+                144,
+                88,
+                166,
+                33,
+                49
+            ],
+            "answer": "Overact",
+            "hint": "Indulge in caricature"
+        },
+        "H": {
+            "cells": [
+                7,
+                172,
+                133,
+                119,
+                34,
+                51,
+                145,
+                158,
+                78,
+                100
+            ],
+            "answer": "Little John",
+            "hint": "One of the Merry Men (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                27,
+                95,
+                111,
+                2,
+                47,
+                83,
+                137,
+                157
+            ],
+            "answer": "Sight gag",
+            "hint": "Clown shoes or a fake arrow through the head, e.g. (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                67,
+                55,
+                102,
+                125,
+                81,
+                19,
+                162,
+                149,
+                38
+            ],
+            "answer": "Amplified",
+            "hint": "Plugged in for playing; explained further"
+        },
+        "K": {
+            "cells": [
+                138,
+                54,
+                25,
+                117,
+                105,
+                16,
+                69,
+                85,
+                161
+            ],
+            "answer": "Rejoinder",
+            "hint": "Comeback from a wag"
+        },
+        "L": {
+            "cells": [
+                41,
+                90,
+                13,
+                64,
+                168,
+                154,
+                23,
+                106
+            ],
+            "answer": "Estragon",
+            "hint": "\u201cWaiting for Godot\u201d role for Robin Williams"
+        },
+        "M": {
+            "cells": [
+                174,
+                56,
+                14,
+                107,
+                30,
+                156,
+                80
+            ],
+            "answer": "Epigram",
+            "hint": "Pearl of wisdom from Oscar Wilde or Dorothy Parker"
+        },
+        "N": {
+            "cells": [
+                131,
+                26,
+                17,
+                76,
+                65
+            ],
+            "answer": "Vests",
+            "hint": "Garb often worn by magicians and jugglers"
+        },
+        "O": {
+            "cells": [
+                118,
+                52,
+                93,
+                20,
+                170,
+                132,
+                155,
+                35,
+                77
+            ],
+            "answer": "Excalibur",
+            "hint": "Weapon thrown into a lake by Sir Bedivere"
+        },
+        "P": {
+            "cells": [
+                94,
+                10,
+                151,
+                59,
+                43,
+                31,
+                115,
+                124,
+                171,
+                79
+            ],
+            "answer": "Risibility",
+            "hint": "Laughter, or an inclination to laugh"
+        },
+        "Q": {
+            "cells": [
+                48,
+                72,
+                150,
+                99,
+                11,
+                123
+            ],
+            "answer": "Yorick",
+            "hint": "Fellow \u201cof most excellent fancy,\u201d to Hamlet"
+        },
+        "R": {
+            "cells": [
+                127,
+                87,
+                169,
+                159,
+                97,
+                12,
+                32,
+                110
+            ],
+            "answer": "Wolfgang",
+            "hint": "Puck seen on the Food Network"
+        },
+        "S": {
+            "cells": [
+                143,
+                5,
+                173,
+                50,
+                152,
+                120,
+                165,
+                28
+            ],
+            "answer": "Humorist",
+            "hint": "Will Rogers or Ogden Nash, e.g."
+        },
+        "T": {
+            "cells": [
+                63,
+                147,
+                136,
+                104,
+                8,
+                39
+            ],
+            "answer": "Esprit",
+            "hint": "Jeu d\u2019___ (witticism)"
+        },
+        "U": {
+            "cells": [
+                58,
+                98,
+                108,
+                129,
+                164,
+                37,
+                45,
+                148,
+                18,
+                82
+            ],
+            "answer": "Red Skelton",
+            "hint": "Member of the first class of Intl. Clown Hall of Fame inductees, 1989 (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                66,
+                135,
+                22,
+                4,
+                75,
+                114,
+                96,
+                167
+            ],
+            "answer": "Eloquent",
+            "hint": "Silver-tongued; expressively stated"
+        }
+    }
+}

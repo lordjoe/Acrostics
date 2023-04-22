@@ -1,0 +1,364 @@
+{
+    "answer": "You will discover a tempo to... acrostic puzzles. At first the paucity of known letters allows... only snaillike progress. But with a few... lucky wild guesses, a... glimmer of recognition breaks the stalemate and the pace quickens.",
+    "author": "Rosen,",
+    "authorCell": [
+        93,
+        137,
+        150,
+        153,
+        144,
+        169,
+        33,
+        34,
+        35,
+        36,
+        135,
+        159,
+        160,
+        87,
+        162,
+        68,
+        38,
+        152,
+        16,
+        164,
+        116,
+        97,
+        143,
+        73,
+        149
+    ],
+    "source": "Puzzle Makers Handbook",
+    "clues": {
+        "A": {
+            "cells": [
+                93,
+                67,
+                19,
+                76,
+                131,
+                170
+            ],
+            "answer": "Remora",
+            "hint": "Fish that attaches itself to sharks by means of a sucking disk"
+        },
+        "B": {
+            "cells": [
+                137,
+                157,
+                86,
+                92,
+                148,
+                15,
+                176,
+                47,
+                79
+            ],
+            "answer": "Oligarchy",
+            "hint": "Government in the hands of a few"
+        },
+        "C": {
+            "cells": [
+                150,
+                118,
+                7,
+                57,
+                98,
+                43
+            ],
+            "answer": "Sulfur",
+            "hint": "Element obtained by the Frasch process"
+        },
+        "D": {
+            "cells": [
+                153,
+                78,
+                168,
+                138,
+                1
+            ],
+            "answer": "Elegy",
+            "hint": "Milton\u2019s \u201cLycidas\u201d or Arnold\u2019s \u201cThyrsis\u201d"
+        },
+        "E": {
+            "cells": [
+                144,
+                12,
+                167,
+                127,
+                45,
+                102,
+                122,
+                26
+            ],
+            "answer": "No-hitter",
+            "hint": "Diamond figure\u2019s dream come true (hyph.)"
+        },
+        "F": {
+            "cells": [
+                169,
+                146,
+                64,
+                75,
+                44
+            ],
+            "answer": "Press",
+            "hint": "\u201cIn old days men had the rack. Now they have the ___\u201d (Wilde)"
+        },
+        "G": {
+            "cells": [
+                33,
+                49,
+                133,
+                90,
+                2,
+                77,
+                151
+            ],
+            "answer": "Up-front",
+            "hint": "Frank, open, direct (hyph.)"
+        },
+        "H": {
+            "cells": [
+                34,
+                88,
+                142,
+                66,
+                125,
+                178,
+                114,
+                154,
+                17
+            ],
+            "answer": "Zeitgeist",
+            "hint": "General characteristics of a particular period"
+        },
+        "I": {
+            "cells": [
+                35,
+                21,
+                60,
+                129,
+                72,
+                14,
+                81,
+                96
+            ],
+            "answer": "Zoom lens",
+            "hint": "Photographer\u2019s tool (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                36,
+                27,
+                139,
+                117,
+                145,
+                156,
+                63,
+                71
+            ],
+            "answer": "Long ball",
+            "hint": "Home run (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                135,
+                55,
+                158,
+                74,
+                83,
+                29,
+                179,
+                37,
+                95,
+                120
+            ],
+            "answer": "Eyewitness",
+            "hint": "One whose court testimony is crucial"
+        },
+        "L": {
+            "cells": [
+                159,
+                82,
+                134,
+                173,
+                51,
+                94,
+                10,
+                28
+            ],
+            "answer": "Marquess",
+            "hint": "British nobleman ranking below a duke"
+        },
+        "M": {
+            "cells": [
+                160,
+                41,
+                105,
+                119,
+                25,
+                141,
+                130,
+                8
+            ],
+            "answer": "Affected",
+            "hint": "Behaving in an artificial way to impress"
+        },
+        "N": {
+            "cells": [
+                87,
+                140,
+                155,
+                54,
+                112,
+                103,
+                24,
+                61,
+                177
+            ],
+            "answer": "Kitty Hawk",
+            "hint": "Site of a 59-second flight (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                162,
+                136,
+                40,
+                23,
+                89,
+                84,
+                50,
+                180,
+                128
+            ],
+            "answer": "Ectoplasm",
+            "hint": "Supposed emanation from a spiritualist"
+        },
+        "P": {
+            "cells": [
+                68,
+                3,
+                123,
+                166,
+                101,
+                110
+            ],
+            "answer": "Rustic",
+            "hint": "Country bumpkin"
+        },
+        "Q": {
+            "cells": [
+                38,
+                46,
+                163,
+                99,
+                109,
+                147
+            ],
+            "answer": "Statue",
+            "hint": "Galatea, before Aphrodite\u2019s gift"
+        },
+        "R": {
+            "cells": [
+                152,
+                39,
+                13,
+                48,
+                104,
+                22
+            ],
+            "answer": "Have at",
+            "hint": "Attack; strike (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                16,
+                52,
+                171,
+                106,
+                32,
+                65
+            ],
+            "answer": "Accept",
+            "hint": "Admit formally; receive with favor"
+        },
+        "T": {
+            "cells": [
+                164,
+                124,
+                20,
+                6,
+                172,
+                69
+            ],
+            "answer": "Naples",
+            "hint": "Bay of ___, inlet of the Tyrrhenian Sea"
+        },
+        "U": {
+            "cells": [
+                116,
+                42,
+                111,
+                165,
+                9,
+                58
+            ],
+            "answer": "Dik-dik",
+            "hint": "Antelope less than two feet tall (hyph.)"
+        },
+        "V": {
+            "cells": [
+                97,
+                132,
+                113,
+                4,
+                56,
+                107
+            ],
+            "answer": "Bowwow",
+            "hint": "Name for the theory that language evolved from the imitations of natural sounds"
+        },
+        "W": {
+            "cells": [
+                143,
+                11,
+                161,
+                175,
+                85,
+                126,
+                30,
+                91,
+                59
+            ],
+            "answer": "Octillion",
+            "hint": "1 followed by 27 zeros"
+        },
+        "X": {
+            "cells": [
+                73,
+                31,
+                18,
+                108,
+                115,
+                174,
+                80
+            ],
+            "answer": "Ocellus",
+            "hint": "Eyelike spot on a peacock feather"
+        },
+        "Y": {
+            "cells": [
+                149,
+                53,
+                100,
+                70,
+                62,
+                5,
+                121
+            ],
+            "answer": "Kiwanis",
+            "hint": "Civic group founded in 1915"
+        }
+    }
+}

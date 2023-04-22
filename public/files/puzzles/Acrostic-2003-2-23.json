@@ -1,0 +1,335 @@
+{
+    "answer": "Groucho Marx offered to write a blurb for a book I was about to publish. ... His comment, verbatim [was]: From the moment I picked your book up till the moment I put it down, I could not stop laughing. Someday I hope to read it.",
+    "author": "Leo Rosten,",
+    "authorCell": [
+        145,
+        65,
+        143,
+        16,
+        166,
+        153,
+        83,
+        115,
+        90,
+        61,
+        9,
+        22,
+        120,
+        23,
+        68,
+        26,
+        112,
+        12,
+        79,
+        76,
+        55,
+        140
+    ],
+    "source": "Carnival Of Wit",
+    "clues": {
+        "A": {
+            "cells": [
+                145,
+                100,
+                4,
+                128,
+                63,
+                81,
+                29,
+                48,
+                161
+            ],
+            "answer": "Loudmouth",
+            "hint": "Hardly a subtle or pleasant raconteur"
+        },
+        "B": {
+            "cells": [
+                65,
+                86,
+                27,
+                44,
+                111,
+                8,
+                97,
+                157
+            ],
+            "answer": "Embalmed",
+            "hint": "Preserved from oblivion; kept in memory"
+        },
+        "C": {
+            "cells": [
+                143,
+                71,
+                14,
+                47,
+                56,
+                95,
+                169,
+                113,
+                156
+            ],
+            "answer": "Obfuscate",
+            "hint": "Make even harder to grasp, as a concept"
+        },
+        "D": {
+            "cells": [
+                16,
+                50,
+                66,
+                92,
+                138
+            ],
+            "answer": "Ronin",
+            "hint": "Samurai who has lost his lord and is forced to go wandering"
+        },
+        "E": {
+            "cells": [
+                166,
+                147,
+                73,
+                62,
+                32,
+                106,
+                40,
+                136,
+                125,
+                89,
+                10
+            ],
+            "answer": "Out of kilter",
+            "hint": "With condition or alignment kerflooey (3 wds.)"
+        },
+        "F": {
+            "cells": [
+                153,
+                130,
+                171,
+                19,
+                5,
+                57,
+                69,
+                30,
+                87,
+                46
+            ],
+            "answer": "Switcheroo",
+            "hint": "Counterscam, tricky reversal (slang)"
+        },
+        "G": {
+            "cells": [
+                83,
+                129,
+                118,
+                67,
+                160,
+                24
+            ],
+            "answer": "Tomtit",
+            "hint": "Little birdie"
+        },
+        "H": {
+            "cells": [
+                115,
+                88,
+                163,
+                77,
+                49,
+                149
+            ],
+            "answer": "Empath",
+            "hint": "One with a psi power, like Deanna Troi on \u201cStar Trek: T.N.G.\u201d"
+        },
+        "I": {
+            "cells": [
+                90,
+                104,
+                36,
+                122,
+                148,
+                1,
+                59,
+                164
+            ],
+            "answer": "No biggie",
+            "hint": "\u201cIt\u2019s unimportant, don\u2019t give it another thought\u201d (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                61,
+                6,
+                105,
+                41,
+                114,
+                134,
+                124,
+                151,
+                18
+            ],
+            "answer": "Chowhound",
+            "hint": "Someone who really loves to pack it away"
+        },
+        "K": {
+            "cells": [
+                9,
+                155,
+                93,
+                58,
+                74,
+                31,
+                110,
+                42,
+                131
+            ],
+            "answer": "Amphibian",
+            "hint": "Military transport that\u2019s treaded and ruddered"
+        },
+        "L": {
+            "cells": [
+                22,
+                168,
+                11,
+                78,
+                142,
+                37,
+                101,
+                121
+            ],
+            "answer": "Rex Stout",
+            "hint": "Author of \u201cFer-de-Lance\u201d (1934) and \u201cA Family Affair\u201d (1975) (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                120,
+                7,
+                127,
+                91,
+                38,
+                21,
+                139,
+                70,
+                80,
+                159
+            ],
+            "answer": "Not to worry",
+            "hint": "\u201cIt\u2019ll be fine, don\u2019t concern yourself\u201d (3 wds.)"
+        },
+        "N": {
+            "cells": [
+                23,
+                98,
+                150,
+                165,
+                72,
+                2,
+                117,
+                137
+            ],
+            "answer": "Iditarod",
+            "hint": "Annual sports competition that has been won five times by women"
+        },
+        "O": {
+            "cells": [
+                68,
+                146,
+                54,
+                39,
+                99,
+                167,
+                126,
+                17
+            ],
+            "answer": "Valkyrie",
+            "hint": "Any of the maidens attending Odin in Valhalla"
+        },
+        "P": {
+            "cells": [
+                26,
+                133,
+                52,
+                172,
+                85
+            ],
+            "answer": "Acute",
+            "hint": "Like some angles or shortages"
+        },
+        "Q": {
+            "cells": [
+                112,
+                94,
+                82,
+                53,
+                33
+            ],
+            "answer": "Limbo",
+            "hint": "Indeterminate place between places"
+        },
+        "R": {
+            "cells": [
+                12,
+                75,
+                51,
+                84,
+                158,
+                28,
+                3,
+                141,
+                96,
+                119,
+                108,
+                43,
+                132,
+                60
+            ],
+            "answer": "Omphaloskepsis",
+            "hint": "Gazing at one\u2019s navel as an exercise in meditation"
+        },
+        "S": {
+            "cells": [
+                79,
+                35,
+                102,
+                152,
+                20
+            ],
+            "answer": "\u201cFargo\u201d",
+            "hint": "Film for which Frances McDormand won an Oscar for Best Actress"
+        },
+        "T": {
+            "cells": [
+                76,
+                25,
+                45,
+                103,
+                15,
+                170
+            ],
+            "answer": "Webbed",
+            "hint": "Like a hippopotamus\u2019s toes"
+        },
+        "U": {
+            "cells": [
+                55,
+                64,
+                144,
+                34,
+                162,
+                116,
+                123,
+                109,
+                135
+            ],
+            "answer": "Impromptu",
+            "hint": "Piece by Schubert or Chopin suggesting an offhand style"
+        },
+        "V": {
+            "cells": [
+                140,
+                154,
+                13,
+                107
+            ],
+            "answer": "Tofu",
+            "hint": "Food sold in the form of cakes"
+        }
+    }
+}

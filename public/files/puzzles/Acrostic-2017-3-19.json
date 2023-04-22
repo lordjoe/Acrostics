@@ -1,0 +1,352 @@
+{
+    "answer": "\u201c[N]egative spaces\u201d are the zones in which people create without seeking to patent their ideas. ... [F]olk songs, magic tricks,... hairstyles, Wikipedia, languages, and roller-derby noms de guerre... have emerged from the negative spaces.",
+    "author": "Pagan Kennedy,",
+    "authorCell": [
+        33,
+        11,
+        171,
+        15,
+        27,
+        80,
+        154,
+        118,
+        83,
+        176,
+        73,
+        138,
+        46,
+        126,
+        153,
+        69,
+        57,
+        66,
+        82,
+        79,
+        140,
+        88,
+        103
+    ],
+    "source": "Inventology",
+    "clues": {
+        "A": {
+            "cells": [
+                33,
+                114,
+                17,
+                94,
+                151,
+                62,
+                133,
+                166
+            ],
+            "answer": "Pie chart",
+            "hint": "Graph called a \u201ccamembert\u201d in France (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                11,
+                141,
+                75,
+                173,
+                123,
+                50,
+                92
+            ],
+            "answer": "Amateur",
+            "hint": "\u201cParenthood remains the greatest single preserve of the ___\u201d (Alvin Toffler)"
+        },
+        "C": {
+            "cells": [
+                171,
+                125,
+                106,
+                37,
+                89,
+                145,
+                68,
+                18
+            ],
+            "answer": "Gaslight",
+            "hint": "Manipulate into questioning his or her own sanity"
+        },
+        "D": {
+            "cells": [
+                15,
+                90,
+                105,
+                47,
+                121,
+                63,
+                168
+            ],
+            "answer": "Acetate",
+            "hint": "Predigital cel material"
+        },
+        "E": {
+            "cells": [
+                27,
+                170,
+                107,
+                9,
+                84,
+                40,
+                129,
+                146,
+                61
+            ],
+            "answer": "Newsgroup",
+            "hint": "Social network forerunner"
+        },
+        "F": {
+            "cells": [
+                80,
+                65,
+                93,
+                162,
+                132,
+                41,
+                113,
+                3,
+                147
+            ],
+            "answer": "Knife Edge",
+            "hint": "Mount Katahdin trail with steep drop-offs on both sides (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                154,
+                120,
+                16,
+                38,
+                55,
+                87
+            ],
+            "answer": "Eureka",
+            "hint": "\u201cAha\u201d moment cry"
+        },
+        "H": {
+            "cells": [
+                118,
+                78,
+                59,
+                167,
+                42,
+                139,
+                95,
+                14
+            ],
+            "answer": "\"No thanks\"",
+            "hint": "Passing comment (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                83,
+                70,
+                122,
+                29,
+                102,
+                45,
+                181,
+                4,
+                163
+            ],
+            "answer": "Nightwear",
+            "hint": "Pajamas and such"
+        },
+        "J": {
+            "cells": [
+                176,
+                96,
+                39,
+                19,
+                112,
+                128
+            ],
+            "answer": "Escher",
+            "hint": "\u201cDrawing Hands\u201d artist"
+        },
+        "K": {
+            "cells": [
+                73,
+                99,
+                23,
+                58,
+                134,
+                35,
+                169,
+                119
+            ],
+            "answer": "Ding-dong",
+            "hint": "Muttonhead, moron, dunce (hyph.)"
+        },
+        "L": {
+            "cells": [
+                138,
+                179,
+                71,
+                161,
+                85,
+                51,
+                30,
+                12,
+                109
+            ],
+            "answer": "Yardstick",
+            "hint": "Relative of a ruler"
+        },
+        "M": {
+            "cells": [
+                46,
+                100,
+                174,
+                127,
+                144,
+                81,
+                31,
+                157
+            ],
+            "answer": "Iridesce",
+            "hint": "Shine like an oil slick or CD"
+        },
+        "N": {
+            "cells": [
+                126,
+                2,
+                160,
+                143,
+                104,
+                64,
+                77,
+                26,
+                182,
+                48
+            ],
+            "answer": "Needlefish",
+            "hint": "Slender swimmer with long, sharp jaws"
+        },
+        "O": {
+            "cells": [
+                153,
+                56,
+                180,
+                20,
+                7,
+                34,
+                136,
+                76,
+                98
+            ],
+            "answer": "Vice versa",
+            "hint": "The other way around (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                69,
+                156,
+                36,
+                97,
+                172,
+                142,
+                6,
+                21,
+                54
+            ],
+            "answer": "Emphasize",
+            "hint": "Stress, play up, underscore"
+        },
+        "Q": {
+            "cells": [
+                57,
+                22,
+                137,
+                155,
+                116,
+                72,
+                177,
+                91
+            ],
+            "answer": "Nobelist",
+            "hint": "Beneficiary of a dynamite fortune?"
+        },
+        "R": {
+            "cells": [
+                66,
+                164,
+                149,
+                5,
+                49,
+                108,
+                25,
+                135
+            ],
+            "answer": "Tortoise",
+            "hint": "What killed Aeschylus, in legend, when it was dropped by an eagle on his head"
+        },
+        "S": {
+            "cells": [
+                82,
+                175,
+                53,
+                158,
+                101,
+                117,
+                28
+            ],
+            "answer": "Oversaw",
+            "hint": "Had charge of; kept an eye on"
+        },
+        "T": {
+            "cells": [
+                79,
+                44,
+                165,
+                60,
+                1,
+                111,
+                150,
+                24,
+                130
+            ],
+            "answer": "Lemon peel",
+            "hint": "Common twist in a James Bond film (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                140,
+                10,
+                52,
+                110,
+                86,
+                152,
+                67,
+                32
+            ],
+            "answer": "Opsimath",
+            "hint": "Late learner, like Grandma Moses"
+        },
+        "V": {
+            "cells": [
+                88,
+                115,
+                43,
+                74,
+                131,
+                13,
+                159
+            ],
+            "answer": "Gate leg",
+            "hint": "Support for a drop leaf (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                103,
+                178,
+                148,
+                8,
+                124
+            ],
+            "answer": "Ypres",
+            "hint": "Flemish town in World War I fighting"
+        }
+    }
+}

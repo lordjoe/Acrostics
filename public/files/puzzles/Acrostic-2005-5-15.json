@@ -1,0 +1,365 @@
+{
+    "answer": "[A]fter dinner, Bohr suggested... working on a crossword.... It did not go... well and... we all... [went] to sleep. At some unknown hour..., a muffled voice [came] through the door: \u201c[T]he English... city with seven letters, ending in ich is Ipswich!\u201d",
+    "author": "George Gamow,",
+    "authorCell": [
+        130,
+        75,
+        37,
+        36,
+        52,
+        152,
+        31,
+        94,
+        109,
+        91,
+        61,
+        160,
+        93,
+        62,
+        58,
+        111,
+        76,
+        126,
+        138,
+        154,
+        132,
+        135,
+        104,
+        16,
+        45,
+        39
+    ],
+    "source": "(The) Great Physicists (From Galileo To Einstein)",
+    "clues": {
+        "A": {
+            "cells": [
+                130,
+                63,
+                51,
+                114,
+                27,
+                79
+            ],
+            "answer": "Gators",
+            "hint": "Florida rivals of Georgia\u2019s Bulldogs"
+        },
+        "B": {
+            "cells": [
+                75,
+                147,
+                60,
+                96,
+                15,
+                123
+            ],
+            "answer": "Enduro",
+            "hint": "Motorcycle marathon race"
+        },
+        "C": {
+            "cells": [
+                37,
+                17,
+                150,
+                98,
+                56,
+                71,
+                171
+            ],
+            "answer": "Outflow",
+            "hint": "Minus column\u2019s bottom line (hyph.)"
+        },
+        "D": {
+            "cells": [
+                36,
+                172,
+                18,
+                117,
+                69,
+                134,
+                1,
+                86,
+                101
+            ],
+            "answer": "Right-hand",
+            "hint": "Most trusted, as a helper (hyph.)"
+        },
+        "E": {
+            "cells": [
+                52,
+                8,
+                32,
+                170,
+                151,
+                136,
+                105
+            ],
+            "answer": "Gnostic",
+            "hint": "Like many tenets in \u201cThe Da Vinci Code\u201d"
+        },
+        "F": {
+            "cells": [
+                152,
+                64,
+                2,
+                44,
+                30
+            ],
+            "answer": "Elfin",
+            "hint": "How people with Williams Syndrome are often described"
+        },
+        "G": {
+            "cells": [
+                31,
+                92,
+                9,
+                116,
+                165,
+                53
+            ],
+            "answer": "Gung ho",
+            "hint": "Literally \u201cwork together,\u201d from Chinese, term first used by Marines in 1942 (hyph.)"
+        },
+        "H": {
+            "cells": [
+                94,
+                145,
+                41,
+                66,
+                120,
+                6
+            ],
+            "answer": "Avowed",
+            "hint": "Made no bones about asserting"
+        },
+        "I": {
+            "cells": [
+                109,
+                10,
+                65,
+                137,
+                48,
+                87,
+                25,
+                156
+            ],
+            "answer": "Meltdown",
+            "hint": "Failure of epic proportions"
+        },
+        "J": {
+            "cells": [
+                91,
+                43,
+                155,
+                59,
+                21,
+                110
+            ],
+            "answer": "Odense",
+            "hint": "Danish birthplace of Hans Christian Andersen"
+        },
+        "K": {
+            "cells": [
+                61,
+                166,
+                131,
+                24,
+                88,
+                149,
+                38,
+                118
+            ],
+            "answer": "Wild West",
+            "hint": "\u201cShane\u201d or \u201cHigh Noon\u201d setting (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                160,
+                5,
+                140,
+                33,
+                107,
+                90
+            ],
+            "answer": "Grinch",
+            "hint": "Role for Jim Carrey in green makeup"
+        },
+        "M": {
+            "cells": [
+                93,
+                26,
+                72,
+                55,
+                11,
+                146,
+                121
+            ],
+            "answer": "Rose-Red",
+            "hint": "One of two sisters in a Grimm Brothers fairy tale (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                62,
+                148,
+                128,
+                35,
+                3,
+                113,
+                83,
+                95
+            ],
+            "answer": "Electrum",
+            "hint": "Alloy of gold and silver"
+        },
+        "O": {
+            "cells": [
+                58,
+                81,
+                12,
+                115,
+                167,
+                142
+            ],
+            "answer": "Ambush",
+            "hint": "Tactic whereby Bonnie and Clyde met their demise"
+        },
+        "P": {
+            "cells": [
+                111,
+                174,
+                158,
+                49,
+                133,
+                28,
+                7,
+                89
+            ],
+            "answer": "Thin skin",
+            "hint": "Characteristic of one easily insulted"
+        },
+        "Q": {
+            "cells": [
+                76,
+                34,
+                125,
+                13,
+                163,
+                143
+            ],
+            "answer": "Patois",
+            "hint": "Form of English used in Jamaica"
+        },
+        "R": {
+            "cells": [
+                126,
+                80,
+                50,
+                102,
+                67,
+                153
+            ],
+            "answer": "Hoover",
+            "hint": "Nickname of fielding great Brooks Robinson, because his glove sucked up everything hit in his direction"
+        },
+        "S": {
+            "cells": [
+                138,
+                103,
+                85,
+                4,
+                57
+            ],
+            "answer": "Yokel",
+            "hint": "Stereotype exemplified by Gomer Pyle"
+        },
+        "T": {
+            "cells": [
+                154,
+                108,
+                73,
+                173,
+                14,
+                122,
+                54
+            ],
+            "answer": "Salchow",
+            "hint": "Basic jump in figure skating"
+        },
+        "U": {
+            "cells": [
+                132,
+                68,
+                22,
+                112,
+                100,
+                40,
+                168,
+                84,
+                157
+            ],
+            "answer": "In the wind",
+            "hint": "Happening soon (3 wds.)"
+        },
+        "V": {
+            "cells": [
+                135,
+                42,
+                23,
+                164,
+                119,
+                74
+            ],
+            "answer": "Creche",
+            "hint": "Group of young penguins"
+        },
+        "W": {
+            "cells": [
+                104,
+                129,
+                46,
+                20,
+                162,
+                70
+            ],
+            "answer": "Indent",
+            "hint": "Use a tab, perhaps"
+        },
+        "X": {
+            "cells": [
+                16,
+                159,
+                47,
+                97,
+                141,
+                82,
+                124
+            ],
+            "answer": "Snifter",
+            "hint": "Glass for serving Cognac or Grand Marnier"
+        },
+        "Y": {
+            "cells": [
+                45,
+                139,
+                161,
+                99,
+                29,
+                78
+            ],
+            "answer": "Twilit",
+            "hint": "Crepuscular, dusky"
+        },
+        "Z": {
+            "cells": [
+                39,
+                106,
+                144,
+                169,
+                77,
+                19,
+                127
+            ],
+            "answer": "Seepage",
+            "hint": "Concern for tunnel builders"
+        }
+    }
+}

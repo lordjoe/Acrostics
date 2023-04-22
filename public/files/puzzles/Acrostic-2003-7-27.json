@@ -1,0 +1,348 @@
+{
+    "answer": "Cassoulet, that best of bean feasts, is... ambrosia for a gastronome, though its ideal consumer is a three-hundred-pound blocking back who has been splitting firewood... for the last twelve hours on a subzero day in Manitoba.",
+    "author": "(Julia) Child,",
+    "authorCell": [
+        1,
+        84,
+        121,
+        120,
+        87,
+        68,
+        78,
+        159,
+        4,
+        98,
+        85,
+        7,
+        83,
+        54,
+        135,
+        41,
+        88,
+        45,
+        106,
+        129,
+        176,
+        131,
+        90
+    ],
+    "source": "Cassoulet For A Crowd",
+    "clues": {
+        "A": {
+            "cells": [
+                1,
+                43,
+                117,
+                132,
+                97,
+                66
+            ],
+            "answer": "Canola",
+            "hint": "Type of oil high in monounsaturated fatty acids"
+        },
+        "B": {
+            "cells": [
+                84,
+                165,
+                52,
+                147,
+                31,
+                119,
+                72,
+                23
+            ],
+            "answer": "Homespun",
+            "hint": "Cracker-barrel, folksy"
+        },
+        "C": {
+            "cells": [
+                121,
+                46,
+                17,
+                139,
+                171,
+                153,
+                62
+            ],
+            "answer": "Isthmus",
+            "hint": "Connecting part"
+        },
+        "D": {
+            "cells": [
+                120,
+                136,
+                170,
+                103,
+                27,
+                151,
+                56,
+                79
+            ],
+            "answer": "Long shot",
+            "hint": "Risky venture with a potentially high payoff (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                87,
+                48,
+                32,
+                126,
+                5,
+                102,
+                24,
+                148,
+                168
+            ],
+            "answer": "Dragonfly",
+            "hint": "Devil\u2019s darning needle"
+        },
+        "F": {
+            "cells": [
+                68,
+                2,
+                138,
+                59,
+                156,
+                95,
+                21
+            ],
+            "answer": "Cathode",
+            "hint": "Supplier of electrons in an electrolytic cell"
+        },
+        "G": {
+            "cells": [
+                78,
+                93,
+                47,
+                152,
+                34,
+                105,
+                11,
+                70
+            ],
+            "answer": "Autobahn",
+            "hint": "Place for VW\u2019s and BMW\u2019s"
+        },
+        "H": {
+            "cells": [
+                159,
+                12,
+                149,
+                82,
+                40,
+                178,
+                99,
+                130
+            ],
+            "answer": "Save face",
+            "hint": "Avoid humiliation, as by resigning (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                4,
+                101,
+                58,
+                173,
+                140,
+                123
+            ],
+            "answer": "Signet",
+            "hint": "Sort of ring that makes an impression"
+        },
+        "J": {
+            "cells": [
+                98,
+                73,
+                157,
+                38,
+                14,
+                6,
+                29
+            ],
+            "answer": "Omnibus",
+            "hint": "Compilation of reprinted works"
+        },
+        "K": {
+            "cells": [
+                85,
+                50,
+                61,
+                133,
+                146,
+                39,
+                75,
+                166
+            ],
+            "answer": "Untoward",
+            "hint": "Indecorous; not at all favorable"
+        },
+        "L": {
+            "cells": [
+                7,
+                92,
+                113,
+                158,
+                141,
+                172,
+                33,
+                49,
+                71
+            ],
+            "answer": "Los Alamos",
+            "hint": "National Lab founded in 1943 (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                83,
+                161,
+                104,
+                10,
+                63,
+                134,
+                115
+            ],
+            "answer": "Ebb tide",
+            "hint": "State of decline; reflux (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                54,
+                89,
+                22,
+                42,
+                110,
+                143,
+                65
+            ],
+            "answer": "Tea rose",
+            "hint": "Lady Hillingdon and Safrano are two varieties of it (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                135,
+                154,
+                53,
+                8,
+                118,
+                91,
+                76,
+                35,
+                174,
+                144
+            ],
+            "answer": "Free Spirit",
+            "hint": "Independent sort (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                41,
+                114,
+                15,
+                67,
+                169,
+                155,
+                100
+            ],
+            "answer": "Obelisk",
+            "hint": "Either of Cleopatra\u2019s Needles"
+        },
+        "Q": {
+            "cells": [
+                88,
+                30,
+                44,
+                111,
+                175,
+                69,
+                19,
+                127
+            ],
+            "answer": "Right off",
+            "hint": "Directly, forthwith (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                45,
+                145,
+                128,
+                16,
+                77,
+                160,
+                116
+            ],
+            "answer": "At issue",
+            "hint": "Under current debate (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                106,
+                51,
+                94,
+                28,
+                137,
+                124,
+                13,
+                163
+            ],
+            "answer": "Contrite",
+            "hint": "Remorseful, sorry"
+        },
+        "T": {
+            "cells": [
+                129,
+                109,
+                57,
+                96,
+                167,
+                81,
+                20
+            ],
+            "answer": "Rhubarb",
+            "hint": "\u201cWhat ___, senna, or what purgative drug\u201d (\u201cMacbeth\u201d)"
+        },
+        "U": {
+            "cells": [
+                176,
+                86,
+                122,
+                55,
+                25,
+                9,
+                142,
+                107,
+                74
+            ],
+            "answer": "On the take",
+            "hint": "Actively accepting bribes (3 wds.)"
+        },
+        "V": {
+            "cells": [
+                131,
+                112,
+                3,
+                80,
+                177,
+                36,
+                26,
+                164,
+                64
+            ],
+            "answer": "Washboard",
+            "hint": "Instrument played with a whisk broom or thimbles"
+        },
+        "W": {
+            "cells": [
+                90,
+                18,
+                108,
+                125,
+                37,
+                60,
+                162,
+                150
+            ],
+            "answer": "Downsize",
+            "hint": "Euphemistically terminate"
+        }
+    }
+}

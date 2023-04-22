@@ -1,0 +1,350 @@
+{
+    "answer": "There was a time when places like... Oxford and Cambridge existed... to train ministers, and their job was... to say something thought-provoking several times a week. They were the retail outlets of the profession of philosophy.",
+    "author": "(Neal) Stephenson,",
+    "authorCell": [
+        82,
+        149,
+        163,
+        171,
+        98,
+        128,
+        35,
+        124,
+        106,
+        95,
+        37,
+        67,
+        87,
+        18,
+        156,
+        78,
+        70,
+        154,
+        122,
+        94,
+        21,
+        31,
+        62
+    ],
+    "source": "Cryptonomicon",
+    "clues": {
+        "A": {
+            "cells": [
+                82,
+                180,
+                24,
+                146,
+                108,
+                96,
+                42,
+                164,
+                60
+            ],
+            "answer": "Syllogism",
+            "hint": "One way to reach a conclusion"
+        },
+        "B": {
+            "cells": [
+                149,
+                131,
+                74,
+                14,
+                167,
+                32,
+                109,
+                49
+            ],
+            "answer": "The works",
+            "hint": "Everything (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                163,
+                105,
+                63,
+                26,
+                176,
+                144,
+                83,
+                121,
+                51
+            ],
+            "answer": "Erik Satie",
+            "hint": "Composer of \u201cThree Pieces in the Shape of a Pear\u201d (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                171,
+                25,
+                45,
+                155,
+                145,
+                101,
+                73,
+                120
+            ],
+            "answer": "Pie fight",
+            "hint": "Classic slapstick comedy scene (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                98,
+                38,
+                119,
+                170,
+                6,
+                61,
+                130
+            ],
+            "answer": "Half-wit",
+            "hint": "Mental midget (hyph.)"
+        },
+        "F": {
+            "cells": [
+                128,
+                47,
+                102,
+                148,
+                68,
+                79,
+                9,
+                168,
+                33
+            ],
+            "answer": "Ex-husband",
+            "hint": "One who has untied a knot (hyph.)"
+        },
+        "G": {
+            "cells": [
+                35,
+                5,
+                103,
+                179,
+                66,
+                160,
+                126,
+                84,
+                141,
+                19,
+                52
+            ],
+            "answer": "Netherworld",
+            "hint": "The land down under"
+        },
+        "H": {
+            "cells": [
+                124,
+                172,
+                28,
+                80,
+                158,
+                56,
+                8
+            ],
+            "answer": "Showers",
+            "hint": "What ballplayers hit after games"
+        },
+        "I": {
+            "cells": [
+                106,
+                178,
+                135,
+                41,
+                20,
+                157,
+                81,
+                65
+            ],
+            "answer": "Opera hat",
+            "hint": "Collapsible item invented by Antoine Gibus (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                95,
+                166,
+                44,
+                139,
+                72,
+                11,
+                59,
+                112,
+                125,
+                150,
+                27
+            ],
+            "answer": "Nightingale",
+            "hint": "\u201cDryad of the trees,\u201d to Keats"
+        },
+        "K": {
+            "cells": [
+                37,
+                15,
+                57,
+                159,
+                92,
+                132,
+                76,
+                113
+            ],
+            "answer": "Chapters",
+            "hint": "Writers\u2019 blocks?"
+        },
+        "L": {
+            "cells": [
+                67,
+                142,
+                12,
+                89,
+                50,
+                114
+            ],
+            "answer": "Remote",
+            "hint": "Changer of stations"
+        },
+        "M": {
+            "cells": [
+                87,
+                22,
+                69,
+                117,
+                40,
+                99,
+                175,
+                129
+            ],
+            "answer": "Yearbook",
+            "hint": "Annual"
+        },
+        "N": {
+            "cells": [
+                18,
+                110,
+                53,
+                2,
+                133
+            ],
+            "answer": "Pithy",
+            "hint": "The opposite of verbose"
+        },
+        "O": {
+            "cells": [
+                156,
+                116,
+                4,
+                88,
+                140
+            ],
+            "answer": "Terse",
+            "hint": "The opposite of verbose"
+        },
+        "P": {
+            "cells": [
+                78,
+                115,
+                13,
+                136,
+                30,
+                173,
+                64,
+                93,
+                151,
+                43
+            ],
+            "answer": "Overfished",
+            "hint": "Affected by too many catches"
+        },
+        "Q": {
+            "cells": [
+                70,
+                123,
+                29,
+                100,
+                85
+            ],
+            "answer": "Nexus",
+            "hint": "Connection, link, tie"
+        },
+        "R": {
+            "cells": [
+                154,
+                138,
+                55,
+                169,
+                39,
+                86,
+                111
+            ],
+            "answer": "Ottoman",
+            "hint": "Cushioned furniture for one\u2019s dogs"
+        },
+        "S": {
+            "cells": [
+                122,
+                161,
+                147,
+                23,
+                46,
+                77,
+                7,
+                134
+            ],
+            "answer": "Moose Jaw",
+            "hint": "River and city of Saskatchewan (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                94,
+                71,
+                137,
+                118,
+                152,
+                16
+            ],
+            "answer": "Ideate",
+            "hint": "What a think tank is meant to do"
+        },
+        "U": {
+            "cells": [
+                21,
+                54,
+                174,
+                36,
+                162,
+                3,
+                127,
+                97
+            ],
+            "answer": "Cold feet",
+            "hint": "Last-minute reluctance or timidity (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                31,
+                104,
+                143,
+                75,
+                90,
+                58,
+                165,
+                10
+            ],
+            "answer": "Optimist",
+            "hint": "One like Micawber or Pangloss"
+        },
+        "W": {
+            "cells": [
+                62,
+                34,
+                1,
+                48,
+                107,
+                91,
+                153,
+                177,
+                17
+            ],
+            "answer": "\u201cNative Son\u201d",
+            "hint": "1940 novel about Bigger Thomas\u2019s travails (2 wds.)"
+        }
+    }
+}

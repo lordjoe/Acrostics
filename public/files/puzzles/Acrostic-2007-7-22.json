@@ -1,0 +1,330 @@
+{
+    "answer": "The second law [of thermodynamics] guarantees a certain degree of chaos and mishap in your life no matter how compulsively you plan your schedule and triple-check every report. To err is not just human; it\u2019s divined.",
+    "author": "Natalie Angier,",
+    "authorCell": [
+        46,
+        24,
+        35,
+        39,
+        75,
+        26,
+        41,
+        60,
+        23,
+        49,
+        64,
+        36,
+        18,
+        146,
+        16,
+        17,
+        130,
+        33,
+        153,
+        154,
+        164
+    ],
+    "source": "The Canon",
+    "clues": {
+        "A": {
+            "cells": [
+                46,
+                173,
+                93,
+                160,
+                147,
+                128,
+                58,
+                29,
+                109
+            ],
+            "answer": "Nephology",
+            "hint": "The study of clouds and their formation"
+        },
+        "B": {
+            "cells": [
+                24,
+                172,
+                134,
+                102,
+                119,
+                7,
+                59,
+                44,
+                161,
+                149
+            ],
+            "answer": "Ankylosaur",
+            "hint": "Armor-plated, club-tailed herbivore of the Cretaceous Period"
+        },
+        "C": {
+            "cells": [
+                35,
+                138,
+                111,
+                14,
+                54,
+                163,
+                94,
+                1
+            ],
+            "answer": "Truffaut",
+            "hint": "Director of the 1966 sci-fi film \u201cFahrenheit 451\u201d"
+        },
+        "D": {
+            "cells": [
+                39,
+                100,
+                142,
+                66,
+                82,
+                12,
+                121,
+                170,
+                51,
+                28
+            ],
+            "answer": "Alpha waves",
+            "hint": "Electromagnetic output of the brain (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                75,
+                52,
+                22,
+                174,
+                85,
+                108,
+                156,
+                11,
+                125
+            ],
+            "answer": "Leyden jar",
+            "hint": "Early form of capacitor made of glass and tinfoil (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                26,
+                114,
+                2,
+                166,
+                87,
+                71,
+                45,
+                133
+            ],
+            "answer": "Ichthyic",
+            "hint": "Fish-related"
+        },
+        "G": {
+            "cells": [
+                41,
+                70,
+                155,
+                112,
+                20,
+                127,
+                101
+            ],
+            "answer": "Entropy",
+            "hint": "Degradation of matter and energy"
+        },
+        "H": {
+            "cells": [
+                60,
+                122,
+                38,
+                89,
+                141,
+                74,
+                158
+            ],
+            "answer": "Answers",
+            "hint": "What researchers search for"
+        },
+        "I": {
+            "cells": [
+                23,
+                139,
+                40,
+                159,
+                57,
+                10,
+                80,
+                68,
+                171,
+                107
+            ],
+            "answer": "Nyctalopia",
+            "hint": "Night blindness"
+        },
+        "J": {
+            "cells": [
+                49,
+                150,
+                91,
+                30,
+                79,
+                9,
+                135,
+                62
+            ],
+            "answer": "Grounded",
+            "hint": "Like good AC wiring (or a bad teen?)"
+        },
+        "K": {
+            "cells": [
+                64,
+                92,
+                105,
+                132,
+                42,
+                77,
+                5,
+                27,
+                145
+            ],
+            "answer": "Imperfect",
+            "hint": "Falling short of the ideal state"
+        },
+        "L": {
+            "cells": [
+                36,
+                98,
+                148,
+                8,
+                48,
+                21,
+                72,
+                118,
+                84
+            ],
+            "answer": "Evened out",
+            "hint": "Leveled off; became more uniform (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                18,
+                99,
+                168,
+                157,
+                55,
+                83,
+                69,
+                136,
+                120
+            ],
+            "answer": "Reductive",
+            "hint": "Like reasoning from complex to simple"
+        },
+        "N": {
+            "cells": [
+                146,
+                97,
+                123,
+                37,
+                167
+            ],
+            "answer": "Tides",
+            "hint": "Gravity-caused fluctuations"
+        },
+        "O": {
+            "cells": [
+                16,
+                31,
+                162,
+                81,
+                129,
+                144,
+                115,
+                3,
+                67,
+                47
+            ],
+            "answer": "Hammerhead",
+            "hint": "Predator whose eyes may be three feet apart"
+        },
+        "P": {
+            "cells": [
+                17,
+                90,
+                131,
+                169,
+                34,
+                143,
+                117,
+                78,
+                50,
+                63,
+                4
+            ],
+            "answer": "Echinoderms",
+            "hint": "Sea urchins, sand dollars and their ilk"
+        },
+        "Q": {
+            "cells": [
+                130,
+                13,
+                95,
+                110,
+                32,
+                152
+            ],
+            "answer": "Colors",
+            "hint": "Parts of the visible spectrum"
+        },
+        "R": {
+            "cells": [
+                33,
+                124,
+                140,
+                151,
+                104,
+                19
+            ],
+            "answer": "Atrium",
+            "hint": "A place in the heart"
+        },
+        "S": {
+            "cells": [
+                153,
+                137,
+                73,
+                43,
+                86,
+                103,
+                61
+            ],
+            "answer": "Neutron",
+            "hint": "A little something that comes free of charge"
+        },
+        "T": {
+            "cells": [
+                154,
+                96,
+                25,
+                53,
+                113,
+                165,
+                65
+            ],
+            "answer": "Osmosis",
+            "hint": "One way to get through a wall"
+        },
+        "U": {
+            "cells": [
+                164,
+                116,
+                88,
+                106,
+                126,
+                15,
+                56,
+                76,
+                6
+            ],
+            "answer": "Neolithic",
+            "hint": "From the last phase of the Stone Age"
+        }
+    }
+}

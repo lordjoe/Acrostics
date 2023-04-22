@@ -1,0 +1,357 @@
+{
+    "answer": "We touchy-feely Homo sapiens assume all creatures great and small would like a pat on the head, a hug, even a big kiss. ... For many animals, to be embraced is to be devoured. ... They have to learn a behavior we take for granted.",
+    "author": "(Amy) Sutherland,",
+    "authorCell": [
+        27,
+        130,
+        3,
+        79,
+        41,
+        168,
+        32,
+        31,
+        85,
+        126,
+        1,
+        74,
+        53,
+        108,
+        107,
+        152,
+        146,
+        104,
+        80,
+        160,
+        105,
+        28,
+        81,
+        135,
+        134
+    ],
+    "source": "What Shamu Taught (Me About Life, Love and Marriage)",
+    "clues": {
+        "A": {
+            "cells": [
+                27,
+                95,
+                57,
+                122,
+                138,
+                11
+            ],
+            "answer": "Soothe",
+            "hint": "Pacify, comfort"
+        },
+        "B": {
+            "cells": [
+                130,
+                16,
+                114,
+                96,
+                76
+            ],
+            "answer": "Umbra",
+            "hint": "What total eclipse viewers are engulfed in"
+        },
+        "C": {
+            "cells": [
+                3,
+                103,
+                132,
+                39,
+                66
+            ],
+            "answer": "Tie-up",
+            "hint": "Join (2 wds.); commuting headache (hyph.)"
+        },
+        "D": {
+            "cells": [
+                79,
+                4,
+                98,
+                167,
+                21,
+                141
+            ],
+            "answer": "Hoagie",
+            "hint": "Hero of Philadelphia"
+        },
+        "E": {
+            "cells": [
+                41,
+                83,
+                17,
+                59,
+                140,
+                159,
+                119
+            ],
+            "answer": "Evolved",
+            "hint": "Changed with the times"
+        },
+        "F": {
+            "cells": [
+                168,
+                143,
+                93,
+                125,
+                52,
+                67,
+                35,
+                13
+            ],
+            "answer": "Rosemary",
+            "hint": "Motherly role for Mia Farrow"
+        },
+        "G": {
+            "cells": [
+                32,
+                88,
+                156,
+                49,
+                68,
+                169,
+                113,
+                10,
+                131
+            ],
+            "answer": "Lion tamer",
+            "hint": "Performer in a cage (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                31,
+                166,
+                97,
+                51
+            ],
+            "answer": "Arms",
+            "hint": "Four things that Vishnu has"
+        },
+        "I": {
+            "cells": [
+                85,
+                58,
+                29,
+                110,
+                161,
+                142
+            ],
+            "answer": "Numbat",
+            "hint": "Striped, termite-eating marsupial"
+        },
+        "J": {
+            "cells": [
+                126,
+                46,
+                75,
+                60,
+                101,
+                144,
+                5,
+                26
+            ],
+            "answer": "Daedalus",
+            "hint": "Maze designer of myth"
+        },
+        "K": {
+            "cells": [
+                1,
+                14,
+                48,
+                33,
+                151,
+                124,
+                109,
+                70,
+                84
+            ],
+            "answer": "Whalebone",
+            "hint": "Corset-stiffening material"
+        },
+        "L": {
+            "cells": [
+                74,
+                19,
+                137,
+                94,
+                118,
+                154,
+                2,
+                40
+            ],
+            "answer": "Hay fever",
+            "hint": "Allergic rhinitis (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                53,
+                9,
+                164,
+                111,
+                34,
+                71,
+                91,
+                129,
+                148
+            ],
+            "answer": "Affection",
+            "hint": "What \u201cxoxo\u201d may express"
+        },
+        "N": {
+            "cells": [
+                108,
+                158,
+                64,
+                25,
+                90
+            ],
+            "answer": "Tweak",
+            "hint": "Slight adjustment"
+        },
+        "O": {
+            "cells": [
+                107,
+                72,
+                145,
+                163,
+                20,
+                50,
+                123,
+                89
+            ],
+            "answer": "Sheepdog",
+            "hint": "Collie or Komondor"
+        },
+        "P": {
+            "cells": [
+                152,
+                82,
+                65,
+                128,
+                100,
+                24,
+                172,
+                47
+            ],
+            "answer": "Heavyset",
+            "hint": "Built like a sumo wrestler"
+        },
+        "Q": {
+            "cells": [
+                146,
+                106,
+                77,
+                45,
+                23,
+                171,
+                127
+            ],
+            "answer": "Al dente",
+            "hint": "Firm and slightly chewy (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                104,
+                120,
+                12,
+                162,
+                56,
+                73,
+                30,
+                133
+            ],
+            "answer": "Milkweed",
+            "hint": "Food favored by monarchs"
+        },
+        "S": {
+            "cells": [
+                80,
+                44,
+                18,
+                153
+            ],
+            "answer": "Ursa",
+            "hint": "Minor thing in astronomy?"
+        },
+        "T": {
+            "cells": [
+                160,
+                136,
+                102,
+                38,
+                86,
+                6,
+                55,
+                22,
+                121
+            ],
+            "answer": "Tentacles",
+            "hint": "Features of corals and cuttlefish"
+        },
+        "U": {
+            "cells": [
+                105,
+                173,
+                15,
+                157,
+                139,
+                87,
+                61,
+                36
+            ],
+            "answer": "Adorable",
+            "hint": "Precious, darling"
+        },
+        "V": {
+            "cells": [
+                28,
+                170,
+                112,
+                149,
+                92,
+                8
+            ],
+            "answer": "Uneasy",
+            "hint": "A bit tense, fearful or anxious"
+        },
+        "W": {
+            "cells": [
+                81,
+                116,
+                147,
+                99,
+                62,
+                42,
+                7
+            ],
+            "answer": "Garnish",
+            "hint": "Sprig of parsley or slice of lime, e.g."
+        },
+        "X": {
+            "cells": [
+                135,
+                165,
+                43,
+                150,
+                78,
+                117,
+                63
+            ],
+            "answer": "Hogback",
+            "hint": "Long, narrow ridge"
+        },
+        "Y": {
+            "cells": [
+                134,
+                37,
+                155,
+                54,
+                69,
+                115
+            ],
+            "answer": "Tailor",
+            "hint": "One of four professions in a John le Carré title"
+        }
+    }
+}

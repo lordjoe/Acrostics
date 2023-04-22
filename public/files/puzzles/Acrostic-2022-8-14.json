@@ -1,0 +1,337 @@
+{
+    "answer": "Nature is a fertile field... for cliches. Besides blankets of snow, beware sheets of rain..., calms before the storm,... raging torrents, bolts from the blue,... uncharted seas..., wide-open spaces,... and anything silhouetted against the sky.",
+    "author": "Patricia O'Conner,",
+    "authorCell": [
+        142,
+        147,
+        82,
+        24,
+        69,
+        122,
+        27,
+        131,
+        23,
+        71,
+        51,
+        94,
+        50,
+        81,
+        12,
+        133,
+        105,
+        44,
+        172,
+        75,
+        134
+    ],
+    "source": "Woe Is I",
+    "clues": {
+        "A": {
+            "cells": [
+                142,
+                97,
+                43,
+                16,
+                67,
+                109,
+                124,
+                28,
+                164
+            ],
+            "answer": "Poker face",
+            "hint": "Expression that\u2019s hard to read (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                147,
+                117,
+                32,
+                68,
+                13,
+                99,
+                162,
+                179,
+                129
+            ],
+            "answer": "Albatross",
+            "hint": "Something heavy to have around the neck"
+        },
+        "C": {
+            "cells": [
+                82,
+                18,
+                95,
+                154,
+                113,
+                55,
+                169,
+                36
+            ],
+            "answer": "Tightwad",
+            "hint": "Pincher of pennies"
+        },
+        "D": {
+            "cells": [
+                24,
+                6,
+                146,
+                45,
+                72,
+                132,
+                59,
+                118,
+                98,
+                84,
+                168
+            ],
+            "answer": "Rest assured",
+            "hint": "Be put at ease; have no apprehensions (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                69,
+                157,
+                42,
+                137,
+                88,
+                171,
+                101,
+                25,
+                54
+            ],
+            "answer": "Ignorance",
+            "hint": "Questionable path to bliss"
+        },
+        "F": {
+            "cells": [
+                122,
+                47,
+                106,
+                135,
+                22,
+                167,
+                33,
+                153
+            ],
+            "answer": "Cold feet",
+            "hint": "Eleventh-hour misgivings (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                27,
+                90,
+                111,
+                140,
+                78,
+                155,
+                49,
+                63
+            ],
+            "answer": "Iron fist",
+            "hint": "Despotic control (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                131,
+                116,
+                2,
+                156,
+                21,
+                79,
+                173
+            ],
+            "answer": "Abandon",
+            "hint": "Wild or reckless spontaneity"
+        },
+        "I": {
+            "cells": [
+                23,
+                121,
+                38,
+                180,
+                7,
+                149,
+                80,
+                65,
+                52
+            ],
+            "answer": "On skid row",
+            "hint": "Dissolute and destitute (3 wds.)"
+        },
+        "J": {
+            "cells": [
+                71,
+                83,
+                56,
+                5,
+                112,
+                145,
+                128,
+                40,
+                159,
+                17,
+                178
+            ],
+            "answer": "Charmed life",
+            "hint": "Unbroken career of good luck (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                51,
+                120,
+                102,
+                176,
+                87,
+                73,
+                163,
+                1,
+                144,
+                29
+            ],
+            "answer": "Out to lunch",
+            "hint": "Clueless; away from the office around noon, say (3 wds.)"
+        },
+        "L": {
+            "cells": [
+                94,
+                115,
+                53,
+                76,
+                14,
+                141,
+                161,
+                181
+            ],
+            "answer": "Nebbishy",
+            "hint": "Timid, meek or ineffectual, from Yiddish"
+        },
+        "M": {
+            "cells": [
+                50,
+                30,
+                91,
+                166,
+                148,
+                130,
+                64,
+                8
+            ],
+            "answer": "Neatness",
+            "hint": "What counts to some graders"
+        },
+        "N": {
+            "cells": [
+                81,
+                152,
+                100,
+                126,
+                37,
+                62,
+                175,
+                114
+            ],
+            "answer": "Eye teeth",
+            "hint": "Canines the desirous would give?"
+        },
+        "O": {
+            "cells": [
+                12,
+                127,
+                165,
+                110,
+                77,
+                143,
+                96
+            ],
+            "answer": "Retreat",
+            "hint": "What\u2019s sometimes beaten by an army"
+        },
+        "P": {
+            "cells": [
+                133,
+                60,
+                35,
+                107,
+                119,
+                48,
+                160,
+                9,
+                92
+            ],
+            "answer": "White flag",
+            "hint": "\u201cUncle\u201d in standard form? (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                105,
+                66,
+                10,
+                39,
+                150,
+                174,
+                136
+            ],
+            "answer": "Off base",
+            "hint": "Not accurate; unawares (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                44,
+                89,
+                104,
+                19,
+                57,
+                158
+            ],
+            "answer": "Embers",
+            "hint": "Remnants often described as dying"
+        },
+        "S": {
+            "cells": [
+                172,
+                74,
+                138,
+                125,
+                61,
+                31,
+                85,
+                11,
+                46
+            ],
+            "answer": "Impresses",
+            "hint": "Bowls over"
+        },
+        "T": {
+            "cells": [
+                75,
+                93,
+                170,
+                123,
+                3,
+                20,
+                139,
+                108,
+                34
+            ],
+            "answer": "Sightless",
+            "hint": "Completely blind"
+        },
+        "U": {
+            "cells": [
+                134,
+                70,
+                41,
+                151,
+                4,
+                86,
+                103,
+                177,
+                58,
+                15,
+                26
+            ],
+            "answer": "In a nutshell",
+            "hint": "\u201cTo summarize ...\u201d (3 wds.)"
+        }
+    }
+}

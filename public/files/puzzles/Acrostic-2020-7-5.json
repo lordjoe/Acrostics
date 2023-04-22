@@ -1,0 +1,344 @@
+{
+    "answer": "My temp agency is an uptown pleasure dome of powder-scented women... . I place my employment in their manicured hands. With trusty carpal alchemy they knead my resume into a series of paychecks that constitute a life.",
+    "author": "Hilary Leichter,",
+    "authorCell": [
+        89,
+        78,
+        24,
+        81,
+        99,
+        2,
+        57,
+        30,
+        13,
+        153,
+        151,
+        72,
+        129,
+        79,
+        136,
+        143,
+        132,
+        147,
+        38,
+        42,
+        108,
+        106,
+        120
+    ],
+    "source": "Temporary",
+    "clues": {
+        "A": {
+            "cells": [
+                89,
+                167,
+                34,
+                127,
+                109,
+                4,
+                21,
+                73,
+                144
+            ],
+            "answer": "Huey Lewis",
+            "hint": "Singer of the 1982 hit \u201cWorkin\u2019 for a Livin\u2019\u201d (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                78,
+                46,
+                10,
+                121,
+                140,
+                174,
+                65,
+                152,
+                29
+            ],
+            "answer": "Innkeeper",
+            "hint": "Job attending to travelers"
+        },
+        "C": {
+            "cells": [
+                24,
+                70,
+                150,
+                102,
+                119,
+                86,
+                135
+            ],
+            "answer": "Lectern",
+            "hint": "Stand for one reading aloud"
+        },
+        "D": {
+            "cells": [
+                81,
+                162,
+                16,
+                32,
+                62,
+                48,
+                125
+            ],
+            "answer": "Annoyed",
+            "hint": "Bugged"
+        },
+        "E": {
+            "cells": [
+                99,
+                123,
+                111,
+                142,
+                9,
+                173,
+                69,
+                158,
+                37
+            ],
+            "answer": "Relief map",
+            "hint": "Depiction of a land\u2019s ups and downs (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                2,
+                61,
+                138,
+                43,
+                17,
+                115,
+                90,
+                160
+            ],
+            "answer": "Yma Sumac",
+            "hint": "Peruvian singer famed for her extraordinary vocal range (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                57,
+                161,
+                130,
+                41,
+                117,
+                95,
+                5,
+                77
+            ],
+            "answer": "Lose time",
+            "hint": "Fall behind in a race or project (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                30,
+                122,
+                104,
+                145,
+                49,
+                169,
+                88
+            ],
+            "answer": "Encoded",
+            "hint": "Hard to extract without a key"
+        },
+        "I": {
+            "cells": [
+                13,
+                126,
+                107,
+                45,
+                159,
+                28,
+                139
+            ],
+            "answer": "Impetus",
+            "hint": "Boost, spark, spur"
+        },
+        "J": {
+            "cells": [
+                153,
+                110,
+                14,
+                97,
+                36,
+                66,
+                137,
+                50
+            ],
+            "answer": "Cash flow",
+            "hint": "Problem for those who are strapped (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                151,
+                55,
+                8,
+                113,
+                94,
+                170,
+                68
+            ],
+            "answer": "Highway",
+            "hint": "Route 66, for example"
+        },
+        "L": {
+            "cells": [
+                72,
+                118,
+                12,
+                101,
+                87,
+                171,
+                146
+            ],
+            "answer": "Thyself",
+            "hint": "Whom to know, per a Delphic maxim"
+        },
+        "M": {
+            "cells": [
+                129,
+                149,
+                53,
+                93,
+                18,
+                35,
+                168
+            ],
+            "answer": "Eyespot",
+            "hint": "Marking that might appear on a butterfly or peacock"
+        },
+        "N": {
+            "cells": [
+                79,
+                7,
+                96,
+                59,
+                157,
+                133,
+                47,
+                27
+            ],
+            "answer": "Ratchets",
+            "hint": "Causes to move (usually up) incrementally"
+        },
+        "O": {
+            "cells": [
+                136,
+                116,
+                56,
+                76,
+                20,
+                91
+            ],
+            "answer": "Typhon",
+            "hint": "Monster bested by Zeus and buried under Mount Etna"
+        },
+        "P": {
+            "cells": [
+                143,
+                71,
+                40,
+                114,
+                1,
+                172,
+                84
+            ],
+            "answer": "Endemic",
+            "hint": "Native to a particular region or people"
+        },
+        "Q": {
+            "cells": [
+                132,
+                105,
+                33,
+                80,
+                148,
+                52,
+                165,
+                15
+            ],
+            "answer": "\"Mamma Mia\"",
+            "hint": "1975 song that lent its name to a hit musical and two films (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                147,
+                131,
+                3,
+                92,
+                67,
+                39,
+                22,
+                163
+            ],
+            "answer": "Put-downs",
+            "hint": "Remarks meant to belittle (hyph.)"
+        },
+        "S": {
+            "cells": [
+                38,
+                85,
+                19,
+                112,
+                58,
+                155,
+                98
+            ],
+            "answer": "Outcast",
+            "hint": "Pariah, persona non grata"
+        },
+        "T": {
+            "cells": [
+                42,
+                25,
+                63,
+                82,
+                156,
+                128,
+                103
+            ],
+            "answer": "Reentry",
+            "hint": "Back-to-the-land movement?"
+        },
+        "U": {
+            "cells": [
+                108,
+                44,
+                11,
+                134,
+                31,
+                60,
+                74,
+                166
+            ],
+            "answer": "Accident",
+            "hint": "\u201cAn inevitable occurrence due to the action of immutable natural laws,\u201d per Ambrose Bierce"
+        },
+        "V": {
+            "cells": [
+                106,
+                124,
+                164,
+                75,
+                26,
+                54
+            ],
+            "answer": "Rattan",
+            "hint": "Source of walking sticks and wickerwork"
+        },
+        "W": {
+            "cells": [
+                120,
+                51,
+                64,
+                154,
+                83,
+                23,
+                6,
+                100,
+                141
+            ],
+            "answer": "Yom Kippur",
+            "hint": "Holiday observed with fasting and prayer (2 wds.)"
+        }
+    }
+}

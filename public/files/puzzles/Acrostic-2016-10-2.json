@@ -1,0 +1,347 @@
+{
+    "answer": "Australians respect nothing except the epic and ridiculous, because that is the nature of the native animals of their homeland. Wherever you go in the world, you will find Australians being preposterous. I love them.",
+    "author": "Steve Hely,",
+    "authorCell": [
+        91,
+        144,
+        113,
+        83,
+        124,
+        99,
+        109,
+        103,
+        130,
+        31,
+        175,
+        159,
+        133,
+        49,
+        24,
+        129,
+        164,
+        12,
+        174,
+        110,
+        146,
+        43,
+        135
+    ],
+    "source": "The Wonder Trail",
+    "clues": {
+        "A": {
+            "cells": [
+                91,
+                125,
+                104,
+                156,
+                177,
+                6,
+                19
+            ],
+            "answer": "Swagman",
+            "hint": "Wanderer in Oz"
+        },
+        "B": {
+            "cells": [
+                144,
+                108,
+                35,
+                127,
+                20,
+                79
+            ],
+            "answer": "Theron",
+            "hint": "Actress in \u201cMad Max: Fury Road\u201d"
+        },
+        "C": {
+            "cells": [
+                113,
+                28,
+                92,
+                14,
+                157,
+                77,
+                67,
+                42,
+                173
+            ],
+            "answer": "Ecosphere",
+            "hint": "Life-support system?"
+        },
+        "D": {
+            "cells": [
+                83,
+                23,
+                5,
+                70,
+                132,
+                100,
+                56,
+                168
+            ],
+            "answer": "Virtuous",
+            "hint": "Having good morals"
+        },
+        "E": {
+            "cells": [
+                124,
+                30,
+                63,
+                4,
+                166,
+                101,
+                78
+            ],
+            "answer": "Epitome",
+            "hint": "Quintessence"
+        },
+        "F": {
+            "cells": [
+                99,
+                134,
+                15,
+                36,
+                169,
+                58,
+                151
+            ],
+            "answer": "Hippies",
+            "hint": "Stereotypes of the \u201960s"
+        },
+        "G": {
+            "cells": [
+                109,
+                54,
+                123,
+                154,
+                41,
+                68,
+                80,
+                3
+            ],
+            "answer": "Echidnas",
+            "hint": "Spiny, toothless, burrowing monotremes"
+        },
+        "H": {
+            "cells": [
+                103,
+                153,
+                9,
+                172,
+                84,
+                131,
+                50,
+                65
+            ],
+            "answer": "Leave out",
+            "hint": "Pass over (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                130,
+                74,
+                167,
+                86,
+                25,
+                7,
+                55,
+                140,
+                115
+            ],
+            "answer": "Young lady",
+            "hint": "Miss (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                31,
+                60,
+                16,
+                171,
+                158,
+                97,
+                143,
+                81
+            ],
+            "answer": "Theorist",
+            "hint": "Speculator"
+        },
+        "K": {
+            "cells": [
+                175,
+                1,
+                155,
+                106,
+                38,
+                117,
+                137,
+                75
+            ],
+            "answer": "Handcuff",
+            "hint": "Render incapable of taking action"
+        },
+        "L": {
+            "cells": [
+                159,
+                27,
+                94,
+                120,
+                139,
+                46,
+                62
+            ],
+            "answer": "Extinct",
+            "hint": "No longer with us"
+        },
+        "M": {
+            "cells": [
+                133,
+                85,
+                147,
+                170,
+                39,
+                52,
+                8,
+                111,
+                64
+            ],
+            "answer": "Wallabies",
+            "hint": "Cousins of kangaroos"
+        },
+        "N": {
+            "cells": [
+                49,
+                105,
+                32,
+                66,
+                82,
+                121,
+                138,
+                17,
+                176
+            ],
+            "answer": "On thin ice",
+            "hint": "In a precarious position (3 wds.)"
+        },
+        "O": {
+            "cells": [
+                24,
+                47,
+                88,
+                152,
+                61,
+                76,
+                11
+            ],
+            "answer": "Numbats",
+            "hint": "Endangered denizens of eucalypt forests"
+        },
+        "P": {
+            "cells": [
+                129,
+                13,
+                165,
+                114,
+                87,
+                34,
+                72,
+                53
+            ],
+            "answer": "Derriere",
+            "hint": "Bum, can, booty"
+        },
+        "Q": {
+            "cells": [
+                164,
+                48,
+                69,
+                150,
+                112,
+                37,
+                21,
+                89,
+                136
+            ],
+            "answer": "Elan vital",
+            "hint": "Creative force in an organism that is responsible for growth and change, from French (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                12,
+                116,
+                141,
+                98,
+                73,
+                44
+            ],
+            "answer": "Roared",
+            "hint": "Gave a loud warning"
+        },
+        "S": {
+            "cells": [
+                174,
+                161,
+                107,
+                10,
+                95,
+                119,
+                142,
+                57,
+                26
+            ],
+            "answer": "Townhouse",
+            "hint": "Residence in a row"
+        },
+        "T": {
+            "cells": [
+                110,
+                149,
+                122,
+                45,
+                18,
+                96
+            ],
+            "answer": "Ratite",
+            "hint": "Cassowary or emu"
+        },
+        "U": {
+            "cells": [
+                146,
+                163,
+                33,
+                126,
+                51
+            ],
+            "answer": "Athos",
+            "hint": "D\u2019Artagnan companion"
+        },
+        "V": {
+            "cells": [
+                43,
+                90,
+                128,
+                145,
+                29,
+                160,
+                2,
+                59,
+                102
+            ],
+            "answer": "Ill repute",
+            "hint": "Notoriety (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                135,
+                71,
+                40,
+                118,
+                93,
+                148,
+                162,
+                22
+            ],
+            "answer": "Lungfish",
+            "hint": "One of the planet\u2019s oldest living vertebrates"
+        }
+    }
+}

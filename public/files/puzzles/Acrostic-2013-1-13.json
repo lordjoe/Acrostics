@@ -1,0 +1,369 @@
+{
+    "answer": "Each number has a personality.... Twelve is upright... whereas thirteen is a loner, a shady character.... eleven is tough, an outdoorsman.... ten is rather simpleminded, a bland figure who... does what he\u2019s told.... nine is deep and mystical.",
+    "author": "Paul Auster,",
+    "authorCell": [
+        35,
+        58,
+        95,
+        29,
+        128,
+        137,
+        65,
+        26,
+        53,
+        63,
+        24,
+        71,
+        1,
+        122,
+        34,
+        109,
+        23,
+        70,
+        98,
+        134,
+        3,
+        151,
+        177,
+        61,
+        176,
+        77
+    ],
+    "source": "The Music Of Chance",
+    "clues": {
+        "A": {
+            "cells": [
+                35,
+                103,
+                170,
+                138,
+                79,
+                18
+            ],
+            "answer": "Padres",
+            "hint": "Men associated with missions"
+        },
+        "B": {
+            "cells": [
+                58,
+                78,
+                96,
+                162,
+                146,
+                174
+            ],
+            "answer": "Artist",
+            "hint": "\u201cWhat an ___ dies in me!\u201d (Nero\u2019s last words)"
+        },
+        "C": {
+            "cells": [
+                95,
+                5,
+                27,
+                135,
+                55,
+                164
+            ],
+            "answer": "Unwind",
+            "hint": "Relax after a hard day\u2019s work"
+        },
+        "D": {
+            "cells": [
+                29,
+                2,
+                51,
+                81,
+                97,
+                155
+            ],
+            "answer": "Laredo",
+            "hint": "Home to Texas A&M\u2019s Dustdevils"
+        },
+        "E": {
+            "cells": [
+                128,
+                84,
+                160,
+                54,
+                22,
+                108,
+                68
+            ],
+            "answer": "Annelid",
+            "hint": "Earthworm or leech, e.g."
+        },
+        "F": {
+            "cells": [
+                137,
+                17,
+                67,
+                93,
+                50,
+                6,
+                118
+            ],
+            "answer": "Uranium",
+            "hint": "1789 discovery by Martin Heinrich Klaproth"
+        },
+        "G": {
+            "cells": [
+                65,
+                91,
+                165,
+                126,
+                15,
+                32,
+                47,
+                141
+            ],
+            "answer": "Sheepish",
+            "hint": "Hangdog"
+        },
+        "H": {
+            "cells": [
+                26,
+                142,
+                167,
+                4,
+                74,
+                52
+            ],
+            "answer": "\u201cTop Hat\u201d",
+            "hint": "Screwball comedy with Astaire and Rogers (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                53,
+                64,
+                116,
+                150,
+                100,
+                175,
+                82,
+                31,
+                10
+            ],
+            "answer": "East River",
+            "hint": "View from the Hell Gate Bridge (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                63,
+                37,
+                119,
+                101,
+                21,
+                147
+            ],
+            "answer": "Rip saw",
+            "hint": "It doesn\u2019t go against the grain"
+        },
+        "K": {
+            "cells": [
+                24,
+                56,
+                38,
+                145,
+                110,
+                86
+            ],
+            "answer": "Tigers",
+            "hint": "Giant foes of 2012"
+        },
+        "L": {
+            "cells": [
+                71,
+                111,
+                25,
+                7,
+                144,
+                41
+            ],
+            "answer": "Haymow",
+            "hint": "Loft where fodder is stored"
+        },
+        "M": {
+            "cells": [
+                1,
+                44,
+                89,
+                143,
+                123,
+                105,
+                16
+            ],
+            "answer": "Erudite",
+            "hint": "With more than a little learning"
+        },
+        "N": {
+            "cells": [
+                122,
+                92,
+                40,
+                75,
+                11,
+                62,
+                173
+            ],
+            "answer": "Matches",
+            "hint": "Fillers of some books"
+        },
+        "O": {
+            "cells": [
+                34,
+                20,
+                140,
+                159,
+                106,
+                80,
+                127,
+                172
+            ],
+            "answer": "Unwieldy",
+            "hint": "Hard to handle, as a piano on a stairway"
+        },
+        "P": {
+            "cells": [
+                109,
+                66,
+                28,
+                178,
+                120,
+                45,
+                157
+            ],
+            "answer": "Shelled",
+            "hint": "Taken from a hard case"
+        },
+        "Q": {
+            "cells": [
+                23,
+                107,
+                87,
+                121,
+                158,
+                57,
+                43
+            ],
+            "answer": "Intense",
+            "hint": "Concentrated to an extreme degree"
+        },
+        "R": {
+            "cells": [
+                70,
+                42,
+                139,
+                166,
+                153,
+                9,
+                125
+            ],
+            "answer": "Cheesed",
+            "hint": "Miffed, ticked off"
+        },
+        "S": {
+            "cells": [
+                98,
+                30,
+                83,
+                115,
+                48,
+                130,
+                69
+            ],
+            "answer": "Overtly",
+            "hint": "With no attempt at secrecy"
+        },
+        "T": {
+            "cells": [
+                134,
+                14,
+                112,
+                49,
+                94,
+                171,
+                33
+            ],
+            "answer": "Fathoms",
+            "hint": "Six-foot lengths"
+        },
+        "U": {
+            "cells": [
+                3,
+                39,
+                72,
+                90,
+                131,
+                156,
+                59
+            ],
+            "answer": "Chagall",
+            "hint": "Designer of a stained-glass window in the U.N. building"
+        },
+        "V": {
+            "cells": [
+                151,
+                60,
+                129,
+                169,
+                99,
+                8
+            ],
+            "answer": "Hobnob",
+            "hint": "Hang out, rub elbows, schmooze"
+        },
+        "W": {
+            "cells": [
+                177,
+                85,
+                73,
+                113,
+                161,
+                46,
+                133,
+                13
+            ],
+            "answer": "Airheads",
+            "hint": "People of very little brainpower"
+        },
+        "X": {
+            "cells": [
+                61,
+                19,
+                124,
+                168,
+                136,
+                88,
+                104
+            ],
+            "answer": "Nonagon",
+            "hint": "Geometric shape of a Bahai temple"
+        },
+        "Y": {
+            "cells": [
+                176,
+                148,
+                12,
+                163,
+                76,
+                114,
+                132
+            ],
+            "answer": "Chasten",
+            "hint": "Discipline; humble"
+        },
+        "Z": {
+            "cells": [
+                77,
+                102,
+                117,
+                36,
+                149,
+                154,
+                152
+            ],
+            "answer": "Emirate",
+            "hint": "Umm al-Quwain, for one"
+        }
+    }
+}

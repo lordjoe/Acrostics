@@ -1,0 +1,342 @@
+{
+    "answer": "Amoebas may not have backbones, brains,... plastic,... [or] Valium...; but their architecture is two billion years ahead of its time. The amoeba had the... ideas of R. Buckminster Fuller before there was anyone... capable of having an idea.",
+    "author": "(L.L. Larison) Cudmore,",
+    "authorCell": [
+        63,
+        65,
+        110,
+        47,
+        119,
+        41,
+        158,
+        61,
+        52,
+        62,
+        20,
+        67,
+        172,
+        64,
+        116,
+        83,
+        40,
+        167,
+        34,
+        92,
+        133,
+        144
+    ],
+    "source": "The Center Of Life",
+    "clues": {
+        "A": {
+            "cells": [
+                63,
+                14,
+                179,
+                123,
+                91,
+                141,
+                165,
+                49,
+                28
+            ],
+            "answer": "Chauffeur",
+            "hint": "Many a mom or dad, say, after school lets out"
+        },
+        "B": {
+            "cells": [
+                65,
+                75,
+                107,
+                128,
+                22,
+                169,
+                95,
+                12,
+                148
+            ],
+            "answer": "Ulan Bator",
+            "hint": "Mongolia\u2019s main metropolis (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                110,
+                178,
+                120,
+                134,
+                11,
+                159,
+                145
+            ],
+            "answer": "Defunct",
+            "hint": "No longer in existence"
+        },
+        "D": {
+            "cells": [
+                47,
+                109,
+                157,
+                177,
+                66,
+                82,
+                21,
+                98
+            ],
+            "answer": "Mandrake",
+            "hint": "Old World herb whose root was once believed to have magical properties"
+        },
+        "E": {
+            "cells": [
+                119,
+                39,
+                99,
+                88,
+                16,
+                176,
+                151
+            ],
+            "answer": "Octavia",
+            "hint": "Marc Antony\u2019s wife, who raised Cleopatra\u2019s children"
+        },
+        "F": {
+            "cells": [
+                41,
+                156,
+                118,
+                81,
+                5,
+                23,
+                71,
+                136
+            ],
+            "answer": "Rose Bowl",
+            "hint": "1984 Olympic soccer venue (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                158,
+                84,
+                124,
+                15,
+                55,
+                72,
+                44,
+                101
+            ],
+            "answer": "Escarole",
+            "hint": "Type of chicory put in salads"
+        },
+        "H": {
+            "cells": [
+                61,
+                86,
+                113,
+                138,
+                2,
+                78,
+                26,
+                37,
+                160,
+                50
+            ],
+            "answer": "Thermostat",
+            "hint": "Regulating device with a bimetallic coil"
+        },
+        "I": {
+            "cells": [
+                52,
+                90,
+                73,
+                27,
+                10,
+                171,
+                152,
+                111
+            ],
+            "answer": "Hobbyist",
+            "hint": "Toy train builder, stamp collector or rockhound"
+        },
+        "J": {
+            "cells": [
+                62,
+                135,
+                114,
+                150,
+                168,
+                38,
+                93,
+                24,
+                105,
+                80
+            ],
+            "answer": "Eli Whitney",
+            "hint": "Inventor who pioneered mass production of rifles (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                20,
+                166,
+                142,
+                51,
+                68,
+                4,
+                94
+            ],
+            "answer": "Cooties",
+            "hint": "Affliction imputed on playgrounds"
+        },
+        "L": {
+            "cells": [
+                67,
+                153,
+                170,
+                25,
+                129,
+                115,
+                143,
+                3,
+                33
+            ],
+            "answer": "Eavesdrop",
+            "hint": "Audit without notification"
+        },
+        "M": {
+            "cells": [
+                172,
+                85,
+                97,
+                45,
+                139,
+                127,
+                1
+            ],
+            "answer": "Namibia",
+            "hint": "Major exporter of diamonds and uranium"
+        },
+        "N": {
+            "cells": [
+                64,
+                100,
+                74,
+                121,
+                89,
+                18,
+                9,
+                36,
+                137
+            ],
+            "answer": "Third base",
+            "hint": "\u201cHot corner\u201d on a diamond (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                116,
+                175,
+                32,
+                147,
+                103,
+                122,
+                164,
+                53
+            ],
+            "answer": "Ensemble",
+            "hint": "Group of actors, musicians or furniture"
+        },
+        "P": {
+            "cells": [
+                83,
+                149,
+                130,
+                69,
+                54,
+                31,
+                102
+            ],
+            "answer": "Retsina",
+            "hint": "Beverage served in a taverna"
+        },
+        "Q": {
+            "cells": [
+                40,
+                126,
+                6,
+                146,
+                174,
+                163,
+                87,
+                19,
+                58,
+                112
+            ],
+            "answer": "Omaha Beach",
+            "hint": "\u201cSaving Private Ryan\u201d setting (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                167,
+                56,
+                132,
+                77,
+                154,
+                35
+            ],
+            "answer": "Farina",
+            "hint": "Member of Our Gang named for a cereal"
+        },
+        "S": {
+            "cells": [
+                34,
+                140,
+                42,
+                60,
+                117,
+                13,
+                108,
+                162,
+                79
+            ],
+            "answer": "\u201cLeviathan\u201d",
+            "hint": "1651 work in which Thomas Hobbes describes life as \u201cNasty, brutish and short\u201d"
+        },
+        "T": {
+            "cells": [
+                92,
+                8,
+                106,
+                30,
+                48,
+                131
+            ],
+            "answer": "Imbibe",
+            "hint": "Partake of liquid refreshment"
+        },
+        "U": {
+            "cells": [
+                133,
+                76,
+                43,
+                173,
+                7,
+                59,
+                96,
+                161
+            ],
+            "answer": "Flagship",
+            "hint": "The Santa Maria, for Columbus"
+        },
+        "V": {
+            "cells": [
+                144,
+                46,
+                125,
+                29,
+                57,
+                155,
+                104,
+                70,
+                17
+            ],
+            "answer": "Eukaryote",
+            "hint": "Organism with complex cells"
+        }
+    }
+}

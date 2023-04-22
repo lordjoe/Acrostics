@@ -1,0 +1,361 @@
+{
+    "answer": "Managing... is the most vulnerable job in the world. ... If you don\u2019t win, you\u2019re... fired. If you do win, you\u2019ve only put off the day you\u2019re going to be fired. The manager... has to call it... now. Everybody else can call it after it\u2019s over.",
+    "author": "(Leo) Durocher,",
+    "authorCell": [
+        91,
+        83,
+        110,
+        69,
+        128,
+        123,
+        61,
+        163,
+        152,
+        157,
+        150,
+        90,
+        99,
+        96,
+        145,
+        166,
+        64,
+        109,
+        48,
+        41,
+        16,
+        34,
+        26,
+        119,
+        125,
+        17
+    ],
+    "source": "Nice Guys Finish Last",
+    "clues": {
+        "A": {
+            "cells": [
+                91,
+                164,
+                4,
+                30,
+                124,
+                148,
+                57
+            ],
+            "answer": "Diabase",
+            "hint": "Rock forming Gettysburg\u2019s Devil\u2019s Den"
+        },
+        "B": {
+            "cells": [
+                83,
+                3,
+                46,
+                67,
+                131,
+                24,
+                158,
+                115
+            ],
+            "answer": "Undulate",
+            "hint": "Move like \u201cthe wave\u201d"
+        },
+        "C": {
+            "cells": [
+                110,
+                44,
+                142,
+                95,
+                161
+            ],
+            "answer": "Robot",
+            "hint": "L. Frank Baum\u2019s Tik-Tok, for one"
+        },
+        "D": {
+            "cells": [
+                69,
+                86,
+                160,
+                22,
+                7,
+                112
+            ],
+            "answer": "Offend",
+            "hint": "Step on some toes"
+        },
+        "E": {
+            "cells": [
+                128,
+                151,
+                38,
+                62,
+                101,
+                21,
+                2,
+                80
+            ],
+            "answer": "Cardinal",
+            "hint": "Teammate of Dizzy Dean or Ozzie Smith"
+        },
+        "F": {
+            "cells": [
+                123,
+                66,
+                84,
+                40,
+                15,
+                103
+            ],
+            "answer": "Hot-dog",
+            "hint": "Try to wow a spectating crowd"
+        },
+        "G": {
+            "cells": [
+                61,
+                133,
+                43,
+                116,
+                29,
+                155,
+                167,
+                5,
+                93
+            ],
+            "answer": "Etymology",
+            "hint": "Word made from parts meaning \u201ctrue\u201d and \u201cword\u201d"
+        },
+        "H": {
+            "cells": [
+                163,
+                127,
+                54,
+                88,
+                149,
+                23
+            ],
+            "answer": "Rooter",
+            "hint": "Fan giving vocal support"
+        },
+        "I": {
+            "cells": [
+                152,
+                77,
+                36,
+                12,
+                92,
+                168,
+                111,
+                52
+            ],
+            "answer": "New Haven",
+            "hint": "City where the first telephone directory was issued (1878) (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                157,
+                102,
+                28,
+                55,
+                122,
+                81
+            ],
+            "answer": "Injury",
+            "hint": "One cause for a substitution"
+        },
+        "K": {
+            "cells": [
+                150,
+                135,
+                53,
+                74,
+                104,
+                13
+            ],
+            "answer": "Coyote",
+            "hint": "Trickster of Navajo myth"
+        },
+        "L": {
+            "cells": [
+                90,
+                39,
+                25,
+                143,
+                70
+            ],
+            "answer": "Elbow",
+            "hint": "Tommy John surgery site"
+        },
+        "M": {
+            "cells": [
+                99,
+                129,
+                165,
+                114,
+                146,
+                56,
+                31,
+                72,
+                8
+            ],
+            "answer": "Gathering",
+            "hint": "Convention, crowd, assembly"
+        },
+        "N": {
+            "cells": [
+                96,
+                118,
+                136,
+                154,
+                170,
+                73
+            ],
+            "answer": "Unwary",
+            "hint": "Apt to fall for a fast one"
+        },
+        "O": {
+            "cells": [
+                145,
+                85,
+                45,
+                32,
+                120
+            ],
+            "answer": "Young",
+            "hint": "Pitching legend for whom a yearly pitching award is named"
+        },
+        "P": {
+            "cells": [
+                166,
+                50,
+                6,
+                76,
+                139,
+                20
+            ],
+            "answer": "Swivel",
+            "hint": "Pivot, pirouette"
+        },
+        "Q": {
+            "cells": [
+                64,
+                9,
+                108,
+                49,
+                35,
+                169,
+                134
+            ],
+            "answer": "Fifteen",
+            "hint": "Thurman Munson\u2019s retired uniform number"
+        },
+        "R": {
+            "cells": [
+                109,
+                138,
+                51,
+                27,
+                68
+            ],
+            "answer": "Ivied",
+            "hint": "Like the walls of Wrigley Field"
+        },
+        "S": {
+            "cells": [
+                48,
+                75,
+                140,
+                162,
+                94,
+                121,
+                18
+            ],
+            "answer": "Nureyev",
+            "hint": "Dancing defector of 1961"
+        },
+        "T": {
+            "cells": [
+                41,
+                144,
+                78,
+                130,
+                159,
+                11,
+                97,
+                65
+            ],
+            "answer": "Idolatry",
+            "hint": "Over-the-top fandom"
+        },
+        "U": {
+            "cells": [
+                16,
+                126,
+                107,
+                42,
+                87,
+                59
+            ],
+            "answer": "Steffi",
+            "hint": "First name in women\u2019s Grand Slam history"
+        },
+        "V": {
+            "cells": [
+                34,
+                100,
+                1,
+                137,
+                60,
+                19,
+                79
+            ],
+            "answer": "Home run",
+            "hint": "Diamond dinger (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                26,
+                98,
+                58,
+                113,
+                141
+            ],
+            "answer": "Lefty",
+            "hint": "Grove of Cooperstown"
+        },
+        "X": {
+            "cells": [
+                119,
+                82,
+                147,
+                37,
+                14,
+                106
+            ],
+            "answer": "Aplomb",
+            "hint": "Poise when in a pickle"
+        },
+        "Y": {
+            "cells": [
+                125,
+                105,
+                156,
+                47,
+                63,
+                10,
+                33
+            ],
+            "answer": "Soloist",
+            "hint": "National anthem singer, usually"
+        },
+        "Z": {
+            "cells": [
+                17,
+                117,
+                132,
+                153,
+                89,
+                71
+            ],
+            "answer": "Tai chi",
+            "hint": "Slow-paced exercise routine (2 wds.)"
+        }
+    }
+}

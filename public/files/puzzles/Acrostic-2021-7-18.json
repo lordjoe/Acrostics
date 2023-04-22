@@ -1,0 +1,353 @@
+{
+    "answer": "Traditional Thai cuisine doesn\u2019t include cheese, and many Thais find the odor... gag-inducing. ... I did eventually develop a taste for cheese, and now good luck prying me away from a nice runny Camembert or a stinky Stilton.",
+    "author": "(Tammy) Duckworth,",
+    "authorCell": [
+        62,
+        123,
+        16,
+        168,
+        135,
+        161,
+        162,
+        28,
+        37,
+        158,
+        92,
+        146,
+        139,
+        128,
+        121,
+        14,
+        169,
+        29,
+        40,
+        97,
+        67,
+        68,
+        54,
+        101
+    ],
+    "source": "Every Day Is a Gift",
+    "clues": {
+        "A": {
+            "cells": [
+                62,
+                102,
+                88,
+                20,
+                36,
+                136,
+                124,
+                151
+            ],
+            "answer": "Delicacy",
+            "hint": "Rare, expensive food such as Graukäse or larb mote daeng"
+        },
+        "B": {
+            "cells": [
+                123,
+                47,
+                72,
+                142,
+                30,
+                167,
+                89
+            ],
+            "answer": "Uncanny",
+            "hint": "Eerie, cryptic, supernatural"
+        },
+        "C": {
+            "cells": [
+                16,
+                86,
+                157,
+                104,
+                174
+            ],
+            "answer": "Cabot",
+            "hint": "Explorer Sebastian who searched for the Northwest Passage"
+        },
+        "D": {
+            "cells": [
+                168,
+                155,
+                27,
+                115,
+                133,
+                79,
+                48
+            ],
+            "answer": "Kennedy",
+            "hint": "Leader who said \u201cIf not us, who? If not now, when?\u201d"
+        },
+        "E": {
+            "cells": [
+                135,
+                116,
+                147,
+                57,
+                75,
+                163,
+                45,
+                93,
+                19
+            ],
+            "answer": "Word games",
+            "hint": "Bananagrams and Boggle, for two (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                161,
+                103,
+                138,
+                35,
+                9,
+                53,
+                80
+            ],
+            "answer": "Offense",
+            "hint": "Emotional response to an indignity"
+        },
+        "G": {
+            "cells": [
+                162,
+                39,
+                81,
+                108,
+                11,
+                64,
+                137
+            ],
+            "answer": "Revelry",
+            "hint": "Gaiety, conviviality, merrymaking"
+        },
+        "H": {
+            "cells": [
+                28,
+                76,
+                43,
+                110,
+                132,
+                7,
+                165,
+                59
+            ],
+            "answer": "Tinsmith",
+            "hint": "Artisan who works mostly with cold metal"
+        },
+        "I": {
+            "cells": [
+                37,
+                109,
+                3,
+                23,
+                87,
+                61,
+                145,
+                125
+            ],
+            "answer": "Headlock",
+            "hint": "Good grip on a mat"
+        },
+        "J": {
+            "cells": [
+                158,
+                90,
+                117,
+                52,
+                130,
+                32,
+                66,
+                143,
+                4
+            ],
+            "answer": "Edwin Land",
+            "hint": "Inventor of the Polaroid instant camera (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                92,
+                41,
+                26,
+                6,
+                144,
+                65,
+                111,
+                164
+            ],
+            "answer": "Vestiges",
+            "hint": "Bygone traces, as footprints"
+        },
+        "L": {
+            "cells": [
+                146,
+                127,
+                33,
+                96,
+                49,
+                166,
+                63,
+                113
+            ],
+            "answer": "Eruption",
+            "hint": "Peril for those in the lower Puna region of Hawaii"
+        },
+        "M": {
+            "cells": [
+                139,
+                60,
+                77,
+                152,
+                94,
+                119,
+                17,
+                34
+            ],
+            "answer": "Red Cloud",
+            "hint": "Oglala Lakota war chief who defeated the U.S. Army in the Fetterman Fight of 1866 (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                128,
+                38,
+                56,
+                160,
+                10
+            ],
+            "answer": "Yenta",
+            "hint": "Minder of business other than her own"
+        },
+        "O": {
+            "cells": [
+                121,
+                71,
+                12,
+                31,
+                107
+            ],
+            "answer": "Dutch",
+            "hint": "Like Edam and Gouda"
+        },
+        "P": {
+            "cells": [
+                14,
+                69,
+                98,
+                140,
+                83,
+                55,
+                120
+            ],
+            "answer": "Antonio",
+            "hint": "Merchant in \u201cThe Merchant of Venice\u201d"
+        },
+        "Q": {
+            "cells": [
+                169,
+                148,
+                106,
+                51,
+                1,
+                134,
+                21
+            ],
+            "answer": "Yucatan",
+            "hint": "State bordering Campeche and Quintana Roo"
+        },
+        "R": {
+            "cells": [
+                29,
+                118,
+                176,
+                78,
+                58,
+                15,
+                95,
+                149
+            ],
+            "answer": "Ignition",
+            "hint": "Achievement just before liftoff"
+        },
+        "S": {
+            "cells": [
+                40,
+                172,
+                70,
+                25,
+                114,
+                129,
+                100,
+                13
+            ],
+            "answer": "Side dish",
+            "hint": "Complement from the chef (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                97,
+                141,
+                156,
+                175,
+                74,
+                18,
+                42
+            ],
+            "answer": "Ammonia",
+            "hint": "Cleaning agent that might make you wrinkle your nose"
+        },
+        "U": {
+            "cells": [
+                67,
+                105,
+                153,
+                171,
+                82,
+                44
+            ],
+            "answer": "Grated",
+            "hint": "Like Parmesan, often"
+        },
+        "V": {
+            "cells": [
+                68,
+                84,
+                99,
+                122,
+                5,
+                46,
+                150,
+                170
+            ],
+            "answer": "Italians",
+            "hint": "Makers of Taleggio and mascarpone"
+        },
+        "W": {
+            "cells": [
+                54,
+                2,
+                24,
+                154,
+                112,
+                131,
+                91
+            ],
+            "answer": "Fromage",
+            "hint": "What might be paired with \u201cvin\u201d"
+        },
+        "X": {
+            "cells": [
+                101,
+                85,
+                159,
+                8,
+                126,
+                50,
+                73,
+                173,
+                22
+            ],
+            "answer": "Turophile",
+            "hint": "Lover of Havarti, Brie or Gorgonzola"
+        }
+    }
+}

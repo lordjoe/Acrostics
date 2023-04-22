@@ -1,0 +1,363 @@
+{
+    "answer": "Sydney Yendys was born... to be a palindromist. His first coherent utterance was \u201cDad-dad-dad...!\u201d followed in due course by \u201cMam-mam-mam...!\u201d Later in life he was to marry a girl called Edna, and to have a daughter, also named Edna.",
+    "author": "Howard Bergerson,",
+    "authorCell": [
+        156,
+        88,
+        117,
+        172,
+        159,
+        65,
+        16,
+        114,
+        125,
+        128,
+        56,
+        31,
+        119,
+        75,
+        59,
+        25,
+        165,
+        76,
+        112,
+        19,
+        137,
+        108,
+        163,
+        98,
+        150,
+        91
+    ],
+    "source": "Palindromes (and Anagrams)",
+    "clues": {
+        "A": {
+            "cells": [
+                156,
+                99,
+                77,
+                113,
+                13,
+                34,
+                54
+            ],
+            "answer": "Half-wit",
+            "hint": "One with not a ton of smarts, boob (hyph.)"
+        },
+        "B": {
+            "cells": [
+                88,
+                30,
+                168,
+                64
+            ],
+            "answer": "Odds",
+            "hint": "Stats put up on a tote board"
+        },
+        "C": {
+            "cells": [
+                117,
+                138,
+                82,
+                49,
+                67,
+                14,
+                27
+            ],
+            "answer": "Weird Al",
+            "hint": "Yankovic whose lyrics for \u201cBob\u201d include \u201cIf I had a hi-fi\u201d and \u201cToo bad I hid a boot\u201d (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                172,
+                22,
+                46,
+                89,
+                120,
+                74,
+                153,
+                132,
+                107
+            ],
+            "answer": "About-face",
+            "hint": "Deed done in reverse? (hyph.)"
+        },
+        "E": {
+            "cells": [
+                159,
+                66,
+                81,
+                133,
+                42
+            ],
+            "answer": "Radar",
+            "hint": "Tracking system used at Indiana\u2019s Tropria Airport and elsewhere"
+        },
+        "F": {
+            "cells": [
+                65,
+                151,
+                115,
+                135,
+                41,
+                102,
+                1
+            ],
+            "answer": "Dahlias",
+            "hint": "Mum-like blossoms"
+        },
+        "G": {
+            "cells": [
+                16,
+                130,
+                69,
+                47,
+                97,
+                35
+            ],
+            "answer": "Brahms",
+            "hint": "Noted composer of moody piano solos"
+        },
+        "H": {
+            "cells": [
+                114,
+                26,
+                12,
+                157,
+                62,
+                129,
+                83,
+                170
+            ],
+            "answer": "East Wind",
+            "hint": "Air current deified as the Greek god Eurus (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                125,
+                21,
+                39,
+                145,
+                57,
+                85,
+                103
+            ],
+            "answer": "Rostrum",
+            "hint": "Speaker\u2019s place in a civic forum"
+        },
+        "J": {
+            "cells": [
+                128,
+                11,
+                90,
+                142,
+                55,
+                28,
+                110,
+                155
+            ],
+            "answer": "Gyrating",
+            "hint": "Like a rotator in action"
+        },
+        "K": {
+            "cells": [
+                56,
+                73,
+                10,
+                141
+            ],
+            "answer": "Edda",
+            "hint": "Major work in Icelandic sagas"
+        },
+        "L": {
+            "cells": [
+                31,
+                146,
+                166,
+                60,
+                17,
+                101
+            ],
+            "answer": "Rom-com",
+            "hint": "Story of the sexes, like \u201cClueless\u201d or \u201cSleepless in Seattle\u201d (hyph.)"
+        },
+        "M": {
+            "cells": [
+                119,
+                37,
+                158,
+                58,
+                18,
+                86,
+                71
+            ],
+            "answer": "Sheared",
+            "hint": "Cut, as wool from a ewe or ram"
+        },
+        "N": {
+            "cells": [
+                75,
+                143,
+                92,
+                161,
+                109,
+                29,
+                48,
+                124
+            ],
+            "answer": "One-liner",
+            "hint": "Very short gag (hyph.)"
+        },
+        "O": {
+            "cells": [
+                59,
+                127,
+                38,
+                149,
+                167
+            ],
+            "answer": "Naive",
+            "hint": "Innocent as a tot"
+        },
+        "P": {
+            "cells": [
+                25,
+                105,
+                68,
+                3,
+                131,
+                50
+            ],
+            "answer": "Paddle",
+            "hint": "Means of propulsion for a kayak"
+        },
+        "Q": {
+            "cells": [
+                165,
+                122,
+                7,
+                63,
+                84,
+                148,
+                100,
+                43
+            ],
+            "answer": "Amy Adams",
+            "hint": "Player of a nun in the 2008 film \u201cDoubt\u201d (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                76,
+                96,
+                51,
+                139,
+                111,
+                123,
+                152,
+                6
+            ],
+            "answer": "Landlady",
+            "hint": "Gig for Viv\u2019s character on \u201cI Love Lucy\u201d"
+        },
+        "S": {
+            "cells": [
+                112,
+                140,
+                70,
+                94
+            ],
+            "answer": "Indy",
+            "hint": "Race car type or venue"
+        },
+        "T": {
+            "cells": [
+                19,
+                160,
+                4,
+                136,
+                52,
+                36,
+                116
+            ],
+            "answer": "\"Nanette\"",
+            "hint": "Unconventional comedy act by Hannah Gadsby"
+        },
+        "U": {
+            "cells": [
+                137,
+                61,
+                33,
+                121,
+                171,
+                2,
+                95
+            ],
+            "answer": "Demonym",
+            "hint": "\u201cNauruan,\u201d for a native of Nauru, e.g."
+        },
+        "V": {
+            "cells": [
+                108,
+                8,
+                93,
+                78,
+                53,
+                164,
+                144
+            ],
+            "answer": "Rebound",
+            "hint": "A Pacers recap might mention this grab"
+        },
+        "W": {
+            "cells": [
+                163,
+                87,
+                106,
+                23,
+                44
+            ],
+            "answer": "Octet",
+            "hint": "Group of a size like Abba x 2"
+        },
+        "X": {
+            "cells": [
+                98,
+                72,
+                9,
+                154,
+                24,
+                134
+            ],
+            "answer": "Manual",
+            "hint": "What a Toyota owner may refer to for help"
+        },
+        "Y": {
+            "cells": [
+                150,
+                126,
+                80,
+                162,
+                104,
+                5,
+                40,
+                20
+            ],
+            "answer": "Eyes left",
+            "hint": "Head-turning sign G.I.s on parade may use to salute (2 wds.)"
+        },
+        "Z": {
+            "cells": [
+                91,
+                147,
+                32,
+                79,
+                45,
+                118,
+                15,
+                169
+            ],
+            "answer": "Showcase",
+            "hint": "Exhibit in the top spot"
+        }
+    }
+}

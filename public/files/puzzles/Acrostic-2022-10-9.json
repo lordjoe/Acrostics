@@ -1,0 +1,353 @@
+{
+    "answer": "Larger and deeper-set eyes gazed out from a face whose nose and mouth seemed pulled forwards, but with swept-back cheekbones. Framing all this were magnificent... brow ridges... . [T]he brain inside... was just as big... as your own.",
+    "author": "Rebecca Wragg Sykes,",
+    "authorCell": [
+        133,
+        58,
+        145,
+        155,
+        91,
+        38,
+        2,
+        175,
+        15,
+        105,
+        123,
+        23,
+        57,
+        20,
+        92,
+        101,
+        22,
+        97,
+        127,
+        176,
+        75,
+        6,
+        12,
+        51
+    ],
+    "source": "Kindred",
+    "clues": {
+        "A": {
+            "cells": [
+                133,
+                7,
+                60,
+                159,
+                95,
+                30,
+                43
+            ],
+            "answer": "Ramjets",
+            "hint": "Engines imparting thrust to missiles"
+        },
+        "B": {
+            "cells": [
+                58,
+                169,
+                29,
+                74,
+                150,
+                96,
+                130,
+                113
+            ],
+            "answer": "Esurient",
+            "hint": "Old-fashioned word for \u201chungry\u201d"
+        },
+        "C": {
+            "cells": [
+                145,
+                32,
+                17,
+                117,
+                63,
+                172,
+                89
+            ],
+            "answer": "Brewpub",
+            "hint": "Spot for some suds"
+        },
+        "D": {
+            "cells": [
+                155,
+                87,
+                107,
+                55,
+                35,
+                13,
+                143
+            ],
+            "answer": "Epitaph",
+            "hint": "\u201cThat\u2019s all folks\u201d for Mel Blanc, e.g."
+        },
+        "E": {
+            "cells": [
+                91,
+                146,
+                14,
+                49,
+                76,
+                129,
+                161
+            ],
+            "answer": "Creases",
+            "hint": "Paper folds"
+        },
+        "F": {
+            "cells": [
+                38,
+                53,
+                80,
+                98,
+                134,
+                170,
+                116
+            ],
+            "answer": "Cowboys",
+            "hint": "Frequent subjects of Frederic Remington paintings"
+        },
+        "G": {
+            "cells": [
+                2,
+                82,
+                70,
+                106,
+                137,
+                25,
+                48,
+                119
+            ],
+            "answer": "Atomizer",
+            "hint": "Device emitting a fine spray"
+        },
+        "H": {
+            "cells": [
+                175,
+                148,
+                112,
+                27,
+                132,
+                99,
+                73,
+                3
+            ],
+            "answer": "Wild boar",
+            "hint": "\u201cCinghiale\u201d on Italian menus (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                15,
+                81,
+                151,
+                102,
+                125,
+                50,
+                167
+            ],
+            "answer": "Rinsing",
+            "hint": "Kitchen patrol job"
+        },
+        "J": {
+            "cells": [
+                105,
+                18,
+                118,
+                37,
+                141,
+                67
+            ],
+            "answer": "At ease",
+            "hint": "Chilling, say (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                123,
+                65,
+                24,
+                47,
+                4,
+                174,
+                156
+            ],
+            "answer": "Glasgow",
+            "hint": "British city where the first international football match was held, 1872"
+        },
+        "L": {
+            "cells": [
+                23,
+                42,
+                111,
+                9,
+                126,
+                166,
+                84,
+                56
+            ],
+            "answer": "Goldfish",
+            "hint": "Popular carnival prize that\u2019s alive"
+        },
+        "M": {
+            "cells": [
+                57,
+                85,
+                110,
+                124,
+                158,
+                171,
+                45,
+                139
+            ],
+            "answer": "Swan song",
+            "hint": "Debut\u2019s opposite (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                20,
+                157,
+                33,
+                78,
+                100,
+                138,
+                120
+            ],
+            "answer": "Yaounde",
+            "hint": "Cameroon\u2019s capital"
+        },
+        "O": {
+            "cells": [
+                92,
+                149,
+                46,
+                79,
+                131,
+                21,
+                68
+            ],
+            "answer": "Knotted",
+            "hint": "Hard to untie, say"
+        },
+        "P": {
+            "cells": [
+                101,
+                10,
+                114,
+                140,
+                66,
+                34,
+                164
+            ],
+            "answer": "Ed Helms",
+            "hint": "Player of Andy Bernard on \u201cThe Office\u201d (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                22,
+                72,
+                5,
+                39,
+                142,
+                109,
+                54,
+                121
+            ],
+            "answer": "Sweet gum",
+            "hint": "Shade tree that drops prickly pods (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                97,
+                61,
+                173,
+                128,
+                83,
+                153,
+                11,
+                36
+            ],
+            "answer": "Kerchief",
+            "hint": "Mama\u2019s wear in \u201cA Visit From St. Nicholas\u201d"
+        },
+        "S": {
+            "cells": [
+                127,
+                93,
+                26,
+                52,
+                163,
+                8
+            ],
+            "answer": "\"Iceman\"",
+            "hint": "Film of 1984 featuring the quote\u2019s subject"
+        },
+        "T": {
+            "cells": [
+                176,
+                86,
+                147,
+                108,
+                62,
+                19,
+                71,
+                162,
+                41,
+                122,
+                1
+            ],
+            "answer": "Neanderthal",
+            "hint": "Like the quote\u2019s subject"
+        },
+        "U": {
+            "cells": [
+                75,
+                40,
+                90,
+                136,
+                31,
+                59,
+                154
+            ],
+            "answer": "Dwarfed",
+            "hint": "Made to look puny in comparison"
+        },
+        "V": {
+            "cells": [
+                6,
+                64,
+                165,
+                77,
+                115,
+                152,
+                94
+            ],
+            "answer": "Rubbish",
+            "hint": "Claptrap, bunkum, hogwash"
+        },
+        "W": {
+            "cells": [
+                12,
+                88,
+                28,
+                160,
+                69,
+                103,
+                144,
+                44
+            ],
+            "answer": "Etouffee",
+            "hint": "Cajun or Creole stew cooked in a covered pan"
+        },
+        "X": {
+            "cells": [
+                51,
+                104,
+                168,
+                135,
+                16
+            ],
+            "answer": "Draws",
+            "hint": "Attracts; stalemates"
+        }
+    }
+}

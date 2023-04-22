@@ -1,0 +1,335 @@
+{
+    "answer": "\u201c[T]hree brothers... inherited... parcels of land from their father and wanted to combine them into one... ranch. They didn\u2019t know what to name their ranch until their... mother suggested: \"Focus \u2014 ... it\u2019s where the... mourning sons raise meat.\u201d",
+    "author": "Jim Bernhard,",
+    "authorCell": [
+        6,
+        21,
+        113,
+        165,
+        124,
+        172,
+        37,
+        142,
+        54,
+        30,
+        112,
+        59,
+        29,
+        137,
+        144,
+        56,
+        27,
+        97,
+        121,
+        28,
+        53
+    ],
+    "source": "Words Gone Wild",
+    "clues": {
+        "A": {
+            "cells": [
+                6,
+                133,
+                63,
+                34,
+                116,
+                103,
+                170
+            ],
+            "answer": "Broncos",
+            "hint": "Losers of Super Bowl XLVIII to the Seahawks"
+        },
+        "B": {
+            "cells": [
+                21,
+                46,
+                134,
+                60,
+                87,
+                171,
+                156,
+                111,
+                35,
+                4
+            ],
+            "answer": "Eastertide",
+            "hint": "50-day period ending on Whitsunday"
+        },
+        "C": {
+            "cells": [
+                113,
+                131,
+                88,
+                9,
+                152,
+                176
+            ],
+            "answer": "Rhythm",
+            "hint": "\u201cSomething you either have or don\u2019t have, but when you have it, you have it all over,\u201d per Elvis"
+        },
+        "D": {
+            "cells": [
+                165,
+                141,
+                98,
+                36,
+                12,
+                51,
+                119,
+                83,
+                68
+            ],
+            "answer": "New France",
+            "hint": "Viceroyalty once under Cardinal Richelieu (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                124,
+                161,
+                67,
+                101,
+                139,
+                39,
+                24,
+                52
+            ],
+            "answer": "Huntsman",
+            "hint": "Evil Queen\u2019s subordinate in \u201cSnow White and the Seven Dwarfs\u201d"
+        },
+        "F": {
+            "cells": [
+                172,
+                31,
+                130,
+                79,
+                50,
+                150,
+                109,
+                8,
+                62,
+                94
+            ],
+            "answer": "Aftershock",
+            "hint": "What may follow an earth-shaking event"
+        },
+        "G": {
+            "cells": [
+                37,
+                73,
+                166,
+                2,
+                20,
+                93,
+                146,
+                127,
+                104
+            ],
+            "answer": "Right turn",
+            "hint": "Signification of a driver\u2019s outstretched arm bent upward at a 90° angle (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                142,
+                71,
+                110,
+                23,
+                85,
+                157,
+                3,
+                38,
+                55,
+                123
+            ],
+            "answer": "Deep Throat",
+            "hint": "Hal Holbrook\u2019s role in \u201cAll the President\u2019s Men\u201d (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                54,
+                100,
+                164,
+                32,
+                125,
+                18,
+                147
+            ],
+            "answer": "Wailers",
+            "hint": "Bunny\u2019s reggae bandmates"
+        },
+        "J": {
+            "cells": [
+                30,
+                10,
+                106,
+                64,
+                155,
+                140,
+                177,
+                80
+            ],
+            "answer": "Ohmmeter",
+            "hint": "Tool for gauging resistance"
+        },
+        "K": {
+            "cells": [
+                112,
+                48,
+                96,
+                159,
+                65,
+                77,
+                126,
+                22
+            ],
+            "answer": "Rhomboid",
+            "hint": "Relative of a diamond"
+        },
+        "L": {
+            "cells": [
+                59,
+                135,
+                153,
+                92,
+                168,
+                44,
+                108,
+                16
+            ],
+            "answer": "Due north",
+            "hint": "Heading toward Polaris (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                29,
+                151,
+                173,
+                115,
+                42,
+                70,
+                138,
+                7,
+                89
+            ],
+            "answer": "Swineherd",
+            "hint": "Odysseus\u2019 loyal servant Eumaeus, for one"
+        },
+        "N": {
+            "cells": [
+                137,
+                160,
+                15,
+                91,
+                76,
+                122,
+                178
+            ],
+            "answer": "Gondola",
+            "hint": "Compartment for blimp passengers"
+        },
+        "O": {
+            "cells": [
+                144,
+                118,
+                47,
+                174,
+                84,
+                14,
+                95,
+                158
+            ],
+            "answer": "Outshine",
+            "hint": "Eclipse in excellence"
+        },
+        "P": {
+            "cells": [
+                56,
+                19,
+                136,
+                41,
+                120,
+                102,
+                90,
+                72,
+                175
+            ],
+            "answer": "Nighttime",
+            "hint": "When one might be seeing stars"
+        },
+        "Q": {
+            "cells": [
+                27,
+                105,
+                162,
+                40,
+                86,
+                149,
+                129,
+                74,
+                58
+            ],
+            "answer": "Earth tone",
+            "hint": "Umber, ocher or terra cotta (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                97,
+                117,
+                148,
+                69,
+                11,
+                45,
+                81,
+                26,
+                132
+            ],
+            "answer": "Whiteface",
+            "hint": "Hereford cow by a more descriptive name"
+        },
+        "S": {
+            "cells": [
+                121,
+                82,
+                145,
+                61,
+                99,
+                5,
+                25,
+                49,
+                163,
+                179
+            ],
+            "answer": "Incoherent",
+            "hint": "Illogical; hard to understand"
+        },
+        "T": {
+            "cells": [
+                28,
+                107,
+                143,
+                57,
+                43,
+                167,
+                75,
+                13
+            ],
+            "answer": "Leftists",
+            "hint": "Republicans, in the French Revolution"
+        },
+        "U": {
+            "cells": [
+                53,
+                17,
+                114,
+                78,
+                128,
+                33,
+                154,
+                1,
+                66,
+                169
+            ],
+            "answer": "Dean Martin",
+            "hint": "Portrayer of Dude in \u201cRio Bravo\u201d (2 wds.)"
+        }
+    }
+}

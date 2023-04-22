@@ -1,0 +1,346 @@
+{
+    "answer": "There is no such thing in the world as an ugly tree, but the magnolia grandiflora has a unique perfection. No matter how... thickly holly and live oak and sweet gum may grow up around it, it develops with complete symmetry... .",
+    "author": "(Marjorie Kinnan) Rawlings,",
+    "authorCell": [
+        140,
+        117,
+        136,
+        106,
+        99,
+        58,
+        18,
+        122,
+        82,
+        160,
+        150,
+        171,
+        31,
+        127,
+        32,
+        87,
+        102,
+        83,
+        57,
+        21,
+        26,
+        124,
+        166
+    ],
+    "source": "The Magnolia Tree",
+    "clues": {
+        "A": {
+            "cells": [
+                140,
+                109,
+                88,
+                158,
+                61,
+                36
+            ],
+            "answer": "Ramify",
+            "hint": "Split into branches"
+        },
+        "B": {
+            "cells": [
+                117,
+                74,
+                28,
+                11,
+                41,
+                162,
+                143
+            ],
+            "answer": "Audubon",
+            "hint": "Artist with a zoo in New Orleans named for him"
+        },
+        "C": {
+            "cells": [
+                136,
+                113,
+                149,
+                44,
+                2,
+                96,
+                72,
+                169,
+                23
+            ],
+            "answer": "Widthwise",
+            "hint": "Across, from side to side"
+        },
+        "D": {
+            "cells": [
+                106,
+                9,
+                24,
+                165,
+                131,
+                85,
+                59
+            ],
+            "answer": "Lowland",
+            "hint": "Habitat for most gorillas"
+        },
+        "E": {
+            "cells": [
+                99,
+                84,
+                172,
+                51,
+                126,
+                66
+            ],
+            "answer": "Io moth",
+            "hint": "Insect marked with large ocellar spots (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                58,
+                75,
+                159,
+                123,
+                25,
+                38,
+                101
+            ],
+            "answer": "Network",
+            "hint": "Cultivate useful connections"
+        },
+        "G": {
+            "cells": [
+                18,
+                69,
+                153,
+                33,
+                47,
+                138,
+                94
+            ],
+            "answer": "Galumph",
+            "hint": "Move in a loud, clumsy way"
+        },
+        "H": {
+            "cells": [
+                122,
+                146,
+                42,
+                167,
+                97,
+                80,
+                64
+            ],
+            "answer": "Stutter",
+            "hint": "Sound or appear jerky, as audio or video"
+        },
+        "I": {
+            "cells": [
+                82,
+                157,
+                53,
+                10,
+                37,
+                103
+            ],
+            "answer": "Twisty",
+            "hint": "Convoluted, tortuous"
+        },
+        "J": {
+            "cells": [
+                160,
+                39,
+                86,
+                56,
+                132,
+                114
+            ],
+            "answer": "Henry V",
+            "hint": "Play with soldiers in France (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                150,
+                107,
+                92,
+                133,
+                48,
+                71,
+                14
+            ],
+            "answer": "Elegant",
+            "hint": "Sophisticated yet simple"
+        },
+        "L": {
+            "cells": [
+                171,
+                89,
+                17,
+                34,
+                134,
+                63,
+                151,
+                115
+            ],
+            "answer": "Mangrove",
+            "hint": "Tangly growth in a tropical coastal swamp"
+        },
+        "M": {
+            "cells": [
+                31,
+                90,
+                130,
+                105,
+                68,
+                155,
+                15,
+                46,
+                175,
+                3
+            ],
+            "answer": "Atmosphere",
+            "hint": "Character, mood, environment"
+        },
+        "N": {
+            "cells": [
+                127,
+                95,
+                62,
+                111,
+                79,
+                145,
+                8,
+                161,
+                22
+            ],
+            "answer": "Goldfinch",
+            "hint": "Bird whose male is vibrant yellow in the summer and olive-colored in the winter"
+        },
+        "O": {
+            "cells": [
+                32,
+                67,
+                1,
+                137,
+                93,
+                152,
+                45,
+                19,
+                118,
+                173
+            ],
+            "answer": "Nature hike",
+            "hint": "Camp outing for scouts (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                87,
+                35,
+                147,
+                55,
+                116,
+                100,
+                5,
+                20,
+                168
+            ],
+            "answer": "Oligocene",
+            "hint": "Epoch of global ice expansion"
+        },
+        "Q": {
+            "cells": [
+                102,
+                70,
+                148,
+                125,
+                50,
+                16,
+                30,
+                174
+            ],
+            "answer": "Lutenist",
+            "hint": "Player in an early music ensemble"
+        },
+        "R": {
+            "cells": [
+                83,
+                12,
+                98,
+                120,
+                135,
+                27,
+                154,
+                49,
+                170
+            ],
+            "answer": "Ichnology",
+            "hint": "Study of fossil tracks, burrows and the like"
+        },
+        "S": {
+            "cells": [
+                57,
+                163,
+                76,
+                104,
+                141,
+                4,
+                119
+            ],
+            "answer": "Amphora",
+            "hint": "Ancient shipping container with a rounded shape"
+        },
+        "T": {
+            "cells": [
+                21,
+                128,
+                110,
+                60,
+                81,
+                156
+            ],
+            "answer": "Tunics",
+            "hint": "Long tops to wear with leggings"
+        },
+        "U": {
+            "cells": [
+                26,
+                40,
+                144,
+                129,
+                54,
+                164,
+                112,
+                77,
+                7
+            ],
+            "answer": "Red maples",
+            "hint": "Attractions for leaf peepers (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                124,
+                73,
+                142,
+                29,
+                52,
+                6,
+                91,
+                176
+            ],
+            "answer": "Equality",
+            "hint": "Civil rights objective"
+        },
+        "W": {
+            "cells": [
+                166,
+                65,
+                78,
+                43,
+                13,
+                121,
+                139,
+                108
+            ],
+            "answer": "Earth Day",
+            "hint": "Annual event with a green theme (2 wds.)"
+        }
+    }
+}

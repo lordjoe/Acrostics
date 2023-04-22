@@ -1,0 +1,337 @@
+{
+    "answer": "No wild frenzy of feeding distinguishes the... summer. But for the sudden movements of charging wolves and bolting caribou, the gambols of muskox calves,\u2026 the swoop of a jaeger, the Arctic is a long, unbroken bow of time.",
+    "author": "Barry Lopez,",
+    "authorCell": [
+        44,
+        137,
+        96,
+        8,
+        12,
+        80,
+        133,
+        132,
+        103,
+        11,
+        72,
+        161,
+        70,
+        101,
+        23,
+        94,
+        56,
+        43,
+        62,
+        84,
+        113,
+        24
+    ],
+    "source": "Arctic Dreams",
+    "clues": {
+        "A": {
+            "cells": [
+                44,
+                54,
+                77,
+                21,
+                172,
+                10,
+                93
+            ],
+            "answer": "Bugging",
+            "hint": "One method of surveillance"
+        },
+        "B": {
+            "cells": [
+                137,
+                22,
+                145,
+                63,
+                98,
+                57,
+                6,
+                82
+            ],
+            "answer": "Adam Bede",
+            "hint": "George Eliot\u2019s village carpenter (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                96,
+                153,
+                122,
+                17
+            ],
+            "answer": "Rave",
+            "hint": "Wild party with raucous music"
+        },
+        "D": {
+            "cells": [
+                8,
+                29,
+                160,
+                64,
+                89,
+                107,
+                79,
+                129,
+                115
+            ],
+            "answer": "Rub Elbows",
+            "hint": "Mingle, associate (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                12,
+                144,
+                154,
+                35,
+                124,
+                75,
+                20
+            ],
+            "answer": "Yeltsin",
+            "hint": "Leader who called Communism \u201cpie in the sky\u201d"
+        },
+        "F": {
+            "cells": [
+                80,
+                135,
+                119,
+                174,
+                3,
+                97,
+                156,
+                28
+            ],
+            "answer": "Lacewing",
+            "hint": "Insect beneficial to gardeners"
+        },
+        "G": {
+            "cells": [
+                133,
+                15,
+                7,
+                25,
+                71,
+                123,
+                150,
+                158,
+                47,
+                112
+            ],
+            "answer": "Off",
+            "hint": "Not prepared (hyph.)"
+        },
+        "H": {
+            "cells": [
+                132,
+                141,
+                108,
+                163,
+                2,
+                170,
+                26,
+                42,
+                61
+            ],
+            "answer": "Prokofiev",
+            "hint": "\u201cPeter and the Wolf\u201d composer"
+        },
+        "I": {
+            "cells": [
+                103,
+                40,
+                48,
+                66,
+                4,
+                147,
+                169,
+                58
+            ],
+            "answer": "Emoticon",
+            "hint": "On-line symbol read sideways, such as ;-)"
+        },
+        "J": {
+            "cells": [
+                11,
+                30,
+                74,
+                104,
+                114,
+                146,
+                95,
+                46
+            ],
+            "answer": "Ziggurat",
+            "hint": "Sacred edifice of the Sumerians"
+        },
+        "K": {
+            "cells": [
+                72,
+                87,
+                34,
+                130,
+                121,
+                81,
+                140,
+                18
+            ],
+            "answer": "Absolved",
+            "hint": "Cleared, as from blame or duty"
+        },
+        "L": {
+            "cells": [
+                161,
+                33,
+                134,
+                45,
+                67,
+                16,
+                76,
+                91,
+                116
+            ],
+            "answer": "Refusenik",
+            "hint": "Would-be emigre from the former Soviet Union"
+        },
+        "M": {
+            "cells": [
+                70,
+                49,
+                105,
+                14,
+                90,
+                31,
+                59,
+                120,
+                159
+            ],
+            "answer": "Craftsman",
+            "hint": "Style of bungalow designed by Gustav Stickley"
+        },
+        "N": {
+            "cells": [
+                101,
+                78,
+                167,
+                152,
+                60,
+                41,
+                127
+            ],
+            "answer": "Twosome",
+            "hint": "Pair"
+        },
+        "O": {
+            "cells": [
+                23,
+                65,
+                171,
+                126,
+                9,
+                106,
+                162,
+                88,
+                55
+            ],
+            "answer": "\u201cIn the Mood\u201d",
+            "hint": "Chart-topping hit for 12 weeks in 1940 (3 wds.)"
+        },
+        "P": {
+            "cells": [
+                94,
+                5,
+                37,
+                69,
+                142
+            ],
+            "answer": "Cleft",
+            "hint": "Split, like some hooves"
+        },
+        "Q": {
+            "cells": [
+                56,
+                111,
+                139,
+                168,
+                155,
+                68,
+                86
+            ],
+            "answer": "Dogwood",
+            "hint": "State flower of North Carolina"
+        },
+        "R": {
+            "cells": [
+                43,
+                100,
+                83,
+                51,
+                19,
+                1,
+                157
+            ],
+            "answer": "Rushing",
+            "hint": "Walter Payton\u2019s forte"
+        },
+        "S": {
+            "cells": [
+                62,
+                109,
+                148,
+                99,
+                27,
+                136,
+                117,
+                36,
+                165
+            ],
+            "answer": "Elton John",
+            "hint": "Songwriter for \u201cThe Lion King\u201d (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                84,
+                166,
+                38,
+                151,
+                92,
+                125,
+                32,
+                52
+            ],
+            "answer": "Absinthe",
+            "hint": "Liqueur banned in France in 1915"
+        },
+        "U": {
+            "cells": [
+                113,
+                39,
+                53,
+                143,
+                73,
+                131,
+                13,
+                173
+            ],
+            "answer": "Mushroom",
+            "hint": "Chanterelle or boletus"
+        },
+        "V": {
+            "cells": [
+                24,
+                149,
+                118,
+                50,
+                102,
+                110,
+                164,
+                85,
+                128,
+                138
+            ],
+            "answer": "Sixth sense",
+            "hint": "Intuitive faculty (2 wds.)"
+        }
+    }
+}

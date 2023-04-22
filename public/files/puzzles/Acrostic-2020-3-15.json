@@ -1,0 +1,335 @@
+{
+    "answer": "[A] person traveling by bicycle feels an antipathy towards cars, yet once inside a car can immediately become irritated by cyclists, and as a pedestrian could dislike them both, sometimes all in the course of a single day.",
+    "author": "(Rachel) Cusk,",
+    "authorCell": [
+        125,
+        164,
+        52,
+        135,
+        64,
+        165,
+        36,
+        11,
+        131,
+        34,
+        174,
+        31,
+        145,
+        151,
+        54,
+        94,
+        38,
+        37,
+        138,
+        163,
+        91
+    ],
+    "source": "Driving as Metaphor",
+    "clues": {
+        "A": {
+            "cells": [
+                125,
+                112,
+                84,
+                162,
+                10,
+                24,
+                175,
+                56,
+                44,
+                71,
+                100
+            ],
+            "answer": "Cab Calloway",
+            "hint": "Jazz bandleader who sang \u201cHi-de-ho\u201d (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                164,
+                15,
+                118,
+                33,
+                69,
+                55,
+                144,
+                82,
+                102
+            ],
+            "answer": "Unearthly",
+            "hint": "Weird, eerie, preternatural"
+        },
+        "C": {
+            "cells": [
+                52,
+                156,
+                65,
+                136,
+                2,
+                83,
+                40,
+                27,
+                109,
+                177
+            ],
+            "answer": "Sleepyhead",
+            "hint": "One in a state of torpor"
+        },
+        "D": {
+            "cells": [
+                135,
+                154,
+                8,
+                22,
+                47,
+                63,
+                77,
+                108
+            ],
+            "answer": "Katydids",
+            "hint": "Insects also called bush crickets"
+        },
+        "E": {
+            "cells": [
+                64,
+                93,
+                113,
+                17,
+                139,
+                128,
+                157,
+                81,
+                169
+            ],
+            "answer": "Disbelief",
+            "hint": "State in which one\u2019s jaw might hang open"
+        },
+        "F": {
+            "cells": [
+                165,
+                89,
+                178,
+                104,
+                147,
+                23,
+                58,
+                126,
+                41
+            ],
+            "answer": "Real McCoy",
+            "hint": "Genuine article (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                36,
+                101,
+                25,
+                155,
+                68,
+                57,
+                129,
+                14,
+                86
+            ],
+            "answer": "Icelandic",
+            "hint": "Language in which \u201cExcuse me\u201d is \u201cFyrirgefðu\u201d"
+        },
+        "H": {
+            "cells": [
+                11,
+                95,
+                133,
+                150,
+                170,
+                32,
+                120
+            ],
+            "answer": "Valiant",
+            "hint": "Fictional prince with the Singing Sword"
+        },
+        "I": {
+            "cells": [
+                131,
+                61,
+                26,
+                97,
+                9,
+                76,
+                110,
+                49,
+                161
+            ],
+            "answer": "Inference",
+            "hint": "Conclusion based on known evidence"
+        },
+        "J": {
+            "cells": [
+                34,
+                60,
+                72,
+                12,
+                107,
+                122,
+                148,
+                166
+            ],
+            "answer": "Nineties",
+            "hint": "Decade in which the Ford Focus, Toyota Prius and Dodge Durango were introduced"
+        },
+        "K": {
+            "cells": [
+                174,
+                146,
+                29,
+                130,
+                85,
+                7
+            ],
+            "answer": "Golden",
+            "hint": "Favorable indeed, as an opportunity"
+        },
+        "L": {
+            "cells": [
+                31,
+                127,
+                159,
+                142,
+                74,
+                1,
+                42,
+                90,
+                103
+            ],
+            "answer": "Automatic",
+            "hint": "Instinctive, spontaneous, knee-jerk"
+        },
+        "M": {
+            "cells": [
+                145,
+                35,
+                79,
+                158,
+                117,
+                66,
+                51,
+                98
+            ],
+            "answer": "Standard",
+            "hint": "Banner serving as an emblem"
+        },
+        "N": {
+            "cells": [
+                151,
+                168,
+                39,
+                6,
+                92,
+                21,
+                73,
+                137,
+                53
+            ],
+            "answer": "Motor City",
+            "hint": "Epithet of a Midwestern industrial hub (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                54,
+                140,
+                172,
+                30,
+                106,
+                78,
+                43,
+                124,
+                5
+            ],
+            "answer": "Emissions",
+            "hint": "Air pollution concerns"
+        },
+        "P": {
+            "cells": [
+                94,
+                134,
+                16,
+                28,
+                121,
+                153
+            ],
+            "answer": "Tigers",
+            "hint": "Losers to the Giants in the 2012 World Series"
+        },
+        "Q": {
+            "cells": [
+                38,
+                19,
+                141,
+                167,
+                179,
+                4,
+                87,
+                123,
+                111
+            ],
+            "answer": "\"Abbey Road\"",
+            "hint": "1969 album whose cover shows a zebra crossing (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                37,
+                176,
+                143,
+                96,
+                18,
+                70,
+                50,
+                119,
+                160
+            ],
+            "answer": "Petty cash",
+            "hint": "Money on hand for minor expenses (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                138,
+                20,
+                115,
+                62,
+                149,
+                3,
+                46,
+                105,
+                171,
+                88
+            ],
+            "answer": "Hipsterism",
+            "hint": "Trendy lifestyle not conforming to conventional tastes"
+        },
+        "T": {
+            "cells": [
+                163,
+                99,
+                132,
+                80,
+                114,
+                67,
+                13,
+                152,
+                48
+            ],
+            "answer": "Obstacles",
+            "hint": "Roadblocks"
+        },
+        "U": {
+            "cells": [
+                91,
+                116,
+                173,
+                45,
+                75,
+                59
+            ],
+            "answer": "Rename",
+            "hint": "Put a new handle on"
+        }
+    }
+}

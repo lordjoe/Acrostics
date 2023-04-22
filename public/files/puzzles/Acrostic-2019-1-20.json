@@ -1,0 +1,365 @@
+{
+    "answer": "The exquisite cutouts of Matisse and elegant line drawings of Picasso came late in long careers of painstaking work and wild experimentation. In writing as in painting, simplicity often follows considerable torment.",
+    "author": "Constance Hale,",
+    "authorCell": [
+        74,
+        16,
+        92,
+        19,
+        38,
+        129,
+        127,
+        163,
+        34,
+        2,
+        29,
+        145,
+        108,
+        87,
+        138,
+        41,
+        36,
+        132,
+        104,
+        50,
+        150,
+        86,
+        175,
+        115,
+        106
+    ],
+    "source": "Sin and Syntax",
+    "clues": {
+        "A": {
+            "cells": [
+                74,
+                176,
+                101,
+                159,
+                142,
+                121,
+                49
+            ],
+            "answer": "Cowling",
+            "hint": "Metal protector of an aircraft engine"
+        },
+        "B": {
+            "cells": [
+                16,
+                109,
+                128,
+                61,
+                180,
+                40,
+                162,
+                143
+            ],
+            "answer": "Organism",
+            "hint": "Amoeba or you, e.g."
+        },
+        "C": {
+            "cells": [
+                92,
+                105,
+                171,
+                44,
+                22,
+                124,
+                141,
+                80
+            ],
+            "answer": "Near miss",
+            "hint": "Crash that almost was (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                19,
+                136,
+                47,
+                152,
+                82,
+                33,
+                169,
+                58
+            ],
+            "answer": "Sniffles",
+            "hint": "Sign of an oncoming cold"
+        },
+        "E": {
+            "cells": [
+                38,
+                91,
+                53,
+                137,
+                160,
+                78,
+                26
+            ],
+            "answer": "Tiptoes",
+            "hint": "Attempts not to be heard moving"
+        },
+        "F": {
+            "cells": [
+                129,
+                96,
+                15,
+                110,
+                52,
+                167,
+                147,
+                67
+            ],
+            "answer": "Artifice",
+            "hint": "Trick, stratagem, ingenuity"
+        },
+        "G": {
+            "cells": [
+                127,
+                54,
+                140,
+                93,
+                70,
+                8,
+                165,
+                35
+            ],
+            "answer": "Niggling",
+            "hint": "Bothersome in a petty way"
+        },
+        "H": {
+            "cells": [
+                163,
+                151,
+                17,
+                107,
+                64,
+                3,
+                88
+            ],
+            "answer": "Couplet",
+            "hint": "Form employed by Edna St. Vincent Millay"
+        },
+        "I": {
+            "cells": [
+                34,
+                100,
+                85,
+                114,
+                10,
+                51,
+                139
+            ],
+            "answer": "Edition",
+            "hint": "Concern to a bibliophile"
+        },
+        "J": {
+            "cells": [
+                2,
+                59,
+                71,
+                168,
+                46,
+                131,
+                119,
+                97
+            ],
+            "answer": "Hoodwink",
+            "hint": "Put one over on"
+        },
+        "K": {
+            "cells": [
+                29,
+                158,
+                103,
+                122,
+                179,
+                66
+            ],
+            "answer": "All wet",
+            "hint": "Completely wrong (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                145,
+                14,
+                90,
+                28,
+                161,
+                75,
+                123,
+                111
+            ],
+            "answer": "Lukewarm",
+            "hint": "Neither raving nor panning"
+        },
+        "M": {
+            "cells": [
+                108,
+                83,
+                68,
+                9,
+                149,
+                173,
+                32,
+                130
+            ],
+            "answer": "Epistles",
+            "hint": "Some New Testament texts"
+        },
+        "N": {
+            "cells": [
+                87,
+                154,
+                27,
+                65,
+                178,
+                112
+            ],
+            "answer": "Sesame",
+            "hint": "Word said to precede some openings"
+        },
+        "O": {
+            "cells": [
+                138,
+                37,
+                174,
+                5,
+                98,
+                55,
+                116
+            ],
+            "answer": "Inexact",
+            "hint": "Not quite on the button"
+        },
+        "P": {
+            "cells": [
+                41,
+                120,
+                89,
+                13,
+                135,
+                155
+            ],
+            "answer": "Niacin",
+            "hint": "Essential B vitamin"
+        },
+        "Q": {
+            "cells": [
+                36,
+                73,
+                117,
+                153,
+                56,
+                24,
+                4
+            ],
+            "answer": "Agitate",
+            "hint": "Protest or otherwise arouse public feeling on an issue"
+        },
+        "R": {
+            "cells": [
+                132,
+                148,
+                39,
+                57,
+                166,
+                20,
+                72
+            ],
+            "answer": "Nilsson",
+            "hint": "Harry ____, singer of the 1969 hit \u201cEverybody\u2019s Talkin\u2019\u201d"
+        },
+        "S": {
+            "cells": [
+                104,
+                164,
+                94,
+                69,
+                144,
+                45,
+                18
+            ],
+            "answer": "Down pat",
+            "hint": "Mastered (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                50,
+                181,
+                77,
+                133,
+                118,
+                156,
+                21
+            ],
+            "answer": "Step off",
+            "hint": "Disembark from (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                150,
+                63,
+                23,
+                177,
+                76,
+                95,
+                7,
+                113,
+                43
+            ],
+            "answer": "Year-round",
+            "hint": "For all seasons (hyph.)"
+        },
+        "V": {
+            "cells": [
+                86,
+                126,
+                60,
+                157,
+                1,
+                102,
+                30,
+                42
+            ],
+            "answer": "Nicotine",
+            "hint": "Addictive substance administered through small tubes"
+        },
+        "W": {
+            "cells": [
+                175,
+                79,
+                134,
+                48,
+                6
+            ],
+            "answer": "Tranq",
+            "hint": "Sedative, for short"
+        },
+        "X": {
+            "cells": [
+                115,
+                62,
+                172,
+                25,
+                11,
+                146,
+                81,
+                99
+            ],
+            "answer": "Ambition",
+            "hint": "Driver of many successful people"
+        },
+        "Y": {
+            "cells": [
+                106,
+                170,
+                84,
+                125,
+                12,
+                31
+            ],
+            "answer": "X-rated",
+            "hint": "Too blue for some eyes (hyph.)"
+        }
+    }
+}

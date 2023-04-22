@@ -1,0 +1,341 @@
+{
+    "answer": "It was common for... advanced races in pulp illustrations to sport capes, tights, and exterior underpants, as if foremost among the natural consequences of millennia of peace... would be a vogue for knee-length boots on men.",
+    "author": "Grant Morrison,",
+    "authorCell": [
+        166,
+        40,
+        82,
+        77,
+        39,
+        9,
+        48,
+        75,
+        72,
+        43,
+        64,
+        95,
+        133,
+        124,
+        145,
+        81,
+        131,
+        14,
+        61,
+        170,
+        147,
+        58
+    ],
+    "source": "Supergods",
+    "clues": {
+        "A": {
+            "cells": [
+                166,
+                98,
+                83,
+                153,
+                36,
+                65,
+                132,
+                16
+            ],
+            "answer": "Gangland",
+            "hint": "The world of organized crime"
+        },
+        "B": {
+            "cells": [
+                40,
+                93,
+                56,
+                23,
+                7,
+                148,
+                107,
+                167,
+                68
+            ],
+            "answer": "Reprobate",
+            "hint": "One whose morals inspire contempt"
+        },
+        "C": {
+            "cells": [
+                82,
+                38,
+                96,
+                171,
+                11,
+                140,
+                106,
+                59
+            ],
+            "answer": "Assonant",
+            "hint": "Like the vowel sounds in \u201cFlash has flat abs\u201d"
+        },
+        "D": {
+            "cells": [
+                77,
+                105,
+                90,
+                41,
+                52,
+                134,
+                174,
+                154,
+                116
+            ],
+            "answer": "Nefarious",
+            "hint": "Earning infamy through sheer wickedness"
+        },
+        "E": {
+            "cells": [
+                39,
+                143,
+                10,
+                156,
+                111,
+                25,
+                57
+            ],
+            "answer": "Two-Face",
+            "hint": "One of Batman\u2019s foes (hyph.)"
+        },
+        "F": {
+            "cells": [
+                9,
+                34,
+                129,
+                118,
+                76,
+                21,
+                63,
+                51,
+                150,
+                173,
+                103
+            ],
+            "answer": "Milquetoast",
+            "hint": "Type of fellow like Clark Kent"
+        },
+        "G": {
+            "cells": [
+                48,
+                169,
+                32,
+                88,
+                151,
+                128,
+                74,
+                101
+            ],
+            "answer": "Oblivion",
+            "hint": "Opposite of fame"
+        },
+        "H": {
+            "cells": [
+                75,
+                15,
+                138,
+                108,
+                37,
+                92,
+                161
+            ],
+            "answer": "Rapture",
+            "hint": "Manifestation of pure ecstasy"
+        },
+        "I": {
+            "cells": [
+                72,
+                26,
+                176,
+                144,
+                42,
+                117
+            ],
+            "answer": "Remote",
+            "hint": "Means of station-to-station transfer"
+        },
+        "J": {
+            "cells": [
+                43,
+                160,
+                141,
+                13,
+                27,
+                172,
+                119,
+                127,
+                79
+            ],
+            "answer": "In costume",
+            "hint": "How Spider-Man appears (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                64,
+                18,
+                89,
+                142,
+                110,
+                125,
+                157,
+                8
+            ],
+            "answer": "Safe room",
+            "hint": "Where you may hide from storms or robbers (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                95,
+                19,
+                47,
+                168,
+                155,
+                5,
+                33,
+                114,
+                84
+            ],
+            "answer": "On the spot",
+            "hint": "Under pressure; present (3 wds.)"
+        },
+        "M": {
+            "cells": [
+                133,
+                91,
+                3,
+                44,
+                175,
+                67,
+                162,
+                80
+            ],
+            "answer": "No wonder",
+            "hint": "\u201cWell, that explains the mystery\u201d (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                124,
+                30,
+                60,
+                137,
+                12,
+                164,
+                78,
+                109,
+                50
+            ],
+            "answer": "Spiffed up",
+            "hint": "Made more stylish, dressed to the nines (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                145,
+                115,
+                85,
+                104,
+                4,
+                54,
+                159,
+                35,
+                177,
+                22
+            ],
+            "answer": "Unshackled",
+            "hint": "Set free from restraint"
+        },
+        "P": {
+            "cells": [
+                81,
+                120,
+                178,
+                29,
+                55,
+                66,
+                2
+            ],
+            "answer": "Pennant",
+            "hint": "Kind of race engaged in by Giants"
+        },
+        "Q": {
+            "cells": [
+                131,
+                113,
+                62,
+                152
+            ],
+            "answer": "Echo",
+            "hint": "Result of returning waves"
+        },
+        "R": {
+            "cells": [
+                14,
+                100,
+                69,
+                135,
+                45,
+                121,
+                149
+            ],
+            "answer": "\u201cRoxanne\u201d",
+            "hint": "First Top 40 hit for the Police"
+        },
+        "S": {
+            "cells": [
+                61,
+                24,
+                165,
+                102,
+                123,
+                46
+            ],
+            "answer": "Ganges",
+            "hint": "Water that rises in the Himalayas"
+        },
+        "T": {
+            "cells": [
+                170,
+                31,
+                70,
+                126,
+                1,
+                97,
+                53,
+                139,
+                158,
+                87
+            ],
+            "answer": "Outfitters",
+            "hint": "Those who supply uniforms and gear"
+        },
+        "U": {
+            "cells": [
+                147,
+                6,
+                20,
+                136,
+                94,
+                73,
+                122,
+                49
+            ],
+            "answer": "DC Comics",
+            "hint": "Publisher of the Justice League\u2019s exploits (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                58,
+                99,
+                86,
+                146,
+                130,
+                17,
+                28,
+                112,
+                163,
+                71
+            ],
+            "answer": "Smallville",
+            "hint": "Hometown of Lana Lang"
+        }
+    }
+}

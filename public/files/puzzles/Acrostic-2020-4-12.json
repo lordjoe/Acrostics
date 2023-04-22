@@ -1,0 +1,322 @@
+{
+    "answer": "Writing and reading decrease our sense of isolation. ... It\u2019s like singing on a boat during a terrible storm at sea. You can\u2019t stop the... storm, but singing can change the... spirits of the people who are together on that ship.",
+    "author": "Anne Lamott,",
+    "authorCell": [
+        125,
+        122,
+        96,
+        145,
+        39,
+        121,
+        85,
+        83,
+        82,
+        169,
+        62,
+        3,
+        75,
+        66,
+        78,
+        91,
+        110,
+        56,
+        28,
+        14
+    ],
+    "source": "Bird by Bird",
+    "clues": {
+        "A": {
+            "cells": [
+                125,
+                113,
+                147,
+                53,
+                84,
+                8,
+                41,
+                162
+            ],
+            "answer": "Aspirate",
+            "hint": "Pronounce the beginning of \u201chair\u201d but not \u201cheir,\u201d say"
+        },
+        "B": {
+            "cells": [
+                122,
+                95,
+                163,
+                21,
+                61,
+                141,
+                77,
+                38,
+                6
+            ],
+            "answer": "Narration",
+            "hint": "The telling of a tale"
+        },
+        "C": {
+            "cells": [
+                96,
+                25,
+                137,
+                150,
+                80,
+                45,
+                119,
+                167,
+                65
+            ],
+            "answer": "Net weight",
+            "hint": "Calculation after accounting for tare (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                145,
+                168,
+                32,
+                102,
+                89,
+                76,
+                131,
+                17,
+                116,
+                47
+            ],
+            "answer": "Easter eggs",
+            "hint": "Hidden tracks on DVDs, e.g. (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                39,
+                92,
+                54,
+                19,
+                1,
+                157,
+                79,
+                140
+            ],
+            "answer": "Lone wolf",
+            "hint": "Independent sort, maverick (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                121,
+                144,
+                101,
+                11,
+                72,
+                172,
+                29,
+                51
+            ],
+            "answer": "Appraise",
+            "hint": "Do a pre-auction job"
+        },
+        "G": {
+            "cells": [
+                85,
+                49,
+                10,
+                64,
+                138,
+                156,
+                100,
+                27,
+                123,
+                171
+            ],
+            "answer": "Midas touch",
+            "hint": "Uncanny ability that can backfire (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                83,
+                111,
+                97,
+                129,
+                146,
+                48,
+                67,
+                31,
+                20,
+                161
+            ],
+            "answer": "Out to lunch",
+            "hint": "Absent-minded, clueless (3 wds.)"
+        },
+        "I": {
+            "cells": [
+                82,
+                63,
+                93,
+                127,
+                151,
+                46,
+                5,
+                109,
+                22,
+                170
+            ],
+            "answer": "Tough times",
+            "hint": "Periods of adversity (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                169,
+                59,
+                133,
+                35,
+                148,
+                15,
+                71,
+                103,
+                87
+            ],
+            "answer": "Top-flight",
+            "hint": "First-rate (hyph.)"
+        },
+        "K": {
+            "cells": [
+                62,
+                159,
+                86,
+                99,
+                128,
+                115,
+                173,
+                40,
+                4,
+                142
+            ],
+            "answer": "Beaten path",
+            "hint": "The road most taken (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                3,
+                57,
+                24,
+                166,
+                136,
+                73,
+                94,
+                124,
+                149,
+                37
+            ],
+            "answer": "In stitches",
+            "hint": "Doubled over with hilarity (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                75,
+                164,
+                153,
+                18,
+                52,
+                112,
+                33,
+                2
+            ],
+            "answer": "Roadster",
+            "hint": "Open-bodied car that seats two"
+        },
+        "N": {
+            "cells": [
+                66,
+                34,
+                158,
+                55,
+                107,
+                126,
+                12
+            ],
+            "answer": "Doggone",
+            "hint": "Dad-blasted"
+        },
+        "O": {
+            "cells": [
+                78,
+                13,
+                98,
+                143,
+                130,
+                114,
+                160
+            ],
+            "answer": "Base hit",
+            "hint": "Success for a leadoff batter (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                91,
+                104,
+                23,
+                154,
+                118,
+                69,
+                44,
+                58
+            ],
+            "answer": "Yearning",
+            "hint": "Deep itch"
+        },
+        "Q": {
+            "cells": [
+                110,
+                139,
+                26,
+                9,
+                42,
+                74,
+                88
+            ],
+            "answer": "Boonies",
+            "hint": "Thinly settled rural area, in slang"
+        },
+        "R": {
+            "cells": [
+                56,
+                16,
+                106,
+                30,
+                68,
+                117,
+                43,
+                135,
+                81
+            ],
+            "answer": "Interiors",
+            "hint": "Focuses of designers of home furnishings"
+        },
+        "S": {
+            "cells": [
+                28,
+                90,
+                60,
+                7,
+                155,
+                108,
+                132
+            ],
+            "answer": "Rangers",
+            "hint": "Law force with a base in Austin"
+        },
+        "T": {
+            "cells": [
+                14,
+                36,
+                120,
+                50,
+                134,
+                70,
+                105,
+                152,
+                165
+            ],
+            "answer": "Dickinson",
+            "hint": "Poet who wrote \u201c\u2019Hope\u2019 is the thing with feathers\u201d"
+        }
+    }
+}

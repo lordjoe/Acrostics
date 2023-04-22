@@ -1,0 +1,358 @@
+{
+    "answer": "I had driven through New Orleans on tour and I\u2019d been told my great grandfather lived \u2019way back up in the woods among the evergreens\u2019 in a log cabin. I revived the era with a story about a... boy named Johnny B. Goode.",
+    "author": "Chuck Berry,",
+    "authorCell": [
+        75,
+        82,
+        32,
+        113,
+        76,
+        115,
+        97,
+        102,
+        130,
+        72,
+        11,
+        95,
+        51,
+        147,
+        15,
+        126,
+        21,
+        39,
+        133,
+        164,
+        112,
+        55,
+        142,
+        78,
+        127,
+        48
+    ],
+    "source": "The Autobiography",
+    "clues": {
+        "A": {
+            "cells": [
+                75,
+                135,
+                60,
+                27,
+                104,
+                87
+            ],
+            "answer": "Chased",
+            "hint": "Like Maybellene in a 1955 song"
+        },
+        "B": {
+            "cells": [
+                82,
+                34,
+                118,
+                6,
+                69,
+                144
+            ],
+            "answer": "Hairdo",
+            "hint": "Configuration of locks"
+        },
+        "C": {
+            "cells": [
+                32,
+                159,
+                62,
+                114,
+                10,
+                46,
+                141
+            ],
+            "answer": "Unhandy",
+            "hint": "Not likely to star on a home-improvement show"
+        },
+        "D": {
+            "cells": [
+                113,
+                2,
+                25,
+                88,
+                43,
+                63
+            ],
+            "answer": "Chaste",
+            "hint": "Probably unlike Maybellene in that 1955 song"
+        },
+        "E": {
+            "cells": [
+                76,
+                145,
+                20,
+                131,
+                37,
+                94
+            ],
+            "answer": "Kuwait",
+            "hint": "Country notably reliant on desalination"
+        },
+        "F": {
+            "cells": [
+                115,
+                40,
+                129,
+                53,
+                12,
+                157,
+                67,
+                99,
+                26
+            ],
+            "answer": "Beethoven",
+            "hint": "Slobbering St. Bernard in a series of films"
+        },
+        "G": {
+            "cells": [
+                97,
+                117,
+                44,
+                77,
+                163,
+                17
+            ],
+            "answer": "Enough",
+            "hint": "Definition of \u201conce,\u201d per Ambrose Bierce"
+        },
+        "H": {
+            "cells": [
+                102,
+                9,
+                138,
+                119,
+                31,
+                57,
+                161,
+                90
+            ],
+            "answer": "Retronym",
+            "hint": "Acoustic guitar or film camera, for example"
+        },
+        "I": {
+            "cells": [
+                130,
+                109,
+                148,
+                162,
+                65,
+                24
+            ],
+            "answer": "Rabble",
+            "hint": "Common run of people"
+        },
+        "J": {
+            "cells": [
+                72,
+                41,
+                22,
+                128,
+                98,
+                3,
+                160
+            ],
+            "answer": "Yerevan",
+            "hint": "Capital and largest city of Armenia"
+        },
+        "K": {
+            "cells": [
+                11,
+                70,
+                83,
+                45,
+                121,
+                103
+            ],
+            "answer": "Twelve",
+            "hint": "Bar complement in a typical blues song"
+        },
+        "L": {
+            "cells": [
+                95,
+                71,
+                140,
+                111,
+                23,
+                5
+            ],
+            "answer": "Harold",
+            "hint": "King who lost the Battle of Hastings"
+        },
+        "M": {
+            "cells": [
+                51,
+                92,
+                155,
+                14,
+                132,
+                68,
+                36
+            ],
+            "answer": "Endowed",
+            "hint": "Bestowed with assets"
+        },
+        "N": {
+            "cells": [
+                147,
+                81,
+                107,
+                123,
+                56,
+                35
+            ],
+            "answer": "Ativan",
+            "hint": "Pharmaceutical answer to angst"
+        },
+        "O": {
+            "cells": [
+                15,
+                80,
+                125,
+                154,
+                33,
+                58,
+                139,
+                101
+            ],
+            "answer": "Underdog",
+            "hint": "Potential Cinderella team"
+        },
+        "P": {
+            "cells": [
+                126,
+                50,
+                7,
+                146,
+                86,
+                108
+            ],
+            "answer": "Triton",
+            "hint": "Sea god who trumpeted on a conch shell"
+        },
+        "Q": {
+            "cells": [
+                21,
+                4,
+                38,
+                156,
+                85,
+                143
+            ],
+            "answer": "Odd job",
+            "hint": "Inconsistent source of income (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                39,
+                153,
+                91,
+                8,
+                122,
+                167
+            ],
+            "answer": "B movie",
+            "hint": "Unlikely Oscar contender (hyph.)"
+        },
+        "S": {
+            "cells": [
+                133,
+                29,
+                59,
+                89,
+                47,
+                150
+            ],
+            "answer": "Infamy",
+            "hint": "Considerable shame or disrepute"
+        },
+        "T": {
+            "cells": [
+                164,
+                73,
+                110,
+                28,
+                42,
+                93
+            ],
+            "answer": "Oblong",
+            "hint": "Shape of a box in a Poe title"
+        },
+        "U": {
+            "cells": [
+                112,
+                13,
+                136,
+                151,
+                79,
+                61,
+                96
+            ],
+            "answer": "Granite",
+            "hint": "Rock"
+        },
+        "V": {
+            "cells": [
+                55,
+                165,
+                137,
+                30,
+                120,
+                100
+            ],
+            "answer": "Roster",
+            "hint": "Roll"
+        },
+        "W": {
+            "cells": [
+                142,
+                84,
+                124,
+                66,
+                49,
+                158
+            ],
+            "answer": "Aweigh",
+            "hint": "Like the anchors in Navy\u2019s official fight song"
+        },
+        "X": {
+            "cells": [
+                78,
+                116,
+                18,
+                152,
+                134,
+                52
+            ],
+            "answer": "Pinata",
+            "hint": "Taker of a yearly beating"
+        },
+        "Y": {
+            "cells": [
+                127,
+                74,
+                54,
+                16,
+                1,
+                106
+            ],
+            "answer": "Haggis",
+            "hint": "Meal it takes some guts to eat?"
+        },
+        "Z": {
+            "cells": [
+                48,
+                149,
+                105,
+                166,
+                19,
+                64
+            ],
+            "answer": "Yonder",
+            "hint": "Down the road a piece"
+        }
+    }
+}

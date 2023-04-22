@@ -25,6 +25,7 @@ export function isLetter(s: string): boolean {
 
 
 export class Puzzle {
+
     answer: string;
     author: string;
     book: string;
@@ -32,7 +33,7 @@ export class Puzzle {
     clues: Map<string,Clue>;
     source: number[];
 
-    date: Date;
+    dateX: Date = new Date();
 
 
     focused: AnswerCell | undefined;
@@ -50,8 +51,7 @@ export class Puzzle {
         this.answer = '';
         this.author = '';
         this.book = '';
-        this.date = new Date();
-          this.letters = [];
+           this.letters = [];
         let cluesx = new Map<string,Clue>();
         this.clues = cluesx;
         this.source = [];
@@ -198,14 +198,14 @@ export class Puzzle {
         return this.source;
     }
 
-    public addSourceCell(c: AnswerCell)  {
-        for (var i = 0; i < this.source.length; i++) {
-            var cell: number = this.source[i];
-            if(cell  === c.index)
-                alert("bad added cell " + c.index);
-        }
-        this.source.push(c.index);
-    }
+//     public addSourceCell(c: AnswerCell)  {
+//         for (var i = 0; i < this.source.length; i++) {
+//             var cell: number = this.source[i];
+// //            if(cell  === c.index)
+//   //              alert("bad added cell " + c.index);
+//         }
+//         this.source.push(c.index);
+//     }
 
     public getSourceString() : string {
         let ret: string = "";
@@ -264,9 +264,27 @@ export class Puzzle {
     getSourceCells() : AnswerCell[] {
         let ret: AnswerCell[] = [];
         let src: number[] = this.source;
-        for (let i = 0; i < src.length - 1; i++) {
+        for (let i = 0; i < src.length ; i++) {
              ret.push((this.getCell(src[i]) as AnswerCell));
          }
         return ret;
+    }
+
+    setDate(date: Date) {
+        this.dateX = date;
+    }
+
+    getDate() : Date  {
+        if(this.dateX)
+          return this.dateX;
+        else
+            return new Date();
+    }
+
+    getDateString() {
+        if(this.dateX)
+            return this.dateX.toDateString();
+        else
+            return new Date().toDateString();
     }
 }

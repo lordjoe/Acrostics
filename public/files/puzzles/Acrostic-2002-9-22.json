@@ -1,0 +1,315 @@
+{
+    "answer": "The bus is more than a form of transportation. It\u2018s a rolling dormitory, living room,... office, game room and movie theater. It\u2019s also a metaphor for the minor leagues.... [P]layers on the way up are delighted to get off the bus.",
+    "author": "Neal Conan,",
+    "authorCell": [
+        27,
+        125,
+        144,
+        45,
+        72,
+        19,
+        37,
+        26,
+        16,
+        147,
+        153,
+        104,
+        145,
+        171,
+        57,
+        29,
+        124,
+        93,
+        134
+    ],
+    "source": "Play By Play",
+    "clues": {
+        "A": {
+            "cells": [
+                27,
+                152,
+                108,
+                64,
+                130,
+                46,
+                162,
+                91,
+                140,
+                12,
+                84
+            ],
+            "answer": "Nearsighted",
+            "hint": "Deviating from emmetropia in one of two ways"
+        },
+        "B": {
+            "cells": [
+                125,
+                81,
+                70,
+                55,
+                31,
+                99,
+                168,
+                158,
+                20
+            ],
+            "answer": "E.M. Forster",
+            "hint": "Writer in the Bloomsbury group (3 wds.)"
+        },
+        "C": {
+            "cells": [
+                144,
+                166,
+                23,
+                120,
+                49,
+                100,
+                87,
+                38,
+                157
+            ],
+            "answer": "Affidavit",
+            "hint": "Anti-Communist requirement for union leaders under the Taft-Hartley Act"
+        },
+        "D": {
+            "cells": [
+                45,
+                68,
+                22,
+                9,
+                132,
+                82,
+                96,
+                155,
+                170
+            ],
+            "answer": "Loom large",
+            "hint": "Make an impressively portentous appearance (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                72,
+                169,
+                41,
+                58,
+                89,
+                32
+            ],
+            "answer": "Chalet",
+            "hint": "Home that usually has a view"
+        },
+        "F": {
+            "cells": [
+                19,
+                105,
+                121,
+                154,
+                60,
+                79,
+                136,
+                10,
+                172,
+                40
+            ],
+            "answer": "Omnivorous",
+            "hint": "Taking everything in"
+        },
+        "G": {
+            "cells": [
+                37,
+                95,
+                11,
+                80,
+                143,
+                114,
+                44,
+                167,
+                135
+            ],
+            "answer": "Nero Wolfe",
+            "hint": "Detective portrayed by Maury Chaykin on A&E (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                26,
+                76,
+                109,
+                14,
+                3,
+                94,
+                133,
+                119,
+                59,
+                47,
+                150
+            ],
+            "answer": "Amphetamine",
+            "hint": "Drug that causes the body to release epinephrine"
+        },
+        "I": {
+            "cells": [
+                16,
+                122,
+                51,
+                90,
+                156,
+                137,
+                107,
+                33,
+                78
+            ],
+            "answer": "\u201cNorth Star\u201d",
+            "hint": "Abolitionist paper edited by Frederick Douglass (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                147,
+                142,
+                71,
+                127,
+                62,
+                43,
+                97,
+                115
+            ],
+            "answer": "Peignoir",
+            "hint": "Dressing gown whose name means, literally, \u201ccomber\u201d"
+        },
+        "K": {
+            "cells": [
+                153,
+                35,
+                74,
+                117,
+                54,
+                131,
+                112,
+                66,
+                165,
+                18
+            ],
+            "answer": "Lightproof",
+            "hint": "Impenetrable in a way, as a film canister"
+        },
+        "L": {
+            "cells": [
+                104,
+                159,
+                126,
+                85,
+                8,
+                21,
+                53,
+                39,
+                141
+            ],
+            "answer": "Adam Smith",
+            "hint": "Scot who postulated the \u201cinvisible hand\u201d principle of economics (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                145,
+                161,
+                28,
+                77,
+                52,
+                7,
+                98,
+                118
+            ],
+            "answer": "Yosemite",
+            "hint": "One terminus of the John Muir Trail"
+        },
+        "N": {
+            "cells": [
+                171,
+                36,
+                56,
+                163,
+                151,
+                102,
+                1,
+                88,
+                69,
+                113
+            ],
+            "answer": "Bored stiff",
+            "hint": "Not the slightest bit interested (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                57,
+                86,
+                128,
+                160,
+                110,
+                2,
+                138,
+                173,
+                34,
+                73,
+                101
+            ],
+            "answer": "Youth hostel",
+            "hint": "Lodging option for students on vacation (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                29,
+                65,
+                106,
+                116,
+                148,
+                6,
+                13,
+                129,
+                42
+            ],
+            "answer": "Poetaster",
+            "hint": "Derogatory term for a writer of verse"
+        },
+        "Q": {
+            "cells": [
+                124,
+                17,
+                139,
+                63,
+                5,
+                30,
+                149
+            ],
+            "answer": "Languor",
+            "hint": "\u201cViolins of autumn pierce my heart with monotonous ___\u201d (Verlaine)"
+        },
+        "R": {
+            "cells": [
+                93,
+                146,
+                24,
+                111,
+                67,
+                15,
+                164,
+                50,
+                83
+            ],
+            "answer": "Automaton",
+            "hint": "Zombie or golem"
+        },
+        "S": {
+            "cells": [
+                134,
+                103,
+                48,
+                61,
+                4,
+                92,
+                25,
+                123,
+                75
+            ],
+            "answer": "Yogi Berra",
+            "hint": "Utterer of the line \u201cIt ain\u2019t over till it\u2019s over\u201d (2 wds.)"
+        }
+    }
+}

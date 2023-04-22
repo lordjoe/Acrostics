@@ -1,0 +1,339 @@
+{
+    "answer": "At the back of the Daylight Saving scheme, I detect the bony, blue-fingered hand of Puritanism, eager to push people into bed earlier, and get them up earlier, to make them healthy, wealthy, and wise in spite of themselves.",
+    "author": "(Robertson) Davies,",
+    "authorCell": [
+        153,
+        102,
+        25,
+        54,
+        138,
+        75,
+        176,
+        24,
+        76,
+        85,
+        52,
+        92,
+        136,
+        139,
+        81,
+        8,
+        13,
+        49,
+        16,
+        47,
+        131,
+        171
+    ],
+    "source": "(The Diary Of) Samuel Marchbanks",
+    "clues": {
+        "A": {
+            "cells": [
+                153,
+                97,
+                10,
+                117,
+                23,
+                42,
+                135,
+                58
+            ],
+            "answer": "Doomster",
+            "hint": "Pollyanna\u2019s opposite"
+        },
+        "B": {
+            "cells": [
+                102,
+                152,
+                5,
+                40,
+                64,
+                83,
+                167,
+                132
+            ],
+            "answer": "Anecdote",
+            "hint": "What in Greek is literally \u201cnot published\u201d"
+        },
+        "C": {
+            "cells": [
+                25,
+                145,
+                107,
+                170,
+                128,
+                68,
+                82,
+                43
+            ],
+            "answer": "Vermouth",
+            "hint": "Manhattan\u2019s minority constituent"
+        },
+        "D": {
+            "cells": [
+                54,
+                33,
+                91,
+                118,
+                69,
+                19,
+                133,
+                150
+            ],
+            "answer": "Impurity",
+            "hint": "Pollutant or polluted state"
+        },
+        "E": {
+            "cells": [
+                138,
+                160,
+                96,
+                26,
+                174,
+                72,
+                41,
+                57
+            ],
+            "answer": "Estivate",
+            "hint": "Be dormant in the summertime"
+        },
+        "F": {
+            "cells": [
+                75,
+                119,
+                51,
+                36,
+                154,
+                175,
+                98,
+                6
+            ],
+            "answer": "Spud Webb",
+            "hint": "Shortest man (5\u20197\") to win an N.B.A. slam-dunk contest (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                176,
+                101,
+                121,
+                86,
+                31,
+                157,
+                18,
+                140
+            ],
+            "answer": "Seashell",
+            "hint": "Piece in a conchologist\u2019s collection"
+        },
+        "H": {
+            "cells": [
+                24,
+                129,
+                45,
+                105,
+                2,
+                162,
+                90,
+                63
+            ],
+            "answer": "Ambition",
+            "hint": "\u201cA shadow\u2019s shadow,\u201d as Rosencrantz told Hamlet"
+        },
+        "I": {
+            "cells": [
+                76,
+                112,
+                130,
+                22,
+                149,
+                165,
+                46,
+                9
+            ],
+            "answer": "Meat hook",
+            "hint": "Ungentle handler, metaphorically (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                85,
+                159,
+                11,
+                103,
+                74,
+                120,
+                27,
+                60
+            ],
+            "answer": "Unfriend",
+            "hint": "Remove from a list of associates"
+        },
+        "K": {
+            "cells": [
+                52,
+                88,
+                70,
+                161,
+                134,
+                17,
+                113,
+                37
+            ],
+            "answer": "Epiphyte",
+            "hint": "Plant in a cloud forest such as an orchid or bromeliad"
+        },
+        "L": {
+            "cells": [
+                92,
+                172,
+                3,
+                21,
+                108,
+                126,
+                79,
+                48
+            ],
+            "answer": "Lethargy",
+            "hint": "Inclination to do nothing much"
+        },
+        "M": {
+            "cells": [
+                136,
+                99,
+                28,
+                78,
+                173,
+                158,
+                114,
+                61
+            ],
+            "answer": "Megalith",
+            "hint": "Unit for Stone Age construction workers"
+        },
+        "N": {
+            "cells": [
+                139,
+                12,
+                71,
+                151,
+                30,
+                115,
+                164,
+                100
+            ],
+            "answer": "Attached",
+            "hint": "Having a wall in common, as a house"
+        },
+        "O": {
+            "cells": [
+                81,
+                59,
+                29,
+                44,
+                141,
+                163,
+                104,
+                116
+            ],
+            "answer": "Resettle",
+            "hint": "Pick up and put down again"
+        },
+        "P": {
+            "cells": [
+                8,
+                87,
+                146,
+                73,
+                20,
+                35,
+                109,
+                56
+            ],
+            "answer": "Changing",
+            "hint": "Marked by vicissitudes"
+        },
+        "Q": {
+            "cells": [
+                13,
+                80,
+                94,
+                111,
+                142,
+                127,
+                39,
+                55
+            ],
+            "answer": "Heighten",
+            "hint": "Take to the next level"
+        },
+        "R": {
+            "cells": [
+                49,
+                93,
+                14,
+                166,
+                156,
+                38,
+                125,
+                144
+            ],
+            "answer": "Beef stew",
+            "hint": "Bowlful of hearty stuff (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                16,
+                147,
+                50,
+                1,
+                123,
+                65,
+                95,
+                77
+            ],
+            "answer": "All alone",
+            "hint": "With no one to talk to (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                47,
+                169,
+                62,
+                84,
+                148,
+                124,
+                110,
+                32
+            ],
+            "answer": "Neap tide",
+            "hint": "Part of a cycle at neither extreme (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                131,
+                7,
+                53,
+                66,
+                155,
+                143,
+                89,
+                168
+            ],
+            "answer": "Kaffiyeh",
+            "hint": "Head protector in a sandstorm"
+        },
+        "V": {
+            "cells": [
+                171,
+                137,
+                34,
+                67,
+                4,
+                106,
+                122,
+                15
+            ],
+            "answer": "Shepherd",
+            "hint": "Guardian often spotted with a crook"
+        }
+    }
+}

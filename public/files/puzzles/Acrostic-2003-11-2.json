@@ -1,0 +1,355 @@
+{
+    "answer": "Southern Louisiana exists in its present form because the Mississippi River has jumped here and there within an arc... two hundred miles wide, like a pianist playing with one hand, frequently... surging in new directions.",
+    "author": "(John) Mcphee,",
+    "authorCell": [
+        108,
+        97,
+        72,
+        143,
+        84,
+        142,
+        47,
+        75,
+        152,
+        173,
+        176,
+        153,
+        98,
+        38,
+        2,
+        110,
+        100,
+        147,
+        125,
+        121,
+        82,
+        151,
+        159,
+        149
+    ],
+    "source": "The Control Of Nature",
+    "clues": {
+        "A": {
+            "cells": [
+                108,
+                144,
+                69,
+                172,
+                52,
+                128,
+                24,
+                42
+            ],
+            "answer": "Majestic",
+            "hint": "Showing lofty dignity or nobility"
+        },
+        "B": {
+            "cells": [
+                97,
+                131,
+                34,
+                81,
+                155,
+                120
+            ],
+            "answer": "Candle",
+            "hint": "Symbol of a human life, to Macbeth in Act V"
+        },
+        "C": {
+            "cells": [
+                72,
+                60,
+                19,
+                126,
+                46,
+                161,
+                178,
+                139
+            ],
+            "answer": "Pixieish",
+            "hint": "As playful as a sprite"
+        },
+        "D": {
+            "cells": [
+                143,
+                133,
+                55,
+                1,
+                156,
+                36,
+                20,
+                89
+            ],
+            "answer": "Hissy fit",
+            "hint": "Tantrum (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                84,
+                145,
+                68,
+                175,
+                163,
+                8
+            ],
+            "answer": "Ensign",
+            "hint": "Colors flown by a ship to show its nationality"
+        },
+        "F": {
+            "cells": [
+                142,
+                95,
+                56,
+                27,
+                168,
+                88,
+                16,
+                107
+            ],
+            "answer": "East Wind",
+            "hint": "Eurus, in Greek mythology (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                47,
+                158,
+                65,
+                119,
+                137,
+                23,
+                101
+            ],
+            "answer": "Turkish",
+            "hint": "Like ancient Antioch, today"
+        },
+        "H": {
+            "cells": [
+                75,
+                91,
+                22,
+                109,
+                138,
+                40,
+                62,
+                160
+            ],
+            "answer": "Hit it big",
+            "hint": "Have a smashing success (3 wds.)"
+        },
+        "I": {
+            "cells": [
+                152,
+                67,
+                96,
+                174,
+                5,
+                136,
+                37,
+                85,
+                50
+            ],
+            "answer": "Earthworm",
+            "hint": "Welcome sight to an organic gardener"
+        },
+        "J": {
+            "cells": [
+                173,
+                15,
+                148,
+                4,
+                87,
+                105,
+                51,
+                135,
+                66,
+                35
+            ],
+            "answer": "Cartwright",
+            "hint": "Nancy who provides the voice of Bart Simpson"
+        },
+        "K": {
+            "cells": [
+                176,
+                59,
+                122,
+                10,
+                30,
+                154,
+                70,
+                103,
+                41
+            ],
+            "answer": "Opportune",
+            "hint": "Serendipitous in the timing"
+        },
+        "L": {
+            "cells": [
+                153,
+                57,
+                90,
+                164,
+                130,
+                14,
+                28,
+                71
+            ],
+            "answer": "Nihilism",
+            "hint": "In psychiatry, the delusion that nothing is real"
+        },
+        "M": {
+            "cells": [
+                98,
+                118,
+                76,
+                146,
+                44,
+                129
+            ],
+            "answer": "Tied up",
+            "hint": "Too busy to get away (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                38,
+                86,
+                63,
+                26,
+                116,
+                99
+            ],
+            "answer": "Review",
+            "hint": "\u201cHe who would write and can\u2019t write, can surely ___\u201d (J. R. Lowell)"
+        },
+        "O": {
+            "cells": [
+                2,
+                169,
+                79,
+                117,
+                54,
+                21,
+                150,
+                102,
+                31
+            ],
+            "answer": "Odalisque",
+            "hint": "Woman kept in a harem"
+        },
+        "P": {
+            "cells": [
+                110,
+                78,
+                166,
+                25,
+                132
+            ],
+            "answer": "\u201cLenny\"",
+            "hint": "1974 biopic directed by Bob Fosse"
+        },
+        "Q": {
+            "cells": [
+                100,
+                141,
+                6,
+                53,
+                170,
+                74,
+                33,
+                115
+            ],
+            "answer": "One-sided",
+            "hint": "Not exactly close-fought (hyph.)"
+        },
+        "R": {
+            "cells": [
+                147,
+                167,
+                7,
+                94
+            ],
+            "answer": "Fern",
+            "hint": "One good at making new fronds"
+        },
+        "S": {
+            "cells": [
+                125,
+                140,
+                157,
+                73,
+                111,
+                11,
+                39
+            ],
+            "answer": "No-see-um",
+            "hint": "Biting midge also called a punkie (hyph.)"
+        },
+        "T": {
+            "cells": [
+                121,
+                162,
+                80,
+                12,
+                49
+            ],
+            "answer": "\"Annie\u201d",
+            "hint": "Broadway musical that first starred Andrea McArdle"
+        },
+        "U": {
+            "cells": [
+                82,
+                64,
+                165,
+                29,
+                114,
+                92,
+                13
+            ],
+            "answer": "Tenpins",
+            "hint": "Subject of a series of frames"
+        },
+        "V": {
+            "cells": [
+                151,
+                58,
+                93,
+                177,
+                123,
+                32,
+                83,
+                17,
+                104,
+                45
+            ],
+            "answer": "Upanishads",
+            "hint": "Mystical scriptures of Hinduism"
+        },
+        "W": {
+            "cells": [
+                159,
+                48,
+                18,
+                112,
+                3,
+                127
+            ],
+            "answer": "Rhesus",
+            "hint": "Indian monkey; Thracian king slain near Troy"
+        },
+        "X": {
+            "cells": [
+                149,
+                124,
+                171,
+                9,
+                113,
+                43,
+                61,
+                77,
+                106,
+                134
+            ],
+            "answer": "Earl Warren",
+            "hint": "Chief justice in the Brown v. Board of Education case (2 wds.)"
+        }
+    }
+}

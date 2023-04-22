@@ -1,0 +1,335 @@
+{
+    "answer": "I read and re-read a slim blue book called \u201cPalindromes and Anagrams\u201d... . I was... fascinated by the neatness of the best examples. ... \u2019[M]oonstarers\u2019 became \u2019astronomers\u2019,... \u2019eleven [plus] two\u2019 equalled \u2019twelve [plus] one\u2019 and... \u2019one hug\u2019 was \u2019enough\u2019.",
+    "author": "Alex Horne,",
+    "authorCell": [
+        15,
+        17,
+        23,
+        93,
+        73,
+        165,
+        126,
+        38,
+        89,
+        139,
+        83,
+        109,
+        39,
+        150,
+        45,
+        119,
+        63,
+        86,
+        1,
+        163,
+        170
+    ],
+    "source": "Word Watching",
+    "clues": {
+        "A": {
+            "cells": [
+                15,
+                36,
+                113,
+                179,
+                128,
+                95,
+                56,
+                158,
+                72
+            ],
+            "answer": "Alchemist",
+            "hint": "One in search of the philosopher\u2019s stone"
+        },
+        "B": {
+            "cells": [
+                17,
+                50,
+                28,
+                151,
+                169,
+                134,
+                104
+            ],
+            "answer": "Lace-ups",
+            "hint": "Alternatives to slip-ons (hyph.)"
+        },
+        "C": {
+            "cells": [
+                23,
+                70,
+                111,
+                35,
+                133,
+                5,
+                84,
+                145,
+                159,
+                57
+            ],
+            "answer": "Ebb and flow",
+            "hint": "Action of the tides (3 wds.)"
+        },
+        "D": {
+            "cells": [
+                93,
+                29,
+                122,
+                61,
+                14,
+                143
+            ],
+            "answer": "Xanadu",
+            "hint": "Legendary place where \u201ctwice five miles of fertile ground / With walls and towers were girdled round\u201d"
+        },
+        "E": {
+            "cells": [
+                73,
+                157,
+                54,
+                121,
+                40,
+                102,
+                22,
+                90
+            ],
+            "answer": "Humorous",
+            "hint": "Like puns, to many"
+        },
+        "F": {
+            "cells": [
+                165,
+                31,
+                69,
+                19,
+                6,
+                81,
+                149,
+                92,
+                52,
+                137
+            ],
+            "answer": "Old Masters",
+            "hint": "Apt rearrangement of \u201cart\u2019s models\u201d (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                126,
+                76,
+                46,
+                25,
+                153,
+                172,
+                91,
+                108
+            ],
+            "answer": "Renovate",
+            "hint": "Freshen up, give a face-lift"
+        },
+        "H": {
+            "cells": [
+                38,
+                162,
+                115,
+                132,
+                85,
+                144,
+                51
+            ],
+            "answer": "Name tag",
+            "hint": "Handout at a registration desk (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                89,
+                175,
+                164,
+                32,
+                13,
+                107,
+                124,
+                68,
+                49,
+                138
+            ],
+            "answer": "Endearment",
+            "hint": "Apt rearrangement of \u201ctender name\u201d"
+        },
+        "J": {
+            "cells": [
+                139,
+                48,
+                78,
+                174,
+                2,
+                60,
+                94,
+                21,
+                156,
+                118
+            ],
+            "answer": "Waterfalls",
+            "hint": "Dangers for rafters"
+        },
+        "K": {
+            "cells": [
+                83,
+                34,
+                58,
+                142,
+                177,
+                125,
+                160,
+                3,
+                110,
+                16
+            ],
+            "answer": "Opaqueness",
+            "hint": "Impenetrability, lack of clarity"
+        },
+        "L": {
+            "cells": [
+                109,
+                26,
+                87,
+                131,
+                171,
+                4,
+                148,
+                43
+            ],
+            "answer": "Roe v. Wade",
+            "hint": "Subject of annual protests on January 22 (3 wds.)"
+        },
+        "M": {
+            "cells": [
+                39,
+                18,
+                101,
+                178,
+                141,
+                79,
+                161,
+                127
+            ],
+            "answer": "Diogenes",
+            "hint": "Ancient Cynic who carried a lamp around in full daylight"
+        },
+        "N": {
+            "cells": [
+                150,
+                176,
+                11,
+                135,
+                47,
+                88,
+                106,
+                65,
+                27
+            ],
+            "answer": "World Bank",
+            "hint": "International organization once headed by Paul Wolfowitz (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                45,
+                100,
+                167,
+                62,
+                146,
+                117,
+                75
+            ],
+            "answer": "Ameslan",
+            "hint": "Acronym for some digital communication"
+        },
+        "P": {
+            "cells": [
+                119,
+                168,
+                37,
+                9,
+                67,
+                80,
+                147,
+                103
+            ],
+            "answer": "Thirteen",
+            "hint": "Age of Edgar Allan Poe\u2019s cousin when he married her"
+        },
+        "Q": {
+            "cells": [
+                63,
+                123,
+                166,
+                44,
+                136,
+                152,
+                77,
+                105,
+                10
+            ],
+            "answer": "Consulate",
+            "hint": "Place to get a passport or a visa"
+        },
+        "R": {
+            "cells": [
+                86,
+                41,
+                7,
+                98,
+                71,
+                20,
+                154,
+                53,
+                120
+            ],
+            "answer": "Honey bear",
+            "hint": "Kinkajou or, when spoonerized, a pair of long-eared hoppers? (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                1,
+                42,
+                155,
+                140,
+                173,
+                82,
+                64,
+                24,
+                97,
+                112
+            ],
+            "answer": "Impossible",
+            "hint": "Like translating puns, usually"
+        },
+        "T": {
+            "cells": [
+                163,
+                12,
+                116,
+                33,
+                129,
+                74,
+                59,
+                99
+            ],
+            "answer": "Needless",
+            "hint": "Dispensable, gratuitous"
+        },
+        "U": {
+            "cells": [
+                170,
+                114,
+                55,
+                96,
+                130,
+                8,
+                66,
+                30
+            ],
+            "answer": "Gas pedal",
+            "hint": "Something to step on when taking off (2 wds.)"
+        }
+    }
+}

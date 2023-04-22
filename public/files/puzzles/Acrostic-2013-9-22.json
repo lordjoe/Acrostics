@@ -1,0 +1,369 @@
+{
+    "answer": "Edward had no difficulties at dinner parties. If he had been seated beside a rock, he would have quickly begun an animated discussion of its layers of granite... or lime, its life underground, its... journeys and aspirations... .",
+    "author": "Cathleen Schine,",
+    "authorCell": [
+        103,
+        52,
+        25,
+        41,
+        19,
+        47,
+        68,
+        152,
+        164,
+        17,
+        74,
+        94,
+        161,
+        57,
+        160,
+        165,
+        95,
+        98,
+        4,
+        88,
+        156,
+        109,
+        16,
+        42,
+        65,
+        77
+    ],
+    "source": "Rameau\u2019s Niece",
+    "clues": {
+        "A": {
+            "cells": [
+                103,
+                75,
+                149,
+                48,
+                122,
+                172,
+                1,
+                22
+            ],
+            "answer": "Carefree",
+            "hint": "Insouciant, nonchalant"
+        },
+        "B": {
+            "cells": [
+                52,
+                36,
+                82,
+                136,
+                12,
+                110
+            ],
+            "answer": "Aikido",
+            "hint": "Martial art with disarming moves"
+        },
+        "C": {
+            "cells": [
+                25,
+                67,
+                124,
+                142,
+                8,
+                99,
+                50
+            ],
+            "answer": "Threads",
+            "hint": "Conversational forum groupings"
+        },
+        "D": {
+            "cells": [
+                41,
+                151,
+                167,
+                21,
+                56,
+                5,
+                92,
+                120
+            ],
+            "answer": "Hudibras",
+            "hint": "Samuel Butler\u2019s mock-heroic knight"
+        },
+        "E": {
+            "cells": [
+                19,
+                80,
+                134,
+                32,
+                112,
+                60
+            ],
+            "answer": "Limpid",
+            "hint": "Transparent, crystal clear"
+        },
+        "F": {
+            "cells": [
+                47,
+                102,
+                137,
+                159,
+                24,
+                119,
+                84
+            ],
+            "answer": "Estuary",
+            "hint": "Delaware Bay or Long Island Sound, e.g."
+        },
+        "G": {
+            "cells": [
+                68,
+                93,
+                169,
+                143,
+                129
+            ],
+            "answer": "Ensue",
+            "hint": "Happen as a result; come after"
+        },
+        "H": {
+            "cells": [
+                152,
+                176,
+                11,
+                100,
+                132,
+                59,
+                28,
+                87
+            ],
+            "answer": "Noodling",
+            "hint": "Improvising musically; indulging in mental play"
+        },
+        "I": {
+            "cells": [
+                164,
+                43,
+                63,
+                127,
+                89,
+                30
+            ],
+            "answer": "Shrine",
+            "hint": "Attraction for devotees"
+        },
+        "J": {
+            "cells": [
+                17,
+                90,
+                71,
+                113,
+                171,
+                130,
+                144
+            ],
+            "answer": "Caution",
+            "hint": "Yellow card, in soccer"
+        },
+        "K": {
+            "cells": [
+                74,
+                37,
+                116,
+                2,
+                158,
+                141,
+                15
+            ],
+            "answer": "Head off",
+            "hint": "Prevent, forestall (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                94,
+                177,
+                39,
+                78,
+                18,
+                154,
+                53,
+                117
+            ],
+            "answer": "Iniquity",
+            "hint": "Behavior of one hell-bound"
+        },
+        "M": {
+            "cells": [
+                161,
+                140,
+                46,
+                85,
+                72,
+                118
+            ],
+            "answer": "Nibble",
+            "hint": "Display of mild interest"
+        },
+        "N": {
+            "cells": [
+                57,
+                139,
+                76,
+                101,
+                34,
+                173
+            ],
+            "answer": "Elvira",
+            "hint": "Ghost in Noel Coward\u2019s \u201cBlithe Spirit\u201d"
+        },
+        "O": {
+            "cells": [
+                160,
+                121,
+                33,
+                138,
+                97,
+                54,
+                6
+            ],
+            "answer": "Roasted",
+            "hint": "Given celebrity treatment, in a way"
+        },
+        "P": {
+            "cells": [
+                165,
+                145,
+                107,
+                73,
+                125,
+                23
+            ],
+            "answer": "Adidas",
+            "hint": "Shoe brand that traces back to Jesse Owens at the 1936 Berlin Olympics"
+        },
+        "Q": {
+            "cells": [
+                95,
+                70,
+                29,
+                178,
+                155,
+                51,
+                131
+            ],
+            "answer": "\u201cMonster\u201d",
+            "hint": "2003 Oscar vehicle for Charlize Theron"
+        },
+        "R": {
+            "cells": [
+                98,
+                40,
+                14,
+                79,
+                114,
+                146
+            ],
+            "answer": "Effuse",
+            "hint": "Make a great display of enthusiasm"
+        },
+        "S": {
+            "cells": [
+                4,
+                170,
+                150,
+                106,
+                128,
+                62,
+                20,
+                86
+            ],
+            "answer": "Apostate",
+            "hint": "One who renounces a belief or cause"
+        },
+        "T": {
+            "cells": [
+                88,
+                10,
+                157,
+                104,
+                58,
+                35
+            ],
+            "answer": "Unjust",
+            "hint": "Not fair"
+        },
+        "U": {
+            "cells": [
+                156,
+                83,
+                27,
+                49,
+                123,
+                105,
+                7,
+                64,
+                174
+            ],
+            "answer": "Slingshot",
+            "hint": "Wham-O\u2019s first product, which inspired its name"
+        },
+        "V": {
+            "cells": [
+                109,
+                162,
+                3,
+                44,
+                31,
+                66
+            ],
+            "answer": "Newark",
+            "hint": "Home to the University of Delaware"
+        },
+        "W": {
+            "cells": [
+                16,
+                126,
+                168,
+                69,
+                108,
+                147,
+                55
+            ],
+            "answer": "In a word",
+            "hint": "Succinctly stated (3 wds.)"
+        },
+        "X": {
+            "cells": [
+                42,
+                26,
+                133,
+                111,
+                175,
+                61,
+                153
+            ],
+            "answer": "Edified",
+            "hint": "Given proper instruction"
+        },
+        "Y": {
+            "cells": [
+                65,
+                163,
+                81,
+                115,
+                96,
+                9,
+                135,
+                38
+            ],
+            "answer": "Cyclades",
+            "hint": "Aegean island group"
+        },
+        "Z": {
+            "cells": [
+                77,
+                166,
+                45,
+                13,
+                91,
+                148
+            ],
+            "answer": "Ending",
+            "hint": "Occasion to say \u201cThat\u2019s all she wrote\u201d"
+        }
+    }
+}

@@ -1,0 +1,353 @@
+{
+    "answer": "I... admired Clark [Gable] for his lack of vanity. .... One day I happened on him at... [a] faucet... where he\u2018d stopped to wash... his denture. Clark grinned, pointed to his... mouth, and said with an exaggerated lisp, \u201cLook, America\u2019s thweetheart!\u201d",
+    "author": "(Anita) Loos,",
+    "authorCell": [
+        17,
+        76,
+        110,
+        85,
+        157,
+        43,
+        120,
+        24,
+        167,
+        122,
+        98,
+        154,
+        42,
+        168,
+        52,
+        82,
+        132,
+        102,
+        29,
+        156,
+        149,
+        16,
+        36,
+        148
+    ],
+    "source": "Kiss Hollywood Goodbye",
+    "clues": {
+        "A": {
+            "cells": [
+                17,
+                119,
+                143,
+                44,
+                35,
+                165
+            ],
+            "answer": "Lights",
+            "hint": "First call before shooting"
+        },
+        "B": {
+            "cells": [
+                76,
+                10,
+                108,
+                172,
+                61,
+                124
+            ],
+            "answer": "Old hat",
+            "hint": "Dated, demode (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                110,
+                62,
+                176,
+                83,
+                146,
+                6,
+                40
+            ],
+            "answer": "Outward",
+            "hint": "Extrinsic"
+        },
+        "D": {
+            "cells": [
+                85,
+                55,
+                38,
+                158,
+                116,
+                69,
+                141
+            ],
+            "answer": "Sinatra",
+            "hint": "Entertainer whose epitaph reads \u201cThe best is yet to come\u201d"
+        },
+        "E": {
+            "cells": [
+                157,
+                137,
+                95,
+                41,
+                28,
+                123,
+                56
+            ],
+            "answer": "Kara Kum",
+            "hint": "Desert by the Aral Sea (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                43,
+                106,
+                171,
+                134,
+                30,
+                15,
+                80,
+                57
+            ],
+            "answer": "Intifada",
+            "hint": "Revolt against an occupation"
+        },
+        "G": {
+            "cells": [
+                120,
+                58,
+                96,
+                34,
+                138,
+                18,
+                175
+            ],
+            "answer": "Steiner",
+            "hint": "Rudolf ___, Austrian philosopher who pioneered eurythmy"
+        },
+        "H": {
+            "cells": [
+                24,
+                46,
+                84,
+                63,
+                170,
+                133,
+                2,
+                150,
+                101
+            ],
+            "answer": "Spacewalk",
+            "hint": "Event often involving an umbilical cord"
+        },
+        "I": {
+            "cells": [
+                167,
+                131,
+                142,
+                87,
+                112,
+                20,
+                65,
+                50
+            ],
+            "answer": "High note",
+            "hint": "Positive thing to end on (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                122,
+                140,
+                47,
+                64,
+                163,
+                13,
+                79,
+                103
+            ],
+            "answer": "Oxpecker",
+            "hint": "Bird symbiotic with rhinos and cattle"
+        },
+        "K": {
+            "cells": [
+                98,
+                162,
+                19,
+                147,
+                72,
+                128
+            ],
+            "answer": "Lifted",
+            "hint": "Purloined; worked out on a Nautilus"
+        },
+        "L": {
+            "cells": [
+                154,
+                59,
+                113,
+                71,
+                91,
+                21
+            ],
+            "answer": "Lather",
+            "hint": "Excited people may be in this"
+        },
+        "M": {
+            "cells": [
+                42,
+                26,
+                161,
+                73,
+                4,
+                99,
+                127
+            ],
+            "answer": "Yardman",
+            "hint": "Railroad worker; groundskeeper"
+        },
+        "N": {
+            "cells": [
+                168,
+                54,
+                151,
+                135,
+                114,
+                77,
+                23,
+                92,
+                7
+            ],
+            "answer": "White pine",
+            "hint": "Maine\u2019s state tree (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                52,
+                27,
+                75,
+                130,
+                105,
+                160
+            ],
+            "answer": "Octane",
+            "hint": "Ping-resistance measure"
+        },
+        "P": {
+            "cells": [
+                82,
+                31,
+                144,
+                100,
+                118,
+                164,
+                49,
+                3
+            ],
+            "answer": "Overhand",
+            "hint": "Like some volleyball serves"
+        },
+        "Q": {
+            "cells": [
+                132,
+                12,
+                117,
+                153,
+                74,
+                48,
+                174,
+                93
+            ],
+            "answer": "Drop seat",
+            "hint": "Feature of many a union suit (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                102,
+                11,
+                129,
+                155,
+                86,
+                37,
+                25
+            ],
+            "answer": "Gasohol",
+            "hint": "Fuel from partly renewable sources"
+        },
+        "S": {
+            "cells": [
+                29,
+                78,
+                111,
+                94,
+                159,
+                8,
+                139,
+                53
+            ],
+            "answer": "Opium den",
+            "hint": "Setting for the Sherlock Holmes story \u201cThe Man With the Twisted Lip\u201d (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                156,
+                121,
+                33,
+                88,
+                60,
+                104,
+                9
+            ],
+            "answer": "Omnific",
+            "hint": "Able to create anything"
+        },
+        "U": {
+            "cells": [
+                149,
+                169,
+                32,
+                51,
+                66,
+                107,
+                1,
+                14,
+                125,
+                81
+            ],
+            "answer": "Dead weight",
+            "hint": "Heavy, useless burden (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                16,
+                70,
+                45,
+                97,
+                136,
+                173,
+                152
+            ],
+            "answer": "\u201cBeaches\u201d",
+            "hint": "Film with the theme song \u201cWind Beneath My Wings\u201d"
+        },
+        "W": {
+            "cells": [
+                36,
+                109,
+                145,
+                68,
+                89
+            ],
+            "answer": "Ypres",
+            "hint": "Belgian scene of great carnage in 1917"
+        },
+        "X": {
+            "cells": [
+                148,
+                90,
+                5,
+                166,
+                67,
+                22,
+                39,
+                126,
+                115
+            ],
+            "answer": "Edith Head",
+            "hint": "Oscar winner for work in \u201cAll About Eve\u201d and \u201cThe Sting\u201d (2 wds.)"
+        }
+    }
+}

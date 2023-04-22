@@ -1,0 +1,343 @@
+{
+    "answer": "Wyoming seems to be the doing of a mad architect, tumbled and twisted, ribboned with faded deathbed colors, thrust up and pulled down as if the place had been startled out of a deep sleep and thrown into a pure light.",
+    "author": "Gretel Ehrlich,",
+    "authorCell": [
+        171,
+        90,
+        63,
+        162,
+        75,
+        101,
+        144,
+        68,
+        167,
+        133,
+        160,
+        82,
+        114,
+        85,
+        116,
+        120,
+        97,
+        87,
+        145,
+        76,
+        38,
+        149,
+        8
+    ],
+    "source": "(The Solace Of) Open Spaces",
+    "clues": {
+        "A": {
+            "cells": [
+                171,
+                148,
+                62,
+                16
+            ],
+            "answer": "Gene",
+            "hint": "Parent-to-child contribution"
+        },
+        "B": {
+            "cells": [
+                90,
+                164,
+                66,
+                48
+            ],
+            "answer": "\u201cRain\"",
+            "hint": "Flip side of the 1966 Beatles hit \u201cPaperback Writer\u201d"
+        },
+        "C": {
+            "cells": [
+                63,
+                4,
+                99,
+                31,
+                23,
+                122,
+                74,
+                151,
+                92
+            ],
+            "answer": "Empanadas",
+            "hint": "Stuffed pastries popular in Argentina"
+        },
+        "D": {
+            "cells": [
+                162,
+                78,
+                45,
+                89,
+                25,
+                59,
+                124,
+                111,
+                13
+            ],
+            "answer": "\"The Hobbit\u201d",
+            "hint": "1937 fantasy book subtitled \u201cThere and Back Again\u201d (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                75,
+                11,
+                43,
+                168,
+                105,
+                153,
+                115,
+                30
+            ],
+            "answer": "Embedded",
+            "hint": "Lodged, as a bug in amber"
+        },
+        "F": {
+            "cells": [
+                101,
+                157,
+                1,
+                60,
+                41,
+                135,
+                24,
+                80,
+                113
+            ],
+            "answer": "Low-budget",
+            "hint": "Made on a shoestring (hyph.)"
+        },
+        "G": {
+            "cells": [
+                144,
+                64,
+                128,
+                10,
+                169,
+                112,
+                21,
+                32,
+                81
+            ],
+            "answer": "Edsel Ford",
+            "hint": "Developer of the Lincoln Continental (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                68,
+                3,
+                54,
+                110,
+                36,
+                94,
+                140,
+                26
+            ],
+            "answer": "Hot stuff",
+            "hint": "One with sex appeal or high aptitude (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                167,
+                52,
+                17,
+                96
+            ],
+            "answer": "RITA",
+            "hint": "Annual award for romance fiction"
+        },
+        "J": {
+            "cells": [
+                133,
+                37,
+                69,
+                173,
+                155,
+                118,
+                6,
+                20,
+                55,
+                104
+            ],
+            "answer": "Left-handed",
+            "hint": "Of doubtful sincerity, as a compliment (hyph.)"
+        },
+        "K": {
+            "cells": [
+                160,
+                49,
+                119,
+                27,
+                86,
+                98
+            ],
+            "answer": "ID card",
+            "hint": "Proof that you\u2019re who you say you are (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                82,
+                109,
+                152,
+                93,
+                29,
+                67,
+                47
+            ],
+            "answer": "Cantata",
+            "hint": "Italian for \u201csung\u201d"
+        },
+        "M": {
+            "cells": [
+                114,
+                35,
+                7,
+                121,
+                18,
+                70,
+                138
+            ],
+            "answer": "High hat",
+            "hint": "Haughty, disdainful (hyph.)"
+        },
+        "N": {
+            "cells": [
+                85,
+                44,
+                56,
+                158,
+                14,
+                131,
+                117,
+                73
+            ],
+            "answer": "Old World",
+            "hint": "Africa, Asia and particularly Europe (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                116,
+                100,
+                79,
+                33,
+                156,
+                130,
+                51,
+                147
+            ],
+            "answer": "Pub-crawl",
+            "hint": "Go bar-hopping (hyph.)"
+        },
+        "P": {
+            "cells": [
+                120,
+                108,
+                142,
+                132,
+                83,
+                19,
+                159,
+                71
+            ],
+            "answer": "End-to-end",
+            "hint": "One after the other (hyph.)"
+        },
+        "Q": {
+            "cells": [
+                97,
+                134,
+                84,
+                146,
+                61,
+                161,
+                72,
+                46,
+                123,
+                2
+            ],
+            "answer": "Nelson Eddy",
+            "hint": "Baritone starring in the film \u201cNaughty Marietta,\u201d 1935 (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                87,
+                127,
+                139,
+                107,
+                12,
+                166,
+                22,
+                50
+            ],
+            "answer": "Snowsuit",
+            "hint": "Attire for fort-building?"
+        },
+        "S": {
+            "cells": [
+                145,
+                103,
+                40,
+                9,
+                57,
+                163,
+                91,
+                77
+            ],
+            "answer": "Peter out",
+            "hint": "Fizzle; lose pep; end weakly (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                76,
+                39,
+                15,
+                141,
+                129
+            ],
+            "answer": "At-bat",
+            "hint": "Opportunity for a swinger (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                38,
+                172,
+                58,
+                150,
+                136,
+                88,
+                102,
+                125
+            ],
+            "answer": "Chipotle",
+            "hint": "Jalapeno pepper used in Southwest cooking"
+        },
+        "V": {
+            "cells": [
+                149,
+                106,
+                34,
+                5,
+                165,
+                95,
+                137,
+                53
+            ],
+            "answer": "Eohippus",
+            "hint": "Hyracotherium a k a the dawn horse"
+        },
+        "W": {
+            "cells": [
+                8,
+                65,
+                170,
+                42,
+                28,
+                126,
+                143,
+                154
+            ],
+            "answer": "Swim meet",
+            "hint": "Contest at a pool (2 wds.)"
+        }
+    }
+}

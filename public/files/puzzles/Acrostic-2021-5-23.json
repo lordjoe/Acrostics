@@ -1,0 +1,357 @@
+{
+    "answer": "Mozart... was a remarkably small man,... thin and pale, with a profusion of fine fair hair, of which he was rather vain. ... He was... fond of punch,... also fond of billiards... . Many... a game... I played with him, but always came off second best.",
+    "author": "Michael Kelly,",
+    "authorCell": [
+        1,
+        120,
+        157,
+        75,
+        78,
+        160,
+        38,
+        16,
+        76,
+        24,
+        152,
+        20,
+        46,
+        84,
+        13,
+        88,
+        32,
+        142,
+        50,
+        104,
+        39,
+        103,
+        73,
+        91,
+        108
+    ],
+    "source": "Reminiscences",
+    "clues": {
+        "A": {
+            "cells": [
+                1,
+                154,
+                34,
+                171,
+                98,
+                70,
+                54,
+                136,
+                110
+            ],
+            "answer": "Maned wolf",
+            "hint": "Golden canine of South America (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                120,
+                147,
+                36,
+                51,
+                164,
+                74
+            ],
+            "answer": "Impish",
+            "hint": "Mischievous, like a prankster"
+        },
+        "C": {
+            "cells": [
+                157,
+                83,
+                137,
+                22,
+                101,
+                117,
+                2,
+                53
+            ],
+            "answer": "Champion",
+            "hint": "One with a crown or gold medal"
+        },
+        "D": {
+            "cells": [
+                75,
+                93,
+                119,
+                55,
+                145,
+                31,
+                6,
+                166,
+                105
+            ],
+            "answer": "Half hitch",
+            "hint": "Assignment for one learning the ropes (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                78,
+                162,
+                95,
+                25,
+                61,
+                143,
+                49,
+                9
+            ],
+            "answer": "Afflatus",
+            "hint": "Inspiration like a divine breath of air"
+        },
+        "F": {
+            "cells": [
+                160,
+                121,
+                79,
+                173,
+                40,
+                106,
+                11,
+                140
+            ],
+            "answer": "Eastward",
+            "hint": "Heading for three o\u2019clock?"
+        },
+        "G": {
+            "cells": [
+                38,
+                151,
+                113,
+                128,
+                19,
+                167,
+                86,
+                59
+            ],
+            "answer": "Ladylove",
+            "hint": "Sweetheart, mistress, inamorata"
+        },
+        "H": {
+            "cells": [
+                16,
+                57,
+                153,
+                134,
+                115,
+                85,
+                102,
+                72,
+                42
+            ],
+            "answer": "Kiwifruit",
+            "hint": "Edible with fuzzy brown skin and green flesh"
+        },
+        "I": {
+            "cells": [
+                76,
+                97,
+                3,
+                138,
+                26,
+                165,
+                124
+            ],
+            "answer": "Enzymes",
+            "hint": "Agents on the inside"
+        },
+        "J": {
+            "cells": [
+                24,
+                161,
+                7,
+                148,
+                122,
+                96,
+                77
+            ],
+            "answer": "Lowbrow",
+            "hint": "Far from refined, as Three Stooges humor"
+        },
+        "K": {
+            "cells": [
+                152,
+                131,
+                116,
+                63,
+                23,
+                82,
+                172
+            ],
+            "answer": "Lab rats",
+            "hint": "Involuntary research subjects (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                20,
+                81,
+                125,
+                65,
+                144,
+                158
+            ],
+            "answer": "Yamaha",
+            "hint": "Brand of guitars and amps"
+        },
+        "M": {
+            "cells": [
+                46,
+                71,
+                99,
+                168,
+                12
+            ],
+            "answer": "Rhone",
+            "hint": "River whose delta includes the Camargue region"
+        },
+        "N": {
+            "cells": [
+                84,
+                132,
+                43,
+                114,
+                56,
+                100
+            ],
+            "answer": "Emhoff",
+            "hint": "Doug ____, husband of Kamala Harris"
+        },
+        "O": {
+            "cells": [
+                13,
+                68,
+                135,
+                94,
+                149,
+                45
+            ],
+            "answer": "Mops up",
+            "hint": "Pitches in late innings of a lopsided contest (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                88,
+                58,
+                169,
+                37,
+                18,
+                129
+            ],
+            "answer": "Indaba",
+            "hint": "Parley of South Africans"
+        },
+        "Q": {
+            "cells": [
+                32,
+                133,
+                47,
+                89
+            ],
+            "answer": "Neon",
+            "hint": "About 0.0018 percent of the earth\u2019s atmosphere"
+        },
+        "R": {
+            "cells": [
+                142,
+                5,
+                62,
+                21,
+                90,
+                159,
+                44,
+                127
+            ],
+            "answer": "Irishman",
+            "hint": "The tenor quoted in this puzzle, for one"
+        },
+        "S": {
+            "cells": [
+                50,
+                29,
+                109,
+                92,
+                10,
+                141,
+                126,
+                155
+            ],
+            "answer": "Stowaway",
+            "hint": "Manifest omission?"
+        },
+        "T": {
+            "cells": [
+                104,
+                118,
+                146,
+                163,
+                69,
+                52,
+                15,
+                35
+            ],
+            "answer": "Clifford",
+            "hint": "Big red dog created by author/cartoonist Norman Bridwell"
+        },
+        "U": {
+            "cells": [
+                39,
+                67,
+                17,
+                150,
+                111
+            ],
+            "answer": "Erato",
+            "hint": "Inspiration for some poets"
+        },
+        "V": {
+            "cells": [
+                103,
+                33,
+                66,
+                14,
+                123
+            ],
+            "answer": "Naiad",
+            "hint": "Female spirit of fountains, springs and brooks"
+        },
+        "W": {
+            "cells": [
+                73,
+                87,
+                170,
+                27,
+                112,
+                8
+            ],
+            "answer": "Cabana",
+            "hint": "Site of seaside changes"
+        },
+        "X": {
+            "cells": [
+                91,
+                28,
+                130,
+                107,
+                41,
+                156,
+                64
+            ],
+            "answer": "English",
+            "hint": "Spin imparted to a shot"
+        },
+        "Y": {
+            "cells": [
+                108,
+                30,
+                4,
+                48,
+                60,
+                139,
+                80
+            ],
+            "answer": "Shaffer",
+            "hint": "Peter ____, \u201cAmadeus\u201d dramatist"
+        }
+    }
+}

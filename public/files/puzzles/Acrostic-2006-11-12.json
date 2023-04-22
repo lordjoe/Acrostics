@@ -1,0 +1,369 @@
+{
+    "answer": "In the interstates are traces of our first explorations, our impenetrable mountain passes, our old Santa Fe Trail, our pioneers\u2018 path to Oregon, our race to California\u2019s gold, our first nation-spanning... private highways.",
+    "author": "Robert Sullivan,",
+    "authorCell": [
+        41,
+        77,
+        60,
+        89,
+        120,
+        3,
+        76,
+        49,
+        39,
+        129,
+        153,
+        167,
+        151,
+        155,
+        127,
+        91,
+        100,
+        148,
+        156,
+        23,
+        112,
+        143,
+        150,
+        152,
+        58,
+        177
+    ],
+    "source": "Cross Country",
+    "clues": {
+        "A": {
+            "cells": [
+                41,
+                154,
+                57,
+                128,
+                113,
+                6,
+                103,
+                178
+            ],
+            "answer": "Rotaries",
+            "hint": "Where Boston motorists go in circles"
+        },
+        "B": {
+            "cells": [
+                77,
+                162,
+                110,
+                28,
+                96,
+                50
+            ],
+            "answer": "On tour",
+            "hint": "Playing gigs from town to town (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                60,
+                93,
+                34,
+                126,
+                7
+            ],
+            "answer": "Bison",
+            "hint": "Ramblers across the West"
+        },
+        "D": {
+            "cells": [
+                89,
+                159,
+                173,
+                32,
+                46,
+                15,
+                74
+            ],
+            "answer": "Engines",
+            "hint": "Grease monkeys\u2019 specialties"
+        },
+        "E": {
+            "cells": [
+                120,
+                142,
+                29,
+                163,
+                4,
+                51,
+                108
+            ],
+            "answer": "Rough it",
+            "hint": "Travel without the conveniences of modern civilization (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                3,
+                144,
+                59,
+                27,
+                88,
+                166,
+                123
+            ],
+            "answer": "Traffic",
+            "hint": "Flow studied by some helicopter crews"
+        },
+        "G": {
+            "cells": [
+                76,
+                26,
+                117,
+                139,
+                97,
+                168
+            ],
+            "answer": "Sonora",
+            "hint": "Part of Mexico south of Arizona"
+        },
+        "H": {
+            "cells": [
+                49,
+                171,
+                17,
+                78,
+                140
+            ],
+            "answer": "U-Haul",
+            "hint": "Moving truck (hyph.)"
+        },
+        "I": {
+            "cells": [
+                39,
+                62,
+                131,
+                12,
+                149,
+                119,
+                79,
+                101
+            ],
+            "answer": "Left turn",
+            "hint": "Louie, to one at the wheel (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                129,
+                92,
+                109,
+                64,
+                147,
+                36
+            ],
+            "answer": "Lahore",
+            "hint": "The main point of a Punjabi map"
+        },
+        "K": {
+            "cells": [
+                153,
+                43,
+                1,
+                134,
+                19,
+                104,
+                176,
+                66,
+                86
+            ],
+            "answer": "Itinerant",
+            "hint": "Working jobs from place to place"
+        },
+        "L": {
+            "cells": [
+                167,
+                146,
+                30,
+                115,
+                99,
+                61
+            ],
+            "answer": "Virgil",
+            "hint": "Creator of an epic travelogue"
+        },
+        "M": {
+            "cells": [
+                151,
+                65,
+                8,
+                40,
+                52,
+                136,
+                20,
+                170
+            ],
+            "answer": "Automate",
+            "hint": "Get done by a robot - or a fellow car-pooler?"
+        },
+        "N": {
+            "cells": [
+                155,
+                68,
+                10,
+                33,
+                48,
+                175,
+                83
+            ],
+            "answer": "Narrows",
+            "hint": "Changes from three lanes to two, say"
+        },
+        "O": {
+            "cells": [
+                127,
+                158,
+                44,
+                11,
+                105,
+                80,
+                55,
+                25
+            ],
+            "answer": "Caissons",
+            "hint": "Two-wheeled vehicles for artillery ammunition"
+        },
+        "P": {
+            "cells": [
+                91,
+                111,
+                22,
+                141,
+                161,
+                75,
+                47
+            ],
+            "answer": "Roadies",
+            "hint": "Assistants for those who are Answer B."
+        },
+        "Q": {
+            "cells": [
+                100,
+                160,
+                14,
+                174,
+                56,
+                138,
+                118
+            ],
+            "answer": "On the go",
+            "hint": "Incessantly in motion (3 wds.)"
+        },
+        "R": {
+            "cells": [
+                148,
+                38,
+                87,
+                18,
+                102,
+                67,
+                130,
+                165,
+                114
+            ],
+            "answer": "Spare tire",
+            "hint": "Plus for a driver, minus for a model (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                156,
+                13,
+                172,
+                85,
+                125
+            ],
+            "answer": "Saint",
+            "hint": "Christopher, to travelers, e.g."
+        },
+        "T": {
+            "cells": [
+                23,
+                45,
+                71,
+                137
+            ],
+            "answer": "Cops",
+            "hint": "TV show with many vehicular pursuits"
+        },
+        "U": {
+            "cells": [
+                112,
+                145,
+                31,
+                133,
+                84,
+                63,
+                157
+            ],
+            "answer": "Off-ramp",
+            "hint": "Egress from a major pike (hyph.)"
+        },
+        "V": {
+            "cells": [
+                143,
+                106,
+                16,
+                35,
+                122,
+                90,
+                54
+            ],
+            "answer": "Upstate",
+            "hint": "Toward Lake Placid from Poughkeepsie, say"
+        },
+        "W": {
+            "cells": [
+                150,
+                116,
+                2,
+                73,
+                169,
+                132,
+                53
+            ],
+            "answer": "Nonstop",
+            "hint": "Without ever interrupting the trip"
+        },
+        "X": {
+            "cells": [
+                152,
+                42,
+                135,
+                81,
+                98,
+                69,
+                164,
+                9
+            ],
+            "answer": "Tailpipe",
+            "hint": "Object of exhaustive automotive research?"
+        },
+        "Y": {
+            "cells": [
+                58,
+                5,
+                107,
+                121,
+                72,
+                37,
+                94,
+                24
+            ],
+            "answer": "Rear axle",
+            "hint": "Bar serving motorists? (2 wds.)"
+        },
+        "Z": {
+            "cells": [
+                177,
+                95,
+                70,
+                82,
+                124,
+                21
+            ],
+            "answer": "Yonder",
+            "hint": "At a distance, but within sight"
+        }
+    }
+}

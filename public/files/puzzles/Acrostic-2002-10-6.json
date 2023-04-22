@@ -1,0 +1,351 @@
+{
+    "answer": "\u201cMuch may be learned about... society by studying... its children, for [they]... are shadows of their parents.... What they believe and do are... what their parents believe in their hearts and would do if society would put up with it.\u201d",
+    "author": "(Robertson) Davies,",
+    "authorCell": [
+        98,
+        106,
+        94,
+        173,
+        116,
+        60,
+        159,
+        172,
+        57,
+        40,
+        152,
+        120,
+        47,
+        59,
+        163,
+        44,
+        14,
+        32,
+        82,
+        71,
+        18,
+        160,
+        97,
+        90
+    ],
+    "source": "What\u2019s Bred In The Bone",
+    "clues": {
+        "A": {
+            "cells": [
+                98,
+                124,
+                139,
+                166,
+                111,
+                49,
+                28
+            ],
+            "answer": "Destiny",
+            "hint": "\u201cWhere ___ with Men for Pieces plays\u201d (Omar Khayyam)"
+        },
+        "B": {
+            "cells": [
+                106,
+                161,
+                148,
+                20,
+                29,
+                51,
+                78
+            ],
+            "answer": "Audubon",
+            "hint": "Eponym of a wildlife society"
+        },
+        "C": {
+            "cells": [
+                94,
+                67,
+                146,
+                165,
+                8,
+                45,
+                135
+            ],
+            "answer": "Voluble",
+            "hint": "Talkative, glib"
+        },
+        "D": {
+            "cells": [
+                173,
+                133,
+                115,
+                6,
+                143,
+                83,
+                16,
+                99,
+                158
+            ],
+            "answer": "Irrawaddy",
+            "hint": "River feeding the Bay of Bengal"
+        },
+        "E": {
+            "cells": [
+                116,
+                10,
+                63,
+                137,
+                72,
+                157,
+                42,
+                105
+            ],
+            "answer": "Eldritch",
+            "hint": "Inducing goosebumps"
+        },
+        "F": {
+            "cells": [
+                60,
+                86,
+                149,
+                38,
+                167,
+                117
+            ],
+            "answer": "\u201cShogun\"",
+            "hint": "James Clavell\u2019s blockbuster novel of 1975"
+        },
+        "G": {
+            "cells": [
+                159,
+                43,
+                64,
+                100,
+                113,
+                34,
+                87,
+                142,
+                23
+            ],
+            "answer": "Whoop-de-do",
+            "hint": "Ballyhoo, commotion (hyph.)"
+        },
+        "H": {
+            "cells": [
+                172,
+                39,
+                62,
+                104,
+                17,
+                138,
+                4,
+                75
+            ],
+            "answer": "\"Hiawatha\"",
+            "hint": "Literary character who defeated Pearl-Feather with the help of a woodpecker"
+        },
+        "I": {
+            "cells": [
+                57,
+                91,
+                110,
+                81,
+                127,
+                151,
+                11
+            ],
+            "answer": "Alewife",
+            "hint": "Herring found in the Finger Lakes"
+        },
+        "J": {
+            "cells": [
+                40,
+                22,
+                130,
+                150,
+                102,
+                171
+            ],
+            "answer": "T-shirt",
+            "hint": "Brando\u2019s garb in \u201cA Streetcar Named Desire\u201d (hyph.)"
+        },
+        "K": {
+            "cells": [
+                152,
+                93,
+                80,
+                174,
+                15,
+                53
+            ],
+            "answer": "Sestet",
+            "hint": "Petrarchan \u201ccde cde,\u201d for example"
+        },
+        "L": {
+            "cells": [
+                120,
+                162,
+                101,
+                36,
+                76,
+                65,
+                170,
+                21,
+                3,
+                134
+            ],
+            "answer": "Blair Witch",
+            "hint": "Subject of a 1999 \u201cmockumentary\u201d (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                47,
+                12,
+                84,
+                123,
+                68,
+                30
+            ],
+            "answer": "Ratify",
+            "hint": "Approve, confirm"
+        },
+        "N": {
+            "cells": [
+                59,
+                5,
+                164,
+                114,
+                85,
+                70,
+                35
+            ],
+            "answer": "Empathy",
+            "hint": "Vicarious experience of another\u2019s feelings"
+        },
+        "O": {
+            "cells": [
+                163,
+                95,
+                108,
+                55,
+                31,
+                79
+            ],
+            "answer": "Detest",
+            "hint": "Execrate"
+        },
+        "P": {
+            "cells": [
+                44,
+                37,
+                118,
+                61,
+                131,
+                1,
+                153,
+                19,
+                147
+            ],
+            "answer": "\"In the Mood\"",
+            "hint": "1939 instrumental hit for Glenn Miller (3 wds.)"
+        },
+        "Q": {
+            "cells": [
+                14,
+                33,
+                73,
+                156,
+                56,
+                103,
+                125
+            ],
+            "answer": "Nureyev",
+            "hint": "Fonteyn\u2019s frequent ballet partner"
+        },
+        "R": {
+            "cells": [
+                32,
+                132,
+                89,
+                48,
+                58,
+                155,
+                145,
+                119
+            ],
+            "answer": "Tiberius",
+            "hint": "Son of Livia Drusilla"
+        },
+        "S": {
+            "cells": [
+                82,
+                121,
+                96,
+                69,
+                26,
+                52
+            ],
+            "answer": "Heater",
+            "hint": "Baseball slang for a fastball"
+        },
+        "T": {
+            "cells": [
+                71,
+                141,
+                154,
+                13,
+                88,
+                168,
+                107
+            ],
+            "answer": "Encrypt",
+            "hint": "Change from plaintext"
+        },
+        "U": {
+            "cells": [
+                18,
+                77,
+                144,
+                169,
+                2,
+                122,
+                50
+            ],
+            "answer": "\"Beowulf\u201d",
+            "hint": "In literature, nephew of King Hygelac of the Geats"
+        },
+        "V": {
+            "cells": [
+                160,
+                74,
+                109,
+                92,
+                46,
+                25,
+                136,
+                128
+            ],
+            "answer": "Ophidian",
+            "hint": "Having snaky qualities"
+        },
+        "W": {
+            "cells": [
+                97,
+                126,
+                27,
+                54,
+                9,
+                112
+            ],
+            "answer": "Nether",
+            "hint": "Lying below the earth\u2019s surface"
+        },
+        "X": {
+            "cells": [
+                90,
+                24,
+                66,
+                129,
+                140,
+                41,
+                7
+            ],
+            "answer": "Ecstasy",
+            "hint": "Frenzy of poetic inspiration"
+        }
+    }
+}

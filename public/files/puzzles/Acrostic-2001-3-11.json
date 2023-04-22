@@ -1,0 +1,356 @@
+{
+    "answer": "[Phosphorus] is in the tips of matches, and girls driven desperate by love ate them to commit suicide; it is in will-o\u2019-the-wisps, putrid flames fleeing before the wayfarer. No, it is not an emotionally neutral element.",
+    "author": "Primo Levi,",
+    "authorCell": [
+        48,
+        134,
+        89,
+        110,
+        123,
+        156,
+        81,
+        58,
+        141,
+        15,
+        16,
+        95,
+        99,
+        168,
+        8,
+        13,
+        92,
+        39,
+        139,
+        69,
+        103,
+        155,
+        54,
+        56,
+        135
+    ],
+    "source": "The Periodic Table",
+    "clues": {
+        "A": {
+            "cells": [
+                48,
+                11,
+                30,
+                93,
+                144,
+                165
+            ],
+            "answer": "Pistol",
+            "hint": "Derringer or revolver, e.g."
+        },
+        "B": {
+            "cells": [
+                134,
+                7,
+                98,
+                112,
+                73,
+                154,
+                84
+            ],
+            "answer": "Rossini",
+            "hint": "Composer of the 1817 opera \u201cCinderella\u201d"
+        },
+        "C": {
+            "cells": [
+                89,
+                147,
+                52,
+                2,
+                59,
+                120,
+                161,
+                107,
+                132
+            ],
+            "answer": "In the buff",
+            "hint": "Not wearing a stitch (3 wds.)"
+        },
+        "D": {
+            "cells": [
+                110,
+                128,
+                71,
+                22,
+                82,
+                36
+            ],
+            "answer": "Memoir",
+            "hint": "Diarist\u2019s publication"
+        },
+        "E": {
+            "cells": [
+                123,
+                91,
+                170,
+                38,
+                145,
+                136,
+                60
+            ],
+            "answer": "Olestra",
+            "hint": "Fat substitute approved by the F.D.A. in 1996"
+        },
+        "F": {
+            "cells": [
+                156,
+                9,
+                171,
+                34,
+                122,
+                79,
+                21,
+                64
+            ],
+            "answer": "Lungfish",
+            "hint": "River creature that can breathe air"
+        },
+        "G": {
+            "cells": [
+                81,
+                19,
+                33,
+                68,
+                157,
+                57,
+                137
+            ],
+            "answer": "Eidolon",
+            "hint": "Phantom, apparition"
+        },
+        "H": {
+            "cells": [
+                58,
+                116,
+                50,
+                3,
+                143,
+                105,
+                27,
+                133
+            ],
+            "answer": "Veronica",
+            "hint": "Matador\u2019s maneuver made without moving the legs"
+        },
+        "I": {
+            "cells": [
+                141,
+                66,
+                20,
+                160,
+                86
+            ],
+            "answer": "I.M. Pei",
+            "hint": "Designer of Denver\u2019s Mile High Center (3 wds.)"
+        },
+        "J": {
+            "cells": [
+                15,
+                88,
+                41,
+                75,
+                151,
+                111,
+                163
+            ],
+            "answer": "Twister",
+            "hint": "Party game fad of the 1960\u2019s"
+        },
+        "K": {
+            "cells": [
+                16,
+                25,
+                104,
+                42,
+                148,
+                55
+            ],
+            "answer": "\u201cHarvey\u201d",
+            "hint": "1950 film starring Jimmy Stewart"
+        },
+        "L": {
+            "cells": [
+                95,
+                45,
+                62,
+                118,
+                162,
+                130,
+                172,
+                29
+            ],
+            "answer": "Edentate",
+            "hint": "Of the same order as armadillos and sloths"
+        },
+        "M": {
+            "cells": [
+                99,
+                153,
+                10,
+                26,
+                114,
+                76,
+                106,
+                46
+            ],
+            "answer": "Postlude",
+            "hint": "Service-ending organ piece"
+        },
+        "N": {
+            "cells": [
+                168,
+                72,
+                5,
+                51,
+                126,
+                94,
+                158
+            ],
+            "answer": "Empathy",
+            "hint": "Walking in another\u2019s shoes"
+        },
+        "O": {
+            "cells": [
+                8,
+                49,
+                80,
+                100,
+                149,
+                117,
+                67,
+                28
+            ],
+            "answer": "Red Smith",
+            "hint": "Sports columnist who won a Pulitzer Prize in 1976 (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                13,
+                78,
+                121,
+                169,
+                109,
+                32
+            ],
+            "answer": "Ice Man",
+            "hint": "5,000-year-old Tyrolean a k a Otzi (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                92,
+                113,
+                23,
+                129,
+                6,
+                152,
+                74,
+                53
+            ],
+            "answer": "Off-white",
+            "hint": "Vellum\u2019s shade (hyph.)"
+        },
+        "R": {
+            "cells": [
+                39,
+                150,
+                90,
+                1,
+                127,
+                77,
+                159,
+                47
+            ],
+            "answer": "Dolphins",
+            "hint": "1974 Super Bowl champs"
+        },
+        "S": {
+            "cells": [
+                139,
+                12,
+                125,
+                102,
+                167,
+                61
+            ],
+            "answer": "Iseult",
+            "hint": "Wife of King Mark in Arthurian legend"
+        },
+        "T": {
+            "cells": [
+                69,
+                31,
+                4,
+                140,
+                108,
+                43
+            ],
+            "answer": "Castle",
+            "hint": "Bavaria\u2019s Neuschwanstein, for one"
+        },
+        "U": {
+            "cells": [
+                103,
+                124,
+                35,
+                83,
+                138,
+                14
+            ],
+            "answer": "Triton",
+            "hint": "The largest of Neptune\u2019s moons"
+        },
+        "V": {
+            "cells": [
+                155,
+                44,
+                97,
+                142,
+                115,
+                18,
+                63,
+                166
+            ],
+            "answer": "Anisette",
+            "hint": "Sweet liqueur used as cookie flavoring"
+        },
+        "W": {
+            "cells": [
+                54,
+                17,
+                87,
+                119,
+                164,
+                37
+            ],
+            "answer": "Bengal",
+            "hint": "Calcutta\u2019s region"
+        },
+        "X": {
+            "cells": [
+                56,
+                146,
+                96,
+                131,
+                65,
+                40
+            ],
+            "answer": "Lawyer",
+            "hint": "Figure in a case"
+        },
+        "Y": {
+            "cells": [
+                135,
+                101,
+                85,
+                70,
+                24
+            ],
+            "answer": "Epsom",
+            "hint": "Town where The Oaks was first run in 1779"
+        }
+    }
+}

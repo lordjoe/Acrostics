@@ -1,0 +1,358 @@
+{
+    "answer": "Human genes have not changed much in thousands of years. Plato would have been puzzled by e-mail, but he enjoyed the same buzz we do from a fine... wine. His brain contained exactly the same... pleasure buttons that we have.",
+    "author": "(Terry) Burnham And (Jay) Phelan,",
+    "authorCell": [
+        98,
+        34,
+        156,
+        133,
+        166,
+        172,
+        3,
+        110,
+        30,
+        24,
+        65,
+        19,
+        103,
+        55,
+        167,
+        85,
+        148,
+        62,
+        12,
+        5,
+        22,
+        84,
+        129,
+        9,
+        46
+    ],
+    "source": "Mean Genes",
+    "clues": {
+        "A": {
+            "cells": [
+                98,
+                2,
+                38,
+                90,
+                144,
+                58
+            ],
+            "answer": "Buddha",
+            "hint": "Figure sitting with crossed legs"
+        },
+        "B": {
+            "cells": [
+                34,
+                150,
+                164,
+                116,
+                104,
+                136,
+                71,
+                87,
+                52,
+                15
+            ],
+            "answer": "Upside down",
+            "hint": "Like chiropterans at rest (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                156,
+                105,
+                142,
+                4,
+                18,
+                80,
+                41,
+                111
+            ],
+            "answer": "Roy Acuff",
+            "hint": "Country fiddler who sang \u201cWabash Cannonball\u201d (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                133,
+                53,
+                102,
+                81,
+                28,
+                174,
+                64
+            ],
+            "answer": "Now, then",
+            "hint": "Getting-down-to-business phrase (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                166,
+                108,
+                17,
+                119,
+                63,
+                44,
+                135
+            ],
+            "answer": "Hothead",
+            "hint": "One whose composure is easily lost"
+        },
+        "F": {
+            "cells": [
+                172,
+                79,
+                153,
+                127,
+                99,
+                10
+            ],
+            "answer": "Abacus",
+            "hint": "Something you can count on"
+        },
+        "G": {
+            "cells": [
+                3,
+                49,
+                68,
+                114,
+                141,
+                161,
+                33,
+                173
+            ],
+            "answer": "Mazel tov",
+            "hint": "\u201cGood luck\u201d (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                110,
+                67,
+                149,
+                123,
+                158,
+                36,
+                77,
+                86,
+                138,
+                21
+            ],
+            "answer": "Azerbaijan",
+            "hint": "State bordering Georgia"
+        },
+        "I": {
+            "cells": [
+                30,
+                16,
+                94,
+                115,
+                60,
+                76,
+                143
+            ],
+            "answer": "No sweat",
+            "hint": "\u201cPiece of cake\u201d (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                24,
+                145,
+                106,
+                40,
+                93
+            ],
+            "answer": "Defoe",
+            "hint": "Writer on Friday?"
+        },
+        "K": {
+            "cells": [
+                65,
+                29,
+                8,
+                139,
+                89,
+                117,
+                43,
+                101
+            ],
+            "answer": "Pince-nez",
+            "hint": "Item attached to a bridge (hyph.)"
+        },
+        "L": {
+            "cells": [
+                19,
+                134,
+                120,
+                6,
+                82,
+                57,
+                162
+            ],
+            "answer": "Heigh-ho",
+            "hint": "Call from a little septet (hyph.)"
+        },
+        "M": {
+            "cells": [
+                103,
+                37,
+                140,
+                157,
+                69,
+                14,
+                27,
+                171,
+                88
+            ],
+            "answer": "Entelechy",
+            "hint": "Realized actuality"
+        },
+        "N": {
+            "cells": [
+                55,
+                128,
+                97,
+                169,
+                7
+            ],
+            "answer": "Loewe",
+            "hint": "\u201cPaint Your Wagon\u201d composer"
+        },
+        "O": {
+            "cells": [
+                167,
+                54,
+                39,
+                91,
+                70,
+                126
+            ],
+            "answer": "Austen",
+            "hint": "\u201cOne half of the world cannot understand the pleasures of the other\u201d writer"
+        },
+        "P": {
+            "cells": [
+                85,
+                66,
+                75,
+                122,
+                23,
+                45,
+                146
+            ],
+            "answer": "\u201cNumbers\u201d",
+            "hint": "Book called \u201cB\u2019midbar\u201d in Hebrew"
+        },
+        "Q": {
+            "cells": [
+                148,
+                26,
+                56,
+                92,
+                118,
+                163
+            ],
+            "answer": "Mud Hen",
+            "hint": "Toledo, Ohio, AAA baseball player (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                62,
+                151,
+                125,
+                100,
+                20,
+                72,
+                83,
+                50,
+                32
+            ],
+            "answer": "Elizabeth",
+            "hint": "Ruler who said \u201cI have the heart and stomach of a king\u201d"
+        },
+        "S": {
+            "cells": [
+                12,
+                107,
+                170,
+                121
+            ],
+            "answer": "Ares",
+            "hint": "His sacred animals were the vulture and the dog"
+        },
+        "T": {
+            "cells": [
+                5,
+                51,
+                59,
+                95,
+                78,
+                132,
+                154
+            ],
+            "answer": "Novalis",
+            "hint": "Leading poet of German Romanticism (1772-1801)"
+        },
+        "U": {
+            "cells": [
+                22,
+                159,
+                96,
+                61,
+                42
+            ],
+            "answer": "Gumby",
+            "hint": "Claymation figure invented by Art Clokey"
+        },
+        "V": {
+            "cells": [
+                84,
+                35,
+                160,
+                112,
+                13,
+                147,
+                130,
+                74
+            ],
+            "answer": "Estivate",
+            "hint": "What snails may do for a season"
+        },
+        "W": {
+            "cells": [
+                129,
+                73,
+                109,
+                47,
+                11,
+                152,
+                168
+            ],
+            "answer": "Nymphet",
+            "hint": "Nabokov\u2019s Dolores Haze, for a prime example"
+        },
+        "X": {
+            "cells": [
+                9,
+                137,
+                155,
+                48,
+                31,
+                124,
+                113,
+                165
+            ],
+            "answer": "Exultant",
+            "hint": "Jumping for joy"
+        },
+        "Y": {
+            "cells": [
+                46,
+                1,
+                131,
+                25
+            ],
+            "answer": "Sham",
+            "hint": "Counterfeit"
+        }
+    }
+}

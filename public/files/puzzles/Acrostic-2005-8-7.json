@@ -1,0 +1,368 @@
+{
+    "answer": "Both art and physics are... forms of language.... While physicists demonstrate that A equals B or that X is the same as Y, artists... choose signs, symbols, and allegories to equate a painterly image with a feature of experience.",
+    "author": "Leonard Shlain,",
+    "authorCell": [
+        147,
+        85,
+        103,
+        143,
+        161,
+        172,
+        51,
+        14,
+        42,
+        28,
+        118,
+        38,
+        55,
+        136,
+        19,
+        95,
+        66,
+        175,
+        120,
+        11,
+        84,
+        43,
+        72,
+        15,
+        100,
+        110
+    ],
+    "source": "Art And Physics",
+    "clues": {
+        "A": {
+            "cells": [
+                147,
+                105,
+                60,
+                126,
+                21,
+                167
+            ],
+            "answer": "Let off",
+            "hint": "Release, discharge (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                85,
+                24,
+                173,
+                50,
+                97,
+                70,
+                127,
+                148
+            ],
+            "answer": "Emissary",
+            "hint": "One sent to state another\u2019s case"
+        },
+        "C": {
+            "cells": [
+                103,
+                5,
+                27,
+                47,
+                130,
+                157
+            ],
+            "answer": "Oafish",
+            "hint": "Ungainly and dimwitted"
+        },
+        "D": {
+            "cells": [
+                143,
+                2,
+                17,
+                174,
+                34,
+                64,
+                112
+            ],
+            "answer": "Nosegay",
+            "hint": "Contents of a bouquetier"
+        },
+        "E": {
+            "cells": [
+                161,
+                144,
+                39,
+                59,
+                111
+            ],
+            "answer": "Atlas",
+            "hint": "Brawny brother of Prometheus"
+        },
+        "F": {
+            "cells": [
+                172,
+                67,
+                108,
+                153,
+                9,
+                49
+            ],
+            "answer": "Regent",
+            "hint": "Street exiting London\u2019s Piccadilly Circus"
+        },
+        "G": {
+            "cells": [
+                51,
+                124,
+                86,
+                155,
+                10,
+                168,
+                23,
+                78,
+                98,
+                139
+            ],
+            "answer": "\u201cDesiderata\u201d",
+            "hint": "Popular piece on happiness by Max Ehrmann"
+        },
+        "H": {
+            "cells": [
+                14,
+                116,
+                40,
+                81,
+                152,
+                4
+            ],
+            "answer": "Sleigh",
+            "hint": "Conveyance sporting bells, sometimes"
+        },
+        "I": {
+            "cells": [
+                42,
+                132,
+                62,
+                99,
+                160,
+                29,
+                83
+            ],
+            "answer": "Hot seat",
+            "hint": "Position of one undergoing interrogation (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                28,
+                107,
+                46,
+                63,
+                133,
+                119
+            ],
+            "answer": "Lichen",
+            "hint": "Symbiotic growth of fungi and algae"
+        },
+        "K": {
+            "cells": [
+                118,
+                135,
+                65,
+                166,
+                88,
+                18,
+                7
+            ],
+            "answer": "Automat",
+            "hint": "Eatery depicted in an Edward Hopper painting"
+        },
+        "L": {
+            "cells": [
+                38,
+                104,
+                77,
+                142,
+                125,
+                69,
+                58,
+                22
+            ],
+            "answer": "Ishiguro",
+            "hint": "Kazuo ___, author of \u201cThe Remains of the Day\u201d"
+        },
+        "M": {
+            "cells": [
+                55,
+                129,
+                36,
+                113,
+                165,
+                80,
+                149,
+                16,
+                102
+            ],
+            "answer": "New Mexico",
+            "hint": "State whose official cookie is the bizcochito (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                136,
+                1,
+                92,
+                44,
+                106
+            ],
+            "answer": "Abyss",
+            "hint": "Immeasurable depth"
+        },
+        "O": {
+            "cells": [
+                19,
+                45,
+                117,
+                134,
+                163,
+                89
+            ],
+            "answer": "Risque",
+            "hint": "Salty or spicy"
+        },
+        "P": {
+            "cells": [
+                95,
+                115,
+                146,
+                53,
+                171,
+                30,
+                76
+            ],
+            "answer": "Torment",
+            "hint": "Drive absolutely bananas"
+        },
+        "Q": {
+            "cells": [
+                66,
+                48,
+                170,
+                8,
+                94,
+                137,
+                33,
+                150,
+                20
+            ],
+            "answer": "Aspartame",
+            "hint": "Sweetener used in diet colas"
+        },
+        "R": {
+            "cells": [
+                175,
+                128,
+                31,
+                101,
+                57,
+                91,
+                140,
+                74,
+                156
+            ],
+            "answer": "Nightspot",
+            "hint": "Club like Studio 54 or Whisky A Go-Go"
+        },
+        "S": {
+            "cells": [
+                120,
+                154,
+                35,
+                177,
+                73
+            ],
+            "answer": "Dweeb",
+            "hint": "Brainy misfit"
+        },
+        "T": {
+            "cells": [
+                11,
+                37,
+                96,
+                123,
+                79,
+                61,
+                164
+            ],
+            "answer": "Philter",
+            "hint": "Love potion; magic charm"
+        },
+        "U": {
+            "cells": [
+                84,
+                54,
+                75,
+                25,
+                145,
+                159,
+                122,
+                13
+            ],
+            "answer": "Horsefly",
+            "hint": "Hairy, winged bloodsucker"
+        },
+        "V": {
+            "cells": [
+                43,
+                90,
+                71,
+                3,
+                121
+            ],
+            "answer": "Yalta",
+            "hint": "Ukrainian site of an influential meeting in 1945"
+        },
+        "W": {
+            "cells": [
+                72,
+                26,
+                109,
+                87,
+                162,
+                141
+            ],
+            "answer": "Sonata",
+            "hint": "Chopin\u2019s \u201cFuneral March\u201d or Beethoven\u2019s \u201cPathétique,\u201d e.g."
+        },
+        "X": {
+            "cells": [
+                15,
+                114,
+                52,
+                169
+            ],
+            "answer": "Ibex",
+            "hint": "Wild goat with backward-pointing horns"
+        },
+        "Y": {
+            "cells": [
+                100,
+                151,
+                41,
+                138,
+                6,
+                82
+            ],
+            "answer": "Capers",
+            "hint": "Pickled flower buds used in tapenade"
+        },
+        "Z": {
+            "cells": [
+                110,
+                93,
+                56,
+                68,
+                32,
+                158,
+                131,
+                176,
+                12
+            ],
+            "answer": "Sasquatch",
+            "hint": "Purported \u201cstar\u201d of a 1967 film by Robert Patterson"
+        }
+    }
+}

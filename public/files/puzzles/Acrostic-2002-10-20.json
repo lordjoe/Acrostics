@@ -1,0 +1,366 @@
+{
+    "answer": "Mathematics is a way of thinking that... works like turning off the houselights in a theater.... [Y]ou can no longer see the faces... around you or the inlaid patterns on the ceiling. But you gain a far better view of the subject....",
+    "author": "K.C. Cole,",
+    "authorCell": [
+        35,
+        174,
+        10,
+        84,
+        136,
+        168,
+        42,
+        44,
+        65,
+        160,
+        40,
+        125,
+        11,
+        113,
+        2,
+        126,
+        119,
+        142,
+        52,
+        5,
+        130,
+        158,
+        14,
+        78,
+        77,
+        120
+    ],
+    "source": "(The) Universe And The Teacup",
+    "clues": {
+        "A": {
+            "cells": [
+                35,
+                114,
+                157,
+                13,
+                133,
+                93
+            ],
+            "answer": "Kitsch",
+            "hint": "Artwork of dubious taste"
+        },
+        "B": {
+            "cells": [
+                174,
+                48,
+                144,
+                116,
+                90,
+                34
+            ],
+            "answer": "Cooler",
+            "hint": "Jug, pokey"
+        },
+        "C": {
+            "cells": [
+                10,
+                25,
+                72,
+                88,
+                107,
+                53,
+                149
+            ],
+            "answer": "Citroen",
+            "hint": "Manufacturer of the highly aerodynamic car nicknamed La Bombe"
+        },
+        "D": {
+            "cells": [
+                84,
+                4,
+                60,
+                164,
+                49,
+                121,
+                20,
+                99
+            ],
+            "answer": "Ohio Fats",
+            "hint": "Nickname for the young Jack Nicklaus (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                136,
+                173,
+                51,
+                19,
+                37,
+                75
+            ],
+            "answer": "Let fly",
+            "hint": "Lash out; throw (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                168,
+                47,
+                128,
+                156,
+                9,
+                64,
+                28
+            ],
+            "answer": "Egotist",
+            "hint": "\u201cA person of low taste, more interested in himself than me\u201d"
+        },
+        "G": {
+            "cells": [
+                42,
+                104,
+                8,
+                152,
+                141,
+                61,
+                69,
+                175
+            ],
+            "answer": "Untaught",
+            "hint": "Ignorant; natural-born"
+        },
+        "H": {
+            "cells": [
+                44,
+                58,
+                29,
+                73,
+                1,
+                161,
+                100,
+                131
+            ],
+            "answer": "Nehemiah",
+            "hint": "Book after Ezra"
+        },
+        "I": {
+            "cells": [
+                65,
+                163,
+                109,
+                172,
+                45,
+                6,
+                96
+            ],
+            "answer": "Iwo Jima",
+            "hint": "Site of a famous flag-raising (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                160,
+                30,
+                74,
+                83,
+                98,
+                111
+            ],
+            "answer": "Varlet",
+            "hint": "Page serving a knight"
+        },
+        "K": {
+            "cells": [
+                40,
+                118,
+                86,
+                62,
+                166,
+                143
+            ],
+            "answer": "Eighty",
+            "hint": "Interstate from New Jersey to California"
+        },
+        "L": {
+            "cells": [
+                125,
+                103,
+                27,
+                159,
+                7,
+                41,
+                57
+            ],
+            "answer": "\u201cRugrats\u201d",
+            "hint": "TV cartoon with Tommy Pickles and Spike the dog"
+        },
+        "M": {
+            "cells": [
+                11,
+                63,
+                102,
+                26,
+                94,
+                71,
+                139,
+                155
+            ],
+            "answer": "Stone Age",
+            "hint": "Early period in human development (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                113,
+                81,
+                55,
+                39,
+                137
+            ],
+            "answer": "Enoki",
+            "hint": "Tiny mushroom with a long, thin stem"
+        },
+        "O": {
+            "cells": [
+                2,
+                95,
+                151,
+                59,
+                170,
+                70,
+                138,
+                123
+            ],
+            "answer": "Affluent",
+            "hint": "Well-to-do"
+        },
+        "P": {
+            "cells": [
+                126,
+                82,
+                110,
+                3,
+                21,
+                32,
+                134,
+                89,
+                68
+            ],
+            "answer": "Northwest",
+            "hint": "Locale of the Cascade Range"
+        },
+        "Q": {
+            "cells": [
+                119,
+                148,
+                169,
+                85,
+                132,
+                17
+            ],
+            "answer": "Disney",
+            "hint": "Producer of 1957\u2019s \u201cOld Yeller\u201d"
+        },
+        "R": {
+            "cells": [
+                142,
+                167,
+                124,
+                15,
+                54,
+                76
+            ],
+            "answer": "The Who",
+            "hint": "\u201cMy Generation\u201d band (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                52,
+                91,
+                146,
+                22,
+                101,
+                67
+            ],
+            "answer": "Hegira",
+            "hint": "Muhammad\u2019s flight from Mecca"
+        },
+        "T": {
+            "cells": [
+                5,
+                56,
+                122,
+                112,
+                162,
+                23,
+                135,
+                97,
+                36
+            ],
+            "answer": "Euthenics",
+            "hint": "Study of human betterment by improvement in living conditions"
+        },
+        "U": {
+            "cells": [
+                130,
+                16,
+                153,
+                31,
+                79,
+                115
+            ],
+            "answer": "Tartan",
+            "hint": "Hunting Stewart or Black Watch, e.g."
+        },
+        "V": {
+            "cells": [
+                158,
+                106,
+                87,
+                171,
+                147,
+                46,
+                24
+            ],
+            "answer": "Eye bank",
+            "hint": "Site for certain donations (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                14,
+                80,
+                108,
+                154,
+                38,
+                127
+            ],
+            "answer": "Anubis",
+            "hint": "Jackal-headed Egyptian god"
+        },
+        "X": {
+            "cells": [
+                78,
+                150,
+                129,
+                105,
+                18,
+                43
+            ],
+            "answer": "Candor",
+            "hint": "Sincerity, openness"
+        },
+        "Y": {
+            "cells": [
+                77,
+                140,
+                33,
+                117,
+                92
+            ],
+            "answer": "U-boat",
+            "hint": "Vessel using Enigma ciphers (hyph.)"
+        },
+        "Z": {
+            "cells": [
+                120,
+                145,
+                50,
+                165,
+                12,
+                66
+            ],
+            "answer": "Puffin",
+            "hint": "Member of a colony on Maine\u2019s Eastern Egg Rock"
+        }
+    }
+}

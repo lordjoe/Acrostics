@@ -1,0 +1,356 @@
+{
+    "answer": "Harry learned that there were seven hundred ways of committing a Quidditch foul, and that... although people rarely died playing Quidditch, referees had been known to vanish and turn up months later in the Sahara Desert.",
+    "author": "J.K. Rowling,",
+    "authorCell": [
+        115,
+        136,
+        22,
+        158,
+        51,
+        164,
+        81,
+        61,
+        114,
+        177,
+        157,
+        132,
+        178,
+        44,
+        88,
+        24,
+        23,
+        3,
+        122,
+        176,
+        17,
+        45,
+        52,
+        97
+    ],
+    "source": "The Sorcerer\u2019s Stone",
+    "clues": {
+        "A": {
+            "cells": [
+                115,
+                42,
+                162,
+                55,
+                80,
+                8,
+                100
+            ],
+            "answer": "Rorqual",
+            "hint": "Groove-throated whale also called a razorback"
+        },
+        "B": {
+            "cells": [
+                136,
+                46,
+                85,
+                151,
+                123,
+                2,
+                105,
+                60,
+                168,
+                16
+            ],
+            "answer": "Omophagist",
+            "hint": "One with a diet of raw meat"
+        },
+        "C": {
+            "cells": [
+                22,
+                57,
+                10,
+                161,
+                145,
+                173,
+                91,
+                130
+            ],
+            "answer": "Wine-dark",
+            "hint": "Homer\u2019s \u201cfresh west wind, singing over the ___ sea\u201d (hyph.)"
+        },
+        "D": {
+            "cells": [
+                158,
+                82,
+                143,
+                26,
+                54
+            ],
+            "answer": "Lhasa",
+            "hint": "Capital city about 11,800 feet above sea level"
+        },
+        "E": {
+            "cells": [
+                51,
+                137,
+                169,
+                104,
+                76,
+                19,
+                149,
+                125,
+                67
+            ],
+            "answer": "Ivan Lendl",
+            "hint": "Three-time U.S. Open champion from Czechoslovakia (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                164,
+                140,
+                70,
+                96,
+                117,
+                5
+            ],
+            "answer": "Nidify",
+            "hint": "Build a nest"
+        },
+        "G": {
+            "cells": [
+                81,
+                175,
+                148,
+                107,
+                134,
+                37
+            ],
+            "answer": "Gerund",
+            "hint": "Eating or sleeping, for example"
+        },
+        "H": {
+            "cells": [
+                61,
+                133,
+                73,
+                174,
+                34,
+                93,
+                121
+            ],
+            "answer": "Twaddle",
+            "hint": "Silly stuff coming out of people\u2019s mouths"
+        },
+        "I": {
+            "cells": [
+                114,
+                92,
+                68,
+                160,
+                1
+            ],
+            "answer": "Heath",
+            "hint": "Wild, shrubby sort of place"
+        },
+        "J": {
+            "cells": [
+                177,
+                83,
+                166,
+                36,
+                47,
+                127,
+                20,
+                138
+            ],
+            "answer": "Ephemera",
+            "hint": "Transitory things; printed matter of passing interest"
+        },
+        "K": {
+            "cells": [
+                157,
+                56,
+                124,
+                28,
+                84
+            ],
+            "answer": "Suave",
+            "hint": "Charming in a smooth, sophisticated way"
+        },
+        "L": {
+            "cells": [
+                132,
+                154,
+                179,
+                72,
+                120,
+                41,
+                103,
+                59,
+                21
+            ],
+            "answer": "On the side",
+            "hint": "As salad dressing might be served (3 wds.)"
+        },
+        "M": {
+            "cells": [
+                178,
+                7,
+                62,
+                142,
+                128,
+                89,
+                113,
+                156,
+                25
+            ],
+            "answer": "Recherche",
+            "hint": "Rare and exotic; pretentious or overrefined"
+        },
+        "N": {
+            "cells": [
+                44,
+                32,
+                13,
+                77,
+                170,
+                119,
+                65,
+                101,
+                135
+            ],
+            "answer": "Cutthroat",
+            "hint": "Using merciless tactics in competition"
+        },
+        "O": {
+            "cells": [
+                88,
+                6,
+                153,
+                106,
+                66,
+                29,
+                139,
+                49
+            ],
+            "answer": "Eloquent",
+            "hint": "Silver-tongued, movingly expressive"
+        },
+        "P": {
+            "cells": [
+                24,
+                150,
+                69,
+                48,
+                131
+            ],
+            "answer": "Run-in",
+            "hint": "Quarrel; matter added to text in printing (hyph.)"
+        },
+        "Q": {
+            "cells": [
+                23,
+                64,
+                43,
+                35,
+                79,
+                144,
+                112,
+                11,
+                172,
+                102
+            ],
+            "answer": "Effrontery",
+            "hint": "Audacious, brazen carrying-on"
+        },
+        "R": {
+            "cells": [
+                3,
+                108,
+                53,
+                18,
+                146,
+                94
+            ],
+            "answer": "Righty",
+            "hint": "Opposite of a southpaw"
+        },
+        "S": {
+            "cells": [
+                122,
+                163,
+                110,
+                58,
+                78,
+                90,
+                9,
+                50,
+                31,
+                171
+            ],
+            "answer": "Siddhartha",
+            "hint": "Epithet of Buddha meaning \u201che who has attained his goal\u201d"
+        },
+        "T": {
+            "cells": [
+                176,
+                159,
+                30,
+                95,
+                109,
+                15,
+                126
+            ],
+            "answer": "Sand dab",
+            "hint": "Flounderlike fish of the north Pacific (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                17,
+                39,
+                74,
+                155,
+                118,
+                4
+            ],
+            "answer": "Tatter",
+            "hint": "Torn piece"
+        },
+        "V": {
+            "cells": [
+                45,
+                99,
+                116,
+                129,
+                75,
+                33,
+                12,
+                141,
+                63,
+                147,
+                165
+            ],
+            "answer": "Open-and-shut",
+            "hint": "So obvious as to be easily solved (hyph.)"
+        },
+        "W": {
+            "cells": [
+                52,
+                167,
+                38,
+                98,
+                27,
+                87,
+                14,
+                111
+            ],
+            "answer": "New Delhi",
+            "hint": "Locale of the presidential house known as Rashtrapati Bhavan (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                97,
+                152,
+                86,
+                71,
+                40
+            ],
+            "answer": "Empty",
+            "hint": "Null; vacant; idle"
+        }
+    }
+}

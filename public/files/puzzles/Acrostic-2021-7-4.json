@@ -1,0 +1,342 @@
+{
+    "answer": "[T]he British promise of liberty caused widespread slave escapes across the South when... war moved to the region... . Jefferson estimated that thirty thousand slaves had run away in Virginia alone, including many of his own.",
+    "author": "(Kinshasha) Conwill,",
+    "authorCell": [
+        161,
+        122,
+        72,
+        178,
+        104,
+        155,
+        129,
+        80,
+        12,
+        101,
+        153,
+        76,
+        74,
+        141,
+        156,
+        86,
+        162,
+        109,
+        45,
+        157,
+        53,
+        69
+    ],
+    "source": "Dream a World Anew",
+    "clues": {
+        "A": {
+            "cells": [
+                161,
+                68,
+                112,
+                144,
+                91,
+                16,
+                130,
+                33
+            ],
+            "answer": "Chainsaw",
+            "hint": "Equipment used in log production"
+        },
+        "B": {
+            "cells": [
+                122,
+                46,
+                158,
+                75,
+                176,
+                21,
+                88,
+                62,
+                1
+            ],
+            "answer": "Oversight",
+            "hint": "Control; simple mistake"
+        },
+        "C": {
+            "cells": [
+                72,
+                172,
+                107,
+                125,
+                4,
+                44,
+                87
+            ],
+            "answer": "Notable",
+            "hint": "Worthy of attention, or, as two words, reason for not getting a restaurant reservation?"
+        },
+        "D": {
+            "cells": [
+                178,
+                142,
+                103,
+                23,
+                57,
+                128,
+                10,
+                40,
+                164
+            ],
+            "answer": "Watershed",
+            "hint": "Milestone or turning point"
+        },
+        "E": {
+            "cells": [
+                104,
+                168,
+                11,
+                28,
+                49,
+                64,
+                150,
+                131,
+                85
+            ],
+            "answer": "Impassive",
+            "hint": "Showing little emotion, cool"
+        },
+        "F": {
+            "cells": [
+                155,
+                82,
+                136,
+                63,
+                9,
+                110,
+                41,
+                24
+            ],
+            "answer": "Lodestar",
+            "hint": "Pre-GPS wayfinding aid"
+        },
+        "G": {
+            "cells": [
+                129,
+                15,
+                149,
+                111,
+                61,
+                43,
+                174,
+                90,
+                73
+            ],
+            "answer": "Light show",
+            "hint": "Dazzling display for observers in the dark (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                80,
+                148,
+                169,
+                95,
+                113,
+                132,
+                31
+            ],
+            "answer": "Draftee",
+            "hint": "Involuntary service provider"
+        },
+        "I": {
+            "cells": [
+                12,
+                152,
+                56,
+                134,
+                105,
+                77,
+                170,
+                42
+            ],
+            "answer": "Richmond",
+            "hint": "Old Dominion capital"
+        },
+        "J": {
+            "cells": [
+                101,
+                138,
+                52,
+                84,
+                5,
+                177,
+                124,
+                26,
+                160,
+                71
+            ],
+            "answer": "Euphrosyne",
+            "hint": "Greek goddess of joy and mirth"
+        },
+        "K": {
+            "cells": [
+                153,
+                139,
+                167,
+                123,
+                89,
+                54,
+                70,
+                108,
+                32
+            ],
+            "answer": "Anguished",
+            "hint": "Suffering, in terrible distress"
+        },
+        "L": {
+            "cells": [
+                76,
+                165,
+                151,
+                99,
+                118,
+                51,
+                29,
+                137
+            ],
+            "answer": "Minotaur",
+            "hint": "Bull-headed character"
+        },
+        "M": {
+            "cells": [
+                74,
+                97,
+                27,
+                115,
+                8,
+                146,
+                48,
+                133
+            ],
+            "answer": "Archives",
+            "hint": "Library of Congress collection"
+        },
+        "N": {
+            "cells": [
+                141,
+                159,
+                114,
+                179,
+                36,
+                98,
+                59
+            ],
+            "answer": "Witness",
+            "hint": "Line to be signed on a will"
+        },
+        "O": {
+            "cells": [
+                156,
+                22,
+                92,
+                3,
+                50,
+                67,
+                116,
+                173,
+                143
+            ],
+            "answer": "Objectify",
+            "hint": "Make something out of?"
+        },
+        "P": {
+            "cells": [
+                86,
+                58,
+                171,
+                106,
+                20,
+                147,
+                37,
+                7
+            ],
+            "answer": "Royalist",
+            "hint": "Backer of King George against the rebellious colonies"
+        },
+        "Q": {
+            "cells": [
+                162,
+                175,
+                94,
+                79,
+                39,
+                55,
+                19,
+                120
+            ],
+            "answer": "Life raft",
+            "hint": "Refuge from a sinking ship (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                109,
+                154,
+                60,
+                121,
+                17,
+                35
+            ],
+            "answer": "Dashed",
+            "hint": "Went in a hurry; flung with force"
+        },
+        "S": {
+            "cells": [
+                45,
+                14,
+                145,
+                96,
+                30,
+                81,
+                119
+            ],
+            "answer": "Amnesty",
+            "hint": "Guarantee of freedom from prosecution"
+        },
+        "T": {
+            "cells": [
+                157,
+                140,
+                25,
+                6,
+                78,
+                47,
+                102,
+                65,
+                126
+            ],
+            "answer": "\"Native Son\"",
+            "hint": "1940 best-selling novel by Richard Wright (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                53,
+                66,
+                117,
+                13,
+                38,
+                93,
+                135,
+                166
+            ],
+            "answer": "European",
+            "hint": "Continental, but not American"
+        },
+        "V": {
+            "cells": [
+                69,
+                2,
+                18,
+                127,
+                163,
+                100,
+                34,
+                83
+            ],
+            "answer": "Whodunit",
+            "hint": "Suspenseful genre"
+        }
+    }
+}

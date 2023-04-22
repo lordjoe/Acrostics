@@ -1,0 +1,343 @@
+{
+    "answer": "Bop is... not to be dug unless you\u2018ve seen dark days, too. Folks who ain\u2019t suffered... think it\u2018s just crazy crazy. They do not know Bop is also MAD crazy, SAD crazy, FRANTIC WILD CRAZY-beat out of somebody\u2019s head! That\u2019s what Bop is.",
+    "author": "L(angston) Hughes,",
+    "authorCell": [
+        44,
+        48,
+        14,
+        15,
+        85,
+        60,
+        155,
+        54,
+        67,
+        149,
+        171,
+        131,
+        150,
+        144,
+        102,
+        45,
+        26,
+        46,
+        76,
+        129,
+        51,
+        57,
+        12
+    ],
+    "source": "Simple Takes A Wife",
+    "clues": {
+        "A": {
+            "cells": [
+                44,
+                71,
+                97,
+                11,
+                23,
+                117,
+                66
+            ],
+            "answer": "Lubbock",
+            "hint": "Buddy Holly\u2019s Texas birthplace"
+        },
+        "B": {
+            "cells": [
+                48,
+                142,
+                126,
+                168,
+                91,
+                61,
+                31,
+                83
+            ],
+            "answer": "Hot toddy",
+            "hint": "Apres-ski beverage (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                14,
+                103,
+                121,
+                72,
+                5,
+                28,
+                173
+            ],
+            "answer": "\u201cUlysses\"",
+            "hint": "Book ruled legal to publish in the U.S. in 1933"
+        },
+        "D": {
+            "cells": [
+                15,
+                118,
+                49,
+                73,
+                163,
+                89
+            ],
+            "answer": "Grotto",
+            "hint": "Pilgrim\u2019s destination in Lourdes"
+        },
+        "E": {
+            "cells": [
+                85,
+                107,
+                75,
+                25,
+                139,
+                38,
+                68
+            ],
+            "answer": "Harvest",
+            "hint": "Name for the full moon nearest the autumnal equinox"
+        },
+        "F": {
+            "cells": [
+                60,
+                162,
+                147,
+                37,
+                81,
+                20,
+                124,
+                138,
+                109
+            ],
+            "answer": "Easy as ABC",
+            "hint": "Supremely simple (3 wds.)"
+        },
+        "G": {
+            "cells": [
+                155,
+                128,
+                161,
+                106,
+                119,
+                18,
+                8,
+                77,
+                87
+            ],
+            "answer": "Schmaltzy",
+            "hint": "Mawkish, maudlin"
+        },
+        "H": {
+            "cells": [
+                54,
+                166,
+                16,
+                92,
+                108,
+                41,
+                47,
+                30
+            ],
+            "answer": "Shutdown",
+            "hint": "Result of a failure to pass a budget"
+        },
+        "I": {
+            "cells": [
+                67,
+                116,
+                7,
+                24,
+                169,
+                53,
+                100,
+                84
+            ],
+            "answer": "I Doubt It",
+            "hint": "Card game also known as \u201cCheat\u201d (3 wds.)"
+        },
+        "J": {
+            "cells": [
+                149,
+                111,
+                101,
+                69,
+                127,
+                56
+            ],
+            "answer": "Massif",
+            "hint": "Annapurna or Ararat, e.g."
+        },
+        "K": {
+            "cells": [
+                171,
+                148,
+                99,
+                64,
+                125,
+                70,
+                135,
+                78
+            ],
+            "answer": "Popinjay",
+            "hint": "Pretentious chatterbox, dandy"
+        },
+        "L": {
+            "cells": [
+                131,
+                143,
+                21,
+                160
+            ],
+            "answer": "Lust",
+            "hint": "\u201cLove surfeits not, like a glutton dies\u201d (Shakespeare)"
+        },
+        "M": {
+            "cells": [
+                150,
+                120,
+                80,
+                36,
+                3,
+                43,
+                55,
+                17,
+                132
+            ],
+            "answer": "Ezra Pound",
+            "hint": "Author of \u201cGuide to Kulchur\u201d (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                144,
+                22,
+                33,
+                158,
+                52,
+                94,
+                137
+            ],
+            "answer": "Tyranny",
+            "hint": "Practice of a liberticide"
+        },
+        "O": {
+            "cells": [
+                102,
+                151,
+                1,
+                58,
+                113,
+                123,
+                95,
+                140,
+                35
+            ],
+            "answer": "\"Abbey Road\u201d",
+            "hint": "Beatles release of 1969 (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                45,
+                167,
+                82,
+                115,
+                133,
+                63,
+                152,
+                34
+            ],
+            "answer": "Kazachok",
+            "hint": "Slavic dance with squatting and kicking steps"
+        },
+        "Q": {
+            "cells": [
+                26,
+                74,
+                114,
+                39,
+                50,
+                164,
+                154
+            ],
+            "answer": "Ecstasy",
+            "hint": "State of bliss"
+        },
+        "R": {
+            "cells": [
+                46,
+                29,
+                90,
+                13,
+                98,
+                146,
+                122
+            ],
+            "answer": "Send-off",
+            "hint": "Occasion for best wishes (hyph.)"
+        },
+        "S": {
+            "cells": [
+                76,
+                9,
+                165,
+                130,
+                62,
+                141,
+                19,
+                110
+            ],
+            "answer": "Atwitter",
+            "hint": "Excitedly agitated"
+        },
+        "T": {
+            "cells": [
+                129,
+                4,
+                112,
+                32,
+                59,
+                153,
+                170,
+                42,
+                105,
+                136
+            ],
+            "answer": "Wizard of Oz",
+            "hint": "Title role for Frank Morgan (3 wds.)"
+        },
+        "U": {
+            "cells": [
+                51,
+                134,
+                10,
+                65,
+                96,
+                40,
+                145,
+                159
+            ],
+            "answer": "Ironwood",
+            "hint": "Hornbeam or mesquite, commonly"
+        },
+        "V": {
+            "cells": [
+                57,
+                172,
+                6,
+                157,
+                104,
+                27,
+                86
+            ],
+            "answer": "Finesse",
+            "hint": "Skill in execution"
+        },
+        "W": {
+            "cells": [
+                12,
+                88,
+                93,
+                2,
+                79,
+                156
+            ],
+            "answer": "Ed Koch",
+            "hint": "Three-time mayor of New York (2 wds.)"
+        }
+    }
+}

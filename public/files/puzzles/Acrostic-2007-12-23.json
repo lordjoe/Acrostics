@@ -1,0 +1,329 @@
+{
+    "answer": "How did the cosmos originate? How long has it been around? Did [it] begin with an explosion or by the word of God?... If the latter, could He not have begun it... two weeks earlier to take advantage of some of the warmer weather?",
+    "author": "Woody Allen,",
+    "authorCell": [
+        121,
+        136,
+        80,
+        49,
+        75,
+        41,
+        66,
+        102,
+        155,
+        30,
+        12,
+        55,
+        142,
+        165,
+        160,
+        89,
+        84,
+        149,
+        99,
+        146,
+        152
+    ],
+    "source": "Side Effects",
+    "clues": {
+        "A": {
+            "cells": [
+                121,
+                63,
+                37,
+                151,
+                11,
+                100,
+                135,
+                168,
+                82
+            ],
+            "answer": "Web-footed",
+            "hint": "Well adapted for travel in water (hyph.)"
+        },
+        "B": {
+            "cells": [
+                136,
+                74,
+                162,
+                103,
+                18,
+                33,
+                60
+            ],
+            "answer": "Obadiah",
+            "hint": "Old Testament\u2019s shortest book"
+        },
+        "C": {
+            "cells": [
+                80,
+                111,
+                124,
+                56,
+                164,
+                69,
+                96,
+                137,
+                34
+            ],
+            "answer": "Oven mitts",
+            "hint": "Handy items in a hot spot (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                49,
+                122,
+                79,
+                106,
+                25,
+                67,
+                154,
+                92
+            ],
+            "answer": "Down-home",
+            "hint": "In a folksy, old-timey style, as wit or cooking (hyph.)"
+        },
+        "E": {
+            "cells": [
+                75,
+                19,
+                31,
+                46,
+                163,
+                147,
+                127,
+                5,
+                93
+            ],
+            "answer": "Yggdrasil",
+            "hint": "Great tree at the center of the universe, in Norse mythology"
+        },
+        "F": {
+            "cells": [
+                41,
+                77,
+                167,
+                94,
+                8,
+                62,
+                133,
+                24
+            ],
+            "answer": "Ahwahnee",
+            "hint": "Yosemite Park hotel, with an Indian name, that is a National Historic Landmark"
+        },
+        "G": {
+            "cells": [
+                66,
+                110,
+                126,
+                38,
+                140,
+                17,
+                50,
+                78
+            ],
+            "answer": "Lake Erie",
+            "hint": "Member of a great quintet (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                102,
+                9,
+                170,
+                58,
+                119,
+                85,
+                150
+            ],
+            "answer": "Let it go",
+            "hint": "Be forgiving; don\u2019t bother to comment on something (3 wds.)"
+        },
+        "I": {
+            "cells": [
+                155,
+                4,
+                20,
+                36,
+                91,
+                52,
+                116,
+                71,
+                139,
+                128,
+                173
+            ],
+            "answer": "Edith Bunker",
+            "hint": "Beleaguered housewife in a 1970s sitcom (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                30,
+                83,
+                57,
+                159,
+                125,
+                98,
+                114,
+                13,
+                141,
+                45
+            ],
+            "answer": "\u201cNowhere Man\"",
+            "hint": "1966 Beatles hit from the album \u201cRubber Soul\u201d (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                12,
+                123,
+                35,
+                157,
+                51,
+                113,
+                72,
+                144,
+                90
+            ],
+            "answer": "Swift-boat",
+            "hint": "Since 2004, to undermine with smear tactics (hyph.)"
+        },
+        "L": {
+            "cells": [
+                55,
+                27,
+                2,
+                145,
+                95,
+                115,
+                134,
+                14,
+                161,
+                44,
+                65
+            ],
+            "answer": "\"I Won\u2019t Grow Up\u201d",
+            "hint": "Song from \u201cPeter Pan\u201d (4 wds.)"
+        },
+        "M": {
+            "cells": [
+                142,
+                88,
+                7,
+                59,
+                156,
+                109,
+                172,
+                22,
+                47
+            ],
+            "answer": "Dittohead",
+            "hint": "Faithful listener to radio host Rush Limbaugh"
+        },
+        "N": {
+            "cells": [
+                165,
+                64,
+                108,
+                42,
+                29,
+                143,
+                97,
+                81,
+                120
+            ],
+            "answer": "Extrovert",
+            "hint": "One with few reservations"
+        },
+        "O": {
+            "cells": [
+                160,
+                117,
+                16,
+                101,
+                148,
+                171,
+                68,
+                129,
+                48,
+                87
+            ],
+            "answer": "Enough said",
+            "hint": "\u201cNo need to elaborate\u201d (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                89,
+                112,
+                61,
+                15,
+                158
+            ],
+            "answer": "Feast",
+            "hint": "Saint\u2019s day celebration"
+        },
+        "Q": {
+            "cells": [
+                84,
+                131,
+                26,
+                70,
+                166,
+                39,
+                6
+            ],
+            "answer": "Floored",
+            "hint": "Wowed by a linoleum job?"
+        },
+        "R": {
+            "cells": [
+                149,
+                28,
+                53,
+                10,
+                76,
+                132,
+                107,
+                40
+            ],
+            "answer": "Election",
+            "hint": "Culmination of running"
+        },
+        "S": {
+            "cells": [
+                99,
+                153,
+                1,
+                43,
+                130,
+                23
+            ],
+            "answer": "Cohort",
+            "hint": "Pal; accomplice; group of soldiers"
+        },
+        "T": {
+            "cells": [
+                146,
+                86,
+                3,
+                105,
+                73
+            ],
+            "answer": "Tower",
+            "hint": "Rise to a great height"
+        },
+        "U": {
+            "cells": [
+                152,
+                104,
+                169,
+                21,
+                54,
+                32,
+                138,
+                118
+            ],
+            "answer": "Shanghai",
+            "hint": "Kidnap and force into service"
+        }
+    }
+}

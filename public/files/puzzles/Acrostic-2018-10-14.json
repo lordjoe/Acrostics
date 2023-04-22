@@ -1,0 +1,353 @@
+{
+    "answer": "We need to feel above comedy. ... Buddy Hackett told me he turned down big bucks in Vegas rather than play a room where the stage was higher than the audience. \u201cThey won\u2019t laugh unless they\u2019re looking down at you,\u201d he explained.",
+    "author": "Roger Ebert,",
+    "authorCell": [
+        91,
+        8,
+        106,
+        48,
+        46,
+        73,
+        54,
+        121,
+        84,
+        7,
+        161,
+        52,
+        77,
+        153,
+        108,
+        105,
+        47,
+        144,
+        145,
+        124,
+        26,
+        134,
+        74,
+        60
+    ],
+    "source": "Awake in the Dark",
+    "clues": {
+        "A": {
+            "cells": [
+                91,
+                164,
+                45,
+                150,
+                17,
+                132,
+                110,
+                65
+            ],
+            "answer": "Roulette",
+            "hint": "Addiction for Dostoyevsky"
+        },
+        "B": {
+            "cells": [
+                8,
+                140,
+                176,
+                104,
+                30,
+                78,
+                157
+            ],
+            "answer": "Old hand",
+            "hint": "Seasoned pro (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                106,
+                38,
+                62,
+                20,
+                170,
+                142,
+                5,
+                119
+            ],
+            "answer": "Glimpsed",
+            "hint": "Caught sight of briefly"
+        },
+        "D": {
+            "cells": [
+                48,
+                131,
+                103,
+                149,
+                87,
+                24,
+                171,
+                116
+            ],
+            "answer": "Ensemble",
+            "hint": "Coordinated set of threads"
+        },
+        "E": {
+            "cells": [
+                46,
+                15,
+                58,
+                156,
+                107,
+                29,
+                127,
+                88,
+                174
+            ],
+            "answer": "Rough-hewn",
+            "hint": "Made crudely, without finesse (hyph.)"
+        },
+        "F": {
+            "cells": [
+                73,
+                169,
+                123,
+                138,
+                96,
+                4,
+                40,
+                21
+            ],
+            "answer": "Excuse me",
+            "hint": "Catchphrase for Steve Martin (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                54,
+                112,
+                148,
+                126,
+                19,
+                79
+            ],
+            "answer": "Barhop",
+            "hint": "Go from one watering hole to the next"
+        },
+        "H": {
+            "cells": [
+                121,
+                172,
+                36,
+                55,
+                97
+            ],
+            "answer": "\"Eat It\"",
+            "hint": "Grammy-winning parody of 1984 (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                84,
+                118,
+                57,
+                147,
+                27,
+                100,
+                43
+            ],
+            "answer": "Ruby Dee",
+            "hint": "Actress who portrayed Jackie Robinson\u2019s wife in \u201cThe Jackie Robinson Story\u201d (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                7,
+                168,
+                113,
+                135,
+                86,
+                25,
+                68
+            ],
+            "answer": "Tenuous",
+            "hint": "A little shaky"
+        },
+        "K": {
+            "cells": [
+                161,
+                136,
+                117,
+                44,
+                89,
+                70
+            ],
+            "answer": "Agatha",
+            "hint": "Fearsome aunt in stories by P. G. Wodehouse"
+        },
+        "L": {
+            "cells": [
+                52,
+                67,
+                114,
+                18,
+                166,
+                6,
+                130,
+                99
+            ],
+            "answer": "Watchdog",
+            "hint": "Protector of consumers"
+        },
+        "M": {
+            "cells": [
+                77,
+                160,
+                23,
+                94,
+                37,
+                129
+            ],
+            "answer": "Anyhow",
+            "hint": "\u201cBut on another subject ...\u201d"
+        },
+        "N": {
+            "cells": [
+                153,
+                42,
+                109,
+                165,
+                61,
+                137,
+                31,
+                76,
+                2,
+                16
+            ],
+            "answer": "Khrushchev",
+            "hint": "Nixon\u2019s sparring partner in a 1959 \u201ckitchen debate\u201d"
+        },
+        "O": {
+            "cells": [
+                108,
+                14,
+                158,
+                139,
+                82
+            ],
+            "answer": "Ebony",
+            "hint": "Wood so dense it will sink in water"
+        },
+        "P": {
+            "cells": [
+                105,
+                50,
+                92,
+                155,
+                71,
+                173,
+                9,
+                128
+            ],
+            "answer": "Identify",
+            "hint": "Think of oneself, in a way"
+        },
+        "Q": {
+            "cells": [
+                47,
+                98,
+                63,
+                141,
+                162,
+                125,
+                11
+            ],
+            "answer": "Nanette",
+            "hint": "One of the two in \u201cTea for Two\u201d"
+        },
+        "R": {
+            "cells": [
+                144,
+                72,
+                120,
+                59,
+                32,
+                167,
+                93
+            ],
+            "answer": "Thicket",
+            "hint": "Large tangle of greenery"
+        },
+        "S": {
+            "cells": [
+                145,
+                33,
+                10,
+                115,
+                81,
+                101
+            ],
+            "answer": "\"Hee Haw\"",
+            "hint": "Old variety show with a \u201cjoke fence\u201d (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                124,
+                80,
+                95,
+                64,
+                13,
+                34,
+                146,
+                49
+            ],
+            "answer": "Elevated",
+            "hint": "Raised, lofty; superior"
+        },
+        "U": {
+            "cells": [
+                26,
+                83,
+                69,
+                133,
+                154,
+                3,
+                56
+            ],
+            "answer": "Darling",
+            "hint": "Precious, cute, adorable"
+        },
+        "V": {
+            "cells": [
+                134,
+                53,
+                35,
+                111,
+                151,
+                12,
+                85,
+                66,
+                163
+            ],
+            "answer": "Anthology",
+            "hint": "Work whose name means \u201ccollection of flowers\u201d"
+        },
+        "W": {
+            "cells": [
+                74,
+                90,
+                22,
+                1,
+                51,
+                152,
+                39
+            ],
+            "answer": "Redwood",
+            "hint": "Mariposa Grove specimen"
+        },
+        "X": {
+            "cells": [
+                60,
+                102,
+                122,
+                28,
+                175,
+                159,
+                41,
+                143,
+                75
+            ],
+            "answer": "Kanye West",
+            "hint": "\u201cWe rappers is role models \u2014 we rap, we don\u2019t think\u201d rapper (2 wds.)"
+        }
+    }
+}

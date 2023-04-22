@@ -1,0 +1,326 @@
+{
+    "answer": "Much of [biotechnology]... is... frivolous. Efforts to engineer paler trout for better visibility in the stream, square trees for easier lumbering, and injectable scent cells so you\u2019ll always smell of... perfume... are not [a joke].",
+    "author": "(Michael) Crichton,",
+    "authorCell": [
+        12,
+        168,
+        70,
+        3,
+        4,
+        125,
+        26,
+        118,
+        122,
+        109,
+        84,
+        117,
+        139,
+        98,
+        8,
+        131,
+        48,
+        173,
+        52,
+        176
+    ],
+    "source": "Jurassic Park",
+    "clues": {
+        "A": {
+            "cells": [
+                12,
+                90,
+                146,
+                171,
+                63,
+                134,
+                106,
+                30
+            ],
+            "answer": "Culottes",
+            "hint": "Versatile women\u2019s garment"
+        },
+        "B": {
+            "cells": [
+                168,
+                72,
+                111,
+                124,
+                150,
+                18,
+                93
+            ],
+            "answer": "Rib cage",
+            "hint": "Protector of a pump (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                70,
+                14,
+                94,
+                123,
+                54,
+                108,
+                141,
+                160,
+                81,
+                35
+            ],
+            "answer": "Interloper",
+            "hint": "Somebody being a busybody"
+        },
+        "D": {
+            "cells": [
+                3,
+                147,
+                82,
+                161,
+                19,
+                174,
+                55,
+                133,
+                96,
+                37
+            ],
+            "answer": "Casey Jones",
+            "hint": "Hero who \u201cdied at the throttle / With the whistle in his hand\u201d (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                4,
+                17,
+                154,
+                71,
+                56,
+                95,
+                116
+            ],
+            "answer": "Homburg",
+            "hint": "German spa that lent its name to an article of apparel"
+        },
+        "F": {
+            "cells": [
+                125,
+                175,
+                1,
+                99,
+                34,
+                15,
+                50,
+                62,
+                162,
+                151
+            ],
+            "answer": "Tomfoolery",
+            "hint": "Horseplay, shenanigans"
+        },
+        "G": {
+            "cells": [
+                26,
+                58,
+                163,
+                75,
+                13,
+                40,
+                149,
+                86,
+                128,
+                138
+            ],
+            "answer": "Off-the-wall",
+            "hint": "Nutty, bizarre (hyph.)"
+        },
+        "H": {
+            "cells": [
+                118,
+                45,
+                33,
+                103,
+                60,
+                20,
+                5,
+                144,
+                88
+            ],
+            "answer": "Nefarious",
+            "hint": "Descriptive of a stock villain"
+        },
+        "I": {
+            "cells": [
+                122,
+                9,
+                137,
+                156,
+                76,
+                107,
+                28,
+                42,
+                169,
+                92
+            ],
+            "answer": "Jolly Roger",
+            "hint": "What a picaroon may fly (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                109,
+                23,
+                7,
+                126,
+                41,
+                165,
+                142,
+                57,
+                80,
+                69
+            ],
+            "answer": "Urban myths",
+            "hint": "Accounts investigated by snopes.com (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                84,
+                136,
+                49,
+                16,
+                157,
+                120,
+                32,
+                102
+            ],
+            "answer": "Real life",
+            "hint": "The practical world; not make-believe (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                117,
+                61,
+                104,
+                83,
+                47,
+                29,
+                130,
+                155
+            ],
+            "answer": "Abstruse",
+            "hint": "Difficult for the uninitiated to grasp"
+        },
+        "M": {
+            "cells": [
+                139,
+                74,
+                27,
+                112,
+                152,
+                43,
+                167
+            ],
+            "answer": "Silesia",
+            "hint": "Region inhabited by Poles, Czechs and Germans"
+        },
+        "N": {
+            "cells": [
+                98,
+                172,
+                31,
+                10,
+                140,
+                59,
+                78
+            ],
+            "answer": "Stetson",
+            "hint": "What keeps the rain off many a cowpoke\u2019s head"
+        },
+        "O": {
+            "cells": [
+                8,
+                121,
+                85,
+                22,
+                159,
+                177,
+                135,
+                38,
+                105,
+                67,
+                51
+            ],
+            "answer": "Ineffective",
+            "hint": "Not getting the job done"
+        },
+        "P": {
+            "cells": [
+                131,
+                24,
+                115,
+                89,
+                164,
+                46,
+                6,
+                100,
+                68,
+                148
+            ],
+            "answer": "Cinquefoil",
+            "hint": "Creeping plant with bright yellow flowers"
+        },
+        "Q": {
+            "cells": [
+                48,
+                114,
+                143,
+                170,
+                97,
+                129,
+                66
+            ],
+            "answer": "Pioneer",
+            "hint": "1950s-\u201970s NASA program"
+        },
+        "R": {
+            "cells": [
+                173,
+                110,
+                127,
+                77,
+                25,
+                91,
+                145,
+                11,
+                44,
+                64
+            ],
+            "answer": "Ambivalent",
+            "hint": "Having mixed emotions"
+        },
+        "S": {
+            "cells": [
+                52,
+                158,
+                39,
+                21,
+                79,
+                65,
+                113
+            ],
+            "answer": "Rooster",
+            "hint": "Emblem of the Democratic Party in 1840"
+        },
+        "T": {
+            "cells": [
+                176,
+                166,
+                53,
+                36,
+                73,
+                132,
+                119,
+                101,
+                2,
+                87,
+                153
+            ],
+            "answer": "Kettledrums",
+            "hint": "Makers of rolling thunder"
+        }
+    }
+}

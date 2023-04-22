@@ -1,0 +1,368 @@
+{
+    "answer": "When Napoleon\u2019s soldiers, who had never seen a photograph..., rounded a bend and caught sight of the Temple of Karnak for the first time, they were so moved by the marvelous sight that they burst into spontaneous applause.",
+    "author": "Rosemary Mahoney,",
+    "authorCell": [
+        95,
+        134,
+        137,
+        53,
+        106,
+        91,
+        130,
+        149,
+        118,
+        129,
+        72,
+        158,
+        36,
+        121,
+        124,
+        27,
+        119,
+        1,
+        58,
+        125,
+        109,
+        29,
+        61,
+        155,
+        173,
+        10
+    ],
+    "source": "Down The Nile",
+    "clues": {
+        "A": {
+            "cells": [
+                95,
+                42,
+                112,
+                123,
+                8,
+                170,
+                76
+            ],
+            "answer": "Rowboat",
+            "hint": "Craft operated alone in Egypt by this quote\u2019s author"
+        },
+        "B": {
+            "cells": [
+                134,
+                150,
+                110,
+                9,
+                70,
+                169,
+                87
+            ],
+            "answer": "Obelisk",
+            "hint": "Cleopatra\u2019s Needle, for one"
+        },
+        "C": {
+            "cells": [
+                137,
+                2,
+                64,
+                52,
+                161,
+                24,
+                86
+            ],
+            "answer": "Shadoof",
+            "hint": "Egyptian pole-and-bucket device for raising water"
+        },
+        "D": {
+            "cells": [
+                53,
+                120,
+                78,
+                162,
+                92,
+                19,
+                34,
+                133
+            ],
+            "answer": "Even keel",
+            "hint": "State of balance, nautically (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                106,
+                177,
+                128,
+                46,
+                147,
+                18,
+                33
+            ],
+            "answer": "Memphis",
+            "hint": "First capital of ancient Egypt"
+        },
+        "F": {
+            "cells": [
+                91,
+                176,
+                108,
+                35,
+                48,
+                156
+            ],
+            "answer": "Astern",
+            "hint": "Toward the back of a felucca"
+        },
+        "G": {
+            "cells": [
+                130,
+                168,
+                69,
+                146,
+                7,
+                32,
+                49,
+                117,
+                93
+            ],
+            "answer": "Rustproof",
+            "hint": "Good thing for a hull to be"
+        },
+        "H": {
+            "cells": [
+                149,
+                94,
+                126,
+                167,
+                25,
+                74
+            ],
+            "answer": "Yo-ho-ho",
+            "hint": "Sound of piratical revelry (hyph.)"
+        },
+        "I": {
+            "cells": [
+                118,
+                26,
+                172,
+                82,
+                132,
+                62
+            ],
+            "answer": "Mapped",
+            "hint": "Did a navigator\u2019s job"
+        },
+        "J": {
+            "cells": [
+                129,
+                175,
+                43,
+                65,
+                116,
+                103,
+                151,
+                21
+            ],
+            "answer": "Augustus",
+            "hint": "Defeater of Antony and Cleopatra"
+        },
+        "K": {
+            "cells": [
+                72,
+                88,
+                135,
+                165,
+                154,
+                115,
+                17
+            ],
+            "answer": "Haunted",
+            "hint": "Like the Flying Dutchman, per legend"
+        },
+        "L": {
+            "cells": [
+                158,
+                30,
+                3,
+                44,
+                56,
+                85,
+                174,
+                101,
+                122
+            ],
+            "answer": "Overboard",
+            "hint": "To extremes; no longer on deck"
+        },
+        "M": {
+            "cells": [
+                36,
+                15,
+                114,
+                157,
+                77
+            ],
+            "answer": "North",
+            "hint": "From Aswan to Luxor"
+        },
+        "N": {
+            "cells": [
+                121,
+                160,
+                100,
+                73,
+                39,
+                57,
+                142
+            ],
+            "answer": "Epithet",
+            "hint": "\u201cThe Boy King,\u201d for Tutankhamen"
+        },
+        "O": {
+            "cells": [
+                124,
+                45,
+                63,
+                23,
+                163,
+                102,
+                81,
+                148,
+                5
+            ],
+            "answer": "Yachtsmen",
+            "hint": "Guys who really need to learn the ropes"
+        },
+        "P": {
+            "cells": [
+                27,
+                60,
+                4,
+                145,
+                80
+            ],
+            "answer": "Dante",
+            "hint": "Whom Charon ferried across the Acheron"
+        },
+        "Q": {
+            "cells": [
+                119,
+                99,
+                75,
+                136,
+                47,
+                11,
+                152,
+                31
+            ],
+            "answer": "Offshore",
+            "hint": "Away from the beach"
+        },
+        "R": {
+            "cells": [
+                1,
+                55,
+                141,
+                166,
+                89,
+                16,
+                40,
+                71
+            ],
+            "answer": "Waterlog",
+            "hint": "Make too soggy to sail"
+        },
+        "S": {
+            "cells": [
+                58,
+                98,
+                22,
+                159
+            ],
+            "answer": "News",
+            "hint": "Work that may require an anchor"
+        },
+        "T": {
+            "cells": [
+                125,
+                20,
+                164,
+                105,
+                83
+            ],
+            "answer": "Trail",
+            "hint": "A wake, for instance"
+        },
+        "U": {
+            "cells": [
+                109,
+                37,
+                68,
+                153,
+                140,
+                127,
+                171,
+                14,
+                50,
+                79
+            ],
+            "answer": "Hatshepsut",
+            "hint": "Queen of Egypt whose husband was Thutmose II"
+        },
+        "V": {
+            "cells": [
+                29,
+                138,
+                66,
+                97,
+                41
+            ],
+            "answer": "Eight",
+            "hint": "Number of rowers in a varsity shell"
+        },
+        "W": {
+            "cells": [
+                61,
+                6,
+                131,
+                111
+            ],
+            "answer": "Navy",
+            "hint": "Pea jacket\u2019s typical color"
+        },
+        "X": {
+            "cells": [
+                155,
+                12,
+                59,
+                113,
+                38,
+                96,
+                143
+            ],
+            "answer": "In depth",
+            "hint": "How experts in bathymetry study things? (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                173,
+                84,
+                51,
+                139,
+                104,
+                67,
+                13
+            ],
+            "answer": "Lengths",
+            "hint": "Units of distance in a regatta"
+        },
+        "Z": {
+            "cells": [
+                10,
+                90,
+                28,
+                107,
+                144,
+                54
+            ],
+            "answer": "Ennead",
+            "hint": "Group of nine, as an Egyptian pantheon"
+        }
+    }
+}

@@ -1,0 +1,346 @@
+{
+    "answer": "I never can hear... an Italian opera, without fancying myself at Athens, listening to that particular tragedy, by Sophocles, in which he introduces a full chorus of turkeys, who set about bewailing the death of Meleager.",
+    "author": "Edgar Allan Poe,",
+    "authorCell": [
+        175,
+        87,
+        158,
+        8,
+        13,
+        153,
+        19,
+        79,
+        14,
+        2,
+        93,
+        32,
+        3,
+        43,
+        18,
+        26,
+        65,
+        29,
+        62,
+        73,
+        123,
+        20,
+        12
+    ],
+    "source": "Marginalia",
+    "clues": {
+        "A": {
+            "cells": [
+                175,
+                104,
+                59,
+                143,
+                41,
+                119,
+                77,
+                160
+            ],
+            "answer": "Eisenach",
+            "hint": "German town where Johann Sebastian Bach was born"
+        },
+        "B": {
+            "cells": [
+                87,
+                117,
+                131,
+                40,
+                164,
+                9,
+                144
+            ],
+            "answer": "Defiant",
+            "hint": "Adamantly unbending in the face of attacks"
+        },
+        "C": {
+            "cells": [
+                158,
+                126,
+                171,
+                114,
+                99,
+                34,
+                49,
+                74
+            ],
+            "answer": "Gold star",
+            "hint": "Symbol of merit or honor (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                8,
+                30,
+                50,
+                76,
+                96,
+                145
+            ],
+            "answer": "Attica",
+            "hint": "State legendarily unified under Theseus"
+        },
+        "E": {
+            "cells": [
+                13,
+                147,
+                33,
+                85,
+                166,
+                63,
+                129,
+                106
+            ],
+            "answer": "Roughish",
+            "hint": "Rather irregular; somewhat crude"
+        },
+        "F": {
+            "cells": [
+                153,
+                45,
+                103,
+                71,
+                176,
+                21,
+                90
+            ],
+            "answer": "Ashtray",
+            "hint": "Container that\u2019s pig Latin for its type of contents"
+        },
+        "G": {
+            "cells": [
+                19,
+                100,
+                48,
+                163,
+                146,
+                113,
+                84,
+                60
+            ],
+            "answer": "\u201cLifeboat\"",
+            "hint": "Hitchcock film based on a Steinbeck story"
+        },
+        "H": {
+            "cells": [
+                79,
+                16,
+                165,
+                140,
+                54,
+                122,
+                39
+            ],
+            "answer": "Lithely",
+            "hint": "How most ballet dancers perform"
+        },
+        "I": {
+            "cells": [
+                14,
+                115,
+                149,
+                53,
+                98,
+                37,
+                75,
+                1,
+                124
+            ],
+            "answer": "Authentic",
+            "hint": "Honest-to-goodness"
+        },
+        "J": {
+            "cells": [
+                2,
+                170,
+                102,
+                120,
+                67,
+                133,
+                15,
+                162
+            ],
+            "answer": "Newfound",
+            "hint": "Just discovered"
+        },
+        "K": {
+            "cells": [
+                93,
+                128,
+                81,
+                4,
+                109,
+                25,
+                139
+            ],
+            "answer": "Purview",
+            "hint": "Scope of activity or responsibility"
+        },
+        "L": {
+            "cells": [
+                32,
+                148,
+                52,
+                89,
+                70,
+                105,
+                135
+            ],
+            "answer": "Outback",
+            "hint": "Subaru wagon/S.U.V. plugged by Paul Hogan"
+        },
+        "M": {
+            "cells": [
+                3,
+                101,
+                132,
+                61,
+                155,
+                46,
+                116,
+                31,
+                88
+            ],
+            "answer": "Entelechy",
+            "hint": "Fully realized condition"
+        },
+        "N": {
+            "cells": [
+                43,
+                151,
+                110,
+                167,
+                134,
+                27,
+                69
+            ],
+            "answer": "Menorah",
+            "hint": "Symbol on Israel\u2019s coat of arms"
+        },
+        "O": {
+            "cells": [
+                18,
+                64,
+                111,
+                150,
+                136,
+                36,
+                83
+            ],
+            "answer": "Ant bear",
+            "hint": "Aardvark, by another name (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                26,
+                11,
+                152,
+                112,
+                58,
+                82,
+                172
+            ],
+            "answer": "Rewrite",
+            "hint": "Any draft of an article after the first"
+        },
+        "Q": {
+            "cells": [
+                65,
+                130,
+                173,
+                47,
+                24,
+                95,
+                118,
+                159
+            ],
+            "answer": "Goalpost",
+            "hint": "Target that it\u2019s not fair to move"
+        },
+        "R": {
+            "cells": [
+                29,
+                142,
+                68,
+                10,
+                169,
+                121,
+                56
+            ],
+            "answer": "Isthmus",
+            "hint": "Common locale for a canal"
+        },
+        "S": {
+            "cells": [
+                62,
+                161,
+                72,
+                125,
+                6,
+                141,
+                97,
+                23,
+                174,
+                44
+            ],
+            "answer": "Nephrology",
+            "hint": "Study of the kidney"
+        },
+        "T": {
+            "cells": [
+                73,
+                55,
+                38,
+                107,
+                92,
+                127,
+                154,
+                17,
+                5
+            ],
+            "answer": "Anchorite",
+            "hint": "Emulator of St. Anthony"
+        },
+        "U": {
+            "cells": [
+                123,
+                51,
+                22,
+                42,
+                78,
+                156,
+                138,
+                94
+            ],
+            "answer": "Languish",
+            "hint": "Undergo prolonged inactivity; become weak"
+        },
+        "V": {
+            "cells": [
+                20,
+                157,
+                108,
+                35,
+                168,
+                86,
+                7,
+                66
+            ],
+            "answer": "In effect",
+            "hint": "For all practical purposes (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                12,
+                57,
+                28,
+                80,
+                137,
+                91
+            ],
+            "answer": "\"Always\u201d",
+            "hint": "Irving Berlin standard written for his wife"
+        }
+    }
+}

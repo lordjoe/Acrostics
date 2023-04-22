@@ -1,0 +1,350 @@
+{
+    "answer": "I find joy in commonplace mental events, such as a many-factored decision that I have mulled over for days coming to consciousness one morning as I stand in a hot shower. My brain has settled into a choice... . Yay brain!",
+    "author": "(Patricia S.) Churchland,",
+    "authorCell": [
+        160,
+        161,
+        71,
+        50,
+        55,
+        66,
+        72,
+        38,
+        114,
+        83,
+        151,
+        15,
+        102,
+        164,
+        133,
+        163,
+        116,
+        117,
+        40,
+        60,
+        153,
+        82,
+        29,
+        149
+    ],
+    "source": "Touching a Nerve",
+    "clues": {
+        "A": {
+            "cells": [
+                160,
+                139,
+                95,
+                18,
+                112,
+                127,
+                65,
+                47
+            ],
+            "answer": "Cyclonic",
+            "hint": "With winds rotating around a center of low pressure"
+        },
+        "B": {
+            "cells": [
+                161,
+                108,
+                17,
+                147,
+                36,
+                49,
+                122,
+                87,
+                62
+            ],
+            "answer": "Hopscotch",
+            "hint": "Game with a home base"
+        },
+        "C": {
+            "cells": [
+                71,
+                41,
+                140,
+                170,
+                19,
+                92,
+                110
+            ],
+            "answer": "Umbrage",
+            "hint": "Offense"
+        },
+        "D": {
+            "cells": [
+                50,
+                123,
+                64,
+                37,
+                78,
+                137
+            ],
+            "answer": "Rather",
+            "hint": "Just as soon; instead"
+        },
+        "E": {
+            "cells": [
+                55,
+                12,
+                89,
+                169,
+                126,
+                144,
+                74
+            ],
+            "answer": "Combine",
+            "hint": "What reaps, threshes and winnows"
+        },
+        "F": {
+            "cells": [
+                66,
+                171,
+                111,
+                45,
+                1,
+                148,
+                93,
+                23,
+                125
+            ],
+            "answer": "Ham-fisted",
+            "hint": "Lacking manual dexterity (hyph.)"
+        },
+        "G": {
+            "cells": [
+                72,
+                142,
+                7,
+                157,
+                58,
+                128,
+                24
+            ],
+            "answer": "Laotian",
+            "hint": "From one of the Golden Triangle lands"
+        },
+        "H": {
+            "cells": [
+                38,
+                106,
+                131,
+                21,
+                79,
+                59,
+                120,
+                154
+            ],
+            "answer": "Asteroid",
+            "hint": "Feature of a big belt"
+        },
+        "I": {
+            "cells": [
+                114,
+                158,
+                77,
+                94,
+                11,
+                63,
+                143,
+                43,
+                28
+            ],
+            "answer": "Novocaine",
+            "hint": "Number named by chemist Alfred Einhorn"
+        },
+        "J": {
+            "cells": [
+                83,
+                168,
+                156,
+                67,
+                13,
+                101
+            ],
+            "answer": "Dynamo",
+            "hint": "Pistol, live wire, fireball, go-getter"
+        },
+        "K": {
+            "cells": [
+                151,
+                84,
+                31,
+                5,
+                54,
+                138
+            ],
+            "answer": "Tandem",
+            "hint": "What draft horses may work in"
+        },
+        "L": {
+            "cells": [
+                15,
+                80,
+                2,
+                103,
+                155,
+                53,
+                136
+            ],
+            "answer": "Offside",
+            "hint": "Apt to make a soccer ref raise a flag"
+        },
+        "M": {
+            "cells": [
+                102,
+                10,
+                129,
+                26,
+                173,
+                75,
+                44
+            ],
+            "answer": "Unhandy",
+            "hint": "Far from dexterous, all thumbs"
+        },
+        "N": {
+            "cells": [
+                164,
+                134,
+                22,
+                115,
+                99,
+                39
+            ],
+            "answer": "Comics",
+            "hint": "Where readers may turn for laughs"
+        },
+        "O": {
+            "cells": [
+                133,
+                162,
+                86,
+                150,
+                105,
+                57,
+                33
+            ],
+            "answer": "Hostess",
+            "hint": "Brand associated with CupCakes and Ding Dongs"
+        },
+        "P": {
+            "cells": [
+                163,
+                124,
+                107,
+                146,
+                91,
+                56,
+                25,
+                8
+            ],
+            "answer": "Insanity",
+            "hint": "\u201cIn individuals, ___ is rare; but in groups, parties, nations and epochs, it is the rule\u201d: Nietzsche"
+        },
+        "Q": {
+            "cells": [
+                116,
+                81,
+                132,
+                165,
+                20,
+                96,
+                4,
+                51
+            ],
+            "answer": "Nose cone",
+            "hint": "Section of a rocket or guided missile (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                117,
+                166,
+                70,
+                16,
+                46,
+                98,
+                32
+            ],
+            "answer": "Gymnast",
+            "hint": "One who may work on a lifeless horse"
+        },
+        "S": {
+            "cells": [
+                40,
+                109,
+                130,
+                14,
+                167,
+                73,
+                85
+            ],
+            "answer": "Anomaly",
+            "hint": "Deviation from the norm; oddity"
+        },
+        "T": {
+            "cells": [
+                60,
+                76,
+                141,
+                113,
+                100,
+                34
+            ],
+            "answer": "Norris",
+            "hint": "Eponym of the N.H.L. trophy for best defenseman"
+        },
+        "U": {
+            "cells": [
+                153,
+                104,
+                68,
+                9,
+                88,
+                35,
+                119
+            ],
+            "answer": "Envious",
+            "hint": "Green, according to idiom"
+        },
+        "V": {
+            "cells": [
+                82,
+                159,
+                135,
+                145,
+                172,
+                52,
+                30
+            ],
+            "answer": "\"Rawhide\"",
+            "hint": "Old TV theme song with the lyric \u201cRollin\u2019, rollin\u2019, rollin\u2019\u201d"
+        },
+        "W": {
+            "cells": [
+                29,
+                118,
+                152,
+                6,
+                69,
+                42,
+                97
+            ],
+            "answer": "Valjean",
+            "hint": "Whom the police inspector Javert pursues"
+        },
+        "X": {
+            "cells": [
+                149,
+                27,
+                90,
+                61,
+                3,
+                121,
+                48
+            ],
+            "answer": "Elitist",
+            "hint": "Social snob"
+        }
+    }
+}

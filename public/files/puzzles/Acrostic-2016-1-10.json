@@ -1,0 +1,356 @@
+{
+    "answer": "[E]xterminating wolves does not guarantee a moose or caribou in every hunter\u2019s freezer. ... [L]ife and death in the wild form a Mobius strip. It\u2019s impossible to trace one side without inexplicably finding yourself on the other.",
+    "author": "(Sherry) Simpson,",
+    "authorCell": [
+        117,
+        143,
+        6,
+        147,
+        132,
+        42,
+        144,
+        82,
+        83,
+        70,
+        89,
+        151,
+        154,
+        136,
+        133,
+        77,
+        26,
+        178,
+        71,
+        150,
+        115,
+        98,
+        128,
+        64
+    ],
+    "source": "The Way Winter Comes",
+    "clues": {
+        "A": {
+            "cells": [
+                117,
+                81,
+                44,
+                63,
+                149,
+                23,
+                176,
+                162
+            ],
+            "answer": "Sacristy",
+            "hint": "Storage room for chasubles, chalices, etc."
+        },
+        "B": {
+            "cells": [
+                143,
+                171,
+                59,
+                11,
+                110
+            ],
+            "answer": "Inuit",
+            "hint": "Most inhabitants of Greenland"
+        },
+        "C": {
+            "cells": [
+                6,
+                126,
+                66,
+                107,
+                86,
+                51,
+                37,
+                145
+            ],
+            "answer": "Maritime",
+            "hint": "Bordering on the sea"
+        },
+        "D": {
+            "cells": [
+                147,
+                16,
+                34,
+                61,
+                87,
+                129,
+                106,
+                45
+            ],
+            "answer": "Plethora",
+            "hint": "Superabundance, more than ample supply"
+        },
+        "E": {
+            "cells": [
+                132,
+                76,
+                12,
+                92,
+                109,
+                41,
+                161,
+                175
+            ],
+            "answer": "San Diego",
+            "hint": "Locale of the \u201cKoalafornia\u201d zoo exhibit (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                42,
+                54,
+                135,
+                5,
+                155,
+                72,
+                118,
+                27,
+                173,
+                105
+            ],
+            "answer": "Overflight",
+            "hint": "Privilege granted by open-skies policies"
+        },
+        "G": {
+            "cells": [
+                144,
+                62,
+                103,
+                122,
+                18,
+                78
+            ],
+            "answer": "Nested",
+            "hint": "Packed compactly, in a way"
+        },
+        "H": {
+            "cells": [
+                82,
+                35,
+                148,
+                68,
+                17,
+                47,
+                116,
+                101,
+                170,
+                130
+            ],
+            "answer": "Television",
+            "hint": "Medium \u201cneither rare nor well done,\u201d per Ernie Kovacs"
+        },
+        "I": {
+            "cells": [
+                83,
+                53,
+                36,
+                20,
+                138,
+                179,
+                159,
+                108
+            ],
+            "answer": "Head trip",
+            "hint": "Mentally stimulating experience, in slang (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                70,
+                146,
+                164,
+                125,
+                100
+            ],
+            "answer": "Exurb",
+            "hint": "Outlying residential area"
+        },
+        "K": {
+            "cells": [
+                89,
+                174,
+                104,
+                33,
+                14,
+                73,
+                160,
+                134
+            ],
+            "answer": "West wind",
+            "hint": "Favonius, to ancient Romans (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                151,
+                67,
+                39,
+                168,
+                102,
+                19
+            ],
+            "answer": "Aeolus",
+            "hint": "God who sent the K. to guide Ulysses"
+        },
+        "M": {
+            "cells": [
+                154,
+                131,
+                31,
+                95,
+                52
+            ],
+            "answer": "Yearn",
+            "hint": "Harbor a deep desire"
+        },
+        "N": {
+            "cells": [
+                136,
+                21,
+                94,
+                158,
+                1,
+                60
+            ],
+            "answer": "Wooden",
+            "hint": "Far from fluid, as a performer"
+        },
+        "O": {
+            "cells": [
+                133,
+                24,
+                74,
+                156,
+                43,
+                113,
+                90,
+                10,
+                57
+            ],
+            "answer": "Infirmity",
+            "hint": "Lack of vigor, weakness"
+        },
+        "P": {
+            "cells": [
+                77,
+                123,
+                169,
+                9,
+                50,
+                91,
+                142
+            ],
+            "answer": "No-fault",
+            "hint": "Regardless of liability (hyph.)"
+        },
+        "Q": {
+            "cells": [
+                26,
+                38,
+                56,
+                163,
+                137,
+                79,
+                97,
+                120
+            ],
+            "answer": "Toroidal",
+            "hint": "Like a bagel, to a topologist"
+        },
+        "R": {
+            "cells": [
+                178,
+                152,
+                121,
+                32,
+                88,
+                69,
+                4,
+                46
+            ],
+            "answer": "Ebenezer",
+            "hint": "First name among reformed misanthropes"
+        },
+        "S": {
+            "cells": [
+                71,
+                84,
+                40,
+                7,
+                119,
+                153,
+                22
+            ],
+            "answer": "Risible",
+            "hint": "Laugh-inducing, ludicrous"
+        },
+        "T": {
+            "cells": [
+                150,
+                58,
+                167,
+                111,
+                3,
+                85,
+                28,
+                124
+            ],
+            "answer": "Chestnut",
+            "hint": "Once-prevalent tree of Eastern woodlands"
+        },
+        "U": {
+            "cells": [
+                115,
+                141,
+                172,
+                93,
+                49,
+                2
+            ],
+            "answer": "Outfox",
+            "hint": "Beat through brainwork"
+        },
+        "V": {
+            "cells": [
+                98,
+                29,
+                65,
+                112,
+                140,
+                166,
+                15
+            ],
+            "answer": "Mafioso",
+            "hint": "Mob member"
+        },
+        "W": {
+            "cells": [
+                128,
+                114,
+                139,
+                55,
+                96,
+                75,
+                165,
+                25,
+                8
+            ],
+            "answer": "Ephemeron",
+            "hint": "Collectible card, pamphlet, ticket or such"
+        },
+        "X": {
+            "cells": [
+                64,
+                127,
+                177,
+                99,
+                157,
+                48,
+                80,
+                30,
+                13
+            ],
+            "answer": "Schönberg",
+            "hint": "Composer of 12-tone music"
+        }
+    }
+}

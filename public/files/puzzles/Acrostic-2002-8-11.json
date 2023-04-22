@@ -1,0 +1,345 @@
+{
+    "answer": "\u201cI don\u2019t know about your farm in Maine, mister, but I have a ranch in Texas and it takes me five days to drive around my entire spread,\u201d says the Texan. The Maine farmer replies, \u201cOh yes, I have a car just like that myself.\u201d",
+    "author": "Clarissa Silitch (Editor),",
+    "authorCell": [
+        105,
+        133,
+        60,
+        94,
+        108,
+        155,
+        65,
+        11,
+        86,
+        78,
+        64,
+        12,
+        124,
+        106,
+        161,
+        4,
+        157,
+        128,
+        112,
+        160,
+        37,
+        25,
+        8,
+        18
+    ],
+    "source": "A Little Book Of Yankee Humor",
+    "clues": {
+        "A": {
+            "cells": [
+                105,
+                45,
+                127,
+                164,
+                10,
+                88,
+                33
+            ],
+            "answer": "Army ant",
+            "hint": "Ferocious marcher in a column (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                133,
+                29,
+                1,
+                66,
+                87,
+                100,
+                53
+            ],
+            "answer": "Leisure",
+            "hint": "\u201c___ is the mother of Philosophy\u201d (Thomas Hobbes)"
+        },
+        "C": {
+            "cells": [
+                60,
+                48,
+                135,
+                22,
+                121,
+                167,
+                6
+            ],
+            "answer": "Ice milk",
+            "hint": "Cold dessert (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                94,
+                109,
+                43,
+                56,
+                72,
+                17,
+                153
+            ],
+            "answer": "Theseus",
+            "hint": "Whom Ariadne gave a clue"
+        },
+        "E": {
+            "cells": [
+                108,
+                117,
+                156,
+                21,
+                76,
+                38,
+                139
+            ],
+            "answer": "Thirsty",
+            "hint": "Deficient in moisture"
+        },
+        "F": {
+            "cells": [
+                155,
+                110,
+                138,
+                41,
+                71,
+                96,
+                123
+            ],
+            "answer": "Le Havre",
+            "hint": "English Channel port (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                65,
+                84,
+                107,
+                75,
+                137,
+                13,
+                116
+            ],
+            "answer": "Easy out",
+            "hint": "No threat, in baseball (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                11,
+                39,
+                141,
+                61,
+                149,
+                77,
+                97
+            ],
+            "answer": "Bistate",
+            "hint": "Involving two of 50, perhaps"
+        },
+        "I": {
+            "cells": [
+                86,
+                148,
+                74,
+                7,
+                120,
+                59,
+                44
+            ],
+            "answer": "\u201cO Canada\u201c",
+            "hint": "Anthem with music by Calixa Lavallee (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                78,
+                113,
+                49,
+                131,
+                20,
+                35,
+                162
+            ],
+            "answer": "Oxheart",
+            "hint": "Cultivated cherry with sweet juicy fruit"
+        },
+        "K": {
+            "cells": [
+                64,
+                122,
+                55,
+                82,
+                134,
+                165,
+                143
+            ],
+            "answer": "Knavish",
+            "hint": "Roguelike"
+        },
+        "L": {
+            "cells": [
+                12,
+                24,
+                103,
+                126,
+                147,
+                69,
+                52
+            ],
+            "answer": "On draft",
+            "hint": "Opposite of bottled (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                124,
+                158,
+                32,
+                111,
+                95,
+                145,
+                68
+            ],
+            "answer": "Festive",
+            "hint": "In the mood for merrymaking"
+        },
+        "N": {
+            "cells": [
+                106,
+                16,
+                151,
+                142,
+                163,
+                36,
+                3
+            ],
+            "answer": "\u201cYojimbo\u201d",
+            "hint": "1961 Kurosawa film about a samurai"
+        },
+        "O": {
+            "cells": [
+                161,
+                93,
+                14,
+                146,
+                28,
+                47,
+                57
+            ],
+            "answer": "Antenna",
+            "hint": "Receiver of electromagnetic waves"
+        },
+        "P": {
+            "cells": [
+                4,
+                166,
+                30,
+                83,
+                136,
+                70,
+                98
+            ],
+            "answer": "Nemesis",
+            "hint": "Bringer of inevitable defeat or frustration"
+        },
+        "Q": {
+            "cells": [
+                157,
+                27,
+                9,
+                46,
+                58,
+                81,
+                104
+            ],
+            "answer": "Kiwanis",
+            "hint": "Organization whose name comes from Otchipew for \u201cWe have a good time\u201d"
+        },
+        "R": {
+            "cells": [
+                128,
+                42,
+                31,
+                89,
+                101,
+                51,
+                62
+            ],
+            "answer": "Evident",
+            "hint": "As plain as the nose on your face"
+        },
+        "S": {
+            "cells": [
+                112,
+                54,
+                132,
+                26,
+                80,
+                154,
+                92
+            ],
+            "answer": "Ex parte",
+            "hint": "In the interest of one side only (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                160,
+                63,
+                150,
+                79,
+                40,
+                102,
+                5
+            ],
+            "answer": "Hard hat",
+            "hint": "Blue-collar worker, of a sort (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                37,
+                119,
+                99,
+                23,
+                85,
+                140,
+                2
+            ],
+            "answer": "Umpired",
+            "hint": "Had a job close to home"
+        },
+        "V": {
+            "cells": [
+                25,
+                152,
+                90,
+                67,
+                118,
+                130,
+                15
+            ],
+            "answer": "Mummery",
+            "hint": "Masked and costumed celebrating"
+        },
+        "W": {
+            "cells": [
+                8,
+                19,
+                168,
+                91,
+                34,
+                114,
+                129
+            ],
+            "answer": "Off year",
+            "hint": "Season not worth remembering (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                18,
+                144,
+                73,
+                50,
+                125,
+                115,
+                159
+            ],
+            "answer": "Radiant",
+            "hint": "Bright with hope or happiness"
+        }
+    }
+}

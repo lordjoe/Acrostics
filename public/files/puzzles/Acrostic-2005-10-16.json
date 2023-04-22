@@ -1,0 +1,364 @@
+{
+    "answer": "There is no way in the universe to get more bang for your buck than to take a particle and annihilate it with its antiparticle to produce pure radiation energy. [This] is the ultimate rocket-propulsion technology.",
+    "author": "(Lawrence M.) Krauss,",
+    "authorCell": [
+        49,
+        155,
+        57,
+        158,
+        160,
+        24,
+        131,
+        2,
+        152,
+        154,
+        87,
+        173,
+        90,
+        13,
+        150,
+        136,
+        162,
+        39,
+        7,
+        30,
+        91,
+        116,
+        83,
+        128,
+        29,
+        151
+    ],
+    "source": "The Physics Of Star Trek",
+    "clues": {
+        "A": {
+            "cells": [
+                49,
+                78,
+                99,
+                124,
+                38,
+                169,
+                19
+            ],
+            "answer": "Klingon",
+            "hint": "Language called tlhingan Hol by \u201cnative speakers\u201d"
+        },
+        "B": {
+            "cells": [
+                155,
+                40,
+                137,
+                62,
+                98,
+                5
+            ],
+            "answer": "Rotate",
+            "hint": "Mimic the turning of celestial spheres"
+        },
+        "C": {
+            "cells": [
+                57,
+                100,
+                15,
+                133,
+                156,
+                37
+            ],
+            "answer": "Action",
+            "hint": "Flying, crashing, shooting ray-guns, etc."
+        },
+        "D": {
+            "cells": [
+                158,
+                101,
+                54,
+                114,
+                79,
+                21,
+                143,
+                43,
+                67,
+                125,
+                1
+            ],
+            "answer": "Ultraviolet",
+            "hint": "Having a wavelength between those of visible light and X-rays"
+        },
+        "E": {
+            "cells": [
+                160,
+                95,
+                11,
+                48,
+                68,
+                145,
+                129,
+                111
+            ],
+            "answer": "Space Age",
+            "hint": "Time from 10/4/57 to now (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                24,
+                117,
+                47,
+                66,
+                34,
+                148
+            ],
+            "answer": "Saucer",
+            "hint": "Ostensible form of an unearthly transport"
+        },
+        "G": {
+            "cells": [
+                131,
+                65,
+                103,
+                36,
+                163,
+                85,
+                52
+            ],
+            "answer": "Titania",
+            "hint": "Moon of Uranus"
+        },
+        "H": {
+            "cells": [
+                2,
+                94,
+                172,
+                132,
+                50,
+                20,
+                71,
+                115
+            ],
+            "answer": "High tide",
+            "hint": "Lunar effect (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                152,
+                70,
+                108,
+                55,
+                23
+            ],
+            "answer": "Endor",
+            "hint": "Home world of the Ewoks, attacked by the Empire"
+        },
+        "J": {
+            "cells": [
+                154,
+                138,
+                123,
+                86,
+                107,
+                8
+            ],
+            "answer": "Photon",
+            "hint": "Light quantum"
+        },
+        "K": {
+            "cells": [
+                87,
+                104,
+                130,
+                141,
+                22
+            ],
+            "answer": "Hoyle",
+            "hint": "Sir Fred ___, astronomer who espoused a \u201csteady-state\u201d theory"
+        },
+        "L": {
+            "cells": [
+                173,
+                153,
+                93,
+                81,
+                63,
+                46,
+                122,
+                140,
+                31
+            ],
+            "answer": "Ytterbium",
+            "hint": "Rare-earth element used in laser devices"
+        },
+        "M": {
+            "cells": [
+                90,
+                69,
+                26,
+                161,
+                3
+            ],
+            "answer": "Satie",
+            "hint": "\u201cPrelude to the Heroic Gate of Heaven\u201d composer"
+        },
+        "N": {
+            "cells": [
+                13,
+                168,
+                56,
+                33,
+                139,
+                105,
+                77,
+                118
+            ],
+            "answer": "Intrepid",
+            "hint": "Daring to go where no one has gone before?"
+        },
+        "O": {
+            "cells": [
+                150,
+                16,
+                102,
+                84,
+                35,
+                72,
+                166,
+                110,
+                120
+            ],
+            "answer": "Chewbacca",
+            "hint": "Wookiee of distinction"
+        },
+        "P": {
+            "cells": [
+                136,
+                167,
+                88,
+                53,
+                12
+            ],
+            "answer": "Shiny",
+            "hint": "Abounding with sunlight"
+        },
+        "Q": {
+            "cells": [
+                162,
+                109,
+                146,
+                64,
+                76,
+                25,
+                97,
+                127
+            ],
+            "answer": "Out there",
+            "hint": "Present, but a long way off (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                39,
+                60,
+                135,
+                74,
+                164
+            ],
+            "answer": "Faint",
+            "hint": "The opposite of Answer P, sidereally"
+        },
+        "S": {
+            "cells": [
+                7,
+                51,
+                82,
+                157
+            ],
+            "answer": "Ship",
+            "hint": "See Clue Z"
+        },
+        "T": {
+            "cells": [
+                30,
+                10,
+                59,
+                126,
+                89,
+                42
+            ],
+            "answer": "Twenty",
+            "hint": "Calcium\u2019s atomic number"
+        },
+        "U": {
+            "cells": [
+                91,
+                18,
+                121,
+                9,
+                112,
+                75,
+                170,
+                32,
+                142
+            ],
+            "answer": "Autopilot",
+            "hint": "What an aircraft may be left on"
+        },
+        "V": {
+            "cells": [
+                116,
+                171,
+                28,
+                44,
+                17
+            ],
+            "answer": "Rogue",
+            "hint": "Like a planet thrown free of a solar system"
+        },
+        "W": {
+            "cells": [
+                83,
+                45,
+                149,
+                14
+            ],
+            "answer": "\u201cTron\"",
+            "hint": "1982 sci-fi film with Jeff Bridges"
+        },
+        "X": {
+            "cells": [
+                128,
+                27,
+                144,
+                113,
+                159,
+                96,
+                73
+            ],
+            "answer": "Romulan",
+            "hint": "Member of an alien race that uses a \u201ccloaking device\u201d in flight"
+        },
+        "Y": {
+            "cells": [
+                29,
+                92,
+                80,
+                165,
+                4,
+                61,
+                106,
+                119,
+                134,
+                147
+            ],
+            "answer": "\"Enterprise\u201d",
+            "hint": "Retired NASA shuttle on view at the Smithsonian"
+        },
+        "Z": {
+            "cells": [
+                151,
+                6,
+                41,
+                58
+            ],
+            "answer": "Kirk",
+            "hint": "Captain whose Answer S inspired the naming of Answer Y"
+        }
+    }
+}

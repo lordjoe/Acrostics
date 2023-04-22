@@ -1,0 +1,355 @@
+{
+    "answer": "Turkey has practically no taste except a dry fibrous flavor reminiscent of... warmed-up plaster... and horse hair. The texture is like wet sawdust and the whole vast feathered swindle has the piquancy of a boiled mattress.",
+    "author": "William Connor,",
+    "authorCell": [
+        112,
+        39,
+        73,
+        103,
+        104,
+        149,
+        67,
+        16,
+        62,
+        80,
+        55,
+        83,
+        11,
+        35,
+        24,
+        54,
+        19,
+        6,
+        171,
+        56,
+        175,
+        3,
+        49,
+        50
+    ],
+    "source": "Daily Mirror",
+    "clues": {
+        "A": {
+            "cells": [
+                112,
+                136,
+                15,
+                1,
+                28,
+                53,
+                100,
+                158,
+                173
+            ],
+            "answer": "White meat",
+            "hint": "Diner\u2019s choice on Thanksgiving Day (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                39,
+                75,
+                94,
+                12,
+                60,
+                165,
+                2,
+                146
+            ],
+            "answer": "Istanbul",
+            "hint": "City where Byzantium used to be"
+        },
+        "C": {
+            "cells": [
+                73,
+                167,
+                45,
+                93,
+                25,
+                10,
+                117,
+                144
+            ],
+            "answer": "Life span",
+            "hint": "For a Thanksgiving bird in the wild, it\u2019s about 10 years (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                103,
+                52,
+                23,
+                124,
+                68
+            ],
+            "answer": "Lethe",
+            "hint": "River of oblivion-inducing quaffs"
+        },
+        "E": {
+            "cells": [
+                104,
+                78,
+                125,
+                21,
+                58,
+                148,
+                176,
+                163
+            ],
+            "answer": "\u201cIron Chef\u201d",
+            "hint": "TV show with competitive cooks (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                149,
+                32,
+                14,
+                133,
+                51,
+                161,
+                96
+            ],
+            "answer": "Apteryx",
+            "hint": "Bantam ratite native to New Zealand"
+        },
+        "G": {
+            "cells": [
+                67,
+                98,
+                9,
+                116,
+                164,
+                41,
+                140
+            ],
+            "answer": "Mustard",
+            "hint": "Dark yellow or light olive brown"
+        },
+        "H": {
+            "cells": [
+                16,
+                134,
+                102,
+                178,
+                34,
+                159,
+                113,
+                90,
+                74
+            ],
+            "answer": "Cassandra",
+            "hint": "Newspaper pen name used by the author of this puzzle\u2019s quotation"
+        },
+        "I": {
+            "cells": [
+                62,
+                29,
+                120,
+                172,
+                89,
+                46
+            ],
+            "answer": "Oxtail",
+            "hint": "Soup ingredient from a bovine"
+        },
+        "J": {
+            "cells": [
+                80,
+                169,
+                64,
+                107,
+                47,
+                128,
+                153
+            ],
+            "answer": "New wave",
+            "hint": "Tradition-bucking trend (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                55,
+                114,
+                131,
+                141,
+                92,
+                77,
+                18,
+                168
+            ],
+            "answer": "Nutshell",
+            "hint": "Exemplar of concision"
+        },
+        "L": {
+            "cells": [
+                83,
+                48,
+                31,
+                66,
+                126,
+                111,
+                154
+            ],
+            "answer": "Overlap",
+            "hint": "What abalone and baloney do, to a great extent"
+        },
+        "M": {
+            "cells": [
+                11,
+                42,
+                156,
+                70,
+                27,
+                132,
+                166,
+                84,
+                109
+            ],
+            "answer": "Roquefort",
+            "hint": "\u201cThe King of Cheeses\u201d"
+        },
+        "N": {
+            "cells": [
+                35,
+                138,
+                65,
+                118,
+                105
+            ],
+            "answer": "Drank",
+            "hint": "Fell off the wagon"
+        },
+        "O": {
+            "cells": [
+                24,
+                170,
+                8,
+                71,
+                97,
+                127,
+                145
+            ],
+            "answer": "Adapted",
+            "hint": "Made with cranberries instead of raisins, e.g."
+        },
+        "P": {
+            "cells": [
+                54,
+                36,
+                155,
+                177,
+                87,
+                110,
+                26,
+                5,
+                142
+            ],
+            "answer": "Irish stew",
+            "hint": "Dish with mutton and potatoes (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                19,
+                162,
+                91,
+                115,
+                123,
+                143,
+                38,
+                59
+            ],
+            "answer": "Lot\u2019s wife",
+            "hint": "Woman much given to salt? (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                6,
+                108,
+                79,
+                57,
+                135,
+                37
+            ],
+            "answer": "Yeasty",
+            "hint": "Frothy; ebullient; creative"
+        },
+        "S": {
+            "cells": [
+                171,
+                88,
+                61,
+                160,
+                7,
+                43,
+                72
+            ],
+            "answer": "Match up",
+            "hint": "Categorically pair, as beans and rice (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                56,
+                13,
+                122,
+                40,
+                157,
+                30,
+                4,
+                147,
+                76
+            ],
+            "answer": "Ice bucket",
+            "hint": "Chiller set in a restaurant (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                175,
+                137,
+                82,
+                17,
+                44,
+                121,
+                95,
+                69
+            ],
+            "answer": "Rehashed",
+            "hint": "Discussed again and again, as a diner dish?"
+        },
+        "V": {
+            "cells": [
+                3,
+                139,
+                119,
+                63,
+                101,
+                85,
+                152
+            ],
+            "answer": "Redfish",
+            "hint": "Seafood also known as channel bass"
+        },
+        "W": {
+            "cells": [
+                49,
+                20,
+                130,
+                33,
+                86,
+                99,
+                150
+            ],
+            "answer": "Oysters",
+            "hint": "Meal for Carroll\u2019s Walrus and Carpenter"
+        },
+        "X": {
+            "cells": [
+                50,
+                22,
+                174,
+                129,
+                151,
+                106,
+                81
+            ],
+            "answer": "Rotated",
+            "hint": "Turned on a spit"
+        }
+    }
+}

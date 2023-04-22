@@ -1,0 +1,357 @@
+{
+    "answer": "Satan would favor Epoisses above [other cheeses]... for one compelling reason: its smell. ... [L]ike the spike-husked tropical fruit durian, which is banned in buses in Bangkok, it is illegal to carry Epoisses on the Parisian metro.",
+    "author": "Taras Grescoe,",
+    "authorCell": [
+        30,
+        12,
+        98,
+        116,
+        21,
+        133,
+        57,
+        74,
+        65,
+        47,
+        61,
+        87,
+        88,
+        77,
+        13,
+        80,
+        147,
+        160,
+        79,
+        137,
+        34,
+        117,
+        139,
+        150
+    ],
+    "source": "(The) Devil\u2019S Picnic",
+    "clues": {
+        "A": {
+            "cells": [
+                30,
+                83,
+                169,
+                122,
+                136,
+                11,
+                103,
+                52
+            ],
+            "answer": "Thankful",
+            "hint": "Like diners observing some holidays"
+        },
+        "B": {
+            "cells": [
+                12,
+                3,
+                86,
+                105,
+                45,
+                159
+            ],
+            "answer": "Atkins",
+            "hint": "Eponym of a popular diet"
+        },
+        "C": {
+            "cells": [
+                98,
+                4,
+                120,
+                19,
+                140,
+                76
+            ],
+            "answer": "Radish",
+            "hint": "Member of the mustard family"
+        },
+        "D": {
+            "cells": [
+                116,
+                164,
+                63,
+                85,
+                177,
+                46,
+                10
+            ],
+            "answer": "Aniseed",
+            "hint": "Flavoring used in pastis and ouzo"
+        },
+        "E": {
+            "cells": [
+                21,
+                110,
+                165,
+                138,
+                72,
+                56,
+                35,
+                148
+            ],
+            "answer": "Sit tight",
+            "hint": "Stay at the table; not make a move (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                133,
+                167,
+                26,
+                90,
+                145,
+                113,
+                59
+            ],
+            "answer": "Georgia",
+            "hint": "State producing the most pecans"
+        },
+        "G": {
+            "cells": [
+                57,
+                121,
+                1,
+                66,
+                157,
+                96,
+                37
+            ],
+            "answer": "Rissole",
+            "hint": "Deep-fried croquette"
+        },
+        "H": {
+            "cells": [
+                74,
+                114,
+                134,
+                173,
+                49,
+                18,
+                92,
+                141,
+                36
+            ],
+            "answer": "Eskimo pie",
+            "hint": "Foil-wrapped dessert patented in 1922 (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                65,
+                111,
+                166,
+                29,
+                44,
+                5,
+                16,
+                153
+            ],
+            "answer": "Schooner",
+            "hint": "Glass holding a pint or more of beer"
+        },
+        "J": {
+            "cells": [
+                47,
+                71,
+                84,
+                123,
+                23,
+                135,
+                102,
+                174
+            ],
+            "answer": "Club soda",
+            "hint": "Ingredient of a Tom Collins or gin fizz (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                61,
+                82,
+                175,
+                163,
+                17,
+                31,
+                100,
+                142,
+                119
+            ],
+            "answer": "Oenophile",
+            "hint": "Cellar fan?"
+        },
+        "L": {
+            "cells": [
+                87,
+                9,
+                25,
+                149,
+                108,
+                127
+            ],
+            "answer": "Elbows",
+            "hint": "Macaroni makeup, usually"
+        },
+        "M": {
+            "cells": [
+                88,
+                104,
+                54,
+                132,
+                73,
+                2,
+                115,
+                143,
+                155
+            ],
+            "answer": "Drinkable",
+            "hint": "Ready for decanting"
+        },
+        "N": {
+            "cells": [
+                77,
+                125,
+                50,
+                33,
+                144,
+                162,
+                172,
+                91
+            ],
+            "answer": "Espresso",
+            "hint": "After-dinner order"
+        },
+        "O": {
+            "cells": [
+                13,
+                158,
+                38,
+                94,
+                68,
+                170,
+                131,
+                53
+            ],
+            "answer": "Visceral",
+            "hint": "Felt in the gut"
+        },
+        "P": {
+            "cells": [
+                80,
+                55,
+                118,
+                32,
+                179,
+                101,
+                8,
+                130,
+                161
+            ],
+            "answer": "Inner tube",
+            "hint": "Doughnut for those who enjoy floats? (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                147,
+                124,
+                64,
+                58,
+                97,
+                171,
+                40,
+                81
+            ],
+            "answer": "Lutefisk",
+            "hint": "Oft-reviled Norwegian dish typically served in December"
+        },
+        "R": {
+            "cells": [
+                160,
+                146,
+                69,
+                128,
+                27,
+                106,
+                89,
+                51
+            ],
+            "answer": "Salivate",
+            "hint": "Show signs of an appetite"
+        },
+        "S": {
+            "cells": [
+                79,
+                112,
+                42,
+                180,
+                22,
+                154
+            ],
+            "answer": "\u201cPhooey!\u201d",
+            "hint": "\u201cNuts!\u201d or \u201cApplesauce!\u201d"
+        },
+        "T": {
+            "cells": [
+                137,
+                67,
+                156,
+                99,
+                43,
+                28
+            ],
+            "answer": "Impure",
+            "hint": "Not passing muster for cleanliness"
+        },
+        "U": {
+            "cells": [
+                34,
+                48,
+                15,
+                107,
+                176,
+                126,
+                151,
+                70
+            ],
+            "answer": "Cornmeal",
+            "hint": "Requirement for polenta or johnnycakes"
+        },
+        "V": {
+            "cells": [
+                117,
+                14,
+                62,
+                41,
+                95,
+                178
+            ],
+            "answer": "Nonfat",
+            "hint": "Designed for dieters, perhaps"
+        },
+        "W": {
+            "cells": [
+                139,
+                152,
+                93,
+                60,
+                109,
+                20,
+                75,
+                39,
+                6
+            ],
+            "answer": "Irish stew",
+            "hint": "Dish called \u201cstobhach gaelach\u201d in its native land (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                150,
+                24,
+                168,
+                7,
+                129,
+                78
+            ],
+            "answer": "Capons",
+            "hint": "Some roasted poultry"
+        }
+    }
+}

@@ -1,0 +1,336 @@
+{
+    "answer": "Kepler, in later life, became convinced that the planets play music along their paths. In his... book \u201cHarmony of the World\u201d he derived the planet\u2019s tunes and concluded that \u201cthe Earth sings Mi-Fa-Mi.\u201d It wasn\u2019t his best work.",
+    "author": "(Sabine) Hossenfelder,",
+    "authorCell": [
+        163,
+        77,
+        120,
+        165,
+        100,
+        147,
+        152,
+        108,
+        14,
+        123,
+        167,
+        142,
+        41,
+        87,
+        53,
+        136,
+        7,
+        122,
+        154,
+        81,
+        45,
+        107
+    ],
+    "source": "Lost in Math",
+    "clues": {
+        "A": {
+            "cells": [
+                163,
+                67,
+                128,
+                16,
+                143,
+                82,
+                52,
+                33,
+                97
+            ],
+            "answer": "Half-truth",
+            "hint": "Two-Pinocchio (but not a four-Pinocchio) claim (hyph.)"
+        },
+        "B": {
+            "cells": [
+                77,
+                166,
+                46,
+                114,
+                135,
+                30,
+                57,
+                5
+            ],
+            "answer": "Obstacle",
+            "hint": "Person or thing standing in the way"
+        },
+        "C": {
+            "cells": [
+                120,
+                86,
+                8,
+                24,
+                171,
+                47,
+                141,
+                157,
+                63,
+                105
+            ],
+            "answer": "Syncopated",
+            "hint": "Strong on the offbeat"
+        },
+        "D": {
+            "cells": [
+                165,
+                139,
+                110,
+                23,
+                59,
+                39
+            ],
+            "answer": "Selene",
+            "hint": "Luna\u2019s Greek counterpart"
+        },
+        "E": {
+            "cells": [
+                100,
+                9,
+                58,
+                29,
+                150,
+                117,
+                75,
+                173
+            ],
+            "answer": "Elon Musk",
+            "hint": "Founder of The Boring Company (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                147,
+                102,
+                116,
+                158,
+                64,
+                133
+            ],
+            "answer": "Nitwit",
+            "hint": "Chowderhead, birdbrain, dolt"
+        },
+        "G": {
+            "cells": [
+                152,
+                13,
+                28,
+                60,
+                80,
+                169,
+                131,
+                112
+            ],
+            "answer": "Frighten",
+            "hint": "Cow; alarm"
+        },
+        "H": {
+            "cells": [
+                108,
+                22,
+                3,
+                50,
+                65,
+                91,
+                159,
+                126
+            ],
+            "answer": "Empyrean",
+            "hint": "Celestial; high in the heavens"
+        },
+        "I": {
+            "cells": [
+                14,
+                104,
+                88,
+                37,
+                144,
+                56,
+                161,
+                130
+            ],
+            "answer": "Left hand",
+            "hint": "What Jimi Hendrix used to strum (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                123,
+                12,
+                43,
+                83,
+                25,
+                137,
+                69,
+                98,
+                172
+            ],
+            "answer": "Den mother",
+            "hint": "Female leader of a Scout group (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                167,
+                72,
+                55,
+                113,
+                95,
+                10,
+                32,
+                129,
+                145
+            ],
+            "answer": "Enceladus",
+            "hint": "Geologically active moon of Saturn"
+        },
+        "L": {
+            "cells": [
+                142,
+                17,
+                124,
+                54,
+                89,
+                35,
+                4
+            ],
+            "answer": "Recital",
+            "hint": "Enumeration of connected things"
+        },
+        "M": {
+            "cells": [
+                41,
+                84,
+                103,
+                2,
+                18,
+                71,
+                162,
+                119
+            ],
+            "answer": "Love bite",
+            "hint": "Mark resulting from suction (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                87,
+                127,
+                11,
+                153,
+                27,
+                44
+            ],
+            "answer": "Octave",
+            "hint": "Interval between frequencies with a 2:1 ratio"
+        },
+        "O": {
+            "cells": [
+                53,
+                134,
+                78,
+                93,
+                36,
+                149
+            ],
+            "answer": "Shoots",
+            "hint": "Goes for a basket; new branches"
+        },
+        "P": {
+            "cells": [
+                136,
+                74,
+                94,
+                31,
+                115,
+                151,
+                42,
+                168
+            ],
+            "answer": "Tiresias",
+            "hint": "Blind prophet given a sex change by Hera"
+        },
+        "Q": {
+            "cells": [
+                7,
+                109,
+                70,
+                170,
+                156,
+                20,
+                90
+            ],
+            "answer": "Ipswich",
+            "hint": "North Sea port since Anglo-Saxon times"
+        },
+        "R": {
+            "cells": [
+                122,
+                15,
+                148,
+                73,
+                106,
+                34,
+                49,
+                92,
+                1
+            ],
+            "answer": "Nighthawk",
+            "hint": "Diner figure in an Edward Hopper painting"
+        },
+        "S": {
+            "cells": [
+                154,
+                111,
+                26,
+                96,
+                140,
+                48,
+                76,
+                6,
+                125,
+                61
+            ],
+            "answer": "Mandelbrot",
+            "hint": "Benoît ____, \u201cfractalist\u201d featured in the film \u201cClouds Are Not Spheres\u201d"
+        },
+        "T": {
+            "cells": [
+                81,
+                160,
+                62,
+                121,
+                101,
+                40
+            ],
+            "answer": "A sharp",
+            "hint": "B\u2019s neighbor on the lower side (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                45,
+                138,
+                155,
+                118,
+                79,
+                66,
+                21,
+                99
+            ],
+            "answer": "ThinkPad",
+            "hint": "Business-oriented laptop created by IBM"
+        },
+        "V": {
+            "cells": [
+                107,
+                146,
+                85,
+                132,
+                19,
+                51,
+                164,
+                68,
+                38
+            ],
+            "answer": "Hindemith",
+            "hint": "Paul ____, composer of a 1957 opera about the subject of this puzzle\u2019s quotation"
+        }
+    }
+}

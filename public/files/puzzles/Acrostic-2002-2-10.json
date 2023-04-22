@@ -1,0 +1,343 @@
+{
+    "answer": "[We] are as happy as married people can be. ...Yet when I consider my life, day by day, hour by hour, it seems to be... a series of pinpricks. Nannies, cooks, the... drudgery of house-keeping, the nerve-racking noise... of small children.",
+    "author": "(Nancy) Mitford,",
+    "authorCell": [
+        49,
+        19,
+        35,
+        160,
+        125,
+        18,
+        21,
+        114,
+        140,
+        131,
+        96,
+        129,
+        171,
+        130,
+        119,
+        136,
+        80,
+        128,
+        92,
+        51,
+        42,
+        145,
+        141
+    ],
+    "source": "The Pursuit Of Love",
+    "clues": {
+        "A": {
+            "cells": [
+                49,
+                13,
+                59,
+                82,
+                116
+            ],
+            "answer": "Maybe",
+            "hint": "Hope-giving reply to a wooer"
+        },
+        "B": {
+            "cells": [
+                19,
+                66,
+                103,
+                153,
+                172,
+                118,
+                90,
+                127,
+                36,
+                73,
+                30
+            ],
+            "answer": "Ira Gershwin",
+            "hint": "Lyricist for \u201cGirl Crazy\u201d and \u201cFunny Face\u201d (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                35,
+                69,
+                2,
+                161,
+                8,
+                146,
+                52,
+                132
+            ],
+            "answer": "The Sheik",
+            "hint": "Valentino persona (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                160,
+                16,
+                67,
+                45,
+                148,
+                104
+            ],
+            "answer": "Fabian",
+            "hint": "1959 heartthrob who sang \u201cTiger\u201d"
+        },
+        "E": {
+            "cells": [
+                125,
+                102,
+                86,
+                165,
+                151,
+                39,
+                5,
+                17
+            ],
+            "answer": "One-liner",
+            "hint": "For example, \u201cTake my wife \u2014 please!\u201d (hyph.)"
+        },
+        "F": {
+            "cells": [
+                18,
+                54,
+                58,
+                89,
+                109,
+                28,
+                163
+            ],
+            "answer": "Rebecca",
+            "hint": "Ivanhoe\u2019s unrequited lover in Scott\u2019s novel"
+        },
+        "G": {
+            "cells": [
+                21,
+                91,
+                147,
+                40,
+                79
+            ],
+            "answer": "Doris",
+            "hint": "Cary\u2019s co-star in \u201cThat Touch of Mink\u201d"
+        },
+        "H": {
+            "cells": [
+                114,
+                144,
+                159,
+                10,
+                63,
+                57,
+                1,
+                94,
+                126,
+                20
+            ],
+            "answer": "Trophy wife",
+            "hint": "Mate chosen to make a good impression (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                140,
+                56,
+                154,
+                100,
+                12,
+                22,
+                3,
+                173,
+                112,
+                124
+            ],
+            "answer": "Hanky-panky",
+            "hint": "Romantic misbehavior (hyph.)"
+        },
+        "J": {
+            "cells": [
+                131,
+                4,
+                110,
+                121,
+                23,
+                95,
+                155,
+                65,
+                85
+            ],
+            "answer": "Erogenous",
+            "hint": "Particularly arousable"
+        },
+        "K": {
+            "cells": [
+                96,
+                24,
+                169,
+                33,
+                9,
+                137,
+                117,
+                48,
+                62
+            ],
+            "answer": "Polyandry",
+            "hint": "Having multiple husbands"
+        },
+        "L": {
+            "cells": [
+                129,
+                164,
+                68,
+                14,
+                108,
+                38,
+                75
+            ],
+            "answer": "Ulysses",
+            "hint": "Husband who stayed away too long"
+        },
+        "M": {
+            "cells": [
+                171,
+                76,
+                157,
+                25,
+                34,
+                41,
+                139
+            ],
+            "answer": "Respect",
+            "hint": "Essential element of love, per Otis Redding"
+        },
+        "N": {
+            "cells": [
+                130,
+                64,
+                149,
+                99,
+                27,
+                123,
+                162,
+                111,
+                78
+            ],
+            "answer": "Soccer mom",
+            "hint": "Modern-day parent of sorts (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                119,
+                11,
+                170,
+                88,
+                150,
+                32
+            ],
+            "answer": "Updike",
+            "hint": "Author of the 1982 story \u201cThe Beloved\u201d"
+        },
+        "P": {
+            "cells": [
+                136,
+                15,
+                93,
+                6,
+                44,
+                113,
+                168,
+                70,
+                152,
+                122,
+                55
+            ],
+            "answer": "Impassioned",
+            "hint": "Feverishly amorous"
+        },
+        "Q": {
+            "cells": [
+                80,
+                97,
+                61,
+                46,
+                158
+            ],
+            "answer": "Trade",
+            "hint": "Give me some music: music, moody food / Of us that ___ in love (Antony and Cleopatra)"
+        },
+        "R": {
+            "cells": [
+                128,
+                142,
+                74,
+                167,
+                83,
+                7,
+                37,
+                107,
+                26,
+                53
+            ],
+            "answer": "On the shelf",
+            "hint": "Currently unattached, not seeking romance (3 wds.)"
+        },
+        "S": {
+            "cells": [
+                92,
+                72,
+                134,
+                50,
+                84
+            ],
+            "answer": "Freya",
+            "hint": "Scandinavian goddess of love and fertility"
+        },
+        "T": {
+            "cells": [
+                51,
+                98,
+                133,
+                31,
+                166,
+                115,
+                143,
+                43
+            ],
+            "answer": "Liebchen",
+            "hint": "German term of endearment"
+        },
+        "U": {
+            "cells": [
+                42,
+                77,
+                120,
+                156,
+                135,
+                71,
+                101
+            ],
+            "answer": "Oedipus",
+            "hint": "Classic lover of the wrong woman"
+        },
+        "V": {
+            "cells": [
+                145,
+                106,
+                87,
+                29,
+                138,
+                81
+            ],
+            "answer": "Virago",
+            "hint": "Type unlikely to make a pleasant spouse"
+        },
+        "W": {
+            "cells": [
+                141,
+                60,
+                47,
+                105
+            ],
+            "answer": "Eden",
+            "hint": "State of perfect bliss"
+        }
+    }
+}

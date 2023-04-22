@@ -1,0 +1,365 @@
+{
+    "answer": "I think New Year\u2019s resolutions can\u2019t technically be expected to begin on New Year\u2019s Day... because it\u2019s an extension of New Year\u2019s Eve... It would be much more sensible if resolutions began generally on January the second.",
+    "author": "Helen Fielding,",
+    "authorCell": [
+        131,
+        1,
+        11,
+        128,
+        50,
+        105,
+        59,
+        148,
+        41,
+        132,
+        78,
+        174,
+        145,
+        43,
+        29,
+        159,
+        157,
+        24,
+        16,
+        80,
+        125,
+        68,
+        89,
+        65,
+        15,
+        10
+    ],
+    "source": "Bridget Jones's Diary",
+    "clues": {
+        "A": {
+            "cells": [
+                131,
+                170,
+                88,
+                21,
+                4,
+                103,
+                35,
+                48,
+                70
+            ],
+            "answer": "Festivity",
+            "hint": "Mood of many people on the night of 12/31"
+        },
+        "B": {
+            "cells": [
+                1,
+                87,
+                76,
+                106,
+                156,
+                136,
+                31
+            ],
+            "answer": "In style",
+            "hint": "Fashionable, chic (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                11,
+                39,
+                112,
+                172,
+                62,
+                134
+            ],
+            "answer": "Elbows",
+            "hint": "What shouldn\u2019t be thrown in basketball games"
+        },
+        "D": {
+            "cells": [
+                128,
+                27,
+                162,
+                66,
+                99
+            ],
+            "answer": "\"Laura\"",
+            "hint": "Noir classic with Gene Tierney"
+        },
+        "E": {
+            "cells": [
+                50,
+                146,
+                91,
+                20,
+                71,
+                129
+            ],
+            "answer": "Danube",
+            "hint": "River through four European capitals"
+        },
+        "F": {
+            "cells": [
+                105,
+                150,
+                7,
+                90,
+                47,
+                168,
+                124,
+                32,
+                72
+            ],
+            "answer": "Innocence",
+            "hint": "Topic of songs by William Blake"
+        },
+        "G": {
+            "cells": [
+                59,
+                109,
+                139,
+                17,
+                163,
+                94,
+                73,
+                121
+            ],
+            "answer": "Nuisance",
+            "hint": "Bother"
+        },
+        "H": {
+            "cells": [
+                148,
+                119,
+                85,
+                18,
+                45,
+                108,
+                166
+            ],
+            "answer": "Go to pot",
+            "hint": "Deteriorate, be ruined (3 wds.)"
+        },
+        "I": {
+            "cells": [
+                41,
+                86,
+                97,
+                135,
+                60,
+                116,
+                149
+            ],
+            "answer": "Beyoncé",
+            "hint": "Halftime performer at the 2013 Super Bowl"
+        },
+        "J": {
+            "cells": [
+                132,
+                83,
+                155,
+                12,
+                30,
+                64
+            ],
+            "answer": "Relate",
+            "hint": "Feel a connectedness"
+        },
+        "K": {
+            "cells": [
+                78,
+                173,
+                26,
+                95,
+                57,
+                142,
+                123
+            ],
+            "answer": "Incense",
+            "hint": "Material for aromatherapy"
+        },
+        "L": {
+            "cells": [
+                174,
+                23,
+                137,
+                53,
+                38,
+                98
+            ],
+            "answer": "Double",
+            "hint": "Stand-in or stunt performer, maybe"
+        },
+        "M": {
+            "cells": [
+                145,
+                102,
+                82,
+                115,
+                56,
+                161,
+                8
+            ],
+            "answer": "Genuine",
+            "hint": "Honest-to-goodness"
+        },
+        "N": {
+            "cells": [
+                43,
+                101,
+                171,
+                33,
+                151,
+                9
+            ],
+            "answer": "Eschew",
+            "hint": "Not touch"
+        },
+        "O": {
+            "cells": [
+                29,
+                153,
+                107,
+                141,
+                63
+            ],
+            "answer": "Tawny",
+            "hint": "\u201cWe shall your ____ ground with your red blood discolour\u201d (\u201cHenry V\u201d)"
+        },
+        "P": {
+            "cells": [
+                159,
+                42,
+                2,
+                25,
+                138,
+                100,
+                61,
+                74,
+                118
+            ],
+            "answer": "Jet stream",
+            "hint": "Factor affecting the length of a cross-country flight (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                157,
+                44,
+                93,
+                58,
+                13,
+                111
+            ],
+            "answer": "Oxford",
+            "hint": "Location of Ole Miss"
+        },
+        "R": {
+            "cells": [
+                24,
+                52,
+                158,
+                169,
+                77,
+                5,
+                122,
+                144
+            ],
+            "answer": "Nonsense",
+            "hint": "\u201cHey diddle diddle\u201d or \u201cFee, fi, fo, fum\u201d"
+        },
+        "S": {
+            "cells": [
+                16,
+                84,
+                54,
+                152,
+                36,
+                126,
+                67,
+                104
+            ],
+            "answer": "Exercise",
+            "hint": "Regimen often started on 1/2"
+        },
+        "T": {
+            "cells": [
+                80,
+                114,
+                140,
+                6,
+                46,
+                164
+            ],
+            "answer": "Smoker",
+            "hint": "Someone who might set a date to quit"
+        },
+        "U": {
+            "cells": [
+                125,
+                167,
+                37,
+                19,
+                3,
+                92,
+                75,
+                143
+            ],
+            "answer": "Shalhoub",
+            "hint": "Monk portrayer on TV"
+        },
+        "V": {
+            "cells": [
+                68,
+                22,
+                160,
+                147,
+                113
+            ],
+            "answer": "Diane",
+            "hint": "One of \u201ctwo American kids\u201d in a 1982 John Cougar Mellencamp hit"
+        },
+        "W": {
+            "cells": [
+                89,
+                14,
+                154,
+                133,
+                51
+            ],
+            "answer": "Islet",
+            "hint": "Key ... or a homophone for part of a shoe"
+        },
+        "X": {
+            "cells": [
+                65,
+                110,
+                127,
+                81,
+                28,
+                165
+            ],
+            "answer": "Albany",
+            "hint": "U.S. capital named for a British dukedom"
+        },
+        "Y": {
+            "cells": [
+                15,
+                130,
+                55,
+                117,
+                79,
+                40
+            ],
+            "answer": "Righty",
+            "hint": "Southpaw\u2019s opposite"
+        },
+        "Z": {
+            "cells": [
+                10,
+                69,
+                96,
+                34,
+                49,
+                120
+            ],
+            "answer": "Yawner",
+            "hint": "Event that doesn\u2019t at all excite"
+        }
+    }
+}

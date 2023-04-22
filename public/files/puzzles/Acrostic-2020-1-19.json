@@ -1,0 +1,355 @@
+{
+    "answer": "The desire to romp with Lions when they are seen bounding across their native heath appears to be widespread... . It is difficult to take bounding animals seriously, but if one doesn\u2019t, they are likely to have the last laugh.",
+    "author": "Will Cuppy,",
+    "authorCell": [
+        16,
+        156,
+        174,
+        170,
+        49,
+        130,
+        86,
+        72,
+        32,
+        136,
+        26,
+        109,
+        117,
+        75,
+        154,
+        89,
+        161,
+        79,
+        176,
+        53,
+        104,
+        48,
+        8,
+        95
+    ],
+    "source": "The Great Bustard",
+    "clues": {
+        "A": {
+            "cells": [
+                16,
+                137,
+                121,
+                51,
+                81,
+                35,
+                163
+            ],
+            "answer": "\"Wimoweh\"",
+            "hint": "Alternate title for \u201cMbube,\u201d also its refrain"
+        },
+        "B": {
+            "cells": [
+                156,
+                172,
+                123,
+                70,
+                39,
+                90,
+                55,
+                105,
+                15
+            ],
+            "answer": "Island-hop",
+            "hint": "Make one\u2019s way around a chain, say (hyph.)"
+        },
+        "C": {
+            "cells": [
+                174,
+                91,
+                52,
+                67,
+                159,
+                111,
+                5,
+                134
+            ],
+            "answer": "Lisa Loeb",
+            "hint": "Singer with the 1990s hits \u201cStay\u201d and \u201cI Do\u201d (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                170,
+                141,
+                118,
+                98,
+                20,
+                37,
+                61
+            ],
+            "answer": "Leaflet",
+            "hint": "Paper flier"
+        },
+        "E": {
+            "cells": [
+                49,
+                131,
+                102,
+                166,
+                25,
+                82,
+                145
+            ],
+            "answer": "C.S. Lewis",
+            "hint": "Creator of Aslan and the world of Narnia (3 wds.)"
+        },
+        "F": {
+            "cells": [
+                130,
+                71,
+                94,
+                19,
+                41,
+                148
+            ],
+            "answer": "Upshot",
+            "hint": "End result, final outcome"
+        },
+        "G": {
+            "cells": [
+                86,
+                33,
+                116,
+                177,
+                58,
+                152,
+                14
+            ],
+            "answer": "Pangram",
+            "hint": "Arrangement involving every character"
+        },
+        "H": {
+            "cells": [
+                72,
+                132,
+                107,
+                23,
+                10,
+                88,
+                44
+            ],
+            "answer": "Planted",
+            "hint": "Stuck firmly in place"
+        },
+        "I": {
+            "cells": [
+                32,
+                101,
+                157,
+                138,
+                84,
+                124,
+                68
+            ],
+            "answer": "Yukfest",
+            "hint": "Comedy bash, hoot and a half"
+        },
+        "J": {
+            "cells": [
+                136,
+                178,
+                158,
+                78,
+                12,
+                38,
+                54,
+                115,
+                100
+            ],
+            "answer": "Theoretic",
+            "hint": "Seeming to make sense, though unproven"
+        },
+        "K": {
+            "cells": [
+                26,
+                42,
+                146,
+                167,
+                66,
+                127,
+                85
+            ],
+            "answer": "Hunters",
+            "hint": "Participants in an annual puzzle event at M.I.T."
+        },
+        "L": {
+            "cells": [
+                109,
+                18,
+                143,
+                125,
+                168,
+                171
+            ],
+            "answer": "Etosha",
+            "hint": "Huge Namibian national park and game reserve"
+        },
+        "M": {
+            "cells": [
+                117,
+                164,
+                96,
+                140,
+                64,
+                83,
+                13,
+                43
+            ],
+            "answer": "Gained on",
+            "hint": "Partially caught up to (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                75,
+                27,
+                144,
+                40,
+                129,
+                108
+            ],
+            "answer": "Reebok",
+            "hint": "Shoe company named for an antelope"
+        },
+        "O": {
+            "cells": [
+                154,
+                133,
+                56,
+                106,
+                73,
+                169,
+                92,
+                2
+            ],
+            "answer": "Eyeteeth",
+            "hint": "Canine pair"
+        },
+        "P": {
+            "cells": [
+                89,
+                112,
+                142,
+                62,
+                1,
+                17,
+                162,
+                46
+            ],
+            "answer": "Audition",
+            "hint": "Job requirement for most actors"
+        },
+        "Q": {
+            "cells": [
+                161,
+                30,
+                128,
+                103,
+                69,
+                9,
+                50
+            ],
+            "answer": "Thither",
+            "hint": "Thataway, in yon direction"
+        },
+        "R": {
+            "cells": [
+                79,
+                135,
+                4,
+                114,
+                57,
+                150,
+                36
+            ],
+            "answer": "Buddies",
+            "hint": "Chums, mates, pals"
+        },
+        "S": {
+            "cells": [
+                176,
+                119,
+                93,
+                63,
+                80,
+                34,
+                6,
+                21,
+                147,
+                160
+            ],
+            "answer": "University",
+            "hint": "Place attended by aspirants to some degree"
+        },
+        "T": {
+            "cells": [
+                53,
+                3,
+                165,
+                126,
+                28,
+                76
+            ],
+            "answer": "Sevens",
+            "hint": "What a Texas hold \u2019em player might call \u201ccandy canes\u201d"
+        },
+        "U": {
+            "cells": [
+                104,
+                65,
+                87,
+                11,
+                122,
+                29,
+                151
+            ],
+            "answer": "Throaty",
+            "hint": "Deep and rasping, as a growl"
+        },
+        "V": {
+            "cells": [
+                48,
+                97,
+                153,
+                139,
+                110,
+                31,
+                74,
+                173
+            ],
+            "answer": "Afrobeat",
+            "hint": "Genre that combines fuji music and highlife with American funk and jazz"
+        },
+        "W": {
+            "cells": [
+                8,
+                149,
+                45,
+                59,
+                120,
+                77,
+                99,
+                24
+            ],
+            "answer": "Rhinitis",
+            "hint": "Reaction to cat dander, for some"
+        },
+        "X": {
+            "cells": [
+                95,
+                7,
+                60,
+                47,
+                22,
+                113,
+                175,
+                155
+            ],
+            "answer": "Diagonal",
+            "hint": "Oblique line; biased"
+        }
+    }
+}

@@ -1,0 +1,340 @@
+{
+    "answer": "I think government is a tool, like a hammer. You can use a hammer to build or... to destroy... . It is the purposes to which it is put and the skill with which it is used that determine whether the hammer\u2019s work is good or bad.",
+    "author": "Molly Ivins,",
+    "authorCell": [
+        48,
+        58,
+        108,
+        24,
+        68,
+        160,
+        9,
+        93,
+        99,
+        155,
+        35,
+        8,
+        77,
+        162,
+        157,
+        126,
+        101,
+        166,
+        57,
+        150,
+        137,
+        116,
+        141
+    ],
+    "source": "You Got to Dance (With Them What Brung You)",
+    "clues": {
+        "A": {
+            "cells": [
+                48,
+                110,
+                125,
+                142,
+                10,
+                158,
+                31,
+                83
+            ],
+            "answer": "Midterms",
+            "hint": "Quadrennial event for American voters"
+        },
+        "B": {
+            "cells": [
+                58,
+                100,
+                148,
+                129,
+                16,
+                39
+            ],
+            "answer": "Odetta",
+            "hint": "Influential 1960s folk singer"
+        },
+        "C": {
+            "cells": [
+                108,
+                28,
+                152,
+                63,
+                130,
+                41,
+                89,
+                6
+            ],
+            "answer": "Lame duck",
+            "hint": "Soon-to-be ex-official (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                24,
+                61,
+                7,
+                128,
+                167,
+                91,
+                73,
+                114,
+                47
+            ],
+            "answer": "Logarithm",
+            "hint": "Exponent\u2019s inverse, in math"
+        },
+        "E": {
+            "cells": [
+                68,
+                30,
+                117,
+                86,
+                131,
+                149
+            ],
+            "answer": "Yahweh",
+            "hint": "Tetragrammaton-based theonym"
+        },
+        "F": {
+            "cells": [
+                160,
+                78,
+                26,
+                104,
+                52,
+                13,
+                138
+            ],
+            "answer": "Irksome",
+            "hint": "Vexatious, like a pain in the neck"
+        },
+        "G": {
+            "cells": [
+                9,
+                69,
+                92,
+                134,
+                120,
+                164,
+                107
+            ],
+            "answer": "Vitriol",
+            "hint": "Caustic, mean-spirited words"
+        },
+        "H": {
+            "cells": [
+                93,
+                32,
+                79,
+                115,
+                18,
+                147
+            ],
+            "answer": "Impish",
+            "hint": "Given to mischief"
+        },
+        "I": {
+            "cells": [
+                99,
+                85,
+                34,
+                119,
+                143,
+                161,
+                1,
+                62,
+                49
+            ],
+            "answer": "North Side",
+            "hint": "Part of Chicago once under Bugs Moran\u2019s control (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                155,
+                113,
+                4,
+                97,
+                38,
+                127,
+                74,
+                55,
+                20
+            ],
+            "answer": "Switch-hit",
+            "hint": "Take turns as either a lefty or a righty (hyph.)"
+        },
+        "K": {
+            "cells": [
+                35,
+                80,
+                159,
+                54,
+                135
+            ],
+            "answer": "Yokum",
+            "hint": "Surname of Li\u2019l Abner and, eventually, Daisy Mae"
+        },
+        "L": {
+            "cells": [
+                8,
+                95,
+                65,
+                25,
+                151,
+                118,
+                42,
+                132
+            ],
+            "answer": "Optimist",
+            "hint": "One for whom the future appears bright"
+        },
+        "M": {
+            "cells": [
+                77,
+                121,
+                29,
+                133,
+                50
+            ],
+            "answer": "Usher",
+            "hint": "Playgoer\u2019s guide"
+        },
+        "N": {
+            "cells": [
+                162,
+                144,
+                5,
+                124,
+                105,
+                59,
+                37,
+                76,
+                19
+            ],
+            "answer": "Gene Krupa",
+            "hint": "Jazz musician called \u201cthe founding father of the modern drum set\u201d (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                157,
+                122,
+                2,
+                139,
+                106,
+                84
+            ],
+            "answer": "Outwit",
+            "hint": "Trump with more brainpower"
+        },
+        "P": {
+            "cells": [
+                126,
+                21,
+                44,
+                72,
+                146
+            ],
+            "answer": "Toast",
+            "hint": "Banquet ritual; cooked goose?"
+        },
+        "Q": {
+            "cells": [
+                101,
+                140,
+                11,
+                67,
+                156,
+                123,
+                87,
+                46,
+                170,
+                27
+            ],
+            "answer": "Throw shade",
+            "hint": "Deliver a backhanded compliment, say (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                166,
+                60,
+                45,
+                75,
+                154,
+                109,
+                17,
+                94,
+                33
+            ],
+            "answer": "Otherwise",
+            "hint": "____ Award, prize for gender-exploring fiction; apart from that"
+        },
+        "S": {
+            "cells": [
+                57,
+                43,
+                70,
+                90,
+                145,
+                163,
+                15,
+                103
+            ],
+            "answer": "Dethrone",
+            "hint": "Bring down from a high place"
+        },
+        "T": {
+            "cells": [
+                150,
+                40,
+                71,
+                111,
+                169,
+                3,
+                88,
+                23,
+                56
+            ],
+            "answer": "Anita Hill",
+            "hint": "\u201cSpeaking Truth to Power\u201d autobiographer, 1997 (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                137,
+                98,
+                168,
+                22,
+                53
+            ],
+            "answer": "Nabob",
+            "hint": "Mogul, tycoon, one-percenter"
+        },
+        "V": {
+            "cells": [
+                116,
+                102,
+                153,
+                14,
+                66,
+                136,
+                36,
+                81
+            ],
+            "answer": "Cheerios",
+            "hint": "Classic gluten-free cereal that floats"
+        },
+        "W": {
+            "cells": [
+                141,
+                12,
+                51,
+                112,
+                96,
+                64,
+                82,
+                165
+            ],
+            "answer": "Enthused",
+            "hint": "Demonstrated zest and relish"
+        }
+    }
+}

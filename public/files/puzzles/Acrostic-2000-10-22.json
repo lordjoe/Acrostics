@@ -1,0 +1,361 @@
+{
+    "answer": "Even a small vessel needs a wonderful amount of stores: casks of beef, pork and butter,... puncheons, butts and half-pieces of rum,... hard-tack by the ton... quite apart from the gunner\u2019s powder, sponges,... priming-irons, wads, and shot.",
+    "author": "P(atrick) O\u2019Brian,",
+    "authorCell": [
+        155,
+        176,
+        53,
+        28,
+        159,
+        171,
+        36,
+        131,
+        84,
+        14,
+        112,
+        95,
+        69,
+        168,
+        17,
+        145,
+        73,
+        51,
+        33,
+        101,
+        32,
+        165,
+        26,
+        114,
+        59
+    ],
+    "source": "Master and Commander",
+    "clues": {
+        "A": {
+            "cells": [
+                155,
+                92,
+                138,
+                107,
+                56,
+                76,
+                99,
+                15
+            ],
+            "answer": "Pinafore",
+            "hint": "Craft in a work from 1878"
+        },
+        "B": {
+            "cells": [
+                176,
+                109,
+                87,
+                58,
+                67,
+                166,
+                49
+            ],
+            "answer": "Okhotsk",
+            "hint": "Sea of ___, west of the Kamchatka peninsula"
+        },
+        "C": {
+            "cells": [
+                53,
+                162,
+                152,
+                113,
+                82,
+                6
+            ],
+            "answer": "Bights",
+            "hint": "Riverine or coastal curves"
+        },
+        "D": {
+            "cells": [
+                28,
+                100,
+                174,
+                132,
+                111
+            ],
+            "answer": "Rusty",
+            "hint": "Like many an old tanker"
+        },
+        "E": {
+            "cells": [
+                159,
+                21,
+                89,
+                8,
+                117,
+                173,
+                148
+            ],
+            "answer": "Islands",
+            "hint": "Stromboli, Ibiza and Madeira"
+        },
+        "F": {
+            "cells": [
+                171,
+                118,
+                30,
+                125,
+                151,
+                47,
+                65,
+                81
+            ],
+            "answer": "Aquanaut",
+            "hint": "Explorer wearing foot fins"
+        },
+        "G": {
+            "cells": [
+                36,
+                150,
+                104,
+                169,
+                74,
+                130,
+                29,
+                52
+            ],
+            "answer": "Nordhoff",
+            "hint": "Co-author of the \u201cBounty\u201d trilogy"
+        },
+        "H": {
+            "cells": [
+                131,
+                22,
+                124,
+                57,
+                3,
+                86
+            ],
+            "answer": "Mapped",
+            "hint": "Delineated on a chart"
+        },
+        "I": {
+            "cells": [
+                84,
+                13,
+                41,
+                139,
+                156,
+                172
+            ],
+            "answer": "Astern",
+            "hint": "Back in a shell"
+        },
+        "J": {
+            "cells": [
+                14,
+                94,
+                43,
+                157,
+                7,
+                78,
+                102,
+                123,
+                167
+            ],
+            "answer": "Scrimshaw",
+            "hint": "Feat of intricate carving"
+        },
+        "K": {
+            "cells": [
+                112,
+                133,
+                19,
+                98,
+                37
+            ],
+            "answer": "Theft",
+            "hint": "Piracy"
+        },
+        "L": {
+            "cells": [
+                95,
+                160,
+                106,
+                27,
+                140,
+                70,
+                147,
+                120,
+                40,
+                12
+            ],
+            "answer": "Enterprise",
+            "hint": "Ship boldly going to new regions"
+        },
+        "M": {
+            "cells": [
+                69,
+                116,
+                11,
+                55,
+                126,
+                45
+            ],
+            "answer": "Rovers",
+            "hint": "Wanderers; buccaneers"
+        },
+        "N": {
+            "cells": [
+                168,
+                75,
+                135,
+                18,
+                5,
+                62
+            ],
+            "answer": "Aegean",
+            "hint": "Sea that\u2019s home to the Cyclades and Dodecanese"
+        },
+        "O": {
+            "cells": [
+                17,
+                54,
+                142,
+                66,
+                119,
+                4,
+                44
+            ],
+            "answer": "Neptune",
+            "hint": "\u201cHe would not flatter ___ for his trident\u201d (\u201cCoriolanus\u201d)"
+        },
+        "P": {
+            "cells": [
+                145,
+                68,
+                108,
+                60,
+                170
+            ],
+            "answer": "Decks",
+            "hint": "Forecastle, bridge and orlop"
+        },
+        "Q": {
+            "cells": [
+                73,
+                163,
+                38,
+                23,
+                96,
+                137,
+                153,
+                83,
+                127
+            ],
+            "answer": "Crow\u2019s nest",
+            "hint": "High spot with a great view to the horizon (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                51,
+                90,
+                39,
+                149,
+                31,
+                71,
+                158,
+                110
+            ],
+            "answer": "Off plumb",
+            "hint": "Not in perpendicular alignment (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                33,
+                143,
+                16,
+                1,
+                48,
+                121
+            ],
+            "answer": "Molest",
+            "hint": "Beleaguer with attacks"
+        },
+        "T": {
+            "cells": [
+                101,
+                61,
+                46,
+                134
+            ],
+            "answer": "Mace",
+            "hint": "Armor-breaking weapon of war"
+        },
+        "U": {
+            "cells": [
+                32,
+                2,
+                97,
+                85
+            ],
+            "answer": "Avon",
+            "hint": "River flowing to the Severn"
+        },
+        "V": {
+            "cells": [
+                165,
+                24,
+                77,
+                91,
+                9,
+                35,
+                141,
+                154,
+                122,
+                105
+            ],
+            "answer": "Nonplussed",
+            "hint": "At sea, in a way"
+        },
+        "W": {
+            "cells": [
+                26,
+                129,
+                93,
+                103,
+                63,
+                72,
+                42,
+                136,
+                161,
+                175,
+                115
+            ],
+            "answer": "Dreadnought",
+            "hint": "Armored battleship with turreted guns"
+        },
+        "X": {
+            "cells": [
+                114,
+                64,
+                79,
+                88,
+                25,
+                20,
+                128,
+                10,
+                164,
+                144
+            ],
+            "answer": "Ebb and flow",
+            "hint": "The general drift of things (3 wds.)"
+        },
+        "Y": {
+            "cells": [
+                59,
+                34,
+                80,
+                177,
+                146,
+                50
+            ],
+            "answer": "Routes",
+            "hint": "Passages for navigators"
+        }
+    }
+}

@@ -1,0 +1,350 @@
+{
+    "answer": "The temperature drops. The wind picks up speed. The sunlight slowly dims, bathing the surroundings in an eerie twilight... . Moments before totality a wall of darkness comes rushing towards you... this is the shadow of the Moon.",
+    "author": "Kate Russo,",
+    "authorCell": [
+        30,
+        128,
+        174,
+        37,
+        73,
+        43,
+        50,
+        134,
+        178,
+        20,
+        109,
+        67,
+        10,
+        124,
+        84,
+        38,
+        152,
+        57,
+        29,
+        98,
+        144,
+        148,
+        131
+    ],
+    "source": "Total Addiction",
+    "clues": {
+        "A": {
+            "cells": [
+                30,
+                95,
+                114,
+                4,
+                55,
+                68,
+                168,
+                149,
+                130
+            ],
+            "answer": "Kitty Hawk",
+            "hint": "Outer Banks town with the motto \u201cFirst in Flight\u201d (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                128,
+                75,
+                96,
+                12,
+                59,
+                39
+            ],
+            "answer": "August",
+            "hint": "Characterized by majestic dignity or grandeur"
+        },
+        "C": {
+            "cells": [
+                174,
+                92,
+                138,
+                65,
+                1,
+                119,
+                155,
+                44,
+                22
+            ],
+            "answer": "Twenty-one",
+            "hint": "Sum of the spots on an ordinary die (hyph.)"
+        },
+        "D": {
+            "cells": [
+                37,
+                135,
+                54,
+                117,
+                18,
+                70,
+                176
+            ],
+            "answer": "Eclipse",
+            "hint": "Chewing gum brand; former Mitsubishi model"
+        },
+        "E": {
+            "cells": [
+                73,
+                111,
+                126,
+                88,
+                3,
+                42,
+                164,
+                24,
+                180,
+                146
+            ],
+            "answer": "Refreshing",
+            "hint": "Novel in a good way"
+        },
+        "F": {
+            "cells": [
+                43,
+                25,
+                127,
+                87,
+                9,
+                60,
+                110,
+                141,
+                162,
+                175
+            ],
+            "answer": "Underbrush",
+            "hint": "Low-lying plants in the woods"
+        },
+        "G": {
+            "cells": [
+                50,
+                35,
+                167,
+                14,
+                129,
+                113,
+                93,
+                77
+            ],
+            "answer": "Spheroid",
+            "hint": "Shape like that of the earth"
+        },
+        "H": {
+            "cells": [
+                134,
+                147,
+                8,
+                115,
+                177,
+                81,
+                97,
+                161,
+                33
+            ],
+            "answer": "Steamship",
+            "hint": "Titanic, Queen Mary or Lusitania"
+        },
+        "I": {
+            "cells": [
+                178,
+                32,
+                62,
+                17,
+                108,
+                142,
+                89,
+                47,
+                2,
+                157
+            ],
+            "answer": "Out of sight",
+            "hint": "Boss, groovy, super (3 wds.)"
+        },
+        "J": {
+            "cells": [
+                20,
+                140,
+                61,
+                103,
+                166,
+                82,
+                49
+            ],
+            "answer": "Transit",
+            "hint": "Passage of a celestial body over a meridian"
+        },
+        "K": {
+            "cells": [
+                109,
+                58,
+                36,
+                79
+            ],
+            "answer": "Omen",
+            "hint": "Indication of something on the horizon"
+        },
+        "L": {
+            "cells": [
+                67,
+                48,
+                156,
+                6,
+                106,
+                139,
+                26,
+                170,
+                121,
+                85
+            ],
+            "answer": "Thumbs-down",
+            "hint": "\u201cNo\u201d vote (hyph.)"
+        },
+        "M": {
+            "cells": [
+                10,
+                153,
+                27,
+                40,
+                100,
+                169,
+                69,
+                123
+            ],
+            "answer": "Asphodel",
+            "hint": "Flower in an Elysian field"
+        },
+        "N": {
+            "cells": [
+                124,
+                5,
+                102,
+                171,
+                150,
+                72,
+                56
+            ],
+            "answer": "Leeward",
+            "hint": "____ Islands, group that includes St. Kitts and Nevis"
+        },
+        "O": {
+            "cells": [
+                84,
+                46,
+                151,
+                105,
+                63,
+                136,
+                23
+            ],
+            "answer": "Air show",
+            "hint": "Spectacle in the sky (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                38,
+                78,
+                51,
+                165,
+                99,
+                137,
+                120
+            ],
+            "answer": "Dilemma",
+            "hint": "Plight, predicament, fix"
+        },
+        "Q": {
+            "cells": [
+                152,
+                86,
+                163,
+                122,
+                64,
+                45,
+                107,
+                15
+            ],
+            "answer": "Detailed",
+            "hint": "Specific, precise, meticulous"
+        },
+        "R": {
+            "cells": [
+                57,
+                160,
+                34,
+                71,
+                90,
+                173,
+                125,
+                16,
+                104,
+                143
+            ],
+            "answer": "Issue forth",
+            "hint": "Emanate, emerge (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                29,
+                74,
+                145,
+                118,
+                13,
+                52,
+                94
+            ],
+            "answer": "Control",
+            "hint": "Asset for a pitcher; ability to dominate"
+        },
+        "T": {
+            "cells": [
+                98,
+                41,
+                112,
+                21,
+                154,
+                133
+            ],
+            "answer": "Tethys",
+            "hint": "Saturn satellite visited by the Voyager spacecraft"
+        },
+        "U": {
+            "cells": [
+                144,
+                101,
+                7,
+                179,
+                31,
+                159,
+                83,
+                66
+            ],
+            "answer": "Imposing",
+            "hint": "Awesomely big and grand"
+        },
+        "V": {
+            "cells": [
+                148,
+                76,
+                19,
+                132,
+                91
+            ],
+            "answer": "Onset",
+            "hint": "Earliest stage, genesis"
+        },
+        "W": {
+            "cells": [
+                131,
+                28,
+                80,
+                158,
+                11,
+                172,
+                53,
+                116
+            ],
+            "answer": "Night owl",
+            "hint": "One who stays up late (2 wds.)"
+        }
+    }
+}

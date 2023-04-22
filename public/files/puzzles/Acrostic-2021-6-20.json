@@ -1,0 +1,327 @@
+{
+    "answer": "My dad played... chromatic harmonica and had an ocarina... which I would sneak down from the shelf and have a go on myself. ... I copied Bob Dylan\u2019s harmonica holder out of a coat hanger so I could play my uke at the same time.",
+    "author": "Chrissie Hynde,",
+    "authorCell": [
+        96,
+        49,
+        41,
+        117,
+        56,
+        142,
+        27,
+        158,
+        120,
+        155,
+        26,
+        55,
+        71,
+        23,
+        140,
+        12,
+        157,
+        122,
+        74,
+        72,
+        110
+    ],
+    "source": "Reckless",
+    "clues": {
+        "A": {
+            "cells": [
+                96,
+                70,
+                137,
+                125,
+                54,
+                84,
+                18,
+                36,
+                109,
+                164
+            ],
+            "answer": "Charlatans",
+            "hint": "Pretenders"
+        },
+        "B": {
+            "cells": [
+                49,
+                112,
+                138,
+                61,
+                20,
+                156,
+                94,
+                76
+            ],
+            "answer": "Handcuff",
+            "hint": "Prop for Harry Houdini"
+        },
+        "C": {
+            "cells": [
+                41,
+                77,
+                169,
+                57,
+                28,
+                107,
+                126,
+                147,
+                3
+            ],
+            "answer": "Rain cloud",
+            "hint": "Bringer of drought relief (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                117,
+                78,
+                39,
+                97,
+                24,
+                154,
+                133,
+                11,
+                167
+            ],
+            "answer": "Incommode",
+            "hint": "Put out, disturb, aggravate, peeve"
+        },
+        "E": {
+            "cells": [
+                56,
+                33,
+                144,
+                114,
+                170,
+                9
+            ],
+            "answer": "Shimmy",
+            "hint": "Abnormal wheel vibration"
+        },
+        "F": {
+            "cells": [
+                142,
+                67,
+                14,
+                160,
+                99,
+                83
+            ],
+            "answer": "Sortie",
+            "hint": "Attack by the besieged upon the besiegers"
+        },
+        "G": {
+            "cells": [
+                27,
+                105,
+                7,
+                58,
+                130,
+                159,
+                43,
+                145,
+                90
+            ],
+            "answer": "Idle fancy",
+            "hint": "Pipe dream, chimera (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                158,
+                64,
+                118,
+                80,
+                50,
+                93,
+                131,
+                35,
+                17
+            ],
+            "answer": "Enchilada",
+            "hint": "Dish whose name is the past participle of the Spanish for \u201cadd chili pepper to\u201d"
+        },
+        "I": {
+            "cells": [
+                120,
+                34,
+                135,
+                13,
+                81,
+                63,
+                108,
+                153
+            ],
+            "answer": "Hathaway",
+            "hint": "Notable bride of 1582"
+        },
+        "J": {
+            "cells": [
+                155,
+                62,
+                127,
+                141,
+                1,
+                25,
+                82,
+                171
+            ],
+            "answer": "Your move",
+            "hint": "Words from one who\u2019s just taken a turn (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                26,
+                10,
+                68,
+                119,
+                161,
+                52,
+                79,
+                100
+            ],
+            "answer": "Nematode",
+            "hint": "Tiny, ubiquitous parasitic worm"
+        },
+        "L": {
+            "cells": [
+                55,
+                124,
+                42,
+                16,
+                146,
+                91
+            ],
+            "answer": "Deimos",
+            "hint": "Mars-circling partner of Phobos"
+        },
+        "M": {
+            "cells": [
+                71,
+                98,
+                15,
+                132,
+                111,
+                40,
+                148
+            ],
+            "answer": "Epochal",
+            "hint": "So momentous as to mark a new period in history"
+        },
+        "N": {
+            "cells": [
+                23,
+                87,
+                165,
+                5,
+                102,
+                75,
+                143,
+                48,
+                60
+            ],
+            "answer": "Roadblock",
+            "hint": "Obstruction about which Waze may warn"
+        },
+        "O": {
+            "cells": [
+                140,
+                22,
+                66,
+                151,
+                123,
+                38,
+                89
+            ],
+            "answer": "Earldom",
+            "hint": "Sandwich, for a certain member of the House of Lords"
+        },
+        "P": {
+            "cells": [
+                12,
+                73,
+                59,
+                168,
+                128,
+                44,
+                31,
+                103,
+                115,
+                85,
+                152
+            ],
+            "answer": "Chattanooga",
+            "hint": "Locomotive\u2019s home in a big band song"
+        },
+        "Q": {
+            "cells": [
+                157,
+                8,
+                88,
+                101,
+                29,
+                46,
+                134,
+                113
+            ],
+            "answer": "Kandahar",
+            "hint": "Afghanistan\u2019s largest city after Kabul"
+        },
+        "R": {
+            "cells": [
+                122,
+                19,
+                65,
+                163,
+                104,
+                53,
+                86,
+                2
+            ],
+            "answer": "Lifebuoy",
+            "hint": "Soap brand whose ads popularized the term \u201cB.O.\u201d for \u201cbody odor\u201d"
+        },
+        "S": {
+            "cells": [
+                74,
+                116,
+                149,
+                129,
+                45,
+                92,
+                32
+            ],
+            "answer": "Endowed",
+            "hint": "Like some chairs at schools"
+        },
+        "T": {
+            "cells": [
+                72,
+                136,
+                47,
+                6,
+                30,
+                162,
+                121,
+                106
+            ],
+            "answer": "Ship ahoy",
+            "hint": "Call from a crow\u2019s-nest (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                110,
+                51,
+                4,
+                166,
+                150,
+                69,
+                21,
+                95,
+                37,
+                139
+            ],
+            "answer": "\"Swamp Thing\"",
+            "hint": "1982 movie about a green-hued superhero (2 wds.)"
+        }
+    }
+}

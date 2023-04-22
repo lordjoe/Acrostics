@@ -1,0 +1,366 @@
+{
+    "answer": "As a kid I was absolutely terrified of cliches. My father forbade them. If you said, \u201cYou can lead a horse to water, but you can\u2019t make him drink,\u201d my father would go ballistic.... Mom violated this rule about every five seconds.",
+    "author": "(Jeanne) Darst,",
+    "authorCell": [
+        52,
+        42,
+        46,
+        38,
+        92,
+        47,
+        105,
+        35,
+        54,
+        7,
+        68,
+        173,
+        24,
+        16,
+        166,
+        110,
+        168,
+        76,
+        100,
+        67,
+        114,
+        101,
+        57,
+        134,
+        123,
+        20
+    ],
+    "source": "Fiction Ruined My Family",
+    "clues": {
+        "A": {
+            "cells": [
+                52,
+                118,
+                75,
+                174
+            ],
+            "answer": "Dead",
+            "hint": "Sleeping with the fishes"
+        },
+        "B": {
+            "cells": [
+                42,
+                130,
+                19,
+                147,
+                78,
+                62,
+                106,
+                90,
+                169
+            ],
+            "answer": "All thumbs",
+            "hint": "Clumsy as an ox (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                46,
+                109,
+                125,
+                148,
+                21
+            ],
+            "answer": "Right",
+            "hint": "Fair and square; on the button"
+        },
+        "D": {
+            "cells": [
+                38,
+                117,
+                94,
+                23,
+                83,
+                31,
+                152,
+                10,
+                53
+            ],
+            "answer": "Short fuse",
+            "hint": "Hair-trigger temper (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                92,
+                44,
+                149,
+                72,
+                1,
+                27,
+                108
+            ],
+            "answer": "Thin air",
+            "hint": "Vanishing point? (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                47,
+                158,
+                13,
+                175
+            ],
+            "answer": "Fuss",
+            "hint": "Much ado about nothing"
+        },
+        "G": {
+            "cells": [
+                105,
+                167,
+                14,
+                151,
+                40,
+                133,
+                61,
+                120,
+                74,
+                89
+            ],
+            "answer": "Ivory tower",
+            "hint": "Vantage high above the daily grind (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                35,
+                64,
+                159,
+                132,
+                112,
+                22,
+                172,
+                85
+            ],
+            "answer": "Cat\u2019s meow",
+            "hint": "Bee\u2019s knees, something else (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                54,
+                140,
+                162,
+                107
+            ],
+            "answer": "Tied",
+            "hint": "Neck and neck, even-steven"
+        },
+        "J": {
+            "cells": [
+                7,
+                96,
+                154,
+                135,
+                121,
+                33,
+                66
+            ],
+            "answer": "Ice-cold",
+            "hint": "On a bad losing streak (hyph.)"
+        },
+        "K": {
+            "cells": [
+                68,
+                41,
+                26,
+                127,
+                82,
+                143,
+                99
+            ],
+            "answer": "Offbeat",
+            "hint": "Marching to a different drummer"
+        },
+        "L": {
+            "cells": [
+                173,
+                5,
+                70,
+                102,
+                126,
+                165,
+                87,
+                58,
+                138,
+                18
+            ],
+            "answer": "Nick of time",
+            "hint": "When there\u2019s not a moment to spare (3 wds.)"
+        },
+        "M": {
+            "cells": [
+                24,
+                79,
+                122,
+                43
+            ],
+            "answer": "Rout",
+            "hint": "Take to the cleaners"
+        },
+        "N": {
+            "cells": [
+                16,
+                98,
+                71,
+                129,
+                34,
+                4,
+                160
+            ],
+            "answer": "Unalike",
+            "hint": "Akin to apples and oranges or night and day"
+        },
+        "O": {
+            "cells": [
+                166,
+                73,
+                15,
+                59,
+                97,
+                144,
+                45,
+                124
+            ],
+            "answer": "Ill-fated",
+            "hint": "What star-crossed lovers are (hyph.)"
+        },
+        "P": {
+            "cells": [
+                110,
+                28,
+                80,
+                161,
+                48,
+                95,
+                2
+            ],
+            "answer": "Nervous",
+            "hint": "Keyed up; on tenterhooks"
+        },
+        "Q": {
+            "cells": [
+                168,
+                115,
+                63,
+                93,
+                128,
+                81,
+                11,
+                50,
+                32
+            ],
+            "answer": "Easy as ABC",
+            "hint": "A piece of cake (3 wds.)"
+        },
+        "R": {
+            "cells": [
+                76,
+                30,
+                163,
+                137,
+                17,
+                55,
+                113
+            ],
+            "answer": "Dorothy",
+            "hint": "\u201cThere\u2019s no place like home\u201d speaker"
+        },
+        "S": {
+            "cells": [
+                100,
+                155,
+                171,
+                51,
+                12,
+                119,
+                88
+            ],
+            "answer": "Macabre",
+            "hint": "Enough to make your skin crawl"
+        },
+        "T": {
+            "cells": [
+                67,
+                141,
+                91,
+                116,
+                36
+            ],
+            "answer": "Youth",
+            "hint": "Fair maid or strapping lad"
+        },
+        "U": {
+            "cells": [
+                114,
+                9,
+                136,
+                84,
+                69,
+                150
+            ],
+            "answer": "Famous",
+            "hint": "Seen in the limelight time and again"
+        },
+        "V": {
+            "cells": [
+                101,
+                39,
+                131,
+                77,
+                156,
+                142,
+                56
+            ],
+            "answer": "Amiable",
+            "hint": "Good at being palsy-walsy"
+        },
+        "W": {
+            "cells": [
+                57,
+                86,
+                146,
+                37,
+                104,
+                3,
+                164
+            ],
+            "answer": "Made hay",
+            "hint": "Seized the moment (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                134,
+                29,
+                153,
+                60
+            ],
+            "answer": "Idly",
+            "hint": "With no why or wherefore"
+        },
+        "Y": {
+            "cells": [
+                123,
+                65,
+                139,
+                103,
+                8,
+                25,
+                49,
+                170
+            ],
+            "answer": "Live wire",
+            "hint": "Busy bee, eager beaver, pistol (2 wds.)"
+        },
+        "Z": {
+            "cells": [
+                20,
+                157,
+                111,
+                145,
+                6
+            ],
+            "answer": "Yoked",
+            "hint": "Teamed up to do a hard day\u2019s work"
+        }
+    }
+}

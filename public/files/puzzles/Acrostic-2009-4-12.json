@@ -1,0 +1,336 @@
+{
+    "answer": "George Orwell got it backward. Big Brother isn\u2018t watching. He\u2019s singing and dancing. He\u2018s pulling rabbits out of a hat. Big Brother\u2019s busy holding your attention every moment you\u2018re awake. ... He\u2019s making sure you\u2019re fully absorbed.",
+    "author": "Chuck Palahniuk,",
+    "authorCell": [
+        20,
+        101,
+        72,
+        64,
+        155,
+        71,
+        90,
+        74,
+        92,
+        48,
+        56,
+        156,
+        160,
+        21,
+        73,
+        106,
+        12,
+        171,
+        62,
+        18,
+        172
+    ],
+    "source": "Lullaby",
+    "clues": {
+        "A": {
+            "cells": [
+                20,
+                166,
+                99,
+                40,
+                81,
+                147,
+                55,
+                121
+            ],
+            "answer": "Crowbait",
+            "hint": "Cow or pony well past its prime"
+        },
+        "B": {
+            "cells": [
+                101,
+                126,
+                158,
+                33,
+                17,
+                177,
+                6,
+                79,
+                50,
+                141,
+                63
+            ],
+            "answer": "High treason",
+            "hint": "Crime committed by the eponymous Vidkun Quisling (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                72,
+                59,
+                152,
+                42,
+                23,
+                178,
+                111,
+                131
+            ],
+            "answer": "Unstable",
+            "hint": "Like a house of cards"
+        },
+        "D": {
+            "cells": [
+                64,
+                109,
+                82,
+                43,
+                148,
+                22,
+                129,
+                174,
+                94
+            ],
+            "answer": "Chick Webb",
+            "hint": "1930s Savoy Ballroom bandleader (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                155,
+                95,
+                66,
+                115,
+                168,
+                16,
+                84,
+                44,
+                137,
+                4
+            ],
+            "answer": "Kingfisher",
+            "hint": "Indian lager named for a bird"
+        },
+        "F": {
+            "cells": [
+                71,
+                123,
+                34,
+                161,
+                11,
+                144,
+                107,
+                51
+            ],
+            "answer": "Peerless",
+            "hint": "One and only, without equal"
+        },
+        "G": {
+            "cells": [
+                90,
+                77,
+                114,
+                49,
+                37,
+                5,
+                132,
+                149,
+                163
+            ],
+            "answer": "\u201cAgnes Grey\u201d",
+            "hint": "Novel by Anne Bronte (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                74,
+                31,
+                105,
+                176,
+                122,
+                3,
+                153,
+                140
+            ],
+            "answer": "Lobotomy",
+            "hint": "Medical procedure whose pioneer won a 1949 Nobel Prize"
+        },
+        "I": {
+            "cells": [
+                92,
+                118,
+                60,
+                75,
+                15,
+                27,
+                164,
+                138
+            ],
+            "answer": "Audition",
+            "hint": "Chance to be heard"
+        },
+        "J": {
+            "cells": [
+                48,
+                10,
+                145,
+                25,
+                89,
+                65,
+                103,
+                159,
+                125
+            ],
+            "answer": "Headfirst",
+            "hint": "Way to ride a skeleton sled"
+        },
+        "K": {
+            "cells": [
+                56,
+                14,
+                70,
+                179,
+                96,
+                142,
+                154,
+                35,
+                112
+            ],
+            "answer": "Nose guard",
+            "hint": "Player flanked by defensive tackles (2 wds.)"
+        },
+        "L": {
+            "cells": [
+                156,
+                46,
+                61,
+                169,
+                104,
+                83,
+                30,
+                133
+            ],
+            "answer": "Industry",
+            "hint": "\u201cAvarice, the spur of ___\u201d (David Hume)"
+        },
+        "M": {
+            "cells": [
+                160,
+                175,
+                67,
+                8,
+                41,
+                128,
+                100
+            ],
+            "answer": "U.S. Grant",
+            "hint": "Best-selling military memoirist (3 wds.)"
+        },
+        "N": {
+            "cells": [
+                21,
+                69,
+                38,
+                52,
+                170,
+                9,
+                88,
+                119,
+                139,
+                150
+            ],
+            "answer": "Kenilworth",
+            "hint": "Sir Walter Scott novel that includes Elizabeth I as a character"
+        },
+        "O": {
+            "cells": [
+                73,
+                135,
+                53,
+                1,
+                97,
+                117,
+                173,
+                32
+            ],
+            "answer": "Longboat",
+            "hint": "Vessel used by Viking explorers"
+        },
+        "P": {
+            "cells": [
+                106,
+                124,
+                180,
+                162,
+                24,
+                146,
+                2,
+                36,
+                54,
+                68,
+                87
+            ],
+            "answer": "Underweight",
+            "hint": "Overly thin"
+        },
+        "Q": {
+            "cells": [
+                12,
+                110,
+                130,
+                167,
+                29,
+                86,
+                57
+            ],
+            "answer": "Lovebug",
+            "hint": "Swarming pest familiar to southern drivers"
+        },
+        "R": {
+            "cells": [
+                171,
+                113,
+                47,
+                19,
+                134,
+                151,
+                76,
+                93
+            ],
+            "answer": "Ligament",
+            "hint": "Bone-to-bone band"
+        },
+        "S": {
+            "cells": [
+                62,
+                28,
+                98,
+                7,
+                157,
+                85,
+                136,
+                116
+            ],
+            "answer": "Agronomy",
+            "hint": "Science connected with crop production"
+        },
+        "T": {
+            "cells": [
+                18,
+                120,
+                80,
+                108,
+                143,
+                165,
+                39,
+                91
+            ],
+            "answer": "Baby Ruth",
+            "hint": "Popular candy bar since 1921 (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                172,
+                127,
+                13,
+                45,
+                26,
+                102,
+                58,
+                78
+            ],
+            "answer": "Yogi Bear",
+            "hint": "Toon with a sidekick named Boo Boo (2 wds.)"
+        }
+    }
+}

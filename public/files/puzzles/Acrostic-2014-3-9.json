@@ -1,0 +1,367 @@
+{
+    "answer": "Etiquette books in the twenties licensed the use of slang in polite company..., modestly admitting that \u201ceven \u2018swell\u2019 and \u2018sweetie pie\u2019 are correct in certain moods.\u201d In... business, however, ... \u201cO.K.\u201d and \u201call righty\u201d were not to be used...",
+    "author": "David Skinner,",
+    "authorCell": [
+        35,
+        153,
+        86,
+        157,
+        152,
+        97,
+        13,
+        54,
+        132,
+        88,
+        120,
+        113,
+        122,
+        18,
+        26,
+        174,
+        36,
+        42,
+        112,
+        161,
+        170,
+        43,
+        107,
+        124,
+        50,
+        20
+    ],
+    "source": "The Story of Ain\u2019t",
+    "clues": {
+        "A": {
+            "cells": [
+                35,
+                106,
+                77,
+                121,
+                148,
+                51
+            ],
+            "answer": "De trop",
+            "hint": "Excessive, a bit much (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                153,
+                90,
+                138,
+                33,
+                111,
+                64,
+                9
+            ],
+            "answer": "Awesome",
+            "hint": "\u201cSome people think I\u2019m gay ... which I think is ___\u201d (Daniel Radcliffe)"
+        },
+        "C": {
+            "cells": [
+                86,
+                136,
+                10,
+                156,
+                61,
+                47,
+                116
+            ],
+            "answer": "Vibrant",
+            "hint": "Hopping, buzzing, lively"
+        },
+        "D": {
+            "cells": [
+                157,
+                176,
+                15,
+                127,
+                93,
+                38,
+                110,
+                76
+            ],
+            "answer": "Idiolect",
+            "hint": "One\u2019s unique way of talking"
+        },
+        "E": {
+            "cells": [
+                152,
+                98,
+                117,
+                166,
+                73,
+                53,
+                22
+            ],
+            "answer": "Dwindle",
+            "hint": "Gradually shrink in size or number"
+        },
+        "F": {
+            "cells": [
+                97,
+                37,
+                144,
+                72,
+                164,
+                14
+            ],
+            "answer": "Shears",
+            "hint": "Pinking and pruning tools"
+        },
+        "G": {
+            "cells": [
+                13,
+                85,
+                63,
+                32,
+                142,
+                101,
+                114
+            ],
+            "answer": "Keynote",
+            "hint": "Give the main address for"
+        },
+        "H": {
+            "cells": [
+                54,
+                79,
+                140,
+                173,
+                28,
+                8
+            ],
+            "answer": "Insult",
+            "hint": "\u201cSnap\u201d in a game of the dozens"
+        },
+        "I": {
+            "cells": [
+                132,
+                83,
+                62,
+                149,
+                29,
+                104,
+                167,
+                12
+            ],
+            "answer": "Nanki-Poo",
+            "hint": "Yum-Yum\u2019s beau in \u201cThe Mikado\u201d (hyph.)"
+        },
+        "J": {
+            "cells": [
+                88,
+                19,
+                143,
+                123,
+                158,
+                67
+            ],
+            "answer": "New age",
+            "hint": "Genre for the mystically inclined (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                120,
+                60,
+                102,
+                30,
+                146,
+                16,
+                163
+            ],
+            "answer": "Epicene",
+            "hint": "Of indeterminate sex"
+        },
+        "L": {
+            "cells": [
+                113,
+                134,
+                40,
+                24,
+                92,
+                56
+            ],
+            "answer": "Rustle",
+            "hint": "Sound from the bushes, maybe"
+        },
+        "M": {
+            "cells": [
+                122,
+                21,
+                65,
+                171,
+                49,
+                7
+            ],
+            "answer": "Two-bit",
+            "hint": "Second-rate, cheesy (hyph.)"
+        },
+        "N": {
+            "cells": [
+                18,
+                75,
+                145,
+                109,
+                89
+            ],
+            "answer": "Hives",
+            "hint": "Outbreak of evanescent bumps"
+        },
+        "O": {
+            "cells": [
+                26,
+                139,
+                55,
+                6,
+                103,
+                74
+            ],
+            "answer": "Esteem",
+            "hint": "Regard with respect"
+        },
+        "P": {
+            "cells": [
+                174,
+                82,
+                34,
+                108,
+                150,
+                2,
+                52,
+                125
+            ],
+            "answer": "Sheraton",
+            "hint": "First hotel chain with an automated electronic reservations system (1958)"
+        },
+        "Q": {
+            "cells": [
+                36,
+                105,
+                151,
+                130,
+                1,
+                70
+            ],
+            "answer": "Tinsel",
+            "hint": "Decoration once made of extruded silver"
+        },
+        "R": {
+            "cells": [
+                42,
+                96,
+                165,
+                69,
+                135
+            ],
+            "answer": "Odets",
+            "hint": "\u201cAwake and Sing!\u201d dramatist"
+        },
+        "S": {
+            "cells": [
+                112,
+                3,
+                95,
+                80,
+                126,
+                46,
+                27,
+                160,
+                175,
+                147
+            ],
+            "answer": "Ringmaster",
+            "hint": "Entertainer in a top hat and tails"
+        },
+        "T": {
+            "cells": [
+                161,
+                99,
+                44,
+                59,
+                31,
+                118
+            ],
+            "answer": "Yes-men",
+            "hint": "Nodding acquaintances? (hyph.)"
+        },
+        "U": {
+            "cells": [
+                170,
+                133,
+                154,
+                78,
+                4,
+                39,
+                100
+            ],
+            "answer": "Oblique",
+            "hint": "Kind of muscle worked by side planks"
+        },
+        "V": {
+            "cells": [
+                43,
+                94,
+                115,
+                168,
+                11,
+                131,
+                66
+            ],
+            "answer": "Factoid",
+            "hint": "Norman Mailer coinage for a piece of info"
+        },
+        "W": {
+            "cells": [
+                107,
+                23,
+                48,
+                91,
+                155,
+                129,
+                5,
+                68,
+                169
+            ],
+            "answer": "Angel dust",
+            "hint": "Trippy drug commonly smoked in a joint (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                124,
+                57,
+                159,
+                137,
+                25,
+                81,
+                41
+            ],
+            "answer": "Ichnite",
+            "hint": "Fossilized footprint"
+        },
+        "Y": {
+            "cells": [
+                50,
+                119,
+                162,
+                71,
+                87,
+                17,
+                141
+            ],
+            "answer": "Wyeth",
+            "hint": "Illustrator of \u201cTreasure Island\u201d (3 wds., two of which are inits.)"
+        },
+        "Z": {
+            "cells": [
+                20,
+                58,
+                128,
+                84,
+                45,
+                172
+            ],
+            "answer": "Tootle",
+            "hint": "Go for a drive; play on a fife"
+        }
+    }
+}

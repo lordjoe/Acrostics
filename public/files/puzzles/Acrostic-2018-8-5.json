@@ -1,0 +1,366 @@
+{
+    "answer": "Mencken claimed that anyone who played golf should be barred from holding public office. Mark Twain called it a good walk spoiled, and Winston Churchill claimed it was like chasing a quinine pill around a pasture.",
+    "author": "Robert Sommers,",
+    "authorCell": [
+        163,
+        94,
+        46,
+        88,
+        77,
+        172,
+        38,
+        40,
+        75,
+        55,
+        74,
+        53,
+        171,
+        62,
+        22,
+        87,
+        52,
+        17,
+        61,
+        45,
+        4,
+        110,
+        95,
+        115,
+        142,
+        138
+    ],
+    "source": "Golf Anecdotes",
+    "clues": {
+        "A": {
+            "cells": [
+                163,
+                21,
+                89,
+                6,
+                49,
+                122,
+                64,
+                102
+            ],
+            "answer": "Ryder Cup",
+            "hint": "Biennial event begun in 1927 (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                94,
+                169,
+                72,
+                27,
+                140,
+                51
+            ],
+            "answer": "Opioid",
+            "hint": "Subject of a modern epidemic"
+        },
+        "C": {
+            "cells": [
+                46,
+                147,
+                99,
+                128,
+                71,
+                164,
+                86,
+                33
+            ],
+            "answer": "Billfold",
+            "hint": "Pocket-size dough container"
+        },
+        "D": {
+            "cells": [
+                88,
+                12,
+                150,
+                67,
+                105,
+                50,
+                133
+            ],
+            "answer": "Emailed",
+            "hint": "Like most modern letters"
+        },
+        "E": {
+            "cells": [
+                77,
+                155,
+                127,
+                26,
+                1,
+                57,
+                113,
+                43
+            ],
+            "answer": "Richmond",
+            "hint": "Site of Patrick Henry\u2019s \u201cGive me liberty or give me death\u201d speech"
+        },
+        "F": {
+            "cells": [
+                172,
+                56,
+                30,
+                153,
+                125,
+                108,
+                83,
+                14
+            ],
+            "answer": "Thailand",
+            "hint": "Kingdom once called Ayutthaya"
+        },
+        "G": {
+            "cells": [
+                38,
+                136,
+                162,
+                117
+            ],
+            "answer": "Swan",
+            "hint": "Form taken by Odette in ballet"
+        },
+        "H": {
+            "cells": [
+                40,
+                25,
+                7,
+                149,
+                116,
+                170,
+                58
+            ],
+            "answer": "Own goal",
+            "hint": "Embarrassment for a defender in soccer (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                75,
+                41,
+                126,
+                161,
+                60,
+                93,
+                19,
+                3
+            ],
+            "answer": "Mulligan",
+            "hint": "Informal indulgence after a blunder"
+        },
+        "J": {
+            "cells": [
+                55,
+                159,
+                96,
+                111,
+                130,
+                37,
+                13
+            ],
+            "answer": "Midwife",
+            "hint": "Person helpful with deliveries"
+        },
+        "K": {
+            "cells": [
+                74,
+                90,
+                34,
+                123,
+                18,
+                106,
+                2,
+                148
+            ],
+            "answer": "Eighteen",
+            "hint": "Full course"
+        },
+        "L": {
+            "cells": [
+                53,
+                103,
+                79,
+                10,
+                135,
+                175
+            ],
+            "answer": "Rotate",
+            "hint": "Make the rounds?"
+        },
+        "M": {
+            "cells": [
+                171,
+                73,
+                144,
+                9,
+                54,
+                118,
+                100
+            ],
+            "answer": "Schlock",
+            "hint": "Cheesy stuff, artistically"
+        },
+        "N": {
+            "cells": [
+                62,
+                48,
+                92,
+                28,
+                119,
+                146
+            ],
+            "answer": "Graphs",
+            "hint": "Visual aids at a sales meeting"
+        },
+        "O": {
+            "cells": [
+                22,
+                104,
+                36,
+                84,
+                129,
+                156
+            ],
+            "answer": "Oil can",
+            "hint": "The Tin Man\u2019s first words in \u201cThe Wizard of Oz\u201d (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                87,
+                132,
+                44,
+                174,
+                69,
+                23
+            ],
+            "answer": "LeBron",
+            "hint": "\u201cKing James\u201d"
+        },
+        "Q": {
+            "cells": [
+                52,
+                81,
+                11,
+                121,
+                97,
+                137,
+                31
+            ],
+            "answer": "Fairway",
+            "hint": "What a driver hates to miss"
+        },
+        "R": {
+            "cells": [
+                17,
+                63,
+                158,
+                101
+            ],
+            "answer": "Apps",
+            "hint": "Some useful downloads"
+        },
+        "S": {
+            "cells": [
+                61,
+                134,
+                8,
+                78,
+                29,
+                168,
+                152,
+                114
+            ],
+            "answer": "Nicklaus",
+            "hint": "Jack of clubs"
+        },
+        "T": {
+            "cells": [
+                45,
+                120,
+                143,
+                160,
+                82,
+                59
+            ],
+            "answer": "Euclid",
+            "hint": "Author of \u201cElements\u201d"
+        },
+        "U": {
+            "cells": [
+                4,
+                98,
+                66,
+                131,
+                167,
+                35,
+                80,
+                20
+            ],
+            "answer": "Calm down",
+            "hint": "Cool off (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                110,
+                145,
+                91,
+                47
+            ],
+            "answer": "Data",
+            "hint": "\u201cStar Trek\u201d android portrayed by Brent Spiner"
+        },
+        "W": {
+            "cells": [
+                95,
+                65,
+                139,
+                112,
+                151,
+                165,
+                32
+            ],
+            "answer": "Oblique",
+            "hint": "Neither parallel nor perpendicular"
+        },
+        "X": {
+            "cells": [
+                115,
+                16,
+                85,
+                154,
+                141,
+                70,
+                173,
+                42
+            ],
+            "answer": "Thankful",
+            "hint": "Conscious of benefit received; well pleased"
+        },
+        "Y": {
+            "cells": [
+                142,
+                109,
+                15,
+                124,
+                68,
+                157
+            ],
+            "answer": "Entice",
+            "hint": "Draw in or lead on"
+        },
+        "Z": {
+            "cells": [
+                138,
+                39,
+                76,
+                166,
+                5,
+                24,
+                107
+            ],
+            "answer": "Shanked",
+            "hint": "Not ideally struck"
+        }
+    }
+}

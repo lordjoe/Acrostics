@@ -1,0 +1,349 @@
+{
+    "answer": "It\u2019s lovely to live on a raft. We had the sky up there all speckled with stars and we used to ... look up ... and discuss about whether they was made or only just happened. Jim ... allowed they was made but I allowed they happened.",
+    "author": "Mark Twain,",
+    "authorCell": [
+        146,
+        18,
+        19,
+        48,
+        57,
+        136,
+        78,
+        1,
+        62,
+        94,
+        85,
+        84,
+        75,
+        72,
+        50,
+        150,
+        98,
+        99,
+        112,
+        103,
+        21,
+        130,
+        79,
+        126
+    ],
+    "source": "Huckleberry Finn",
+    "clues": {
+        "A": {
+            "cells": [
+                146,
+                82,
+                8,
+                32,
+                164,
+                52,
+                132,
+                116
+            ],
+            "answer": "Milky Way",
+            "hint": "Region known to the ancients as Via Lactea (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                18,
+                47,
+                153,
+                81,
+                96,
+                68,
+                31,
+                139
+            ],
+            "answer": "Acid test",
+            "hint": "Ultimate means of determining something\u2019s quality (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                19,
+                157,
+                92,
+                140
+            ],
+            "answer": "Roth",
+            "hint": "Who wrote \u201cThe road to hell is paved with works-in-progress\u201d"
+        },
+        "D": {
+            "cells": [
+                48,
+                74,
+                143,
+                2,
+                113,
+                93
+            ],
+            "answer": "Kowtow",
+            "hint": "Literally, \u201cknock head,\u201d in Chinese"
+        },
+        "E": {
+            "cells": [
+                57,
+                71,
+                107,
+                86,
+                20,
+                158,
+                142,
+                7,
+                39
+            ],
+            "answer": "Tom Sawyer",
+            "hint": "Plotter in freeing a runaway slave (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                136,
+                25,
+                171,
+                40,
+                156,
+                55,
+                11,
+                118,
+                83,
+                102
+            ],
+            "answer": "Wheelhouse",
+            "hint": "Area of expertise"
+        },
+        "G": {
+            "cells": [
+                78,
+                54,
+                37,
+                115,
+                137,
+                161,
+                15
+            ],
+            "answer": "Athlete",
+            "hint": "Type adorning a Wheaties box"
+        },
+        "H": {
+            "cells": [
+                1,
+                114,
+                44,
+                13,
+                148,
+                169,
+                129,
+                73,
+                89
+            ],
+            "answer": "Inside job",
+            "hint": "Crime involving a violation of trust (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                62,
+                105,
+                14,
+                147,
+                117,
+                90
+            ],
+            "answer": "Navajo",
+            "hint": "Nation whose capital is Window Rock"
+        },
+        "J": {
+            "cells": [
+                94,
+                111,
+                10,
+                56,
+                127,
+                144,
+                36
+            ],
+            "answer": "Hot seat",
+            "hint": "Position of one under stressful fire (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                85,
+                67,
+                100,
+                141,
+                27
+            ],
+            "answer": "Usted",
+            "hint": "What they call you south of the Rio Grande?"
+        },
+        "L": {
+            "cells": [
+                84,
+                101,
+                166,
+                123,
+                65,
+                42,
+                29,
+                53,
+                134,
+                4
+            ],
+            "answer": "Chapel Hill",
+            "hint": "College town in the Research Triangle (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                75,
+                43,
+                88,
+                131,
+                108,
+                152,
+                165
+            ],
+            "answer": "Klamath",
+            "hint": "National forest in Siskiyou County, Calif."
+        },
+        "N": {
+            "cells": [
+                72,
+                122,
+                45,
+                28,
+                16,
+                167,
+                60
+            ],
+            "answer": "Laptops",
+            "hint": "Common airline carry-on items"
+        },
+        "O": {
+            "cells": [
+                50,
+                155,
+                6,
+                125,
+                87
+            ],
+            "answer": "Elves",
+            "hint": "Galadriel\u2019s people in Middle-earth"
+        },
+        "P": {
+            "cells": [
+                150,
+                91,
+                49,
+                133,
+                77,
+                24,
+                170
+            ],
+            "answer": "Bullpen",
+            "hint": "Where a battery gets warmed up"
+        },
+        "Q": {
+            "cells": [
+                98,
+                12,
+                41,
+                124,
+                145,
+                30,
+                69
+            ],
+            "answer": "Elapsed",
+            "hint": "Did what time does"
+        },
+        "R": {
+            "cells": [
+                99,
+                110,
+                80,
+                121,
+                61,
+                17,
+                138,
+                38,
+                160
+            ],
+            "answer": "Red-handed",
+            "hint": "One way to be caught (hyph.)"
+        },
+        "S": {
+            "cells": [
+                112,
+                154,
+                168,
+                22,
+                34,
+                59,
+                95
+            ],
+            "answer": "Rapture",
+            "hint": "End-of-days expectation for some"
+        },
+        "T": {
+            "cells": [
+                103,
+                159,
+                58,
+                119,
+                70
+            ],
+            "answer": "Yeast",
+            "hint": "Cause of an uprising?"
+        },
+        "U": {
+            "cells": [
+                21,
+                76,
+                172,
+                109,
+                33,
+                128,
+                151,
+                51,
+                63,
+                9
+            ],
+            "answer": "Fuddy-duddy",
+            "hint": "Opposite of a hipster (hyph.)"
+        },
+        "V": {
+            "cells": [
+                130,
+                3,
+                106,
+                66,
+                46
+            ],
+            "answer": "Issue",
+            "hint": "Bone of contention"
+        },
+        "W": {
+            "cells": [
+                79,
+                135,
+                64,
+                104,
+                162,
+                26,
+                120
+            ],
+            "answer": "Now what?",
+            "hint": "Exasperated cry after a series of mishaps (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                126,
+                149,
+                23,
+                97,
+                5,
+                35,
+                163
+            ],
+            "answer": "New Hope",
+            "hint": "Pennsylvania tourist town on the Delaware (2 wds.)"
+        }
+    }
+}

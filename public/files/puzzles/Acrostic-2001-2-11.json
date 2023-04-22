@@ -1,0 +1,335 @@
+{
+    "answer": "Success. Four flights Thursday morning. All against twenty-one-mile wind. Started from level with engine power alone. Average speed through air thirty-one miles. Longest fifty-nine seconds. Inform press. Home Christmas.",
+    "author": "Orville [And Wilbur] Wright,",
+    "authorCell": [
+        88,
+        173,
+        74,
+        129,
+        76,
+        130,
+        46,
+        57,
+        22,
+        54,
+        102,
+        20,
+        62,
+        44,
+        150,
+        133,
+        66,
+        83,
+        163,
+        63,
+        53
+    ],
+    "source": "Telegram",
+    "clues": {
+        "A": {
+            "cells": [
+                88,
+                108,
+                49,
+                179,
+                61,
+                127,
+                10,
+                165
+            ],
+            "answer": "Odysseus",
+            "hint": "Whom Mentor counseled"
+        },
+        "B": {
+            "cells": [
+                173,
+                94,
+                21,
+                32,
+                154,
+                65,
+                11,
+                141,
+                105
+            ],
+            "answer": "Round trip",
+            "hint": "There and back (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                74,
+                56,
+                91,
+                139,
+                117,
+                38,
+                159
+            ],
+            "answer": "\u201cVertigo\"",
+            "hint": "1958 release listed in the National Film Registry"
+        },
+        "D": {
+            "cells": [
+                129,
+                50,
+                147,
+                112,
+                175,
+                87,
+                16,
+                164,
+                69,
+                99
+            ],
+            "answer": "Ionosphere",
+            "hint": "Region where radio waves are reflected"
+        },
+        "E": {
+            "cells": [
+                76,
+                101,
+                60,
+                166
+            ],
+            "answer": "Lads",
+            "hint": "Youths at a ceilidh"
+        },
+        "F": {
+            "cells": [
+                130,
+                113,
+                12,
+                143,
+                45,
+                34,
+                158,
+                68,
+                86
+            ],
+            "answer": "Luftwaffe",
+            "hint": "Battle of Britain force"
+        },
+        "G": {
+            "cells": [
+                46,
+                64,
+                153,
+                18,
+                79,
+                128,
+                37,
+                4,
+                115
+            ],
+            "answer": "Ernst Mach",
+            "hint": "Austrian physicist who contributed to the study of sound (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                57,
+                172,
+                146,
+                160,
+                35,
+                121,
+                136,
+                78,
+                15
+            ],
+            "answer": "Whirligig",
+            "hint": "Spinning toy; flighty person"
+        },
+        "I": {
+            "cells": [
+                22,
+                2,
+                135,
+                77,
+                92,
+                144,
+                104
+            ],
+            "answer": "Runways",
+            "hint": "Where fashion models tread"
+        },
+        "J": {
+            "cells": [
+                54,
+                126,
+                43,
+                167,
+                103,
+                89,
+                156,
+                30,
+                114,
+                7
+            ],
+            "answer": "In the wings",
+            "hint": "Standing by, ready for action (3 wds.)"
+        },
+        "K": {
+            "cells": [
+                102,
+                134,
+                55,
+                24,
+                142,
+                174,
+                41,
+                3,
+                120
+            ],
+            "answer": "Goldfinch",
+            "hint": "Songbird of which a group is called a charm"
+        },
+        "L": {
+            "cells": [
+                20,
+                52,
+                13,
+                169,
+                149,
+                71,
+                107,
+                82
+            ],
+            "answer": "Helmsmen",
+            "hint": "Ones who take the wheel on board"
+        },
+        "M": {
+            "cells": [
+                62,
+                110,
+                122,
+                152,
+                176,
+                19,
+                93,
+                81,
+                42
+            ],
+            "answer": "Throttles",
+            "hint": "Guns; strangles"
+        },
+        "N": {
+            "cells": [
+                44,
+                131,
+                171,
+                80,
+                95,
+                14,
+                151,
+                31,
+                116,
+                59,
+                1
+            ],
+            "answer": "Technicians",
+            "hint": "\u201cThere are three roads to ruin: women, gambling, and ___\u201d (Georges Pompidou)"
+        },
+        "O": {
+            "cells": [
+                150,
+                85,
+                9,
+                72,
+                25,
+                33,
+                97,
+                124
+            ],
+            "answer": "\"Enola Gay\u201d",
+            "hint": "B-29 that carried Little Boy (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                133,
+                168,
+                8,
+                123,
+                84,
+                51,
+                106,
+                23,
+                155
+            ],
+            "answer": "Loftiness",
+            "hint": "Imposing height; elevated style"
+        },
+        "Q": {
+            "cells": [
+                66,
+                145,
+                98,
+                5,
+                36,
+                28,
+                162,
+                75
+            ],
+            "answer": "Envelope",
+            "hint": "Wrapper"
+        },
+        "R": {
+            "cells": [
+                83,
+                118,
+                170,
+                39,
+                132,
+                26
+            ],
+            "answer": "Greasy",
+            "hint": "Oleaginous, lubricious"
+        },
+        "S": {
+            "cells": [
+                163,
+                90,
+                17,
+                111,
+                70,
+                140,
+                58,
+                48
+            ],
+            "answer": "Retrofit",
+            "hint": "Equip with parts not originally available"
+        },
+        "T": {
+            "cells": [
+                63,
+                47,
+                137,
+                177,
+                125,
+                161,
+                96,
+                109,
+                73,
+                29
+            ],
+            "answer": "Anemometer",
+            "hint": "Instrument used to measure a breeze\u2019s velocity"
+        },
+        "U": {
+            "cells": [
+                53,
+                178,
+                6,
+                119,
+                148,
+                100,
+                27,
+                40,
+                157,
+                67,
+                138
+            ],
+            "answer": "Masterminds",
+            "hint": "Orchestrators of complicated projects"
+        }
+    }
+}

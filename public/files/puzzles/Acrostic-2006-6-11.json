@@ -1,0 +1,350 @@
+{
+    "answer": "[Radishes] are the one amateur crop to be relied on. ...[F]ew are eaten, except those first prompt miraculous test cases which the gardener wipes on the seat of his overalls and eats on the spot, with no condiment but grit.",
+    "author": "Bertha Damon,",
+    "authorCell": [
+        167,
+        32,
+        26,
+        169,
+        94,
+        140,
+        3,
+        136,
+        71,
+        15,
+        40,
+        48,
+        61,
+        11,
+        160,
+        66,
+        139,
+        128,
+        124,
+        97,
+        82,
+        74,
+        168,
+        127
+    ],
+    "source": "A Sense Of Humus",
+    "clues": {
+        "A": {
+            "cells": [
+                167,
+                75,
+                123,
+                54,
+                6,
+                107,
+                19,
+                36,
+                135,
+                145
+            ],
+            "answer": "Biochemist",
+            "hint": "Expert in the stuff of life"
+        },
+        "B": {
+            "cells": [
+                32,
+                2,
+                103,
+                141,
+                59,
+                165,
+                79,
+                151
+            ],
+            "answer": "Earthnut",
+            "hint": "Truffle by another name"
+        },
+        "C": {
+            "cells": [
+                26,
+                52,
+                92,
+                159,
+                43,
+                115
+            ],
+            "answer": "Resown",
+            "hint": "Like an old field newly planted"
+        },
+        "D": {
+            "cells": [
+                169,
+                125,
+                108,
+                153,
+                63,
+                84
+            ],
+            "answer": "Thrift",
+            "hint": "Flower also known as the sea pink; credit union or savings and loan"
+        },
+        "E": {
+            "cells": [
+                94,
+                60,
+                113,
+                46,
+                138,
+                27,
+                152,
+                16
+            ],
+            "answer": "Hose down",
+            "hint": "Clean with water, as a sidewalk (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                140,
+                149,
+                13,
+                126,
+                104,
+                86
+            ],
+            "answer": "Aphids",
+            "hint": "Pests preyed on by ladybugs and lacewings"
+        },
+        "G": {
+            "cells": [
+                3,
+                39,
+                163,
+                120,
+                142,
+                29,
+                64,
+                78
+            ],
+            "answer": "Domestic",
+            "hint": "Native, homegrown"
+        },
+        "H": {
+            "cells": [
+                136,
+                154,
+                58,
+                1,
+                110,
+                31,
+                23,
+                73,
+                42
+            ],
+            "answer": "Attribute",
+            "hint": "Characteristic property"
+        },
+        "I": {
+            "cells": [
+                71,
+                20,
+                10,
+                95,
+                170,
+                114,
+                134,
+                38
+            ],
+            "answer": "Marigold",
+            "hint": "Edible flower rich in lutein"
+        },
+        "J": {
+            "cells": [
+                15,
+                129,
+                118,
+                76,
+                88,
+                102,
+                148,
+                49
+            ],
+            "answer": "Overcast",
+            "hint": "Neither sunny nor rainy"
+        },
+        "K": {
+            "cells": [
+                40,
+                164,
+                25,
+                87,
+                121,
+                69
+            ],
+            "answer": "Nectar",
+            "hint": "Secretion attractive to pollinators"
+        },
+        "L": {
+            "cells": [
+                48,
+                90,
+                155,
+                173,
+                131,
+                14,
+                112
+            ],
+            "answer": "Ash tree",
+            "hint": "What Yggdrasil was, in Norse mythology (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                61,
+                80,
+                157,
+                101,
+                44,
+                137
+            ],
+            "answer": "Slogan",
+            "hint": "\u201cJust say no\u201d or \u201cJust do it,\u201d e.g."
+        },
+        "N": {
+            "cells": [
+                11,
+                156,
+                65,
+                172,
+                96,
+                117
+            ],
+            "answer": "Enrich",
+            "hint": "Add fertilizer to"
+        },
+        "O": {
+            "cells": [
+                160,
+                105,
+                93,
+                56,
+                81,
+                21,
+                132,
+                116,
+                150,
+                37,
+                8
+            ],
+            "answer": "New potatoes",
+            "hint": "Side dish often flavored with rosemary (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                66,
+                146,
+                91,
+                9,
+                41
+            ],
+            "answer": "Sheaf",
+            "hint": "Bundle of barley or oats"
+        },
+        "Q": {
+            "cells": [
+                139,
+                119,
+                57,
+                77,
+                98,
+                17
+            ],
+            "answer": "Estate",
+            "hint": "Landed gentry\u2019s demesne"
+        },
+        "R": {
+            "cells": [
+                128,
+                53,
+                35,
+                4,
+                68
+            ],
+            "answer": "Oxlip",
+            "hint": "Hybrid primrose"
+        },
+        "S": {
+            "cells": [
+                124,
+                171,
+                55,
+                83,
+                99
+            ],
+            "answer": "Fresh",
+            "hint": "Never seen before; just harvested"
+        },
+        "T": {
+            "cells": [
+                97,
+                85,
+                158,
+                67,
+                18,
+                33,
+                147
+            ],
+            "answer": "Hectare",
+            "hint": "Roughly two and a half acres"
+        },
+        "U": {
+            "cells": [
+                82,
+                144,
+                28,
+                7,
+                100,
+                133,
+                47,
+                161
+            ],
+            "answer": "Unpeeled",
+            "hint": "Still wearing a coat"
+        },
+        "V": {
+            "cells": [
+                74,
+                162,
+                106,
+                130,
+                5,
+                122,
+                24,
+                143,
+                51,
+                34
+            ],
+            "answer": "Minestrone",
+            "hint": "Soup whose name comes from Italian for \u201ckind of soup\u201d"
+        },
+        "W": {
+            "cells": [
+                168,
+                111,
+                45,
+                70,
+                30,
+                12
+            ],
+            "answer": "Uproot",
+            "hint": "Begin the process of transplanting"
+        },
+        "X": {
+            "cells": [
+                127,
+                109,
+                22,
+                50,
+                166,
+                72,
+                62,
+                89
+            ],
+            "answer": "Sweet pea",
+            "hint": "Climbing plant with fragrant flowers (2 wds.)"
+        }
+    }
+}

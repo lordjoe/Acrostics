@@ -1,0 +1,367 @@
+{
+    "answer": "You barely have to stir or incommode yourself to find things out. The only reason people do not know much is because they do not care to know. They are incurious. Incuriosity is the oddest... most foolish failing there is.",
+    "author": "Stephen Fry,",
+    "authorCell": [
+        129,
+        151,
+        30,
+        67,
+        162,
+        172,
+        43,
+        156,
+        21,
+        140,
+        53,
+        115,
+        36,
+        163,
+        34,
+        60,
+        84,
+        55,
+        125,
+        127,
+        168,
+        138,
+        132,
+        37,
+        145,
+        142
+    ],
+    "source": "The Fry Chronicles",
+    "clues": {
+        "A": {
+            "cells": [
+                129,
+                45,
+                157,
+                81,
+                13
+            ],
+            "answer": "Stowe",
+            "hint": "East Coast ski mecca"
+        },
+        "B": {
+            "cells": [
+                151,
+                165,
+                82,
+                136,
+                54,
+                10,
+                31
+            ],
+            "answer": "Timothy",
+            "hint": "Either of the two Epistles immediately before Titus"
+        },
+        "C": {
+            "cells": [
+                30,
+                128,
+                166,
+                69,
+                49,
+                98
+            ],
+            "answer": "Eulogy",
+            "hint": "Oration typically full of praise"
+        },
+        "D": {
+            "cells": [
+                67,
+                83,
+                39,
+                118,
+                103,
+                135,
+                12,
+                149
+            ],
+            "answer": "Putative",
+            "hint": "Commonly supposed"
+        },
+        "E": {
+            "cells": [
+                162,
+                56,
+                90,
+                139,
+                32,
+                119
+            ],
+            "answer": "Hector",
+            "hint": "Warrior slain in \u201cThe Song of Achilles\u201d"
+        },
+        "F": {
+            "cells": [
+                172,
+                150,
+                95,
+                52,
+                63,
+                134,
+                1
+            ],
+            "answer": "Estuary",
+            "hint": "What New York\u2019s East River actually is"
+        },
+        "G": {
+            "cells": [
+                43,
+                160,
+                79,
+                94,
+                14,
+                117
+            ],
+            "answer": "Ninety",
+            "hint": "Thorium, on the periodic table"
+        },
+        "H": {
+            "cells": [
+                156,
+                40,
+                74,
+                170,
+                23,
+                100,
+                114,
+                7,
+                137
+            ],
+            "answer": "Footnotes",
+            "hint": "Additional info from low places"
+        },
+        "I": {
+            "cells": [
+                21,
+                174,
+                38,
+                141,
+                101,
+                116,
+                61,
+                9
+            ],
+            "answer": "Refinery",
+            "hint": "Plant that may turn out barrels"
+        },
+        "J": {
+            "cells": [
+                140,
+                97,
+                26,
+                120,
+                66
+            ],
+            "answer": "Yemen",
+            "hint": "Country whose national dish is saltah"
+        },
+        "K": {
+            "cells": [
+                53,
+                18,
+                143,
+                96,
+                72
+            ],
+            "answer": "Tithe",
+            "hint": "Portion pledged to a parish"
+        },
+        "L": {
+            "cells": [
+                115,
+                33,
+                161,
+                88,
+                11,
+                48,
+                99
+            ],
+            "answer": "Husband",
+            "hint": "Use economically, as resources"
+        },
+        "M": {
+            "cells": [
+                36,
+                148,
+                3,
+                123,
+                91,
+                17,
+                167,
+                65,
+                111
+            ],
+            "answer": "Education",
+            "hint": "Aristotle\u2019s \u201cbest provision for old age\u201d"
+        },
+        "N": {
+            "cells": [
+                163,
+                106,
+                68,
+                122,
+                24,
+                85
+            ],
+            "answer": "French",
+            "hint": "Language in which an initial \u201ch\u201d is typically silent"
+        },
+        "O": {
+            "cells": [
+                34,
+                62,
+                147,
+                20,
+                5,
+                110
+            ],
+            "answer": "Red oak",
+            "hint": "Common name of Quercus rubra (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                60,
+                175,
+                29,
+                44,
+                130,
+                87,
+                144
+            ],
+            "answer": "Yiddish",
+            "hint": "Source of Leo Rosten\u2019s linguistic joy"
+        },
+        "Q": {
+            "cells": [
+                84,
+                146,
+                8,
+                158,
+                70,
+                46,
+                112,
+                131
+            ],
+            "answer": "Colophon",
+            "hint": "Publisher\u2019s emblem or trademark"
+        },
+        "R": {
+            "cells": [
+                55,
+                164,
+                86,
+                108,
+                126
+            ],
+            "answer": "Haiti",
+            "hint": "1492 landing site"
+        },
+        "S": {
+            "cells": [
+                125,
+                102,
+                73,
+                89,
+                25
+            ],
+            "answer": "\"Rodeo\"",
+            "hint": "Aaron Copland ballet including \u201cHoe-Down\u201d"
+        },
+        "T": {
+            "cells": [
+                127,
+                113,
+                71,
+                22,
+                50,
+                171
+            ],
+            "answer": "Owlish",
+            "hint": "Strigine in appearance or manner"
+        },
+        "U": {
+            "cells": [
+                168,
+                2,
+                77,
+                109,
+                19,
+                42,
+                57,
+                133,
+                154
+            ],
+            "answer": "\"Notorious\"",
+            "hint": "1946 Hitchcock thriller with Cary Grant and Ingrid Bergman"
+        },
+        "V": {
+            "cells": [
+                138,
+                169,
+                75,
+                51,
+                6,
+                105,
+                152,
+                92,
+                35
+            ],
+            "answer": "Ignoramus",
+            "hint": "Airhead, dunce, lamebrain"
+        },
+        "W": {
+            "cells": [
+                132,
+                159,
+                28,
+                104,
+                78,
+                64
+            ],
+            "answer": "Clocks",
+            "hint": "What horologists study and repair"
+        },
+        "X": {
+            "cells": [
+                37,
+                80,
+                176,
+                59,
+                153,
+                4,
+                15,
+                93
+            ],
+            "answer": "Los Lobos",
+            "hint": "Band that made \u201cLa Bamba\u201d a 1987 #1 hit (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                145,
+                58,
+                16,
+                121,
+                41,
+                76,
+                173,
+                27
+            ],
+            "answer": "Ensiform",
+            "hint": "Sword-shaped, as a leaf"
+        },
+        "Z": {
+            "cells": [
+                142,
+                124,
+                47,
+                155,
+                107
+            ],
+            "answer": "Suite",
+            "hint": "\u201cPeer Gynt\u201d or \u201cThe Planets\u201d"
+        }
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "answer": "[T]his is the week of the unfurled bunting,... the restored hope, the repainted seat... . In another month, some order will... emerge from the standings. Infields will have hardened, some arms and expectations will have gone bad... .",
+    "author": "Roger Angell,",
+    "authorCell": [
+        42,
+        170,
+        169,
+        97,
+        99,
+        174,
+        32,
+        112,
+        25,
+        125,
+        164,
+        30,
+        103,
+        82,
+        61,
+        28,
+        140,
+        74,
+        104,
+        23,
+        33,
+        131,
+        81,
+        92
+    ],
+    "source": "The Summer Game",
+    "clues": {
+        "A": {
+            "cells": [
+                42,
+                62,
+                26,
+                88,
+                3,
+                135,
+                118
+            ],
+            "answer": "Red wine",
+            "hint": "Epicurean press release? (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                170,
+                57,
+                139,
+                21,
+                116
+            ],
+            "answer": "On-off",
+            "hint": "Descriptive of a switch hitter\u2019s choice (hyph.)"
+        },
+        "C": {
+            "cells": [
+                169,
+                94,
+                68,
+                123,
+                19,
+                6
+            ],
+            "answer": "Genius",
+            "hint": "Einstein"
+        },
+        "D": {
+            "cells": [
+                97,
+                54,
+                17,
+                132,
+                158,
+                111
+            ],
+            "answer": "Ephron",
+            "hint": "\u201cHeartburn\u201d author, 1983"
+        },
+        "E": {
+            "cells": [
+                99,
+                45,
+                134,
+                77,
+                16
+            ],
+            "answer": "Rhett",
+            "hint": "Butler whose last words are often quoted"
+        },
+        "F": {
+            "cells": [
+                174,
+                151,
+                8,
+                89,
+                137,
+                113
+            ],
+            "answer": "Aphids",
+            "hint": "Little suckers"
+        },
+        "G": {
+            "cells": [
+                32,
+                75,
+                156,
+                141,
+                1,
+                46,
+                105,
+                172,
+                124,
+                15
+            ],
+            "answer": "Note to self",
+            "hint": "Introverted jogger? (3 wds.)"
+        },
+        "H": {
+            "cells": [
+                112,
+                126,
+                69,
+                145,
+                34,
+                49,
+                83,
+                10,
+                159
+            ],
+            "answer": "Ghost town",
+            "hint": "Burg with a population of zero (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                25,
+                175,
+                161,
+                127,
+                73,
+                44,
+                91,
+                11,
+                107,
+                143
+            ],
+            "answer": "Edward Lear",
+            "hint": "19th-century English author/illustrator famous for popularizing the Answer J. (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                125,
+                31,
+                93,
+                72,
+                52,
+                110,
+                153,
+                13
+            ],
+            "answer": "Limerick",
+            "hint": "See Clue I."
+        },
+        "K": {
+            "cells": [
+                164,
+                65,
+                121,
+                47,
+                18,
+                148
+            ],
+            "answer": "Lisped",
+            "hint": "Did Daffy Duck, say"
+        },
+        "L": {
+            "cells": [
+                30,
+                55,
+                165,
+                117,
+                147,
+                5
+            ],
+            "answer": "Tahini",
+            "hint": "Saucy element in baba ghanouj"
+        },
+        "M": {
+            "cells": [
+                103,
+                168,
+                155,
+                7,
+                71,
+                53,
+                29
+            ],
+            "answer": "Heathen",
+            "hint": "Irreligious, uncultured or uncivilized person"
+        },
+        "N": {
+            "cells": [
+                82,
+                20,
+                96,
+                37,
+                63,
+                167,
+                152,
+                109
+            ],
+            "answer": "Engraved",
+            "hint": "Made quite an impression on"
+        },
+        "O": {
+            "cells": [
+                61,
+                114,
+                24,
+                128,
+                9,
+                84,
+                98,
+                41,
+                150
+            ],
+            "answer": "Silver fox",
+            "hint": "Attractive older fellow (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                28,
+                66,
+                154,
+                50,
+                12,
+                101,
+                129,
+                85
+            ],
+            "answer": "Unthemed",
+            "hint": "Lacking a common thread"
+        },
+        "Q": {
+            "cells": [
+                140,
+                43,
+                76,
+                58,
+                14,
+                95
+            ],
+            "answer": "Mentor",
+            "hint": "What the centaur Chiron was to Achilles"
+        },
+        "R": {
+            "cells": [
+                74,
+                51,
+                142,
+                108,
+                122,
+                2,
+                157,
+                90,
+                36
+            ],
+            "answer": "Meanwhile",
+            "hint": "Pivotal term in a plot segue"
+        },
+        "S": {
+            "cells": [
+                104,
+                144,
+                38,
+                87,
+                67,
+                163,
+                120
+            ],
+            "answer": "Emerald",
+            "hint": "Hummingbird with bright green plumage"
+        },
+        "T": {
+            "cells": [
+                23,
+                130,
+                56,
+                115,
+                86,
+                4,
+                70,
+                100,
+                171,
+                149
+            ],
+            "answer": "Rhinestone",
+            "hint": "Thing that glitters"
+        },
+        "U": {
+            "cells": [
+                33,
+                166,
+                102,
+                136,
+                79
+            ],
+            "answer": "Gates",
+            "hint": "Bill who said \u201cMoney has no utility to me beyond a certain point\u201d"
+        },
+        "V": {
+            "cells": [
+                131,
+                173,
+                27,
+                80,
+                64,
+                40
+            ],
+            "answer": "Abbott",
+            "hint": "Half of a team seen regularly at Cooperstown"
+        },
+        "W": {
+            "cells": [
+                81,
+                22,
+                138,
+                39,
+                59,
+                119,
+                160
+            ],
+            "answer": "Mussels",
+            "hint": "Shellfish in some paellas"
+        },
+        "X": {
+            "cells": [
+                92,
+                133,
+                162,
+                106,
+                35,
+                78,
+                48,
+                146,
+                60
+            ],
+            "answer": "Edith Head",
+            "hint": "Costume designer who won eight Oscars (2 wds.)"
+        }
+    }
+}

@@ -1,0 +1,372 @@
+{
+    "answer": "Once people knew for sure that potatoes caused leprosy and sugar cured toothaches. Romans believed that cinnamon grew in swamps guarded by giant killer bats. Americans thought beer was a really good drink for children.",
+    "author": "(Linda) Civitello,",
+    "authorCell": [
+        174,
+        176,
+        81,
+        79,
+        147,
+        180,
+        124,
+        160,
+        31,
+        3,
+        36,
+        168,
+        45,
+        123,
+        139,
+        134,
+        73,
+        181,
+        165,
+        137,
+        144,
+        177,
+        121,
+        19,
+        167,
+        126
+    ],
+    "source": "Cuisine and Culture",
+    "clues": {
+        "A": {
+            "cells": [
+                174,
+                159,
+                110,
+                8,
+                60,
+                97,
+                132,
+                42
+            ],
+            "answer": "Claptrap",
+            "hint": "Baloney, applesauce, moonshine"
+        },
+        "B": {
+            "cells": [
+                176,
+                90,
+                157,
+                39,
+                136,
+                115,
+                9,
+                68
+            ],
+            "answer": "Inedible",
+            "hint": "Like banana peels and watermelon rinds"
+        },
+        "C": {
+            "cells": [
+                81,
+                10,
+                96,
+                138,
+                48,
+                154
+            ],
+            "answer": "Vegans",
+            "hint": "Some particular diners"
+        },
+        "D": {
+            "cells": [
+                79,
+                95,
+                145,
+                35,
+                130,
+                175,
+                6,
+                57
+            ],
+            "answer": "Ingather",
+            "hint": "Harvest, collect; assemble"
+        },
+        "E": {
+            "cells": [
+                147,
+                23,
+                56,
+                43,
+                75,
+                178,
+                104,
+                116
+            ],
+            "answer": "Thursday",
+            "hint": "When a November feast falls"
+        },
+        "F": {
+            "cells": [
+                180,
+                40,
+                76,
+                143,
+                14,
+                107
+            ],
+            "answer": "Elbows",
+            "hint": "Macaroni joints?"
+        },
+        "G": {
+            "cells": [
+                124,
+                4,
+                108,
+                64,
+                163,
+                179,
+                91
+            ],
+            "answer": "Leghorn",
+            "hint": "Egg producer whose name comes from an Italian city"
+        },
+        "H": {
+            "cells": [
+                160,
+                98,
+                12,
+                117,
+                30,
+                67,
+                46
+            ],
+            "answer": "Lengthy",
+            "hint": "Patience-testing, as a grace"
+        },
+        "I": {
+            "cells": [
+                31,
+                111,
+                155,
+                74,
+                52,
+                13,
+                131
+            ],
+            "answer": "Oranges",
+            "hint": "Ambrosia ingredients"
+        },
+        "J": {
+            "cells": [
+                3,
+                17,
+                153,
+                99,
+                59,
+                119,
+                166,
+                33
+            ],
+            "answer": "Crawdads",
+            "hint": "Cajun cousins of Answer V."
+        },
+        "K": {
+            "cells": [
+                36,
+                169,
+                88,
+                16,
+                62,
+                122,
+                150,
+                49
+            ],
+            "answer": "Uncooked",
+            "hint": "Like crudités"
+        },
+        "L": {
+            "cells": [
+                168,
+                93,
+                5,
+                129,
+                34,
+                63
+            ],
+            "answer": "Impact",
+            "hint": "Moment of collision; have a strong effect on"
+        },
+        "M": {
+            "cells": [
+                45,
+                29,
+                78,
+                92,
+                114,
+                171,
+                61,
+                135,
+                11
+            ],
+            "answer": "Salad fork",
+            "hint": "Impalement implement? (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                123,
+                2,
+                53,
+                102,
+                28,
+                77,
+                152
+            ],
+            "answer": "In a stew",
+            "hint": "Excited, worried or confused (3 wds.)"
+        },
+        "O": {
+            "cells": [
+                139,
+                1,
+                25,
+                85,
+                65,
+                101,
+                170,
+                50
+            ],
+            "answer": "No thanks",
+            "hint": "\u201cI\u2019ll pass\u201d (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                134,
+                105,
+                26,
+                84,
+                161
+            ],
+            "answer": "Empty",
+            "hint": "Like a fasting person\u2019s stomach"
+        },
+        "Q": {
+            "cells": [
+                73,
+                133,
+                94,
+                156,
+                32
+            ],
+            "answer": "Amore",
+            "hint": "Feeling \u201cwhen the moon hits your eye like a big pizza pie\u201d"
+        },
+        "R": {
+            "cells": [
+                181,
+                21,
+                103,
+                148,
+                51,
+                70,
+                162
+            ],
+            "answer": "Newburg",
+            "hint": "Served with a sauce of cream, butter, sherry and egg yolks"
+        },
+        "S": {
+            "cells": [
+                165,
+                80,
+                140,
+                118,
+                20,
+                41
+            ],
+            "answer": "Desire",
+            "hint": "Hunger"
+        },
+        "T": {
+            "cells": [
+                137,
+                7,
+                66,
+                44,
+                86
+            ],
+            "answer": "Cocoa",
+            "hint": "Powder of beans ground and roasted"
+        },
+        "U": {
+            "cells": [
+                144,
+                120,
+                100,
+                15,
+                164,
+                54,
+                72
+            ],
+            "answer": "Uniform",
+            "hint": "Chef\u2019s double-breasted jacket, apron and toque, e.g."
+        },
+        "V": {
+            "cells": [
+                177,
+                71,
+                128,
+                18,
+                87,
+                113,
+                151
+            ],
+            "answer": "Lobster",
+            "hint": "Crustacean that can taste with its feet"
+        },
+        "W": {
+            "cells": [
+                121,
+                58,
+                24,
+                106,
+                172,
+                141
+            ],
+            "answer": "Teapot",
+            "hint": "Vessel with a handle and spout"
+        },
+        "X": {
+            "cells": [
+                19,
+                69,
+                146,
+                38,
+                127,
+                82,
+                112
+            ],
+            "answer": "Ushered",
+            "hint": "Took care of the seating"
+        },
+        "Y": {
+            "cells": [
+                167,
+                149,
+                125,
+                27,
+                47,
+                83
+            ],
+            "answer": "Reload",
+            "hint": "Go back for seconds, so to speak"
+        },
+        "Z": {
+            "cells": [
+                126,
+                109,
+                55,
+                142,
+                158,
+                173,
+                89,
+                37,
+                22
+            ],
+            "answer": "Eucharist",
+            "hint": "The rite use of wine?"
+        }
+    }
+}

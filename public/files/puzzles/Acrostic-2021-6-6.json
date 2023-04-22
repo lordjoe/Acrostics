@@ -1,0 +1,362 @@
+{
+    "answer": "[T]he farther west the river..., the more honest the names become: Stinking Water Branch, Dead Horse Fork,... Damnation Creek. Perhaps the old... prospectors figured settlers would be slower to build along a river named Calamity.",
+    "author": "(William) Least Heat-Moon,",
+    "authorCell": [
+        156,
+        169,
+        65,
+        142,
+        103,
+        99,
+        38,
+        59,
+        148,
+        41,
+        157,
+        149,
+        166,
+        44,
+        131,
+        137,
+        29,
+        68,
+        19,
+        57,
+        30,
+        145,
+        71,
+        178,
+        102
+    ],
+    "source": "Blue Highways",
+    "clues": {
+        "A": {
+            "cells": [
+                156,
+                94,
+                1,
+                73,
+                114
+            ],
+            "answer": "Lethe",
+            "hint": "Place for a soul to get a drink and forget it all?"
+        },
+        "B": {
+            "cells": [
+                169,
+                84,
+                150,
+                17,
+                124,
+                50
+            ],
+            "answer": "Embers",
+            "hint": "Fire proof?"
+        },
+        "C": {
+            "cells": [
+                65,
+                39,
+                91,
+                8,
+                111,
+                22,
+                174,
+                159,
+                141
+            ],
+            "answer": "Anchorage",
+            "hint": "U.S. site of a big 1964 earthquake"
+        },
+        "D": {
+            "cells": [
+                142,
+                129,
+                5,
+                168,
+                52,
+                32,
+                86
+            ],
+            "answer": "Stamina",
+            "hint": "\u201cHuman kindness has never weakened the ____ or softened the fiber of a free people\u201d: F.D.R."
+        },
+        "E": {
+            "cells": [
+                103,
+                16,
+                121,
+                171,
+                54,
+                146,
+                85
+            ],
+            "answer": "Thicken",
+            "hint": "Concentrate"
+        },
+        "F": {
+            "cells": [
+                99,
+                167,
+                138,
+                78,
+                116,
+                28,
+                151,
+                51,
+                2
+            ],
+            "answer": "Half-truth",
+            "hint": "Two-Pinocchio claim (hyph.)"
+        },
+        "G": {
+            "cells": [
+                38,
+                143,
+                101,
+                172,
+                127,
+                74
+            ],
+            "answer": "\"El Paso\"",
+            "hint": "Classic ballad by Marty Robbins (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                59,
+                18,
+                110,
+                79,
+                135
+            ],
+            "answer": "Arrow",
+            "hint": "Inanimate feathered flier"
+        },
+        "I": {
+            "cells": [
+                148,
+                80,
+                164,
+                43,
+                15,
+                107,
+                128
+            ],
+            "answer": "Trestle",
+            "hint": "Bridge prop"
+        },
+        "J": {
+            "cells": [
+                41,
+                123,
+                154,
+                63,
+                83,
+                7,
+                24
+            ],
+            "answer": "Mud bath",
+            "hint": "Classic treatment for rheumatism (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                157,
+                81,
+                21,
+                61,
+                120,
+                4,
+                97
+            ],
+            "answer": "O'Keeffe",
+            "hint": "Painter who lived at Ghost Ranch in New Mexico"
+        },
+        "L": {
+            "cells": [
+                149,
+                20,
+                33,
+                75,
+                115,
+                92,
+                136,
+                58,
+                170
+            ],
+            "answer": "Overcrowd",
+            "hint": "Pack in cheek by jowl"
+        },
+        "M": {
+            "cells": [
+                166,
+                144,
+                23,
+                67,
+                104,
+                42,
+                126
+            ],
+            "answer": "Notched",
+            "hint": "Given a score; dentate"
+        },
+        "N": {
+            "cells": [
+                44,
+                133,
+                88,
+                108,
+                173,
+                25
+            ],
+            "answer": "Bridle",
+            "hint": "What puts a bit in the mouth?"
+        },
+        "O": {
+            "cells": [
+                131,
+                106,
+                56,
+                70,
+                34,
+                177,
+                155,
+                10
+            ],
+            "answer": "\"Lone Star\"",
+            "hint": "John Sayles film shot near the Rio Grande (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                137,
+                113,
+                76,
+                35,
+                161,
+                9,
+                100,
+                48
+            ],
+            "answer": "Upstream",
+            "hint": "Behind the rafters?"
+        },
+        "Q": {
+            "cells": [
+                29,
+                134,
+                46,
+                160,
+                147,
+                109,
+                175,
+                3,
+                66,
+                87
+            ],
+            "answer": "Escarpment",
+            "hint": "Nebraska\u2019s Pine Ridge or Utah\u2019s Book Cliffs, for example"
+        },
+        "R": {
+            "cells": [
+                68,
+                117,
+                31,
+                163,
+                45,
+                98
+            ],
+            "answer": "Hoover",
+            "hint": "Dam connected with Lake Mead"
+        },
+        "S": {
+            "cells": [
+                19,
+                53,
+                36,
+                6,
+                125,
+                96,
+                152,
+                69
+            ],
+            "answer": "Intrepid",
+            "hint": "Adventure-loving"
+        },
+        "T": {
+            "cells": [
+                57,
+                162,
+                140,
+                119,
+                27,
+                90
+            ],
+            "answer": "Gibson",
+            "hint": "Maker of Les Paul guitars"
+        },
+        "U": {
+            "cells": [
+                30,
+                89,
+                122,
+                11,
+                105,
+                49,
+                72
+            ],
+            "answer": "Hogweed",
+            "hint": "Noxious member of the carrot family"
+        },
+        "V": {
+            "cells": [
+                145,
+                176,
+                158,
+                82,
+                13,
+                130,
+                47,
+                64,
+                26
+            ],
+            "answer": "Windstorm",
+            "hint": "Derecho, haboob or chinook"
+        },
+        "W": {
+            "cells": [
+                71,
+                112,
+                14,
+                165,
+                55,
+                139,
+                93
+            ],
+            "answer": "Astride",
+            "hint": "On, as a steed"
+        },
+        "X": {
+            "cells": [
+                178,
+                62,
+                132,
+                95,
+                40
+            ],
+            "answer": "Yreka",
+            "hint": "Town in the Shasta Valley known for its former bakery"
+        },
+        "Y": {
+            "cells": [
+                102,
+                37,
+                12,
+                153,
+                60,
+                77,
+                118
+            ],
+            "answer": "Shelter",
+            "hint": "Protect from the elements"
+        }
+    }
+}

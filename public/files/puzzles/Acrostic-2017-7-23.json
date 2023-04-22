@@ -1,0 +1,358 @@
+{
+    "answer": "The lawyer... [was] cross-examining the doctor about whether he checked the pulse of the deceased... . And the doctor said, \u201cWell,... [t]he man\u2019s brain was in a jar on my desk, but for all I know he could be out practicing law somewhere.\u201d",
+    "author": "Garrison Keillor,",
+    "authorCell": [
+        137,
+        149,
+        160,
+        135,
+        4,
+        65,
+        154,
+        60,
+        173,
+        69,
+        1,
+        81,
+        7,
+        26,
+        38,
+        119,
+        70,
+        116,
+        131,
+        126,
+        142,
+        105,
+        15,
+        88,
+        54
+    ],
+    "source": "Pretty Good Joke Book",
+    "clues": {
+        "A": {
+            "cells": [
+                137,
+                91,
+                45,
+                61,
+                161,
+                20
+            ],
+            "answer": "Kahuna",
+            "hint": "Big cheese, honcho, fat cat, pooh-bah"
+        },
+        "B": {
+            "cells": [
+                149,
+                168,
+                37,
+                62,
+                3,
+                21
+            ],
+            "answer": "Emblem",
+            "hint": "Symbolic object or identifying mark"
+        },
+        "C": {
+            "cells": [
+                160,
+                16,
+                112,
+                39,
+                71,
+                90
+            ],
+            "answer": "Issues",
+            "hint": "Bones of contention"
+        },
+        "D": {
+            "cells": [
+                135,
+                74,
+                53,
+                87,
+                22,
+                159
+            ],
+            "answer": "Lactic",
+            "hint": "Kind of acid increased when you exercise"
+        },
+        "E": {
+            "cells": [
+                4,
+                59,
+                152,
+                40,
+                124,
+                106
+            ],
+            "answer": "Letter",
+            "hint": "Athletic award"
+        },
+        "F": {
+            "cells": [
+                65,
+                32,
+                157,
+                11,
+                48,
+                172,
+                77,
+                118,
+                102,
+                134
+            ],
+            "answer": "Octahedral",
+            "hint": "Like two pyramids sharing one face"
+        },
+        "G": {
+            "cells": [
+                154,
+                34,
+                121,
+                107,
+                79
+            ],
+            "answer": "Roman",
+            "hint": "Displaying an upright character?"
+        },
+        "H": {
+            "cells": [
+                60,
+                24,
+                103,
+                167,
+                86,
+                72,
+                42,
+                136,
+                150
+            ],
+            "answer": "Pinocchio",
+            "hint": "Unit of dishonesty, in fact-checking"
+        },
+        "I": {
+            "cells": [
+                173,
+                18,
+                147,
+                80,
+                110,
+                5,
+                47,
+                130
+            ],
+            "answer": "Red dwarf",
+            "hint": "Proxima Centauri, for one (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                69,
+                25,
+                132,
+                158,
+                143,
+                99,
+                52,
+                84
+            ],
+            "answer": "Enriched",
+            "hint": "Given greater nutritive value"
+        },
+        "K": {
+            "cells": [
+                1,
+                51,
+                174,
+                140,
+                104
+            ],
+            "answer": "Thews",
+            "hint": "Brawny strength; big muscles"
+        },
+        "L": {
+            "cells": [
+                81,
+                139,
+                36,
+                17,
+                98
+            ],
+            "answer": "Toast",
+            "hint": "A goner"
+        },
+        "M": {
+            "cells": [
+                7,
+                164,
+                35,
+                93,
+                125,
+                111,
+                146,
+                64
+            ],
+            "answer": "Yard sale",
+            "hint": "Culmination of some clutter clearing (2 wds.)"
+        },
+        "N": {
+            "cells": [
+                26,
+                113,
+                66,
+                129,
+                94,
+                9,
+                78,
+                153
+            ],
+            "answer": "Gift-wrap",
+            "hint": "Make pretty for presentation (hyph.)"
+        },
+        "O": {
+            "cells": [
+                38,
+                141,
+                55,
+                23,
+                89,
+                122
+            ],
+            "answer": "O Henry",
+            "hint": "Master of surprise endings (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                119,
+                10,
+                96,
+                29,
+                44,
+                166
+            ],
+            "answer": "Owlets",
+            "hint": "Youngsters in a parliament"
+        },
+        "Q": {
+            "cells": [
+                70,
+                145,
+                101,
+                127,
+                30,
+                85,
+                170,
+                114
+            ],
+            "answer": "Dumb down",
+            "hint": "Intentionally oversimplify for wider understanding (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                116,
+                31,
+                75,
+                171,
+                151,
+                133,
+                57,
+                14,
+                43,
+                100
+            ],
+            "answer": "Joshua tree",
+            "hint": "Tall, branching yucca of the American Southwest (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                131,
+                148,
+                63,
+                13,
+                169,
+                109,
+                46
+            ],
+            "answer": "Obscene",
+            "hint": "Off-color and then some"
+        },
+        "T": {
+            "cells": [
+                126,
+                138,
+                83,
+                49,
+                2,
+                108,
+                162,
+                28
+            ],
+            "answer": "Knee-high",
+            "hint": "In the strike zone, but barely (hyph.)"
+        },
+        "U": {
+            "cells": [
+                142,
+                19,
+                68,
+                115,
+                163,
+                95,
+                56
+            ],
+            "answer": "Exhaled",
+            "hint": "What secondhand smoke has been"
+        },
+        "V": {
+            "cells": [
+                105,
+                76,
+                41,
+                92,
+                27,
+                156,
+                58,
+                8,
+                123
+            ],
+            "answer": "Bewitched",
+            "hint": "Under a spell of enchantment"
+        },
+        "W": {
+            "cells": [
+                15,
+                128,
+                50,
+                82
+            ],
+            "answer": "Ouch",
+            "hint": "Pained expression?"
+        },
+        "X": {
+            "cells": [
+                88,
+                67,
+                33,
+                155,
+                6,
+                117
+            ],
+            "answer": "Ottawa",
+            "hint": "Capital founded in 1826 as Bytown"
+        },
+        "Y": {
+            "cells": [
+                54,
+                120,
+                144,
+                165,
+                97,
+                73,
+                12
+            ],
+            "answer": "Knowles",
+            "hint": "Surname of Beyoncé"
+        }
+    }
+}

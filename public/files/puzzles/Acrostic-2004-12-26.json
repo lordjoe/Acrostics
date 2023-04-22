@@ -1,0 +1,351 @@
+{
+    "answer": "We should... be thankful for second-rate art. The poorest practitioners of a... craft are often, like clumsy magicians or awkward liars, more revealing than their betters. The... neophyte... magnifies the flaws of a whole generation.",
+    "author": "Ted Gioia,",
+    "authorCell": [
+        30,
+        126,
+        27,
+        172,
+        151,
+        69,
+        75,
+        47,
+        34,
+        143,
+        55,
+        50,
+        107,
+        45,
+        171,
+        109,
+        19,
+        133,
+        88,
+        49,
+        13,
+        33,
+        51
+    ],
+    "source": "The Imperfect Art (Reflections On Jazz And Modern Culture)",
+    "clues": {
+        "A": {
+            "cells": [
+                30,
+                175,
+                158,
+                44,
+                5,
+                132,
+                90,
+                102
+            ],
+            "answer": "Teetotal",
+            "hint": "Remain completely dry"
+        },
+        "B": {
+            "cells": [
+                126,
+                52,
+                86,
+                23,
+                62
+            ],
+            "answer": "Eiger",
+            "hint": "Peak in the Bernese Alps, first ascended in 1858"
+        },
+        "C": {
+            "cells": [
+                27,
+                80,
+                147,
+                9,
+                101,
+                40,
+                167,
+                118
+            ],
+            "answer": "Dumb down",
+            "hint": "Recast for less sophisticated minds (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                172,
+                56,
+                161,
+                84,
+                142,
+                103,
+                32,
+                123,
+                3
+            ],
+            "answer": "Grampians",
+            "hint": "Scottish range that separates the Highlands from the Lowlands, with \u201cthe\u201d"
+        },
+        "E": {
+            "cells": [
+                151,
+                8,
+                170,
+                77,
+                111,
+                89,
+                61,
+                137
+            ],
+            "answer": "Idle rich",
+            "hint": "People like P. G. Wodehouse\u2019s Bertie Wooster (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                69,
+                113,
+                138,
+                21,
+                59,
+                160,
+                39,
+                1
+            ],
+            "answer": "Overflow",
+            "hint": "Excess of telephone traffic or incoming data"
+        },
+        "G": {
+            "cells": [
+                75,
+                25,
+                7,
+                122,
+                174,
+                136,
+                157,
+                110
+            ],
+            "answer": "\u201cIolanthe\"",
+            "hint": "Gilbert and Sullivan operetta in which a fairy marries a mortal"
+        },
+        "H": {
+            "cells": [
+                47,
+                152,
+                119,
+                12,
+                63,
+                181,
+                87,
+                163,
+                131,
+                95,
+                73
+            ],
+            "answer": "Afghanistan",
+            "hint": "Country that sent its first female athletes to an Olympics in 2004"
+        },
+        "I": {
+            "cells": [
+                34,
+                46,
+                115,
+                74,
+                148
+            ],
+            "answer": "Tra-la",
+            "hint": "Expression of insouciance (hyph.)"
+        },
+        "J": {
+            "cells": [
+                143,
+                58,
+                176,
+                22,
+                112,
+                155,
+                130,
+                91,
+                43,
+                10
+            ],
+            "answer": "Horse sense",
+            "hint": "Native wit (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                55,
+                28,
+                135,
+                178,
+                96,
+                4,
+                117,
+                18,
+                154
+            ],
+            "answer": "Erstwhile",
+            "hint": "Somewhere back in the stream of time"
+        },
+        "L": {
+            "cells": [
+                50,
+                14,
+                65,
+                168,
+                146,
+                134,
+                85,
+                98
+            ],
+            "answer": "In the raw",
+            "hint": "How one goes streaking by (3 wds.)"
+        },
+        "M": {
+            "cells": [
+                107,
+                20,
+                54,
+                166,
+                41,
+                78,
+                121,
+                144
+            ],
+            "answer": "Monarchy",
+            "hint": "Form of government in Qatar"
+        },
+        "N": {
+            "cells": [
+                45,
+                128,
+                169,
+                16,
+                2,
+                106,
+                82,
+                141,
+                94
+            ],
+            "answer": "Professor",
+            "hint": "Joking nickname for a person seemingly learned"
+        },
+        "O": {
+            "cells": [
+                171,
+                159,
+                36,
+                17,
+                71,
+                120,
+                93,
+                139
+            ],
+            "answer": "E.F. Hutton",
+            "hint": "Classic brokerage acquired by Shearson Lehman Brothers in 1987 (3 wds.)"
+        },
+        "P": {
+            "cells": [
+                109,
+                37,
+                81,
+                127,
+                149,
+                68,
+                57
+            ],
+            "answer": "Remiges",
+            "hint": "Quill feathers on the wings of a bird"
+        },
+        "Q": {
+            "cells": [
+                19,
+                6,
+                100,
+                129,
+                42,
+                79,
+                180,
+                162
+            ],
+            "answer": "Furbelow",
+            "hint": "Ruffle or flounce on a garment"
+        },
+        "R": {
+            "cells": [
+                133,
+                70,
+                64,
+                153,
+                24,
+                104,
+                48,
+                83
+            ],
+            "answer": "Efficacy",
+            "hint": "Power to produce the desired result, as of medicine"
+        },
+        "S": {
+            "cells": [
+                88,
+                177,
+                38,
+                72,
+                165,
+                114,
+                29,
+                105
+            ],
+            "answer": "Cape Fear",
+            "hint": "Southernmost point of North Carolina (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                49,
+                125,
+                179,
+                26,
+                15,
+                35,
+                66,
+                150,
+                97
+            ],
+            "answer": "Think tank",
+            "hint": "Group of noodle users (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                13,
+                164,
+                67,
+                145,
+                99
+            ],
+            "answer": "Aorta",
+            "hint": "Trunk carrier"
+        },
+        "V": {
+            "cells": [
+                33,
+                53,
+                108,
+                156,
+                92
+            ],
+            "answer": "\"Roots\u201d",
+            "hint": "TV sensation of January 1977"
+        },
+        "W": {
+            "cells": [
+                51,
+                173,
+                60,
+                76,
+                31,
+                11,
+                124,
+                116,
+                140
+            ],
+            "answer": "Teakettle",
+            "hint": "Mother\u2019s whistler?"
+        }
+    }
+}

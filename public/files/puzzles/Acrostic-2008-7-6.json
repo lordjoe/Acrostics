@@ -1,0 +1,353 @@
+{
+    "answer": "Only amateurs... write for their own amusement. Writing is not an amusing occupation. It is a combination of ditch-digging, mountain-climbing, treadmill and childbirth. [It] may be... absorbing,... racking, relieving. But amusing? Never!",
+    "author": "(Edna) Ferber,",
+    "authorCell": [
+        86,
+        23,
+        183,
+        169,
+        164,
+        20,
+        154,
+        63,
+        143,
+        107,
+        101,
+        3,
+        56,
+        29,
+        14,
+        103,
+        116,
+        17,
+        80,
+        55,
+        170,
+        153,
+        180
+    ],
+    "source": "A Peculiar Treasure",
+    "clues": {
+        "A": {
+            "cells": [
+                86,
+                105,
+                165,
+                33,
+                12,
+                49,
+                124,
+                148
+            ],
+            "answer": "Five-star",
+            "hint": "Wartime-only rank for a general (hyph.)"
+        },
+        "B": {
+            "cells": [
+                23,
+                51,
+                155,
+                100,
+                76,
+                137,
+                174,
+                6
+            ],
+            "answer": "Encomium",
+            "hint": "Tribute delivered oratorically"
+        },
+        "C": {
+            "cells": [
+                183,
+                31,
+                98,
+                142,
+                4,
+                18,
+                71,
+                117,
+                162,
+                131
+            ],
+            "answer": "Rugby field",
+            "hint": "Venue for a team like New Zealand\u2019s All Blacks (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                169,
+                54,
+                102,
+                44,
+                73,
+                122,
+                147,
+                27
+            ],
+            "answer": "Bungalow",
+            "hint": "Arts and Crafts house style"
+        },
+        "E": {
+            "cells": [
+                164,
+                34,
+                150,
+                114,
+                11,
+                52,
+                125,
+                89
+            ],
+            "answer": "Emigrant",
+            "hint": "Transplant in a foreign land"
+        },
+        "F": {
+            "cells": [
+                20,
+                182,
+                92,
+                108,
+                166,
+                58,
+                128,
+                41
+            ],
+            "answer": "Red light",
+            "hint": "Something illegal to run (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                154,
+                177,
+                37,
+                140,
+                90,
+                66,
+                119
+            ],
+            "answer": "Antacid",
+            "hint": "Soother for an upset stomach"
+        },
+        "H": {
+            "cells": [
+                63,
+                1,
+                123,
+                40,
+                21,
+                96,
+                74,
+                175
+            ],
+            "answer": "Politics",
+            "hint": "\u201cWar without bloodshed,\u201d per Mao"
+        },
+        "I": {
+            "cells": [
+                143,
+                28,
+                171,
+                85,
+                53,
+                111
+            ],
+            "answer": "Entomb",
+            "hint": "Place in a vault"
+        },
+        "J": {
+            "cells": [
+                107,
+                144,
+                134,
+                83,
+                65,
+                161,
+                179,
+                9
+            ],
+            "answer": "Carotene",
+            "hint": "Vitamin A precursor"
+        },
+        "K": {
+            "cells": [
+                101,
+                57,
+                156,
+                79,
+                19,
+                38,
+                2
+            ],
+            "answer": "Unknown",
+            "hint": "\u201cx\u201d in an equation; yet to be discovered"
+        },
+        "L": {
+            "cells": [
+                3,
+                75,
+                97,
+                152,
+                120,
+                172,
+                39,
+                61,
+                22
+            ],
+            "answer": "Long March",
+            "hint": "Epic 1930s flight of some 6,000 miles (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                56,
+                106,
+                91,
+                157,
+                77,
+                24,
+                138
+            ],
+            "answer": "Inhibit",
+            "hint": "Suppress, restrain"
+        },
+        "N": {
+            "cells": [
+                29,
+                160,
+                110,
+                64,
+                95,
+                84,
+                5,
+                127
+            ],
+            "answer": "Armagnac",
+            "hint": "Brandy from the Gascony region of France"
+        },
+        "O": {
+            "cells": [
+                14,
+                109,
+                151,
+                94,
+                126,
+                67,
+                181,
+                35
+            ],
+            "answer": "Ringdove",
+            "hint": "Pigeon with white neck patches"
+        },
+        "P": {
+            "cells": [
+                103,
+                7,
+                130,
+                78,
+                32,
+                173,
+                50,
+                158
+            ],
+            "answer": "Talisman",
+            "hint": "Object having magical powers"
+        },
+        "Q": {
+            "cells": [
+                116,
+                104,
+                132,
+                145,
+                42,
+                81,
+                25,
+                62,
+                167
+            ],
+            "answer": "\u201cRabbit, Run\u201d",
+            "hint": "1960 novel in which Harry Angstrom first appears (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                17,
+                168,
+                26,
+                70,
+                121,
+                46,
+                139
+            ],
+            "answer": "Egotism",
+            "hint": "Case of cephalic swelling?"
+        },
+        "S": {
+            "cells": [
+                80,
+                99,
+                149,
+                176,
+                8,
+                133,
+                59,
+                43
+            ],
+            "answer": "Ambition",
+            "hint": "\u201cTime is the only critic without ___\u201d (Steinbeck)"
+        },
+        "T": {
+            "cells": [
+                55,
+                13,
+                93,
+                113,
+                163,
+                72,
+                136
+            ],
+            "answer": "Swinish",
+            "hint": "Like Porky Pig or Swift\u2019s Yahoos"
+        },
+        "U": {
+            "cells": [
+                170,
+                36,
+                82,
+                48,
+                68,
+                146,
+                10,
+                129,
+                115
+            ],
+            "answer": "Union suit",
+            "hint": "One-piece long underwear with a button-up flap in the rear (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                153,
+                112,
+                178,
+                69,
+                87,
+                45,
+                16,
+                141
+            ],
+            "answer": "Rigidity",
+            "hint": "Refusal to bend, intransigence"
+        },
+        "W": {
+            "cells": [
+                180,
+                47,
+                88,
+                159,
+                30,
+                118,
+                135,
+                15,
+                60
+            ],
+            "answer": "Enigmatic",
+            "hint": "Puzzling, hard to fathom"
+        }
+    }
+}

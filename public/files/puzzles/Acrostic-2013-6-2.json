@@ -1,0 +1,366 @@
+{
+    "answer": "Procrastinators seldom do... nothing; they do marginally useful things.... The procrastinator can be motivated to do difficult, timely, and important tasks, as long as these tasks are a way of not doing something more important.",
+    "author": "(John) Perry,",
+    "authorCell": [
+        114,
+        88,
+        14,
+        178,
+        34,
+        132,
+        5,
+        87,
+        93,
+        152,
+        176,
+        172,
+        171,
+        99,
+        2,
+        11,
+        123,
+        31,
+        95,
+        119,
+        147,
+        103,
+        84,
+        91,
+        10
+    ],
+    "source": "(The) Art Of Procrastination",
+    "clues": {
+        "A": {
+            "cells": [
+                114,
+                27,
+                13,
+                179,
+                129,
+                70,
+                156
+            ],
+            "answer": "Photo ID",
+            "hint": "Piece of self-validation (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                88,
+                24,
+                170,
+                72,
+                7,
+                125,
+                138
+            ],
+            "answer": "En masse",
+            "hint": "The opposite of singly (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                14,
+                149,
+                111,
+                86,
+                63
+            ],
+            "answer": "Radar",
+            "hint": "Palindromic acronym"
+        },
+        "D": {
+            "cells": [
+                178,
+                36,
+                127,
+                48,
+                15,
+                146,
+                67
+            ],
+            "answer": "Ross Sea",
+            "hint": "Body of water near the Mt. Erebus volcano (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                34,
+                180,
+                56,
+                124,
+                80,
+                17,
+                137
+            ],
+            "answer": "Yankees",
+            "hint": "New York\u2019s old Highlanders, since 1913"
+        },
+        "F": {
+            "cells": [
+                132,
+                153,
+                120,
+                96,
+                43,
+                66,
+                21
+            ],
+            "answer": "Ant farm",
+            "hint": "Gift to a young naturalist (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                5,
+                49,
+                30,
+                168,
+                77,
+                110,
+                139
+            ],
+            "answer": "Regnant",
+            "hint": "Exercising authority"
+        },
+        "H": {
+            "cells": [
+                87,
+                166,
+                20,
+                100,
+                131,
+                54,
+                117
+            ],
+            "answer": "Thought",
+            "hint": "Bean product?"
+        },
+        "I": {
+            "cells": [
+                93,
+                1,
+                61,
+                181,
+                118,
+                39,
+                163,
+                141
+            ],
+            "answer": "Open arms",
+            "hint": "Sign of a warm welcome (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                152,
+                44,
+                28,
+                169,
+                60,
+                121,
+                108
+            ],
+            "answer": "Flighty",
+            "hint": "Skittish or capricious"
+        },
+        "K": {
+            "cells": [
+                176,
+                38,
+                150,
+                18,
+                64,
+                122,
+                94
+            ],
+            "answer": "Payload",
+            "hint": "Total weight of passengers and cargo"
+        },
+        "L": {
+            "cells": [
+                172,
+                23,
+                4,
+                142,
+                68,
+                109,
+                52,
+                83
+            ],
+            "answer": "Rock salt",
+            "hint": "Melter of winter ice on sidewalks (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                171,
+                85,
+                126,
+                102,
+                9,
+                25,
+                42
+            ],
+            "answer": "Ovation",
+            "hint": "What may be standing at the end of an opera"
+        },
+        "N": {
+            "cells": [
+                99,
+                157,
+                113,
+                81,
+                51,
+                71,
+                174,
+                143,
+                26
+            ],
+            "answer": "Communist",
+            "hint": "Reader of the People\u2019s World"
+        },
+        "O": {
+            "cells": [
+                2,
+                164,
+                76,
+                59,
+                112,
+                97,
+                46
+            ],
+            "answer": "Rectify",
+            "hint": "Change from wrong to right"
+        },
+        "P": {
+            "cells": [
+                11,
+                175,
+                79,
+                55,
+                165,
+                41,
+                151,
+                130
+            ],
+            "answer": "Ambition",
+            "hint": "\u201cVaulting ___, which o\u2019erleaps itself and falls ...\u201d (\u201cMacbeth\u201d)"
+        },
+        "Q": {
+            "cells": [
+                123,
+                135,
+                47,
+                12,
+                155,
+                106,
+                75,
+                173,
+                92
+            ],
+            "answer": "Shuttered",
+            "hint": "Out of business"
+        },
+        "R": {
+            "cells": [
+                31,
+                177,
+                159,
+                90,
+                3
+            ],
+            "answer": "Tonto",
+            "hint": "Arizona\u2019s ___ National Forest"
+        },
+        "S": {
+            "cells": [
+                95,
+                78,
+                33,
+                116,
+                134,
+                57,
+                6,
+                161
+            ],
+            "answer": "Inert gas",
+            "hint": "Element No. 2, 10, 18, 36, 54 or 86 (2 wds.)"
+        },
+        "T": {
+            "cells": [
+                119,
+                162,
+                29,
+                62,
+                145,
+                82,
+                50,
+                104,
+                8
+            ],
+            "answer": "Nonprofit",
+            "hint": "Oxfam or the Red Cross, e.g."
+        },
+        "U": {
+            "cells": [
+                147,
+                128,
+                101,
+                69,
+                115,
+                45,
+                89
+            ],
+            "answer": "All told",
+            "hint": "Considering everything (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                103,
+                32,
+                136,
+                73,
+                148,
+                167,
+                58,
+                182
+            ],
+            "answer": "\u201cThe Twist\u201d",
+            "hint": "Dance-craze tune that was #1 twice (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                84,
+                105,
+                144,
+                40,
+                158,
+                16,
+                53
+            ],
+            "answer": "Imagist",
+            "hint": "Sort of poet with a sharp visual style"
+        },
+        "X": {
+            "cells": [
+                91,
+                107,
+                19,
+                35,
+                74,
+                160,
+                133
+            ],
+            "answer": "Old dogs",
+            "hint": "Poor learners, idiomatically (2 wds.)"
+        },
+        "Y": {
+            "cells": [
+                10,
+                154,
+                37,
+                140,
+                22,
+                98,
+                65
+            ],
+            "answer": "Nomadic",
+            "hint": "Moving from one campsite to another"
+        }
+    }
+}

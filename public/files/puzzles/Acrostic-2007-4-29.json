@@ -1,0 +1,338 @@
+{
+    "answer": "Spinning a yarn is a metaphor for telling a story... . But quilting doesn\u2018t seem to be of much use as a way to talk about narrative. ... In fact, it\u2019s... an insult to call a story a patchwork, but high praise to call it seamless.",
+    "author": "Holly Welker,",
+    "authorCell": [
+        22,
+        127,
+        31,
+        123,
+        10,
+        78,
+        60,
+        158,
+        86,
+        100,
+        94,
+        1,
+        79,
+        160,
+        98,
+        13,
+        136,
+        89,
+        12,
+        167,
+        71,
+        46,
+        131
+    ],
+    "source": "Satin Worship",
+    "clues": {
+        "A": {
+            "cells": [
+                22,
+                93,
+                138,
+                165,
+                74,
+                44,
+                115,
+                6,
+                33
+            ],
+            "answer": "Harlequin",
+            "hint": "Having a pattern of brightly colored diamond shapes"
+        },
+        "B": {
+            "cells": [
+                127,
+                45,
+                97,
+                66,
+                5,
+                163,
+                30,
+                112,
+                17,
+                140
+            ],
+            "answer": "Out on a limb",
+            "hint": "Exposed with very little room for retreat (4 wds.)"
+        },
+        "C": {
+            "cells": [
+                31,
+                121,
+                68,
+                88,
+                161,
+                139,
+                14,
+                102
+            ],
+            "answer": "Lambskin",
+            "hint": "Fleecy pelt for a winter coat"
+        },
+        "D": {
+            "cells": [
+                123,
+                23,
+                105,
+                141,
+                36,
+                83,
+                55
+            ],
+            "answer": "Locusts",
+            "hint": "What the eighth plague of Egypt comprised"
+        },
+        "E": {
+            "cells": [
+                10,
+                72,
+                134,
+                120,
+                96,
+                61,
+                38,
+                48,
+                146
+            ],
+            "answer": "Yucca moth",
+            "hint": "Pollinator of New Mexico\u2019s state flower (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                78,
+                9,
+                27,
+                147
+            ],
+            "answer": "Warp",
+            "hint": "Crosser at right angles of Answer Q."
+        },
+        "G": {
+            "cells": [
+                60,
+                15,
+                117,
+                29,
+                157,
+                85,
+                104
+            ],
+            "answer": "Estella",
+            "hint": "In \u201cGreat Expectations,\u201d Pip\u2019s unyielding love"
+        },
+        "H": {
+            "cells": [
+                158,
+                20,
+                99,
+                35,
+                64,
+                137
+            ],
+            "answer": "Lavabo",
+            "hint": "Wall-mounted washbasin with its own tank"
+        },
+        "I": {
+            "cells": [
+                86,
+                50,
+                107,
+                62,
+                126,
+                144,
+                7,
+                34
+            ],
+            "answer": "Knitting",
+            "hint": "Craft that could be called loopy?"
+        },
+        "J": {
+            "cells": [
+                100,
+                164,
+                41,
+                148,
+                119,
+                3,
+                52,
+                65,
+                24,
+                129
+            ],
+            "answer": "Embroidery",
+            "hint": "\u201cHome Sweet Home\u201d location"
+        },
+        "K": {
+            "cells": [
+                94,
+                77,
+                2,
+                21,
+                63,
+                39,
+                133
+            ],
+            "answer": "Rapport",
+            "hint": "Mutual trust and affinity"
+        },
+        "L": {
+            "cells": [
+                1,
+                132,
+                51,
+                16,
+                155,
+                101,
+                118,
+                80
+            ],
+            "answer": "Sagacity",
+            "hint": "Good judgment, horse sense"
+        },
+        "M": {
+            "cells": [
+                79,
+                91,
+                116,
+                11,
+                56,
+                37,
+                149
+            ],
+            "answer": "Atlanta",
+            "hint": "Home to Hawks and Falcons"
+        },
+        "N": {
+            "cells": [
+                160,
+                53,
+                111,
+                145,
+                76
+            ],
+            "answer": "Tongs",
+            "hint": "Holder of some cubes"
+        },
+        "O": {
+            "cells": [
+                98,
+                4,
+                168,
+                81,
+                49,
+                19,
+                70,
+                135,
+                152,
+                114
+            ],
+            "answer": "In stitches",
+            "hint": "Cracked up by a tailor\u2019s joke? (2 wds.)"
+        },
+        "P": {
+            "cells": [
+                13,
+                110,
+                73,
+                151,
+                124,
+                42
+            ],
+            "answer": "Nassau",
+            "hint": "Caribbean port once a refuge for Blackbeard"
+        },
+        "Q": {
+            "cells": [
+                136,
+                26,
+                82,
+                67
+            ],
+            "answer": "Woof",
+            "hint": "What goes back and forth in a shuttle"
+        },
+        "R": {
+            "cells": [
+                89,
+                113,
+                59,
+                143,
+                156,
+                47,
+                25
+            ],
+            "answer": "One half",
+            "hint": "A couple of quarters (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                12,
+                75,
+                43,
+                153,
+                130,
+                92
+            ],
+            "answer": "Rattan",
+            "hint": "Caning material"
+        },
+        "T": {
+            "cells": [
+                167,
+                106,
+                84,
+                142,
+                69,
+                54,
+                125
+            ],
+            "answer": "Statues",
+            "hint": "Children\u2019s game that involves freezing"
+        },
+        "U": {
+            "cells": [
+                71,
+                87,
+                32,
+                108,
+                159
+            ],
+            "answer": "Haiti",
+            "hint": "Where the currency is the gourde"
+        },
+        "V": {
+            "cells": [
+                46,
+                28,
+                103,
+                150,
+                8,
+                90,
+                128,
+                162,
+                58
+            ],
+            "answer": "It figures",
+            "hint": "\u201cWell, I should have guessed as much\u201d (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                131,
+                154,
+                122,
+                40,
+                166,
+                109,
+                57,
+                18,
+                95
+            ],
+            "answer": "Polyester",
+            "hint": "Synthetic fabric that resists wrinkles"
+        }
+    }
+}

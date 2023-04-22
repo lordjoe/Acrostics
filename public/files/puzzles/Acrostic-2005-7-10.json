@@ -1,0 +1,360 @@
+{
+    "answer": "If you see a thing that looks like a cross between a flying lobster and the figure of Abraxas on a Gnostic gem,... just keep quiet and hope it will go away...; you have... [no chance] in a stand-up fight with a[n]... African insect.",
+    "author": "(Mary H.) Kingsley,",
+    "authorCell": [
+        26,
+        109,
+        103,
+        86,
+        6,
+        43,
+        8,
+        44,
+        37,
+        87,
+        51,
+        140,
+        119,
+        146,
+        65,
+        136,
+        85,
+        117,
+        77,
+        166,
+        169,
+        144,
+        57,
+        25,
+        27,
+        23
+    ],
+    "source": "West African Studies",
+    "clues": {
+        "A": {
+            "cells": [
+                26,
+                71,
+                162,
+                93,
+                135,
+                46
+            ],
+            "answer": "Kraken",
+            "hint": "Giant octopus-like sea monster of legend"
+        },
+        "B": {
+            "cells": [
+                109,
+                142,
+                52,
+                11,
+                38,
+                81,
+                159,
+                120
+            ],
+            "answer": "In theory",
+            "hint": "Hypothetically (2 wds.)"
+        },
+        "C": {
+            "cells": [
+                103,
+                125,
+                5,
+                148,
+                16,
+                58
+            ],
+            "answer": "Naught",
+            "hint": "Zilch, a cipher, diddly"
+        },
+        "D": {
+            "cells": [
+                86,
+                138,
+                32,
+                50,
+                157,
+                14
+            ],
+            "answer": "Gasbag",
+            "hint": "Spewer of empty talk, blowhard"
+        },
+        "E": {
+            "cells": [
+                6,
+                45,
+                137,
+                95,
+                151,
+                121
+            ],
+            "answer": "Sinewy",
+            "hint": "Built like a wrestler"
+        },
+        "F": {
+            "cells": [
+                43,
+                62,
+                126,
+                167,
+                143,
+                20,
+                111,
+                80
+            ],
+            "answer": "Live down",
+            "hint": "Overcome, as a mortifying experience (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                8,
+                158,
+                42,
+                127,
+                29,
+                110,
+                75
+            ],
+            "answer": "Effects",
+            "hint": "Personal property"
+        },
+        "H": {
+            "cells": [
+                44,
+                155,
+                31,
+                88,
+                12,
+                128,
+                63
+            ],
+            "answer": "Yao Ming",
+            "hint": "N.B.A. star born in Shanghai (2 wds.)"
+        },
+        "I": {
+            "cells": [
+                37,
+                149,
+                164,
+                83,
+                60,
+                134,
+                17,
+                107
+            ],
+            "answer": "Whitecap",
+            "hint": "Source of spindrift at sea"
+        },
+        "J": {
+            "cells": [
+                87,
+                67,
+                113,
+                152,
+                15,
+                131
+            ],
+            "answer": "Eolith",
+            "hint": "Chipped stone artifact formed by nature"
+        },
+        "K": {
+            "cells": [
+                51,
+                145,
+                114,
+                94,
+                66,
+                165
+            ],
+            "answer": "Spleen",
+            "hint": "Lymphocyte-producing organ"
+        },
+        "L": {
+            "cells": [
+                140,
+                160,
+                79,
+                124,
+                36,
+                53,
+                13,
+                104
+            ],
+            "answer": "Tight end",
+            "hint": "Player lined up next to a tackle (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                119,
+                47,
+                28,
+                153,
+                105,
+                72
+            ],
+            "answer": "\u201cAgatha\u201d",
+            "hint": "1979 film about a real-life mystery writer"
+        },
+        "N": {
+            "cells": [
+                146,
+                9,
+                99,
+                48,
+                82,
+                132,
+                61,
+                35
+            ],
+            "answer": "Fail-safe",
+            "hint": "Backup system for averting disaster (hyph.)"
+        },
+        "O": {
+            "cells": [
+                65,
+                122,
+                34,
+                98,
+                139,
+                18
+            ],
+            "answer": "Robust",
+            "hint": "In computing, bug-resistant and reliable"
+        },
+        "P": {
+            "cells": [
+                136,
+                70,
+                91,
+                108,
+                156
+            ],
+            "answer": "Ibsen",
+            "hint": "Influential Norwegian playwright"
+        },
+        "Q": {
+            "cells": [
+                85,
+                54,
+                39,
+                118,
+                168,
+                64,
+                10
+            ],
+            "answer": "Crew cut",
+            "hint": "Absence of locks, for the most part (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                117,
+                68,
+                24,
+                141,
+                101
+            ],
+            "answer": "A flat",
+            "hint": "G sharp\u2019s alter ego (2 wds.)"
+        },
+        "S": {
+            "cells": [
+                77,
+                4,
+                33,
+                59
+            ],
+            "answer": "Nosh",
+            "hint": "Have a bite between meals"
+        },
+        "T": {
+            "cells": [
+                166,
+                102,
+                92,
+                76,
+                30,
+                112
+            ],
+            "answer": "Satori",
+            "hint": "Epiphany for a Zen Buddhist"
+        },
+        "U": {
+            "cells": [
+                169,
+                7,
+                97,
+                123,
+                147,
+                19,
+                41
+            ],
+            "answer": "Tequila",
+            "hint": "Liquor made from the century plant"
+        },
+        "V": {
+            "cells": [
+                144,
+                163,
+                1,
+                116,
+                40,
+                89,
+                69,
+                130,
+                22
+            ],
+            "answer": "Union jack",
+            "hint": "Ensign aboard the royal yacht Britannia (2 wds.)"
+        },
+        "W": {
+            "cells": [
+                57,
+                100,
+                2,
+                78,
+                161,
+                150,
+                21
+            ],
+            "answer": "De facto",
+            "hint": "Actual, but not official (2 wds.)"
+        },
+        "X": {
+            "cells": [
+                25,
+                115,
+                90,
+                55,
+                133,
+                74
+            ],
+            "answer": "Iguana",
+            "hint": "Lizard with a crest of scales down its back"
+        },
+        "Y": {
+            "cells": [
+                27,
+                96,
+                49,
+                73,
+                3
+            ],
+            "answer": "Epoxy",
+            "hint": "Component used to strengthen surfboards"
+        },
+        "Z": {
+            "cells": [
+                23,
+                154,
+                106,
+                129,
+                84,
+                56
+            ],
+            "answer": "Shoo-in",
+            "hint": "Favorite by far (hyph.)"
+        }
+    }
+}

@@ -1,0 +1,362 @@
+{
+    "answer": "A work in progress quickly becomes feral. It reverts to a wild state overnight. ... If you skip a day, you are, quite rightly, afraid to open the door to its room. You enter... with bravura, holding a chair... and shouting \u201cSimba!\u201d",
+    "author": "Annie Dillard,",
+    "authorCell": [
+        76,
+        60,
+        148,
+        164,
+        127,
+        101,
+        86,
+        49,
+        94,
+        46,
+        12,
+        146,
+        44,
+        135,
+        83,
+        2,
+        114,
+        154,
+        52,
+        35,
+        128,
+        91,
+        145,
+        61,
+        97,
+        58
+    ],
+    "source": "The Writing Life",
+    "clues": {
+        "A": {
+            "cells": [
+                76,
+                162,
+                64,
+                143,
+                10,
+                37,
+                29,
+                92,
+                133,
+                105
+            ],
+            "answer": "Authorship",
+            "hint": "Determination made by a stylometrist"
+        },
+        "B": {
+            "cells": [
+                60,
+                1,
+                17,
+                163,
+                147,
+                34,
+                85,
+                70
+            ],
+            "answer": "Nautilus",
+            "hint": "Mollusk living in a whorl of its own"
+        },
+        "C": {
+            "cells": [
+                148,
+                45,
+                98,
+                66,
+                79,
+                21,
+                5
+            ],
+            "answer": "Norfolk",
+            "hint": "Virginia shipbuilding center"
+        },
+        "D": {
+            "cells": [
+                164,
+                89,
+                65,
+                15
+            ],
+            "answer": "Iris",
+            "hint": "Messenger of myth who came to Earth on a rainbow"
+        },
+        "E": {
+            "cells": [
+                127,
+                62,
+                103,
+                36,
+                155,
+                168,
+                73
+            ],
+            "answer": "Ego trip",
+            "hint": "A case of inflation (2 wds.)"
+        },
+        "F": {
+            "cells": [
+                101,
+                112,
+                11,
+                129,
+                53,
+                149,
+                167
+            ],
+            "answer": "Dog tags",
+            "hint": "Service ID\u2019s (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                86,
+                57,
+                138,
+                7,
+                152,
+                113,
+                31
+            ],
+            "answer": "Ivanhoe",
+            "hint": "Chivalric knight a k a Wilfred"
+        },
+        "H": {
+            "cells": [
+                49,
+                104,
+                84,
+                140,
+                156,
+                93
+            ],
+            "answer": "Loquat",
+            "hint": "Small, yellow plumlike fruit of an evergreen"
+        },
+        "I": {
+            "cells": [
+                94,
+                81,
+                30,
+                18,
+                108,
+                118,
+                130
+            ],
+            "answer": "Lafitte",
+            "hint": "19th-century privateer called \u201cThe Terror of the Gulf\u201d"
+        },
+        "J": {
+            "cells": [
+                46,
+                123,
+                68,
+                9,
+                110
+            ],
+            "answer": "Amore",
+            "hint": "Song subject for un trovatore"
+        },
+        "K": {
+            "cells": [
+                12,
+                121,
+                139,
+                48,
+                107,
+                166
+            ],
+            "answer": "Roving",
+            "hint": "Like the eye of a libertine"
+        },
+        "L": {
+            "cells": [
+                146,
+                69,
+                39,
+                24,
+                54
+            ],
+            "answer": "Duvet",
+            "hint": "Comforter"
+        },
+        "M": {
+            "cells": [
+                44,
+                26,
+                71,
+                95,
+                116
+            ],
+            "answer": "Tokyo",
+            "hint": "Godzilla\u2019s perennial stomping grounds"
+        },
+        "N": {
+            "cells": [
+                135,
+                122,
+                151,
+                20,
+                55,
+                67
+            ],
+            "answer": "Hockey",
+            "hint": "Game with boards and creases"
+        },
+        "O": {
+            "cells": [
+                83,
+                4,
+                158,
+                141,
+                100,
+                19,
+                63
+            ],
+            "answer": "Erdrich",
+            "hint": "Louise ___, author of \u201cThe Beet Queen\u201d and \u201cLove Medicine\u201d"
+        },
+        "P": {
+            "cells": [
+                2,
+                72,
+                157,
+                111,
+                125,
+                47
+            ],
+            "answer": "Window",
+            "hint": "Interval of time during which an activity can or must take place"
+        },
+        "Q": {
+            "cells": [
+                114,
+                126,
+                136,
+                23,
+                88,
+                41
+            ],
+            "answer": "Rubber",
+            "hint": "Slab on a mound in a stadium"
+        },
+        "R": {
+            "cells": [
+                154,
+                169,
+                8,
+                82,
+                28,
+                119,
+                51
+            ],
+            "answer": "Impress",
+            "hint": "Wow"
+        },
+        "S": {
+            "cells": [
+                52,
+                99,
+                165,
+                87,
+                33,
+                131,
+                153
+            ],
+            "answer": "Tantara",
+            "hint": "Trumpet fanfare; hunting call"
+        },
+        "T": {
+            "cells": [
+                35,
+                75,
+                150,
+                109,
+                56
+            ],
+            "answer": "Idaho",
+            "hint": "Admission of 1890"
+        },
+        "U": {
+            "cells": [
+                128,
+                3,
+                50,
+                117,
+                25,
+                106
+            ],
+            "answer": "No dice",
+            "hint": "\u201cI don\u2019t agree to it\u201d (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                91,
+                142,
+                102,
+                14,
+                170,
+                78
+            ],
+            "answer": "Gatsby",
+            "hint": "Jay ___, Nick Carraway\u2019s neighbor in West Egg"
+        },
+        "W": {
+            "cells": [
+                145,
+                96,
+                132,
+                22,
+                40,
+                120,
+                159
+            ],
+            "answer": "Lawyers",
+            "hint": "Bar figures"
+        },
+        "X": {
+            "cells": [
+                61,
+                32,
+                161,
+                16,
+                80,
+                144,
+                90,
+                43
+            ],
+            "answer": "Iroquois",
+            "hint": "Confederacy espoused by Hiawatha"
+        },
+        "Y": {
+            "cells": [
+                97,
+                59,
+                6,
+                42,
+                115,
+                74,
+                134,
+                171
+            ],
+            "answer": "Frittata",
+            "hint": "Italian dish prepared in a skillet"
+        },
+        "Z": {
+            "cells": [
+                58,
+                77,
+                13,
+                137,
+                160,
+                124,
+                27,
+                38
+            ],
+            "answer": "Eye rhyme",
+            "hint": "Pairing of \u201clove\u201d and \u201cmove,\u201d or \u201cmow\u201d and \u201cnow\u201d (2 wds.)"
+        }
+    }
+}

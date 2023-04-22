@@ -1,0 +1,337 @@
+{
+    "answer": "Garamond\u2019s semicolon is... aggressive, and elegant, its lower half a cobra\u2019s head arced back to strike. ... Palatino\u2019s is a thin flapper in a big hat slouched against the wall at a party. ... Didot\u2019s puffs its chest out pridefully.",
+    "author": "Cecelia Watson,",
+    "authorCell": [
+        66,
+        119,
+        14,
+        11,
+        98,
+        167,
+        58,
+        46,
+        21,
+        128,
+        10,
+        162,
+        87,
+        59,
+        25,
+        12,
+        144,
+        157,
+        88,
+        83,
+        74,
+        96
+    ],
+    "source": "Semicolon",
+    "clues": {
+        "A": {
+            "cells": [
+                66,
+                129,
+                92,
+                172,
+                79,
+                107,
+                45,
+                2,
+                24,
+                143
+            ],
+            "answer": "Chalkboard",
+            "hint": "Typeface based on classroom handwriting, similar to Comic Sans"
+        },
+        "B": {
+            "cells": [
+                119,
+                23,
+                6,
+                91,
+                150,
+                48,
+                170
+            ],
+            "answer": "Egosurf",
+            "hint": "Vainly search?"
+        },
+        "C": {
+            "cells": [
+                14,
+                31,
+                57,
+                93,
+                146,
+                163,
+                71,
+                110,
+                130
+            ],
+            "answer": "Cartouche",
+            "hint": "Oval enclosing a pharaoh\u2019s name"
+        },
+        "D": {
+            "cells": [
+                11,
+                138,
+                94,
+                67,
+                26,
+                171,
+                113
+            ],
+            "answer": "Ephesus",
+            "hint": "Whither St. Paul sent a certain epistle"
+        },
+        "E": {
+            "cells": [
+                98,
+                13,
+                152,
+                169,
+                49,
+                84,
+                117,
+                72
+            ],
+            "answer": "Lifehack",
+            "hint": "Handy tip for MacGyvering something"
+        },
+        "F": {
+            "cells": [
+                167,
+                105,
+                126,
+                78,
+                1,
+                60,
+                40
+            ],
+            "answer": "Insight",
+            "hint": "Deep understanding"
+        },
+        "G": {
+            "cells": [
+                58,
+                168,
+                29,
+                139,
+                7,
+                42,
+                99,
+                122,
+                80
+            ],
+            "answer": "Advantage",
+            "hint": "In tennis, the first point scored after deuce"
+        },
+        "H": {
+            "cells": [
+                46,
+                30,
+                69,
+                8,
+                90,
+                125,
+                109,
+                153
+            ],
+            "answer": "Webdings",
+            "hint": "Set of symbols including \u201cman in business suit levitating\u201d"
+        },
+        "I": {
+            "cells": [
+                21,
+                114,
+                81,
+                158,
+                4,
+                56,
+                95,
+                141,
+                43
+            ],
+            "answer": "Alpha-Bits",
+            "hint": "Product sold with the tagline \u201cThey\u2019re ABC delicious!\u201d (hyph.)"
+        },
+        "J": {
+            "cells": [
+                128,
+                28,
+                76,
+                44,
+                61,
+                154,
+                9,
+                112
+            ],
+            "answer": "Titleist",
+            "hint": "Brand of golf balls and clubs"
+        },
+        "K": {
+            "cells": [
+                10,
+                70,
+                103,
+                37,
+                123,
+                160,
+                89,
+                55
+            ],
+            "answer": "Sargasso",
+            "hint": "Sea that includes part of the Bermuda Triangle"
+        },
+        "L": {
+            "cells": [
+                162,
+                77,
+                33,
+                137,
+                108,
+                18
+            ],
+            "answer": "Ordain",
+            "hint": "Rule, dictate, command"
+        },
+        "M": {
+            "cells": [
+                87,
+                17,
+                148,
+                52,
+                34,
+                65,
+                135,
+                164,
+                116
+            ],
+            "answer": "Nosferatu",
+            "hint": "Classic 1922 silent film remade in 1979 by Werner Herzog"
+        },
+        "N": {
+            "cells": [
+                59,
+                173,
+                132,
+                39,
+                155,
+                73,
+                115,
+                101
+            ],
+            "answer": "Slant-top",
+            "hint": "Style of writing desk (hyph.)"
+        },
+        "O": {
+            "cells": [
+                25,
+                134,
+                82,
+                149,
+                104,
+                120
+            ],
+            "answer": "Elapid",
+            "hint": "Member of the family including mambas and kraits"
+        },
+        "P": {
+            "cells": [
+                12,
+                159,
+                147,
+                38,
+                68,
+                53,
+                85,
+                121
+            ],
+            "answer": "Metadata",
+            "hint": "Information about information"
+        },
+        "Q": {
+            "cells": [
+                144,
+                166,
+                19,
+                75,
+                118,
+                62,
+                35,
+                102
+            ],
+            "answer": "Irish ale",
+            "hint": "Smithwick\u2019s or O\u2019Hara\u2019s, e.g. (2 wds.)"
+        },
+        "R": {
+            "cells": [
+                157,
+                36,
+                63,
+                86,
+                133,
+                16,
+                111
+            ],
+            "answer": "Cedilla",
+            "hint": "C plus in French?"
+        },
+        "S": {
+            "cells": [
+                88,
+                20,
+                131,
+                106,
+                51,
+                145
+            ],
+            "answer": "Oswald",
+            "hint": "The reeve in \u201cThe Canterbury Tales\u201d"
+        },
+        "T": {
+            "cells": [
+                83,
+                124,
+                32,
+                15,
+                161,
+                142,
+                100,
+                47
+            ],
+            "answer": "Linotype",
+            "hint": "Once-standard print shop equipment"
+        },
+        "U": {
+            "cells": [
+                74,
+                151,
+                97,
+                27,
+                54,
+                3,
+                41,
+                165,
+                136
+            ],
+            "answer": "Off-script",
+            "hint": "Straying from the expected delivery (hyph.)"
+        },
+        "V": {
+            "cells": [
+                96,
+                64,
+                156,
+                127,
+                174,
+                22,
+                140,
+                50,
+                5
+            ],
+            "answer": "Nastygram",
+            "hint": "Unfriendly or threatening letter or email"
+        }
+    }
+}

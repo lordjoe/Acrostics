@@ -1,0 +1,353 @@
+{
+    "answer": "There is a... word in Chinese my mother used to describe my personality: li hai. Depending on context..., It can mean \u201cfierce\u201d or \u201cformidable\u201d in doing what is right, or it can mean... \u201cpersistent,\u201d or \u201cunstoppable\u201d in doing what is wrong.",
+    "author": "Amy Tan,",
+    "authorCell": [
+        134,
+        44,
+        45,
+        81,
+        116,
+        66,
+        166,
+        167,
+        65,
+        99,
+        5,
+        76,
+        123,
+        143,
+        136,
+        60,
+        38,
+        128,
+        42,
+        3,
+        176,
+        127,
+        88,
+        20
+    ],
+    "source": "Where the Past Begins",
+    "clues": {
+        "A": {
+            "cells": [
+                134,
+                40,
+                79,
+                97,
+                152,
+                120,
+                22
+            ],
+            "answer": "Art form",
+            "hint": "Dance, opera, writing or painting (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                44,
+                168,
+                62,
+                101,
+                7,
+                125,
+                144
+            ],
+            "answer": "Madison",
+            "hint": "\u201cFather of the Constitution\u201d"
+        },
+        "C": {
+            "cells": [
+                45,
+                10,
+                148,
+                172,
+                80,
+                31,
+                59
+            ],
+            "answer": "You wish",
+            "hint": "\u201cDream on!\u201d (2 wds.)"
+        },
+        "D": {
+            "cells": [
+                81,
+                56,
+                154,
+                2,
+                25,
+                95,
+                112
+            ],
+            "answer": "Typhoon",
+            "hint": "Weather event that\u2019s Pacific-specific"
+        },
+        "E": {
+            "cells": [
+                116,
+                4,
+                29,
+                91,
+                49,
+                169
+            ],
+            "answer": "Arrest",
+            "hint": "Something not good to be under"
+        },
+        "F": {
+            "cells": [
+                66,
+                37,
+                121,
+                53,
+                139,
+                17,
+                100,
+                162,
+                84
+            ],
+            "answer": "Neil Simon",
+            "hint": "\u201cLaughter on the 23rd Floor\u201d playwright (2 wds.)"
+        },
+        "G": {
+            "cells": [
+                166,
+                41,
+                14,
+                102,
+                74,
+                114,
+                141
+            ],
+            "answer": "Windows",
+            "hint": "Microsoft release of 1985"
+        },
+        "H": {
+            "cells": [
+                167,
+                87,
+                18,
+                36,
+                150,
+                71,
+                132,
+                106
+            ],
+            "answer": "Handsome",
+            "hint": "Not too hard on the eyes"
+        },
+        "I": {
+            "cells": [
+                65,
+                78,
+                93,
+                21,
+                157,
+                119,
+                6,
+                35,
+                173
+            ],
+            "answer": "Excelsior",
+            "hint": "Latin motto of New York State"
+        },
+        "J": {
+            "cells": [
+                99,
+                63,
+                142,
+                48,
+                19,
+                83,
+                34
+            ],
+            "answer": "Retreat",
+            "hint": "Secluded sanctuary"
+        },
+        "K": {
+            "cells": [
+                5,
+                175,
+                151,
+                110,
+                30,
+                138,
+                52,
+                70,
+                86
+            ],
+            "answer": "Entourage",
+            "hint": "Train following a big wheel"
+        },
+        "L": {
+            "cells": [
+                76,
+                9,
+                140,
+                105,
+                61,
+                165,
+                27,
+                124
+            ],
+            "answer": "\"Twilight\"",
+            "hint": "Novel series by Stephenie Meyer"
+        },
+        "M": {
+            "cells": [
+                123,
+                68,
+                147,
+                15,
+                90,
+                164,
+                32
+            ],
+            "answer": "Hircine",
+            "hint": "Bovine : cattle :: ____ : goats"
+        },
+        "N": {
+            "cells": [
+                143,
+                69,
+                113,
+                130,
+                96,
+                161,
+                47
+            ],
+            "answer": "En garde",
+            "hint": "Warning at the start of a match (2 wds.)"
+        },
+        "O": {
+            "cells": [
+                136,
+                118,
+                160,
+                75,
+                103,
+                55,
+                28
+            ],
+            "answer": "Pinnate",
+            "hint": "Having similar parts on either side of an axis, as a leaf"
+        },
+        "P": {
+            "cells": [
+                60,
+                109,
+                12,
+                163,
+                129,
+                145,
+                94,
+                33
+            ],
+            "answer": "Addicted",
+            "hint": "Having an extreme devotion"
+        },
+        "Q": {
+            "cells": [
+                38,
+                77,
+                149,
+                13,
+                174,
+                126
+            ],
+            "answer": "Senior",
+            "hint": "Highest-ranking"
+        },
+        "R": {
+            "cells": [
+                128,
+                16,
+                111,
+                85,
+                156,
+                57,
+                43
+            ],
+            "answer": "Thimble",
+            "hint": "Hard cap giving protection"
+        },
+        "S": {
+            "cells": [
+                42,
+                8,
+                24,
+                104,
+                58,
+                131,
+                146
+            ],
+            "answer": "Bambino",
+            "hint": "\u201cPiccolo\u201d child"
+        },
+        "T": {
+            "cells": [
+                3,
+                82,
+                98,
+                39,
+                159,
+                67,
+                133
+            ],
+            "answer": "Ecocide",
+            "hint": "Risk of heedless human activity"
+        },
+        "U": {
+            "cells": [
+                176,
+                11,
+                158,
+                26,
+                73,
+                115,
+                137,
+                51
+            ],
+            "answer": "Gretchen",
+            "hint": "Tragic maiden in Goethe\u2019s \u201cFaust\u201d"
+        },
+        "V": {
+            "cells": [
+                127,
+                72,
+                89,
+                54,
+                108,
+                170,
+                1,
+                23
+            ],
+            "answer": "Infinity",
+            "hint": "Concept evoked in several of Zeno\u2019s paradoxes"
+        },
+        "W": {
+            "cells": [
+                88,
+                155,
+                64,
+                46,
+                107,
+                135,
+                122
+            ],
+            "answer": "Napping",
+            "hint": "Off one\u2019s guard"
+        },
+        "X": {
+            "cells": [
+                20,
+                153,
+                50,
+                92,
+                117,
+                171
+            ],
+            "answer": "Sports",
+            "hint": "Word before bar or bra"
+        }
+    }
+}

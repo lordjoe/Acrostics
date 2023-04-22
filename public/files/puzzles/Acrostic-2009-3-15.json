@@ -1,0 +1,341 @@
+{
+    "answer": "I walked around Dublin... like a spy behind enemy lines.... I would... stop to look at... a horse and cart..., a woman calling down from a window, a butcher emptying a basin of pink water into the gutter. No one sees a child watching.",
+    "author": "N[uala] O\u2019Faolain,",
+    "authorCell": [
+        117,
+        94,
+        126,
+        158,
+        139,
+        4,
+        62,
+        1,
+        137,
+        82,
+        9,
+        29,
+        115,
+        46,
+        15,
+        43,
+        58,
+        78,
+        134,
+        120,
+        10,
+        7,
+        27
+    ],
+    "source": "Are You Somebody?",
+    "clues": {
+        "A": {
+            "cells": [
+                117,
+                165,
+                5,
+                153,
+                100,
+                81,
+                21,
+                138,
+                38
+            ],
+            "answer": "\u201cNaked City\u201d",
+            "hint": "Early TV cop show with Lt. Dan Muldoon (2 wds.)"
+        },
+        "B": {
+            "cells": [
+                94,
+                28,
+                162,
+                18,
+                118,
+                67,
+                49
+            ],
+            "answer": "Obliged",
+            "hint": "Word of gratitude, often said after \u201cmuch\u201d"
+        },
+        "C": {
+            "cells": [
+                126,
+                110,
+                77,
+                149,
+                51,
+                161,
+                6,
+                65
+            ],
+            "answer": "Frontier",
+            "hint": "Airline self-labeled \u201ca whole different animal\u201d"
+        },
+        "D": {
+            "cells": [
+                158,
+                16,
+                128,
+                36,
+                91,
+                74,
+                52,
+                145
+            ],
+            "answer": "A bientôt",
+            "hint": "Francophone farewell (2 wds.)"
+        },
+        "E": {
+            "cells": [
+                139,
+                26,
+                42,
+                99,
+                164,
+                125,
+                73,
+                59
+            ],
+            "answer": "Openwork",
+            "hint": "Artistic decoration with piercings or gaps"
+        },
+        "F": {
+            "cells": [
+                4,
+                151,
+                56,
+                136,
+                114,
+                75
+            ],
+            "answer": "\u201cLolita\u201d",
+            "hint": "Novel inspiring films of 1962 and 1997"
+        },
+        "G": {
+            "cells": [
+                62,
+                48,
+                144,
+                95,
+                129,
+                11,
+                25
+            ],
+            "answer": "Alumnus",
+            "hint": "Oscar Wilde, in relation to Trinity College"
+        },
+        "H": {
+            "cells": [
+                1,
+                80,
+                61,
+                160,
+                147,
+                104,
+                121,
+                35,
+                22
+            ],
+            "answer": "In the bank",
+            "hint": "Secured, according to a cliche (3 wds.)"
+        },
+        "I": {
+            "cells": [
+                137,
+                109,
+                90,
+                37,
+                8,
+                124
+            ],
+            "answer": "Newman",
+            "hint": "Seinfeld\u2019s \u201csworn enemy\u201d"
+        },
+        "J": {
+            "cells": [
+                82,
+                98,
+                20,
+                3,
+                69,
+                140,
+                168,
+                47,
+                122
+            ],
+            "answer": "Ailanthus",
+            "hint": "Asian \u201ctree of heaven\u201d with foul-smelling flowers"
+        },
+        "K": {
+            "cells": [
+                9,
+                111,
+                171,
+                148,
+                57,
+                76,
+                133,
+                30
+            ],
+            "answer": "Regrowth",
+            "hint": "Healing process after a disaster"
+        },
+        "L": {
+            "cells": [
+                29,
+                167,
+                108,
+                150,
+                2,
+                55,
+                135,
+                70
+            ],
+            "answer": "Echo word",
+            "hint": "Term like pompom or murmur (2 wds.)"
+        },
+        "M": {
+            "cells": [
+                115,
+                127,
+                66,
+                169,
+                83,
+                96,
+                19,
+                146,
+                31
+            ],
+            "answer": "Ypsilanti",
+            "hint": "Urban neighbor of Ann Arbor, Mich."
+        },
+        "N": {
+            "cells": [
+                46,
+                105,
+                166,
+                92,
+                17,
+                79,
+                32,
+                130
+            ],
+            "answer": "Outflank",
+            "hint": "Get around, militarily"
+        },
+        "O": {
+            "cells": [
+                15,
+                53,
+                131,
+                116,
+                170,
+                88
+            ],
+            "answer": "Upwind",
+            "hint": "Into the teeth of the gale, at sea"
+        },
+        "P": {
+            "cells": [
+                43,
+                84,
+                72,
+                113,
+                13,
+                60,
+                154,
+                141
+            ],
+            "answer": "Slapdash",
+            "hint": "Carelessly, with little heed paid"
+        },
+        "Q": {
+            "cells": [
+                58,
+                107,
+                155,
+                132,
+                12,
+                85,
+                33
+            ],
+            "answer": "Oceanid",
+            "hint": "Daughter of Tethys, in myth"
+        },
+        "R": {
+            "cells": [
+                78,
+                159,
+                143,
+                93,
+                119,
+                45
+            ],
+            "answer": "McGraw",
+            "hint": "Tug of baseball who said \u201cYa gotta believe\u201d"
+        },
+        "S": {
+            "cells": [
+                134,
+                41,
+                71,
+                101,
+                14,
+                156
+            ],
+            "answer": "Encode",
+            "hint": "Format, as electronic data"
+        },
+        "T": {
+            "cells": [
+                120,
+                89,
+                142,
+                64,
+                54,
+                40,
+                103
+            ],
+            "answer": "Boeotia",
+            "hint": "Ancient home to Hesiod and Pindar"
+        },
+        "U": {
+            "cells": [
+                10,
+                63,
+                112,
+                157,
+                39,
+                24,
+                97
+            ],
+            "answer": "Ohm\u2019s law",
+            "hint": "V = IR, in physics (2 wds.)"
+        },
+        "V": {
+            "cells": [
+                7,
+                34,
+                50,
+                106,
+                123,
+                86,
+                23,
+                163
+            ],
+            "answer": "Destined",
+            "hint": "Bound"
+        },
+        "W": {
+            "cells": [
+                27,
+                68,
+                102,
+                44,
+                152,
+                87
+            ],
+            "answer": "Yawing",
+            "hint": "Motion tracked by a gyroscope"
+        }
+    }
+}

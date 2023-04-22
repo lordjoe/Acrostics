@@ -1,0 +1,371 @@
+{
+    "answer": "A curious thing has happened to syzygy; time can do strange things to words... Originally referring to the conjunction of two heavenly bodies,... the word has [since] become one of those few whose meaning includes its opposite.",
+    "author": "Mary (Paumier) Jones,",
+    "authorCell": [
+        135,
+        157,
+        76,
+        109,
+        89,
+        176,
+        79,
+        130,
+        61,
+        140,
+        175,
+        19,
+        137,
+        115,
+        94,
+        99,
+        148,
+        56,
+        141,
+        54,
+        68,
+        98,
+        147,
+        72,
+        152,
+        39
+    ],
+    "source": "(The) Opposite Of Saffron",
+    "clues": {
+        "A": {
+            "cells": [
+                135,
+                104,
+                88,
+                37,
+                10,
+                66,
+                165,
+                24
+            ],
+            "answer": "Man-child",
+            "hint": "Seemingly self-contradictory term for a son (hyph.)"
+        },
+        "B": {
+            "cells": [
+                157,
+                7,
+                47,
+                123,
+                25
+            ],
+            "answer": "Aught",
+            "hint": "Anything, or nothing"
+        },
+        "C": {
+            "cells": [
+                76,
+                48,
+                16,
+                178,
+                161,
+                96,
+                114,
+                60
+            ],
+            "answer": "Resigned",
+            "hint": "Quit, or agreed to keep working?"
+        },
+        "D": {
+            "cells": [
+                109,
+                127,
+                163,
+                30,
+                15,
+                91,
+                80
+            ],
+            "answer": "Yin-yang",
+            "hint": "The union of two opposing forces in nature (hyph.)"
+        },
+        "E": {
+            "cells": [
+                89,
+                38,
+                52,
+                166,
+                8,
+                74,
+                18,
+                129,
+                180,
+                112
+            ],
+            "answer": "Janus-faced",
+            "hint": "Having two contrary aspects; duplicitous (hyph.)"
+        },
+        "F": {
+            "cells": [
+                176,
+                105,
+                156,
+                77,
+                125,
+                64,
+                13,
+                50,
+                93
+            ],
+            "answer": "Oversight",
+            "hint": "Watchful care, or lack of watchfulness"
+        },
+        "G": {
+            "cells": [
+                79,
+                58,
+                149,
+                171,
+                17,
+                136,
+                107
+            ],
+            "answer": "Now then",
+            "hint": "Oxymoronic term for \u201cMoving right along ...\u201d (2 wds.)"
+        },
+        "H": {
+            "cells": [
+                130,
+                65,
+                101,
+                116,
+                34,
+                153,
+                83
+            ],
+            "answer": "Egotist",
+            "hint": "One who\u2019s self-centered"
+        },
+        "I": {
+            "cells": [
+                61,
+                117,
+                26,
+                100,
+                155,
+                139
+            ],
+            "answer": "Show me",
+            "hint": "Missourian demand (2 wds.)"
+        },
+        "J": {
+            "cells": [
+                140,
+                174,
+                85,
+                128,
+                42,
+                103,
+                164,
+                4,
+                23,
+                55
+            ],
+            "answer": "Open secret",
+            "hint": "What\u2019s meant to be covert but is overt (2 wds.)"
+        },
+        "K": {
+            "cells": [
+                175,
+                97,
+                113,
+                33,
+                5,
+                132,
+                59
+            ],
+            "answer": "Poitier",
+            "hint": "Oscar winner for \u201cLilies of the Field\u201d"
+        },
+        "L": {
+            "cells": [
+                19,
+                70,
+                173,
+                57,
+                110,
+                144,
+                32
+            ],
+            "answer": "Plowboy",
+            "hint": "Kid working on a farm"
+        },
+        "M": {
+            "cells": [
+                137,
+                95,
+                35,
+                20,
+                45,
+                151
+            ],
+            "answer": "Oompah",
+            "hint": "Sound in a Sousa march, perhaps"
+        },
+        "N": {
+            "cells": [
+                115,
+                150,
+                41,
+                87,
+                138
+            ],
+            "answer": "Swoon",
+            "hint": "Be overwhelmed by ecstasy or love"
+        },
+        "O": {
+            "cells": [
+                94,
+                160,
+                179,
+                102,
+                36,
+                69,
+                3,
+                44,
+                133,
+                143
+            ],
+            "answer": "In the lurch",
+            "hint": "Not the right way to be left? (3 wds.)"
+        },
+        "P": {
+            "cells": [
+                99,
+                146,
+                12,
+                67,
+                51,
+                172
+            ],
+            "answer": "Tennis",
+            "hint": "Game originally called sphairistike"
+        },
+        "Q": {
+            "cells": [
+                148,
+                2,
+                84,
+                120
+            ],
+            "answer": "Echo",
+            "hint": "Nymph spurned by Narcissus"
+        },
+        "R": {
+            "cells": [
+                56,
+                131,
+                145,
+                62,
+                108,
+                73,
+                177,
+                86,
+                21,
+                158,
+                43
+            ],
+            "answer": "Obsolescent",
+            "hint": "On the way out"
+        },
+        "S": {
+            "cells": [
+                141,
+                124,
+                169,
+                81
+            ],
+            "answer": "Fast",
+            "hint": "Swiftly moving, or firmly fixed"
+        },
+        "T": {
+            "cells": [
+                54,
+                119,
+                1,
+                71,
+                29,
+                154
+            ],
+            "answer": "Swayze",
+            "hint": "Romantic lead in the film \u201cGhost\u201d"
+        },
+        "U": {
+            "cells": [
+                68,
+                27,
+                159,
+                40,
+                118
+            ],
+            "answer": "Aside",
+            "hint": "Line like Iago\u2019s \u201cO, you are well tuned now!\u201d"
+        },
+        "V": {
+            "cells": [
+                98,
+                170,
+                46,
+                75
+            ],
+            "answer": "Fine",
+            "hint": "Punishment for something bad, or good"
+        },
+        "W": {
+            "cells": [
+                147,
+                121,
+                82,
+                49,
+                14
+            ],
+            "answer": "Froth",
+            "hint": "Bubbly stuff; lightweight entertainment"
+        },
+        "X": {
+            "cells": [
+                72,
+                11,
+                31,
+                53,
+                168,
+                122
+            ],
+            "answer": "Rigged",
+            "hint": "Dishonestly manipulated"
+        },
+        "Y": {
+            "cells": [
+                152,
+                90,
+                142,
+                167,
+                6,
+                111,
+                63,
+                126,
+                28
+            ],
+            "answer": "Outdoorsy",
+            "hint": "Like campers and backpackers"
+        },
+        "Z": {
+            "cells": [
+                39,
+                78,
+                92,
+                134,
+                9,
+                162,
+                22,
+                106
+            ],
+            "answer": "Nicotine",
+            "hint": "Nerve poison taken in low concentrations as a stimulant"
+        }
+    }
+}

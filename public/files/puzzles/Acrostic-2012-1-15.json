@@ -1,0 +1,351 @@
+{
+    "answer": "Rome, the eternal city, meant two different things to my parents. To Mama,... you must build it today so it could last through eternity. To Papa,... you had to lay some bricks today and you have the rest of eternity to finish it.",
+    "author": "(Zora Neale) Hurston,",
+    "authorCell": [
+        144,
+        114,
+        160,
+        64,
+        99,
+        166,
+        139,
+        135,
+        67,
+        171,
+        35,
+        154,
+        93,
+        111,
+        82,
+        131,
+        89,
+        142,
+        12,
+        88,
+        1,
+        107,
+        121,
+        75
+    ],
+    "source": "Dust Tracks On A Road",
+    "clues": {
+        "A": {
+            "cells": [
+                144,
+                38,
+                87,
+                69,
+                158,
+                124,
+                110
+            ],
+            "answer": "Hilltop",
+            "hint": "Place affording a panoramic view"
+        },
+        "B": {
+            "cells": [
+                114,
+                34,
+                52,
+                72,
+                8,
+                145,
+                86,
+                164
+            ],
+            "answer": "Unsteady",
+            "hint": "Jerky; irregular; erratic"
+        },
+        "C": {
+            "cells": [
+                160,
+                97,
+                43,
+                117,
+                4,
+                132,
+                71,
+                21
+            ],
+            "answer": "Rhodesia",
+            "hint": "Old colony of southern Africa"
+        },
+        "D": {
+            "cells": [
+                64,
+                19,
+                170,
+                42,
+                92,
+                137
+            ],
+            "answer": "Smithy",
+            "hint": "Workplace in a Longfellow poem"
+        },
+        "E": {
+            "cells": [
+                99,
+                48,
+                168,
+                146,
+                28,
+                116
+            ],
+            "answer": "Trivia",
+            "hint": "Goddess of witchcraft equivalent to Hecate"
+        },
+        "F": {
+            "cells": [
+                166,
+                27,
+                7,
+                65,
+                133,
+                47
+            ],
+            "answer": "Odetta",
+            "hint": "Singer at the 1963 March on Washington"
+        },
+        "G": {
+            "cells": [
+                139,
+                60,
+                9,
+                26,
+                151,
+                80,
+                98,
+                165,
+                45
+            ],
+            "answer": "Notoriety",
+            "hint": "\u201cI am not aware that I have deserved any ___, and I have no taste for its buzz\u201d (Alfred Nobel)"
+        },
+        "H": {
+            "cells": [
+                135,
+                119,
+                96,
+                167,
+                58,
+                15,
+                31
+            ],
+            "answer": "Dogface",
+            "hint": "World War II infantry soldier"
+        },
+        "I": {
+            "cells": [
+                67,
+                44,
+                120,
+                109,
+                84,
+                148
+            ],
+            "answer": "Umlaut",
+            "hint": "Diacritic in many a heavy-metal band name"
+        },
+        "J": {
+            "cells": [
+                171,
+                59,
+                140,
+                22,
+                100,
+                122
+            ],
+            "answer": "Sydney",
+            "hint": "Largest city east of Tokyo and west of Mexico City"
+        },
+        "K": {
+            "cells": [
+                35,
+                94,
+                63,
+                130,
+                6,
+                81,
+                112,
+                46,
+                157
+            ],
+            "answer": "Touch-type",
+            "hint": "Key in using muscle memory (hyph.)"
+        },
+        "L": {
+            "cells": [
+                154,
+                37,
+                101,
+                134,
+                118,
+                51,
+                85,
+                20
+            ],
+            "answer": "Throttle",
+            "hint": "Engine valve that regulates intake"
+        },
+        "M": {
+            "cells": [
+                93,
+                126,
+                30,
+                61,
+                78,
+                152
+            ],
+            "answer": "Refuse",
+            "hint": "\u201cThe wretched ___ of your teeming shore\u201d (words on the Statue of Liberty)"
+        },
+        "N": {
+            "cells": [
+                111,
+                3,
+                66,
+                162,
+                40,
+                95,
+                79,
+                143,
+                123
+            ],
+            "answer": "Ambiguous",
+            "hint": "Subject to interpretation"
+        },
+        "O": {
+            "cells": [
+                82,
+                13,
+                62,
+                41,
+                172,
+                138,
+                156,
+                106
+            ],
+            "answer": "Camshaft",
+            "hint": "Valve train component"
+        },
+        "P": {
+            "cells": [
+                131,
+                10,
+                77,
+                25,
+                49,
+                153,
+                91
+            ],
+            "answer": "Key West",
+            "hint": "Site of the Ernest Hemingway House (2 wds.)"
+        },
+        "Q": {
+            "cells": [
+                89,
+                115,
+                11,
+                173,
+                50,
+                150,
+                128
+            ],
+            "answer": "Shriner",
+            "hint": "Fez-wearing club member"
+        },
+        "R": {
+            "cells": [
+                142,
+                108,
+                90,
+                74,
+                55,
+                159,
+                174,
+                32,
+                18
+            ],
+            "answer": "Optometry",
+            "hint": "Field involving a lot of spectacles"
+        },
+        "S": {
+            "cells": [
+                12,
+                68,
+                102,
+                33,
+                53,
+                141
+            ],
+            "answer": "Ninety",
+            "hint": "The longest interstate highway"
+        },
+        "T": {
+            "cells": [
+                88,
+                163,
+                127,
+                2,
+                24,
+                73,
+                113,
+                57
+            ],
+            "answer": "At bottom",
+            "hint": "Fundamentally, in reality (2 wds.)"
+        },
+        "U": {
+            "cells": [
+                1,
+                16,
+                105,
+                136,
+                70,
+                149
+            ],
+            "answer": "Riyadh",
+            "hint": "Capital with more than 4,000 mosques"
+        },
+        "V": {
+            "cells": [
+                107,
+                36,
+                17,
+                83,
+                125,
+                56,
+                161
+            ],
+            "answer": "Ottoman",
+            "hint": "Tuffet, pouffe or hassock"
+        },
+        "W": {
+            "cells": [
+                121,
+                29,
+                14,
+                155,
+                76,
+                104
+            ],
+            "answer": "Afloat",
+            "hint": "Still viable, as a business"
+        },
+        "X": {
+            "cells": [
+                75,
+                147,
+                169,
+                23,
+                103,
+                5,
+                129,
+                54,
+                39
+            ],
+            "answer": "Dentition",
+            "hint": "Infantile oral outbreak"
+        }
+    }
+}

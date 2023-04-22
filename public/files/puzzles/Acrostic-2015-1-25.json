@@ -1,0 +1,373 @@
+{
+    "answer": "[A]rchaeologists work with humble stuff... . They are expert in the way things fall apart and acute observers of context; the placement and surroundings of an object can make the difference between junk and intellectual gold.",
+    "author": "Marilyn Johnson,",
+    "authorCell": [
+        136,
+        137,
+        45,
+        47,
+        8,
+        37,
+        106,
+        129,
+        87,
+        35,
+        48,
+        86,
+        16,
+        150,
+        181,
+        20,
+        83,
+        6,
+        60,
+        57,
+        71,
+        17,
+        176,
+        11,
+        58,
+        14
+    ],
+    "source": "Lives in Ruins",
+    "clues": {
+        "A": {
+            "cells": [
+                136,
+                51,
+                1,
+                91,
+                166,
+                28,
+                113
+            ],
+            "answer": "Meander",
+            "hint": "Feature of a sinuous river"
+        },
+        "B": {
+            "cells": [
+                137,
+                107,
+                56,
+                19,
+                164,
+                39,
+                76
+            ],
+            "answer": "Athwart",
+            "hint": "From side to side; crosswise"
+        },
+        "C": {
+            "cells": [
+                45,
+                105,
+                124,
+                7,
+                148,
+                25,
+                80
+            ],
+            "answer": "Reforms",
+            "hint": "Changes for the better, in theory"
+        },
+        "D": {
+            "cells": [
+                47,
+                135,
+                29,
+                99,
+                84,
+                174,
+                13
+            ],
+            "answer": "Inspect",
+            "hint": "Study very carefully"
+        },
+        "E": {
+            "cells": [
+                8,
+                112,
+                168,
+                81,
+                96,
+                30,
+                152
+            ],
+            "answer": "Lunette",
+            "hint": "Shape of a crescent moon"
+        },
+        "F": {
+            "cells": [
+                37,
+                173,
+                53,
+                85,
+                147,
+                126,
+                110
+            ],
+            "answer": "Year-end",
+            "hint": "Late December (hyph.)"
+        },
+        "G": {
+            "cells": [
+                106,
+                130,
+                78,
+                171,
+                144,
+                49,
+                22
+            ],
+            "answer": "Neolith",
+            "hint": "Stone ax or adz, e.g."
+        },
+        "H": {
+            "cells": [
+                129,
+                75,
+                163,
+                41,
+                26,
+                9,
+                94
+            ],
+            "answer": "Jukebox",
+            "hint": "\u201cHappy Days\u201d closing credits background prop"
+        },
+        "I": {
+            "cells": [
+                87,
+                161,
+                140,
+                182,
+                68,
+                101,
+                15
+            ],
+            "answer": "Outdraw",
+            "hint": "Best in a duel or at the box office"
+        },
+        "J": {
+            "cells": [
+                35,
+                123,
+                59,
+                21,
+                167,
+                103,
+                143
+            ],
+            "answer": "Hogtied",
+            "hint": "Subdued at a rodeo, maybe"
+        },
+        "K": {
+            "cells": [
+                48,
+                134,
+                111,
+                151,
+                98,
+                165,
+                69
+            ],
+            "answer": "Nascent",
+            "hint": "Just coming into being"
+        },
+        "L": {
+            "cells": [
+                86,
+                66,
+                100,
+                180,
+                155,
+                3,
+                23
+            ],
+            "answer": "Splotch",
+            "hint": "Amorphous shape, as a camouflage marking"
+        },
+        "M": {
+            "cells": [
+                16,
+                32,
+                145,
+                79,
+                170,
+                108,
+                55
+            ],
+            "answer": "Offbeat",
+            "hint": "Weird, eccentric; unaccented part of a musical measure"
+        },
+        "N": {
+            "cells": [
+                150,
+                36,
+                10,
+                64,
+                77,
+                102,
+                132
+            ],
+            "answer": "Neglect",
+            "hint": "Common cause of decay"
+        },
+        "O": {
+            "cells": [
+                181,
+                115,
+                74,
+                18,
+                160,
+                38,
+                52
+            ],
+            "answer": "Lockjaw",
+            "hint": "Another name for tetanus"
+        },
+        "P": {
+            "cells": [
+                20,
+                133,
+                50,
+                70,
+                153,
+                90,
+                118
+            ],
+            "answer": "Ichabod",
+            "hint": "Crane of literature"
+        },
+        "Q": {
+            "cells": [
+                83,
+                67,
+                159,
+                175,
+                5,
+                121,
+                139
+            ],
+            "answer": "Vantage",
+            "hint": "Position with a sweeping view"
+        },
+        "R": {
+            "cells": [
+                6,
+                42,
+                131,
+                27,
+                116,
+                72,
+                158
+            ],
+            "answer": "Exclude",
+            "hint": "Bar from membership"
+        },
+        "S": {
+            "cells": [
+                60,
+                40,
+                172,
+                146,
+                119,
+                12,
+                97
+            ],
+            "answer": "Selfish",
+            "hint": "Looking out for number one"
+        },
+        "T": {
+            "cells": [
+                57,
+                104,
+                4,
+                127,
+                169,
+                149,
+                43
+            ],
+            "answer": "Imhotep",
+            "hint": "Name of the mummy in \u201cThe Mummy\u201d"
+        },
+        "U": {
+            "cells": [
+                71,
+                93,
+                156,
+                128,
+                31,
+                114,
+                54
+            ],
+            "answer": "Newbury",
+            "hint": "Boutique-lined street in Boston\u2019s Back Bay"
+        },
+        "V": {
+            "cells": [
+                17,
+                177,
+                33,
+                88,
+                63,
+                157,
+                122
+            ],
+            "answer": "Raffles",
+            "hint": "Gentleman thief of British fiction"
+        },
+        "W": {
+            "cells": [
+                176,
+                117,
+                44,
+                62,
+                2,
+                95,
+                141
+            ],
+            "answer": "Unearth",
+            "hint": "Bring to light; dig up"
+        },
+        "X": {
+            "cells": [
+                11,
+                120,
+                61,
+                178,
+                142,
+                89,
+                34
+            ],
+            "answer": "Inflect",
+            "hint": "Alter form, in grammar"
+        },
+        "Y": {
+            "cells": [
+                58,
+                24,
+                162,
+                73,
+                92,
+                125,
+                138
+            ],
+            "answer": "Nunatak",
+            "hint": "Rocky peak sticking out of a glacier"
+        },
+        "Z": {
+            "cells": [
+                14,
+                65,
+                82,
+                179,
+                154,
+                109,
+                46
+            ],
+            "answer": "Sargent",
+            "hint": "\u201cMadame X\u201d painter"
+        }
+    }
+}
