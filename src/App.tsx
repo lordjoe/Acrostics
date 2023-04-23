@@ -18,7 +18,7 @@ function App() {
  //   const name = queryParameters.get("puzzleName");
   //  alert(" Puzzle Name = " + name )
 
-  // filename="filename=files/puzzles/Acrostic-2019-12-8.json";
+  //filename="filename=files/puzzles/Acrostic-2019-12-8.json";
   //   filename = "hg";
     if(!filename)
         directory = "files/puzzles";

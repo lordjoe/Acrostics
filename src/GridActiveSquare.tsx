@@ -19,15 +19,7 @@ function GridActiveSquare(puzzle: Puzzle, index: number) {
     }
 
 
-    function getClassNm(): string {
-        let gsx = PersistentObject.getInstance().getGameState();
-        let activeString = "ax-grid__cell";
-        let activeCell: number = gsx.getActiveCellIndex();
-        if (activeCell === index)
-            activeString += " active focused";
 
-        return activeString;
-    }
 
 
 
@@ -62,13 +54,13 @@ function GridActiveSquare(puzzle: Puzzle, index: number) {
      }
 
 
-
+    let clsnm: string  = gs.getGridCellState(index);
 
     let letter = puzzle.letters[index - 1].getGuess();
  //   if(letter.length > 0)
  //       alert(" cell " + index + " has " + letter);
     return (
-        <td className={getClassNm()} tabIndex={0}  >
+        <td className={clsnm} tabIndex={0}  >
             <div tabIndex={0} className="ax-grid__square" onClick={setActiveCell}
                  onKeyDown={handleKeywordKeypress}>
                 <div className="ax-grid__number"> {index}</div>

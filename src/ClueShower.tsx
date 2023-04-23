@@ -11,8 +11,7 @@ import PersistentObject from "./PersistentObject";
 
 function ClueShower(props: PuzzleHolder ) {
     let puzzle: Puzzle = props.puzzle;
-    let clues: Map<string,Clue> = puzzle.clues;
-    let keys: string[] = Alphabet;
+      let keys: string[] = Alphabet;
     let gs: GameState = PersistentObject.getInstance().getGameState();
      let inner: ReactNode[] = []
 
@@ -23,12 +22,12 @@ function ClueShower(props: PuzzleHolder ) {
 
     gs.redrawCallbacks.set("ClueShower",redraw);
 
-
+    let clues : Map<string,Clue> = puzzle.clues;
     for(let i = 0; i < clues.size; i++) {
         let letter: string = keys[i];
         let isSelected: boolean = gs.isSelectedClue(letter);
         let x  = clues.get(letter);
-           inner.push(ClueDisplay(puzzle,letter,(x as Clue) ,isSelected));
+           inner.push(ClueDisplay(puzzle,letter,(x as Clue)  ));
     }
 
  //   let identifier: string  = " <!-- ClueShower.tsx -->";

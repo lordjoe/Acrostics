@@ -72,6 +72,7 @@ function PuzzleGrid(props: PuzzleHolder) {
     }
 
 
+
     return (
         <div className="game-grid container focused">
             <div className="answer-sleeve">

@@ -7,10 +7,10 @@ import {Puzzle} from "./Puzzle";
 
 function RenderClueCell(puzzle: Puzzle,letter: string, c: Clue) {
     let identifier: string  = " <!-- RenderClueCell.tsx -->";
-    let cells: Cell[] = c.cells
+    let cells: number[] = c.getCells();
     let classText: string = "";
     if(puzzle.getFocusedClue() === c)
-        classText = " selected";
+        classText = " active";
 
     return (
         <li className="clue {classText}">

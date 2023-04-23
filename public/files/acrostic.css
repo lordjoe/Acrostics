@@ -277,7 +277,12 @@
 .container.focused .ax-grid__cell.focused {
     background: #a7d8ff
 }
-
+.container.focused .ax-grid__cell.clue_shown {
+    background:  #F1FFFE
+}
+.container.focused .ax-grid__cell.certain {
+    background:  #FFB6C1
+}
 .container.focused .ax-grid__cell.active {
     background: #ffda00
 }

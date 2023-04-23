@@ -66,7 +66,7 @@ function AuthorTitleCell(props: PuzzleCellHolder, focused: boolean,active: boole
     function setActiveCell() : void {
         gs.theActiveContainer = "AuthorTitleSection";
         gs.setActiveCell(cell.index);
-           gs.doRedraw();
+         gs.doRedraw();
      }
 
 
@@ -88,19 +88,19 @@ function AuthorTitleCell(props: PuzzleCellHolder, focused: boolean,active: boole
     }
     gs.backCellCallbacks.set("AuthorTitleSection", prevCell);
 
-     let activeString = "ax-grid__cell";
-   if (gs.getActiveCellIndex() === cell.index) {
-        activeString += " active focused";
-    }
+
+
+
     function handleKeywordKeypress(e: KeyboardEvent) {
         let gsx = PersistentObject.getInstance().getGameState();;
         gsx.theActiveContainer = "AuthorTitleSection";
         gsx.handleKeyboardEvent(e);
     }
 
+    let clsnm: string  = gs.getGridCellState(cell.index);
 
     return (
-        <td className={activeString} key={cell.index}  tabIndex={0}  >
+        <td className={clsnm} key={cell.index}  tabIndex={0}  >
             <div  className="ax-grid__square"  tabIndex={0} onClick={setActiveCell}  onKeyDown={handleKeywordKeypress}  >
                 <div className="ax-grid__number">{cell.index}</div>
                 <div className="ax-grid__cheat-flag"></div>

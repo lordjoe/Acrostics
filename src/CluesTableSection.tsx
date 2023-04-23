@@ -25,11 +25,43 @@ function CluesTableSection(props: PuzzleHolder ) {
         inner.push(ClueTableDisplay(puzzle,letter,(x as Clue) ));
     }
 
+
+    function nextCell(): number {
+        let gsx = PersistentObject.getInstance().getGameState();
+        let pzl = PersistentObject.getInstance().getPuzzle();
+        let as: number = gsx.getActiveCellIndex();
+        if (as === 0)
+            return 0;
+        let clueLetter: string  = (pzl.clueCell.get(as) as string);
+        let c: Clue = (pzl.getClue(clueLetter)  as Clue);
+
+        return c.nextCell(as);
+    }
+
+    gs.forwardCellCallbacks.set("CluesTableSection", nextCell);
+
+    function prevCell(): number {
+        let gsx = PersistentObject.getInstance().getGameState();
+        let pzl = PersistentObject.getInstance().getPuzzle();
+        let as: number = gsx.getActiveCellIndex();
+        if (as === 0)
+            return 0;
+        let clueLetter: string  = (pzl.clueCell.get(as) as string);
+        let c: Clue = (pzl.getClue(clueLetter)  as Clue);
+
+        return c.prevCell(as);
+
+    }
+    gs.backCellCallbacks.set("CluesTableSection", prevCell);
+
     const [doRedraw,setRedraw] = useState(false);
     function redraw() : void {
         setRedraw(!doRedraw);
     }
     gs.redrawCallbacks.set("CluesTableSection",redraw)
+    gs.theActiveContainer ="CluesTableSection" ;
+
+  //  gs.setActiveCell(gs.firstClueCell);
 
   //  let identifier: string  = " <!-- CluesTableSection.tsx -->";
 

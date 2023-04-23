@@ -13,58 +13,35 @@ function ClueCellDisplay(puzzle: Puzzle, clue: Clue, ansX: number ) {
     let gs: GameState = PersistentObject.getInstance().getGameState();
 //    let identifier = " <!-- ClueCellDisplay.tsx -->";
 
-    gs.registerClueCell(ansX,clue);
+
 
 
 
 
 
     function setActiveCell() {
-        let gs: GameState  = PersistentObject.getInstance().getGameState();
-          gs.theActiveContainer = "ClueCellDisplay";
+          gs.theActiveContainer = "CluesTableSection";
         gs.setActiveCell(ansX);
         gs.doRedraw();
      }
 
 
-    function nextCell(): number {
-        let gsx = PersistentObject.getInstance().getGameState();
-        let as: number = gsx.getActiveCellIndex();
-        if (as === 0)
-            return 0;
-        let c: Clue = (gsx.cellClue.get(as) as Clue);
-
-        return c.nextCell(as);
-    }
-
-    gs.forwardCellCallbacks.set("ClueCellDisplay", nextCell);
-
-    function prevCell(): number {
-        let gsx = PersistentObject.getInstance().getGameState();
-        let as: number = gsx.getActiveCellIndex();
-        if (as === 0)
-            return 0;
-        let c: Clue = (gsx.cellClue.get(as) as Clue);
-
-        return c.prevCell(as);
-
-    }
-    gs.backCellCallbacks.set("ClueCellDisplay", prevCell);
 
 
 
     function handleKeywordKeypress(e: KeyboardEvent) {
         let gsx = PersistentObject.getInstance().getGameState();
-        gsx.theActiveContainer = "ClueCellDisplay";
+        gsx.theActiveContainer = "CluesTableSection";
         gsx.handleKeyboardEvent(e);
      }
 
 
 
+      let clsnm: string  = gs.getGridCellState(ansX);
 
-     let clsnm: string = "ax-grid__cell";
-    if (gs.getActiveCellIndex() === ansX)
-        clsnm = "ax-grid__cell  active focused";
+    //  let clsnm: string = "ax-grid__cell";
+    // if (gs.getActiveCellIndex() === ansX)
+    //     clsnm = "ax-grid__cell  active";
 
     let letter = puzzle.letters[ansX - 1].getGuess();
     return (

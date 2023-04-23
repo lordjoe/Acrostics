@@ -6,14 +6,14 @@ import {ReactNode, useState} from "react";
 import AnswerCell from "./AnswerCell";
 import ClueCellDisplay from "./ClueCellDisplay";
 function ClueTableDisplay(  puzzle: Puzzle, letter: string, clue: Clue ) {
-     let cells: AnswerCell[] = clue.cells;
+     let cells: number[] = clue.getCells();
 
     let inner: ReactNode[] = [];
 
 
     for(let i = 0; i < cells.length; i++) {
-        let cell: AnswerCell = cells[i];
-         inner.push(ClueCellDisplay(puzzle,clue,cell.index));
+        let cell: number = cells[i];
+         inner.push(ClueCellDisplay(puzzle,clue,cell ));
     }
 
 

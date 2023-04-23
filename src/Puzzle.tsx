@@ -31,12 +31,13 @@ export class Puzzle {
     book: string;
     letters: AnswerCell[];
     clues: Map<string,Clue>;
+    clueCell: Map<number,string> = new Map();
     source: number[];
 
     dateX: Date = new Date();
 
 
-    focused: AnswerCell | undefined;
+    focused: number = 0;
 
      static instance: Puzzle | undefined = undefined;
     static  buildPuzzle() : Puzzle{
@@ -94,7 +95,7 @@ export class Puzzle {
         return true;
     }
 
-    public setFocused(ans: AnswerCell | undefined  ) {
+    public setFocused(ans: number | undefined  ) {
         if(this.focused === ans)
             return;
         // @ts-ignore
@@ -180,7 +181,7 @@ export class Puzzle {
                 items.push(cl);
                 // Fix later
                 if(answerIndex ===1)
-                    this.setFocused(cl);
+                    this.setFocused(answerIndex);
                 answerIndex++;
             }
         }
@@ -221,6 +222,18 @@ export class Puzzle {
         this.clues.set(index,c);
     }
 
+    public getClue(index: string): Clue | undefined {
+       return  this.clues.get(index );
+    }
+
+    public getClueStringN(cells: number[]): string {
+        let ret: string = "";
+        for (var i = 0; i < cells.length; i++) {
+            var index: number = cells[i];
+            ret += (this.getCell(index) as answerCell).getAnswer();
+        }
+        return ret;
+    }
     public getClueString(cells: Cell[]): string {
         let ret: string = "";
         for (var i = 0; i < cells.length; i++) {

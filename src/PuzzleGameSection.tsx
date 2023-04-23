@@ -8,9 +8,13 @@ import GameModels from "./GameModels";
 import PuzzleGameField from "./PuzzleGameField";
 import PersistentObject from "./PersistentObject";
 
+import {GameState} from "./GameState";
+
 
 function PuzzleGameSection(props: PuzzleHolder) {
     let pzl: Puzzle = props.puzzle
+
+    let gs: GameState = PersistentObject.getInstance().getGameState();
 
      let dateStr: string = pzl.getDateString();
 
